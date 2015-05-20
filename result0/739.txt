@@ -1,0 +1,504 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIYHQKa0cgh9sJDDVDi2dCCBt-v1nKDfRKC3iN-Q0d6ntvUpB-wYlh4pm1uWoGT1KiUI_JCrbXWGHH6eiDLj8OXAW1dWNR-B9y8H1jFqu2iX6EYjxTNiTuRUmoI3Ey78NT1Tu6ll7CliWqp7rAkKhqFNNfOk7wg7hrmJWTveqmYwRRycAXPkdXnIa7bcqsQWKfctpKfRcJebtgWt5qnw_SX7rKGu9LM4dsLkCtSwsvDG3XhL_lx_uJQa0dOYMlkm28SvlWSH_kZbrvvVgZWpHSHocjvbTKHidGSxKqEM56kr_77WAYyVyJ8wY2o5Jbi12hIQYpkVgyzKBMFd52WSDvmBqRoUF3hFW7d0Gxuh6-w1SBGbHEgIrHs",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7308228,
+               "lng" : -73.997332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7321971,
+                  "lng" : -73.9955808
+               },
+               "southwest" : {
+                  "lat" : 40.729542,
+                  "lng" : -73.9996309
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ff00f4783b7db6dd8742676d8dcb8cadaf478c68",
+         "name" : "Washington Square Park",
+         "place_id" : "ChIJjX494pBZwokRGH620d9eYfo",
+         "reference" : "CpQBggAAAEmq2NYnuDcYnl4DnQBZOqB5HcbIdn2fyWeOrqY9Vk5iXXo0UxOIEWt90DUehpIuZo1dinJiaiU__SdOWzmogOSWt9qDSonH_SerpeV3mNUOauJoUl8TLxphBrU56TVy4zYosamWpVcyaVi_8s6vOpDrI2XMUhwwFbVx-gq_MMFWK-ETjgNljp73XHHdZuzHaxIQRtZmMqBAMlJYt1HHXpmAnxoUclGkdAntHc8iWB3ynlD41BLM8Uw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7335719,
+               "lng" : -74.0027418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.742136,
+                  "lng" : -73.9907956
+               },
+               "southwest" : {
+                  "lat" : 40.7253563,
+                  "lng" : -74.0108156
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "adbe463df1d2acf91d3251423c73ff1b938f9061",
+         "name" : "Greenwich Village",
+         "place_id" : "ChIJpxMyDJRZwokRX0XfgiHEgog",
+         "reference" : "CpQBkAAAAKIDIAt4pfjRvIAvUKsXJokl6MMROnTi6UsIkUQ3iyImnacN1hPDvPJ3aZ0F9Dl2MwBHVu-DWe_PoBY2feO2zJD7FpnJvv8RoAXD2250JPwnauYVCr2mHzSUIkq3j8_W7nFW-H-T4Hw7p5nwscJeD4MjBjxgUkH3i8j3hOuXtUr7NWsvUbKRoD1Q7FEixRcexhIQDQ3WVlq3iUSDDjJ_ijshVRoU2l6kO5IIuUBLPhtYL9bRy1_rRro",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734507,
+               "lng" : -73.99331100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "57d2eed3704c3f2e6668578944ba8a4cc6d09df5",
+         "name" : "Strip House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhsWaFqm0DpG9nEmrp3NbmqSiA4GP927TDG932zr8jhvol-6fyELt7r-cu3xdxc9cszZqYFbYUmlkRqKNAExoKdO4Bm24pp4NxRyck-c-Q2SHJwcaCj5nZJKbJ4lmunbRhDWwQYGE_hNnmAsTwN4RNRIQCf_27WZEH_o5PYYfPYa5dBoU42M8IT_aMG_Cec0XWQGQAUivexI",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJZ_Isy5lZwokRVkRwOFISdfw",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRuAAAA_wYVNk8C5aUuu-giJTz1kLNO6RL3HlNerqRrDOS0IDr3noXuSVLnVpf2JnUPoownSY3Drd0jLzzESaxQellLXRn6KEdGLN30Ld-6osv6hmkUJAPYSsqsW4KHLjG9RAdHI_S5GJ4FQNSXsYFeYpDcMhIQQ8C5oHIoxQWYRGsttxVEqBoUvszHZSkkcrj6VfMORH08rlRKW8w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "13 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734083,
+               "lng" : -73.993802
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "343b062c1a8af2bd222c4aedad863f3f91391b0a",
+         "name" : "Gotham Bar & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1215,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAYdei6lrMirbe6Mxgjaa0cDYdCBDM6AZ9O3OsoSv6IejuF2h9mle2XaVJyo_DKmPTVuh_R5RtY5xhRaKtpwN9TZpVW-9E6mslz3fdoUo1JAs9VDw_4obrOYTzDU7EAhcvvvSM5MuIuzn-K5T_1FnU4BIQnqLfF4z496U9BSAXv7eQdxoUIbnOL-J40tDPLQlwSg6KN7fa9kA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJZ72FzplZwokRmcA7CQzDMj0",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CoQBdAAAAEyi4CPDIYAnz-oDztEEHYAhMphxpceweomVAZ-xjXIh8hFbwec4GiFqjzZnV-3cM3kOcYP33Bf6w6KYREcpImIhG76c9JtGj16M8_xrmXUX4MR265c4D2KBvvnW9uCMwcxQn-V5MlE3whjLTKyR9zxWV1zTwP_9iGy9611L8sU5EhBvC6tL-jttv1yKBPLwuqBxGhRqC1Y1ctIBr_qh1SGThpowEGYGsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "12 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733122,
+               "lng" : -73.993877
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a830c25c87c15a6c1b4993856467d40346f7b189",
+         "name" : "Institute of Audio Research",
+         "place_id" : "ChIJx4F46ZlZwokRuagZHMbc2j4",
+         "rating" : 4.8,
+         "reference" : "CoQBfQAAANvqN4OZ-wG5X5fpYYVOpaLEWeOojx_fpi59uXWUt3CNpC4sH0uCwpF7radD3PwTTycIaIUYs4k4oRvsXbZ3oEpviXqyu3SZKReGZZ5G_dqBNwGlnNYJt-hQusYgON5729kaQEPHHyf2SFQ1krbD7xQmEL_ZDBgQpn4GAzz2QK7WEhAcqBffWJ9h0oSqW1a-iABbGhQyZee5X3s0_PmlTafuRIYE6tnx_w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "64 University Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73113,
+               "lng" : -73.99586600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5bad59450d7b4ba2d48e1ce74df3083a766156b",
+         "name" : "New York University Arts & Science",
+         "place_id" : "ChIJe0cjvJBZwokRQvUBwWERHkw",
+         "rating" : 4.4,
+         "reference" : "CpQBhAAAACHyQvpq1Pi1Zy-LYpG9IdqZuTchI8QvlN4n8OCRlyUf_1IKq2dReqUCo9oZ8R0W-fpiB60o6Np0cyiZzh5i7rG2TQR9OUNtQUCuoedNftrVSRx5_u8vRWtlVUcQ-odf1A8HXmzgJD-HeEsWjgJhNfgmjyxX6GL3R44oTOFAdGyji-VQnthtdvSfawt5sgvzeRIQDYb4hUknm1JBr7QOxyNO0RoUz6bLPePqEaucsf7bXB7IBPuVqiA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "5 Washington Square North, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731197,
+               "lng" : -73.997114
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f066350d1d8f454b25e3097a206d6fdaf62d2d67",
+         "name" : "Washington Square Arch",
+         "photos" : [
+            {
+               "height" : 697,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAFGrG5MVwVdKfHoJaqTccx0_YSUvIyjSffLwddfZ88GYTW4yktR5AceKCF7kBpyAlK6DZjeNkjdLH0kpNzZNXSfkspJBmHIIMNJY5SEx1UYrl9mYPsuTfBxTYYgK0Rf6cKly7S1vIROuR6UKwwJOieCxv7fuO1vnugngna07OyeuEhCoXqJa5IgH6LgLM97S_U2pGhTWaZ0bMOd6JwdksdTN4bHN8hM6qA",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJuxee3ZBZwokRRLFIh0hoeG8",
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAIHSE7k_5Omyl1Du32pdffgiOW8ZqgRDst7KhmL8pmqXeu_1y1pTKKcpL6bRLM0tGfYNqHzWs4W2TayrJKTeuNkBQEgdmKzCGZwUttp8K7OIuCqo-w-RLjwoTpfP01ksKQDQqrEZfGYfRqLfU1FKRKdHxJAOQo4CWkZT9NbLGHUeEhDwzqA5emQfa4mhfTJTgASHGhSjHluCvZIpXplXRCeeBd6CugtD2g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Greenwich Village, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734589,
+               "lng" : -73.99540399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "50df221537e4bcaf78a311d632336aef0522d7e5",
+         "name" : "The First Presbyterian Church",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAOuC_uXv8abWYFCJWfaZTPqdv6OqCk9GdUGPG9FHlqNOyibNTCXkK4hd_aPYttRSlvDnVZfRxhEU9iAOMrXYT919U3kfJZcfGQbDHLrlGVNwjWmdJgx6Mz6trZZFjES3d_Zc7-nYNro9wdVq6mW6IbhIQ8VmzRIYbEusxlFAHBFG26RoUDi_tE6Fz5Lfy8_poy9bB8epTAQI",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJA58OgZdZwokRVc47Mv0Lg_w",
+         "reference" : "CoQBgAAAAHO9gaTsvxwWyf1A-s3Wql8WOkXNe6sYtHQ9_nBxjqizfl2kVLDN_7l18IoBeIl9CkrkQR_Ohn1rwxYvZHbQHuwITo5IIwIVuZ6wwqAnIrcodPgmIcoENNFtNVgV2U_soezm14150zW4lkntPCNWYLtbPjALH9Fx8qRY5jY0B_gPEhCWUXjyBIzhFtwmVfarZIhcGhSEqPx2YHhna0K6ZbCLUm9220Cgow",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "12 West 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734286,
+               "lng" : -73.994602
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0af4d9e18a6eec12cb2daf3af9193d75e2d91974",
+         "name" : "Salmagundi Club",
+         "place_id" : "ChIJnWKC1ZlZwokRvyYPpYO_HJw",
+         "reference" : "CoQBcgAAAPQj4I0W4N0gh_11zRHuGF4lN2i3VyvssZDLVcZqENKOQB-jRjSf0JoDJlMn8D3Cf5rYObdr-CFoYKwVOpGuhcPpvcFqILvTzuk-8_kGnUj9MDqpj2VBKl8X_laP0e4Rbi2XwUnKNglmg8GfNOUdEJ7gd46O6PdYqrJXYpMMTNDzEhCCTk5YbUXd6RshLcl39DkJGhRlW0hmlw2Ou3hUAXWLg8Tw6_UIcw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "47 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732061,
+               "lng" : -73.99617499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d4c327b34c1dd49b67e69103485f85c1968c4de2",
+         "name" : "OTTO Enoteca e Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPmE-ubLOumBHkgIMq8lgo09-XtL9avEEOU3ZtyIaGrvBb-oHXv16U6BIdeFRbpQHQvszZ7chz-MK0VrYzxl-FFDu0Xqvy3c7JZA_haNfA11RZFVskQPbR8dmPIyGO3R1TWCiEI2yWL6t7PJhh2Jl6xIQk4Z5QhQEttsVoT-CwBjCehoUn4100sO7ClaC2jU99zzEymI_XuI",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJcfHLy5BZwokRafTR9FHrpNw",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBegAAAMqdBHocUVSyL9Y2woLQW2LDS8s_3TuzlaQ-orFENqBHYEcjEhWfzcalLlUNuxTHV8s15ZEI0LHsj6w2KkjXIrDvifXP09Cl-j-fbc-skZECpPMvex8zChXUxDBHE1KfBGRXaFyFSipxF7TbKD4ag3-PHztagiBzjqt6CPg7vDQeEhDCe2ZjkR5MKrTdV0VvJRGXGhRCzF_EcBvB7hG35ljP78uZVGFeEw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732463,
+               "lng" : -73.997332
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "870c416cdaaa2a18888a3be20677b96de1241179",
+         "name" : "New York Studio School of Drawing,Painting & Sculpture",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAA7p1kfXsGOXqHASte3DQiEo-ezRy6RcFJCQtXEz0muEdNrCCzp76zhUuN9yezqwYK6VM04UjZCwtiyFMXm5EpWj8ZUw4XuFooUFXJKCdx-RG2azThrGQclNcaI3Ux1sPzIFBEiISPU-EhOkOXbPGPKBIQkxMX7GqaxAqjfuvnJG1ltxoUKIG7hUizfDvq-eb038JR2HTGimo",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKa4DLZdZwokRO11_CrX7qMs",
+         "reference" : "CqQBmgAAANGI_VzSeyRxDkz_QFmwB3BLxrOB47u2-1waLiiIQU_rLof5M07Fi4v35FCnMtUxZerzKY2g6tdMj2f_rTYaHCtXVxrld-txL6ld54SsCWnoDgCFXSsYkQEmmKgollTJ6wGjLJGzhT77myrxBY-p12qOpuSv_b_rMFyiaZb3sWhrcjFLnQhTnHbsYvyMa9SKmv05nzjFkDB_zQ1OG7TJLesSEJazY9QcOnrw-lasD-CPuggaFLNpyk4DgZUStswIWz5j384-PUkB",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "8 West 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733768,
+               "lng" : -73.993137
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "5aee4cc89ff2bb699aabd490bde527055803eb3b",
+         "name" : "The Grey Dog's Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANvzzPA2BpyA-pRW3C_Xwi1d40JeFKMSuQ990SkGpZbOUUEWb4XlIkTOwqVW5naKmbPgHjnkT0ip6BjAn__LJ8t_xknmQAQ-gZrBG51WnDRBUCiyQBBV_SuxJHKN2oa1RB-HTn1Rj_uwNNlH0h0hHyxIQHSfy48_Ey-bSvSmt-G6bixoUVgp6BXsaXIPwDgQHzlcoTb8p5cs",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJTaeWt5lZwokRj5-44r7fWgY",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAInncYZ-1J-y_7gSxSJYELyd7k3BOHRPdlFoGvQiWkZ28Oyj9WWNv6Pe5UfK9jriU3h6NFBavVMdBqOgkqq5kwOdHV8K1QtCIyfzSQtJdUCYCLUBT9JmZWk2INLQdLNKCrrL5Kgn5Cps5zCb1hi0vTxj4gkxPGrpBy_aJtNi68Q2EhCChzn0wTNQrf6PuMMpwZXvGhTxXdwh8iMWJyZ4yP_48SNglarI3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "90 University Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734161,
+               "lng" : -73.99574699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "157592d971b7d68487d565b57a8b2285a11ca9c5",
+         "name" : "The Church of the Ascension",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfwAAAE11N_1bcnDSjKKTXrMoJfmh1U4Rse4q7bWwzOY1iwqg0UU2tJtfqbfjnVE1l05MA9Wnna52wkCbgjde64k2CqNnvztiHmgUspnX-Z7bRNBu4enpMH--K8VI7uDmW7eRtb1OiKr3BHvHWpqBLVx1MYmhZR7dx8OIGmQ-lJ4HqgGCEhCCWppubKl-y8B0J7j7UDziGhQqSBMseR-2Aj3W66ZJ_xEJRjoJnA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJo33bcZdZwokRzwHVNGKrgds",
+         "reference" : "CoQBfgAAAJ1ivCHTfUw550h5vvhu-zxD67V39DFvBwlTVtdCkMgYsr-6QdKtx6u_SJTo5t0ZhpaJxhS5zSZb5klorONFLjs3RXHDJjjJa1-Hxg8NH9kBR6uG6MEs22YCr-VRP586bHhTIV-9j3pcY7xunX2Gl97oM0AooRcsKc4qapNccNrREhCBbJDprBYbheti47pwRW2AGhRwwM_PUyBncli6GW_nL7uYYi2_Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "12 West 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733956,
+               "lng" : -73.993437
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "8d246c7895d58e4cae4727392aca358f93d0be96",
+         "name" : "Cinema Village",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAAS-jFfU6USpIg4yk4v2utYkN_hoqn6XW7wNgXd4EeE4nyqwLf1vQZADXKnqYVAOXADsmnucJXtyaHj_a4S-iI8O1H6mYQldiXt1tQ6AoEvQQJ8WjYZmElhQEvEwlXK6Njxu4-IRrafQ712ItDpshCBIQqnV8JLj6Ei4Hd4F4aZE5ihoUuGZsyHuc3GQ0DOHJ2K_JcKw2f10",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ3V0TyplZwokRQZas6j2ifL0",
+         "rating" : 4.4,
+         "reference" : "CoQBcQAAAOGuqckDpHXqRUnwdqict30ZojlzS3a0VRFTTVSUCdk3j6iFq1ypogdVri6y3y2MOV7rVXJladfzS6EtOy2LuqvNYu3jeNnVTQHDFLBwpOy1uiXCV5X0LpXdzAL9KRW-kUI3gVlYnG-qDy-OUPFubXNCpEM_iox2wZyp2XvnFma3EhCs5wGq-Y4J_ZaIlSaYF1blGhSP0Nd6ClzLyDlhCS4IX54GW_mjtw",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "22 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731925,
+               "lng" : -73.99518399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5388b95026d03f33c4e3b5e9ed292591fa684672",
+         "name" : "Village Party Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAy_yeOSlfv6gHx0zNqZp6PtHnlc03BrasUBy9N7CE0MIcTlJZr06yBqXgJp5FAKwJR0HvX6jZBtjmHQiNFQFKT0fGWmAz8jeoHFPeBz_qrKQdGrZmDaLtaZF2W-psWcBToDEFZehkuwkxjlmBDxFhFRIQeW36A2I5VP-tEfIjrn3qBxoUvL8U5Hg0c0kWXeZWNny3NNVuBrE",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJg26YrZBZwokRRDg1Sm6bIuw",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAALoimKapo8RiB2P2dxorsqjUc6x9HC9pPM_8dGMkBKA60gLiWz3VCLTH_jDkgBepz9Sd6dftA2BgtvcXlamYg2d_mXPgWJgITbSyQfpcWC-OCA73jKxGqmdlwuV7oZCE_lAcEsSmpxONnuq_SGiqVW26oG83Mw-AQwPe4BXvX9yDEhA_XAVZfqCuvm6CepXF-9y9GhTRN9IuaWUi-Uo1F5_EmBZlDHwaMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "13 East 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73284,
+               "lng" : -73.997347
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "a8728627c05b6c826a2a25bb153d05b38f2fed0a",
+         "name" : "Beauty & Youth Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1aS0LpdZwokRr9SW0BgYdP8",
+         "rating" : 3.2,
+         "reference" : "CoQBdQAAAEpwiAegofq-1Sq6OHlb9TpkRAQ7T12CWAs3iLzkyefgXhO0BL-XzyFYxEjnx3yTvjNOsmzwlYR0mmeYkQeUJTx0QR9Sx-6rzVULmZ7mGZv8LGIk6bCWKwzXZsb7oySgMKhMy_vFKIe2UdBjcCVKe65810uwguXYXwZLQN_HbJqxEhCBuuPyO8fXvts9ny-icNLIGhQb9vmUCXEGjsAEcGg9f9IC758dZg",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "hair_care", "health", "establishment" ],
+         "vicinity" : "17 West 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731951,
+               "lng" : -73.99426800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b8189d3a16f61689cb2a4bc24144d1b9b6afd3ba",
+         "name" : "Knickerbocker Bar & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVoOzWauZSBojB2Dsm2rAmyjQnF0rwtgOocAGp6HEtTjFOYyycrA19na0tkWvPjNVZVgpVJHV-jB7n3bUCtmg1WAvwLm03azSQhiTbCYAoxll_r1O2UjVdYBG5zc1jElKfSXbYQdT61uPlTSIEgzOdhIQ4ZV_z5lPD-RtGaCfrsXt8RoUFq2g99uEPMSSvtg6By6vRJ0-Zp8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJeb6z-JlZwokRiZa4J1J0aGk",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CoQBewAAAB4xbjfQ5hh_ayE0lpk010_6BREXq47lm0Sqzi9I5JkRnwha1MY3bAc5db1Zbk3dC-BYazQ6aLPFFLoWZZO6zueUuM3mxhQvWvmILUJ1vF3HbkQxEIkmyXemO7RjqU6TlpY4hMfvyD3Sf4km6k_xfgUKUmGyaq2QbZr98vzjMttEEhC1SW57vxJuoTC_RlQuVJohGhRYlWcbcWNtAZ1PiOL8LPpH-aVwVg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "33 University Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732629,
+               "lng" : -73.996866
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "49eba09c7f8a7ce841459f06938515c387462fb2",
+         "name" : "The Marlton Hotel",
+         "place_id" : "ChIJuac4MpdZwokRPSTvSd3DmME",
+         "rating" : 4.2,
+         "reference" : "CoQBdAAAAKKsG8Datf60NVxEJgvaMUwJ6dbuCWw05a4DZDhQFUML5BlGAzWpfIFYcv0xE9uXtnUxLL9Aq6ry7OpivOO5HMSWXi1-jb2k0u_vx6cqP8347EvGXc-sOo0ogMWqKIW9SKpXfBqn9Vv4iJN7-KtOrAC12JoRycnBRmQ8999HxOtPEhArEn40ErWnMmpqSoUwNal7GhSZBW0Et_wYlGzOKnd1roUDBcjB3g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "5 West 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731271,
+               "lng" : -73.994424
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "437a53559599b007965d31959733faf329f1ee29",
+         "name" : "Cafetasia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUxHDFlgwokyfDYfMUsM8_pKk5FZ5EwF3iikbpcPafgFkxboI-IG813xY1k-D2hCivJlS-RDMrk7VfXpXGjqbGXIA6tFxHFShGnnzZVsQCKyXFybOcJF3NcVljdTTRpRdyO6WVO1hg5qP4phBj4GinBIQP3I9C6OR54_QU2fedjGzSRoUxgiCQ9zWzSn0VZWMwW9a9nNcBt8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJkxnBCJpZwokRVE4iLltxQnc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAAfJ1popq3-S6y5nKPH9tcJGBcfD2-rePJgCE_M6dBVP-QFq8t_vZnbF-M2ywWrnEpa94dqYCSV-Mdhxi5JNF2NhjANtTpRAcfAfc60K_pXUPwPw2Xd9pMeq2eP5vIfuC7QDAELf07XmuJ9clGWNN_ehIQq18ap_Hs9kndDGuttkG6aBoUNtaoRlKp0YnQ0ttB4BuZYdoLGzI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "38 East 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAGLOAVZuIa5DZPfTVI8ZfAtI2XjRQQH19BQy_9-jX--19z5EePfBqNhVH4GOP59KDWnAbBInDStt6QSf5mFQizJIyZJekY6Sb43bP4WBRF_cU0g1XW3Mgv_IkyzZnLvtp89i4T5nVZc4enWr55uEAXWZP18pmc1_gIFfjwBfnvlYc-XavwILrfqiac_fMKUkaRIQHtjaZi4__t17Hz9zFIhjqhoUUe6h-_mXyyjzxgn13EPKZ7Xmvu0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

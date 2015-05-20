@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAPDqrhnmvjKrJcXcFBE3ibcg6HSPnSrpfSuVy5QRatqruOEN8Wht2eEEF8ahm0KqVu9wmV36jUe7y7j-8kzTeqTvc3Pmv0ywdy0-yB7FQQbM-8qf0JceTY-1-FKivxzZbRINZx2V7xJ9L_tlbhL2g1zhyQ9sKtckwl1eNdz5lPq753wEvOuGp6fp1Yva0W-ywS6HnLCfrthLRD2vU6sVh8wSECtcZPbEsl_KJ-A3Ui8hZoQaFO2M5Yd2gA0MNG4vZmP2FSSR5P-m",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAABOOxyqQOFmoUWv9WiFtyk_E4PmR4FaOX-TbMF28BPXn1HbTVLhnDXwOrSTrj0OlqSM3lawdxxCkbGZaaxVjkXSPh31-5w1drVDFUnIqmUGfox3BWIYwlLvBTmN4IR1_LYl87kLVJT4Z9lo3M9HEG7Rwy9ci7-o87BO_5O9ZpnAr7T9Wt72LbqPRvvrU5hQPtxIQjwPeA94w4l3VIWa4FNijWBoUJ0MXzE9yjbugiz_R1rwH-gX8ous",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

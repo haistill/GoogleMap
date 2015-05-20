@@ -1,0 +1,526 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAKxLXOuDVrg2eiHmydzWaDSFUufN3kXa9aQbRI93K0K7bO-gPeBdWtqlhLcA_XD4CkJ7f8taq5pQxOrygPhhNPitUXLjofHR3a7yjJqP6FE9geNZWyPQZqg-uyqhYKQbcAsWQO3cQg44upfk6f2BLBjflZ7GLHj0j_B6xGH7Lp3PGFSQuJl-jzcWIXXZc8bcAF9hSKi0PSHLS1Q5fsDSrkEzGqQUVIY3VJbDP5qWT3VJ-ovQGlz0t08QzkZ1LMjwpimhBbAuXR17wavZIRzKiA89gIr1ezw59Se3mw2HAQa0o46aOeM3mHuurhi5RZc8OhIQIVBJc6XArI7JUWq3oxJhCxoU0SDR6kiXn2oWx0wI9OFiwy75f18",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7828647,
+               "lng" : -73.9653551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8005207,
+                  "lng" : -73.9493995
+               },
+               "southwest" : {
+                  "lat" : 40.7645841,
+                  "lng" : -73.9815758
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a170f23a94b2c6e63c6e429bef9e7c6669974c8d",
+         "name" : "Central Park",
+         "place_id" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+         "reference" : "CoQBdwAAAIjMCBmuKuDHqY_xS_siQIrgFoi0vEN9qlXNwKoXbg0NxvdcF0QhR1Y6p4k09VtZGlUjAGou2TLC58sxLwYqCd1U9D3csY45gjDigCkikCUOy4nUUcBiK9WlLdEV2xVLeVvO0TY-uOD4RvEyGr7PeRTAnyoiauvHSUWERROrIlwjEhAZKt2BswlRuvMmDvKqj57QGhTHV73X1Cx5HNaz8g5RZfAJ12LxkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76759149999999,
+               "lng" : -73.967557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.775726,
+                  "lng" : -73.95985689999999
+               },
+               "southwest" : {
+                  "lat" : 40.7622929,
+                  "lng" : -73.9732511
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a2c6f9f51d229cd3356ab21f6be3ede994ebfde1",
+         "name" : "Lenox Hill",
+         "place_id" : "ChIJKfQXKMJYwokRMS24r9oTvPw",
+         "reference" : "CpQBiAAAADdf2KvRYzL1iCoTu5ip1qMy5Z0WW3YgldC5Lo1sJJV0euMGQIhO425UowF1sAKx5Ks7I66reouBbKu6xX6GW56Kdtl_4Pgej-uKE_WK5q22NyC29MtF9_3H3pNT5TCeLBeJ4VYhFI8Dbz-4KwSSpRJlclAK2Fxedq6ut6vuPRUPE6zKU098QNPPMgvBJ_3o3hIQuEOx9BgyXmS6v7XPvloXDhoUc-kRZ_bKY31griVabCm5ZkgaLnc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773349,
+               "lng" : -73.964759
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f72f66d84af99bbde9edaac1beb31ad40c729abd",
+         "name" : "Caravaggio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 778,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRrAAAAf4jla672TVEfIAowY_ADkzu4RrnusCe24ry1k6QHJpONIkFsAoGQ9eiBzr32WCGYdBKZui_IyGjMVWVbJVJboLFQZ9NM-Y3aEe8M5rYKKJoVfnGEFAKNZIas_2s8evxdY76Eo7jwayHl25RBKyiDahIQ3JJ4GmR6VXHiMV1xD2_kmBoUG38a7Y2UCQhYaMmc-6corX9sPEc",
+               "width" : 1162
+            }
+         ],
+         "place_id" : "ChIJ9aRJopRYwokRTTPRXTCYgLE",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CnRsAAAAS84GRtX7bSGyqB1eInC0WqtB868MCmS2Td2kbnED5gidy2X3yGhE5CQCxrm42VAY0n0Kf-yMuEu8xUU0R7aO4leF2wp9YMSmdtsOT1amW7WQbXZ2k2LtCDV9TVYy2qTLjCjPjWpSpiypS6gdBjAd9BIQcKyaDZqQuFqK-rszErldLhoUUi96TqTM0AwWALXmPkPOLEsNz5c",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "23 East 74th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77207,
+               "lng" : -73.964921
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4dde172a0688381752e4c9bdfe9ec1b4bc346d0d",
+         "name" : "Il Ristorante Rosi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAes3WV3FYtoIWiWz00f8pTG0Gz2JjwwL43H3ImS60jbe8jme0suu1YmBGNf7_Pp-LBeQc55mz_QwSU04vV8xAzdhCZrDjl5TDIEmT7v16e_2LfVIf89Ck1hY3ynQCH9RFEdXdMT9lBp99VVxHL40d-RIQPMS9-4CJftA6Fp-BesNgJBoUVUBdIYzIo8AxnyvCj_UOl8aMStk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ59yyVetYwokRwoWyvXP8YTY",
+         "rating" : 4.6,
+         "reference" : "CoQBcwAAAGvNaJYCqlhgzgCsj3O1XgwRV2UBfyOoEY-yzkNCUTyOb0DkY7mgmVzX0qINvyaxHbdPsdYTS6bpcDrsp4t46hFL0ibJAD7BjHR2477ggARMiUhkpfwGZ1N050GiBO8D8QeOY1AKIlj_jT7XRoR0F3hV6epcNKlAyf4LFsg7ViCrEhCZdbPMqpdncx5SmY5bKmyHGhR86AJhDBHJmp-HfL7JlKXzsMa2fg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "903 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.775265,
+               "lng" : -73.964237
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "cd2ae0adb281438c0ca24769d1f6f7d8d42b379a",
+         "name" : "Michael Werner Gallery",
+         "place_id" : "ChIJX4_LaJRYwokRFRY0gPRav3I",
+         "reference" : "CoQBdwAAAIy7xa8byUU0rFS6cROnrPNrBzj3SvPNaEjx75yHjITdUzPamkJBpNfivSk5TZp4QYgTZMShUg7c-jgBKrtX4fdFcm2lMnZNtBHr2Z_40PFmBvdkNDTfWNOS5znkqhj9LkKiQxoBeOfDTwZBt_7yyFiWPaav6P5UI8rATycIi2SQEhCUYS10WUl17IOh_gBzm_hHGhQ5q9g2XHx9bZ0p-MPCzNeRoCY7Jw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "4 East 77th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774502,
+               "lng" : -73.965137
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e1c50f6a49a7d226fdcc4f9b36d5bc0bf80aa6c1",
+         "name" : "Fifth Avenue Apartments",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAhYpTFiqGy-CZbZLcoQuFzWqrde-qLW9Ea_CE-Ebg8MksWWD-5d_xLXDOfz35mg266ryXgmiCAhZSK5tQTZuncLAPnOYGk_cFn7f55EyH1BAv4pRzhxGbGSFN4t49toR5uH3Dfps6qT6Z3KUNj0SdyhIQ18c0ifWVJZTRE9ATInbTwhoUPyevPgB2u7oBAAHFhwZ8YGu0LbY",
+               "width" : 537
+            }
+         ],
+         "place_id" : "ChIJ80lmgZRYwokRdIhuFSLQkdM",
+         "rating" : 4.4,
+         "reference" : "CoQBeQAAALP_HQwyrwE7bq3ynSzkn0cmxTaMJ1mK6FXaJ73WvuEuE0eurUCn3TgCMEsEAc_1pZwMu5GxHrLfXk7OaIfiJnVbIduTq-NW4K6PVw8wJPNS-nC4I_ho1Cuk8ZBfwNd3AbnvNEkpsLbabT4HDaaYdDsH95phTGm-OBD-YW02F81iEhBR0voVPQrLjOuFAFY99OT9GhSVQ1j4PHAp9rVeoIzj15mNFLi0Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "944 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773999,
+               "lng" : -73.965474
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+         "id" : "8c2325a6f3650e9185ee6e4692710187509e0b02",
+         "name" : "Consulate General of France",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA04hB5emXMyi_QCtukEZa6eGVa31n79eltWN_cIXUaa7FD9g5geACd2934bvLGrKbuRaWOS0JyJxvwATGL-u29Vl27NOF2DEWZRm-E_TvHZZ8nk1BGqAqI32Qn_aVmfpBoum1zHeEqfUBxZrVx45J6BIQ0AYILFM5zvoIGCnnPUZeHRoUY5Hgq0-m6erlTPKV2kVM8MqARDs",
+               "width" : 478
+            }
+         ],
+         "place_id" : "ChIJWzFrY5NYwokRXzGOG5dg3F0",
+         "rating" : 2.4,
+         "reference" : "CoQBfAAAAFrDZ5QtBUu3LKmD7p_xJlrBlbEPDd0tI6OVUp5g8hitmZIcjeViOysXcXvH0AQVtRD99n_F8cdmhyKZVtxvMjWMfwflGhbCCR_AG4QJOj5A_bsVSgNcdYQq0VqJZgOf9P_2tby6ZCaRwmIvpUp1aHF-ZdFWq657QYlIVZjuGyqOEhCSmSKsBrLgrLI6AwzEvLeAGhTUaphq-G-gTfvvQ6LECSzUJsJi2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "embassy", "establishment" ],
+         "vicinity" : "934 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771857,
+               "lng" : -73.96723
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4a9c6923c5642e31eef0f736ae79991403eaa89a",
+         "name" : "Fifth Avenue Apartments",
+         "place_id" : "ChIJV6eXxexYwokRq7hQ6MkBqb0",
+         "reference" : "CoQBeQAAALoog1CUtpYh6I8zHJ7KHIuq4y9cjDumImqvFfkEntOGSxNwBa1rvgt4SspmQpI4i4QVNd8-j28ypcJJseWnr-e6jITL2M5zJFme0RQmAMCz43tl0odlm_Q2T8vkDVkBplXkaQtzPFP0n_4KrMBXtDo03hPbs3bWNdpeRvuoenWIEhBz4H4Aleq0wG1mRjlsOuxOGhS1y21NvmnoAQOrG9k_-DCUMqXbUw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "900 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772703,
+               "lng" : -73.965188
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "58187025ae491f935710d8aea31097394cb79a9b",
+         "name" : "Via Quadronno",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAM96o8L8Tzl7Uo11al3et2QXQzJJeHmd7h6BPG3xnJZp-2hqsgOfoFi0oyvS9mIvXxVj11OAKKqwmac8l8qRTV7t_GTEh9l-L4EdnHrKCL5M8MBbuS43i8r4j7v7zeZaF8zrbPSIxSJDXaC4CwyXMlBIQ3qAYchQqe85hklEs83ZFYRoUqLP3S_3tn0CY8ZGYSeo1YBigdZE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ-ZWIqZRYwokRQ9ZhSMN8FkI",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAgc-id-LduXuLT2pgAFxJVvdDWiehvIiCg1P_Yzm9aL4cnbwpY9Z0MHeLEKw9n2WEZDrHZoTtaDkqxrUcQS546AVI_boZ6wfOXp48JgxGAR9g5uG3dwNEuIeFhwrImy-SLixtSiKhOWxrZCPazXdbTRIQwfOsdhG-4WFbYbblY4jlOBoUFXGe75oeb8urfw1iKd_5pOOUoAk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "25 East 73rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772741,
+               "lng" : -73.964938
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "8ef2049314d8d80ced016f3e1226581252d93725",
+         "name" : "Jane Kahan Gallery",
+         "photos" : [
+            {
+               "height" : 1457,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAowzbKda7TAQLCRaHIWkBy4AgGHLP2QPmJrCRGhPkLFIF_5Yw6TZyDwI3i2PyfRRiowqGVvI33iPH00-e8p2-TMCX61p95dE0PDkc5qnGBKMKyDmD-PGMbwuZgqUQfmx_nnf5qjSuUx8l2VNETj7xSBIQJkVScySOp4UXU5I00qb6jRoUrV4lpK5jeC0vi-g3l2dYNaTeUV0",
+               "width" : 3431
+            }
+         ],
+         "place_id" : "ChIJiYTGrpRYwokRdP-PNAIq3rE",
+         "reference" : "CoQBdAAAACdcUhvyOwubZ527qarzta-YoBmnsSNZ4PMPft4WkvoBTGoHYOHqF-Da9c1hJRm1vxFBJDCl-X73j0ZgvQ7fIO8H-nYTCIUfiQsxO7jL0AYApwvYwimQiDx1HH8eTW6VWRGNaXDeHSpjjni6PI1-vCZe190ohiHqXUf4NX7109ptEhCpGlrp7Tbz3vBLn_7KqJtQGhQIEz3MZCoPWqTG3p9Gjg7awH-kLw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "922 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77504,
+               "lng" : -73.966543
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4d0a0964f4d9b597315a13674bd64876fa237856",
+         "name" : "Alice In Wonderland Statue",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhwAAAMl_9G-LL5ua5dVpJcN4hlqAX0Ck0Ycek6t4wPxeTXe8T8MN0mTv5r0Vs063IF6xVsH5mQi1ufTy018GFU5ppYREoLhZSkC7es5Ta_Qf8tp5E2VTe60EhVcsKZ_IqYw0WNF7xz6tq0fx91eOqxT-3JiS4zcG7YEU6azsJWxsekuClsUGWkTbxrCZ8ZvFPn0NDhIQByIVb0a40wAqvbt9-wkTHBoU8pGRIiRuXfzbd1Qz_ZYA2yGiqu4",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJ69IQnpNYwokRXPoxqTRNJxE",
+         "rating" : 4.5,
+         "reference" : "CoQBewAAAA1lPuZa4WhOWx_6EVdZ-u132JeRuXG2Gx5xvUMGOntFLw_tUonfDL0RCE0mlii7AbvS_TkzouhjG7qH44JpsgEMwCBFxCBIJUczGeBpYOjKSdBpb58S9q-FgeV_FN3JqqOAvQtsCa-Lh102gzqvKjOYEwJ9jZpOZJOYP7z-ifVoEhD-_gH5NQT4mDwoPmpljQFEGhQTJtLIaF2M441LUnQTUkN2xLPcAg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "East 74th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77249,
+               "lng" : -73.964489
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f2554c211f7146f95fc56d89f35873724d6c1189",
+         "name" : "Madison Avenue Presbyterian",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA31I6cwYUBR11jTkMWfDSSaqz9c3Q5qcI5dh_V8UpoYMFwVm0CxBG6QhS_ocO4Y939e2ntFBgYKhjNZAU06kk_eQyo45k7d_cAtCB3qnNVsqK2HJl23HYd9NcpM4E-uxo8x_GYEV5ZL3nFYROMbi6mBIQ2PjwlXT2Xx0knTZzXHDmtxoUWhgyd7WUo04GwSuG0ogxuFUbjrg",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJQ3CBsZRYwokRonjwcnc6WUI",
+         "reference" : "CoQBfAAAABrsHLUX7UKCkLEHcS_bpThUbqG4yX2NMX6A74XzLEQ7j8lKn9Ctshc05lohvVncsRgEnGGoPeWSMLUx62_LolqGVOaXY11_AqT8-mh-zbGybBXrb4sW7M6_Rs8e_r5vxQdLVVPiroWjHSuaZ-zsmjppzZY1DPO_XWckCMGCSUHXEhDiCeTP1MOjwk68rNFnegQHGhSOZSTVyFyBDNcQfjs-UxMICqORLg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "921 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771982,
+               "lng" : -73.965092
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7c29a1858c82124403702f84223096e03817e667",
+         "name" : "Selima Optique",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 492,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZApWT1j8aEbPmRy7RELCdsD-7ICY0BOqFvWAaPVOmHp-7eGSbNHnGoV-eobZv-_grW80aQbEuRwR_KBhf4zS6T84hjr6kbJNxcxj87eYw2GD68TwV4n-oxOiYIuQiHrGFDjSV77-5s99XEkuEMhNgBIQv-aEM9tHJRzRx7d_0Dfa6RoUSDPbsJBDgePYVWX01fqPt0fy61k",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJSeknVOtYwokRgvcFREOyNbg",
+         "price_level" : 3,
+         "reference" : "CnRwAAAAyUrsd8eKK34a3_p6enYi44bQJXgkX3BxqAohs2h3VSoXKkVr8zVNLEINg3lnnDCcl6vRLslQ50rArbCwgpl1Um_y-sIEgJCYp0ct4mxTksu_FIy7yhrpu3WUEgyhgb9b1lKYcQD47VwenisPJYWO4BIQyxmhphvyJCcNamUOcRKeehoU_tpOkiu5Tcz7j0hnY9JBVm62Nyc",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "899 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77276,
+               "lng" : -73.965227
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "4211ee963dd81d6c19ea01687b6a1c732fd733db",
+         "name" : "Van Doren Waxter",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1100,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4fLPUK_ZLlX3S1XCykoX_oIcXb0qe3DEeTZeE3231DEmzNhzNmZtDqv3A-wWidvddryq7ILj6hd82bJPj3j4xklmEgYXHHuEtOLJmzccqXOboZ_NYvuBKMRnO1VZJgbfJ0BVr23FMBYpVvugt6ldMBIQCzz9gqwHKytlxHhTrXA5PBoUyzOV-0Wfp07vX1AnLCEdtNzNXmc",
+               "width" : 775
+            }
+         ],
+         "place_id" : "ChIJIWG0ZfpYwokR2TWy584eyNQ",
+         "reference" : "CoQBcgAAAJdmDP05cdtkVUBCo9hdPu-zeuA41MXjL15VWWEuTYWG33xMShkcOjnGhk-b4NkJS_qsXwWcAwizbFbr-zfYfNjLwFRpjdx5Cnf4bMuCBA6LgUqH0reqaSs9Zq2D8E5RGyAwlJWLE5fRmCx8FxIZHxCSvGZs_d56JykS60MMfZ5kEhDqWsoPCu94qV8UlqGz7naTGhQfLlxMINzJG2_l3cb5aMAOaMSHNw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "23 East 73rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772065,
+               "lng" : -73.96492499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d0c785c6dfb173b5649cd43b7516c2b1f9a67933",
+         "name" : "Wellpath",
+         "photos" : [
+            {
+               "height" : 226,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkgzQUfwzPyUicV4lUC8ZFsYMTI5or0JW9hfDMzsiIexWBGYX1-ipTXkNuTlHMItDOVW8HWNhaiBFYls7Wm76qOlmZktmbvjWnVdbMDwHkWeA7RdVhPTsTgyYkyyGYLVgf5Hu2V5xZc1mB4MjjIJhvhIQXMy4SUP6dAgvPlOh6qqhcRoU7ZpG0WPzNetIe3M_3d-70QWouGw",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJNfd6VOtYwokRvacbiy4H4PM",
+         "reference" : "CnRqAAAAUgmejawbThvGtRID6JvoqYCD1wP6XPGR-aeo34h71iWU3TsBycgTGEUVWAYu50DNMiS9uIFayoNwm8TgGeQL8D6dhjViLp-lQ-wHYj_Mo6D48gx9iVEjRfSvXFwFB-F6rgTd5xqGrZ495Ywgo-KvkxIQHFVbeWVjQaSH-jCyQqMAUxoUQtGOJTSFkLgWl4GRXRMWeRVm_Q0",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "903 Madison Avenue #4f, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772975,
+               "lng" : -73.964792
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "80aed9f21c420b8f3d76f093b378e46b731dfd21",
+         "name" : "Clyde's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhX3gpJRYwokRQHAAJVTXX2E",
+         "price_level" : 3,
+         "reference" : "CnRoAAAAdBXRvFB9kaImhsMRmvEFS5MuTo7CU35B4PD4XDDi_Rxh5WEzblR9jAQgJIZZhpN0qq-qRmI91ROBF7JnRGytsh6YFp5ch0fJoBYOkdIbaigVhAYytmVsO4Is0JE-ALlVGcWoz_yY2_Jfwrv-7PzdqxIQlobdHQ-Sh_n4gT82qXx5QxoU4QOgt9kPGwC1Fk41QAreMojQwoA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "926 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772303,
+               "lng" : -73.96525699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4907cfe234048d1fb8b345dafb925958b6ab9c91",
+         "name" : "Milly",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk2exrnMuoJPax_wT_2XXnQLNQsQmp-5X4xdWv8IrOYjq1W3czcYdJfgtiyUobS5Cf9XN9eR6Hum2Sh5IcE3fLUSTd28wjhb1ZHYmGZYWQDgeEJvOrlwlieFihCk_Sb4G26dcf2_H8HP0QGWL48tsEBIQl0hlXwvcCPG_HzOy-w21wBoU7sc-KVgDrB5JgRK07FoHN48f5lY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJSYeyqpRYwokRPO4aYQSqvJI",
+         "price_level" : 3,
+         "reference" : "CnRnAAAAGj-LDsBPsbWfNcR283wVU5jyMhiVYfYpC9TgTdiBzApU1VYVJYWz3LqV3u3e1bTBa80CdtnUBPeyvXPhvIm8kwhvmT43awP1PzD4XGFg0vIU0MILTUamreKyGHoHdRSandYy1pat_weG9aNMudsT6BIQbepjj2-li2JVmoZzPJUNbxoU0JDi_bqWcK0rR03pWXhY3ZwWxqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "900 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772065,
+               "lng" : -73.96492499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "467efd3c2381f60ab15095148d1f3b753c3c948c",
+         "name" : "Uptown Pilates on Madison",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 424,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBkQAAAHnmL65oDfOWttFYWr00ccdulefaUuq3AcR3VqWSzo3eO2_uNIDPGuHrr2am7W63u2jQ5roWuG3GJopLimx43BsGVPM_WeunrpI5QYKaa8kmlU-6ooQ8P1p3Rw6EyEyY0_T64SzsS-LQJjhxz0pyEyaMWlQYmky-xOmNBf1p3MnfCfzOfeoI7Ewm4DRhbpzFNLdjcX2GIAHeMepSzqcNOQoSEIUFk6tBv_024u4HA6hpWbUaFHQekQLeh_Q8A8O84l3-5bwXlTnG",
+               "width" : 629
+            }
+         ],
+         "place_id" : "ChIJNfd6VOtYwokRoNESgDQFBlg",
+         "rating" : 4.9,
+         "reference" : "CoQBegAAAI8S49Uv8WRYfvn4617VUBdPnPadVZ_UlS-Z30w4tMw9_C37IP3FxGGiRXg3cySlOtaW63OgDQw-vXdVLs22v4qPFD8qe5qGsmCT0jZd-KhPvt9ZUpWMwlR9q7gKmKPH2w9R7G8jwB_-JAYg5xH70TMi6vmoWEzkIyCr22jFJzkCEhCm-UyfbivMeNTV65ZFjIWKGhSXbQrFQBkhOaItSGkpmY20lh7YdA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "903 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77391,
+               "lng" : -73.96411000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "656e33b518a45f6f743eec2ffa6a38a4d6c838ab",
+         "name" : "Carolina Herrera",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 556,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAAcrLZz42iLPI28pzaCHthLM59tEeHxrRF6vNzvlmVvipI0KFh0AZT13KE8_VIKGXxk1tQfJ2LKj80DnUlfN3vAuw41W-d1aP3JcIvKXlJ4Edt1VpHP5-1e662bexWISU9hDHlKtAYcM9veoU9quI2QBIQ58HD0UH6H6U7HHanaQHm3BoUB-iubAqZTn6Xu6jMBpfDxl8fvjg",
+               "width" : 557
+            }
+         ],
+         "place_id" : "ChIJySFHkpRYwokRmjh1lhPjtQg",
+         "price_level" : 4,
+         "reference" : "CoQBcQAAAPFRvSiLpcLl2h30LBI449PZljhFBFs2Phk7s0yIXyMaI6Ije8w_Z4S-kh7KmqFT7qBjrPYGfyKq5ViLEgHwoeHXdL5DLVhyxSOvnCQI-iU1uzFghEb6vgYnmJ9BrV-zlk-cHISTaPW91VC46Tjj_68wA-K2c6kbNnehOR5OPUQHEhDIo3s7bJtDdXu7fpSmh00FGhTcSJmefvjeIyhYATZrbkEQE0CKhw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "954 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7711329,
+               "lng" : -73.97418739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.800704,
+                  "lng" : -73.94928080000001
+               },
+               "southwest" : {
+                  "lat" : 40.764389,
+                  "lng" : -73.98163409999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f5591502ff1180bca0ece2a855628f9b1f6dc149",
+         "name" : "Central Park",
+         "place_id" : "ChIJ9ccLAZpYwokRthkg_S-WWcE",
+         "reference" : "CpQBigAAAIUkkWBl2DsZzbfWeXiUygk0F5NSZ7ipowOcaJ5o8bXVQkhVzK6Mr6RwfFBZqX4ntLuPxTqAXrbvDM3ZpZNXRftlQtqRSsWyYZlDUrD7sJqHfWP0sbbMx5j864SO6or693cORBKqKpP19l7vrJhxDgjMp2GDEoT91n-HPDIfeN9ippXCNDVyeG_SyPdE3a74khIQWedsg5ubKlNFqV1YYmzqeRoUOYBEju1YHmpXptAPPjTMohrmVhg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

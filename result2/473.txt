@@ -1,0 +1,556 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAAEzD8yiXArjHlxj3Xk3Zbm4ztLtVN6t3GJ3rtO0CWVHiZWYYXW-avOFa6rsupysj4PI2IcMzHt4QYKaV3Laj3T0Z8AbwkhVwEesMe7-Hx-8qGcW7dXGEy3nttjG3Rgtm8_lT_xXExJYSaCEmouz6c3D-OvfByGB3lFPKgXqNlItsOPBTa2DQwVa6v7Tgf0N6M2qteyYMw_LipSlTQjF-MIpNf_U_feY0zp7E8oLmOwKXMVUCfyKtEX-BmDBFemLpOEZwsasQ9dR3WBaPFDu6DP8cJY0nLE6lGgRTU-0DjcLJxgYmvq85rihNA3baEay4RIQt3TEZpjn7GK2OL12_gV1sxoUDzKgE89J0uusQBLLcqnxP6iyHSc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAO_GTIIU9Krd3U_bpMmwdEyMbVlctt34x7m6TFomKlaUAlIx4MO2cihQ0iTJTKYc4ikSJ3bVpWg6LIdp1snSJQJRgvU1qGhAKKhrmtWWMgTnoymQGJyoKHdkyZAzry55JhGGUO27pYP-twoBAC_fmIo06ccX15vkhQlABifDDe1iP0rB2o0_H84l6m4Le4ct3RIQnuM9QGFs8qtZYlQIj0tozhoU--xNuN_-wdqLNsby_64UMWDaf_M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808628,
+               "lng" : -73.944485
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b4e6d34c83c05aaaa53439fc76c0a5e77bc85f00",
+         "name" : "Sylvia's Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAE040B7GwzDZMdKwUM8pJeF3cMzFRysf5CJ3BtLgPdniR2DjuqdE_k2ORAoxBXN5YSrZwXHiRS2xIBdFQXKWgu82Pb9nRVqKod7lpv7dPbj3Rxh5Q69u5ubmpuiHyLDi9SAaF0y3LFXjaNBlta0CD4hIQ40hfpWHjNtcX6-E5z6zSiBoUQXsKoLv2tXhIo69aHZz6OE_iI9I",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJb8Xw0wz2wokRXhp1-HSLvkI",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAAJjb8QxgYMDwbRTCZMfaEoUqW-kZBLUT_O1tYWHEjSZVw5IohqFJ3QytJufWckEQteWEJ8ox647NoUfophKVf5W28y3tZE0pxgsm1xol2NOAWK8e69uyVQuDRwh8-lacQhB7pkdr6BX21ekcBvK0yPnGV4S16dNkWSHGeOMqzfqhEhA7CRLidGYMwcP5k07PUxIWGhSDvkhpDnXyJxeBiCRzduQ41JApwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "328 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808435,
+               "lng" : -73.94765200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7ca58d25e94c29d1e51630a775fc319d5caa98a7",
+         "name" : "The Studio Museum In Harlem",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_ShwXw32wokRQJpaKAIcCOo",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBfQAAAJEJ3ctIFlQGogLt5IOSM8N6lMS3TlJWJWB-KYb27XOX-ohW1ZH5D2Z38QonMVcRJaBHVL8LEUNpaK-OfVVkox88bOP9bzIps6ka_14Bdd7FobxhotN16bm57X8pg3qGQu9rcbNXspSxIt360mj1uCQE_AB6PYMjk4Bvd7nJWBL-EhAgz8ZgfpPlOGolUJZTMz8uGhSLJVy_tw3PLWtljgIhBWvRoH4uKw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "144 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808022,
+               "lng" : -73.944821
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a8a8b0ae67cf9121030f48a547dc1751bb45315c",
+         "name" : "Red Rooster Harlem",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 685,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArJ7Her0keTFmtRAmaStbE_MBMM5iHzjxZYxTwKuSbaw1ix6kwv10EJ8N31Ob8BG-lg7o8eRlgOMHoHPL3poJ5hubnqWlT1AIpCEqV1SpcdoiVQNudSieUz_MRbQUajQsmjMVRXZedh8ghvnF-GIwBhIQLpyFCdebzx-N59P82PvpFhoU_F0afUC8vxWlLmnxYAdCfNXxjRE",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJFcYLJw32wokRnP5A9xO9JqM",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CoQBdAAAANL5DZDKH11Vcb9g3nFUqVlzlkPId3ERso1Z_TqwuS1cyUPSMYKe4niDC1kH0KQd8QlS_hu_NRViXOs_lqrF0nH8iiQ3Hay_tffqkvwSiWoULszDhbiZQrl5onvGo88VeXpd2rySlZTxQmjP9LCA9DArwPOBvZJ8J2p6RhC3Re7hEhAsDOmT9NCD0z2SAva5SwlQGhTsZkHr8us8KPK3jGmoakLcIjvVag",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "310 Lenox Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808028,
+               "lng" : -73.944812
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f3ab7341605c97d6824fc28df55ce58833d5d55f",
+         "name" : "Ginny's Supper Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAh4Iq2KKq4pAvkgQ3CaipyOrKbcmUkw26sZch21MN1EY7HQOCdvsSxjQe1hWcG-s17dQVy8ZE-wUj2ZXgypP9b61r5ctmlGEgZr_q1nuzMER0_0zESGPmqU15ILlLOFellIGwV7krj2TQ56KC9OeWnBIQ3_Onzo7FTi7KSbEPpv7x4hoUMmQf0x0poFO_h_yo-MSSb4JH3fA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJH-kbJw32wokR_UxCBmg1weg",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdQAAANp1D6BKIcpDBm8wAUGPNuq1jRS7Irr88JURBj2M6Cl8iYFXW4TVQTkezPQpixxrLrg2gnIYquaIAb2ITb-KBnIlEYalfh0dIgdYeTULL5-Q--PP9BSGzAowA4PcGg7UsuQSEnOUt970cdVDFVowEQVLoiOY21UBQyf_MPuA61dfEhDm6XMjTAKCg7oyHLNbaRNcGhTtWPehd8_NzNacxthPNmD7GNwlPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "310 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808211,
+               "lng" : -73.945885
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5aca1539afd09bc78c3c5e7096e4d180c6586685",
+         "name" : "Marshalls",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3S5wPQ32wokRs_6c2hrBt6g",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CnRrAAAAeTVGWoFJPwx8vlksH9YrgF3grWxqxkghfiU3RIdyuElyQt2-Fiz7A1RnWY8onTGc47u-G_r9wAWX8j_oZw1ngeCjVSKOTMcoREtnMs9GoYLUI1d6XPHCxos2IB3bkpvdvB4TJuRCMErOrP052eZ3pBIQdTZgdVS5L2BL5E4uh0GiCRoU-pFx-qCRe3vuRK71bbEK7ISzqXA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "department_store", "store", "establishment" ],
+         "vicinity" : "125 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808659,
+               "lng" : -73.94682899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "17bb3c1d8d814b009868827552b5f14b324f52f6",
+         "name" : "H&M",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA0ukNXbm6iS1luSfFzKshDWex3pFlzIzbXiYTfL_Wkc5G8TQksOpz-vsmPECljxx0SYivuxMHzmmKfl3ikk1QiA_graXeAEcCqzwYLPvov-CEl7wgeOkgE0LtOar-HM9W13vf8KzM2oedQYJiv3SJ-hIQRjit0xq3K_17FDJU4_vlPBoUrwe8MLGaWqfYoVow9Tz2KTA93pw",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJJ1w0Og32wokR_vyM8XX--b8",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRlAAAA47VAgsvrQBeUH8RTL6E6l1wUhbhbsOdcX0k1cLd8_9YQ4MdvpeMDP0puCoP31WPXmD-kPM7iNXuc66LiQ_VO_a10wykxi-XSs2RLfgZzDSIoey9Wv7XKaKS3hrbcCitoMwfU-PEon9rCv7mIkfmSXRIQAMhL0hD7ruiMEAV7JjgMyBoUcUurF19Ac7XM14zQ6DUTOaHJVKo",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "125 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808716,
+               "lng" : -73.945229
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "970683c823de878467d89e6cc19eba1d218f59cb",
+         "name" : "Corner Social",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 596,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwIM140Tdr8-rDCvk6NUF02P9r5lKAzVKYdhcEe3dAgsSlqt7_H1Wns9zUOEP0l5tWhokdL5ZgJxkzDMfcIpXRKT-uZaa0gP0ZueTJiZs8JyuWWvEoPi6KMF3KDIkNejjQMt6wPxYonMpbNgQCK3athIQdZ9b_lKGKWd4ugUVOWX0AxoUx0-yDau6OfiaEScGbYDkwYwHguE",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJ_TI4LA32wokR_4hB-16nbas",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRvAAAA8A0uKFKwgYQw7V-0-QTum1kYPN6RycVVLOwCEcoQn5U2EmRgO-XWQm3JRJcqA6YRjctbxV_Lr2XJWnHh427_P5gq0Vp0tB5qhk7ARWLqBhQmSpRQeAe1S06SvCXtRPB001Jww7rL_okwDu1y19k7xRIQUd8lCMmyE0evUF_NY116WhoU74AJoJ09xLxzOmCGGhOM0lHGHo8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "321 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80837,
+               "lng" : -73.945592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "f1856dae8ac59141770ad968688a004e739da620",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh3bFKA32wokRcphKyd6-orc",
+         "rating" : 3,
+         "reference" : "CnRwAAAAKjihe-GIY9RHghK4bjg5IINqGYKHvkVknc5VKTOtOCdF7PBbV57J8zCWW39C1RaI_dxFmGnyTUIL9tutZ4-NT1gM1uzQrSK0OdIEqBynGt6apmEDfzgw1sckD_gzqMmUpdXyAL99nP_ecefCRI6E5xIQx1iPWtLNga70Trv0iQWugBoUVuGQWISqmlTDAwGet6dV9pMAfLs",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "317 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808348,
+               "lng" : -73.945787
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e50f94b0e7e16e20b07261c897a5250c3fbe28f0",
+         "name" : "Staples",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFxsuE0FL15yZg1E7gX2mJV7mYZWv_RAKR17VPwqWVmJ-f-2UfwPHmJ2Bf9oFekd3pwhk9Q-VTDQ3DFxw8qY1Gg18-XH73KNDWQqp-SEI5myYDOFM2KMdHtuirf_C-Ap7aFDhupN3uwazcxBCzTCOKRIQsseuLngYm0X7GpzhygM95hoUcalQIK-rLzChBD7u5TFczxHwlSA",
+               "width" : 361
+            }
+         ],
+         "place_id" : "ChIJ3S5wPQ32wokRJ0-Udr4Z9OU",
+         "price_level" : 2,
+         "rating" : 2.3,
+         "reference" : "CnRpAAAAo-9MqeBnTdPrQ1TC1HK_PcAXifks85aYX3Fh9e4tWqBDFjsP8wz9bYSpWxieom1Ke6QHHThC4E7kfeYHVbH2HD_iFNqkxzGEMncIsaPzkd539DriDX-k9BF_5_83ZBOY4xmh0AVPd1_anNYmxCnmDxIQ1s8BSS0qDJlGIpha6NllnBoUYLEMXxpXMqXLsG75PZi3VuwLUpk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "electronics_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "105 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809353,
+               "lng" : -73.948652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2edf1fc3bb84884ff0f6d7776019e1f80821fef",
+         "name" : "FedEx Office Print & Ship Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 412,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACCWOT32EVFyqjqp5ZEI2acY0yorWhWa2q-yK-PmBK_fsk1nKu2V9qtmSqslhQD_oX8m35PwJcemc9zFlAFUSpgp4oCf2AOPS5TgHmqoP65bzInp_ZGVQfEvJh154KWDn45xJjGSyf8kWMw7K5KblrBIQKWQKMPzpjQe6pHpyQCWP2hoUzLiVt37O-VK3jPF3igcjnJsFNo4",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJ0fMEsxL2wokRhiiv24OzL7g",
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "CpQBggAAACaGzNKnV7WzF-mL6TuTdhPJOkJYEoGLdByNrpMbvsUqwnx1RIJ2Zuixh9M6214__v69z1X__RD_tCSaRrh1LvQcUwRRDjnxay-Qo-fH2HrYOlHQUHMhxWPUg_O59VEIfiqYIYaCViOu_YByGsYWw0qUc6hxDdNF24ZOlo9Qr5QT_DWyiVihsbtHqNxEcoY8dRIQIpxDaprVYP6kOXeWbkI9mhoUl6JxSCEZfVceqDUIdPzNLNzdd6I",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "207 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808309,
+               "lng" : -73.94579400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c30c8f33921672b82460aeaca8d3dfc1512abba",
+         "name" : "Dunkin' Donuts",
+         "photos" : [
+            {
+               "height" : 471,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzOgsnrC5JUqC273_QoAwc8DfpLK4T2Un_7X41bky5vpBjuf_NtV_PFW2ppVRpjyXneKnJkhAIbZhB2SOJm8Ei3Oc9_PcgjdAHJvd5UlGPIbcatKRC46bFN_2IB7WcGqJNqgye4NnL2FSHg1jW9c9khIQjcQ_FU8D0bTKXhPct8js8BoU0nZsBCS23eDzFSnOoGcEDqwcu5Q",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJTzPRdhP2wokRlMIvr9-_c2Q",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRvAAAAJQInQohq1H_3-EOUSVzwMbE-2wvGavUMVIVsmenQM-OV9TQR0EF0Rwjo5w86idckeOsCz70BbcXsRUOdA57VxGkSkCOZ5iLaKOEho-k-BTuPVUU81DXbQFZOk9R78bSq-plLLFMuLt0ZI-A0tE8KKBIQWHhveCgULnU-DQXut62XTRoUPdsfqfPQiRmqEQDa6LZvAcSaM2M",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "105 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807979,
+               "lng" : -73.94494400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "70d5b04e3578439446738decf788b725b82acc6c",
+         "name" : "Chez Lucienne",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWxImUk8w0Buaee9crP9x8AGvszfzOQRyIkG8aE_OU_eZh6bGJf1btsw5tfe9UBwCxvMSoa2fIRj9uAmShPiTqa3PNNjsiLoQHj1e2c_y3VdysKzI6fbRN0rZetHXGkPBVdyNvii2PJDw6x6TSlkeBRIQcMGxl442SRdMgfzQfM8sRxoUypmVDP1WaKjq7tULo7vdVQZ7MoU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJJ8vMJg32wokRdo1-0Fk8G0M",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRuAAAAdoz_t7cUFOu0igAd-6YWWMeoqxgp-ju4HqdbvszCCJq2VojAODjG-izToAaUXGCX_tqQpK5EwR2X-MHW_64d4yX8NqMJVG4Vn8GcsdNTbVtdYUOfGhgySPhY33Uedu8r0WZaUdp0wSvs1giLInejKhIQJyOHvFE0tdMK291-FWsiZRoUQqCpTtRbFjBao6Q42AGAeB-pKjo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "308 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808809,
+               "lng" : -73.945149
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c5af2bea5afc2d9b3718cb42ebda9e6681e9e922",
+         "name" : "Cove Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJodSLLA32wokRRctK4ht4bLc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAAAalH_CtXaw4h7Y-r15hwgyxvmFX5akuuBas0ZRbsEdo-JSVx7BgjMEhyjWFH1qfZ3XnLXua_mxfeGFZem8oS24rZbIgatQ5RUttM2xyWGRr-A-6ecrGzbJlsLu8vcCvdrVk7YQP9dtypmtWE_xrrLBIQYr3cX8ZiC3OaltWHYXib4RoUk7lOedq-vg1pO83oKbUDc9dafD4",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "325 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809305,
+               "lng" : -73.94865799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "99a97bd5330e345664ca2365463cbd63ae5ba307",
+         "name" : "atmos",
+         "place_id" : "ChIJC7X5shL2wokRjvWysSAi0lE",
+         "price_level" : 3,
+         "reference" : "CnRmAAAA5nnqqNyJe5OcaT7yuT8G65sRSFQNvV_AEdbCjx3ZPZT8cNJiBcpI7h7fypbC0iC4BhYWbk138_Nhq_h1XvYENxz1QRUBvd8KV1BNCE1TQZsZgJxHTbjAq2ncDiVx6evZwzDbUm9UC-ZymZj_G2wWDhIQuzbCsNDf0WcHi0fdGwOd3hoURRg1GGLIPtCj9ooE9GBL4OgzG6U",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "203 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8078,
+               "lng" : -73.94495999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "a506634335cb475f331e612559d3b1a2ecfe33fe",
+         "name" : "AT&T",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 721,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAq9wi_fzXDY4SLZs7pDutZkC4IWkxdRh8lREl1LnaO2BkHZ5qiNF9O-jXTfw9Av0oo7YTlHLH7GPHAzGsDOYw7tiJR5hBk7a16xEjde9YPkzpXQZ6GJismoof721vP1gseCV1aWp1jgkkEPFhL6nMrxIQZIC-43nmKTZMa3ECHUsEqBoUKVBWPv1ymPCoL6mcS4KV6AOBDMY",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJZVI9Hw32wokRND7OWRV48yA",
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "CnRlAAAAJHYI1yc6qoYFmNaAzFqFc-roGxiPIXDstaRf3G33viOt14DlYN6xbRKe3Fqo-thdGLFDwlGJX7QnWJL6PPpdaAxsuPDrJvFE3ZJxYUVNqRF8-SrGR5sMpZY0E3lV4YitlHsPAVN7UXd5vIenuyxgnRIQ4e1hQbBHLg8M_0WhiqJ1NBoUK-r_bhMuKBg7he_rlWgwf-g_lCo",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "81 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810284,
+               "lng" : -73.944047
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "49ca8fedc26308b9d145e5415d91c600c364cb89",
+         "name" : "Jacob",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVJ_qmlg_8ljv0uDzRMAKg5vAhyIMcX9VLrfp57OIEO8g7k6dpJzb3gdzQNc84ninSC7Em_vnQ_wz4UzvL8XlOfdZDy4LPl83q-AjdK7KaPn54mGlyfwKlN6mKDgo6cfUQCYIiwkQxNKopCr5N_L0aBIQX8I_xNH4fMEqMyXm6WKathoUPrVpydBFjp7PKqvZmy4JSZK_LQM",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJnxjnEHP2wokR-Dgf5gfBf50",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRnAAAA1vm-JwUiokmGf2BYOP2JFlUH-9_c175Y-QQiz94_QV9SJhyTrsMo2D4YyFqhLRUW0Uf-U9C6G87Kzcm-r-N3qbn5BnjxBomwriBLMY6ki9u4b_KX43-J4aKAUSwaCv1TzWJEk_moHvG_KEgmHaiazRIQRBgtfQwAaEKwA0jlUciUvRoUFnmPwK_6sIkgB8EeZeo0iBjGZpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "373 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807131,
+               "lng" : -73.94632300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0ebd48b6f20857e7e93f7843142fe92a882d3def",
+         "name" : "Harlem Shake",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIPgiTY0_n4nx71ZIHbcpe691roV8rQNzoffmar1mSnZ9T9BkLhlubXkfjFVO4iCKsN6bqZLNO2pL9SDq1z_VOQTRFIWixP7JYsEius4lRuwgZIORsblB9nVXOR9yH0E12mpX0NZ58ZTdz-Fl3mjVzBIQq6lSYje3VaXXq5hp6C5uPBoUCchG7Y3IYojg1vb5do4td9Yuv_g",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_Wfccg32wokR_0Yoxz3R9a0",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAAWQte0qKSSwnwq3p0XWplgp91kv6GxfVIz7mMvHft_Yn71Gcnr8a6stY6DtIcQULB83ocOcBNWPlC_U52VHtPzaKA7dZh8QslgZVDjwZTmriXWvI8-CBWoeOVLD0xNV81GeDBJG86B4fAIEW9UEuMnhIQy_J8q1Zdm4k1bkZh-MrcFRoUxC68CDUwPB22Jes6NYmhw43Chhc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "100 West 124th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808736,
+               "lng" : -73.94862000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44fc0734e9948c1ea18c67679268b981cc418e7d",
+         "name" : "White Castle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 126,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAQNDuj6HOruE8oSZdoXlWZECnjAa8l--6Eyqp4Gny3vUBLPmgVTbZigSHU2M7VBg37Fqfg4XzwteQmszUddKYfIDUHErxI0V6rulzf-IC3iUrM1f_543SHyjaPN1pDjsn1X6qJyBfvOa3efjuUYp4IRIQ4rc02CXe4bVhtcrpd-QmtRoUdLm2NMihH3GPFfE7V2CaczSxBAg",
+               "width" : 226
+            }
+         ],
+         "place_id" : "ChIJt-XwuhL2wokRbq9t3YhZZeU",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRuAAAA1AwKRzOYFNa6Qjg0VMzBGZwgbJnD28VqXvYTiLKes3GjU8V-VxMN-1nWCV5h5usZtTuXkZ7_ViX6f0GcxTQx9R5qqNXMmboKGauQSfF8iIjlAQgf_OWVgFi6Lrg8NstPv0HEFE7DQZcVjKQvwcFcDBIQnXwvc9xbX3VU3u2mRISObhoUCYEr-zTRS0-kh6A6ZTzJQFe9Lxk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2094 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAHSpI1Dtlcc7xDQ5rZG0h_QRL0_FYD8i2BhGQH68G27hZvfeeDHcRbkJY1zZacjoiXEYMhK6-HZukw5C6fxjGYfZCHLC6IpVOgg6SAKiF2zD4SsoxN8t8s-CYRLsk1-bhcA0PSkNk86KLhjIgCc8RUZNNdB8P4Z-LdWmOIvW2MnMEoSaKGSGqjEXlj4D-LmSaBIQLkRRddXXGIsKj3D7hD1dpxoUwoh6_TkNonmAdeeVnZzdUTvH8jI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

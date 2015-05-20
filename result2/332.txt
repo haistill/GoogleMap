@@ -1,0 +1,553 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIr1LRsx6W0isyT_sbTxwLaqGAUz8_KxF_AUoVRtr5S0rjCiaxcGBITQWt2xYr1ehuJNQJPDezYf1Dh_sGxQ99vpCyU0Wuvh4SNJ9cF8evwIn8OlHkMyd65ItynxgNmfLagkYyQj7x2kvRQlfODgc-vhpxLHRn1y4WL_9fZ_1SO_NIsjee3MRFP-TKt0NzV0wsHsgvC0vSFSBc70ImnvUiEorEPUSZsAa9FR1KxP0LTriFCALX4k2IwCzUDj4iGG7Pfh_d7Brn1qZiRrJdKjfJuRWwODmaQfeKAsU-dUUBJHUTAIyaUMwDCf3F3MgLQ42hIQLiWLGPkJT53skyFFNwILyRoUxIY76r5U6eo2X_nk7f8bWXx2Ezw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkQAAALX-potgcVkAj_gMf1iDwaqajOAK9v8xTytRaWsxRo9yccfd4zOuQxQMdHdnaWjOzQA6q7ydH_m2K5CtIEjMo5NBS8pFh9rEM92P7tOGzcaybOe9ltMxWFbLgY8JfQRoZs20fz04BCd9myk3AaDXy11koPx_mdc8uHUgeQSzAC7bLQNtAFWIlkxlIMVduRSCPkDE_T88oB7XlgF-eh9WoD8SEEJA1NA_32IiKoFyoK-8F7kaFKLY51dLtYvNuCTbIMO3jN8iaaq0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803836,
+               "lng" : -73.96187500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2d3930ad7fe1e26b162fdfd9e450ec3392090ee7",
+         "name" : "The Cathedral Church of St. John the Divine",
+         "photos" : [
+            {
+               "height" : 1361,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBgQAAAJfZm0mMlIfJ7gz0Cnanzw5jSZZpAbzeidz0mj6e1XAzwgD4nPeB5xQ6ZO5R8hEbmuk4A2wI3qE2jDxCtGClY7-w4-n-iuyuSf5lRg5uhynoqQc3SjhM5BI2I2fnpzhyDu0vN4ipWRJ-C6sFNFUSi3A4ZwJzt-nJFd0sNMA2vJZfcsDy8HPGOV-WRcreHQPTyxIQgpTnTNuOZVplQetw8iUR_BoUF7T1zY4owJ_qvi0-3H43bDxrjbc",
+               "width" : 1363
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokR_wv0XhIOo8Q",
+         "rating" : 4.5,
+         "reference" : "CpQBjQAAAMzOuA3see-ycn9qjeloXSgLMcTDGmh1A0m7eP9LWRVQsMW4PLIJ0Y3dSOn-XKAiXc6HsrpfMyDHOeE_CkeCeJKYmFMx9kfP8aaP7StZfuciKKZe8eftHMUdELBH1NyOXoMZ4rnIWBU0VDSkdYISiHkeV06RdwQTPTf8mhir03xoNeaGXfNEK-yspDtu7pMCtRIQvVwd_Yzd4IvEUTL20nb0hRoU_dhrXiLBFXHeyeRewQ5ZjB82WaM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803756,
+               "lng" : -73.96167800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69085488d532f13b38cb150993ab36428ab16f35",
+         "name" : "The Cathedral School of Saint John the Divine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1435,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBgwAAAMS6VXXq47Ynch-tPCN6o86f-zPpWxLRjnhxQttHNe_PCOfIRHB9lWPgItEyiVVNR7Gcevb7A9JHQ5jzeb2TMqazT7jxDuaIPtslKUJ_fXlWdfXh_-rPirxGPTSOnxHBqTatPM8whmBLV-CeZjYp4B4miWj2RcT_C5pWHC3Bl0cFTHkOtEFf-jdgt-XBYNdxZBIQgGYtxY5rxZ6nM-jDag04pBoU1t1ZTK_Qhmd6yQqrotoHGTgJzls",
+               "width" : 1435
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokRjRpHt_spe0w",
+         "reference" : "CpQBjgAAAPKb4tT04W-4AxyqM9aMp2mbhzAHPDMh5Md9LiFhxV0JPtjGf6OWOKoeLm1SnJk5lu_WvOEyReRtGA3D3pZB2BakQIEbccinlI85LzDcjEUoF7wUhhsA9rXnByMtI2n2nujVXsQDMikPeUsb-ShtqL6JUyK8R0IOm46pUgYhCfquGD7r-qLpCAeTGRnwKvkNnhIQaqbj5gbJ7ew5n8bNMt01vBoU9k0unXRpj0joYIZR7Jhu2qaq9To",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802405,
+               "lng" : -73.961624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4013429c270681c233f6f11982ca850b344df9b",
+         "name" : "Avalon Morningside Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAl68BcsodFElnN-L6iK2edVbGsa75_r40rKLWzQ4LrEYhhtEM-o4NSIhFxy39Ns8xB4I_OmWzi3iR5IZmSn8Nwdf-0grO500p7M5I0RzQwmGo-7jksLik6R-Hp7OfeCFn7ibGqKwxi9YKY0XxlCOpLRIQXniulww_Y4TOTw-W5i6ufBoUx48wLZ4b24g79Jb-k89v1uyJyuM",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJRcjxOT32wokR9QI_21QACNs",
+         "reference" : "CoQBeQAAAC4gNCqAkCQDQHJQ8Ktoo1UzJ2nn2PECfoZw-dY6VWWzaKOK6dt14Rm3ugKOHRFwl-pcxlly5RQvFfYjlbkn7i07PhPx2yLOfmII2_qAfcRYjGTbjYOEl6H19O64tbvYQCHoiIz6B27ls8w1pgrslvkUQyg1iGta_-rSHxIu89BBEhBXn1LIeuc3v5cPTJtWH5wJGhRf375znfGuDK4pjJUAbbPfoeHxyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "1 Morningside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803683,
+               "lng" : -73.96605599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "dc257174577245f44a0ac8841969d1e428fad4ce",
+         "name" : "Congregation Ramath Orah",
+         "photos" : [
+            {
+               "height" : 368,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAy9C78PgGxmn7BrWoAtNQ1_Cj2fAbnqLTRcfPHhLyV9XiaRhXfy82_dXexW_kAqud_JYHNIPzoLj3mSRKmOptLvN_e2_NXRJeYAgVYDe7PQ-PgaPAVdNb7fMlFtMCSXTUkUGQIJ75NTbJqWhkxpBm1xIQHQ1F8_p-0sITGMlf-LWQdxoU3ij-MkcxhDKPnrsCGPi_m6MtWJE",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJX154ZTv2wokRt5JDBlz9TXg",
+         "reference" : "CoQBeQAAABvmtEcL4zwAtnTvqHjgfn3Mq7wEQFySqlk0qUzWOOSaPVjAO7FUo-6gXgvVD4rPHJ5N6TwcNaj1xyFGHriKogHNA7LSuzJd0nL4cbPQR4H3YGmLBed2yY-uA9FDe-_IWUJapWO0gkkJ1wQCw4sRLTUbw-PDXjQ6mjhVzUnI73fDEhDhDboPbAbLi_hbkCvqmk76GhSWh0AUCFIINQ7wg4Tf8C7zuIRA-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "550 West 110th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804465,
+               "lng" : -73.96604499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "94da74fd70fd216d704af7e5206703c5903634fc",
+         "name" : "Mel's Burger Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAtu80MqLUHDlZIRVZLf6Or4Obn6rGxMMRdNMnj36VhYigyfelL6DBh-sT4BIH21iFfPUdjMzYMXTyEYioIAZS5fUjbnUO-dd9qyJqUXPvcctw38LiuyrMreTMGgEJYKyQ_11OWcVXPwmcMubYxP2DxIQ-CoIEr-kWWULTldqnGMYMBoUNmzAQTtvRC_dIRhB-2KeGd5xCgQ",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ47x-nTv2wokR1ex6E_loTYs",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcgAAAGyhuHUFbupAdgyhngDZJPNp-Abyis0HSoXmzj9Vyu5CV7P7w-krWvczgwqLYV3IUcn1Y57CfX7qDr0dhC5R2wJd7nG8fEPrlPwZjqX9yvmHf5vkSFSz8xuDV2g8nf7ZimtPxIWmFXTPqGAEYru3g2uRmJnllsfknhJE1Anan64-EhDC7r5w5tEh-xgfHncLxwEqGhTzRtk90XxbWbKHp4GysYMRQYWYEA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2850 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804965,
+               "lng" : -73.964873
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44ff0c27871e68cd7410780ea14f1be16190ed51",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJk5GmcDz2wokRz0ek-ETg7YA",
+         "rating" : 2.5,
+         "reference" : "CnRwAAAATm4U1D6s8GgT6PXJIEGX9C4NU1RTjC1B7GsGki3mAHIiyHjdVlLNrtenDCWFPeh670KKg3265UrWwvAm3D79UAKVdOThVMdwyDjn-NNBosz4YMF8EkYteevEyKgGKetjBbnJxDf9Xkmku2Sr0fNpIBIQJLyy6NclKiZtXMeHCbmvbhoUq_qPPVfuKURoVDdumgiy1T23_Fw",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "534 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803285,
+               "lng" : -73.962643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0563cc78dd7dfd32d7f681135ef8b5280cb8166e",
+         "name" : "Peace Fountain",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA4ihm0-muV-bHtQsqcY0iXQ-GRTiDMSQk0SLJw-AYOURYIP8qSxA1nqpV4q8by-VKmCEpqAU6STXsaJVHiemaITl1eIq2tPriBeuF15QSJd9Tcyw3VC3pQzctXGirLOSSQp3-pKnhktuhcRv7q_25mRIQayX0hOowDFaGLGhZ7pFhhBoU9AhEAZ8PBV02UgLiIzln75D67Ec",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJjTgH4zz2wokRv4p89h2AJ3E",
+         "reference" : "CnRvAAAAEFyVot8IMjbxFnmp49jN5kKQAn1UvM9fKNzQEJI0AQuGvB0U--QgOnUDKj2KmteP4zjklrypbu47BDuT4-xKbNWr9KTYgvwzCxQzPEtV-COAYc3cRJwL2yVzZEMHYC5wT0qk23EjqSldMEttqecBEhIQlsdnETMj1LkXST1Gg0tkghoUUJoAvqQmIh5ozcHhuZ4ueYUSzlY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804991,
+               "lng" : -73.964975
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "96d80654454ee234747b04c75e2802029789b833",
+         "name" : "Book Culture",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAyUFVWmiOH925rY5RQIXCGWXf7DA6P46X71zk-bIv3w9FHQBL0CDB5NJIQYZuFJu146LnSClAZYp8gpW9KTJNkw3dVa5MULi_I7KpwAyXE0hAwPW8XTqHy8Oixsa0ICnNS5ekbdj0oxWly35LysGVDBIQW-im2XEieoa9G2YIMPQp7hoUEJzoGpdYCxmk2WgtkU_-LaMoGas",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJf-PweTz2wokRfJf5uNQCzrk",
+         "rating" : 4,
+         "reference" : "CnRuAAAAs7Pu8eEfFQ9wb1Hn9lunoiVA5kalXr1V7wKs4QatQngr68wdmI8hoSHQoH2UbefAMV2KmEjNtBLW0Hm7K4Sj9l3y4HMof_O49ogM2szFPc9FNO54HmeuH3RDGwH8XB_2B7LLUfcEJIVnOiOfrTZ4IxIQFLINwDvn6cU6YKd6poL2ZRoUurHkHJ7nHymLUNmETnE-truuQNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "536 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802248,
+               "lng" : -73.96473899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a9fa27da34c9333a30781417e594e878dee8e1d4",
+         "name" : "Village Pourhouse Uptown",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAxCXzMWdP31ToZN0YwtMBJorQdHCZ8hqVDwHyoJK071czxvLR2SFM0pqELznXURh98Dr78Xkhob1kr5inVLVHhqKmGkD0lmA_uUNoNMXwE9YkYiWOS8FavFWud8hXTwRfss88o-8aU0dBO7O5W6oNxIQ8fT3JOAsOS8bvYm6ek38oxoUE6Mvrbovomiqr0edEB9w316EUok",
+               "width" : 736
+            }
+         ],
+         "place_id" : "ChIJjYHlrTz2wokRBhKptfgnaUI",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBeQAAAIAf7R_cNGnRcVnvwMRQ_DOo4_lNhntSyEfQ_D_lGHrdSjjCVxDFYRR0xVf9a4HNHuwKhSVd2fMojPYogyVxCW8uJFAjvtalNfiRj2znHGkxp1Rw2i03Ns-_vohRJ5JFWF_iIE4NHEGkDnBXinRAWZTXRMptfMZRy6T-mp0LS0GcEhAO2QAT7LTEz2fUy7AgawWpGhRpC-HqipAaFivE5_GUB2wN7uSpbA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "982 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803755,
+               "lng" : -73.961699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "77398442724cf7084f4e3f3044766c6de3def448",
+         "name" : "The Cathedral Church of St. John the Divine : Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1339,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA2fNi1lklIk2vDUCehSbNR7OTIfxeAmNfHOtBLbxBsUq_u7iGG5h7yJgKszlhlIJ0aID6BJUp0am0jY2mNv8gZAiiXKYiZorU-6lZK96MszNajwrz9VlGoF9B87zq7Sok38GycRJH7TuGzX513wFu1BIQH8l9ph6qwjTwPR7Gw0e8HBoUsVZwr8KVPOK6-0OgvvbOx15TLs8",
+               "width" : 897
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokRna1h5Jp23OU",
+         "rating" : 4.2,
+         "reference" : "CqQBmAAAAMBdZZ9QIq5hEvD3uNYEAGg13mgpj4C8ZUDw5DE4lrVUgO5B1tL7l9LlwK_HOmQthiNVZMpPg7hJVCc6AJ15rFin8Pofbu0t7RZb9WOX2uRgMhXbSBxjT_xDbxzJtt0jqmcDUWhROvO0kDfhjegXl5ORTJw3el22vxz8OoENgPbcL_E8lg7yZEgMcER65dpIOWuIk6zeqnxhhQpuqNRFJjoSELSCKAaWuYIJ8Mia5UaEtKQaFB4AVvV4wlBibjZhGHyJfxR5BHtI",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805224,
+               "lng" : -73.965524
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a722b6f9f5c1c54b3fbe71e5678c332615859210",
+         "name" : "Liberty House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJEY3qiDv2wokRI37IRm46SA0",
+         "price_level" : 2,
+         "reference" : "CnRuAAAAbdpMUSMOfGbXqVHaKi5qi5TpjNxXxjgKGVVx4tGFPpm4Cui9m6_9pykH95SEo28bYqqoWszvqMgWxF631TmLycPylhaFaO05lHtPO2ybqyVLOBcbYAQ9N1XE3GbFQ7xTVYmj3E1IQYH-RZPDnxiIZBIQ9pkNr-Yv4ZDEnfZVqHJdnxoUf0NU72N04D1n-bsz1z51rkMZE64",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "2878A Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803384,
+               "lng" : -73.96384999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "86b6676fc10a08df073c26897d1477b360961d7e",
+         "name" : "V&T Pizzeria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 465,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcgAAAAlXZpp1K4ZPITiY4TauAeuTiZDVfjjscCqvdwLaZjCS-L13gHAODuriU9V11_0v5hBVyk__7pVJiNZu0h5qnFrbRoIklvrNG39yBRmarU5HmCdIckA5nufrQjqYznC5VVBuJRQ_bUIMVb9pnOAk7E9OYHbHDW0lssWyclkt7WcgEhDYzgcwFIXWrAXcTGhe6vMfGhTJwdlCINtGHtoa-G2KJhhsMF5lCQ",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJtUqk7Dz2wokRsi_5j6j1DHM",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRtAAAANBgkDbYK2vg4JAa9CPjlzjTMJr87V-hP4kqxaR_95H3slZ3u3kI1APCIwDN1b4J2yipqiqSJAVeeXOhNwymoeiOGarAbIqOkWn_CgEfdDSAo9gmY6pLjLNwRtLPAki5oJsGHUzn61tit21e3teZiHBIQ7RTg5zFYwDnMfkMveTeSWhoURP4zsLH2hdi8FIp6twhqbQ6GhC4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1024 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802936,
+               "lng" : -73.964187
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2b3be0d0b83ad4f3bc995bfb357edaa3563b2f5d",
+         "name" : "Bistro Ten 18",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 711,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdNPE4RY09dzIVrzuxrRDKrdalwurWzTJqs_aUv3eR7zwUWQ-xthSwDvsTTQ61_Z_YPZrR3qFQ0YmfftiukIYXMBDRFowR6l3ppaA6nGqSrOGbNNxnJcA_an_1i87wyi31mZFmTtj1hozL6DTuvZNzBIQzPgvRWwJ0nJqUR-15JPSNxoUKnCRS2c4kqgcDRw3hFuP-GvJdDE",
+               "width" : 463
+            }
+         ],
+         "place_id" : "ChIJezsWvjz2wokRUGk16mINA7g",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRvAAAA5JVD4C5ev5uPqOA381rtHsmKo_3o5LQW3pb1tyqD2PMuVR6O3VitnZRObYm5SU5CrhMJIlhh-pVBrWppiuw9kfe-ir_cGxZNk-ohckCecQj1eWoiQL1NnLpvtxFsLFb4z8jTYN1C_FGYUMbyZmRLnBIQdI47CxRtUxJoAUCEFFhogxoUYBbZ9BsIXlzBuJEl87q56Tl2k1I",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1018 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802606,
+               "lng" : -73.96444099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bf0396ec63721b135c499eea9e51d306f79b4d65",
+         "name" : "Roti Roll Bombay Frankie",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7GTTSLztj0HUgsNwhNgVaiDANgMX0LdMas_UL1nc1guQsyakc2Rl4xC8mZg7PxyS5R78Xw51bkbu-feCKcKR3qbajz_CIDQgWqLi2OUNgVflSYWVA0wfX_N0b-hIyEvGB6eiyOd6FYume1NsJ2ssXBIQ2Y3PgTp3TkT2X90fjVWAnRoUNtv6tnaR-S8e9WWBZajqY7I15jY",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJKXWRuTz2wokRZ3dYx0sRyik",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAJGiIvjAoz2sqOh5eF8dJQsc08etqAngWXd9nQ9OyaUmj6FNq5rKTeEaL5DnG6cfxw46PcRVys5e67RK_xXXnANyUEhuF_UBRZRNGmb27Bf8HZq-Q6OuNm9ps9FHhGfV6waJ9D_iL-MplYiMtrLuVsvgrfuMF-8vCyWkqi2bOvpPEhDgvX69o5xgWHYjcPAfzgC9GhS_LXASOapzAwSxaFhYpbXZ2yibew",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "994 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805289,
+               "lng" : -73.962588
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "61fb31d52cc7419a6074e65f4b4bea8bf93440b2",
+         "name" : "Gregory P. Tsai, MD",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJw6ajyj32wokRoS908Zub9M4",
+         "reference" : "CoQBdQAAAEv6wgpNU_PtoaShG1G7wtv9rrsq-oSkXWD2eIp6PljY80p5LSVUz9gOq0oD9UaJdeeDnu70pmZTjowcvunRrH0wButsyJvTPluc7EO4oR4wrZDGtMqu1otL_-n6S8EgLCaRv7y9r7qhWZokuiyzT78GxHlDpqTVzEcWdanyNMnJEhAVwlUeex53-ukU_NrjswZeGhQYXqkYyycR2dO2HVO2KJl_Y5fn6A",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "1090 Amsterdam Avenue #9b, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804469,
+               "lng" : -73.966174
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7995eb81b3db4eff34705bb86c33ed843b1e9ed",
+         "name" : "Koronet Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAvMvU5btcuEOCQ2uswsi3oYUNJ3tndbtP5rZCn_U6tIpgBClJMaGuuO6H1w6qmkSbPe6GCf4JQrvFmJbOGust2hZJjkJFyvT3kNHctz-2azCEgK9lsLJr6MH_w4Gnmeunko3nMe_ByBbXKReiTxiL0hIQSBc_7lm5hZ4fDzyTXQLWLhoUTPS4wqesO5zvtNZUpBZzGuN3XJI",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJIbOVdzv2wokRBGLNSQMk2FI",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRuAAAA_2qWxw07RL2GnyNzik5fyJbvrdA-R1CxBeH5-Zjm2V1kY9t4FTonPsYkjIP8jIkcoduRZ25rVakbpbkeVS8BS-neQ404NYfdNvxC1Q2sNU3q9IcEXNRmkThX7GBYGGGakRsPQjeINgbh_XT_42RTGBIQH6GvtR8edCmQkdSQO0TjNBoUCl3cP8SfD5g7Vgk8Kt6oerBkcsM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2848 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804828,
+               "lng" : -73.96575300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "49f0cc05b87f6197f07d786829399ea5286d6098",
+         "name" : "Duane Reade Store New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJrxMixCT2wokRZkq2jlcSGZ4",
+         "price_level" : 2,
+         "rating" : 2.6,
+         "reference" : "CoQBfAAAAKH0tJV_pSSiMWoy0_djKCLgTn5A4SF3_ktr4mjYiJksQ_73QCKDBlseJMQ6AtdV1e0dWOiqrv1QxtRPv6DjibqXX4RQWH504rXs6Ali1CWqzjiPFFywjY3ZWMIDf99y6YXTkg2bvNgzuqE_Y5P0rJlQg2YUGKFNj6S5g5LmHSRUEhD_bhhswIJO9UtgT4w97iCmGhQ9iHYczUhtlYUsRXV3Md7ZJrWRlg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2864 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803584,
+               "lng" : -73.963425
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55661fa007af3f1f8864a87e6b22f5f820c05b2c",
+         "name" : "The Hungarian Pastry Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcQAAAD9Y1Q7oR3zPxm9Tm0eIDRNb_JxakSulA_1VdXZYXQj5L1x1ojcBT4fVm5bQr0XtiDscRGV4EuJSWCEBwFajNwLa-3XkZJNv4a0J8aJVtA1jm9-DfnVoIfXqlyRtd6aztDkPH1_eN0ypyTna51kPOMRBWnxg4PH_382UaVeuCBDyEhAVxmQIZrZ-pTu05Iufat-5GhRS-36PbGiyThFZQYMVSLIQsPwIHQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJ08I7Tz2wokRe5Z0jqyF3F0",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBegAAAOM5XeQOY0eS4iHROH-EwZNYBCGmv3Vx5FuXON1WTB3WbTxpYGBEiLReNFM4iS2ZMXtEtpEhqT60h0xCG0GQJqCfpekd90AJR_33qBXmBp053HYdhmOKmcxyQgWD-9__xyTJUKJTxgYeoRBsLQ_mr7h74ZPuWv6ynv6waN0QzMVhEhCTVbWTtiWsSLRYGpVAorFEGhTYP1m6b4utOLlauO__2oFVWdC9gw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "1030 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkgAAAKt4lsFYEIAOdxjsC-50qPhhOq-cBFqV_35WWI7M66cuBIAEp3lphO1KPNKzHBAnQDIq2RHsV8znONV4E3F4O0f3d8J3Bls-QHXaRWD3oZkkenWJrvdAq7ekTWPemePqwoTaa-kzpaZ1HWV5LlBg1D0BLfZMWAsTRakY_hBeTxielmfXRCdsrk04uxmpTb0fI1NZ5QakvYtBp4B9CZCxgY8SEBSLLNF5j_kp5icAJPdDsksaFKOeRvynJlJs8DpNQ9QdD0kx769Q",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

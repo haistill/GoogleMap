@@ -1,0 +1,563 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAP8_d9z4kvp5gzoi2lEOfkjQzoJY06L6cfsRT3Qt_-bBKUWdNq-RBF8shhhgbh1VrO6VbBANSbX5EQ0FvpEh5TJA139IYOobnAMkoyBB97eHYpBVwJ_X0l0khdgGL49E0TGVVakFJKoJ1XWCIcSsU2XwmkpwMSOQeWZBK29CcBXNFeBU-uuyjZrEd7wkFKZ1AM60rZ0HUWZzhm0f8aXvvLKSMqi0fR1JcZWr_p6jRToy2VUHoe_xtmKfuelnvSA6BIvKXGt9qjy2lYigHWEvUy54_L48_fjI_qny-lge5XF4REqvF5riot1lA9a3zr9MLhIQGhLxvhv8yqea4vxFAXrPTxoUt2_rNFJHJ1T76NLStE2-r3oAM9A",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7308228,
+               "lng" : -73.997332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7321971,
+                  "lng" : -73.9955808
+               },
+               "southwest" : {
+                  "lat" : 40.729542,
+                  "lng" : -73.9996309
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ff00f4783b7db6dd8742676d8dcb8cadaf478c68",
+         "name" : "Washington Square Park",
+         "place_id" : "ChIJjX494pBZwokRGH620d9eYfo",
+         "reference" : "CpQBgQAAAI17Bd8OKE5hPL1QaHTPAfNYaKOenAAziHd9QIVyCqw0gAupLLhn7gz58U01jH_LKYJz0eKQ0G_LvJuFWHVZ0YaKAV8HhyfADl37E3qZfkbg5qLSNKjgtvLjSYTOKohwC4WAS9nobzbTujYTZpKnrDySe5wIjDDmnexAdF8bXRCRC8HtJjHPE9uPK5qCV958xRIQwDpnpQYat-LEbHyvrJvXGBoU0qDqfKgZUMRImpvUzMg-dhsPkXM",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723301,
+               "lng" : -74.0029883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7283442,
+                  "lng" : -73.9958967
+               },
+               "southwest" : {
+                  "lat" : 40.7189454,
+                  "lng" : -74.0054619
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "adfeb648ea9edccec8a59567ee123bc7ffd59b56",
+         "name" : "SoHo",
+         "place_id" : "ChIJ8-JRXoxZwokRGPiQ9Ek0L84",
+         "reference" : "CpQBggAAADGnlLX-2el5BXv-YcfxGPiRBl3TgVzU34CJLnUouBhzunRVciNlMB2jx2hJJ9crtVTVFFxKhGMTuaw4c6ZaVJqLCEnb9p-iEmnrsX3l6Qwm-No5-P0y8XnCvnDfirvEDVDD4AmkYpr1MKuuiYiUHV1ibUwZbq_amazZvDv-wg12ko8HrVIT9xkdb-Ugz6tVnhIQ_besdpHa8au3_UHqhqSIZRoUibus2EcHuqn6WRSkqSdKdbtZODM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729513,
+               "lng" : -73.996461
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "65ebf76326f6b1710b3c522fdb8db421f180d7c4",
+         "name" : "New York University",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBmAAAAACSuRMqfUoOWCchUAOqWDZYOfoRLa27j8pBit-9NZgENjp5b9St4K1LuUhcEJn_gKyKg95tGzQA32CSKIW1xCnHkw2g_6hMpXpuZN59V9yNt2HnmQSzNBFv7jCVEsfmZ8eOqHv8k6XHvqN5p9Ze05O6e3S_Xw0XA6x8ogcTsvvWVNn8UoCIy5XEKOTQWOTDtBRH_LI2D-MteV7htusEYDMSEGyZfl3HO1v4ad7QPC9bJ_gaFCGooaxAh1lBtlnIn0B8ajwPE4Pp",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwZVT9ZpZwokRBfO1cTF0MNo",
+         "rating" : 4.4,
+         "reference" : "CoQBdQAAACcnZDDk5raLNRZp7ybbI0S7mQI81kfRwwI_9WbQ8jbl3BUZss7LorHbt9qT7oL9lrCwcVLrZf6-DVgESKAzA1VmDt8VNQ1rRtRTKwrW5vcSrQra3NPnZtTeAidnyJwVN3tXFPwwZEhY8agkEcC53bd_MuBaY8THKkxY3VbCUbGaEhCGOeOTtQGbr-65OQGa0gW8GhRZDx0fCdXP91ebLl08xL1xkFcsAw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "70 Washington Square South, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730894,
+               "lng" : -74.000703
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "542d8864b747791248e73b802a11a4561a6fbfe9",
+         "name" : "Blue Note",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_uhKE8zZzaEb7XeJXBHDr0JgJrDMoFuQtOqqswPUvWjVYfdS_9zZMjakgowX6L-nm3Ru7-ZGoFAFqqyggN1Pz_lCno_tQdv1P89FuJcnlQCzw3gaXdlO9CfygHO-UkctM1yXqWrv7MB249R7gnImBhIQ3KkukKGP0SvSV9FIHCHxUxoU7iTa7yqsLj8-zLWjQYNWoMcSHCQ",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJbfTV15NZwokRSeNM676BEZI",
+         "price_level" : 4,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAA-_EgTOHDyh4oZW3Aaik3f8Ao2W7dy-lT_77sBQ1Tpy6p7Ia7B48YesOszz7CebX-h0TIbfR7NVEtPLZcrwgEenOA4p21b3hCJXmWBmngX_LUO7fS38n-5UnVzrzSu3lO68wZ-BOonT7iJoP7t-M6KhIQN7LitdU8q2xP1Tsk2SpReBoUpJ1mMu2vOGLiRB2xvmMwD6fdfQg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "131 West 3rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730219,
+               "lng" : -74.000574
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b5e2dba62caca66514f8033605ffd127513c2ee3",
+         "name" : "The Comedy Cellar",
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAm56I1prZ_yfD7VgThU-3DOdF1NR4pIMBYQH6QY_RsabFcDS728y6dB0bStdwmgx3DXyO_E2BVsErK97Cb1xxgTnBP4_vkM2n1T0TWAcaWQIkTaffl2GcYb766UVtGMh9D5yM542dx7GugW9PrZmzdRIQIQb3AkWiZogiAv6PGP-8exoUjSeLqFws99OqWqXFo_kfLE5y9zs",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmzPYgJFZwokRg4zUwTlZwtI",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAG3O5prYgyjVUMO2K6IGPK10xY2I3d3dG74pB2A4c-AKa70RNEIEBhoAIfsreUh0wyj3Fpgq4lvBt6naCmMtZCJXxIXmyrMTUetjuhUFwliWAX-KZyq4DWIAuZYN49dOFwrojr9wU1dU7-1mcmn3mXfu5u3PEEzOhl08rofGl3EEEhDTAPiuG3n34XPyUOaHw6e5GhQnWDlg_YOLf0gGNZR9wFfkWxkr-A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "117 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728395,
+               "lng" : -74.00011499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "195d2544203fd5259453e49d0a951cef692e2aa4",
+         "name" : "(Le) Poisson Rouge",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAETLnSD0JxCg3-sLeLkm36pD5xnoH8jdFNfHABYrSTyd_UxYJ_aSZHZmOjnLeXMICvM87pnB-fEJQ6eHXqZxZX1NCTAiXt8mV-9wS8ajse0WZiaKf6NpN8J1CcR6ksaGqd-kK_rcvdP87fpy1aJIokBIQeJj_CiHimvXMd7rkepjPWBoU0z0iV0BaKJROFDABIHdkLKTqvD0",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgx_u75FZwokRy5YwN6K5IG4",
+         "price_level" : 3,
+         "rating" : 3.6,
+         "reference" : "CoQBcwAAAONYbs0vAgEDj580MJCAO9UjcKSo9jxa-v19TyqKp1LNKXzzar3PFagHVdo2qbiMel74DrQnz5VO-USkaRh4RwRBkkVSFRO-bcRuo7cb7aOq8Ibt6KdiOQkfVkWciF8edEVQkSWsHlr3q96W1V5q0aUqqBL9BBZCdlQEElpALN_0EhBrTztHSNcNP4W-GxajJ8PZGhTAzWBCalQd__84ky2uSkpJiO8nbg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "158 Bleecker Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730823,
+               "lng" : -73.997332
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b0df149329a0f6a4006cc5328e3d42acadaf1b4f",
+         "name" : "Washington Square Park",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAnnc5AayMTilIlLuh9omrdGrf6Z7x2GF9UF9_Tf3lpgSShTXKqLauxH-g1zmuoEloZ7_7ReKsUu37co6_HlOpS_wPHIoNcUsn8qLiRKt67Nqfp3DrmwW83mvGCxKFiNn-TYv0rahNWzSdg1ql6eYKVBIQDt0azwG7vOUXRMjRLVIATBoUryH0PycAOoTJJWnZ2PoU422HLpU",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJjX494pBZwokRGH620d9eYfo",
+         "rating" : 4.5,
+         "reference" : "CoQBeAAAAB8tZoF3iEDVKLxe8mo9O0_Ds29PW4BSiW-Prb_JRSZo5HXLuzLfBabazGVm4A7QR4yS_y8QtpBrUkZCUkpRp_-cqVS_mGxXUIdgET75kwpgEJj_6VUpsVn7kwxEWn0BUXRnoAg8GPsJV_S-tohvIScm-uZPt5g60Y4DLPd0bgacEhBGuGOpKEqmQkK71211S6a5GhQ7DGUt6MpXb44z6hjkZTMEyHNBWA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730164,
+               "lng" : -74.000624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cfd1da61246a7f1ee699d694807d293006852705",
+         "name" : "Cafe Wha?",
+         "photos" : [
+            {
+               "height" : 1268,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAYXn2xkFxxttdWJqmjm0xeafjtDVcEg67bbwkHsS86HBBiDY6oblI4RRkp_7J-ZIWXD4fkBqbtM2PCVEbC41X8sgHk1fIubIfrCwuolUKUA7Wwed-ayBevX_LqziGdBsCRacOi_GAqlzTRsEj-ldsYBIQ5QTRFPBKnaWDW2Ju3yPvlhoU8NXwgJqfgmwn40ZZnWoO8D53oMM",
+               "width" : 947
+            }
+         ],
+         "place_id" : "ChIJQR0PKpJZwokRPrkfN3MgH4c",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAZapkoSzfioFCE7idCpF3Zz1OBNIG-boZheplxcuRHMJcvyu0C22qJGY6wT6VFTO3ceZCJY7Fxo0szZVbPkajZlu7Q1rvJndqppZAeFNRUhC8K4RG-2TmxEtW-TNe6fiRSBKrQnw-A8j9V21wlHhYtxIQ9Dt29a0rZLR-erUs4hsi2RoUxWj23viAE6Bfot4O-uxmvzwSKpw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "115 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728382,
+               "lng" : -73.99917499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1c62b1d9fa2c66052c01736855bb9eed65a574f4",
+         "name" : "The Bitter End",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyTjWUPUStcXDXKhS3MTsJ_6Jjgi7RW356Wt4kMwdcC7pJ9vpgT2CN9Qq5V7RwjHeHxHkygAoucKK29kWDanK0AjMAzYbyAggONC2q81AcwIGD4LR_A6LQI6TI3eAGxbyMUywxOj8RDuT69rizkZTaxIQqNjRzcD58uQ_TMd4ESC2cxoUuNrsMwA_hr3wJdjUODCWEJSecTI",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJDzbk55FZwokRM7ZuX03R05M",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRwAAAAapXobcEEhA55Jq9NuD4gwPaN86d6EgVMVXRsYc--l9LiFofpEHCUgwvLvO6z1ouxrDL6B03hDI_G9CCwKWtlWv1pmslq8VOVmLWzXApdHoMGaZx7f2m98ZWCq6iEW0sFBsfm5FQ8f3gtFJK4cBwRShIQsgECjuy9ZssVGmd3IpWtgBoUODx7InRNOWbf7MWJBwyyEybPCok",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "147 Bleecker Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730537,
+               "lng" : -73.999499
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "cad33d6cb924117bcf9a608a303a59f74ae36db2",
+         "name" : "NYU Law",
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBigAAAK_68E-gV9AR8NEh_meBBy30e0BsXoIoQRRdMIihCrafBReiYStWB7FMKw6Z_87zigt-7SYzX8v0DDduRELje7piqgfF66fYccMPK2em_zex1jWNbCB7wPtS1F8BUMTrmWjqG7u_6mfUs0Y4rXULYTfDguzQ1bvlOYwUJvTERocMxnDegHg0V5qhUSlvhfeSIRIQ8qSK74FO9Zlx0UI1v9n-LxoUl7E0QHF4n5o7bQhks9U8HiIdQbg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJBQVxeJFZwokRz0kNJ5ypX-4",
+         "rating" : 4.3,
+         "reference" : "CnRpAAAAds1YyDSkEbtzfVHdozBT061K-VOvQlrpmwHg4pVLw3Ng7Q5PeZPrL2A6_naIsUGQzooRZjFqlV_U1x2byFa7Sn4hr3vNLBQscflv048g10dbJ8X_bwuiOrLe29tQ8Ou2crU5KMRdz_n-ssmL2_nQDxIQ7Itt8_ul2J7pDECBTkYuehoUIDrIe9_WG2HWeKst2_WRvqvfS1A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "40 Washington Square South, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729892,
+               "lng" : -73.999658
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c81da205c4ecb6588681f24d9904bf565500e7d",
+         "name" : "Peanut Butter & Co.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZIAz0zqGaVD4BVg7lRTB0jzUooDff_ugTpRqltNEHy58FrUichcrv9jNA2FyUM94SUS3kgcVMezsQDXokb6o7hCfna1Jwnt_I_tUZcZ3JmUD3mPuXhiY1UTZIe5Y_PWuD89QBtE86BNmgLkxY8R3qhIQ2ohOydSIoUy1pbcfxsCK3hoUZ_oHuTXbzuBpl14qgApe18Wfi7Y",
+               "width" : 262
+            }
+         ],
+         "place_id" : "ChIJebdQmZFZwokRRSjyHICzPps",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAACdIoVJ_btrRv-nVCjIOWuighkVV9S-1Gzhex56xuUJ5b_Gjt0OpV5w1WEJUcOmXobiyB01jhl1R4MAwAeNayffKg4J77JtZZ1EcvvQNN2Ys3hSPGOaxualhgUjwEvfo-mvp3172aKVBZKiA4olf--zQkSPKH39cTiz6jkqhevQvEhDbegY7o8IkmjIzVHscePs6GhQwP3RNS7bG6a3S7eQx6NZK0IQfxg",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "240 Sullivan Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730249,
+               "lng" : -73.99832499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d33970326e7ba8366ace3780a07bb46d349225cf",
+         "name" : "Judson Memorial Church",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 150,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4Jie1_phrQBl5zzBntzk6Xap8zgBeXfbeXjmrk433gw2UEESiChxymxgvZ663fMBUyqmBF0PikJVFXZtY85VmZiv0w9YqFUVcspQLj45Lt7cIPsaCPmKG8RZ4qrjbAWms-C9wcc5SRqDEQCex4Pf0xIQg9ttIdkPyV9dnO53wRpWaRoU22tzUY1YMowV-hSPkuvBOzj0-s8",
+               "width" : 152
+            }
+         ],
+         "place_id" : "ChIJ6VXcB5FZwokR4r91s5p-AQk",
+         "rating" : 4.3,
+         "reference" : "CoQBdwAAAEBbhuHFccbJTUrnOtbgBchq2sB509VSfaTNqIAXXx4V4Ljx6FBqd1lGTcbX2VhpyBCHJrrd8AI0jUoLF2pDc6zS34dyFxaamIMfi3p5mBP-akqxwmSXINS98E4FrEfoiBCgGCfdq69LvbyU6Pxo5ZM4GaUqXTGUOCmkzQXQKS7HEhD9tTnhWHsUEWkAlzGFEnXYGhR1gElFGGHvayrX3R1shy58fgnUbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "55 Washington Square South, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729463,
+               "lng" : -73.997249
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b6bb94af1ccf4400a0049a4359416421f20aaddf",
+         "name" : "The Elmer Holmes Bobst Library",
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhAAAABC3MqTj5vN3sape-sPG97A53pfLJGSLfjrN2624-_NkrCbClD0MyD4o-exn_kzIYAbL--Ejo271oRMoQHi6nWfLxC-wULsfAlg1GzNK2ywnjDvkhUACemLCJhhzzJd950WVK66-9GjS87GvEVkSjSbkheUvUyH1QvL4EmqPSj6k9vVTd8d2hwsTjSUp-lrWthIQLM0U2itoOewC8rkJIE2gUhoU8OY-n--yO34ANrtM5_zQP7WccN0",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJhwizUZBZwokRoumg8C3dKGA",
+         "rating" : 4.4,
+         "reference" : "CoQBfwAAALhGU_pfU2KjofC6vCHN_TFeqoKTwlhNutN1r0jCfZqNtW7xq1tagNwARmgL0Gu6q03JnaxotMXxqtOmSZylLozBTwkaM9eti3XRtYk_QPL7CNzkwkkcVzRGY7NrYXyA1vLOblUh12xGD7EQ_BviHqy1CKkH0hQnVjiAJ4lwU7nKEhAfwSAsrD_99GPU6pB0c5prGhSbUSIund9MNWIfDj19A17Z0HSJSA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "70 Washington Square South, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730242,
+               "lng" : -74.000443
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "36886c0d23c368bfb3581f35303def00c1ef77e0",
+         "name" : "Caffe Reggio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5DDraKpIG4jNhkCg6XA3N01Yd0QN2wVYyW9suzCVxrNQTpc-W1WCHJnh-oPtAkVPtsJO9y42sLwIT4pv052Dhpra1LGPNO5P-B0fQsJTUvEFWM7c4GjWLPhXXWwndndNI4jMWoUvL-meiCWEgm88_BIQeC19LrvLiVMwFUco99pBABoUf8Aq5W1dU-1ux204N0pW51pFMH8",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJr4J2gZFZwokRA2y5p4UfH8I",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRuAAAANcPXWYR0jIqNXErt-_BGemq9Z03IvCOYdYl61HUGQtSV93ch9qUV6RldkLrwKy-16-ksXGUnHFJ2ZjIYEaDF03I642ELFDCzTseYinmJ6lNPBpXPY9I7o2Y3Graq9-2QZgT_Qb50xd-H3qSvRPX3qxIQJNSQxpWuEv56xVVgjRpcixoUbTds_30di3S8_EKaZzM4AD0LGmg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "119 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728793,
+               "lng" : -73.99856
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "0ba6a2d675d9762f3be02117a3d196950f821aa3",
+         "name" : "Center for Architecture",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuMgYsCIuA0PROdaR5vciEc_09iZgN8ndmmV2yOJq8M80u7hcxtWIjcs73iiOl78tYtSDJCPWhM42zEEIBEoGojpCIr0CKqyRymSJCu2KlteWUzc4Ihk0vNekDCabqZF-GpcgXKksgp9e4B5m4WQpuhIQa6YPFR3IzDmvcv6_lB1wmRoUc20r20I4Lcm1AFT9Dirvm3IdfEo",
+               "width" : 966
+            }
+         ],
+         "place_id" : "ChIJQ3JfxpFZwokR5bsw1ektmrQ",
+         "rating" : 4.6,
+         "reference" : "CoQBeQAAAIH3MFFSx48g2xF01jxzt8BscyjSvXQWmF77I06xkfDwTWum-e70bELZ4tv9Avq1MxyTaJvRDSeb_7nfDHxaIiOpU4eEb4j3OH9VbzoharnFfNnTwMGSxvVPkqWQVzHxqMJSAzBTIS06uOMKIWmHBPNpiO-9eLDetQ3C5mTAOHnIEhC_WglMHrp4s77WTKzpDFELGhTWssPS3FL_vD1fRLyryurciK_CNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "museum", "establishment" ],
+         "vicinity" : "536 LaGuardia Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729842,
+               "lng" : -73.99776300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "06910ba265b59aa19151a6e332d65febad501d11",
+         "name" : "NYU Skirball Center for the Performing Arts",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1623,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoBgQoS-Aqb27LEOuPJXMpT4P5puWWE4k5M6Q4_uPzAzfHtHhGswJu-UeaycTyxK3Cs7TpM0jnseUfe_YxCCQ8l8VtDE-BrUxkSZUzfVg9YlcyI88EzVk9BLhijfmaxSOtckYS5vogexeQi2frlZzXxIQbJeuEBH9UzupmMaFKyOd4xoU_kEo0LlhXOjHm0MTJivptTDlpjU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJl7w5q5FZwokR6g6SHAHPjFo",
+         "reference" : "CpQBjAAAACUxnL5O_U1kbRpgs0YIls34jVkYqfQ9qSutME9x3jjT_yYM8GcqDML2GHXJV0-ZCEkt1Qh1oiB-1Gniwfknl7zMcsVFoAMFtEx6w7DiBQxzX9k1Ws1HW9E0KPb9vlldxYjmpRQxagyfH7Sx1vwKFeOrRSwv1QFh7WZ6fnNiM5go1F8fhDtRhVogS7hDQ_jL0hIQxBZ6_yVt_KsH4kuDyuSQyRoU94crDcgPfjAVVKazOf4KDdt53KQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "566 LaGuardia Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730008,
+               "lng" : -74.000691
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c4876b1b87f198b9175caba13366a14568dd79e7",
+         "name" : "Minetta Tavern",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 920,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAWvUIac-WkVlb-2hFWYeFs2UMp9MpYHsW3eFvZ2h0IpQw3OlXJ9y8jSgnYRskT3wsQeHde0BJ1H0h1li0uC76hErbVyqKS0ojl4Qy4pB7i--rkrDh1UpSn7XKGs9I_C-4lSjxFH6qmJb39HK3-I0QXxIQlSPZ6pMUzDwuHRrTxOWk-hoUVns3jk0VfOk9JasEvlYjZSwEC_0",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ10EpKJJZwokR-p1hK1KQHSA",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRvAAAAHts9P4ZMxwMd6Hy79VniIRI2e1WqEdvsQIB5venUAVZQ_WZMtg03fZ_PPFWDLh_co4APdtDgzl5l4pANagTKI2VfA69wXC-lNjN-Yzr6vaCwV-_57VgV9IyCJjk_iQpu9mCc2B1UBdofavsvrHr_uhIQl-C6boR-g-1gMGsPnXK_GBoU1CAulEcF_LiGLVoW1qUkgNJsThw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "113 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727945,
+               "lng" : -73.999303
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fac95fda529cec2547cfc87175e6d15478dbe2ec",
+         "name" : "Le Souk Harem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 269,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAL7J3Z-IfC9xF6VL24htyfN53gRyLBDYnv1WKiIyUxYo5i1PRVJRvgPDN_HA5DBqSSWWanVpXvek2WEmS4MShnYL_iPyjiHZAofSOQgdzlfmvKwT8599dvFFObf58GBkpv0kAyAtJdWBuRyjfNUZDrhIQ5oeT48gs37Z2WD858IqQlBoUHRmD0tiiujOBDmQWtCwHgAgzCq0",
+               "width" : 187
+            }
+         ],
+         "place_id" : "ChIJ38hxfnhZwokRx1HSFLj790w",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAAQ9RNzbuLb9FLJRYdzgsxNd-W3e5kdKJph7zJUbN_Sa4UKRCiTT4L3frdR8GwHgOUH9O0cr61TntzU3QAS2zQ0FuaWvw8RD7Y5v8DO2FV8nBPOBzcGsznt03dRanXH6KZAcTHYNKegQWsGBrnlpA28RIQN1LRLZZf4Gd2_fB0HTzHTBoUvka6BMFrPhAeaWGn5pMZmLOLksc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "510 LaGuardia Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728383,
+               "lng" : -73.998132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "beee4f2820a0b9bb7ad28f29b435a9bac82ba765",
+         "name" : "Bareburger",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT5vY8-PvSmzLSWJ1zeAmqnlpo-Z9OekhpYOz64ihdX4k01wahatBVanpkWaguVPAmTuD36gracZ2N2Q8UfcKuZk8hLRblakFFgyGR9PzZHuTbp-8Y3-RqDzEPG3AsIapwhq-lXYtcIFDrrx0Ya6ZgBIQmArt81JT6LDbeGvOrdY_JBoUptMEFCw1rk8TUIWGxZ4jikUm1f0",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJUdgbxpFZwokRz8fvwGLAM-k",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRsAAAAR2AGCnKxcSdJhFFZdv5C89ovlTEPpgRVIcC8s87_63kIzzweo7JFsyYuPNs9tyZXisld7mkb6RVuMPMW7w3CQR-pB5QdQiAVZTxK9N6f2HLZAtLekxGE192RJe_YwfGUOW--CLaVYzu5UxWADjb17RIQYmi1pgy9iaFkbMRQYvrlBxoU-tl3RCbWCcH0uAr28NMb_49QtVw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "535 LaGuardia Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7335719,
+               "lng" : -74.0027418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.742136,
+                  "lng" : -73.9907956
+               },
+               "southwest" : {
+                  "lat" : 40.7253563,
+                  "lng" : -74.0108156
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "adbe463df1d2acf91d3251423c73ff1b938f9061",
+         "name" : "Greenwich Village",
+         "place_id" : "ChIJpxMyDJRZwokRX0XfgiHEgog",
+         "reference" : "CpQBjwAAAOT_udPRBPOQGF5TCPJMtlyAhtHtpo7BVnYH5U2SSsxim407IYD8-_bzF6WpzaG1C21_HNd25ErlEc4NP_nH2m1_g2IhfWDe4I0OUg5efzv9UgKumjOsrhx_UbqfmEHVKrFvo2goii0Rsk6giEpUB3XT82fyeQ4TfjZRVq94zmIMVEzdWxyKr6N7t-H--Eyl6BIQBqd4akx45iGENfVUWJJkUxoUnJerxUf-Dq0zhKEKgKWAz6SUbQA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBigAAAEbGS_wX-pRlVrM96C_E-eLTraNTC4utzvN--QDhaB8HV5H_QoOPNSiOeQnPBpne0A627MH5V0F_p48YMACyMG_ZnyzyM0vWoMov_nARmExuiQsn8oq9dEbO-A0WPnDkPllww9Yzt2ycMA742vMsJFW94oSIAb7d1PzEC0jSM2fEdBfV8F9gYVJSmQtoSeazohIQj37hzXSXKd2IP2Fzh_nTxBoUv51KsP6broA3-0gXkho6L9hcwlo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjgAAAGQQssjU9sD01XPRoZ2uHmOryGFExjnFnNu4YJMdeGRp1-xmCFWJC2NGkHgpdEioosG5O1P8Weu8WwOzKSMvS4fDprqggyFgBd3dW6Bxggopzn1vQsPb38_vE-6qFY1Isa0ZKSh6JvQ76i0qCmE6hTUHXTSWQ_THP3j2Sjl1V_-AY9xJ1je6ZRiflokJh71GQBIQ8EdIPqM-wFwAuI0D3bWl0RoUi9tCy6PjOPXqMANPxFsdTDiGxYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

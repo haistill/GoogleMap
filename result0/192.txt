@@ -1,0 +1,551 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAFjc_GeZ6DKG_5CR-BLUM283bCqZwD-CeqQOvcT1Uvl4ROm4zeVQwhUCBsZsXiCmxXGE6JcrjuF9zMVxp6n_S6oxNOx5ixsRy2HxNChTSYhLkUOOrMQv9Gd9ynNbKtXSuskEBR1CcvWbawGtfW-fYYb_aW4-9rCurjhO5hwgq6t40D42dmUJRcbLjISwid8gye54jOlBtIu0V2KVOK73JIavHzpesQjHxHX8NrZ0Y--ODE1yuuihxtA40i8OkVj8FI-GMX0GYGw4IotL82-rpGBIJJlk-Vs_nKs9swj2XMgwgckBASDjUv4I4WFXXZp1xRIQIS0X0ArRr7zn21u_FLojWRoUXCgT1wEuPDnvLT7RLZ6MYdm4x6c",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7140519,
+               "lng" : -74.00283639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71776149999999,
+                  "lng" : -73.9982199
+               },
+               "southwest" : {
+                  "lat" : 40.7097756,
+                  "lng" : -74.00873419999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "598e04bb19f69366f316e9ff214554562a14ce60",
+         "name" : "Civic Center",
+         "place_id" : "ChIJEZaa1SNawokRXvMbRrc0HC8",
+         "reference" : "CpQBiwAAAIMAPkecHlRqCsnSKOdXcHk50gyb7vXSO8WZCfJM-1n4osBWfCTeILT1z5jdY1tUrKNFUb-qcsGskUL0I8GYx93R9egbVg9_QP1ql3-Bz5TGGZs7o-_jxCC2XQY8epBggXRNLVbUpIMeTkZc3paJLaD0G3XX-Ld1RnZzwDcVC0f9OvueEFEXnRQIVDea3rrH6xIQmSquPPFHIfdMwjXqOCxjthoUL_a0GwriEXak6xc0j_GT6eVqSD0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.711365,
+               "lng" : -74.005132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "8c83647448c1f92afa116154aff959ed65b56675",
+         "name" : "Pace University",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAATiC-Ty_5tb4Dl-znBPVwY5Pti1J5Jeo2O5yl78eoFGqXLzop9TlRYeNWF_oLAlYIeyAgBC_uSFX_Zo0qiVSvF_ReO8UdagjWdaUXYtJimorrSymYRtqKVUNFCWIigeRhHnRdDSdh4hwUD1rTuPoLMBIQ_tTIjrTf0qVz0qQuLFDM7hoUH0AQQF2Yn0QMOkM-7zp6Xl00wZE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJWQrTkCJawokRP7WUsm4q4EI",
+         "rating" : 4,
+         "reference" : "CoQBcQAAAAQWc5EB1YCtMtCgqoWxdrox5NF7vCp0WUc8sLE4TKLuopQjLIvWhXdm6XxfOB_So5y7KGs0Oc2I5rA4kH4V5COYjIz9okbEwpgd3i5EFlheLUv3ebulwkBK34_JCVMZ3eUwoRVzNRR_rHsk7hCQ5fT94hzriws1jRQbxoiH4dN1EhDajPgyJFHVnmozwVnxaspDGhRO5MXyuST_8W7AdlojP3UMzki4Zw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "1 Pace Plaza, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708707,
+               "lng" : -74.005324
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "62d2705186d068b79a32e9d4349d8e235fd0a93a",
+         "name" : "Midtown Comics Downtown",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyQBF1QunkV-iY9W450OJ96amERn5A__3Oy8kjd2SjvW-zLI4jBeeCXBQjfdHMVn9VTQj3Cd-rfbi-tdQTUUp71eqA-77-u0V3L9L6h-RBbd6JnbAKi8nnBYI3dSvYHHgytL0u3fcsW5BqzNa-RwQohIQdX5Vs-s-8lM1CLjhdRI_RxoURLaqvxPchArlwnsFBJ6TN5mU1TE",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJhb4pSz1awokRMqAUarOuIB8",
+         "rating" : 4.6,
+         "reference" : "CoQBeQAAALd1L1zUXe6tRz7_OlqooqqS8wAhK6-AhLHRShO-nnho4xH13J-0EcUxqvWCW1pso6U45vzEIdgcYDo98VMOfMkWq6hoEx0SiFqfJP6mZ-IKRx_zKz-SPJxEfyoXvOJ-iu3EFC9yL1Oil_rreVy8A5aWX9lg1fsYdSTB9G5TixNzEhB5OXY6t1mvfGKkG_7XHjKQGhQ5-mv1y36USUl4cGqdWmV7-zj5xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "64 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.711283,
+               "lng" : -74.005286
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "59d48cb729a250ee755eb2c622e54de6ec991171",
+         "name" : "Michael Schimmel Center for the Arts",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGTB3iiJawokR9oW0R1oqbBY",
+         "reference" : "CpQBhgAAADoyDDAGq5NcxwoBP7Xls_m66bYf7j6d8A6DhbsQR3GO8Ik1-whgnS9Y_uKmkck6GtkCi5UxC9-QrsZspSBC6v49rxGF_WvGL4cZ2h8uq6F6PSkcxHb0OKiARKIcwxrP8d9HFaPHvaEH9Fd3mKUBemLBfXUSubg6QFaXUgzDLZaYPZHFP1cRqNJlFpC0NlyGdRIQNHQkKBSajlgbr1G9VdcF9xoUQzN8EyD35240NEKKetx3G46B3LU",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3 Spruce Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708883,
+               "lng" : -74.00203
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb123090321226d946f06cc777fa5b879bca4e0a",
+         "name" : "Hampton Inn Manhattan-Seaport-Financial District",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 851,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqnKPzY-74nbN7fVwI4XvjbQkT3454SkyJCt8colKHyn53EqOM_KggW3mmr_pwRUmLmXN-7mB4uRjT8yOujwsJI3TRVlSFynvhP99O6Z_l3tmrl_KvQu-yjMydfP63FOaySqlH7AVxUjJFXBmCLat-RIQYXTS4E5qIlze7Nuee0f-MRoU7QKtmx6GJMjqFpR8XmNR26-z-6s",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJJe9tSCNawokRctegHjoZK-o",
+         "rating" : 3.8,
+         "reference" : "CqQBlAAAAIVALFOerOKF6KA1Z7GQZsIzJI4GitiITDT85Zw-sRdw1bbKuKLvbQl3p2bIsSwsVZ5kIlZNREx8gtvtX37bN4NjkVvDooEJdYAw1g48vBPYud03dINsWe0FHlFcIvLrNmVOIJ_fBRG-UVzviaAGNSKR0p6YzsSsxnF8scjv9KoLQP2BxGv7VtabeZxEOU8vScKYOF5gSkct8G1uNyJvj7ASEGYNODoKybMFOKXDbFhAxNsaFNassOt9Y4eXihS4ae3y3roC0mNO",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "320 Pearl Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710387,
+               "lng" : -74.004982
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "c7845b1b5c70e9220765d3e2b01854e1f2023695",
+         "name" : "NewYork-Presbyterian/ Lower Manhattan Hospital",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CtQBwQAAAA6bla_I7QXCpy2hUc-u3v9b2O6w5FbOTWaQtFzIdjBENpQH3wX3bqyNFSWW2Nju3ztlVXHcldrEmn4KMND94JLtf9b1ofNS-ublAip7ZqFg6dW60H8KSqdc3zVLdluRq39X9zSnbVRmZ3C1NcqGJt1NQcMhQSNcklnBc3hUYFIwmb1OdBof3wxbqK9nk6N6FkXx36AjRSfYNQcprHdB3SAP8xQLXE1sMiOI1Q_sSLvpADALVzbZFldhF10M_899PGYOUSsYLc4mOmulveQE64gSELp9_GwT_Ov98c2ye54jcfIaFLUGxprQz5Nr6Z2RyFgGPnWxK7tn",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJpYoZlyJawokRv65psH6e2pI",
+         "rating" : 3.5,
+         "reference" : "CqQBkgAAALKI48iThMPsVaE-o3KJqOo_f93Dbgx3TlcN9Kk3PaUgNG2TKlXaLOEHCSqty6cwZR4Tkbkd6-qYyQ2clYXl0G1mmdJdKHbvDfFCX6rD1OZwCIkuUrpACq6aymEfrhGqbfek1Yovz3Kjyx_8oN7IJQbLv95sBDDSoaVPsf6Pg7c38TVDMuX-OqPO1qDV_gJFy8AoiFFfwthDSoJR5MKMQ7MSEKRYHI5eLw4AMw1wKqIpanoaFIM3kjwZcBYZ_ljFC-5D7koGnYQw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "170 William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710885,
+               "lng" : -74.00561500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8935e5b326b4247017c52b0f82f1f2016d7047ab",
+         "name" : "New York by Gehry",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAx7_5ophPWC08JZ9i2jQDprIfiyu3pz7CQ3tRZe6oNcjE1zEpa-7CjJZZUaIYaD6X8XCaovSVwzGxsQMcoqIoKnvjU_EkrH0JwzGuI0cEIr1YNUgb7GxYyebrt092TOru_7dpkEI3ehKeQhsybJ52gxIQnh4c38Ekbta_n8zBj5BxhBoUuquoFabfubukO6olh5Y0vTy9V_I",
+               "width" : 992
+            }
+         ],
+         "place_id" : "ChIJZWE2jyJawokRIab_-0urpH0",
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAJeHuwM_O9mwlA-p1UghP8QaSPVrZcEkkIMOlNs4Onq_Lsg_-wR7fRPawEyahlZiP7enJCwNGGWE_nF1OLI76UdWUQQXyIw01Xkeq_zUe22ctLR11RbCpZgsaTCrr4MnDvT-PbvtyTPS9ohPq9WNe5G6eRWJIJ8GNbcm37gJTZupEhDp_oeRkD88L6SlFEu0hRNBGhTlvU8ETieP8aWhZB9yipwDLW0bLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "8 Spruce Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709292,
+               "lng" : -74.003794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e86128bf30d3d13c49317ccac0c5179d7900f601",
+         "name" : "Southbridge Towers",
+         "place_id" : "ChIJw3jXJyNawokR3AMLXyazZNs",
+         "reference" : "CoQBdQAAAJ9WVMSfnZ9tBNY62Cmma-8vKiC4YEIy7ObtsqLURi__48gRR-Fpzfrqoxx-7SwVj2Af-01OBfMMrCkaCYlC9zLt2wIHfqG6ltESmu5gGYFRB0efsD_b6gIdu0yyQ2AMhevrmqA-rPrWYZtOFOk-w0gqSZPyJG8tigL4uIvlt4xlEhAZdxPZONz9HGlXxVptibE5GhTviFsVGHeAVPaXiHPYx0ThdxVWFw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "90 Beekman Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708142,
+               "lng" : -74.00493899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "00a788c119e7ef4f43ad045c9991b7739839fdf9",
+         "name" : "The Iron Horse NYC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3Qjnty_QhbJuW-Mno072A_Zz38zfBHAI-oBWEYIBD8WJCWXzQuVkf6SG39acOs2J4W0bLuE09y5l_MPhpd6BdLZ1uTh5Vc5V7Ie1U6w25KT4tdp7X08bSdLdEsaGlElEBW-4aPOh8vUJWbaOhbnX8BIQhOcf4PCyKjkXkqjQ_30fIBoUrZvuS5nDUHGMqKgqgKvJTBVDUqo",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJKwU9OD1awokRQIUbiv9EgPM",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CoQBdQAAAEHSnmat3k3IGI6Ns_EGYMZL2fed-s5SH8Xv_LR6dhE30lwkJbM3fxtkyIQcnKCdNUh8L33rubOSM4vC08nOb2G4MDd36GZWAgrqIUZPSICKBbCq77FsAi8s_P9Zgo4rtQzzmM-Cea8V3Tob30Q-EtdftTH1DM7pufmxdGo-A2SiEhBVJXr4BSXHDoUT_7sCkgPhGhRnoD4FB5Ze0VHKolEElW1XhtaaoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "32 Cliff Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709086,
+               "lng" : -74.005785
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "217690d7168c3eb5d8faa12dc96757d577bbfa01",
+         "name" : "SPA88",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 481,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcQAAAKpVILBmOfTFK4idTcM0ZiPrviCtc-Cr6HErjC7hL9KTCTEhyIZqScO-ApLlf2e6hxYg2_dsmqrHy-5YMswwzaquNwOZoF2BmEocHlmLQf8mIRNAmvSPLKRFD69iIfuwyDl9VULSg1gf4q9Ut0RfgtXJ1_mc7icUTnW4dKY0ywKMEhB446mbedVKwegEW64Wyg-GGhT0oQRgYM3b8lFm8dSDp7zaoP8UZg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJcz7prSJawokRgSfTFIZPO94",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRoAAAA5XXuP5QOP8t12qvQ6cFX9EVTEK3QwUIqzu3mo0EhE3mT9CCuHl86IS2WfxMVu_rQE6-q-RVBl3aQ9hj-IA9HSYiuSmbbdCn9O9SFhDDM-NYDQgPaZBLkrIE_F0jJCJ5nrNhkWMbHPq-HLzDa-Fsg_hIQ6wq3twCeTKuketacjBKD9xoU0QjQKknxBx0BoGwOHVatFWgZEsw",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "establishment" ],
+         "vicinity" : "88 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708516,
+               "lng" : -74.005166
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "c8623e952012856bc5b2da0b2230cba4568fe8a2",
+         "name" : "Enterprise Rent-A-Car",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeUCYmIhvWMjWQTcQbF6MxLS4DCFoO6G_l7buRBdhjVBnD0d6EQKUzFyMU1nPmZChp5dho0BPlfSjoo8Si1sUepe6JQ53TU-PBPJxlFA7-CmUBM73e3HHhmIe34qq-jHT6IEtU6JgCO7gddsw1R7gMBIQZHU8bFWFwVGDKV7AXhnWGhoUHi7biygeDrY0Zy03iPAxai3eRW4",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ7bL-Sj1awokRMcwDrWyC1iE",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAIpB6TwdWujVu2kp2RQvcGGrkO1-spMKrMdRx1-YmeMndMEyDojsOUxXO8e6uN00IjI-D81QnKKrrQwW9q93v8UwfvSFn7hk52y2TCtMS_6troEJadmi4awnJo-A8-ZUpJ7wJLkXUrAQ9Lk0PiHZThQjFx7y0PcqrFPn6BuYyOgbEhCmVqLwfJjuEvxyz9ASK_UFGhSaBvuc5DX5DaFBVmGn1f10XjwouA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "56 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70914,
+               "lng" : -74.00585700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9044b7acabe91ace6d1d038ebc9a9f2a0b6ccb72",
+         "name" : "Bennie's Thai Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAGAXTRafY158dU_RXufUGC9wYSgv8NsXNMfUyJAbJzCL-Vk0TtciXSzRM5B52_IwrgYKf99tioishhg4uweIHciGgjmJmskXMm-LZoEp4Zlu2pjio5HWSl8YziqwQFzTT9v5iHWkFXt9MqrEkJv_Nh5R7hR5wy48nQHwy8HsebkbEhC0saCwvEB-uhMS7GBx4bqCGhSNHZs1vq8h5SsmVKQqPn_CrCbgLA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJcz7prSJawokRm2Uzx28dk3c",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdAAAABeOwWYhwq2L3LIHlPFp9byp1FCOvXW8o2uTxdHP-vY_I5UHg_22sLu0yHWoqCd4vZdiiSMncz2p7egOzkRG7GEx5sGpiNVPlAiyciKIQvqFBI2-ZJf0EH27R1HrijTmYNQ3_VeHfoL19wBSS5PaJomVF01BvWN25svJYUqoz8V1EhAT5NixznnFjQBTzxzvVtT6GhT-wH4K4RQ38_jnWAL7JyWmlmc7mg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "88 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710162,
+               "lng" : -74.005482
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ca67b821155c3630d471df043d62899a4bd3ab2",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_uDQYUsPtcPdtlsdBcITA1S8RH2XpAmLmo39vCCYyzJg8nkwGjNou7b9OSiLuOFd1TIjNtXHep9HsZwJ-0TCUf9_TPC4OyiR1NzOAbuij515b0KT4fU5PPF-U4RE0BXcHg6-DXCUA8dp9ywTk-QuHBIQMM5cJbzr-f--jh9oIAJuTBoUPxp-LUIveB47eVezkG8gCORD4QY",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJyzSjvSJawokR1yVtQzfxsEk",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRoAAAAFAdxK5WIsBXGuR5Apfl-OytfiARaYlJo9Z3qGag7HYnLW7fmfsikVnz4tST3HSmCVhQMR19Kl1uwgGkSHZU-WjuBrY71PuEEDCZydDJvAwzAXL9e4m83S-Bt554H3iiWeZDT9pGgOxgCLcOYI6AEuhIQ1iVPC5fbKw9NnY6lvhzZoxoUpuxr-KlEle_X6CR2pO2iyYLF1i0",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "45 Beekman Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709786,
+               "lng" : -74.005527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "08b61424265ac124458c992db5d62df2cd2518e5",
+         "name" : "Medical Associates of Wall Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 208,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmPOfq26jvt0TKIfxd-ZfG6iWpdZyAKUV6eE24r2bJfSnTwgxbGlXfzkHFdVGC6PlGtPist3qJtAg_Q3Qp79XSSXjCSWAPy0uKkWMilxF_wZuzVAmm6aia7wGWUXIYMGHGUKr6xf1CNRtRy4I5Eh4AhIQo-cyDkubM4KCDCEI6o6VwxoUAPMxOuReHjP3uRAFNdu6qw4oij4",
+               "width" : 281
+            }
+         ],
+         "place_id" : "ChIJx-yEuyJawokREM53oTZ0oJg",
+         "reference" : "CpQBhAAAAIbR7ura8fI-Kp3l4c789QZG9ShvB3lNajI8dzmLhiqLJ6hr2UtPxT1Me1BFJQqirpgPOdewSXmraLHOOmAJc4qWtFufoStMo2jB_9vE-Q6LCo4i4uIHosQzCJm5vJpSpMAzKyoMHeAEbBub094hnfx2D7hIZNCuLXpqsdU3Ta4-3DZIXZLp-LZ4o709Ab9XERIQ0S8XBgFwAK3zzGvC07t70BoUfWE-OA0ly8O43Q-cWaJLjeSwzzc",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "156 William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708274,
+               "lng" : -74.006253
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a761fd2ca06891693843bbaa33eafe3bde9bc3e5",
+         "name" : "Jubilee Market Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRlAAAAfaz-PCTXgTmWgRRSINI3uXGMF1P7t37vXhbXqMFOIdmAQRC_LpmgeVOnP3KlVEz5w7goJH1r40YquVOjuqWUANojtfO6DoqfMZDZ5Kyd9rGxGsDAfLpUpL7I0Q9W_PNArCtowiAtDKCLHwKOH4xg4hIQcU3ug3DX5IyC4KNilhDXCRoUAtAHuoQCyVK9YmRV69mAXRWvtiM",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ_2plXD1awokRGHC_fgD3uWE",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAACkzBGx81YepltSNmAXtf2nNnQV-c500YLNMp0yO_S01c7qEI5jdQ4CsLZBK-YZCwnfTCnQ_3Y0sgOzH_EvRL1NVyE-aYK_b-_JBLG0HA5B80z3vROw938jGYxwiUx5iYDYoxcmRLPK1cjBMQ815wBZ8J82JaoXB9v7Rw0VqlJM8EhDJL6F3YXFeOZgaKpPf5ZAQGhQlATc0biv34iX73vOOV0Ug8j0qGg",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "99 John Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710334,
+               "lng" : -74.003626
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c840e9fee075ef8c840c9379bd11c769d42ff459",
+         "name" : "New York People-Disabilities",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_aF8zoqa_cKDp0ecWF80uk-ov01m4cTlmfh_gMuGb-JUfLWR7DTXkRhYdJf2gqCO7jbDYr5HxeHJRCkled8mZHpekqPP0o2_4Kxam2sffYfkCzPHvb81h_wE61cb813g5Dm--bIUa_7yBUnKT8gjkBIQgschjseFjKq-ebCrcNEV5BoU0HtRhJ3QouztKH3OPN2yAwDQsfQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJBw5b4yJawokRCTPevDTj-xc",
+         "reference" : "CoQBfgAAAP-YUKCbTeBdgCvRJJWXvg1EO5Zj6WLaSHpfFjqfXCzEEL6LR8Axh1TI-xAhsBXMiZACOInzPCAdDDfkNoGg0yrv5VGP2RpDlpKzCPPOeG2W6SAI-4BoBPfr6e-ZPjR4aKSbe4SIxpqXcGlHMrA_5GMcJ9NZvtrn7APBll9a0bzQEhB7x0a7tIpFlP2s-RUpttt-GhTYFaS8mBnWK5-Lb9auFneC-2Wulg",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "health", "establishment" ],
+         "vicinity" : "100 Gold Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710913,
+               "lng" : -74.006306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "52df898a40768a083d9ea81f4de833b0fb000b38",
+         "name" : "The Beekman",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAnEaoAX1bn-XC1A8JYLOgtj1qdcwPuyXhdXOba88zxL-d4WpYnp2edbVnTQl4pIV_PFgW2CvxCo8VICIOhRE1csW7tRE4EB_AG5FlaOC9GQX10Hzc5ffEb89L-tQZHOe2Up5r3cnEknNhgjIvDNde-RIQIMRS52zC2zmnKEWBuydQfhoUqnSUdVRt5jdbt8Wfyozx5C27_rg",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJG6o_gyJawokRJfVfQ02Jthw",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRtAAAAbDyt9oZbLs17fbxb2ULJbCqPeTypYf5Hgn_IcGWvmv7sSX8z20rtG7lebsrAaGrf0huevocxvRJFMeXUSk-M8iKeLL-gDl3WhJbcDqD_EdkdgFsQffXlA4iTqIOCnb9pRUIjgx6jtkpieg3hTUPwGBIQcmmfne5Mg_Dzkcu3Pc93NRoUOmHmnG5rYak7Au4bwY41abXpMps",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "15 Beekman Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708274,
+               "lng" : -74.00485
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b4b5aefa330956cf647c6c44d553659c907fbdf2",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2cD20X9umGkoU5tF9KuTPak6HZSLrdCVf61vuZbfs67tSg4nY4N5_rlubMucmdG50mnQliFb1Qejy_4u9kqssqnpsoPsjEaOZKk4hdf6WIwClx3UbW7C9d3UK9FYcdKQkUzEBvDDZyM7Eqh2MeKPKRIQvuFiVbVxdz1u4r50RowKixoU6cIz06LIgCj0oZdLU9QaLOM4eLE",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ2-buNj1awokRlEBiKGl6PN0",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CnRtAAAAc6X7Kz25K4adadpaogN4LtWXdNsGRWG6lFlBIpbuacvbvQki7OCbJCMfha6gsZbtsgSIUtFLSp7wwI0uqSzJmMhye5h-70XBWAJ6Mkla1-j9rKWRwODK8dwzfPDQrXLM8NYNvv8vmMbtpGZRVyyelBIQDlRSVskaSdc7OE8AUYcL3BoUMYcFz6SaTF2qXERtJfowhiaThEI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "52 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710058,
+               "lng" : -74.006148
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a3195d17776642b104e4bb910578fe9ed9aa51c6",
+         "name" : "Downtown Conference Center New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1317,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcwAAAAWylxL1mXKyMd2pPcuZcBa3nQ4mcQRst7Q5wwUP4HRDOn3vuCDZcpVcmGShsUpGqhU2si8ZItTxKvQPhKgloNnKD3yljgoefiyCNQTa_vxPVBHOeiwxKkxrM9kejTxYJ9Xq0-ok9I76KmRAxsLUyyENRI6oUDX_X7xKGATK_JkiEhC67SjmiKP6KcLCpp56PvdxGhQcqaw8FWvNbrUhikxd5B8RUOtsiQ",
+               "width" : 1318
+            }
+         ],
+         "place_id" : "ChIJDaO9oyJawokRQ5RJvOYfnbg",
+         "reference" : "CpQBhgAAAMKWE4NUWSrszBnUf_f3CMf-1Z27X4a08_zYS6Ug0V_mKYqxUujEIahUPboYfEuZIgEJAaqugSEULxuXIN70bP3hMPmpnh6hnqm7ssk1ycEqBi8Yz8gumw4GkAo-VnouM6vIVvR76GOoXv1R2q_9jceHniV34aQ727ACP90G7scuSOn5Q4BLPYLTldP13p_SjxIQJnqrNAs7iz0RuQyBj0mUjhoUDgYDgBfX2-9qkk3wvH--j32Ual0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "157 William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkgAAABdhf7YPvmi3EI5-cNHYSpvOJc3t80jctcBs4GVzivS9yaxfV-VlGD61RaRK5Cz540nW8O30E0BvR7ofCPbR_yvyFuPCux3ECxH2JNFgYS_8MzfhemlYxr18189lqh8UWVEtA1pV8PWnVBgY23ikk9J-QcPwmio3zxyyhOmbVp9yXliGDupMuYauY4_7tvtXDGDqQMBRHLer_M3Hy5lLuLcSEN6f4nagZJiZWBiBEppyd-MaFAzlc8fUVx-DgQNYjXuw0T5d16Kv",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

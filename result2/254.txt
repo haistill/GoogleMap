@@ -1,0 +1,381 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7975281,
+               "lng" : -73.95582039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7995557,
+                  "lng" : -73.95427389999999
+               },
+               "southwest" : {
+                  "lat" : 40.7958265,
+                  "lng" : -73.95850969999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f0b097cec6e81bc107c175020a158348b9a7f03e",
+         "name" : "North Woods",
+         "place_id" : "ChIJ_WRfCBn2wokR9CfrUN50XJg",
+         "reference" : "CoQBdgAAAB-bANPUSCq3YT8rVBuo1GVNzLdH5COgkXOptjszZ5uhD6xD6kaysWOFjUFLUdYq_jpupPsuUzMqpgFHdi641ea9LBYD1thEUnYe6NJRsggrV6hX7r66k7mAohTnaXgcSQLzBX2GyZr5A0iSX4QD4zpoCl-nGExwN97m039BoEP7EhBZkRPggo7zXeqRbnmHPxF9GhTzWiqiv4tSDUI2XgQrxXMJpYLMVA",
+         "scope" : "GOOGLE",
+         "types" : [ "natural_feature", "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7828647,
+               "lng" : -73.9653551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8005207,
+                  "lng" : -73.9493995
+               },
+               "southwest" : {
+                  "lat" : 40.7645841,
+                  "lng" : -73.9815758
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a170f23a94b2c6e63c6e429bef9e7c6669974c8d",
+         "name" : "Central Park",
+         "place_id" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+         "reference" : "CoQBdwAAAJsf_7C3UVs2q7FmpoPlueoHEy3oPWSYCTJYesxxSYeEom_-ihXVFsuVKhS6c3yKiD34R3AsIhDpUuu3fPN-8MGykkWf9Op5520sdrcQXAm_mHCf3zY31ib5iQOpBPQLVBiU4U64nv4N-ViMSzXeJnndZoIC0C_Qtj44v-43imjqEhC6K-ggpsGwcXf6fkBx20w5GhRdmJS_d6fDD9-3qOHXJe-iLS9aLg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7711329,
+               "lng" : -73.97418739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.800704,
+                  "lng" : -73.94928080000001
+               },
+               "southwest" : {
+                  "lat" : 40.764389,
+                  "lng" : -73.98163409999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f5591502ff1180bca0ece2a855628f9b1f6dc149",
+         "name" : "Central Park",
+         "place_id" : "ChIJ9ccLAZpYwokRthkg_S-WWcE",
+         "reference" : "CpQBigAAAIuM3Cb295Zfs8FbXqeDiwd9DpAmZCTk5fiKfqJp70C6yhtcwwg5y1I3VxBkee2ALgWQ01-0Pwq5xkqy8agHcFGs-7Z663Lk9cLd2PYIk7K-Vo5Wt6bMVJo9rYe9m2u8i-k3n5_nrvkS1ZzszjQNrJZxsB56FwcokEimUxur9vj-BOO32SJ278PEeuMbZxfJuBIQYCnA11AnMWRzV5PRg1iL-hoUILsFl3HL1xGpYeuR5vMzkbgpblI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798631,
+               "lng" : -73.956278
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "09e21a4c787e20b506ef1d9994f414f888afb066",
+         "name" : "Block House No. 1",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLwk4rBn2wokR0szxbmZV6WY",
+         "reference" : "CoQBcgAAAIMKY55VXhYebu3Nrk40n63Pfxxm76mVc2xR-VVXcGhKCPQeTWyoBx9dz5KM9zQiAQKHAJzTr4dp-rcNLqgjfV8TRSU0zbaNkgV_-IoY-JL2Im1SrGDq06glKq-S8CdYrRf5ZipnvejAGEihaCzEtU8dRxzjFE7XjWw0i9rJYo3SEhDQ3z3xsjSY-aZj5_HrJHCZGhQGBkotC6TKd6FK96UlulI21JYP1g",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801661,
+               "lng" : -73.95539599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a446705298f8aef8deceb48b0ee68eb3b778bf53",
+         "name" : "Success Academy Harlem 4",
+         "place_id" : "ChIJd3cUExf2wokRaOhYWkTfoW4",
+         "reference" : "CoQBeQAAAIFnmZ_AQCsvwzkmPO-9ZSLMAJsEkYQgVOlbdzTRkJWOxy5c1tpneFqKgBbic92gdrXYd4eW3XwQFKnGmJYXdIvzYkg_om6Du3Kep6VX4K4BPU2Mz3Fdk09IFruDEb_o08W3JtqqNEnMxi5FbIQ_NH3monKiXhqtkW3SzcoTTWxkEhD3kAmjlRZ0kxkctpnhPcy8GhT2Wme2f-uu7VPHoS_BgbXVfJlKVg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "240 West 113th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80179,
+               "lng" : -73.95674
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2ecb65bd9b9499f9c358a15b2e8ee8c7c62e1eec",
+         "name" : "Uptown Veterinary Associates",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1015,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIT1nDa6rZZRX2dOx8YqcGgTenloHUimCrVSz49_85yqJPVTDqEyfGxDj2octsp0tc7GczHgEUwRfEgmSicTPNmUgj7EIc87sJWJk5-cDKhrdJ3Y6Pgl7nuDGKveBGVKuxyPZ57vaV1rC8L9B2BC5QBIQAJOd5-GjZBGTsfIKAo7a6xoUaQfOdtDY_Xsv4c06QFS22GLh5-Y",
+               "width" : 716
+            }
+         ],
+         "place_id" : "ChIJQejpnhf2wokRfpHZaRJl7fI",
+         "rating" : 4.3,
+         "reference" : "CoQBfgAAALG2UdfDqnZwTG-0vX-JN46xhOUOGY49KMlV-kwu5BSp5G5aRqOwnmC1N50cNiuETfd6GsFPyUAi9bNjd2TFwJoI3QrWR9rg-5NehChdZiTFKdNqSGivv_6iuLaJTCG6ywUA85XCoBbhyg3EKcDIQTHAwsPXNsSR3vK9XycRKxHKEhC0Sg3ugQtcTcq2Q-LuyWj4GhQB6p6js2kbxfVY5H_EzSeYimgn3A",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "295 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801574,
+               "lng" : -73.957758
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3f0aea29e1c2e5f1d992ac3519b2f203cbf4560d",
+         "name" : "Organic Forever",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFR0hSJytHhxsUdnbRGO7NVd8HmxSWW2kYbuzW5Tda3imMbHweD5mdFAYibAj9I8T--F3iXE5xjZOzSYwRSLe7LUZZUkTV1YE06VzOdWudwPCiV-LpEcKpLdbE19vdcQuDO70FZAP2VwYZBcyUfywnRIQHpsGxYEcn7GG7ePXuXk8iBoU4mVru8oBkDpDSH-bJkLDY_cOyoc",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJIQkmkhf2wokR4gL-ojopRGQ",
+         "rating" : 4.5,
+         "reference" : "CnRwAAAAv8DNRHFuAqsn4Zy_7YOI3w-GD9jF2rsE0Z-NKvigdXeU35SzV9mIQN8KaR79_Nli4LuMYK0uPjpocpoJ7ZcMkqtlXIPECX-Ay1A-LyQD2yK3ACIjKFNSjcEvklODpuemqDBhFjju8WiFIsXXL0VZThIQVRj7WOjti-r4s6sqBmDiSRoU1X-O0b_c276x2lUfCVV6D-iU45c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2035 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801661,
+               "lng" : -73.95539599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af5a9abd5dbc093eab8d34f5ab3f3d678f103700",
+         "name" : "Opportunity Charter School",
+         "place_id" : "ChIJd3cUExf2wokRadBc1NHP66Y",
+         "reference" : "CoQBfAAAAPRZDdtgH1o_cRQ7ButFMuYmNeaWgpEmOoU_aOqcKbvDea4Dv74lC2937x_jzjOVSjQ7kjScvL7_vK-v0dBDS-zc0tOhJ0TZ4C1BIO5s7bHirA3pxZDxgnibvXL6XliD-uP4feRifFWIU6BUn6_d19OshKQ7JX-EUEuVT0jwFNCkEhDx2i-4mYMydz2ZR7eOlM9IGhRuWe7gActKBKyDNZ1Z8mKYIS-vZA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "240 West 113th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801167,
+               "lng" : -73.958057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68e3df20269ca3b0eefcec4f149c59e093507746",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAytlTMMjkkUXFzDWxjJmgNF33QSvXIpdYdmzhJv1BifgJEDKl8MpLym-abFQFAi_k2HQ1lFkVN8q_2CkDb_NGotX2ZJDjMflakIzN1rsBN-f4-fv6JG4y74yXVpxzF1Ge3ZRiAnMz3A7WbWOsqRgCghIQGMGY3YSXXzIkBpH4khTc3hoU_pRMDHRKkJYCC-FYH2ysQqDUSQU",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJjV9TlSP2wokRP2ekEFxXgiY",
+         "price_level" : 1,
+         "reference" : "CnRnAAAAc6C3uWJl_cH8TB6vX5hlBpxkDxGK1E-Zr6LANAWBGH4laHsEVZ0VD4tYNEIii9uVQbCIIlbHq0DgtwnnfgwABKuGlVxonl1EDi5lsAtzp1iSlddwHlURZtTVB_r4allZeSC9iV4CLv_AL9gx32R24BIQdOO08ZIXbXsGqS6tl8MAdRoUA-UcB0GXAhs3dNbv3deClFw9sBM",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "301 Cathedral Parkway #3, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801661,
+               "lng" : -73.95539599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8c4114a7a0f0c0321f52cf23f29c32f183751e31",
+         "name" : "STEM Institute of Manhattan",
+         "place_id" : "ChIJd3cUExf2wokRuqAt00tzTMg",
+         "reference" : "CoQBfQAAALr3jZi-ktRd5GjInuvT3uHkfefVKwDNdWLFJuhgG-qQ-uPdjpbRZfujjkWgzDNyBrxp2QoptOXMb2rWwhfUUJMQE-sSxRPQ_l1pqdKDcAlfvadreoK4gNbntIf0cvLgLHLljGtshRYZ_0qvCj86XqG_KRLhpLDKRlntZ1yiH_44EhCykjzBfFcioElf9woz2yjRGhSw2v_jeW3rnDzANNqBn1ECRGNEHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "240 West 113th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800147,
+               "lng" : -73.953754
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4dbb1a4e36297b40daf37fb64730a785b9d66cdf",
+         "name" : "Twenty-First Century Foundation",
+         "place_id" : "ChIJRTtt_xn2wokRnauDmshkup4",
+         "reference" : "CpQBgQAAAB0jC7X4eV2MD9td33__fR05BBGCNx702DZ3p7UTx5ej3zEqwT8jUhGJ6arS4MMgTwhy0HQDLdnD6jcpGjTdeJlXoTX97d-jmKeQG_RTgYOSc977_o2aquxLlWkWsfc8BBWLqdkZz5K1aTQhu9EV6RixdQ8zP-Ymok7U4b-3cVHve3T_91NDRlY4T_WEh_-xGBIQY4G1YCXa9UAaxy7Pr5bn1hoUPEWhqXpL9H698atI_kza_CuyOZc",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "132 W 112th St # Ll 1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80039,
+               "lng" : -73.954086
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "62bc1251a02f68d01685a496e688712357131108",
+         "name" : "New Ebony Hotel",
+         "place_id" : "ChIJDRcUVhf2wokRIx1LRm9xH5c",
+         "rating" : 3.3,
+         "reference" : "CoQBcQAAAEInCq5bqax6z2HikiKDaz7lVO1LmW7tIO2ojdbh1d3qaG0ZaRdwgIAnaooQkJa6pKHcfHGbXua8bFa4FYBh1pCQ4_4pFrxG_Q8mU5Le2F9ojjSKPZd6De8wPpRZM77Q3s-RgAaNFStDg7YcVg8Gkjm_81ixnVqhLJc-t7v81WLhEhC58bUxyHGNj6RGom7wEMRTGhSixJb_fo93VQer81-v6uZeiP_mkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "142 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801116,
+               "lng" : -73.958116
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "88ad5922d0e32839b75e11954d107fd1f610f36f",
+         "name" : "State Farm: Linda A Burchett",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 321,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBgQAAACyOKzk4XQtIMzWjTGBz7IZ6zjZOUV2TXNYmKENDbrcfkmkO3nJ42vOzLihVqlYz4_4yRvo1cnBH6eeSsORGlO755Rntc_p2N7mPO5535GvU3EtapqFcY2sLPzOrhdflKkhqrxyf4F8sRNhStrhBqOcfOZtfW1sl5LgNG1B_wbOm2GPtBV2yUw9qsmOZQ-9gNhIQ59i-QOrwY6dmLDa6Glx3jhoUlqCThQZ332MaqCTbf367dWY-PKM",
+               "width" : 322
+            }
+         ],
+         "place_id" : "ChIJn7E9Axj2wokRN-5rPfXyrPM",
+         "reference" : "CoQBfgAAAAtow5yoXuE_UmAv6r7kuX1wqgVws2o4ednKa6VJAlP0KDqW9W_qwVUftId-1LXmmIUKU3MB0jajvjYOy8QtQbsuhdkQahgEWfTxKrdjkfzlMVaL8X92a1fidz-hZiIF5GAK0kNr4IqawjYOa9YdEslx0cdQYVIuH_OWKrNI4sgpEhCEogAZdDdgu_MFvHZ499QzGhT1RBWq-Pv18q_xSmAyCcaKQXZgUw",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "health", "bank", "finance", "establishment" ],
+         "vicinity" : "301 Cathedral Parkway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79889,
+               "lng" : -73.95353
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "76b9f4399fc3f2e8cf31a1f42bf69157d519e1f6",
+         "name" : "Li Zhi Jun",
+         "place_id" : "ChIJwyZFIBr2wokRPj-m6wGVZUg",
+         "reference" : "CnRrAAAAHucmp6lgkz6EVoT6tGYCHtGa-GSwPZHUFevDcNPIfG0CijGnDtug_hSBnz0jkl3L0PjDctzd6WWZq3JSK0_8twlZAtaH9X3lkcqwG4g1zRFn3taqGQp9V9h-KUqO04vFfL5QST173B522UpDP1D08xIQbMK0ugT7CvnGjZ4ZB83M0RoUZvPf27QluphETNgEqU1muTXhr90",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "131 West 110th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800193,
+               "lng" : -73.953643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f6aa24fc0be3533615b9eef15c6ebf5d68a5b679",
+         "name" : "Peartree Preschool",
+         "place_id" : "ChIJkziP_xn2wokRkO6NRShvrH8",
+         "reference" : "CoQBcwAAAIDqJsoqFsN3JTf3Qh5rjI4C5DNpMSdn1zL0kCZwQnZ6FUamZOGCwSLb_z0MigRgM7yVLpg7wM1lTj4FA0U0jpgk2aU9W7e6_YlBxZpwt7FN7JhRLG6s-oGQfm2cQPEW_Ct5_Pn1qzBoqWp5dtogvKIgH-BhQxMULiVBu3gAUdPgEhBE4Yvu1Dj3nlHBlx0rxUfRGhTx4gYOwUC0fiUZsCSPDMV3BsaHeg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "132 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801429,
+               "lng" : -73.957735
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e2df71d473e7a309e64760e418160a2ac6aa8b3",
+         "name" : "American Meat Market & Grocery",
+         "place_id" : "ChIJ12fqjRf2wokRy4cokg-OqO8",
+         "reference" : "CoQBgAAAALEIMXQK8_m20cYQ2Z5FE3prCJ3IoQeFRcBz6ptPz0VXmXfqZ9C0Yrh7JpFnKq0cL4FCEATO5NwS2E6Yj25E0FE611s9UZUUERm9UoYYVDUzZ2F441D2X8quss9JdqN7KH49a3phWOsiCe6T9IylxmYf02aZ46eFAVIGBZdh-g76EhDr3Eh-FMln55D-Ytpy-bD8GhRBTc-7q5idfMVEka1slGq3Y3Irew",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2051 8th Ave # 111, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAFO8e2MVHdpsd8k5cqL-nPyWeqrFj4ZBxS9sGsrT4vXB3Tf1_D-Oz6yIqzhpbmToQY1KVDPEMXgfKpVfmSiyYbAtoIatDnwBX1fCU0vHj8k-bNqxzZtsG5MS1EybeImzPUvUGu5Jgh4mNVqK6aL5nJj9icSIQoiLeynnk1tVKczFCa6XBjQJ1jxEsep1kwmErBIQOrJt7brQR9tqPlbV4j6M7xoUnwkiEZtIjiVWy4NISls8YfLdhvI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

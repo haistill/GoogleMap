@@ -1,0 +1,451 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJgGcQm-EUurueIU3NpADxhHYvCOxQBQ_xfdlN2abxS_sI4-VIvpK8q79FejTQPlq72oLNNPPW80LEfBv9HjiI-01UuNqQkgWdTpbw8C3cgevuT7lbqax_yTE1ZZl_YvuKdfO-3HzWsoWbbI2uDj8he5WNPNuLtN_tOsHTgo1qtcgfSj40v-OvQNaQyxg0fd_PGdEpSJIX6u0Y7tHmmynbM92tHJBJJLdKMmRSD4G9-bfxQA-mp80X9tf44Lw0WPZMLwAi2BfUWEXgvTEfhfTROqhGQQF2SBsKS1JeCIcVJ79jnqMTDA214oc1e4cHI4KRIQlNkIs3YTPgwjScD2rRYUFxoUdzhTxzrMKzHq6xL86OpSNdP4A8s",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAGpawEwcIUqDDC2JxEuhaL1pqTNKMrOI4uNWukiNvWU2_ktHQZlpL8SrsUBqAeMlSS_cRhtNngV16Lsifj05F8Y1BowpVNNKTaqRWks42ubpAsJrByDBTUsepNutaK3yP-2c_bEW0UEkjDB_a0wuGOMUjY2bKInmOMPLa3MpDUYrX3fTzBrMEao-oKBSk5t8MxIQg2lTj9tSU0l1AdX8-9DtdhoU6CLRqxVyBknQ4oUkO7VimW-clxI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808168,
+               "lng" : -73.95098299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "365f291b13a3cd21f0906a5c9cae2b00c42f55ac",
+         "name" : "The Harlem Flophouse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJj7t6HBP2wokRINT5VLT1pss",
+         "reference" : "CoQBdwAAAILw0GMndL-b0AUtahtKk5QilFfR_t-b5NKCiLLMFcYgeU0edhf445TJv5f_S2TyQMv9iTh2TjJRnGNK3Y9OpBhV5qL71Gi58GziyWW68i-cr7xU98KCgWZ_xA7aquyuD7vBw1948qXkOxl3sJvGEumYWz7mjuwXYgkMqO3ilRSdEhCxyaYyokYk8WihgyHEFK0kGhS2nET6K06FBT1c_U5hQUZWxoHlyw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "242 West 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808736,
+               "lng" : -73.94862000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44fc0734e9948c1ea18c67679268b981cc418e7d",
+         "name" : "White Castle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 126,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAA0PoO1JiFuLqKidYDI2d-kBzOG5yO609ZkJZcc-YHTMZvDTTnKrLas2zHRgfwc7-fn9OERH2Xvtjq0HhfbZ63APgi4uZ3ZZNFWFkjh6NmOpH0Zb_t0DxPRlhfNOdoP-C_XDxXwFkpswzEBG4oPIDqjRIQLNHbK-m-y6XCpOcRUbxc-xoU_AWi9XkJj_jUHT_e7iQW4PMXHyA",
+               "width" : 226
+            }
+         ],
+         "place_id" : "ChIJt-XwuhL2wokRbq9t3YhZZeU",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRvAAAArO7r_HZ3h8ug0JGVCGQnMQh226rU6q9dRFgmH2XA_h_C2nMsAEHK3h5d0WzGQAmcI1HqdPY5GPPYbxFPAHViZ_0bP5ymoaEM68vYQR5-dMLS1OrVSYwx2hAxzJ_gQOWgIzmU3sOCg39vDxmAQAGj6xIQNRAHyrpmVG5GwtUZ5hXRKRoULAav4WhXpeF3fA43M5iL2w17hho",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2094 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808869,
+               "lng" : -73.949206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "c9136b10bb801c0b8ef905d78144c0d1fcdae84b",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAARbmCzddEKouPk4ScjQyg0DWiDNlQ4qESCETHyeRKZS6SuAnIXLR38mfnwCAsf8fbFmJS-n0FPFtKvTbIgUb0NfNTaYA0DwDdeCgLPTGzVxX3YgH6QQeWqEtJFaqkm5WLpoV_AKf62Nv2fwstp07UqhIQjNY0tZgoVaD8j-mB__ieehoUAK5rksfCxx50Q6g3WnE2qCqnblw",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJh3bFKA32wokRXnT1evv1nRk",
+         "rating" : 4.9,
+         "reference" : "CnRwAAAAYjdMOau7UrZvrh44aceGL9seZhFMJCL9V8v1uKxRsLQNUnQ1xXKqJHWquopyagy9YOCgX8AdDqOy37sqjG_dH95umPdi6jZ5124bbkWFwEbjftauM6TMmYfMwGJ9EBzzz36f8sy2-AjOzIQckQk9ehIQepYfbY7EVH5_ONWedOxZlRoUmhv99sh8pPlv31RsLNWHOT0hges",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "208 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808743,
+               "lng" : -73.952476
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "33c33ba84ac9cd487aa5bb68d63691a0c9800c56",
+         "name" : "New York City Police Department: 28th Precinct",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 530,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAMYYse3YUBiXPB9zPdXsrQc0ZLgvNaZNWc9QKq9I54oGWxNF8j5KknGujhWJPUlORw_eh7IHbvhyy-WfVzZbP1L-LhtjwQCOfYmCThNg4QUXGm3wTWHoG43ZFTDUn2TW8snPueMbK8yiGyZ6f7DSpIRIQto2aNLtMMRvhYAgYCQYCHBoUPv6i-6MBVkI67iK11WdKtepbGP4",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJv0vyahP2wokRVSn5MgNwCUw",
+         "rating" : 3,
+         "reference" : "CpQBkAAAAP74Rd85X-jwCr6ZJaGNi_ltUvwqexJMGMENvL7YsVy8FasQJPt727X4m0736uOGtuWoYDF1yBcCBT6to5AlQ2PaI4F5gLkCYf4FpDyQ5To_9HktShhGTHguhOc0LRI2Mn4zqZNTDRio8pQm9GUimOInmQ-WIOc-JxIvkNxzDrz1QsDZGDFp097xr0LiykVivhIQLdb7hiJg42gHbjBz5-imAhoU7ginuLfRE7UcwX-X8KsLu4c0KNk",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "2271 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808333,
+               "lng" : -73.952253
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "67c4351f5ec3608a0cb7a0f16b8de4cd7f0991d9",
+         "name" : "Harlem Flo Boutique",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 522,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZkDSex9fmok4xSgmIGnbGH6XMWzPk46IXeKHf1Oe7u_r9LXA5rHHWdlty8pg-9kGfvasA_Lc3h4NB2Y48i7Hnx6rwpJTc9vonOrFFcNclAPW3jc9ppOqqdjfbD2f5QcIsTa4l1JkpQH8fy4YhJm-CRIQZu8lv_dubZGAtWzM3azh5hoUshT2Op3GgwWGNCbT7oNHEhYsRds",
+               "width" : 378
+            }
+         ],
+         "place_id" : "ChIJWbFNORP2wokR8BS70gWg_cE",
+         "rating" : 4.7,
+         "reference" : "CoQBdgAAAP7ipjdAazJvN0d0zmi2zP7sg2sk416Ocsl8x2YhyzpTiAqJe3o_zm7PtwiHOWOw6qlHyGSXm5oWEFPq6yaZ2FHwYEcWv2rdUUrEbjQQoRUrKkOrjegBfhgQu2iaI97I1t9CVvWRSfj-jbv-fv6Fz_mrd9Hy0WVL_ApQTNbSAt9WEhDtCv_Kdi8u9WX21y93DT34GhQcVhUvgHS5EKUPgwqDqynzbhW8tg",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "establishment" ],
+         "vicinity" : "2276 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80649,
+               "lng" : -73.951249
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "54342c8b303247b426101bd08bd7daa6a600a592",
+         "name" : "Public School 76",
+         "place_id" : "ChIJB0ZCshP2wokRDAUlnXNQo6c",
+         "reference" : "CoQBcwAAAJTL4uqNTUJXcfsHI6Ne7PVjasnWXNIpy4p4A7OOnEW44ZKHgk6vTBElthVZX4Bm423bVppw11u0thVqpZVVAuRTFRnNWqxD-z5nnYXmwx921qf94arI-iD87kb6i6WAgouofwHU8g_alFQL0nx9jEPxCv0Pb4086q8ROOLbUwFEEhARiT9iMocxugtBUi9GYNijGhQBg8Yvlp8orPTPxR5u67jclsLl7A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 West 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808605,
+               "lng" : -73.948425
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "18356bd6a1d784fb92b58690f96f89f7cf4158a3",
+         "name" : "Verizon Wireless",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 432,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAciLSVjtnL7UTFvIoDQVIhhHWRrLr52sT565APigo1IVXUmEDcli5dEWEBQyzckXyHelHOyJVzSWJdX0W27awRI_jWunwBCNM7XVjAj4_Qpv_TI2nSJiORKQ2GXA3v0uNDsfWVsts9T6YbJ2ROxeniBIQh0ffb0V7XJ4UDwds7sBPDxoU_eO0eki8OnYyCmVaBkNA5DGhW24",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJqbaPqBL2wokR20L79Q45iBM",
+         "price_level" : 2,
+         "reference" : "CoQBcgAAAAtYjKEx6SCW-BqKsgoAeeL_gBZ4pcWVdJf6AWQGpM2GSHfq1ZcT7g8s1H1pBly_ZIJCQYNXTJaOYQ8CBNj6Ijam0PCNb6-TKeBApfYZO6GIbFem7XtN6PsUR_8wxHALc5LCI4G5xHWI43jgk1_WSDeVtVo6DNc6z1qVKpfWxNfJEhD5Ve6gaG7AdEAMUSghGxThGhTDpXYGFQUxnMh_sdsOGY5KnvMO3A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "166 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808251,
+               "lng" : -73.948421
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f2d382a0aa619edce9c8cb5c23d66d9dc2e64ad2",
+         "name" : "Greater Refuge Temple",
+         "place_id" : "ChIJyxlOohL2wokRqjfMBi93qNM",
+         "reference" : "CoQBeAAAAJdBFh6Kv3HZ79JfD21xp6TTp_6HFbmcyaMpXa76XoQn2xWdkX1EzyURk3U0vIunfu9eXZ6v9QSk0Qvn6B_yiJwside_l-0wPzjp9L4LlDSs09OSjGy5Dn-EPSmGOzqdwmpzLBxIdufnwcaTzA14_qbSS47UZ0qndvFnn0l-vexZEhBScW3mTlnjDDyzOHIM3FizGhQrjo-g7X1rmYB4LXNWXjrRJWXL0w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "health", "establishment" ],
+         "vicinity" : "2081 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806556,
+               "lng" : -73.948868
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "417cbd2532ac916f324e7892e2eefef624686277",
+         "name" : "Hale House Center, Inc.",
+         "photos" : [
+            {
+               "height" : 1370,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CsQBtgAAAJL7R-rbCjZVHv946yHa_ZM75y2NTtY3V2H7D3Wm0-IqkWjW_sWGMq523xG7lb2H09YCDoOxc2uYkJi9t7ZZ_lj7AELzhjMCpX58LIeGdBqa3wNCMulszIj6F9nDdT8UHrbZNvOcxRBA73e6jPzaGWKwtAcb_IXFKZZBDJpU-yH9FGKmU43_kRagg0bd72fuTYE1IYRE-_qdVSjLOPyTvWKIeCKSWY8g6sSURk6vdNf2QROUGchLjzryUqs8S_EWJxIQCsAoSX4OQYeYPnriwFzlQRoUvPQa0hgS6IaCVbF3fsc3soQEW58",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJo5QjZhL2wokRhMItqf9ibuM",
+         "reference" : "CoQBegAAALsYtOxbTOVyIhorbK5NHO_wlak9BGuTnbwHqXNtG4c64xSMgzOcMTj5ITbAmopNNQHLhZTqCaQihJSM-71qElo3-htpAIbpU35wCT3ohvK_Bc0veyiJpttimWXXCkg1Ln8x8P6RNu8pHXlpXlUGLVEXzqI796TAU87o1M11v6QeEhCMqr-xe2jmbuzMZ4nxSKJeGhQ1-URxKUHQvE69dDkIAPqb64MdWQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "152 West 122nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808829,
+               "lng" : -73.948936
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a56b43138388cd9fb378fd27043d8069a58d985d",
+         "name" : "Harlem Educational Activities Fund, Inc.",
+         "place_id" : "ChIJ04VeuBL2wokRlVvi-HBDdQc",
+         "reference" : "CpQBigAAAIFjUgq48JVMsU05uMy4t2DjKJXinmD3wWoFIfzuaoAEz3dyP9mhp8xNnalS7J0nTN08iqQFfqibIN8GrLdWDtKuautEAFdgxeiz7doElFv9HBB_FyXuwZ1A-3-DwPbCe1VpAwMsfrxiPKAOSvEAAYO84evd7Z95zdEJ_raBiLppjEv7acS65Q62Y9kpbMAooRIQyGwqN6AoiDLxTfOfiJiOqhoU9cX87ZmeClf1Ewa-ZCaeaEpYX8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2090 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807088,
+               "lng" : -73.948505
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d77c761b7a2bb4014527606c20d6d8bd0fec0b90",
+         "name" : "Elaine Griffin Interior Design",
+         "place_id" : "ChIJwY9wiBL2wokRoO_itYlJC78",
+         "reference" : "CpQBgQAAALPf1xa-Zf7VqeNottK9lvFyrA975N1aKnWhtsrt1kX2t4IC9mEZmw4VqeOhQG6XbTyQRWLgddUvqqRGxhbIAeJV9kywuElpIE5IPGA966uBr9Nk8foa11YvOp_1W9i5Dy1J8xawdcoG_awRDPIjBPSiT7MIWLW9k_oDXprl4BpgXZcJi9bAuT5MTYTiUBDRQxIQIKYKPOAtnO9oBHI_6wUdkhoUskVRQx6l3CVy-eX2qMvsusgyNhk",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "150 West 123rd Street #4, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806363,
+               "lng" : -73.948376
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ac58fb1f84557ff477a38b07efc408c62ed645d",
+         "name" : "Gwenlyn Powel Brown Computer",
+         "place_id" : "ChIJd3r1ehL2wokRBzVz76_QCNI",
+         "reference" : "CoQBfwAAAMVlmzmV79j9NLeZRgxEteNefq1YgkihBRKvmkGcNj95s0LV0vG2sLEyqpMwkTBNoETTd5-yAFq6a_NIfRh49u3s72k2mRbhQ8R3H689N-b0tU9iwUq43kO5iY6jKU9sRA6thyXlHly1PIWmIDESzXfbKxKRNOzXQxX_eY02qiL_EhDcYIWeFwH_R3gt4hL5Jly7GhTzJUKNTie8iC8eODvSOhVQJG_-Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "134 West 122nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807653,
+               "lng" : -73.949592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d23f04d8bca6caeb00d5abae04ba7996fcc6036e",
+         "name" : "Red Star",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAr1URKmS2E0zXBLTmk9zjxpzlfvknXCAGGktyUuDRvcAbIPdOgZzVVhwL7fW9pjUTDpGoPs19T41VWuYeelMkRDcDzAFzBxUBFqV9GFHYB2-8JbHZzKimIniWso1d-4Wn4_x29jtEJQF57IL2I3lHVBIQMDgIYULBDM-AqKIOQO7VvBoU3yTmWswpaxzsXcrI_gWP_Dyy334",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJS2GN8RL2wokROI2u4dJLohY",
+         "price_level" : 1,
+         "reference" : "CnRqAAAAeKl_LwE_M_klSl9I19CFQC0aI4vhFVhXGHG2vK62suh6owRVY_9dHj7NgLTYw4ipOJSwWotPk4mzTMnDb3OIaMJO00ZNC9LR4XEoT192HEd8Zsn47w0ssPfyRaSJ3YcqKrW3jI7AK5bkuAn4U3nw1hIQqMxaSWviBjYlKIAREwBgcxoUj1zfvlyOiodhHAlZnRtMiEr9MVs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2060 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808661,
+               "lng" : -73.948972
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1d300c4d05d9ccc953700b244076b3aa0b22e1f5",
+         "name" : "Children's Village Nyc",
+         "place_id" : "ChIJKYCZuRL2wokRoV9uYevrU2c",
+         "reference" : "CoQBeAAAAIlghPTqY0yILDdehQVKrpskdiz8IoE-PAvfwNlUNkICcvWmdDh9jw41EkgIhkQl3Y4EYe997qu9HjdEE3E-rQqv0XqqyQjKzcwc1XXsXZt1XwlZ5kQvoHNHL7lMLb587ZaSYxP6FlqnrOaOCWjBZJxp9XI0IL9PN4sjPL7W5VqIEhC7LJWQtlbNt0v0QhIeljRbGhR1vESISElUq5x2bUcQPH0auBzJaA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2090 7th Avenue #9, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807185,
+               "lng" : -73.949597
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "8611f765b647cd5d1af989a9d732940a47314c4a",
+         "name" : "Sade Skincare & Cosmetics",
+         "place_id" : "ChIJPUlH9hL2wokRwe4Xcn7y3sQ",
+         "reference" : "CoQBfAAAAJRmJA2_91GmcYNnJ6Kqr6Be7uK3YctVchUgthIBSKcAOj-Z2YmhvjzGKZtfkH9LONC3QqJUwBLxm2m9fqIX2F_s7tD9oX0dR0VjKIZnqQ6d6vI23vstWV4tAnMMILQax9ameBnuAdRk4p0H-r2lKxXlCn8tWIA0wCU3xgWIQGNkEhAn9UlN_EPtQQrSrViYkV6sGhS_g4EmwFFSvRdtc3VsArNV3Rbz0w",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "2046 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808372,
+               "lng" : -73.952056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dc2d28717b29423375a50b7a9ff7a9a14d8bf530",
+         "name" : "Harlem Jets Inc",
+         "place_id" : "ChIJo_tdExP2wokRj3Vg1_yAc_A",
+         "reference" : "CoQBcgAAAAQelPuLTEzmxwofgB7tpbcEN3jn4azjsJEyn5oy7ydCQvNT7nLJppajfx87znKK3OxQo_QhZ5vTl00EL8XJNrd58samKlTdJ44lFlL9B5OAEh3sD0xK50Pym5Z9x2lQuyTkMOYy4JIJI3277jX-qaqgvuvw9XIdPVhDhNbERoHiEhBZyZNBlWGHNV_nt6U3h1OeGhTro_uyYghJbGF4Xc5fORWSG-_D-g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2280 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808435,
+               "lng" : -73.95200199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "fb8a45eeaa4762dfe8f736aae33190e04ab75ccf",
+         "name" : "Johnny Gonzalez Hair and Makeup Artist",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-xVw9e4mtqaKL7NIFGmXU7ba9FrdaqDxTlaoha6bxf775UiVIchUnv7TzBEFAeX-76bIQ_EPm8gl0CV4CXKKkE3zrp4cx_YG06sDt12Bpi-6nbQ-nu_s5TrpaX1GXdFYjm2W-DbPqrAQyz3rdiou7xIQhc_2_zizJYaaaks8ABHISRoU16dENzSt8mJPVw6fVNriAC1Dt6k",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJf_aTuif2wokR7vmPCe-xuRQ",
+         "rating" : 4.9,
+         "reference" : "CpQBiAAAAAM_lLaFIn3OpE8EhWGS5Tmi5lW0GDWmUthsid2BmMvN2AfxFKWwqnl8Qyzv-5S760m1wU3i9AGD3F0lyMR3P9Zx_loxTQeUIppNk6QsT0GYtXOH_tkMNsNsKoliFoxUwIZgEbzWDva_TLgmfCmYnU_Pqb6Zm6pMrpewZEheWzDpusx0lOVBMfJRbs0b6JwEExIQgfnbDet512ullwUepwZJNhoUgf-4bTiZZc3zEBwNEKcqqcOTvCo",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "establishment" ],
+         "vicinity" : "2280 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805903,
+               "lng" : -73.949331
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3e4723a5f2a0f50f74a81ceb8ac475ca6ece26e7",
+         "name" : "W 121 Street Realty LLP",
+         "place_id" : "ChIJF65KQBL2wokRNsGe6DGk4KE",
+         "reference" : "CoQBegAAAD17AePMy8U1s8A9PM378va3J2jb8trfozypfEB1bumW_ekD9cdtk-4CUtE6CXjMci31PgS5v6imvm65UXkcU5pXZNaqIiDw7wKNyCqKag3WaLeV4-czCB_t6e6tbaC6fU4ASspvHVGhHYkiMT56URP9Y6YmRFNd3CKMDOF2iL-OEhApmMY0DGAIat1S3jZFBb_-GhRLpDdmtSaDc0zWnyR1JmvCqgDs_g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "148 West 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAOxMaUkreZN56UZ_3A7LPEEHu_NHGT0pAXP0HdbPRcFWzzK1TsybTQGf8BO2XCZRAYUlINnQeidSQcYs4AbSxC568lrkq9qhKJkKZ4a7k2FDSslzbQJQzxQOq_KRL5f1wAJ3ubrS5I_nUt9qV6eVwUk2_v0DPNqkFyGLIadsbQ4ZYEyAFV9sFlksB0jHWhA9bRIQeOk8I5btji40TrcET77xYxoUzp0kReKwCKjT1-bWj19YkX0_F3M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

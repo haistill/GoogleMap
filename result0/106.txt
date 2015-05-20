@@ -1,0 +1,271 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70255299999999,
+               "lng" : -73.981086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7059655,
+                  "lng" : -73.97909299999999
+               },
+               "southwest" : {
+                  "lat" : 40.7013741,
+                  "lng" : -73.98470159999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7a930f699e7b8adb3e02870ad9eebf412f023e3e",
+         "name" : "Vinegar Hill",
+         "place_id" : "ChIJN64bRjZawokRMuZG_yF_hJE",
+         "reference" : "CqQBkQAAANOooC2_EywY2Z-fNXXj6FPHap2qm_DC9mb2GpXo8c_cCnze6n3xRd491ZIaaoF6hq549noUH_5fPtgyxCwzN7sVCR8fFYJJSQMQTFAcMN7O7g3YkLiAeYX_n31PWMbEibEDWiJIYvjLrljeFsJ2sXt6To98bbWnAbIDs8vcyH7av5MjO9pkh7bHYz0yueyxn_uiiUZsxcMH1I9NKI6t3u8SEF8r3AhSbib_vkPbTSEIOKQaFJOhUeL8LGMhXFuXHRj_ZFGGqTVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70403,
+               "lng" : -73.986169
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "2321670e124fcba7f51e11de99b43c1fc8b2d9dd",
+         "name" : "St. Ann's Warehouse",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAs8BBTJmHranjYVPVoX442ncDfKYlxB5XeGmxU1-3Z24aLzitCMEOdjQs4ddiiAh97pYdYWc1nB0mlBNVvcA4jZmZ2rwRh_JR5u_hpd3PPZzJbHQOb8v9NY3EqEkHKFhSdaP33OAeS98m7-MsYv2nnRIQ5aCBjj7QsGPmRSH_UTh4IhoUlSTXBDd2iGdoBWm9jril-_J0vm4",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJH36g4DBawokRaR-nQ4NPRJM",
+         "rating" : 4.4,
+         "reference" : "CoQBdQAAAMB30P0XRl0tySsE2KspOOwVL79EENS_ablQJDGtH53ez4Ol9z84r8bVgWjVaqE9bWghaGBEoH0bgUFnqRvBQUuBckYumn66saVVCuVLZLuM6bmevxe8PfE9rh5ek6Vaz70ZJO_enf2qHSC2mEfaXIP4p39rbaEU_ovvVNajt9A5EhB1EqQqSqBUvYoOgMZhTQEjGhQWQ2EXyTTd4rpZKLTAqOYJXSc7Ig",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "29 Jay Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704114,
+               "lng" : -73.986476
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "52220dc44514d017c33761e4f7580c2188ff6b4f",
+         "name" : "Brooklyn Roasting Company",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXArbICk8diR4ub01smlhVGlhqOUirq1IPVwZ7oruDd1h-fqd5ErpBE073EjEoHK8kiAAWhUkuhjBzzu6bn6TAkhsZ0tyabaoqKnRVmPkrrv39I8EY2G6wIc79D798nLe835euiUtXC0tXpHluPx-9xIQk7aNDdq0WJUC6yGhK0KoDxoUNhr2w3KlHB3Ef5OVEd99_M13R9A",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJOz6PUDJawokR7aH0pT5_yu0",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CoQBewAAAKGLbnd2-GKbyfEsz2W4-ucKjw6b5AV0bAgn0QUK4SLS_82gSF_8hNYs7hv5GNDemqWrEnpT3RgyRtdw8Ae_SKP5XV6akLrT3TeVtCge0z4FEIcvkfizfg-mKdiTzXywIz0WYVPscU-VlZbk9hc9y2EaydF5VFlp1-RbRIosvLyUEhDcpMUi1jgSV4TkO9ZoH9VIGhQOyYT5RM0LcaSYBbPLY4r_2Hx4yg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "25 Jay Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704176,
+               "lng" : -73.98182
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9681530228ebda4866783bed62530ee1c79c8584",
+         "name" : "Tuck-It-Away Self-Storage",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACJDQPgkXWkZ22gTVyVbmjCgOKeZdG9AO5uP1vP_obUHNRglWVfrdH5Bw_kuAhS3BlQQgkdkPJ61WtbvkT1eBnJxXcRW10HupkWtNAcNbdJqTL2mpzk6zBVbzNCCMVof4X2fihy9K8T41b8FNYNKr6xIQ3AO5hjtc-LDEGP29bWKfyBoUml7S8vaeYRADUL57eVzuuOujhvQ",
+               "width" : 580
+            }
+         ],
+         "place_id" : "ChIJsVT0Ps1bwokRxXJMelqRlLs",
+         "reference" : "CoQBewAAACMtXU1-yxTApP35usAy5eUyxfH35Rol8zV5PiCZXi0R75g_w_qQJn0tE6l4Mml9F-4HFPWuYlMBidZYoxJvpjit9jwcBYpRYHmneE5aRue2TrsxQ1g6sQEr18_Ho-hvnmCjw9NjS-lWSK35Xn8762gjQWcQ2yaSbQMHuGrQkpPYEhCw7g9YUwEqoRfLqd4EMxxlGhQ2k7-l41__L0kE7Bq2taknMm_Opw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "storage", "establishment" ],
+         "vicinity" : "160 John Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704274,
+               "lng" : -73.986159
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "877f13cc7e0fa2107f553b80a313892bef5ddd81",
+         "name" : "White Wave",
+         "place_id" : "ChIJKe_6UDJawokRJ38Ub3RyZwM",
+         "reference" : "CnRrAAAAjBtPx6iq5us18kx--kCvOfGZSASmI-uZ6PGr7X_BVewSkT6KUGXziWPa6qO3XUW2BuUBqiFGgMPIqYWQACp7fY0PNEywRP2J9N9htRKlZJMJUwcAWWR8pWjF9hI3HEtxyZtNK-QnLJ8t-g5OwD4B4xIQsFsAnlZz4PF91n2ojRomsxoUPXi1u7lStYYwUn7l1U6mNwEetTg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "25 Jay Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704529,
+               "lng" : -73.98642100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a8acaff9d59516fef8c416d45e11f3eab29bd8b3",
+         "name" : "Ercole Architectural",
+         "place_id" : "ChIJgxaDRjJawokRBcM6LZTS9s8",
+         "reference" : "CoQBdgAAAAc3zz2velMDySE8v-1eXFhM-hG7CxgCr-xwPrGCWmNGynpEq-Tu0zI5bHL05QxTexamp_G-NLYLvNQtJ13yWXw0rL6NTzSYuAf7xrBHwe-Km1XkM8jf8QBdak3K1sF-P4wDmywF4te9JQ9mqO3LPyUYB6F-9M-p3t5jqKHMorjGEhCBe_Gi-bXbHAPlgxaSv8q0GhS1JhR6DhsvKQbmScjgaZktcp6sww",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "10 Jay Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704529,
+               "lng" : -73.98642100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7a893080e17ae0ce99edc8e94c17d1908e1c89c7",
+         "name" : "Simrin Inc",
+         "place_id" : "ChIJgxaDRjJawokROnbbREvfu_c",
+         "reference" : "CnRsAAAAJIMf3x_J3J_nswJ5WBJNT-TrU4R_cGlHI168k8xfZsIxwwnHUwYCAbCZBPqi1vpTv9P4E9cngSxyxSDYk6_bqyt685JR_cRbbPQHbZcLYMIznbi3QJZAXVcU-PRmX6HRRU0DQVSCv_QJltsel4vW0hIQNYLODwCec7xCg1LjcO-oYBoUgzrscevgBHuu0X06aWOUMPOSGIg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "10 Jay Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703189,
+               "lng" : -73.98307200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9b19ff42d8f852c36eadd4be4abdb9b39da1aa1",
+         "name" : "Damascus Bakery, Inc.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 380,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANDYpkx3rt9GnRgWFvP2ld9DA8HmY9NLkT01ErHOZ9iPyCQmMrno5BaPUJNiY6NRyiPaznVh50RRxL3o-7lXvR2IG-Hy7f78S4tNkReJK__BLrctVjTavrqKl16ZG0iaYicB7LayiWco8ap_OyXj9bhIQ4XL-iq5IvToaGBQWD5M1ZRoUeLMdfvKST15U6krg5cbbinBtSjw",
+               "width" : 570
+            }
+         ],
+         "place_id" : "ChIJ6YmjKjNawokRsWDItLoxKig",
+         "reference" : "CoQBdgAAALeYQ_3fNbWD4Z5wWloGUVuOE_6DuNcObSO___Pax6TH-KWiucglKVl3fIQMMdb182zVlD3tDrfTmamlMAg5Nn4otIz7L_Vd53OzqZbnKN06ITeYpYKu1o8mXheMDxQXoQnkJCiZHppeVZ8W-r0MfxeDmTmI-HCW4agKJT-jdVC_EhB7SlnBDlq7cNCLPaw-5CpsGhTd2RwhLbE8GfHKsiZWSyA7KWmOcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "56 Gold Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704249,
+               "lng" : -73.986379
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "97f3132e17893c711fb25ef2523d51cc306e8210",
+         "name" : "Brooklyn Eagle Claw kung fu",
+         "place_id" : "ChIJG-T6UDJawokRI3kkBxUD-UE",
+         "reference" : "CoQBfAAAALmxmCNEkII5TfxH97T-Yg7ZPj3fKwGZp7FdLT48nJgIHRv7UCA73ecmLZEWtHTB4gKjtHdN8kGuE14fV5F1ONlQyHULY2pKjMdWFYPDaINQoTHiaEXWg4-P96EKwOfePMR_MqW2UI_CHuphlqrv0DBd2z2m6g02Xy73fTfhz0nhEhBKVXsov5Z9pPkI4GycoNk5GhSKfuVSVqvDgAzQkr4QcL2HIqJ41g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "25 Jay Street #203, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704129,
+               "lng" : -73.984661
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7c6799655000b7d5a339e3f878b135748fe089b0",
+         "name" : "Singularity&Co.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 505,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhQAAAPn2cZ3tZXvtWFlpxPIzvsF3bnL9T_5j40Qc4QWA8Z1CgbcJjeqFBpZdBYLpyMHwLxH0UVR-Zk-AEfS-21cKqmT56emHm_U4UikTppBOy3cylzkzkwj6bDYYDSu7qjm4It8MUWQo0b4up6QZZmnSb-dUEpEb7ptBqCFTO2wF6qwhNfj-t1d0FAq7oVj2bMss0xIQIGgPmm8eOoxP9vrIv2nK-BoU2S2ywn0EW_NE3zoh8liIKUvahek",
+               "width" : 505
+            }
+         ],
+         "place_id" : "ChIJg5SK6DJawokRhaDd2qDXGpk",
+         "reference" : "CoQBcQAAAPtOkGyG4FDQ0_2PZ7ac7FwjBSFo25oqbOAmo1JkyzbFJ0tF_StqRlP5DJk5uCHQuiVPpop3YmxsjtHDCMDRJSZh9w190hYyS_8kdDzmvZIESa9hqwtZI9bb5mSnqth1Ibb31so2WG9Ws8GjBGOL9STOrflEOfILmPuXTEDUzD3GEhAEWDu-d5aNaQkoScySDoIhGhRTcTkhVVRNrbD9ZdYixwpLvs-i4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "18 Bridge Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703056,
+               "lng" : -73.98944399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70556690000001,
+                  "lng" : -73.98450849999999
+               },
+               "southwest" : {
+                  "lat" : 40.7014434,
+                  "lng" : -73.99457750000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0c7cde3493a081a8adcf05dbc9cc9b036714ec03",
+         "name" : "Dumbo",
+         "place_id" : "ChIJ-7A-bzFawokRw8mvHCzZsc4",
+         "reference" : "CpQBgwAAAOTE-EllKQ3N_q8Neyoq1UsW07BM8OqyBmSDx7nazt7QpJ7MGe208zcTReOIxkak53X4a8oFQaFQvFW-Tt7DsZVYxFWxu17-EJOh8bKQLm6EC7IXS2cTmiD-wnTV1vbYiX9YeBtlWDSVUuFN0fs7hn9qPzR9H3IhcyLAp7Q-RCullT_6qBxyg4Nekdh6k6RrQxIQNKCDCjetGFGZUZglyWW9jxoUIBoR-Ds6Ck_cbzvEJTNTjDu46Bs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

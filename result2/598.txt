@@ -1,0 +1,435 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAAqBOrQSfVtoGp-EVKcLnbVu33i8GjBVJIM5YbtPYv8kV26mIZ7JGtS0KgTxu5IQKFslo6dcDIrfPIX_nBkIXaZSJ6hQLzEgc7iWY2oGeITIgowZ-GV8zVDiucC9Iibuf2Gso6nvNsUimw3zsKSErc4_8la9jL7j7nDa_3DYdc5Pd8Y0puZQUbxHG_fyNXcZexIQFueFlW4NqhV7igVXwodEDxoU-SmGBYvTlHE9__fB7xHfxX8RiDc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813886,
+               "lng" : -73.938554
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "80ca6e15ea512d1d98030bab390d992bec26ab17",
+         "name" : "Harlem Hospital Center",
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAADnVuhc4yBEhCzdj5Z1yRJaR3qrjCEaIagSKRizkSSj3euqMHzRgZu2SJs5DCO6CB-VumBlhyZXhu_4uaqWji4lAeQvsWB_0JitlNDeiQ-7loZOf8uI1VuI2sfJDZ8pO2NSyj9IuCqI0RjWI59Vxqfto7AbYlBxmtk_Yt_DTJf_uEhABfrLmKCmBU-d9dVBRGCrhGhT2E6Uu62NIv1AsANObUM-feeTcyQ",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJxyP7YHb2wokRbxR-lIlJmWY",
+         "rating" : 3.1,
+         "reference" : "CoQBdwAAAGJXVm17CwGdJhznrp3GUNE-PRwCwcq1Botbi-riTzjRVZ9VQ9m0s9IkXCN_cZSdPEEaggYfjgv_5I_xSs0UisWVy8va57B3_DlGamcDbLGVh-gJvNsoCqPEGDYamd4FpQUpzDHH1wR_jooILTjH1Am_oQ1dKO8Dezat1i16Brj7EhAiiHwA2lOOnfVNhx9IgFAQGhRu4KpOyvTJi6I_aX8BH0ddSvTE3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "506 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812506,
+               "lng" : -73.938096
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6a6c176440475b8897b12ea872c24d862f3009db",
+         "name" : "Goodwill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHbN22nX2wokRAidznmtx6DQ",
+         "rating" : 4,
+         "reference" : "CnRpAAAAER1td9q_G1GOfNw0reRNRJG8k64UUAR9oRXzHk1SSZGi3V-3OBfAzyni-gfF3l1xv6YLaFnuL7mq0L5PRI0lvMwRmJJQrRzSLC2Ew5uHbl1TFaaI3SQujLVuYP9dALgk0lSLiZNfNzKfUzI1MJ0_hhIQAIM564i3cM94YIQMtw6mxRoUk6Nu7dqjPGRQiRgE4cqw0cYzS8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2196 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812804,
+               "lng" : -73.939224
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b44374d4d6c9834bb7adf84a2ca1928718f7617",
+         "name" : "Hansborough Recreation Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAkn0Z_nOjRNL26dZ5-VXiyGYrlyT3Q64VMk2fgrrtX6tVSXX65wCYMupGVhNrebkdI7J7BkQfOp4GdzvSOaWx_m3P8H5eV5DaVM5MD0qKXlmGsVgfzMAXdpZnWvgi-0j2Tx_QfBYhLsWE4PMHaUuIUBIQKf-50D5UeFQQRpz1JT4TghoUmWtEQST4So22L_2FKPs4Guw7-Jo",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJfStcKXT2wokRh9-lesopliM",
+         "reference" : "CoQBfgAAAMiod7dzQRy0MR2wyQtnVTeRRUvL25cYbq6SZK-mlmNyhT2jx8uLqW_WZaEaqMdTdYohGE3_vIYgXdK4aQrFROGRzw7Z-TjvzFo5FZGErGMivqux7a852FJP_9jemct3s2rupZOGn9jmCPWXhT3GU3ro833HFAA-X8G-TY4tD4qSEhBZ-iJP4y2PbTX9xjPg0cwYGhSQIy4jAkFzXbEVlEaCSQxuSlwDtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "35 West 134th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815381,
+               "lng" : -73.936567
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8c1e8ac2c104305c6ab59e065d935dd4e25505b1",
+         "name" : "Park 139th LLC",
+         "photos" : [
+            {
+               "height" : 216,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2AswWM0Up7kIr4lJOQmhK2I3blVKjvXRCIZFEqdiDBhxW0rp9mzYBeAaAcX7cHqNHcpl_r9JAgQuXLexgRGQdqnlZH1uG9sBGmFcK2PaOuGmvW3JZuKNIog9nJH7t2WDG9gFqXHJiGbQdXmOjUyFHxIQycvEcBNXt6UyMXDX3OaZ7hoUYMki9i64PAY8PrMgCsx55TlIArw",
+               "width" : 325
+            }
+         ],
+         "place_id" : "ChIJR_dByXf2wokREOnra9npxkU",
+         "reference" : "CnRvAAAA37tJsqajx3yo9y-jlMvR8q4Uhs89_mTliu3eAPPndRZmX6fbE0Yvq0SuHFqVkbTiHLQoR2v7W5dLv70j-ETQPM2FjA69zKLEa3PXXB8fX2UVM0z6a9GjeIxgBwdjVsz1k9lBqfllw7i5Mt100cq7-RIQIzfLvAOnhGUi8S7NZ8bUpBoUexZhyCpwmKdwUWwWfVhLjViCVFA",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "34 West 139th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815109,
+               "lng" : -73.937522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "74bcbf94e8414b7fee32c82dbd1881993686ea95",
+         "name" : "Greater Harlem Nursing Home",
+         "place_id" : "ChIJg6mANXb2wokRgx_YKoaOZAM",
+         "reference" : "CoQBfAAAAMKyfOB0mVEIFk_fDwkWO5bxhFxeAonjvVSsHCWWY7IU1syxItU-3-5WpODxshw-tW250SkRI9elCR3ik1H3bii2ydQB4-js5BR-PzZZZ7zXJjkjYiIi05mu3WnEwUcjTZhw348a00C-21xqdnjitmMPYHa7q15iI7ZDhi3z6ISoEhA5Kdnx7ceXjaqHX5Uh6oC1GhTWmKlDPO-w52sRK3_2HoQRfPCI_A",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "30 West 138th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815662,
+               "lng" : -73.936286
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ac57a6548a00ff548f62551e69ee7eb6911d6a3",
+         "name" : "The Junk Pros",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiv6J4CI-dQWuaAuwk8FwB0chDDrfA02HT2QVh1X8CtbcDwwXB571l3TqhWjSoXHh1WO_b25maHeLJoYJO957GtINdwyZeVgpGZCcq58bTQZ0WhsGju0hjGaDORqNJ_CO7BFAm8SvgUxVFkk2xKjQzBIQYITBfXuSW4CDgMibcByzzhoUdxctsItN6WvOTIU0G6OadU7DVYQ",
+               "width" : 688
+            }
+         ],
+         "place_id" : "ChIJURESfNj1wokRtmK0C3DDu8E",
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAPHwEZIeElK91a4AZhq0G1sU7s-doBGDcDL6HhWwBsrCB3cTe57P_9haEu9fyQzn9veG4fA-RSnp9W8yQZeXLne-dhMe_Z9T8abnnjBqip6i0-L1hfGmR5emZCO2cMfvbjvL3ZJAsGVr6PAa4vYcCWxIQpta-S99U-Ckr39tZ9ADG_BoUHxTzrhRhAZRcN07EPIAlj0PISEI",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "15 West 139th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813208,
+               "lng" : -73.939114
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "271e452dc103d3794c19821feefe95447c842403",
+         "name" : "Fine Fare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHQ3ogXb2wokRVFPEIw4AT8w",
+         "reference" : "CoQBdwAAALTgzynNQYUBFHhII-oebrVRKomWAVS-5eHM1JfTq1dJ4BI0IBddnwz2uQ6zVj1kZr_aloT91XgGPQ9_0fNaFAgF83Unqwr9QYqj4Bn_v-GsP3s5gmxehLOo_P8ddBiRKomqn5hzAU7gqeRCjn96YStCwlgRitTOu5VjNCkGcPmtEhDCTbbNdpYs8WZuJeQ4PiRjGhTMluGAWmCHVOX2-m4Vo2DhJS1L-A",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "24 West 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813306,
+               "lng" : -73.937814
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7dbb690fdb842e31847ba1dd2e89000095998fd",
+         "name" : "P.S. 197 John B Russwurm school",
+         "place_id" : "ChIJc7TEdXb2wokRqTTag901zvk",
+         "reference" : "CpQBgQAAAIci4A8HmEOf9YkmAeZGTtV87idFFwcWRuGZgXG-Utocw9fX0xekTKm0DjjGEqtxwEV2iBY7k5FbZjHig2XsURIZS0CMgy3gRPQlT3tsVgFTzg8ci7llbk8FvMTt-a8owOw9fp7VZV7RbTGlMyKiYVEmccIwWWT-MXQFKJnP2ERPIZPzlHBl6M4y29NtNXuwNRIQV2fYVeyXSldoY2ITmD-QPBoUq3ihZcmfymGdJRDAtvBJQS_y5sE",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2230 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813103,
+               "lng" : -73.938855
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5e4dc390c9243eeb2f9e11a2f6f3f3e237377902",
+         "name" : "Lenox Terrace Drug Store",
+         "place_id" : "ChIJAXvGf3b2wokRw332nSeBB7I",
+         "reference" : "CoQBegAAABtZHeCsoWatsmqm5eGJe0_BBlMWeKrtikMQ-sQDiVh1xBePtXeQ6AY81McygASkh71LWsYGmqxfy8TNh0aSPIVCzg_M20FecdCkpbMKyDZiFa_payrn9hAnzUEGlpYXcYJQIqlNQ-YburjeVDG13zmUjS1Eyef-I66Wu5t4gxgzEhDcO-e7_fp9wkJterjan_glGhQDzdXxhsNcHcUOpfOhXGQgWCbo1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "20 West 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813072,
+               "lng" : -73.93771
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc528964679a1c5d8e5818b4ee7a6ca6f4dc732c",
+         "name" : "Democracy Prep Charter Middle School",
+         "place_id" : "ChIJc7TEdXb2wokRMinaJu4FSUo",
+         "reference" : "CpQBhQAAALF40sexLERUiAHEUKcXUUMtqObPODpBPFASv67h8skVl3fpIz-VSFWOj2pZAjF2IBinW7z-visM9OG9o69St7kp917tEo_TyMYGRmPjjANpOY21TtP0IkN4Z4UwC_HwlCcPi5F6litgZfWMv2TpOAZc0KfqmzAdEJtfyAuo55Fypuf95G1jYdHdhYxAALAlmBIQ48_JRspMsN4fg18Xk7dfdhoUMtbSAgLmazdd001URwqOJxcql_w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2230 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815721,
+               "lng" : -73.93828499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5fa4dbfe8f29e60cdbcfc386fb807eb76bbbbce2",
+         "name" : "St. Mark the Evangelist School",
+         "place_id" : "ChIJHz-Gsnf2wokRUuY1376FNMk",
+         "reference" : "CoQBgAAAANP1q3MOHPQJWcio0N1VpRX5At3ZHOuMP3nTU6xHeiVjMVbiNFw8SJSWneWyCLo2VusrPHSMB7nuPCx83zxW7wcrc-zGKpfft-XpcNE6XuNT9l5RY_hPBebRGasMOP8rfjW1zRdHKdBasULSN2vunoJ8Qj1qlKvv5sTBTRjbbU84EhC0MkP7eBopXPNP9QumC6MsGhTHsJk4m0ZNjEEU-bdjtogpNJNMFA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "55 West 138th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813467,
+               "lng" : -73.935615
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f22e577899aa4663982ad0a20f72ef5026d5e08",
+         "name" : "Riverton Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAMqngtN9asYAfP3WFbw7eww-ujYECG0avolZfqDUhMk36ikW6Ajn81wKP4oqZKD145CKXvFyAvW6Iq77ZSSqIt4HijKmGyKrGc35LlVIxs37pKKzhTVY0gn7XKdeiVrIMxCeNu_agLJeH-3jTM5BQsxIQhqniHsEkLsewDPrOfAotIhoU6EAhHNT_cfdu5eY5BbbWCpcp6d4",
+               "width" : 1155
+            }
+         ],
+         "place_id" : "ChIJJ-1RcXb2wokRjF-3hAi_oIg",
+         "reference" : "CoQBcQAAABETd1LFYUV7mL0NsYocgUz6REHD_miW9PMiMQ6sRH9dj1wYHfUrvLU6qORVAN7-Ca-cBwPi_2Zj9WvBsYqGcRGFkxxwm4r2gG91y8x7JXo9wnIkFceYI-V59tc0bKTvIMMY0s6Nx5ajHxr0m7InIDRwLSMBQdGD9Ej-XiQoDqA1EhBc5VSXXpcLxM7XLQWsCkK7GhQ16AZdrFmWRCfrOUWw5y2S8uAKew",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2156 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815,
+               "lng" : -73.93638900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bb175514555962f83eecc7140ff39a6a43b4981b",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJzmFLHb2wokRxxu4yx5jwgs",
+         "rating" : 2.5,
+         "reference" : "CnRvAAAA5W-OQ5PcvJZX3Bu23RqGcmJB5qEQflYLW1aG-a1f9aZboZGqyjnM1Osb4suT16hFBJrD7_fXpVvEyhAc3tmahn2bPtyYGrU3n45nEx1XLH7Y-2etF54MIftYGziYhZpVTNxCLjQLOfTGHjnsKfTAfxIQ9GwhUa2I_s4Kdkp5Z2LWNBoU9UgpEIgi3Bc_h1RWmKVqEBp5Qpo",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "2266 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814375,
+               "lng" : -73.93669199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0c44d67022f3a98218290af0334b0f0cea75093e",
+         "name" : "5th Ave Plumbing and Heating",
+         "place_id" : "ChIJV040O3b2wokRJxhZbKaCFmw",
+         "reference" : "CoQBfQAAAKGmkz1ODr3l1JWW1zEEyY3cCNxDhEgF5Q9WTQSympnOr_PtA4yMYZswe5mlOgjdjtWQX9fFO9wzuinER3zjSn2wexPj3r2B1YysudBsLZToolUfdyAcEwUkdqXGJb2fszhl0z0Sndttv3QrSrgRH46jtROtUjufQ5DIpZnsW-YnEhAwoSjSUX23gA3gpIvJu1S_GhQ-2hBXJXr8h50Dd6vWRc_RuneyIw",
+         "scope" : "GOOGLE",
+         "types" : [ "plumber", "establishment" ],
+         "vicinity" : "2254 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815483,
+               "lng" : -73.93932
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9b895dd700f4f50b15cd79cb2c42e774257c1bc",
+         "name" : "The Salvation Army - Harlem",
+         "place_id" : "ChIJQxUhthH2wokRVysyKzpzE08",
+         "price_level" : 1,
+         "reference" : "CoQBfAAAAEaGJZMfk0yHn88PSycVKmIUAoL3VoauFRGUELclXXvAUqGxYWQB3VBotQ6vN90kTnSllFKoJHRvPu2NyNgZhrYI6WwwKsIa8jM7N0M4MCmH7KNSH7AG0FfSFe7Yf09AVAWI9yVSiUD4Hh9g-xgkfay1ljjh8AXns1d4O-ifOQLwEhBM11Ln8qah9R8iI6M1N5wkGhSCa6qp-viPU7nIC2gqbYZjoyz9-A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "540 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812591,
+               "lng" : -73.93805399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e010a2819c9eed9f082aa2cedc6321e56838b209",
+         "name" : "New Golden Gate Deli Grocery Corporation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJk6a53nX2wokR1uOwuWouUj0",
+         "reference" : "CpQBiQAAAK67jBU8Pm6SCYhS138z8_ZdPR5XUW3nLY1JVU6MVgC6VleGK7JrPAERarn9RtXoMuH57GwscXxq99_xdWt2qb0U9x4I0Wb-PGK7y5jainZmZc8Zgj1jcSw21nV8qfxkDlYzOUDQcxAKd3vuKi7BlzxnI4-10FvzivJwBUiB9y6LIQ0tcfKQCaozz68hzf7EWBIQFV9G-REqgE6MUBkoxKIWAxoUcJ1CGyCSa7yKQH3gHv-cSm10i0Y",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2210 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812315,
+               "lng" : -73.937268
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bcdf3f2c3f82d46c7cc222c2c2af291f7e13f7a2",
+         "name" : "Abraham Lincoln Playground",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAApe_RJNkW4wJZyhN8QVjtZG06V8UfG_PCVasj2R6BCB3yGf3YirNNTBSxUDmthTaq3Ew4WWQTzZxsg26vNlpB4BEFUU4doS_7igV7BaWbPVbWjuKQs9ePW_Xq8lG5GpjyTNN2VtQNTfzHwtO5zMXbZBIQfdGYEYk9xE7cLfbbHVnlfhoUK5OPuB7RvE70ElkL0XkRNEfQE44",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ6-JT5nX2wokRusw1c8WFxug",
+         "reference" : "CoQBfAAAAEWr6pqj5C8nI6EapYK8Qof2nWJti5SNwDZTQk4dFKLcAkNKKl9UJSG26pC5w9Qa9YC-J-n75j_VZwA0zlZKJuztwgKGkzjjf9gRVM0ad6h0EMRKYMjoDIyQ9CqYx0RR-H4ViWS0BXlOul5cJAIqjiI3t1NZKo6QOoaAN7dsQdCxEhDoE2DqO0g77Q4wsIv-cBWGGhSn1W3B1oas7mlg815ixYQQIU3-VA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "5th Ave & E 135th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815855,
+               "lng" : -73.938706
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ac045b7e80afb418b9e1eaf20d180d9dc0aaf3c3",
+         "name" : "St Mark the Evangelist RC Church",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAzDH9asua9mdwku0FmdbOjW46fBxagEV8PQLqLe0tznO-d1jD28KZwy_7F796qZX6rdyZsmhVkHq6-l1ILsV93520EtveIO18QIw5AqoIKyaIcf1hBLu8KK6l5j3_z1aVDZn9AIx1DWZFX1xQ-4ZchhIQ9OPpbi6BNVa59_6FlXnEoRoUT63nKjm43fAcqMB-ryEZA2qFsuA",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJDW3nqHf2wokR7OC55znJiag",
+         "reference" : "CpQBggAAAI4slkGWUF22xlsNSU1C_QKsZr7poxSH1pX6qB13IQyndxsS3o28ALPvL_ohNwVFk72OrNlSULb-vW1oiHG9t5wmmU2giZX4YJlbt9as4a1HoS_3xRaSqS6K0lcGeKjg3gF16XUu9v_htDHtQBc39jgg-dkFuFUrHXYh1fgKaArWgn8auIHS7wY54kPOhWKeAxIQxJ7sVcP8iJT2ZPBslIIXQRoUI_sLNxhv3Glxhxc4m6cqrjpHj_M",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "65 West 138th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAO4HPqFONBrlAR6dWU9m-69KfO6JBuKO7FDPZLSe9Z6hF9wxlsyVP2Hg_Gutd_9EVCWtM8goEOKw7LlLAcKH-p1gglmN8p3TiM_o_BkPaY9OgAYkQ9-ZXFx2XefY7rsWMbRMlpQNSM0IIwbKG9AmZ5Dy687--2Y-0-pDtfTZQ7p3xrZWTyL4SagKjEZ_Gn1YqxIQnu-NeENsZM4DDt_XanJCvxoU4EyTiBX5qFSVvhhX9sjkByFv1FA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

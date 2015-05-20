@@ -1,0 +1,534 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAAnR4cDHdy9MwbfEKB6IuiHMgG40lWlbMSmE7BOhPb_vez2ZCLGAOTxbGYUbe-EDiI5mdnXe8wU5R_zecVAPEr9xuQAy42vr0Po21eP8pzb1pMsOaX2X-YdwHnli7Cg0aafUs2PtvGKl-qMpKSq4cw_loZxpAO4zvNCGXoROQdZ1x7gKrgqeFYzWWHl96y14zOVxc7jCeJxuQA8F8MscprVIIUdnT_mi8Ivn5-d-v9C_yc8EQz0wC77W6m22jFj2Sx2qqQqnmFyIm0LKpN3F-aDy85y5wtRpRCbfIOpPGdnGfM-DFyLNZVyJNWlS9hvHLRIQZzIaN21Y3C1dLv3QfAMO4RoUjR_R1IKUL3li7OeeT9gE4qU9CQ8",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkgAAAFoFTB06l5lD4KhK-3dEZz7thGHQS6XGX8LYm5Fu3X1g2W6zolor4pnPtm2fBOrq4TUTSI90Q3hbEbZyMmkREMFFeNnT3yM04jlLq2l0mUiu977-i48HFDbZpKzWKRtXxmPAdq73678cqqEz8i89edzbMwcmgggCbGMVNNRP6PEEvpRyJUPiXjpPfSY9MnW7F12Iyq4A-Tb8VT_v29-Bp4sSENPaq3IjkLb85gLchYsog2YaFH2LK2VouFMYQU8ZXAb4EqOrCXhf",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810687,
+               "lng" : -73.95606100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15d8b47aecbce8f10db83ca3a3694bf0d3330b55",
+         "name" : "Columbia Secondary School",
+         "place_id" : "ChIJpVjHK2v2wokRz8AIacksIRg",
+         "rating" : 3.8,
+         "reference" : "CoQBegAAALM8Ljyw97TZuOfi5H5woe73FMS08WK2IPt69vz8uTz5cNgiPClXXcXyDjub0gQkqtvCCGEdU1wLSighdyQZHIyoCw6g3AvvtXKNdqO57h6UCpRiiSx-xOTRtgOPGGa8ySIrPVYwbc-CSKL6xWfWmP9yZ4jJGXcCL1w3RWN0DGm6EhA0nhNnRedJb8hd6buOIYcbGhQ4cZDRDk7MAEm-pHRU6t0sF4cEXg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "425 West 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811267,
+               "lng" : -73.958247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f09d03330b70484bfdd14076db3bcae53bb66d61",
+         "name" : "Kitchenette",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1063,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAqHr48qNKFjlza3YLVAVo1oktunflK45xicn6T7R6EsEp0vvqkNOILCjRh2BuzrsmNip1DdU5DgYiQusMkKTeycJLhN0osk5fd7LiVBcvhZJVkoUUXEsvcuFYjJpGNZ6jn4USBL_eQHoETHqo6q0FIBIQ3taR0E3trRbMWBV6LaXEahoUXZxzotaX-AREMINmQ4VD1SzWtOQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJp1vRyWr2wokRryCc4slEuOU",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRtAAAA2uHMWXOJZvz9tbapZ_D0Uso6LiTRtjQxEPu80AR5HXoocTLoYJlUFzDFJAJuN0Iv6OMvvLX2IlxRVh2bm8Fn-XxAlEGcRUinE1Di8ZG2-p-n7zm1hF1jIuPwJT-nRpO5jHhKohcz_kmR2oo-qcxMVhIQSpHOaSgZzgmMcPRKZdL43xoUWk_EQNQGQ8cJNnlxbed-_S5BY44",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1272 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81226,
+               "lng" : -73.957403
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3308b4d48a2bfee4ebc1f8d86f35fda286e5b146",
+         "name" : "Citibank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 403,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAj0E2Dwz3wjn5yiqN17-HmzCmYms1Q2vgzkLyN8HxAQggS0_if9SVf7rlMzod4Lf3PUDRAFra6WXVIkvyGvw5Z1HDmvLAuXmdXuDyZcgEESVf3a_RVWBmO7-cklCOYjyYcQ-tbP1OGEA0oo-yrhtjyhIQe9xu07qqzp36cdOvovgTCxoUOOI9_IGWQAdL41LWtdG2cBhykQw",
+               "width" : 402
+            }
+         ],
+         "place_id" : "ChIJp5Tx6Gr2wokRUJ3wiFL9Oiw",
+         "reference" : "CnRpAAAAHb62IHIbIdZd1DSSHWkbqprui2V2mk_pmFj7ZtR67YoYRKJUgSrkAISlNoKNkVNkPk2vNwz9CtJroiV1ePB6yYxVOj76j3NKTqqjGwfMwXpdaJlvOXyx6QzVIxn3qF-jajtSrgRW2irlWG5iCHlO2hIQtOwQiCPEY5xR77DWCtZ0-RoUv8uGtFu9KEHfCLa3611Mh36vLVM",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "1310 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811581,
+               "lng" : -73.957913
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "68097db05431b7f83855a982b9b62f1e9984883f",
+         "name" : "Nikko Asian Fusion Restaurant Hibachi Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAh6I0ERJjjVOr2mA2k71iQkKAwub0K_JFT8PzAOJ8XrUXMdBQwhm2sFRhKAsSHJnB4ko6n_bTCNXI_CIKg4FAgatan302DhUJLRCRKWBAQCSH1nzyKtp06_E02_kfqfTPM4lbRdV2ADsLEtflImGvUhIQxh7RoyJDElCmzQK_2CQp5RoU6u1O1CTouciTSjTAISKiE2uhEPA",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJu3iXyGr2wokR29wWAqLfn8Q",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CpQBjQAAAFIo64wpqjBU_r0AGkpXa2ZvxFvBKcDEO5x7_p4nTsjiNB2jUBSK1XZhl2dKJ_z3JuvfQIUsqn0gpfHD3zMQEdFkZp8kykpovFTs56bMNf9NFssJ1C_dEobZ3HaF0DzAgqagXFm2MyEfCjHz6DBR_6uUULRLZA-VvVm2GMPbVd3oriDWyRsqffJgftvg_8qq4BIQzsAys5_24sRJcF8Fl81kKxoUxumSiIHpUPaPFh_biBa5B96CdcI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1280 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81092,
+               "lng" : -73.958364
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4610a39c4341bf926caa941e3a5e8cec9441cb5d",
+         "name" : "Max Caffe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeQAAAEHWAbXT5mfOWgdS_rGXdVInKt1Cb5TZ_NQnLMQ-cIFDHn4aGpp2_tKSJVGummCrBcWvubPNPfwllezWRj_jZ8tW5EFhZPpnMKeSNEjIg88HeWiWcKHsDCo5iKj1ZocfNOJQV0aH_GA4udQdCJ_zMqAtOvxOTfcfIRT-RoVH5XU_EhBmlkZtA39ATQijjRnGP7KwGhRecAJOTy_skHA2MPkL1En2TxJuvA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5bu6tGr2wokRW8xshG2qBvs",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRrAAAAe508AzxrSmBJY5aoQ5dVkuOJyIkRnkmyvnm0z0sEaY7wKxirvXQn-zqFCI7Bruvu3TV9A--Q7Ka0EMyBVvGrCmlO-Ukns_xKVqwUevqUlWUWbprwwjldrRKzUcpD4846ik6TA1Ly7OFvCIPz2PoTzRIQ77RZ9fJK0EL-GFD0U1vqCxoUinAinyCHBN8RDSSDO83tcQOuiLs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1262 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81362,
+               "lng" : -73.95614
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "517df450523831bfc8ba3cd1fb2e4f5ba704a18c",
+         "name" : "Baskin-Robbins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3XbBsWv2wokR1vmo0bt-ZG0",
+         "price_level" : 2,
+         "reference" : "CnRvAAAAgmEeoPk-M1XiKn1oQyhgTIcvioE0Nz2ZNnYH_eAJEIQQrmWYPY4Lv9Ci6ON7ZnN_nPK0Tm34jXaIWg3KRHkBUGun3-nCuNUX1xgMyu5fMrzExsSbwgLHYglNiF6AB9ySUaS6YWjRyPOHb-k3qtk77BIQribxEJ3eXz0ht9JKucBqxBoULc4yT2N3DmCVJcLijQ_qDPHDxcY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "1342 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81409,
+               "lng" : -73.95974699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7eae7bec0d66f1599b3eb1ed98dd118e1eedbcc4",
+         "name" : "Bettolona",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAo6zzdCOf6hZxBysnD2_WQ6uc1hvhx1XztkV6VrXUgfwOge7QQibktYostwvhlLEAzincal5SVKvZ3X-Nw6u4_pPPLMrG_Ump3QDBGkBv_tGsOfnO0z96_LzRrQLVwrYICLmfE8xYxhspxjsbMTybbxIQ7vxrM-ptRRY9_2sLhCCOBxoUSZ1f0VD0MiZYa6AZGBjz7YHA_00",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJz8ge2kH2wokRqqZ-Lu5yiXU",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRqAAAA8HnR0M6bzv0pRB1gHbYQ4LoDzgt5X1W3kmmoD2ZdNLTgP9oa0LkukL-Vo_zc1Rx_jHWfa2GhbkQWvsNiwMEV5wICMbhiTZoMqqTk2ElB6nqBL33mZpV6fhkOau0h37xmZWj-2_Y-fKocCs5CK6hTxxIQslUE8cGrogfMCfWg9RyQqxoU93aCOAaSnGjsmRpzMfUzGoUoBtU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "3143 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814086,
+               "lng" : -73.95983
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fb7d043b16740fa8e0553c776a898f68155b14ff",
+         "name" : "Hana",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOqbK3h9wPvcMqho0axfnKWuMLYt5yJxf1oPMlt8fDWLyKtKCxJX6KO9YITXNKqFZdWAuWn2VsTCEH63lrcxmEh0lhq3QMkyQW0gN_z2h0_bO3TMXVNM-YEWvpEcbi2a-Vt4ugAAO0KGgYzY4sxeEaRIQQrvdyGxCtYcvyVK_LxdqBBoUD0oCWKDK0rQUJm9eZEbPUBWNVPM",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ5-Ux10H2wokRtGT6HW6jDGw",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CnRlAAAATLd7yTgpVkbu6rXQTF0AHtR_KB4J-F1bSqB_jZGMWJhkD_9w2jghz3nU7cpSQASXO_bs8S7qtnl11L-JJXKpVL5GPvfxhf5Zc70DRNCj2bT6WfLtQReL8LFX5cyt3vgFz9931WDZNAAOwcB3_BnsyRIQ5kZV3IBddbPlvsfksAkVUBoU2Jf3CInFEcPDM0qeSYzNDaOooHE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3139 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81373,
+               "lng" : -73.95568299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fb52a6a2e270bae0818d68c9dfdcce5a09875d89",
+         "name" : "Surroundings Flowers And Events",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzlZcrdVrkfblXwLUNvxXr-_wMZzsyKpB2BJ5aV_BIGvh3NarW3sfy_wJFf6itF-bQzDdYFMR29p9GzJVHkpJzIZOlC4RE26Z_7E_GEQrLoh_avvbxKg0DwUMZulP6_wbKS0PSd7kOwgJwAkJ5tahWBIQu3Jp4Pz2q6TZ9UrQlKHMVxoU5XqRHwxTAcwim9kMAxqF7WWpvFo",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJcyVMt2v2wokRfjvDELs1g3c",
+         "price_level" : 4,
+         "reference" : "CoQBgAAAAHTNrbDsXoBsObRNboGMcwwse2482W6gI3jyCdgEgXQrlTWyVMBdlyZI9RLN7-POmwxBDbxwdxndKmamCODJzFF8xwFJmzZXH744JZJXlv1JBvAgzS0QelF6VOzVvKQ3FQDhzueypbijJN0CmRFboEm6VwmSbUvOAqTuIIzOms0-EhA3aLiGeRoXMUu8uG2JHBHSGhTosknnTUwnOpUvHbq32-cz5yxYkA",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "establishment" ],
+         "vicinity" : "1351 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814049,
+               "lng" : -73.959858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4111d639ffaf64806b20f6f4374447a37a9e126d",
+         "name" : "China Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_FoPHGSFHKw4SPR_OKWswMGiKW2ZJ1ooSsqs8kc_rbHZVcMB93-2r6iM4VquZCwoVm1YOPAjXZy-LvofEjdYr1KeRuBgx9d1S8CPjrJkykBCjaa2wuNYx0_LEm2I3-HTnV3kjMcQJfVU6tHfjK9ndxIQFggb-DnUFBxP-rFdrUvBjRoUSijnKspExqL4WaguK7So-Yv4HEM",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ5-Ux10H2wokRnILVN9yOCqo",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRtAAAA7rFYlbJX-xkqA7oM4K04urcShGVJvLe4tWz89x5vMzCiZSENvPhcYQK9UqkT3j43yF0PxH_D7QpW2hSECGMAO6TThJay0tg0m9jhhMUEgmQmZcyRDKmybbwr2JxVkbpeh8hWGEEFZ5rRlu0sWT1pnxIQ6v_woFLIhK4_wItwkz9vFxoUEH6KgiXb37VHhPjjeW7bQfXZpXM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3141 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811277,
+               "lng" : -73.95808
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c467af6834120b4d799134a6203ad829574de098",
+         "name" : "Max Soha",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAIa3FomQnpawuJagzhxMPqf48wyY96HHJbSK26klLlx9MdHW6rwL-HXSpRCdkGWuoJQWaPNtHN00LWdW8ZwucjgtEMefwjPGJVZRIphNfq5K4pvG0ipOUA9dJYmJ0fHFPf5uQUvTDpxW9sLs__hWdeJdr72c7waVwOI6LR_8-WvsEhCYGkHjFxHH1wlSofBz95dCGhRlWClUzt-H3Lh4psjgHaP9UE83_A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJFwjwtWr2wokRzG0O5G5QpIY",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAnKuElsjRf-aA4frFSW8dtgtBSt5paK5nECGX3DfkuI9S2vDiJyFvjvbG617NL1CpABjQwVoQhzAbzYsJhmQml2KF2sQnaW7SJ5eaJe0aIU56GzbIQDWtTHokUUKwmHvOky7cu5oJsBaSeIomhSJqYRIQ4AgM6YasTXebbOHdi-Id1BoUFchuCqbY4yl2CqHEqNC1y3nr-cI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1274 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810616,
+               "lng" : -73.95738900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "528acf4f4f58cd20914595454c3d652a9d9488f6",
+         "name" : "Public School 36",
+         "place_id" : "ChIJMxrrMxX2wokRtHxgWeznM9E",
+         "rating" : 4.8,
+         "reference" : "CoQBcgAAAP8f1NqPf09_8EJphMdJbohHmwicokop-0tOk_hUnukW-9lZdseIc8lhwGpTdAcWTBQIxHIzzPcuX7rogsrt8JSOhWjUpuegc8WXkmfWXe-G4y9cDR2FL3BJsB6tqHRxQBR-Y9e-6EumGWkfhb7tI7a1OYPwo57Na1wXduN_S87GEhBULdlz6f08uPbLuaINQQU1GhSxB2kkJ3464rpA5EBiXxuyxTpJbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "123 Morningside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813734,
+               "lng" : -73.95632000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7d0fd57172ccdda6a6ca2e2a140596660b4a2617",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 792,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABb7AJVIVHBYf2wuR8DeFdM7rgqxRecJU8Dt0cxUA56bjygI6xRtvKyyLUu7Th8j56hjK6wst96CqUOt3efsh2iYJZ8abBlBHukBu6aZpiitGUb0IrhByVwnVQQs1pdNf8XXbyfWfl0h4CQ5MhP_q5BIQBK1bQ7eN3meoG0sz604peRoUGhimWlIK4Nr1US9L4oaw24Tw0Go",
+               "width" : 792
+            }
+         ],
+         "place_id" : "ChIJ3XbBsWv2wokRQ1gBCiJQt1I",
+         "price_level" : 1,
+         "reference" : "CnRvAAAAIDnv1wrrYvafh2UzGxEa1Qq4Qg8rAkJJgMrQRjKlfpigEO3xJhBNfSNg9UckKRqQUE32nQLL2zFfFTR8lO96uy3SOVwImx8k7QFd2qjwQWs3ArRoGyZOJCV2q1-oBlVx5FXpS0phogDuDRwRdu2eaxIQXoSHUtfSzj0AbYh8a73hyRoUy04Y1gidZqFmzPBQfthl9E6ed_s",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1342 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81368,
+               "lng" : -73.955761
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "722091b69ed805025a7e615ad50e2717cf82a8f8",
+         "name" : "Jimbo`s Hamburger Palace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASIkyE5KZd2SVJlCSYAYFrQir-ml6zIRtgs6c46CYbx0V-nKIQL-LDfNgolZaon2f023JquzMaKoAE7YN4g6NOfCgX6npgW8pC754jLISmWP5-fuuijS0FYji9bTVpshOwx8jZVnMoejLpqCh31nicxIQvLsot7HhmNr6VSn4-jgWARoUoowNkb-QNb8V7TWEHr3uCjGVb2M",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJUXZxsGv2wokRuHbjG_4-oPs",
+         "rating" : 4.2,
+         "reference" : "CoQBegAAAIuTKFgBbAI9CR0PhRsi8DnRBb7cW_aul8WwjGiLkS9KJhxefSMRqBURZlj3oIQf9_Ci-M1sRm4ue9RgJlkYx9k0A98l3m5r4Gf2tVuO3RP2OInpR5beV4bz2_S0PzKWlGd7_j02lCWhwI2yirdq1gcIQt-oGqVgRcK23pOKrhujEhBmYMvKUjFlheNV_KUBLWUgGhQGn60AyTW-cwrCHrHsFf-uFat88w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "1345 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81245,
+               "lng" : -73.95728200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1b82366d315290b848bac2641c8d9ed8a56d8f0d",
+         "name" : "Met Food",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVWuk5Gr2wokRqvu2Zr5J_iY",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAYoh4WobJucPx5rBrxG1E7w82J20Zp2lMrM_YbSzv6OdsOQsvFhHndEXCr_gJRc0mFAcTbhmmRGo_OfmNRNhhlcDsfFhzOaDhTOP-1Tvvhw03rSGkoPVoS8q0wSJEMN7HrNTRS3ba4kqNePGmSQTrbRIQ5vmYCiVmKg2o46m_2XZP7hoUmVhhL0j0LxV03KVNMoZDqyQHxTA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1316 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813045,
+               "lng" : -73.958595
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "574070f9ba5cf1e4c4fe45a715503dd801c8097d",
+         "name" : "Children's Learning Center",
+         "place_id" : "ChIJLU0Qj2r2wokRORnXNCXI5LE",
+         "reference" : "CoQBfAAAAHVKDM3jmEYcgOkc3dNZTN2BO3T58VxXaJT_OEal0xBm6ulmsj_qepP4Y0tYNA1u_P5aQxmVGp6lYp9wrns5aWHoVoVQfM3G5tp_tjULtqtAQwMbPNFWy4IMiHURG0kCY9qf6loMDzmC5WIRJFWwn35s2bZt7hqnmGvnnTtKmIZUEhD-Xb2hd5Gze9l3h94woJaiGhRfejMV5EeX8nUThz1rqokaugkQ2w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "90 La Salle Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81076,
+               "lng" : -73.956057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e9caabff2f01ea57fe1e4cd8e2c70d9e909bf1c2",
+         "name" : "P.S. 125 Ralph Bunche",
+         "place_id" : "ChIJpVjHK2v2wokRM09dsXPTB2k",
+         "reference" : "CoQBdgAAAFCP2Z1SMMuarNdEEgt6bdVX_zXPD_bIciUIOGTkWhd9pA51zO_V700z8swKZIrC1w4i98xPtQ-Aoaiun3uwVVn9anwgOxFgvOosZHfQS1dRfIPN5UBDs9co-GNliNX88wc1ROMOoFDV0DHuKH9rxPgW35AHCP2ZoEt6OK-iP0jEEhBOCm_fulFNXosmChMnjPTnGhQUmhp-NmHZHkXci7qZp3s5rPAdgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "425 West 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811105,
+               "lng" : -73.95824399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9234076bfd13649b2cb76c179f31f646b007f3b7",
+         "name" : "Toast Chicken Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZ1nt23lxRK7HLxOuF8ce1o4-KfLNNlFWpXfaaW7-ccYfwLwQ5q4h-YKKXPnuCd7y1FDor4oOPQSnYweHaXWUx427vX6EjxWo1lJXJ2H9BsS5KgXmJmgGrBRu2FVXp9o0uwlVQ9qMj4nlh6Le0BfqTBIQUbb_3Y_HVU3xluaCFbeQRhoUqh6mR0gaACtSRQMkuNW8kHCHT3c",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJIRcktGr2wokRjMWZ0XslYMc",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAANetfFm_PxtzItFgbQFsHif8uqWPh3ZiPdHoQtcbLDrQ85C4fNCRfG_8pI73u-5gQMtijVoLYI12pW9YhZ6ErzV86ByIOh59dQtO1yPGsWa_FguY1EM_ujLUW4xnWucIlkIsrK5D0pN-7zrqLmMeZgVYPnKmdxAiDgJ4GiVa7Wb7EhC8RLfm5mrC60vYLYjdMmFaGhRAnIPsOC21y6r-QQOd8sVo0MfzMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1268 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAC7xfORbDgVQGddkMAzxiwd5klod9r8QP28HtA6pvI_VmslKjEnbKEEMAemhFVVfL3kirlF8MKP-6gy02LPgZZtDc7zbuqRGHFdMV_Rcph7zHxZ9MDNjp5g01IB-3nkgxkVIKvYNlhZibQ-bUN4PpNBbCe-gMR5LXzEtUfQ92LueSFqbfy8B4dD4f5sljdpT4hIQSZ_PxzE1UM9nMaZWv_A8BRoUkn94w_VjKte2al72wEXoosLgt_g",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

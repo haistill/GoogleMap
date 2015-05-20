@@ -1,0 +1,349 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBigAAAIZPnTi_Y49vVIm15E_rzjiCg7-XD5umOtmvaM0ALACc5mjXmuQKQeaeLYCxkf8jxiLCvUoTNcy1kQaXlRLlIp9FtzCMu58kQe0-TjubFwtmYYq_TSdrJylYSO2HBZzzH7DR2d6Qs9dovV8zwLAZe0CclZ1cFNAwmKIAFUlSBAKW2QNfffBnfWr3FLR8Ab5tuhIQ8n7VPjIx_nMHkN6zYfk5sxoUMG60aDjUNMrIpuwt8xMBmtOelsM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713019,
+               "lng" : -73.98764799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "cab0a9388bb000a9c311a3d3eca3a57040b1f382",
+         "name" : "Gouverneur Health Medical Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeAjYSnNtZ7Hs0fY-BInGODaanfFArp_WvfGH-910A6Wby-uf7oL8Sa8YSS8dO3rJ_aYIYT1CpQhEiCwP5_7Bk_bQzzUBFrjVu_8vElmQxN0XohMvGwcDuoV5DdoSwBL5LCS0Si2hJBEnnF9ao85isBIQEkrcekadgLaddDC3s92lCxoUP7icKxeBHmUC5KYv6KjdIzIwJG4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJFb1OxitawokR2Wfi0loJ9ew",
+         "rating" : 3.8,
+         "reference" : "CpQBgwAAACexi651NbtOGOCRAbPAbYkLsrKtHPj-uGSYrPl9QS3ImwDyQv65sA_k8_08bqeh4RgnUi-zmvW3wkIe_AiJrDkMFcK9py0poj6upxM7tlfQFCauYOTh-rU3Xd6Kl8uTRmruuuzaoF0EnJ9IuBoKPcxQIaXJlcEy1Tv2BZrXAi9uVOgEqsxs9XzaKzXIekqRARIQW3cjK2_e1DnoTiSl3fOTWhoUF2ZX_zE0B9oNfoXDcYorStiO_f4",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "227 Madison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713947,
+               "lng" : -73.984509
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ecb4085a63d3b1b11d3105bf9c3f009faeea9e84",
+         "name" : "Henry Street Settlement",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 225,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALhw0W81dpiJ-QVor6ZVN6tyMyrvjZdXmjrVbc9V_jI0ZVZLx9TkERKbp-3Qk7is6EEDLBRwg-bBU1cxJ7D5ovhstubk0WB7rqvKv0RdgMnj6UY9_gqB6RqjDmePhsTcdfT7et4GA0QQHnpwfZFnU6BIQDH5w93p47m5M5Nx3eyG3rhoU3ark07TTDsxveUmII0KENcpaUVw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJXYoq6CpawokRf5SyJyICpso",
+         "rating" : 3.9,
+         "reference" : "CoQBegAAAGrwnoCNXTCq5R4bOH3CMgfV4bSzLWj-qj11Pxlbg5pxHAuLjzcBp8zY2OQ6KqEOhX_p2pcSQmj7CFC0tSyNCxE6OVQkOCwQ-rSBLMHYYGircFc2h6PUad5_8DJY0LLa7aoEPdDQnDMZ9MRpPFh1Re50fb383v5ggeBF6hrneZ7yEhDyJPSL2y7f84m8vzs0Vt4kGhR0-MIjNZdZq54Qy6N637ojWaOA2g",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "265 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713731,
+               "lng" : -73.983722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "77788aa18267067dd1e6e187db5a782d72a6b082",
+         "name" : "Betances Health Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAPzu5R3Ytr1bOg1e3COYro7EpgQOOUyZg_AoCNNlZGnOV0vmKusMHXhJvY7Z4kkuJPiZ0DmW-InTPKLk4dRqaos_P-vWqyYQsuxaCnxnWt0AM-eETEmZ4jtrXhZvD8HtPGZF78ZwtnfrjSakEztFYXBIQffUPf6QX6WOR9aip8_4pgBoUkIM1H-pWG3JI9HKPqzPhsIiu5-4",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJJSBgM9VbwokRdDfqtV00pIU",
+         "reference" : "CoQBeQAAAPco2JbfQMCRzavEnva5G0zQ0CrjqcCUlKaIZ7e1OgSuCdQrTBcs_6XTpqcuwvFHrR7AaixqVgmyeCEIqSCVvsQm2JfXddKWvGiPeRjKfBSZtlw4uB5cSbye-s7NBMAoQ5-aVrHk9x9UY9MShyBIm25A8z0q8VEZqoq3y_OPw18-EhA2XSLr75ipSaZWdvDP5Zk-GhRh6vxrsPdDrs-qe9SDdGBRoGNkPw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "280 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713508,
+               "lng" : -73.985592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c75917f9a3d6e6a80c6f33c17f55ce33ec5d530",
+         "name" : "Henry Street School for International Studies",
+         "place_id" : "ChIJvw1s_SpawokRysDKfyW9vM8",
+         "reference" : "CpQBkAAAAHDVG8vhe6jv-2Pir3AzznqNurGzeiVycnaYfpCDOfcXSZovTuDeSYl7dg22j-9xn-PT73xfos2VAjQICl_z6EX6Ir4TJHHr1AjnBgxb6MOoIXv39VMeBVO31ZlEC8QjzqnVxJpaS6MLW6Uqr2e29UtciF_YMwtz2qOAS3X0CIcBWHaStWzlHBqrfLtbnuHUcxIQWhXTaGDTyT1Qb8rFmbGDlRoUpT5kJ3rFF2PJaMl5UxxVTvoV9LE",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.712211,
+               "lng" : -73.984004
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c8e51749737c14316905975a11f958c5cf240c41",
+         "name" : "University Neighborhood High School",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAW3FNRmkyjLZK21pHx_Wx4ywOcK6wHlsKEL-O6HW74E2aFqu0oqJwjQyGAeWdfCY7gVUWQ_bkyMmh1sw6k2JgorudmTblRDwnu8HZzn7N4ILvUEmao4N6o_aapqehCNk03IcNclfZNqyvESFNDITAVRIQ7XeJEoCgJPeVoSBRdXb3yhoUQeAZeFR-PkpcChCR0JrNSfp-Zf8",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJZ0WGOytawokRteua-DlMe9o",
+         "reference" : "CpQBhgAAADbP9I3zAh_eVuUKphQppdpCVyVHBffhkDWtRQgJVvxvkwcsNV_LDYxOsUiNVGhB2n0Vc34Zpn5RNcNodZ3ou6Z-uDKhgFkHU_H_M5ejA4xQqj5subFBVL2SgclULJ-9AhhcQREqInMt3WGJtpskGQDQjs5-FaanAOl0dp6JnId5rvAxdSWlisKF3Wwm2d-qEhIQLBgI9nQs9qO1OR144INdtRoUhiITiKAdI74JXdbjcsqUdb61q8w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "200 Monroe Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714022,
+               "lng" : -73.987782
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5a332485ed1f1fca6992ab6ddbc797fdf8cad6df",
+         "name" : "Primitive Christian Church Inc",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZ0f1lEwRUjrpIwQjfOvmwgZBCShPcz8K-REybU5nYj19MYVUuO4Sa31tWlSi6OdkW0W83vAtqRTF2L_N-ILSNyOwKQNOFfy_R57zLNzJfhqP_7OgAcdkr6Cf0yf0v1a_GpUrxyjhIg6bM-xwU2YDIhIQUa_3XKwRHVLDHSCkpikmJRoUlP4F_TtdwyBgfvaAezeE3DO4ruw",
+               "width" : 1906
+            }
+         ],
+         "place_id" : "ChIJ-wn2MypawokRrilXf6kVPbE",
+         "reference" : "CpQBgQAAAKBgbGGrI9jwvuz0X2Gxa9PSTAUAdtEVRjyM9FrSOkBAq4qeOnP3t8hxWaV_jB94jRj2unVrmfkRAOBplEsx0sQE3svwWIPZX5rhNznwGTU7SmcNqj5-WoYmV1dCh9kVwL95d8a-thelPrFlvwq6I-zHNdPU98-jwWqMwQaGW5PZkaUKdOHT1c-4wyL_ODfM2RIQW-gV431t5JNzOTv4cmgrYBoU03vreJCDj1ILG8mfqRLvTzIyecU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "209 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713486,
+               "lng" : -73.985438
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a6b58f0d4e648ce2c4bae5f89ed2afe1b0abcd27",
+         "name" : "University Neighborhood Middle School",
+         "place_id" : "ChIJvw1s_SpawokRbDUSl8Ml7ms",
+         "reference" : "CpQBhwAAAAMrP-Ex_-Y5-BcRay-u14UWRHukhRI7Osu4PHiXGlUE2wABpAtx8cTztU1cOphL4Gh2Pwt-vpB48I7PFVqKX8TWCctHH54JXKKtwNPH9W2wf9Ocjk0xAssu-D2y41jAG0KuJfKDBWhpajTtuyMY3NAA20DAaA4XEGT7cZ0-yN2Wh5e73CdPBtXo-VO0y-TZYhIQJFVabZUTvGLSiSLwY7bKUxoUCkbfE03KzqDamM4qy69rSV120mU",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714261,
+               "lng" : -73.98643800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6880a93a9256de94fe99cb6ae686d237a82820a2",
+         "name" : "United Jewish Council of East",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9wJoWipawokRsA82I2RoYTk",
+         "reference" : "CoQBfwAAALc8VXZmgdD11aN-9GcUEgL1DaL1A4lRWUscD5WbQ-bwSEFkmhkzgdoMo2R-14u9yGdBIxNlz3vtH350p6o420WwBvOSReWqrJhMZeNmdrJm4QWdNdrMAbqSh28mDwmzjhtcxPEMD7CniHcV7GbDSXGlSOdbJPpNTdTspXNfvHZ3EhBqUvESlswG96lcj_NcbQZ4GhT0QvVmcm4APQVZ9p24Wf40jNLO7A",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "235 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.712757,
+               "lng" : -73.985568
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eff13a78da5dcb416236c18784e41ff8d08db2fe",
+         "name" : "Henry Street Settlement",
+         "place_id" : "ChIJQdiJQQZbwokR57CrUbGweR4",
+         "reference" : "CoQBeQAAAF5hbCs1WSNpDMXJ5UDOR9H6QKemQKvzAV6ATQiqm4QGkXYdOQtLd2opOdI6Nk1QEx-5xR0gxvAoYjFPrcEPiooQlzVyriVik5SVAPm-AyPFwXbnYxh5aCB2TS14I_p8eHJ5UglT4pLRVS4UBBoXiZnuUYlLyOSU10TfA3lKhBnhEhCHDFfy3hCuyeZphfJkcZg6GhQCxHDcKBStKuvwJSEo1lF9DpxjnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "40 Montgomery Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713736,
+               "lng" : -73.987694
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "006355d456389c397b4c8ac72b50be4aa81a1972",
+         "name" : "Yee's Hung Ga Kung Fu Academy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAY-CLtU5ZV5XXUC9Gu_oqGzbFNxlJTtldfmIdDj-yupgStZaKc4IiPBuA-h6z5djD-PkfJbh9bKSlR-u33PNhpTjHMYJ9WuZHWThdmfJ_QrDC7aYlxX7dTb55ueawpDX7XvIvP1Sv8VwQyL4KR6I-KhIQubAL3u8Isg4vRkTU_jGfPhoUs0koik_C0lJdydrCciBz38P52pA",
+               "width" : 464
+            }
+         ],
+         "place_id" : "ChIJ_5BJyytawokR4j_v4fqvMik",
+         "rating" : 4.7,
+         "reference" : "CoQBfwAAAI47UwFWU-ZfbLzGQokvdK_Pnqme-GPIsiqVYQXEBPLFWyai4zYjDgsn0gxQ4fbUGr6vZVYDIhZmvJQr8-CfGPF7mfrpe2oocDC4eTSGzbzuz_kPXSOdix7khyv2spI2E8WmPRtwc8kNMEj4_kmdKoIaBwycuM430-DhtGEOZ19QEhBOCiQcLNFpGKFsOU_mFgQ7GhTuQG2NEIHXGi1epCxbK-ovVYuc9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "197 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714301,
+               "lng" : -73.986011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "df9bf02ead5329df540c7c91b6c41defd66fff57",
+         "name" : "245 East Hair Studio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 579,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT8NBxnDrOnCFc_P3oEqUqngJdmshYdEmcY3FGmrytYHD21E3RmwqVaNfkBvUL_T79P9r_neNhr3QXx4wQizOmWTCAYT2muGRfXqXHZRVhVs4NcQA1St_f99CuagWT5zReiK96hjTcUEyoEvej1oenBIQcc8jnl4RoKLQLRqwuTVplxoUqTr26us5lgChp_2iDYHPV2Cfl6A",
+               "width" : 1026
+            }
+         ],
+         "place_id" : "ChIJpfSNWCpawokRwev4qPekoCY",
+         "reference" : "CoQBdgAAAFWZQoLKIXe8KQ2ghymbo2strjRBVd6xUCGWf2jldI1v0cxR2O6rUwZ9jSL06KhFxGUvBBSkP9RrlTamMjZEt-lm4jJjnI8b93WfGZDkVnEVn2_ceuU9SQOAd4t_oyI84poK4_6_EdbJo7BBPUqBGBjC0Y1X2UOwrqjaz7887wKsEhASm5IOHNvGN9jE2PIoK36bGhS1-QqggGBU5mJ6FB-0nngLLpgL7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "245 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71353,
+               "lng" : -73.98568400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3247f28a6088240cd7a1074ce30dd1fb262cdff3",
+         "name" : "Collaborative Academy of Science Technology and Language Arts",
+         "place_id" : "ChIJvw1s_SpawokRxd_V5HYBwYU",
+         "reference" : "CrQBoQAAACfFe1zMoFLseyXl6Eeo4QDmrDYPWjkVMMfxRkJfW6LLg0NrwXmlWd9H7k6FjvG8-4Pfy5-eoQ0lYlZTVULje6y_nUeMhvD2o03HT9Mt9dtZTZbVtvnsWxhFIixNiHcNNRIarbgAKMXQpkZnalM9Jpiumpqaun6dsvEfrh_nhElj7O9VA0UDqF8XsVnBBcNlWRevGmY1pIPT5IyDd4Y2gxSXlcNHPNdObmiq3aFTBWPfEhCDq7VthdR_xdxkacbGM8XwGhRq-bQQKeobUMTfa64Szof2NXqR8A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713208,
+               "lng" : -73.987787
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "881bd3d891955be44a26cf0e62c44ded53aeee4b",
+         "name" : "Dr. David E. Nardacci, MD",
+         "place_id" : "ChIJFb1OxitawokRX7wkp3w3zAc",
+         "reference" : "CoQBewAAAFuY0uV3y5dG3PSrfkpcy6G-GJzfwJ8iZn_rqSb3VNhIJY6MylYkJyURx-gcNiFKe4Q8Xl8D8SPtQBmJMRRXRUuIyHnD6hzf-bbFSqKGp30JWFdiIgw0TM3a7BEV5On1rSX08418mYOCicNKvDcJcNMaOnkycKV3eOGgrJgj1Rv4EhCENwdicNbpEl_S14tlUSzsGhRgnQidn9TaKAr-AdFSFIgb1Adrww",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "227 Madison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjgAAAKqAO7V-KUVwsHYZz_EHTMh2RbXMDJVz4tDaUPR6aqpFCY8UDf7UpPGsDTOIOlBKvjdfQnZBkbMyirG4oZxNu55iaIX3cHnK0QPgASZyMGDU6Q73GF4oA5z2TzfA7jQM7LOEGcXhMXVkzN19Ud_ZQFU7dNkkU4jifSJUlJ4hudQiqijreHpYZvsgP7CrB-1eaRIQKhZ8THEKHXsZl8_QxENjyxoU3e6fB-JG0vNyCI5QNCQr7-V2ack",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

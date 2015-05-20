@@ -1,0 +1,563 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHQh36qNnQfqZjYZIVS5us9uUFQkRn2ejTGKxYt8Bft2MLTHgr4FJ23qf4WgUSj7FMnBHMLK5BEjlXPuW0-Il3tyQaBjCM5_gZEfJ36sliKvaTG_M4Rr3A_ujBmowVCNDATU0Yk-rWjUAcaqKIt61iZ-5NX2aClEYluLX2kvrUxNTcF7JsKeaG1g8U0wsY7xBAPb-wJcXMicvcOK7IA4m9R6AViJ8NcLOFK-rZ7oGQA6CoACnQx90mtiBbovLCwucsir-AGWjeDm_cHmswnDNjgk36b8MOyFnPCnPcALdU8x6A4N29A4o82EqBaB-FQDjxIQ0HbJyJncWLqVBwbX8nr3zRoUmSVwGx9XLnN4yLaEc6e0_e7SYiA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkQAAAANe1jwuz3eThWTWEv-3NwuEQpcWiYs7G-40YypST3xA3AYn_egPSJSluVho-oBL5Sxs2evNamUaFA4_LBOtItuuURsCNrJ5_XhVdvlFXDJ1IqDsDTj0uzqNMCX1MiQnu-1Ap4kjORyNLB2q65QvlmNpuhm5fSnZO04I7Y2nGfGaufzGHPzY6cat3Z65yRxfUu2AfPVbou18j-Gn4x81Gc8SEO17A_cQvfazMri4KQ7gMQYaFORnZyrm2DawD_5UJFxrVYeeqRsD",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798684,
+               "lng" : -73.96665299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "785a8b030e8764865c802685527473282e1ce9a6",
+         "name" : "HI New York City",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAb6g6BjTQNol5yPM9KFqGeuAJWYeho6RfTgtTUPKZwt70KFRM7eaCkDZPtd2oA_CAoSpaKwv05XQnufYAiVpADGG9TxMjQZmvm0DJfTCOKValGoaVzi5SDhu-mnQ12GXuzGym2TX09lQFxTdBkAC-eBIQK8jt2xO6vmWYrBohTGD_LRoUccCP2X0jvBujpfHtT8ylVVY09Rk",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJOwc3aCT2wokRZGbII0D83Mk",
+         "rating" : 4.2,
+         "reference" : "CoQBcgAAABa1_s0zz6_3PEHVk2pY_SbYOm12ohTj5R3PFMeBVDElJ60gs7c4f2Pyk9jfuD65nX6QF_-cS7JLaaLK72TkfcP3ghexeXLs9PIrX_cEBtTvyKN4WLBZ91S1XBwe_Cyim7-ZmUoBHEyafiMnfWk_J_cjB7yD_zSU7AAJLkHYZ11AEhAkC2-nvhRXT6owf9pus3NXGhTAJSQU1jLeu5ZAwiMD1bwKtygOGg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "891 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801358,
+               "lng" : -73.96531400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3c417f885bc56728a261fa8f957f5d0aeb5e3c96",
+         "name" : "Thai Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAPLe21_U4uoRpthd7Qn1fXKYriXfION9fOjPm4HQtye5JsdJUcxIYZRp4mGZwFBKz91gETr4dJ7OpoEFlSBBtznOuX---O9E4ZJ_YT3j5zGJrhi6zk4C8k7kfsSVo-V6yL8AoNKSsD7qwv6qKTIRBCRIQ8rrn8spLdgGWAic_6pOQvRoUQf3sICzjpGlFY6taeBtvADCFU0o",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ8yYSWCP2wokRym-2HUHMJuI",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRtAAAAhuub0lcAPO8E2xILZt9hcBWW_npVP4nm58jTdV-RVwzWU3a9YP9_Q1XG3p4txYlLUN8RTrWUCX9smPLqvqKUACo_7kAT7iXlmJeJdXS9i3uqiQG4bc6annO_4jWzv2bvU6zIZ11FD439VrqenWDcxBIQM0fjH2pBlUvG4luH9QV-pxoUjflnh1rSoxLVFfhkZIahKZmCUTw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "960 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800712,
+               "lng" : -73.965273
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a2b74883e4955cea21e5afae588a82c1634f97d7",
+         "name" : "Awash",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAW5zWcjUTMRIGJHlp-7_TCwE__AFw58JqneUH6OEWQ0FjniUsSu5XR9D8dmCLibvxoFaZeoJAFTOZaCIqmBmOZ29AXrNS0x7jyFrZxeDx6cTmS3enfqagioaisaO800aC2UfiMo2V_2Fk5e3_NJ-3exIQvH6Ymup0ilRCzVwNEwgm2hoURBPCZIINVaxxUY1ina5jpPVBUoo",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJTxiNYCP2wokRz8bUSToPz-k",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRnAAAAPOPaiAU5FhVPgTs0QUwwW8mUwtB1FiYwVMn7rAVf46rVZXmR91VXb7tW40vqij1iRJaTRHIftpERL0A-9QaXC52tBFV4pXSvoKJ4PmjSHeahwWkO7x6jbxFlywyuuEYIufaJBteMJACakw7XtpDowBIQMB0821oJ3HR9_hXinwLuixoU_ceYlw-s2zsViNOLGqdo3UepAIg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "947 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799809,
+               "lng" : -73.96728899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9f151b7c6f97d11be5620f0c3795c442c0c4fa76",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ4UoY9iT2wokRaONegTs36yk",
+         "rating" : 1.7,
+         "reference" : "CnRvAAAA6GD0PRKrLh94u-MbEiccLN5NbKGEDqGbFbfoM5KH5eYXKJwmMtRr2wu8qs5EXb6uxnUDP_dQXyjwwNoXYxrbVQkoRzfYUIXKt8z91HWYiTOqV5YPzj4_B1biX_rh3J3a0EpPUr9xMM5P3Gq5Le2GfRIQhvgjq4hiSAvTng7i6MoaJRoUN6aGJ19Y2TesdtE1HrpIZqhSkuM",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "215 West 104th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801787,
+               "lng" : -73.966374
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d1611eb02b9247553729e838ff5390c695b405c5",
+         "name" : "Church of the Ascension",
+         "place_id" : "ChIJB4WmtiT2wokRjs9_QH9-Hzg",
+         "reference" : "CoQBeAAAAC1iZ1tLJ16wlSkl47ehNQa86sJXid2Dy0ZW0fLQv0HwSFkfeQEYv8DhmaZZ4oz8xAc3m-PpDP_f_bhDpYDmZVLVeHw8x2tCkbJ2C65t5dGYLJmeQf-nYRijG5-n1qsZ-SQntp1SCBPPLH7mf-lAXte5ZRE1lZVsd_-70Bov2HkPEhAZoeKRHe8IHMDaJzuqyv-wGhTSvF8ytHGhOnibtqUPRx72TOUbvg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "221,W 107th St,New York,NY,10025-3098"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800844,
+               "lng" : -73.965192
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "68fa0f758937ad48fab80ac8b7120eea5ddd8160",
+         "name" : "Blockheads Burritos",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFKL8KxSjfkEngoDuLY8Ev01nZMDlYulrTlDi-mQeHGTTXBmzfXMekeRyrD-sg45exdLnPwZA-NYl4-BjQbKUT4D2NwbrHE2U4qSNKH_l4Af7vFSYHLFUUw1PvSTEyWblBI8kFlREYz7wfPIcsxOOBxIQX2P7arCV8AkRLZKrGys2fhoU-38mlWRaWNV90QWR0xmVGFpgueY",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJd84TXiP2wokRM04hRN6XM-0",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdQAAAKxxED1YsF31b28wYXuN7xUnIBCsYt7fUtB1rs1Qr8sJ1w4SLRikmlXH2OpUZ8xedJfnrOS5Uh_WimOLWy-p5uA66RVFH2gu_uuNxKulqMdT9h0BVRITRJ0TK5BcxaNT7LFIuui5zlUscEOY02cVrxV6ZDs1txTmtp50jcr0gjPTEhBv5BhXkG_23cRHxG_9nc7tGhR1uEPjIaZqAi_zJauagdbIi3zloQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "951 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799539,
+               "lng" : -73.964034
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "238d3628a0fa5cbd83c4477aa5965512d72e02ce",
+         "name" : "Jewish Home Lifecare",
+         "place_id" : "ChIJY2yHCyP2wokRPnKb87zaENM",
+         "reference" : "CoQBdgAAAKbe0GJkyHDfg8j5VMcskFFbR4tvw5v_MdAwmEcwai3vgrnzGc8_GNNhD7WF01I7hRGAdAugxxlytDHMNfdBS0_GiH4pyZW14hzrdszpscwhTDPcTj8riAmhVdKg33d7SQsEQEhTEkZFoj5wdHkjTCW5jHNrMra9o6XuPqDIg6vREhDE_Xz4sdjejnXabEpO-u3tGhSQjp8E1BPYcdivpCvXrZL-dmjQgg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "120 West 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800989,
+               "lng" : -73.96736900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "b04d7a5fb273d3c76fedf3d55cae5067529c3468",
+         "name" : "BodyStrength Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 605,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdwAAAHpUCkpkDjKsXErH6_wr0AbrtmE-tWBrsnvz-IzdwvvbR2lNbjOtc-TIh-dzfcaUKosl7yQkIEYu6MtD41UFYRDUvAfpDSdychy7kaovsuDsWbgsRXiKjS9PWzR2it-RdoDKRHi9G3UWfbjpO8X1Mf_kzGewT2HO51hTwTCvZsy1EhAx1gzoveR9vt0rTAhQNABSGhRnfI-LGA_TiJdsHcLYqss1iF0VZA",
+               "width" : 606
+            }
+         ],
+         "place_id" : "ChIJpaxpwiT2wokRdCB3JyiTxh0",
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAACf-ae-hn3t1l8hzfGtgIqMW-ETLEMOWklI6gh_37p6o8qzxIqxEDUDjyAU5sKRpXYWB90ccL8CIIODUu3D4aq23aaHZJXcQoDX8vaa93RIQz051Q4zKfe5lkxgZ9Otf_XfnNS2C8a0dnPRUek2in2uocLK3T8TFudBYe4obKLrZEhBL-gi3z_G0uED8g38OPVNbGhSOwxyDVGjYNCxsu83wYZneaLm_5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "250 West 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800597,
+               "lng" : -73.96768400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "f7ea9b76b55eb34f9c839807016c8578c05a3ec9",
+         "name" : "Blondi's Hair Salon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA76ZvJGSkUdg-I_2jOXVBH991BqOvU1BLKDBeKxtH6irf6x4hzfWV6nMsLy6lhguO6lz9XY0gSyOGYdppv34S1bN16hfP7kYecdrOa-dQoBRquXYR8CCEosRa-EkEaiPoncwKdpOpYCk7ZgWmSV7ADRIQEb3iZ6cg1xIsywSTvwDibxoU4sk7AYHWFpjOY4FdrJ66AxdJ9a0",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJYRuf5ST2wokRW_lkfTACmFg",
+         "rating" : 4,
+         "reference" : "CoQBdAAAACQd918zBr8aXYkB1lUlnEaRo0-oJoJqXG_NakeQyIaeJHGHoiZrplLOnmeQPzkBjQvuvSwZl9cY7t7acZ9o73iLO2H5SqL9hH5OJgidh8zIX6xHK2iO72S4o8SF7KD0-C0h0bnYCJzsgdgJ0c_Hy-3Iie9ewYhC6mqi1tn7vRveEhCMTeh-wclqpdyIDeKmcgTWGhRs8efW5242hrdAvjuV7r-2eNmLxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "2742 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800959,
+               "lng" : -73.96762699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0f9d128f3c573d655cb2832756f23565440c4991",
+         "name" : "Five Lamps Tavern",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAa_psPD6sCXTeOTe7QLWRIpgTulx76eLyGa1kMG9va7VATMmbmEDh7mw7sF_55m53ZAQsDbsYBPWcTQMScJn9cuStvlfPOfUsruWY5oP2Ti1fgInhrculRe5MT8GYKf3uDnvHeR8-GMPEk70zq3jfNBIQcpZBwVEx2_dk1YJ6dvwVlBoU8wYb0j7tjICwzGNR5wvwYmDtxSQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJU9PF5yT2wokR1ohwaHPr_8Q",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBcwAAAOgAQzFiyKa9u6snx8b3L8j8wDqwWHi2gDa5Baf3_8WJNTakKv7C6X6QvLCex6hQlgKcfcraawwTrAGjYy6RxbXqC1Lbj1XlgpDN8CwwZWLzxMtApxAgCNv7EIx_q1zQ2s8o568aXLOBx3q4rnvGmEiHKqKYAZ2fKxeUN0MNBrBHEhC4hNxgKC-iUGh8kU8p2f-vGhQWeJd-uvoiuikwse0l_ZF8Qm9aRA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2756 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800753,
+               "lng" : -73.96577000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "feaa7bde5443f89d218ac6deb298875b8f2b0b66",
+         "name" : "Amsterdam Tavern",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAhbPChWHsKqS5xdshmZ841OYIm9P_3ERzcfA2nEFHRkdsi1_-LUMJsqvVWpG3hIe65fjXBUgc0mRa2OE38uRY30JCZoMcBxmad2Ux52MKDhekZDO_uZulIfEwxnR_SqU-Xi3cm4kbyLo4xDWE4WI40xIQMMmAEOLj03Gfiu_qYcTN7xoUre6OR7ukNyGWoSFSfpOK0-zuRYI",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJaV6amCT2wokRH1RqlmS5KZk",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBcgAAAOOIHNcHZsbg0Fv8QOreoQbDSpaSwaEP5xyIfVW0CffkEQL9LkbcQhN8bjiFex_CFjCfcCQtQs3oCxIdqtnu8klQsUujislfitgacymv3GO7cCKAn5Vn-kxa9g_GARGxNqsubNQg8CjvJoKCmMua41SuUPlRNX50mOy37CFLDS21EhCjQEpoO9KiVHAxJifSC3z_GhSosusy7UUiWXDvWnRiNl0stOI2yA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "938 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801324,
+               "lng" : -73.964837
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "85f872cfb78e708dbc8609ff4791f6ee45c3f148",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 674,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVnY4mrwXSrRi0g9UxaKJTqCShLUINVBZiMY-txVDtgC5S7y8ZfgGW3CgQ2enU4SxrClvUxBau1VfXOUvTOO_ImlOLPlGrdPb5rCc7-SiArkpWI8SF9xVtkM2lxNeVGBArouundxRvU62jopAI5R7ThIQOFtcEU7YaMTBK6vL9o9SaBoU6N54WRxBp9h-DgKMajiJ4qhD3mI",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJUbCRUCP2wokRuCKX7ArKohA",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRvAAAAKh5qsWOfGmB3Mj3uqE8kLb4ChFjff6xIlTzBVBnlD2EJyTTG6yKPrqGib9xL9k81Cn2Njlwtf8yyYMX8xWfovD_9I3He1gvgzXuyLyIuumHstZ-r3SJeukgvaGiKf5TFFi9nT-zlfiTClkRLtrCBvxIQ0GtxBSGfwAXBbyyGl0Jd9xoUsex2ZvrW23UdWlAHPwpZJzZ6Hzo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "965 Amsterdam Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799015,
+               "lng" : -73.96698600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "be8ee2c45251d5837f208a04d9482084e1d65f59",
+         "name" : "Champion Bicycles",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAw08OY3GaKRfmh2RQgskKtPnM8-rz0pzLQX2ORL1l8csk4w7ZDKTtGZmjAgTJFIsWJj0t0Ics9dVvEFMRYzb9vD7c000hh2OIxWRMGTW2jfA2qAs-IrD5PMJF-kkJVEliFIIvl74Kh-3c-d67iAhrUxIQ8_4AQlORfeoYHg53Wpjv0xoUrYaV-xwcgGnqABMHjyucdV6O2Gw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJT_ByaCT2wokRJVRsyxfKif8",
+         "rating" : 4,
+         "reference" : "CoQBcwAAAB_Ll9QqXQH8mfd4nrZx6r_r6FTq6aVlKshJ8-xdetcMaFI7eg4jlyfoo13cyl88MlyupgI1J8FBsgp_gkErzSj4D_KF0Q21xYgjl3wwScSexxxJkDf9DuEKMS0LBmB4-xgnzrbBNiIL3YOCFiqJUIG2npqyhjWWggwwNrJot5ExEhBDBQ92Q0kE36tfNjjD8RrBGhSCbKEJWeIGNaXPczdlY7xmP-sYUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bicycle_store", "store", "establishment" ],
+         "vicinity" : "896 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800626,
+               "lng" : -73.96770100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8cc8fd28c3c0701a72b21547742c62e3b1877b10",
+         "name" : "Life in Motion Yoga",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1137,
+               "html_attributions" : [],
+               "photo_reference" : "CnRsAAAAxmVQoWx1mn2XOno9Sl-r0RjEnfseAFzIG8iovqOMNfZRwVZomY4UgbakLoVLpXhyTPLpcQFYl1OX-4mzF_cLQKyz6jkDt0eYJWNBqYr3SlNB6b3ihcbs8N6DqwDPBjLZRpw6UQrAnPXAqVA3UhLgKxIQO6L4TMK69---JLxb1_DoHhoUdma0-u2o2OGcwIUPX-IQ9qD9R5I",
+               "width" : 1137
+            }
+         ],
+         "place_id" : "ChIJpaxpwiT2wokRFeFmkH4HGJI",
+         "rating" : 4,
+         "reference" : "CoQBdQAAAKSrty7m97jzIKYmaSfWGa6jDNQCJ_RVmbUgPyRzGBXCezOVBo51IrEwsN5agRSXuEM9mZrY7Tct92g2TW31tX3xYZtcv7yq5wcqP7OJu-ZMpjktpNZM--NcE0RLghwpHUOkiNXHRcb6p76Gg4Q-xGLF6d36A2Z-SdSBybZEZpilEhCvQguPdgT4wIHDgsbDWnPeGhQFNaVcfCB2UlStzgnqd1XS_-E9eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2744 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798708,
+               "lng" : -73.967337
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2ccfe0f9c6de4646b14fcf12d8448be47e19d9b",
+         "name" : "Buca",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEnItNJjxrjsSPqBxUveHCQ8RQR9OS8Rq04Y_Knvu7EjuIFnSortU_YT3K1ODZiew_JaFIkDt4nyWyNG_V7A5RPICRBYRwEN2rKrIcG2QipuvqW7AoSTND0hWb5N7zkMFAFkzChe8qIIRKVR_6v6m1RIQkv2v4Th2as93IvffxV3OgRoUjRViSbSDUTWho5JQqjrHpR0OWIs",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ3bhSRiT2wokRvMjDIYK-KYw",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRmAAAAKVrljH-oc1-b6eBU_-I7sX4wNM_qPQ9siOKUe5y9DU2m35Nk47yHZXm2Q6ooAlcSkG4mOZWVK58DEnMXQqcLD3edWL6jzBmsp0N3dFXVdENghFUI8u7BUug63wng0xIF3Av8QY7kZu7GxL-NPO06uBIQc2POU3OOxWyfJpGKHK93LRoUtrJ_hCKpcCyf61lGU8Rw9utM3Rw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "201 West 103rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800895,
+               "lng" : -73.96514999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "970193f0d199284af2a79c659e60a24797634af1",
+         "name" : "Tropical Sensation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPAk-ovl4xMrY5XKjZVHzuT2Jz7utrQ0wBlfudOo4vLC_L_ZbS8C16F7vQKOjLYT4uUJ7DCqWFHnVBimQ2njIgbY_s5Ui0SuFOIHO3vwO9GoiF1IYtj3X4vQmdCbP8i1jHWJTSJKmZI4FYc0Mbhu0VxIQK4K1vrSY8fXfBUfLqBZYkBoU7U8f-WU-DLfliosR6SrY1OAxrNE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ5YLnXiP2wokRE2etHZsiSFM",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CoQBcwAAAJfLf0rX34nWpN2I8fEujkSZtI93uuKy8HyiNX38hNM3GpUu2-ENu8EFu_NN68WkiaRqWyGyLpb8QZ_zAiPY8-AaYWfX-UpUFdz9LaTE8FvGFDdUwfHM0COG3HTt8hRHNfM_fdb48rzZ-knX5nlfgP3PAbURxiFEKcn6bNZLV51IEhAAdnWlAoIeMUA05VLsydJZGhTrN3MinAFxcHBs4Mi4t_O_2dbyzg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "953 Amsterdam Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79945,
+               "lng" : -73.96776300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db3f4591bf7623d66b92dbe8e77961b2c3aaf7a3",
+         "name" : "Malaysia Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYP-1jO_QsUQ68VWn9cp9tfXAe7_C2CMXhp1jvS7OFa04rQGFys02T9ds1fy9-oXxnaHa_q3Tw-nd8IiuTAyzIx_FIG823d64q2pHCcjvnqgHU1EbhbZaU-8ZW7y5j3Sx7fnWxMxnKCLVLrv8J-KIZBIQGiw5Qz-659PqoiVssPhmiBoUbgDoDuPVqZsHLfQT1tOruFDrtR0",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJC07YUCT2wokRBgm4re83qG8",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRvAAAArmSpcjKycyzSvLoClydK44Jj14C5iwz0jbLgGiDLy8JB0EXzQ2X3vd7TGkcqGeiOMLCKh7UtcW1RML9K8-K_RfsTBfMWgI2hDZTikjSTzQUosn6WuOoZlurhs3zlVZfSuC-jl-PeEIaRZBa5BwY0SRIQ0vJfhEpHB4RLxgrFXo0q2hoUXdhcWc9ZLSPd1PI27oQHspfkhVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "224 West 104th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801381,
+               "lng" : -73.96477
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a66a5df222e0825500570b479931f592700d854",
+         "name" : "Wondee Siam V",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwhuaRwxWaNE3dXnrLXPi-YdVty5b6sxExWwscXPNU4mNiavbfE6jvUIsNAJhsV1DesRItU3qLChKsQP4Xaw-7xO4LAO2EV1-KCZT0Clwu61kN8WvbMptj9x9XiMjG4I79XCeCvnp3d-H2xbs_FoXhRIQv1c5bAERlct8wO6N3BU-zBoUr7rwoqE40ntrDb2mCt3EEXqEPi8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJlUb_UCP2wokRdJ2TJ9mFmkw",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAAl1OWxKsje911hEW-DAWizlBxmKTUmRgNC-G2ew_ZI9Y7UmNb_nvtLhbqgrwrixVLKf175jnJpDW_DYVJN0SbTwe0eJZo1X_yzA-k-j8BMmdYkY2TMyq4wYDhdpni7EmQXgRSt5KRAP9sqDa7i4LLfRIQpXNZrchE0s2QX1Z63wY_MRoUywlIRz0uIQVfCLEradyq8iUtC6g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "969 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7870106,
+               "lng" : -73.9753676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.806098,
+                  "lng" : -73.9582099
+               },
+               "southwest" : {
+                  "lat" : 40.768483,
+                  "lng" : -73.9963789
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e1b498aa40f4503f70b3eea86ee84db9b2e7b3fc",
+         "name" : "Upper West Side",
+         "place_id" : "ChIJ1bsw-4JYwokRbMTfRoskJl4",
+         "reference" : "CpQBjQAAAIqgCN1lxjvqAXw3eYNAHxfS48IYXlTgMT0CtjxFSg3BZo2m8liKew9R_BLJCsSd6VyjQhKCRoEGK7x3ILfvUP3W3QiN_WqY0x6ih662UoDCFNc5PJwe_Cqt4CPISx0gg7V1XEVKNQ2w1r5UFju7u48p2OzFyhqCoqyZfliTCmORPkIc7LsCE1pKFNuYph6xRBIQ_P8YJlIynvV8YzkzcuBnRxoUJKjLFC0Ls6jSurBxibcwvoUsng4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

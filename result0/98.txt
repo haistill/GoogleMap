@@ -1,0 +1,491 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAA4gnCp0Ka158acwLgRwx4fYMkv4AgGokNwbrfheUeQjiD9wvwYM3N4QEBZCeTUSRh7tIfktdspwpUHLPIjV3W0lRaLaYJuCC35EbEQ5sbQqF7oGs7K2dObYXbRsvykFN2Vx7TM3yG92jPNI47S83yrSy4Fm50mbjBqI9N9viIJV6cbz3AxNOrrXH2zsxbBisNe7kDgirskYMwCHgFFJp5LB9k20O947RJO2HGpso5iDMEZyjsOJpHTi5q2AtHlc8Cr582-kgEjJcR96ITnyXJ1hbCZvAwZXTsnPhDvX970yMH2jqhI-zxDFDai_0GQFhBIQ1Nr53PBVkHgZ8dsNYdbCyBoUWAZr_BQ0qchoTzBRdZJ5BYL4dmo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7043957,
+               "lng" : -73.9896772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7049549,
+                  "lng" : -73.98844869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7038366,
+                  "lng" : -73.9909057
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "981c59f4de5253a13a45f5e3e6504ffaf0445a05",
+         "name" : "Main Street Park",
+         "place_id" : "ChIJE07VnDFawokRV4_29WBim6w",
+         "reference" : "CoQBewAAAAfJZ6KYgOW8PV8xpZYt1yZpD8g-zqXoQbQpsMGMtSObtsuUXYh0t6eGZ--D_pftGT_FsMWYOdM3pQ6GmEyqoRuRNi_SSroAa065rE3ddHPX3ODKZtXNO0MyVd23uaJIjWhGDSbPeO5IQxjfSuWk8-J75vmylBPb13fwikonwvKzEhAjdrUiNI5voFLioITdStb7GhSAsSCdsvoKdARHUzVUEzxdr28jeg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7035805,
+               "lng" : -73.9921853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7046113,
+                  "lng" : -73.9895619
+               },
+               "southwest" : {
+                  "lat" : 40.7018052,
+                  "lng" : -73.99543059999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "aa38e4f3f9ddc9181105343c1b211372279c1cc5",
+         "name" : "Fulton Ferry District",
+         "place_id" : "ChIJdTz-5zBawokR__i8kbBkR88",
+         "reference" : "CqQBlAAAAGwnAdcL-rbocQrZGKTFxRQHKfyFTApe7ovx-m2-qPRuM3lwOlWo6wbbveQPGi_iQjdV1j9k8sUlrLMJnIVieY0PEkTwYX2MQ8ya9HDUfJSLh3GPR2bgH66Ah02XJqF18DBMTHQWrq3Klctb45-DC-OrUiZSm-qQDlaM4rG6mMq5O6OsNyzB1T8dc3uu1Eh1Q7_SpmLIK4eoZDXjeI0bj_sSEO7EAeKKsJHoy3H4zGG57_gaFFg6f6NCyvBI9V99t3lMsRwl45Md",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704504,
+               "lng" : -73.99235899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "39cc68025d9cab66e9f581fcaa9f9c709d98539f",
+         "name" : "Jane's Carousel",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAOU5lBdH_mu2V_chq3XcLtm6DZn6iRDPEHqu7dgFEvZSvEelL4c18vmwo86LDMNO5JnC7oWUr3V0_Kviy0ZmvxO-g6WLTT6noycHyIaNwyE7cQAEHzBDUsZqJd_64pUbYujS9PugltPSG0iFdseE5mRIQonAt_1oYbdiTi5iQO4ycehoUTiuu7SYKMSc3IP0T5eJJJJXN8Vw",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJU9mVHzFawokRcNNO_Su8zGM",
+         "rating" : 4.5,
+         "reference" : "CnRwAAAACRabaj-uG0vEi2kPuZ9iQOthr8dG7Ot7kb3DvOB0gu2u73zANmpc7eGqYCleNJLMNAnUKSA08NU7GyAJzAZzorShBJMr9PzM_Z9UJXIEFCeVcvnMB3gtWXvxgUOdllSJOo94861bnWzXPOvpgsfoURIQa578-r5LRdgkhHEK7q7sBxoUCF0o0_x0O9q703SmFHQ0t1a3YGg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Brooklyn Bridge Park, Dock Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703394,
+               "lng" : -73.99100300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "e72953fac1303e7718cfa0f00157ee445e7a2ba2",
+         "name" : "Galapagos Art Space",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAK7EcvJL7dA5obxU01_FbochPuz8uxqfrk7GAlVDVaqRV6ruiNjkFI318mDGSdOzgH76iFKEYNbEZS4dQGoJuP5uG-Bfw0CclvjmhD-ZGRMl2DedsxIP6MzdyGxuh5SiqM94Fkgm3Mg24U60oPxoOjBIQFODzLhGf2GvD8cd_yjfXxRoUAXAHpfMw47krxOLpZLowsxD-DLE",
+               "width" : 972
+            }
+         ],
+         "place_id" : "ChIJYQHOFjFawokR6EAS6hffpHg",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CoQBdAAAAKZPvrx8jjfexA3g1vuoq5mJ6uyC1FJPjLKg1ozFbLfhYB1aFtV25gzEGtKm98LG8cy73TQTx38OBlE8R1ksWHkfULCnyzaOio7RIcrC7oFeEhjVTtE6TVgBDTtbJID9Jl7RNE8J5CpfDBsxEOivp-o5VOhO2pQginF1-1dp2JhTEhBJ289OveeohMRB-bwzAj3CGhTjcDBV0ui2whzuuP0NkqQdRc0NMw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "16 Main Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702962,
+               "lng" : -73.99050099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "47cf8ce569cfc1cdb9bf7cd59333cae1ff6eba36",
+         "name" : "Bric Arts Media Brooklyn",
+         "place_id" : "ChIJUcyOPjFawokRngHl93x8JR8",
+         "reference" : "CoQBeQAAAH4Stab6X6I2jfLYJk1yQnSB48XG_1d0Awuh6cL-ZwUoyomdxef6To82JfQbXpA0I1wOLYoRMlXkPYTNx3yZT1CB4SvutOkSftTpttjranNLyiOfJxxdG6sDbGpWUeUDRFtWOlg0Sg9pJWHmxPE6M-bSRTtzxVcCQbcb7M97RX9rEhBCYqYU4-XYDucG_9tZxB-HGhT-EwSK4H43a2OHdLZVraBWkP0TXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "45 Main Street #530, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702823,
+               "lng" : -73.98942599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "58f792b660414e9950ace969ce8da9f2078fb25d",
+         "name" : "Brooklyn Arts Council",
+         "place_id" : "ChIJZaiaZzFawokR00SXirfgqoQ",
+         "reference" : "CoQBdwAAABUk-SYqRkjpSZXj-gv3M5iT19kxZ2ktO1xURA1hDOJQNJ5A-lfT4QxKfDC16rm7uwGZTurDFh88MEBUWIsY6XOJ-vVhRobC3MmYW3BtAS_YA-vEETCdxMHRmVdsJGcqB6ZMc1oxyg9k3kdOx4YO4_b4IUHVG2W-Jm8kA0K7fhgXEhCPhPjduo8uZIyp7iyZW8U9GhSBU6glfLoLfN1rZCmbREPbVEANtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Washington Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702853,
+               "lng" : -73.989446
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5d0bccd6681597cdc5299feb93a41a95ece197da",
+         "name" : "Etsy Incorporated",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAAR5ZNrLdZWVnYoA9ocRQ309g_8-exAZhkizexZegfXz-N0WG-JwSYt6ymwlz5nX2zTj_tA4Qu47M5ZtYuYOGSxdw3B_oGfA4prYOG3lJqhP2ryJb-oyZ0BznOcWsOgJi95lLPVxMPfFlIkeZZ-AChIQeZ9rM0MO9kYKrIXy49_HxxoU1DHeYBujG8b9ZNxrVxNKC7p-j4Q",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJl_hltUpawokRPcLl_jmP6lo",
+         "rating" : 3.8,
+         "reference" : "CoQBcgAAAIUExIQpuA8qtuLBAsG69JPAAaJFvypNEPlytJipv3FY7eTaMZ778SJ2dfO1J6N3JR7lJU-thmqXuzu_TVsrT5YjVRQFLBJNEzgwRoftGZlEVd-9sJaavw8laW8rcf7qc9htglCmoHNV7ecjZLx1U5xpa60T18AB4avwVvT5lXpUEhCYpEHo-viYXnMhs24YeeQvGhQkckstHSpGRqHKzJH2YOb-A8f0hA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Washington Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70319,
+               "lng" : -73.990567
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "909d69f85546dfd85a36193ac2161ce9f2e1ad33",
+         "name" : "POWERHOUSE Arena",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBegAAALj-V8TqGB87jQ7YEna9ATEp_Q0gW8HPmuNGD6ErrgziM3tRkazKXRrShIZaDPhHWVyBm-3AzitPoPuRI0_1WB28bHHzOfd3nQc8zWWgj3FA-hDiNjcNM4sggqhPdLySGw1ToRP13DcxeNOqkFeXhgQXhMZ8rvGUv9Uwi-SDj_MGEhC_J4Fqbax2Wf-5bmKiguCrGhRVbPdSJBuT0hidTBH1MLRg-jgHgg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJi-GsFTFawokRE9iJoKgcOM0",
+         "rating" : 4.6,
+         "reference" : "CoQBcgAAAJ7M0Em6wiir4EXM85lMbOXh_TnY7olGixBS8VrLm_XaXUfuQ4-V8yzdg_M4ani82mlEdppt1ubaAPTjFes7AetDForArri-MTECy1rlo8QeX3_ZyFb4RvZNPbmNc7B0sWDNCCFtYI7F1_3yweHc9Aut5CFTViap64PBMqZyQwwDEhBEEqxvI5ey5O6sFyFhYFVXGhQHTRvxkNpaQRHSR2F2l6fCBYr01g",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "art_gallery", "establishment" ],
+         "vicinity" : "37 Main Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703132,
+               "lng" : -73.991297
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5b7172522e4ae5856d5b9881c6b735b18e3b3168",
+         "name" : "Jacques Torres Chocolate",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_bAfH6hR8UO0BFI5oGs_ZpNJbm0_53AHZPbFXyzMF3CnMk46OhX14lku4kZVSDNrhJeZtkMTpHeaeNcyTENm7L4K-1jHSXBPzL1_rOXFGxup6mrF1v7EyzapjKeEjNZZ_Numw-Z5GpYuspnwPyxb0hIQsonFLL8ngggF0_TeLvB9MxoUvAg3j5dNRvbmil3Lsqck_4cfgyA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJxZbAGDFawokRQMOlMAjumQk",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBeQAAAKMoJo8W1-Bz6dKmFSGMEeeTQgpA0JdEB9FC9U1D915S2wFYjxmL9SdTB1JBLFMg9RKBHdj_IxA1vIgqNcHb6YvwTGWK6dU6QsBlTT7kZty5EWwWXxb7SSQUJPpMolfxcBcNvkWTE1q-Aa3cA26Pyy5B3WmpQVMfRr4cZmjk7y4JEhAkvvwR9SAZ_6N796sRB8eJGhTq2_DcFfCL4ppxdYNG3yCzS9oHSw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "food", "establishment" ],
+         "vicinity" : "66 Water Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703116,
+               "lng" : -73.99014699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "66f8ec8ec0ecd7fa3a248ac34abb9c08ee33cb77",
+         "name" : "powerHouse Books",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 377,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhgAAAI6WEGiUQsRpE0_9UK4vOKGtA_nhMTTTe_B62ZVfD3s77DpOVL_ESIO3w7L1aGArwJmbr5PC9yFIrxgfNhTA9ZvY_NDPcwvVSVcvftHmEL8VqdqYvhomFa0OrEaV0eCfQrouAyXEnDJklTOrEPbLC8nBJf9w1rwPDRfgGASH4-w5Kn3hQczftDDwZSaR1qC1fRIQkOlIv1rwOcTHwSojeE9RKhoUfBrP0XpuyDqUa-sCGxwu5noZ7rc",
+               "width" : 377
+            }
+         ],
+         "place_id" : "ChIJJ-KsFTFawokRHbTHmgYdZNo",
+         "reference" : "CoQBcgAAAAMW-cdyaviJxbsfx7d_YaOLQOQ3cE8uhVFksieqzxcmi0Jm4AK6gW-bTZRZq7auFjHTJbTpAvkxpVU2HG4f-IJoXYL2FkzTLxfjNKoITg3iHPNYFz_V4iM0qpP3nXqcmY3BIn08QjlnZMhZwdRMY4JvEYbYaAE4UVoFi7ytXbslEhDWg4w0oyLCJZQmrxVQzMN8GhR5YsNJkE8xk3bTLMByGMpi8h_NbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "37 Main Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703332,
+               "lng" : -73.990359
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "95080d3d02a10a84f852ea231f953f49d34640d4",
+         "name" : "One Girl Cookies",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1252,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAAHngmFk9P5GMySpnnoSX65-x0ToMFK-oppYTyFvXUQDyiR-DIEZ89S5UH3lW2Ut7jzDXJLRRnLfkygSOfe7AFs4VmmOC_vG4XTSVkKi3h4sepUhAX4k7hPq-cvqd9-BARSYgUeoX8VUQjwk7sDhx3RIQPOqy78K-olhoYAxvhiLoexoUgvKo0vgzNBVGi97X2-mHTsqBOXY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJEU05FDFawokR3jAJ1FS34is",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBcQAAAJzTorG4M9HaxR1IBu33vovPN0Tz8I4qer1983JpU7xGUqMzTKyngkm_UB2k_N3EAbh2JYlstekj3XN14fhhSia1bgT4Fc2Wmb0sMWgOLkv9fEq54D284vbbOiJZ13eGoLaTVK6uFLgjnX6tW2fHibt9-Mvxmm5SWdCotK59uqtYEhBl9iKTb-uEp0F8sJIIgurpGhTrS6qxt_XsGJlVNtcDxV87vBeq7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "food", "establishment" ],
+         "vicinity" : "33 Main Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703791,
+               "lng" : -73.98974200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "c9e0e353bbbb6105f8db2c9419d1e2d0610b3f1d",
+         "name" : "Smack Mellon",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJR2H3eTFawokRb0FeIuvN0jw",
+         "reference" : "CnRtAAAA1TaDtPU-I76usPlYonQ_QiJq-1SJqLqF6DAUS3_iLoQelQMoXWnLgajjoJL82-53iLgzf2ZH3mlZOFGA64vyelJZIyKgJG5h21IbmvjVrF1P_w7FaDrJdG9HHfJLwi5uM47bMDlaYnS3tX9fhbC3nRIQUEGnd1zAyrX7jeqs3XIwYxoUxnuykIbQP5WZie477srPTvNzxZU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "92 Plymouth Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702755,
+               "lng" : -73.98870700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7045f5179515b203a121d33df13a8f5fa4ba7640",
+         "name" : "Foragers City Grocer",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJl5_N4DNawokRZPThIb1Aqy8",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAAHOuFtsRJzRdub3DGlFtsJ9z9i82IV15zjzO-4Z84SBlKZqZh4v-oPb9OwbiHn8Iu6UAAmFMf1iXOsMHXLL4yWokrOb8w1gYhHKWkjCF01P9_eVJ8ryuDO_ErVc2WTyJQeICt4Mn_aysGHoOfUwg1oCT3Z4GMwEFpy8WVsmajSJ-EhDXcvkD4RhCOP7Vqq28EKKXGhRZ4bytqE6UXDY3bP5Q-EPNUl0shA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "56 Adams Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703,
+               "lng" : -73.98939
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c9b8d982ac081a6ddc88bb2bb4bc0fb7f4b4f798",
+         "name" : "Working Today",
+         "place_id" : "ChIJZaiaZzFawokROXVj2ffgqhE",
+         "reference" : "CnRuAAAACsYmPDYsddKGK--M2SDLYPod1_d_e7rCr2wQcizI_tdpPZfMqz6izM1_AT0Jt7tXV067R6iOZugtw7UDN-YowEtbERlQTEtO_NlEfmHLpj89GfcAWjL4tX3tj8jk5rXPPFMEsHoFGxoqhSjj3dTIQhIQzEK_KMfg7Yql268591tbZBoUlBfVksLd49YL9MdjmORq5nlDYV0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Washington Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702924,
+               "lng" : -73.990369
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "ddd162c779ed655557602374495623e08802c8cc",
+         "name" : "Brooklyn Information & Cltr",
+         "place_id" : "ChIJoSitvrNbwokRjEa-_6OAN7Y",
+         "reference" : "CoQBfQAAAPWw-kmCIKIBTK3DaqVdPlE0uHmLRlzYI1yT1c4qjBHv_0NeOHngvQmdKlfFAUWqAujRfS0HKLH57HY9g64D-mCQNoP1ZJoNnLYAhGKPJUrxCQcnKfOr7RDeTCSUy_25Uq9akEl7Jc-soOV8sidJFb1aPn7xY-61PJkSMdXEzOTTEhDyyarBwVXTiE5tImQocR7SGhTfRXNNJzbSwAfKgaQGOW2iT_V7vA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "45 Main Street #530, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702716,
+               "lng" : -73.99135200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9154a13effb54ecde5074ba155fb93610b24253c",
+         "name" : "Vinegar Hill Veterinary Group",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtcO5JTFawokRXHFRbIPCooA",
+         "rating" : 4.4,
+         "reference" : "CoQBfwAAAHOH5E-TSQiAPYRr0PGk9tYYNu8FyuPQJik6OtQgL9fB18kANBqGX5cHVZL1WKYNFqc3SFN38fR4lfQFJuKWTADMKSHlFrgg3LYT7qGZTWgVVR3acHRCQtTkYsexlTXWCpK6glWUCL9S9Sjenj0T-5-6o1ty3DvSWyghNPfz5ozoEhBWCSfbvIJAwSYgDY2UZqGuGhTtPVRYRcmMup0FizHZBBKrT2dEZw",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "57 Front Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703435,
+               "lng" : -73.99121100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "654da62e0efc046879a15a41d12040d1b0517b0f",
+         "name" : "Almondine Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAl4bi_T9wx-KP_XqJXnaGCLcRzwR9yK_sRulvxufH5Xwfhru7kIhC3wuyCdwJgbyX8kRuZgFDKGjz4MOIzIRCGr7pIUyXGQ2jsMEIgGdXK3_4c7lFRl2xCFNb5Tw1-bTXk1bfgB6h0kAgaN3L5RjQyBIQHAaiD0F9eXlWlauwHEAr5RoUkLKs9BDJIDlTXD8qiGyNUKP7HrE",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJQ-HOGTFawokRZzcxdno0R-E",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAPsLqkzlw7pWA1ZwgH0-faSajl6Sdz_YZONvlES_Tvgn7p45FGzsWYKwSQQCgMdJHB6O4BSqXtYWd4fC4CSqO-OemFJoFYU-ZGzt-FrioMDbhzzKUfznhRW_xtnktCXamBefcAzH3p1q5vUPk_yXHAqgXwbgfKSuTuNiBAJSwGXNEhBFJSss1iwS4A3SvzdDKkqgGhTEC1Jk-E85Sb6V0b6__R-s2PQrgA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "85 Water Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703018,
+               "lng" : -73.990101
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d7b6d7467a8b2068787353f22c7995d2fff8ca46",
+         "name" : "Garrison Architects",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJIVm7PjFawokRdG9bjttdFNU",
+         "reference" : "CoQBdQAAAJ-uXs0zUijFWx2iS3D0DmFNvIr7oQfRX1mVCywB_O85j6Qwp5NlKazvANPBP2wBz2wL3o3Ip8abEHcDBd-_dX7W83OEKlc4uN6kTXLaFFAQ0DX6d2C66IjubdM7hSEppn9502w_Ldyker8_2YO4f80HjueGP9FIJF2koOYdCHl0EhD-i33rm4-aaA-C0yLy48N_GhQA9yBNElLgCDCeTkjsOxHsQuW_og",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "45 Main Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703103,
+               "lng" : -73.990489
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7b800cd6f4751c21385e7b48aa821cab10963577",
+         "name" : "Thompson &Company",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 125,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAAw4xzcJQs6VBkSpuMEYNHb8pTYyORODFtPJr6R9xww1JqTAlIlwuDbquuYmosXXyV0D_iq_cF5Q84ZJL0H_LnrRLjx9iaCXR8crMbUCNgjT1_7NS27_niIeJNbzvriF5SgVroazVkcUanq9Ru7gN6xIQ2mvOVO6xZmkFwUqqYq_JEBoUrPPsNMbKNlLvnEK37MRdRF6O954",
+               "width" : 276
+            }
+         ],
+         "place_id" : "ChIJIVm7PjFawokRlf6neweE9Vs",
+         "reference" : "CoQBcgAAANcylKsCeZPO4DvBl7O8LCUuxWPrTd1oBWCQXX4-xX7m-yK9iubK2T_JxdxhZizYAXnsxzQC2Ejtxn01-ICb5e5TW_DOLi55QJMzqpt8245_xzQAah80W6sPmqdzXdcjnbygC7n4GxYS-8lkq4fcnSt4W3MfBMUXGlj2AX6soA_hEhBoSudEqItVaw8p0l96pJY7GhSHdMUkQbIHe_cvbbuZuiIMF2MBkA",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "establishment" ],
+         "vicinity" : "45 Main Street #615, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703056,
+               "lng" : -73.98944399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70556690000001,
+                  "lng" : -73.98450849999999
+               },
+               "southwest" : {
+                  "lat" : 40.7014434,
+                  "lng" : -73.99457750000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0c7cde3493a081a8adcf05dbc9cc9b036714ec03",
+         "name" : "Dumbo",
+         "place_id" : "ChIJ-7A-bzFawokRw8mvHCzZsc4",
+         "reference" : "CpQBgwAAAKtcVAGbka3Lj_bC62ghjnXqfvqHeaDhE-WbtpmvwJXmcbldg1Pzif6KvzSkEEkTU0oT5s_vcweT6SRD3IBxYCHK92ci_9gIX_VsdnwoJcDsrPsAYqKREEqxNUD1SLGaL1MJQdTuRMIvooxlHyMafuWc_c_U2aw3XtDxlfD7voPycii9RJ5WBhnPZ0k2FxFLvxIQsHd5olPdmA3UUuUiMiReIhoU6Qc6hY6gD8BXwHjOgyveC-qoPlE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

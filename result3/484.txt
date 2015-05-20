@@ -1,0 +1,463 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAANIOqfXp-77QtDr4pssqKdaxB2eUZvbBj8XH1fu3YoVOhte82Xz867cLylmcORvZR6U_FwHTd3pv9f6eT7bGbi4ung3bL2dDK1VCUgiC1lRGkCnLIkBgjLupGhcJWAc_TuDHpig7kr6SjqXcSnrjpdAF5OE05SE1zsffcFNEhdSuzQXzK8_CC0bA-oKdlqTkw4T81KKUY6Sf5OzqDNw_wKtUSL6Q7G37prHlq3P9y1F15lRfNYfT6WoA3bvJICSpY4MzqaiuR0VMA4KM8hNZrBGLeV7T9tNtmhcTY-fiYc-ap-wajVfQiEmKZOoT_oZ-NxIQ2hf_Fm6qwbTnhi4Txbe6PBoUTqEGKSCgHYtOll3JbeGjqyU6TvE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8677145,
+               "lng" : -73.9212019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.877591,
+                  "lng" : -73.9104948
+               },
+               "southwest" : {
+                  "lat" : 40.8557032,
+                  "lng" : -73.932667
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a0b5d93daa18eed40568c69701619f7dd72c0b6c",
+         "name" : "Inwood",
+         "place_id" : "ChIJd6eiHvfzwokRHALd9SLBP0c",
+         "reference" : "CpQBhQAAAP-3Dwp8Xs1-2oe5g1FndWfZPi1yK5EGnqGjunZyKBhY1Hf3SFQfpdeZyqR8Gd5tkFe__CVrRtWFQ_FKruQAqYnpRgsnXOadLwR3chHhsTsHPDsqUk1m2quLeGTE6_NvJJsWDbivbtXBFz7aLb7eAZj3Fg2w3LNQcoq5PwyyxBFtHA2zHhy60Yz7mDz9RsnqXhIQpzlBixPAlnkCCo4cO7nFZRoUyNOgcCSo-A35ejqPyAxCpLznDy4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866211,
+               "lng" : -73.922889
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d10166e2db3cb9083d7bde82b67c961dffb9a8a3",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9_uJlPfzwokRqRgqc5SSJVY",
+         "rating" : 1.2,
+         "reference" : "CnRwAAAAFRtqdAf-IRo-N1pDNB3k7ZLpsYgab7YioLmlQvRjRIINlC7fXX12WLl8LscTtrHVh89NFHEPXIlGr-WkcZWwj2QQ2PGoufp_GK9cjHKAJdgyhGU7MlT66JkUwOn--gdtAKqOAoq9VN0e3Y1StgXWjBIQkIXam91GptGLMtMeF43V4hoUlGdz7OY2sxmMUiheOukgL1oX14A",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "90 Vermilyea Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866884,
+               "lng" : -73.924093
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f455cebeccd2a69fcd5237bca4abfd85f0573751",
+         "name" : "Gigi's Finest Hair Extensions",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9uIOohySUt42pt9wSsVX0GE-DvVmoghuGxBdvn1h-oTaHtPhyadAZmj30vwU7uQuDy9XQaeHN3CkrAmjEs3Hh-WxFh789aWE7BOmCtf8JM-t5Sek8Ihnlxp0PGvdkcbV0Nza6zcg_LvO5jw5DQddwhIQw7BEtFUmTwLgyC4aE1o53BoUVW8QbHdZvsfk_RWfQel8mHrp2MY",
+               "width" : 1530
+            }
+         ],
+         "place_id" : "ChIJtVYqhPfzwokRhAzn60vcIBw",
+         "rating" : 4.2,
+         "reference" : "CoQBfwAAAE3BdmqMedoRHrcf8cj6djb8KKalAVN-ATNnOKkaff1_-JVokrBxdgOaQ-wqaiASgW6B7DGX5VEED1_SDrW82vrAqN4x2AYMUNSqb6IVXDF851K4-XhBgvEQI4R6Uv6WniWUXMggo7UD6USDc7me5cq-11i7woer1U0oWIt-waZtEhAk8qgRTy3Gw5aUSC_rM7-MGhQNdtlNQm4Vy-02wf9u-k4wtO-ugA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "4861 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866997,
+               "lng" : -73.92223
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "f7f52eef8f7aaa7721a548be7f2b8cc4f7656990",
+         "name" : "PJ Wine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 91,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAE-iMtkF2NZdGD0AJD44u_OlhFKhBckpwn1Gv0L68ls8SPc1cz8YCS_gv_JhK8oVexvgBa07F5XACm4PsIthvWAuAkfgJx2KGkbix3s_E1Kta4u6cBMFrXtKZU12U_mA7IzkoGi14G02MisY7LVAK0xIQQ-xeH_Jj-r38gLqUzxMQmRoUhVb6h4lReDgxDRtX2mrabK6OlDE",
+               "width" : 145
+            }
+         ],
+         "place_id" : "ChIJ1VLCpvfzwokRYHrGZwT5Luo",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAApi3uwnqcAMJFASXFZM0sqz5DiClnCeFKFUJMxj3D-2316GK6xvGPUQnJ9vj4jsqmeDKDg3io3BI081uaCZPB3kMT89eEQG5GJnHfVBZcymhMZwVzaat1VPLn7lo77Ma0qJtPA4_fd_39BctAHIuddBIQVEJq2Ya1F6FUVaHBH_MQ2BoUEcfITr0ChC8tByKTJxFRtlXHWlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "bar", "establishment" ],
+         "vicinity" : "4898 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866118,
+               "lng" : -73.92319000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e790426f1075eea578feea1ebdb153ca8017c8a8",
+         "name" : "Mt Washington Presbyterian Church",
+         "place_id" : "ChIJy6lT6ffzwokRYsEMPoFF_TA",
+         "reference" : "CpQBgwAAACkYy7ge5gPx8k4DSQDIoQ3S1wRhr5Z8v53TTD6dVbAI-Wyc3XhQhtndZe4LshhWPaQsbZAWvlTaDz3t2vliRMnK-q6bX2GlFZ8LqE-6nDAfgrbHzxGjmnDz6QGP1eBbggc1jFxpYRFw-2qnVRDMxPSeTb8viJca-UpxOzu-BgURdPl7e3ipMub6Q0AkF8A7rxIQLvF22COAgfRRFMZSCk_9MRoUxN57t2uTt0JJx50WVPIC2Q3css0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866029,
+               "lng" : -73.920451
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9611f232bfd7d3424a7c5a9dbff48f5e8e5684ae",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 931,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAay1Vy_d58AilXmd_giotWFcN774VMMs08IXvWW5Q5F1mFFvkXCsDQoxx1lp3FQDy2ArdnMyWQTM3MTuH85yI7rLua3tRdV4T2BejePHBARCCC8-MuY6PYDMOziHWtF4bwe_WgY1acmZXVdsKoRg0ERIQ6zRa40UMeV82bz5HnRvnaBoUjloSzUidSyFX8_k-Fl3wLXiWjXg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJCwA_RPbzwokR9LyXBMZsg3U",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CoQBcwAAAKjcZuPWO_FDF9-WmgfPj2a0GSsBY3H6aRQZEAK7cYENgRhBjaSzbKMOsxiN2uOe4cfVxounulyTuNa8-qJz8MayK-75BjUWgs9Z4ah4yLlzczFzP6YKPPY325qERnz4NtzclCFkj6Zl4xUluEwHK0kunm6vAcUMbHj14i1gWEY2EhC9WZs7ehQu-lzQoxadRvXzGhSEYF3k6jw-VP3NShLARe0cdiVbZA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "546-558 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.865103,
+               "lng" : -73.919918
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18ee6c396cedac99ebf3da1904ab662be7f3f493",
+         "name" : "Empanadas Monumental",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJg9M8GPbzwokRw7hJF2vxLTc",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBdgAAAANyhf1mllgNhxiD18tzSrG8myAFqakpHG4fFA4HVLci5373p6AuaMBwgY_nt744cTT-towsvMgNFxrG3YVvpl_M-aXhOlvThkbQDEtJ_5GYqN_dJqLc6qJl9maWcAkfIKjOKL6Gq7t6fIZp1URkEnTbMdybiMS70S_-K5jfleIhEhBnctuIpgITxxil0v_1LkUWGhTqFLe5TpGO0i9usZ6iGVERG_A_FA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "522 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866176,
+               "lng" : -73.919825
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "c8c0eb2676e181f02a005caa2581dbc5b0235813",
+         "name" : "Amber Medical Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVeDCBRFr2608K3PXB7gbrwylKPk5FgmT7xbbFj1Y7mLerKhH2tEJJdEVtmzWgBUqheBAbQYfJJc3VQrvXxSokDtWWbjC87MqVvhmP44TpIR84gkyY1BhQrdObkNJzOODemE59RMPyIF3SkD3HDoKURIQUL5wMpphwtk-aiKnBx-A9RoUU4Tsi6w7p9WYtl1Whr5ZPeQ3Tk8",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJJQsNQvbzwokReGze0zWgdVk",
+         "reference" : "CoQBcwAAAJwhzJzRER5_BEyFR--ArL9RZj_dDt1bnnJBv3ZGblPhvI7BMCJfDuJusXQQ9nIyGPITkfPFXY_xhnFBtusf8C7c_9RGsp4DSf-I1UDTddYtjVqKhNXdUh97nI_hwlO1sm58p5MWS-Ss64_1_YlIxuVcFgRqLmOREyE-Kg0Dr0irEhCrjjsKPYnhIODTL7VNnHSeGhTlxl__kpuPd40ySGLXMU8hMO0e9w",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "health", "establishment" ],
+         "vicinity" : "232 Sherman Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866959,
+               "lng" : -73.92102300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7f716fcf8f9041949b4ee9dbbc1f81a162e4959",
+         "name" : "Amy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJf4QeVPbzwokRQdPSe0jh8QY",
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "CnRnAAAAiQfDviX0OCXVDTmlHDa-MzncxoeML1Qfwk0EKFQydHO-HH1DoO3jzlQsroxaHglYmT5KQjINPJatTIngm9IL_uD_2ViU4iJoNYuHiBC5Vgy-y18-2yWDlTOq1F7Oqt7hWxBZ1YEYCU_YsvkHjVsLnxIQvESpZ02pCyfrQkN7fdRSxhoUVRtMJdK_dmOdpw5Wr49OKvHRwFg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "586 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866599,
+               "lng" : -73.92376299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f3600b802bc4489f0718c7b2692fc9169edfdb3",
+         "name" : "Amistad Dual Language School",
+         "place_id" : "ChIJlWrMjvfzwokRfG8ACAoFvg0",
+         "reference" : "CoQBfgAAAGiWcjtdQYoM_KLso1lN7loYyQ4_bMs3xy6ahIeD-oPAqJojSoT0G_OIB3gVvp_gbMEnYShAZFuDNJsFfMMOHwvbFUeErVvmczZ7MnqPGdWUAo5vOr6jBVbahCv9jLHKlhg0lYFRd90uSOJ7jattHzk0lPrKKaK1ybD7tc7VzTOVEhDTl0TcEGOmCW4Dv9RdyTrLGhQiEyyZQmx4f7ODdYrwAkkKia1dcg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "4862 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866731,
+               "lng" : -73.923444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "155435a4db242cc23b8cc0f6976680db94124ab5",
+         "name" : "True Love Wedding Center",
+         "place_id" : "ChIJgYkxjvfzwokR--9-Dyee7Xk",
+         "reference" : "CoQBegAAAFX2CgwysDF_MX-KfTNVV8g1f9pbTNKpI7Zosc-IEgjjHQvaYDQ4i6R4W6q1kSHcflgr3u6acsumJ4JxLn5gMlG3oFpDPYLCNxoodWDA5V87u40KpX5cT0xkPVHRT4w55bmTIGKR62cWBaWtyT5Nixt6QjJmMqyTIpfDdmOZyzalEhAR4zs5fuZlM9ANzpFWjYnKGhRxwHL9wYmlVWGogmhJ9L_DSWtcVw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "4876 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.865006,
+               "lng" : -73.919774
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d98a2e829bdb54064bdbd2305838efdc91b1ce2c",
+         "name" : "John's Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAABS1yDg-u3ZpHD8ICLDCc0AXm-8jO922Uagxqd0u62WwsSqFTEPkBwjE8cm_XGFR2vT9lufndGavxG4W_b_j7DbRP27TfsK2SY_XDxetIFKhdpTKyEAk7JyO5Bi_vMTfI9H2Om3JdkCfk6_tMDbOOuBIQF7hUakrYB_ptNxTCytw3wxoUU0EejzdtF5hPd92gWm4_zADhzqs",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJvaF-IvbzwokRaxzm_xrAVhY",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CoQBdgAAAKzkfxABc28sur7cD6V1nG-5e1C3Xek9TYuqonClMkzF6Ibs_589w0fMB-NAK59dFwIRBpZa9jdiklYPrbzaiR09dMCAusdIAnyqUgIIU3O0FXU8o8OmLAl14MXNKHBJmuoJaGkhfG4jIn9aqxjkVNmFORcbmVcAm8509WyroWknEhB_NQjyi_FxyJ22AruE23eJGhSCVuAHQfa8_JO7E01xCncWkp_MVw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "512 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8666,
+               "lng" : -73.923686
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "da96611c78051b3c5490994f118eeaa280ff9937",
+         "name" : "Muscota New School",
+         "place_id" : "ChIJlWrMjvfzwokR9NU_-QWMyIo",
+         "reference" : "CoQBdQAAAJ0GT7_IJSWYkiCovrlIhOEJScnI8X7S-m5jEo31ZqyE1EbtCQU3l2V0lIZlBGiWicUm0l-Co0Xwtt1gchUGgHPaWpWvxrKHK48kSMuISPRz2KrqrHXfBVUyYYqRzdvkb2iS3UkL4xw7_MJJIcamSDKIOs6l4GrpFaI9fHd-mliJEhBxBXUc14VjVZMYMJYs8ppWGhRT9D_R1LVLzxzIrvesbg0SoV6QNg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "4862 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.867045,
+               "lng" : -73.922461
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "73266804c91b7bdaee4ca4cb734a315e089a2afa",
+         "name" : "District 12",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ6TtZoffzwokRuECkpZaYssE",
+         "rating" : 3.7,
+         "reference" : "CnRuAAAAnvDWwCLa9KjQvq5B2buaPTfAiXXpj62iVSRAh8mj40dStl7sS_72NKgB_YaHhJ2T27o9ILoQ24KtXBFykGXdU1yiJcMiFrUuHBX5xp9l5lZykbmSKCxntOpX08p2wGUXdB5TrR3ZaKjb4Z39Kcj-uBIQa3f5uBwsHw54CHvAZinNCRoUQ9rVgBfu6CnnSucIPHg3hvtj79c",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "4892 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866367,
+               "lng" : -73.920732
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2396f1dfc522ea8360708494675d0f1abbda012f",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtTo6RfbzwokR6wO1de0J7Yw",
+         "reference" : "CnRtAAAAE9a5LFu8QXIouB6SNWI_nveLErdbFEE8zjLyFgexP81TK09DjZe9VA0AI0K3f2ToQyuNXJhdPnTJB0cquU7RLu99ncxm2DhoqEwshlRUJXqjCb4ar_3D8kOOoUN-ytbIyE2ptczEt_mtKxaL486AlxIQ7rufIRqeCjpugfpIij7jEhoU6eKAoHXGj8fGHZICCSVLQQCYlgE",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "570 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.865626,
+               "lng" : -73.920055
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "739b1202e0da627311734a0e9c72b89b284efbf0",
+         "name" : "24 Hour Fast Cash Pawn Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 111,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAjX7t6HarRtgp8vbU4QtqGjIY-2Z59pRPypiTQyr3_jeZ6kBKZVae6P6BnowYlhCR52xxvRmmqgvL1e7BRBLO45gtBH39nt4XIW9_45bi1GLWeIJyVv8QJLt5qL3YGIGkidlaKtfxQ_Cn2PsTczBS4hIQW8skZBzjKjg49iLZ_Mm4KxoULgeEL9pSwkZN9at2ld5Yjwt33ng",
+               "width" : 798
+            }
+         ],
+         "place_id" : "ChIJs8uDP_bzwokR3LpOfRL92_k",
+         "reference" : "CoQBfgAAAPfjLXU16O4g4vpNb6ilt-NDBPB3J3IAFzX4pI0yDTMW1t2OP_PPkQC33tsQNZElUb98c3-ekwunVZ3lO2rT0XxdRvjk5MWi5CRaKGYENW5MQ2iN4AIZzjXO09EOOvDB_o_qkvd1_RtLU_pMTxMu7BjyqyDInDOXbD6gooX2pcXxEhD8s7gGE2QyjfhkHUysvaOkGhSQ_vGtjKDng-VOQOA2i1IZ9MIr_w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "542 West 207th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.864411,
+               "lng" : -73.92093
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "de7d840b61c86e0150085a9a87bca73ae3b39eee",
+         "name" : "Alfonso Dental Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDacL0wn0wokRr5nM4PnddNk",
+         "reference" : "CoQBeAAAACO1pSjCaV3GGOhiWFQHhbfnj9lHzR0XX9_EnKmKz0MG1GIZI3KNeNSwES6GPKFkeRHkGfBy1TXqP6MNK9NRQTBAKCMtL-65z1ouTJtjVspF64bpLdv2vqo1g9OHOWejv9zBe00vuPzJtZRVbMJuUFzyNeei5anMlKfN54bv0pKwEhBY_TbBR2S4pdXi0yGBx1BBGhTgClPlNxtzoLo8kQBpF6bYWdw-aA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "100-102 Post Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866916,
+               "lng" : -73.922629
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "617ac8cd32b45f3f2095fd8b49fd68ba265bfe10",
+         "name" : "Inwood Auto Services Corporation",
+         "place_id" : "ChIJZYrDovfzwokR7YHzXdUB4Yc",
+         "reference" : "CpQBgwAAADvrT5-p9WaPqGvBCBnZYARFzJu_2rgZUBDwAHgcCYVU1My_KGeZbYORxx9U_hwYTkhmEjreolbtIwwE6Bc2gNHjijtpP4m5S9YGNpODYUAGpHy5ywFpFJPMYfJGOzvaaLFqP527dSpN6TDd4OnXS2-a-WVbhVUHxTi2nhOGx7WkQpgka5i5tctMcUarorH1RhIQmvKVWcqs7YiXq-hh3i79fhoUHQql_geyzrZSxgaQeaaKuYVfyvk",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "4880 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863975,
+               "lng" : -73.923064
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "eecd531af93d52d1ff4bef59c8c49443afa5286d",
+         "name" : "Hughes-Colon Dentistry",
+         "place_id" : "ChIJ2f1uFAj0wokRgMI3DSp9kYs",
+         "reference" : "CoQBeQAAANvQljzpXeh62rfhI38k1f9_4rsHWRdQsYcYruP3Qcm5Hma36s0HViQmgFkRKdEBnIvGi5QBZFvV3nkr4ihtHf8IocO0RGl_znViZyD7Q4JZo7gAL9ZdKnqdYeiRxdmittyiuTQln1wVWLctl_snzJNJQMWVfFJTWe_pxHK_ANANEhCaQS4GX4JzS6cTK_OxPf-MGhRcwAf8CT7-brT2w2ZUlyW9Tb4vWA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "581 Academy Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAJgK981o3Z6wI7MQzMm1QKwX4nECNkBqNxv_z37XR56_l55LaFX6by6WcEnTKPZ8ZeRPWQmRGQ542Bm_Fjh7Kwrb_YAMBWpWsb4U4oNiBQ3JEETVewLpW1SFffDA6fSpohclb5rvTEz9nu63gStsG7EcS_lUb3InMtKFEgu84KGycE25zft3ybBQkxYYP-J3wBIQH239d2M04SUVpwe8knmHFhoUYJ7ag0Y6aSeJdD1VW5inOTNrAd0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

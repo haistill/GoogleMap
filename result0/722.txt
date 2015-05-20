@@ -1,0 +1,242 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7316903,
+               "lng" : -73.9778494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7350027,
+                  "lng" : -73.9734363
+               },
+               "southwest" : {
+                  "lat" : 40.7284215,
+                  "lng" : -73.9825694
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e3189df5fad8cde88d3d908a109a21e4fb8f07",
+         "name" : "Stuyvesant Town",
+         "place_id" : "ChIJoVoifnNZwokRBOHAiYH3L2U",
+         "reference" : "CqQBlQAAAFS3u4rpf-uCJ8yFqphVHn5pB9zzfF-VV8-qRnS8P6gDTqw1ORSnmvJiCPt3o8CcwDVS_YEt3wuGzoNIr93UGLXnDUF9N6gP5pK86ZwJC0jDL_lqdgvVMSa5WojEUw4_KxdzuOhKie4-dSzpTy_fiScOth71yl4rKm0zUtegGB5oZDyu0yOoJvoIUY98_NkY4xBZzQlm4tN3TnZe1QD10RMSEKzapGD4zmS0KGP2fiWDaW8aFIUtgXI5Zux5zO3s3wJ0GMygQ0XO",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729496,
+               "lng" : -73.97865400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "66015f7a646cd9a7bd51ab04de812227854ccf4d",
+         "name" : "Otto's Shrunken Head",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAngrV2BlHUx9e2NV03BU0_SUH2mqmMAKYKm7KiAtGtWGRLm3STsD-SntN1xIdgnIYCsMi3WOAWePEdT-Gx3bB3olm94IY9sDjjM6lsIOVr7G5F9W8qoqlCoVQEhsF0eY21iWlGgP7a_YCO2a1j0SfaRIQfBZiuSOOxGVTvXLSamy9RRoUNgsanB0_zA7yjVBlZ7Wg47JYGmo",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJR4DCmHZZwokRabhwmFJnhnE",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAFajELgRKGTzEFF1Ulpekf2AhmiXEX8xNxpWMoQtyVhXjxC1SBSp-oSWMBblZB6q41SfOez69m-ouRKI2d4GpcRfmRVqi_w2ilT9vJWaCluKQKVT8iRtIfXUte10iwElPzWLZbp0FLJzP205-9jTJzPEnLclvTJZxNfWl4P7_RE5EhCSKgE9yyJR5wXXd8ltrwxjGhTjmoThIyP-lgF3hsgc4fH_495csg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "538 East 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729521,
+               "lng" : -73.97874400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29d9be0372492c5f7d94a2ebc34bb61fa3f6ced4",
+         "name" : "Kennedy Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeVxheQ93-KSfVeGGGtw0CCbhLfRYqovedybpTKJP6ol5kEaKR1MSSyjt66D20PtQFErV5IyIa9BgDAH_CFJ6OoumyCFH88DA974JmD4K0hxzk6kI_7O3ng20BF3yQLqD7djRarHEdb3NJ6521HCSLhIQU0x0uNaBY_qQ_3D6gZQcoRoUleOPjhWb-3Fc03DCKbimz8x0AEM",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJXR0kmXZZwokRUxMGjScYotw",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CoQBeAAAAC4s3WCCVQYPdbTk7dKpZAWXrTPJvVmY4WrfzmNvFrqNVoHU0uHbK3kzv2mposY0KGe4beOzIB4i0k9vtTo9e4U-hw45s6ExoF852V_sUp_5pOcmd6igZUX3Sv2v8wgdLgou1MTeiwMck4BnvqD5ZkW3kGVUYO2mbrUq6MhB0EySEhCAdby9KxYAuie0P52ryvmiGhR6ti5A4Jky8q4BV8dfZS-jfzNeJw",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "536 East 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731705,
+               "lng" : -73.977851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1bde1ac20b91fddf54fd7d9067f3856f46d8d2ab",
+         "name" : "Peter Cooper Village - Stuyvesant Town",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 631,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAL5mA_vEC4MuRPy9nknoaoxyKxFpn0Og9LZ39BtmmZ5ywj7i6pHvQqUzfAvKLUTIx07wk3XM1CSB8KvVGsNhbXMGi6bQFNrbcOhXCaD8SuubXR7ubJkC4DR6THLypLqEZcb21xQd7nU1Y50NBajyonxIQI6yZS2EQoMyfzwzpEcwYthoU2iZeAi9dE57q-IqNeAPT2zHl2KM",
+               "width" : 631
+            }
+         ],
+         "place_id" : "ChIJAWLGeHRZwokRV4Dojw9TEHA",
+         "rating" : 4,
+         "reference" : "CpQBiAAAAIwjFqqTz6YRZrhXcAxmCnG13h1VxLm5agRfvR8e2jysyPkVXS4un2nxZV-SuCgiuMs7eJiqe2Hf2DkhpH5DWeKp74zE1E3qAIKBO2lDOlGUjpYT110NoH1In86NlA5DGjBxpIJ5HwPvHI79Mk-yiExSYDQZxpmXm7zUvG1xBxuEQtyqfNNJFIr0suvQNHPjhxIQyzUVk3V-Lcj_CXYet1ddmhoUJm51xY_0K0K9FJqshJHvblQOPHI",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "252 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729946,
+               "lng" : -73.979659
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ce2f392d5867f860d28ab2c690d10563dc7640b2",
+         "name" : "Wash & Clean On 14",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwZTtKXRZwokRQS3n3M4Rrso",
+         "rating" : 3.7,
+         "reference" : "CoQBdQAAADMYooiwKA4CgbHrYsf2cVO5rQpSpIl24wJSQOIRJtnk52o38DrGBKx4wKd_pPB5PitTuyknjxU0okudH4di-z2tmTPKkRwF31e57FhqBb3Np0Jn1Vssk1kswhZi264_93lYWdgj7JqAIJfyzy8yjkAPhS3ndWftI_S5h3TUdntgEhA0FiBu8YYspyJ7C5oj0-sxGhQ-mAaoEWIqUyjgzj_K7X5OWHs5jg",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "512 East 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729555,
+               "lng" : -73.97882199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "131559a8d414c3fda259517056ac1a1dfa80656d",
+         "name" : "Tasty King",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAS8t8BT5k-eo9Ri_WvrSJD08lg_rDKXCO_sVs5tiTyUCeb7wTbxtq6hARYuw2o--IO7nIkZFC_jAAql5V4EeQBjR71-T6ZS1KjRaxI8A7Foo1ATvEqThk9eOIsdvmRgsFeLVJyJ3smd_KMiGve4otUxIQCvHUzO5YA-o5VkHdClR9ABoUkGgmrv87Pmnv-idNHbKCdB1u6Os",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJoT-an3ZZwokRY3BNbjEC0YM",
+         "price_level" : 1,
+         "reference" : "CnRtAAAAknOsJmnuxa1YlZ1HYI-kD8X3Liv7Te3JUE4wRajDUQ1NvnMc9sU2KM7ncbJX1xqUkJwtlxlzzhbMiyOKvppQ37f7mJUWe8Xwmd4dCLxJkSb6XLJ-rztoL6RTj_WHrI4y2SQ1LWc21jldOJvUaipppxIQCqtYri0osSKj0AsyDIYXHRoUYFtrpnueISmFZrKBEudgrQyWjfk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "534 East 14th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730999,
+               "lng" : -73.97551799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d1dddd524a07d7f29423fcd510c0ab504319da4e",
+         "name" : "New York City Cultural Walking Tours",
+         "place_id" : "ChIJKfyg4ohZwokRvK5L71n8h7U",
+         "reference" : "CpQBhwAAAAv7AD85SwuxGwkV33vDFMRF1eRm9AnwC2f2WNKZOGOOAmrnXqslyNCmJaYkssxTSe3eY1npmkUtqHu5zsJ9EurFXc7R079ogr5IcscB4kOjXDMh4enDlDAxN3KbLYvQG8TGwwOMy0J21qvc_4RsR5BfXbLFLunVSl00vaC47Aq1_J8YR8Wfr3_WFFTcsgJ_6BIQqSCQ1dlapnRgjRsl_MpUfRoUn-HywtusuZNjF7RohHZsfH945g4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "285 Avenue C, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729223,
+               "lng" : -73.978298
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1fb501ed41c3731cfc96b458a0f206756c96a022",
+         "name" : "567 Framing",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAA-PNDx85XA0lDs0CbGts66MZWK54dGl_2Yt0kdFaLLkOI5OUflGz2mXBYsdYHohfCqdl_rUlKkqdpF2bZo4ELcz3q76D0txcoXI7FWs8q0buMMyIz0oE-0DaRQAybn-svIqu4gU2RrEzEXZUWBFbf4xIQJ6-LW8thTUodsuftD0zqPxoU_Fz2L9Aq7M86EJki2wwa99Ul_Lg",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJ6x4Oo3ZZwokR5E7BM47TGaw",
+         "rating" : 4.6,
+         "reference" : "CnRuAAAAZjDqKaAXMVAFFh7lUtQ8kvYpRm4EC91Miv35PUBoX1bDdUSgFfrscLeV2rIDeGlS1eYkj5cMQG-CKZaTdq-bT_rFvDfuzhJs14MgvFDc4saitWi9Ic0YISR0LGEA3SccZlc5KrVEnZphFaOGvHGiHRIQDOn_OhFRKuCg3F-2JWtuqBoUFscr7Mv7gO3fzWOWCHANZyXvHUg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "228 Avenue B, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBjAAAAPk78apLrGaVpGCVFhpDg3DQmdx3Gkhj1yG13uJe3KLwIEKS5rAYG5ZhQnQA5cbBdcIPRam2NCGvcgceWL_jbSjjdyG8L1MM7ExEyPwKIWa-51F6XvhY4V5RxwiuOO7a_z-jxfwF4nH2zJVvz0sFYaXM84h1Ytjeg0E28sfxu0tNdoHuOpo_DHQXwYkmT8xegxIQ1-WilArhseEGa9KexqQ29hoUU5S3EpORsdeTUcooDu3EW3mT1Hg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

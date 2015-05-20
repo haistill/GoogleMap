@@ -1,0 +1,482 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAITSLAKY-APJSuUMHFolIvt4jcNyz-7sENl0YK2LhZiZf3Q5X_-E70Q4DJEOcWockvQbghmGkzo8AXEmi25fgoSU1xsbOedNImzUW4ZQ349NVPntqKQjNTw1REaEreWTYUgJEu39MqkTZuhQyYydIVBzV53lbTfSsfTsOFsNdXOtg4tQ5fUcQhuF4um2zLIM1_Gknjnv3i6Ei-JkqI4P0gSt2WnV0hJ4CURyEo0TdlA2ORnaaeMunF_Tf1ukbvF0QDIov69n_sLlXJ8LmeDLZ_F64DzaSjHG56NyD-AKmt88-bBYZa5csR6sJcZ6njPX3xIQo6f_HON572v7_28j8gqaTRoUNNYXLHGlaA3O1fmKeU2JRV5H1Ro",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhQAAAL8Qhb21SE3v3KNAjaCPVJ3Sbax_lUTQabes4xKSiSIRnsVMSKJdYrAqKIh_uT4WZrEQTb0NXCwBNKunTZQ6fFrIry_DSy7zpHvA1-E-GPJLrDrykKbpf-CjT3rX4NM0QTu2wfCAVjE_JCH3zGZguI2cgJ9UYuH-tLYGB15TG0NCx3owoJPdcC9iQ-Bqyz5cehIQI1RpXI1MM46_4jgDrfERPhoUZQieKpQpv-278qxsQTiYOUcF6N4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807617,
+               "lng" : -73.92961200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3cd4829fbe6e0d23f11e477f2c4f7a3a580cd2a0",
+         "name" : "Harlem River Yard",
+         "place_id" : "ChIJYe74kun1wokRiDoQHLHTSr8",
+         "reference" : "CoQBcwAAADJhq16jkPZWXzXWH3kTpmN6CNCChsJSVgCuki4FOQzdlO797qguiJJvu09leJR73KyuhEAyHdM_gZgs87CvJYOhbLMWiTgsA73FrtDvuU6jLyTL29q3EpyIsoGIAo5MsYADi8mgGXOmwi4jcfKdPYE26XlfPpJUH9SQKxRaSMrMEhBhAOYe1yhFwcj5EGBnDJk3GhSLgTQwAzLIFpXfIZ-T1mVpC69E7g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "98 Lincoln Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80829,
+               "lng" : -73.930441
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4b8327816b86ecb0bfdb0b9354b5821e97e0bc77",
+         "name" : "Mott Haven Bar & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNRPkc971wokR6aA8HyoTEMo",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAMhQ3KLF_7Kv2Ihx0U-rvDJBArsbXOQ5xTyzJGQEMhqBcA2XHhc9wFhIpccSs6KmayfGa9MV_iUrvWEUE5zJG4Nc4YfjU7OPdv3j0IUNkNFvNSqQ_0pUUHCoQnXhTCRncr5_1m4gE8QbnX14drgLgNefVvx7rVnxDgXnU2a3o1p7EhDxBaRoFLrJ06vdnXUn6hbcGhQEfA8QpQ8NOADG9p-gnv2WVGxJwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Bruckner Boulevard, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807983,
+               "lng" : -73.929627
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "19ff4eb20c006464b21962c1aa3bb34e870cf519",
+         "name" : "Verde Flowers",
+         "place_id" : "ChIJrSNA6N31wokRTC8l9D2exfA",
+         "reference" : "CnRvAAAAI6M8SIC8aJX-HMbWbTZCB3xoEvaFTdgU-HPcIJXVfei_gC2D3lYCe82F0KSXynPDdw_v9vFYFnKxmai1Yp9W1GtFVmlt-MaxA_eBATUK4eitJZYesAJ0u0hBXXqJVsDjVd10OdOE5MjNUJEjORPkABIQd8og5Jl20AIXyEeXRJJzOhoU2Wg7fHXcJ8NUgQix5D3-f6oZ6GM",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "establishment" ],
+         "vicinity" : "11 Bruckner Boulevard, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.68806,
+               "lng" : -73.947828
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "eef2617df54b93f470cb0e4e7b7ae356ffabdfc5",
+         "name" : "Oz Moving & Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 912,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQ6y42jN5jF4TUD8nWo2y01Gp9sn23faAK8vNrrQWimapToipF-y5i7wi8S4Db8Uy-M_8ZlP0B-NdL_-KcoAYbxXY_Ph_iVTpJg39zkybjbPxBs9v5pgYka-ojpXphytLH9jbA1g54FaTwfwoD224jRIQjyi7S-9-0PpFbIRJoMp5wxoUiqNl9hVSIX7bCaZPl-hZtMLY8kY",
+               "width" : 1243
+            }
+         ],
+         "place_id" : "ChIJt2aoK4ZYwokRuQcGUK3xl64",
+         "reference" : "CoQBdQAAANyFun_NFTkV9elal4uUjkt27Y6Pyq9YVvQWBu4EjlfkHoA6mEph3anKRuvUjYVcsFLx7aPLFS3g3PEmixNmggWtDrxMGuLmHIevIbDn3RX3IvfAFxLJsVczMKvKj5DIkxndHT-vDXNpkORIY3emTG-2_Pzu82T5WSKhsyJ2OD5ZEhB3ngD8CE8baDV7QO-Xapc5GhR5iV8Qlh9hR-ZT2mPi2OyN6s-A4g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "moving_company",
+            "home_goods_store",
+            "store",
+            "storage",
+            "establishment"
+         ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810488,
+               "lng" : -73.93140200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ef8bff6505d53c25f454288515140cf9d3231a2",
+         "name" : "CubeSmart Self Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAA-K0UJ-7ZzNjU9pH8fy8r4_KuC29tqtuVTZ-tnDL7zYkSd8tzXnGgLdMmvZDWn2eyPYfZU4ZGyOqOQKPQqF5EeLyN2MWfAc7f0t8TThjmG1S89VvJb_d3JmLvNTe9MlxuX5M1Fqgw49m35oPSSMB16xIQidNZoxO_ooXf9FBMTWxdNBoUwzfKUTo151IuEh_NnjCTYpCMV2M",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJyyJVdNn1wokRSxlYMKxnUgc",
+         "reference" : "CoQBdwAAADtU6XFepl-QS-bXoPjVub2CR1y34vdamyyPFg-Smaqa4yqRZO52W97GKumedEoqEJpgjjY6E71UQiTgtLx5cl8Mv48kMV7QJjz8LTc-l4N-nyxYL0kTrjGWRenUfOaeYhHE4joVzatykTKCi0nKJBd6he8uolCekDUlU6P08ZRrEhCu20RN8okqFGqmtnU0h8fuGhQIJzKl7gg9TSs2NiKVQBfIszKejw",
+         "scope" : "GOOGLE",
+         "types" : [ "storage", "establishment" ],
+         "vicinity" : "200 East 135th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807331,
+               "lng" : -73.927924
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2a944656b0718494e691b86f13a4d957213e7400",
+         "name" : "FlatRate Moving",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdZ_RPR9WyFPtORY4oGdzF47yzf4JCXcuxhT97aKjdxH4P45lEszqDACOMUZcmZBLjpazXnOE2YnmQWyJR7FTuQG9Z-ClvS40N7kPLG0-X12Bzj1BaqG9NfMJG-ceonm5VlWUNETw0NVvcgG4Uv5lDBIQGskir51lB9gGR4-s2hDtExoUP7FHmgd58ctGuy5Lx6YNob6ebs4",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJp8Kukd31wokRNx5P9h5aZV0",
+         "reference" : "CnRwAAAAG5KHyW2ydUoE0_68oZ5SLpjRaD5t6-O0KiAH5Ym1WWLtBg3_EFBn5TniMTN7yr4Ytw97YrnBoAulay2_JqRhe7rFT3BJJcIIIoR2mRubhtNxOyrK9a1TDCZSzlh8fCHeCrnR6joCGc9f81aU8oYR6xIQZqbpJ2kDfREcl89kiKMgaxoUnEzsVAgxgKeCIGHViSOC0IIwqrw",
+         "scope" : "GOOGLE",
+         "types" : [ "storage", "establishment" ],
+         "vicinity" : "27 Bruckner Boulevard, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808813,
+               "lng" : -73.930772
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd651293c6746fff3abb8ee019074bfbda3b1820",
+         "name" : "Omega 2000 Rx Returns Corporation",
+         "place_id" : "ChIJD2W7et71wokRntypYpSnIfA",
+         "reference" : "CpQBgwAAAI3JSAQgjNuY02YWXXVuE44I211E6Ymf9hzBhTEX_2gy7GFyzA3kNVB72Q_n04AKxDPf-vBu0kdY5qc2_krzmdUCV1_kSxiTbZvyuXTG0FVv1TENYhhcrMbfR_BDU7m1487v-ic9f4hWjkZhwycWwy2ZGheZQdspV8gtg_DSOu-rxtBWVbSgSPgSgtVLz36qLxIQWsMA9IthyrGGG__YQbNjDhoUtLxOX-Fxy0Te1r3Sbszxd_SNDaA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "2417 3rd Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810106,
+               "lng" : -73.928068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c33751564365c71fb0830eb3ac4631d21ae0dd9",
+         "name" : "Project Enterprise",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 627,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBmAAAALCa4HG8vY-XhN1sdqIln-ruFJ0UhIMjw2NGDyH8NU4GEDd4CYDlKaD0FczChT-yU4BMV3-XvcXA7y3fGXFQ9h5rZEXzKN8KIhVhdmFzUT84dhQDW8zQrPy7-x2msO_HxUe5Sj-JMVZmi_xUuD2wZNEemJ1He98lDHt38RRMmqDDHSdbm-TOadGzmySimHFhd92jGohxTG4iXvdBO_uaLMYSEF1dWfhBiXeWHfpP7hW-cNMaFJnikF9hMZMJ27KOlocus13QOvMq",
+               "width" : 626
+            }
+         ],
+         "place_id" : "ChIJ_ShwXw32wokRn0oO58cP1II",
+         "reference" : "CoQBdAAAAIGkGZhZSCS99bRnq-kRNyCm1pGVQCmV1GQw1JlTVJlzzzeyETapAu9OACtpEPgnpXdWTegqOVGcM2nnHr7plozPdQWqkOr7roPh72Zm9AQ-PikMtjR9pNaU-CcbhM9_PIroaYY4UYVvp6ZKhKMKQsGdGz5LiUU4glEv3OjiGbMrEhDEXTZRXp2V6tRaju327YaWGhQB0YyNrYdepyOpx1AIJ3URjdnsWA",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "199 Lincoln Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810223,
+               "lng" : -73.928048
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8111f0d3b3feb63f57dfec3f0996ba6f0de2c8c5",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ527d5wz2wokR8xRkALuUUQg",
+         "reference" : "CnRrAAAAiRUGkJjlt5ymPXPyZKL9tNi5T7h7ZFrLaoKbKQn5Af0X4z-bfLkTPXF1mg6fCToEO2pJOeOOMF6nHPOXSFqXwZjhNPeHQ7M6ENX1LX114AZLmNKcsATVlWwUec7H3E2KO9cTPCeIC_TGJC29U3SAAhIQnNUFfynctlYZt_RW8UwFUxoUoB_Bz4B3EKf7zgKgHgvT6woOkvo",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "270 East 137th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808766,
+               "lng" : -73.929529
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ac606c01c5d992e8a551cf100f96e0d9352415ac",
+         "name" : "larry iron works",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ36yi0d31wokRf4Kgq8_Ee2Q",
+         "reference" : "CoQBcQAAAPXm3s8wiH0bcAfrJMRl1bRMOx6s_kCpv7WMPtkGrzFu9zq1513ddDNBwGrUAEx0nuusLKxyCDCFQ_1ISOk-2GxhIUzLhxGBsFtWSMfKMg_4TGbC8eYFvewg2IwXu16Tv114aAilzgPl0oStgcJ5PbvqpSjm9lJfJjMwp4BCIHIGEhBLQil8NzNv2ynMalLJAp0IGhRSI0ahe2oWpCqxhShUtMKr2V8iQg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "259 East 134th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809429,
+               "lng" : -73.93011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ce74b00bf935dc48137ac14fcaee2067f66da2d0",
+         "name" : "Bridge Building Supply Co Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 388,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1pKfmP2saM9ESRHceaFgP_3QORHqk5wvRfz-McBNy6Qo7xXvHFlSIqr93eoDIam1i5WOw3z9XnQ6Ko-PoJJUgQ47S-0nFhbL2lcXdl_36ANIOG6TkTlYTQPWT42wr5G3vzwDBhiSt06ScCjGEy_iJhIQ3f4C6DQ6Cq4mhAMcUD7U2BoU8CUr8UDNlSSGVfvsfv2JTpKkFH0",
+               "width" : 518
+            }
+         ],
+         "place_id" : "ChIJA6JugN71wokRC2JAdT2yju8",
+         "reference" : "CoQBfwAAAJJKE2jJXkb2uhPgTvdBiFdK5aYq1q01xXM_pMBb65F8Fy7rCytWf0XR04k4N5yOa0uLdp0aZd3DTFOZWyta8_XtZZ5eh04yuMKxwAer1egPRm_X97qlQiHCjUtE4iNk0balvGCxtgG8zH1F1cUTVQIE19ThAfHe30g6J_daoovvEhCFOeAHSYGzuf_8A2J1B0s7GhQ-vix2lYIJ-tbNOIKpIKncYdV6kg",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+         "vicinity" : "2447 3rd Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809791,
+               "lng" : -73.928226
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c94e41d98817c3709b181b81c3271b74e14b2be1",
+         "name" : "Seagull Construction Services",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfwAAAEQNtEk1BWYLaFzAQegFxfCOMMBxWPKSEhybaf5blFWZKq5om_tRohiKzXs3O4hOYnSqWhoEJ2VnuBW-JFa7cDjeWzvkjEmlopyyfj0gODIOjEa5UNUMZIkMlH3Xcmy1q_uNnbpdZXN-WRP2LBzewOXoSih5x-4QY-8i9vnNJWtnEhBsZ0zqFBaW5zhIyePQDvUtGhQ9N2maLIC9eq5yqrpKtjcIiu_l9g",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJa3vQXNz1wokRmKzVstC3Nlo",
+         "reference" : "CoQBfgAAAHI9MxhC8OAYMw0M-w32NDFfFwVyOV6p4vEbvp4yeufgSpIfmSjmp3WU2dkTEZFE00-pmtmS8yVD3ab_9Hb8hGWU7qIk_kJO1l3GIdi7UH0kxTp4g_BVCaSsfcmqP9kEaNtP_qXKfoEU5yUaGOn2jqiobtLMYAaJ7hljFO9kJbAREhBm6shalSsHtpfOHcmYANFLGhS59zfOwr0mo2V4SZ4gex0CC8asvg",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "199 Lincoln Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80921,
+               "lng" : -73.930791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "64f41d231947d23b6740feddc4c497fb49aca8a4",
+         "name" : "Dr Sofa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 198,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUMt2B9pSWOQE6PyJj65llQk97nCVPOZhF3RHn14AWAolUwZb2hUF18hye0qD8oa_-3RIHJFJYaVuCbMW7yR1CXbYFE30-dOUVkAFDoU9jtfldFcYiBehELebUwWkTbPAUbQItOzLdM8LVqGk_OgSzBIQWXmuIGfVKkcAI3AXcc16VRoU1H34NPZMT4aXZkhTnhTuaKFSkUE",
+               "width" : 180
+            }
+         ],
+         "place_id" : "ChIJNZmLZN71wokRzu1Ah7JWFRg",
+         "rating" : 4.9,
+         "reference" : "CnRoAAAAMPThmI3Xiz-jEYS7gs5ZkadgLy1SPsBHkYHgODfLlRHE6T6wKhIIZpJQ8JYYEi04jxIq3jMXj3u6xhuF231SNWIHxRI3sEUZdbTu--CjecKkShJiqlOfkhw3e8aegOSk0qpKgs6RpispNwuD6L7NTBIQaLPBy_RftFx3ziY-QdP2yBoUvcJkrpG9xRd6v6wU2FMihZzeZgc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "220 East 134th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808746,
+               "lng" : -73.93093500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a424bdc72e4e0cd7d6caa92f6cd6987fb6c6f8db",
+         "name" : "Aimes Medical Equipment Rentals",
+         "place_id" : "ChIJD2W7et71wokRNjYDU95k1Qs",
+         "reference" : "CoQBgAAAAINjGDN2anWX-gsY1xVtGdY1n7gd0GcTYHXvgekifDLxfEgVobqaloASAcTV_brfcRlm3Z8LIyI94Kb4k7YsBUOA9FpQkU4RsdtpvnGp-2-wipAAmho0SJd2evdrlzMfKUo-LThSh83V-FeE1cvrkMw9KuAuZGV5CBXdVlh_aLIBEhAiIMOX0HBVANnlDli4Jf_bGhRC2TacWh4xmj13BZe56doE0qKxLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "2417 3rd Avenue #1, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810124,
+               "lng" : -73.92811399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8a06e2decd5349277a8408656c28e7ea75907f87",
+         "name" : "Seny",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJa3vQXNz1wokRuPJsswaHMx4",
+         "reference" : "CnRlAAAAFvdipWQROoxeRQzkc-SFQpAQDmtYeBP-7OM29Ba1NyUhhFICB4VqBZv24kzvRqIlCcUbU4NIIUKW_noN1b2Y6v9O8KeQXstUnuESWvrJK_sSC_Vo07MQolfRNhNvwzrnkLcvlvVLNIL_C-fxrADbnBIQnXoKe7MuY6FJej-5O3EcFxoUbf71iRwUftuYBcY8gISXIhv-ZBo",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "199 Lincoln Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809485,
+               "lng" : -73.92868300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc9022319fc7dc15ebed4fa5cf92838b2bc7b33f",
+         "name" : "Remove My Junk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 167,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAL24If73Gk57BELi9xJXnfamF7HZLi065rMI-UVb7oUCe3ArgqTivNpK9-zFJAtK0_XQ5r1xC6XDt1q2EQUEwSvWqfvaS9KcC116CfC2PrhtMnTh5lKKa617c4IKUBebu5i81Fa62GHcB-yYQ2Xwd5RIQtw6se1T_UGdgvDdIZOqqrBoU-9ssEAl7udeZ61M2V043UrH0Mjk",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJWRn8NNz1wokRgvFXknqE4fo",
+         "reference" : "CnRwAAAAfHtQvNQQWhZlkLF4uwafF_3jhQRZ8xPymnmFvINcfbljG2C8ocyxXcD7ZD430K_FwFot4L_LeOeNWnwFnzTqNKg8g7cgCWell_zg210g0b5vH3TZ3B0RtMs73_d0L3hXoYg1ZMsooEcxjNZzdBiBNBIQbQp_zLls85nDPiRoXUZKMBoUEJY8-VUSErQFniJcaukY2GrrL9Y",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "256 East 135th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810064,
+               "lng" : -73.928027
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31c5e19e053dee801dd2b149598d7bb3bbc32947",
+         "name" : "Eastern Standard Consultants Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAtvHg3mV0djogxVexSo-BuYYz3geQ3UvpXdHnKo13fZqQeXMeE54QvrFGCAOTauhQXcpESpl3H8UsTH3QriGRsfTp3aIyk-alvTcCoAXD3JIlI-gKNOw7DNKkm8lQgYum1rTBYu8IqeuQyjyADz_7YRIQWhoCkxiQKz7MS7FRxn0DiRoUpiiG8wdeTcZkJ6Y9amBiNwYeKOI",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJVXrQXNz1wokREIxQLmvznq8",
+         "reference" : "CpQBggAAAFZgkkcdTVCMIO0XTfoVfy5PjCYTqUbjnCXFJB_2By9M_8pZOUWkbi-FNNQWWw8pdxN6lwv3FqPKOPhSmtpTIkYmBuxZ7T8a1fJPOcUvIU3rR7quaMUknEzMAxtrDr_IqBx6bK0zBHKMpfYxWCMxSM5E_qKsS5FkzsOw-ief3Kx81L2F33TDhA6Mipok5-q4LRIQcKPkyJ72goqe-2948Cl_6hoUFFddsIwPd_Y3nTAggIDVXBxku-U",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "199 Lincoln Avenue #304, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808813,
+               "lng" : -73.930772
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90286ba71b9bb6f9ada47e6ef85f2b1d537b9f69",
+         "name" : "Thorp Brothers Restoration",
+         "place_id" : "ChIJD2W7et71wokRl-xEEeJam-M",
+         "reference" : "CoQBfAAAAIKz62llu3rq174V_CMgILeQg0oYPrTUHZ3z8wCqWkz5N5K0ov6orxl5JvJsm6isQK6zYrpshhi3-Jn5pFg9Ias5EoUf9GmQ5RpJOQKvThASh-YIocV26P2d0ssMj6_KMDaDp5K98Qod6ec0gFx_pMYpyV3uEa_BnkSm1ZmMyl3pEhAgyWGzycAdTmcAyYLX4pGQGhRv6S6p1PfCpv1GpZyvOhZ1y_TGVw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2417 3rd Avenue #312, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80286419999999,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.813179,
+                  "lng" : -73.889105
+               },
+               "southwest" : {
+                  "lat" : 40.79678,
+                  "lng" : -73.9325059
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a7b371e0acc50df41cfca1cbd844e455fc82b697",
+         "name" : "Port Morris",
+         "place_id" : "ChIJ0ZHUw7_1wokRqlQmU8e9jbs",
+         "reference" : "CpQBhgAAAJ2KrV_dS-T8pTKwVmooeCXnKZp9zl3S1O8EdNjBXCItiMiAl78xq8W-u_Wdx0nVKxfeAx3CwvSIul6vVvB4THHp8ZXN1A6a1uos2f4mHM3y-Sh2bSo5zJAbOIcUv0C7ETZjQcqnTyacV4Uc6bsyS-1MiDxrXOra1DaSZHhZfE1AK89ZDn6MmUf1Yg0Pl-sw3BIQTm6WnoX1pk2anINDGAdbgxoUoB18rIkGvRS2OenbGBhwEwHahmM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

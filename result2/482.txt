@@ -1,0 +1,435 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAG5KUwdZfA0c_s52xNQjI8kGrc-Muc7F2atvoAvRpPX_4blmE50fg9XRxP03eLVv9u4pObrepWtIU4Zs7oIXc5CByQNoCwtIMOERSmTs9YNWVQYsg2xvETApJBBG8MPHa10J02HVhmI0-oJGtjzBTr5CVCa_jgeNb8WQPZ1kiu7IchylKR7Qyq2-htPWAhj_p5Wpqiy22QdQFXtNFOr7wh_felYLVmQi9-mxPREylyFUCU7X5modqQKWNPh0ZrSBxCEuL_EVf2v2RtMHQjMbUa2kkzacCjWYlUPrrfP9PkKqrxyEzXDRuM3-sAJSrmICRBIQDLt-fC7NItbiEX3Uj0DlExoUF6T_uNVOiAFF0MnQhgCw_ztQF8U",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAOUocraiLCQWAmTvVS-ESR_UnTf4dtMggE8fRIogUxBS6nRqbaHGHhhZY84ExTV4UkoyWrDgTmvxm1YPerqCI5V6PpXwSlXoy3jyumyxzyhrj6ahXU6Q9cQ15J6VXbv8W07gSZX8iabbgIjx8qwav8VE0UsS1cNVpcMeDpld4I6PceGb2En4WW26duoD_Xe7uRIQMq4uKR9Xmm7Ud-kNN4VDthoUFpHgB00PMvWJPpIYMTMDwDk60R8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808363,
+               "lng" : -73.93835
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "55f1e8d33f5dc41cc4c669e57dbffe3e9a6350dd",
+         "name" : "All Saints Roman Catholic Church",
+         "place_id" : "ChIJg__iK3X2wokR1lPZgypRNw8",
+         "reference" : "CpQBgQAAANfWhO7vZNecVtVy_ezFJ1Zr6_-n_NWl1Og5Nxq0vbJ58pGjXAEIvtzF8LaF_5gNkiJ05D23fR6I7de4Sgt_HLv_VUCJBOYKYZs89TMfhhDsBJXmRedMfBdUtn8cbUPjwOomxMsrmbkZY8N9czz5BpzA7euGYqBWP4IVWOmkhwn4MQQ0D_riWHpKiiVUv4JzuBIQ2rCw7a06rvCWkIT4EPypVxoU6AfejehLifbJ8jiVJ-717xAVqwY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "47 East 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807595,
+               "lng" : -73.93957899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d2fd3ac1342a8804f2c36912d0b86a16dca7d7a",
+         "name" : "Palladia Inc - Main Offices",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxzA9Lwv2wokRLTea7fK6UII",
+         "reference" : "CoQBfQAAAGu-wvDt1LhoBtwJH62EKhf6R0eoEo4iAT9BuFrfGQ7GfT6CHbBdjJ8yoTtqSfL_vJqhgfup3xDTRdvXP0D6ahQE_fv83cRcf-BuO5RRZDivyXPlpFLMq5PsPRSj9zKzBhmPWIVV6to8ajzrGyREmoHwl7zbdfmhlfkVnW1CkCVEEhC00ZfQtE-UkARsY36BsGkbGhQi6lG_Eup64z53_1xsCALVs8uu2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "2006 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807455,
+               "lng" : -73.937444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "51cf9870758542914c402069ec101ffa302d60f6",
+         "name" : "BP",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbPQOOz5_fRA3JMUfO7lFHj2dkuc8yqurwjwLX7y6UxPwhcJFtyZwUuBXNTyT_X26kHt1AZxb-sKCQldDwC-OtEPIf_acruWFmVUrOLwhQM6O3Hzfd9u4Z0tnqzy0sC_-t8AcbiBlvfmUDHSsT0k2KRIQShqou8iIKEexoNmu1Jnv2RoUktwe4OBfne4ImEzxhsVX_DzDb8Y",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJg2SIyQr2wokRNl9y7o8fmoA",
+         "reference" : "CnRkAAAAc-BlcYsQu8BzMA6Q7X8XqIQoRAZuS6siIE0cGQhjRDHd9tDweFSxMvojiUSMTAZyn8-Mm1prHcduovKJ-uNLSRGkJjX98O2k3jybjXvwMvjuleQDakZLMpcoPk6OSyx5cEJBXbe2fmvw9WU7CJER3xIQUCGczaC_3jhTK6DN_voQ7RoUEriJ83FzO1Uh0H5XfNGLG3xkQbY",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "car_repair", "finance", "gas_station", "establishment" ],
+         "vicinity" : "1890 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807763,
+               "lng" : -73.93995700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f86e61998b5a81bece4e8dab6894eb6e935623ed",
+         "name" : "Harlem Renaissance High School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 324,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5s52zi_oUUCOgufqt8DliKZZHWmrCVberYrnUWkQfqYfQj8pQYA-4SJyBwQtTRpxsZ-Af7PFSJj0qIEa11ILfpD5C3AKegfi5eWuZhc4oqMr6OyPfot3mGq1tFBZ3Eh3ON_m3wjXAOXX4tCb9cLE5hIQhVstllv39jolxD-kqSpFOhoUKFz-v-1Iu-54KmoiF1ltetxULpg",
+               "width" : 541
+            }
+         ],
+         "place_id" : "ChIJm7RvMQv2wokRBme6YdSA_cQ",
+         "reference" : "CoQBgAAAAFZ_KZqAxaY6KATs3s5SLVbTub9cUzcgNiSj1mUl51t-kDLCBRs05-sZflR2jK0NBYfvOzOX7zGLpInIVn2BB3zzfsnHgldfjw6IhkmfmwaDuJBzCJg8Z8GME_FcWT79HUPyEUv4U2IT--9XSrNpOyRR8p7D5qAUG2oNYdKfEe5wEhDULNhskTO40VMUA3epASKCGhR4IJDVjf4VHTwSyxWhtoTEZv7sXg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "22 East 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807647,
+               "lng" : -73.937731
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a5ee592e5ab4dacf5801302dcccac6bba5ff7b5e",
+         "name" : "The Children's Storefront",
+         "place_id" : "ChIJ79dgyQr2wokRlkpnvinHQYY",
+         "reference" : "CoQBewAAADKHJd0Dukjh7sxlDateyb7d7si9BGE6DUjJpWDR-axXsNK-VXrIXwbpBXzS_Hhy5K4kQU6deQ5tPYF_h8N5EJrJsBmq2qtUJzCrR2ZMb7BR3zj5T4D9UCCroa6MD861i0_cDjI2-D8Da9KUN5tC_LHWjDD4xfO-yIysN3lX3ZqGEhCmbBmNb9BIVbrV8WxZKlcxGhRc0zmfD4g80Eo1vNOmSUDBOaP-Aw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "70 East 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810162,
+               "lng" : -73.93776699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f6df91e93501109e48745f3da5119bb22492234d",
+         "name" : "Miss Bubble Laundromat",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7t6aalwAMYHkPrhTOs7rnxY-8qRdyxNCrIhFnUsAG_Lnk_CwNfj9geBxd8GqcuL6ouE30kIZ4LCZrEk5Mzc40eAgSl4gk8Sfvxl9G-5hRtWAYxztSXSynLV6gIzAu3FwDiI3rV9-lYMTTnYnQFLW-BIQTTXgnjx-x4uLfKJ5ZViXnxoU6YzSAecPa_jfq85pz7U6NYlyzcw",
+               "width" : 738
+            }
+         ],
+         "place_id" : "ChIJlxfDC3X2wokROU3Ja95Ku6c",
+         "reference" : "CoQBeAAAAMqLrMjZHrJQuhz5h3OVPy7sx3PY_bDJFVp3pWvjEFErLf_K8gnAIoM9ZMflZECK7-V_QtYyW2FhUUlCOIdXs-TtTC9S61sAZPxcOrvjtkCDIJF9R3HQx_BtF3MBRdKix7X3dVnB_ML0irkTbqDZL9aa8AsXIMbaLPAUbJ0DpgOmEhD6gLeYfV6wzvhAnXZle2QNGhSX-XDBJxeJ8BbAyiv-iCg5JD8W-g",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "2096 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808687,
+               "lng" : -73.936859
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c7ddbcdaf732b2213aa57eb7400d392402874f66",
+         "name" : "Harlem Children's Zone IT",
+         "place_id" : "ChIJs0DIRHX2wokR7TFpsuEo6Tc",
+         "reference" : "CoQBegAAALqRsPfphfJXT_7Z-_PkFb-fY2USGHVmsVmIfLf5XMGORBtKTNSw3LLAEPWiz_A_9NOtn_GblpMkAZHLj3TfM1eRrHOLMjHvWlpKe3iQSudqlPD2XwWZHrftepwA0Fb5SUyWgCb5m_W_dNP-0dX2XkQy7NG8706qUmHRp-ubjShCEhC_3-000CmaS-nhnWGC1bBcGhR2yCZ4IpjGClxn4Yfh7v18HIK1ag",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1916 Park Avenue #212, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809655,
+               "lng" : -73.939075
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43eb3b5cc8be17b273859ba5df8da9db13eec0e0",
+         "name" : "P.S. 133 Fred R Moore",
+         "place_id" : "ChIJ51XY43T2wokRN0_H4tYl36U",
+         "reference" : "CoQBdwAAAORTDwY6iA8n6WKO4eAD0aLpM3BW0zePG2vm3XajmbTfc3lCnl3NVt8TKpcYGwt9g-_29CUj51kLPrsjq3fticXvIuZflGQ8iKkgPcobn8N8j7hY7Ikjz9KNNAuwU8FXXcYhlwExjIKKJSDDgSj_g99bxvrvZvbDUJG5NYosFa3qEhDW5HD-TleDvw_yIwMv7braGhSgaVX2fkJ876Z1JpbHVcrgKf0AjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2121 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809031,
+               "lng" : -73.93936600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "37690620a43bd10fedc2fb6a707e108b616a909e",
+         "name" : "Kelly Temple Cogic",
+         "place_id" : "ChIJvcac3nT2wokR81erVcnD7e0",
+         "reference" : "CoQBdAAAAPg91IFJkIJZVN12Z9mHpqJdbLrc7KwH-bZ7zb8sqsrA0beizXdfvS3yNe-cLxbUuNiwNhZx4F08QJX0l5GAi8hCUc9IuWYnp_h1FHltuaY2u4VKMMbleR8Wqoa0BgUm0pgl-dSh_H_V7BrclXdkNZFX4GvqvTLyQDZmg82zcwO8EhAdQr6ZccAKyfx1I7-QNCDFGhSsWLOikZr4S_rMJZAKc7s3YB011g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "8 East 130th Street #12, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807025,
+               "lng" : -73.93849299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9234976c8b2f93238e697054a74e9521d186c44b",
+         "name" : "Choir Academy of Harlem",
+         "photos" : [
+            {
+               "height" : 968,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAABXAH7VfjII_tDPhjmJ49lZSh04O-6b0lROIgp7p2w9qPOSOfzenJQrlq60ENLYDGGHZifdIA-rlc8Ts3cE1Mom-GIYOIHeVNkVn54_gN3KSw35GQm0yuUlZX5E7SdHP9vb3eOX9hnOj2ySA0j81wYRIQmo6zAoAqGsjTJKRaD2lxDRoUVrvmrRC1AhDUp2FyJxrj79fLOx0",
+               "width" : 968
+            }
+         ],
+         "place_id" : "ChIJgxnj3gr2wokRI5rY-nInKEg",
+         "reference" : "CoQBeAAAAJnDEEsFkaaOnF98KWq3sAJKJwJyBRgnTCgU_M3nwR3KWxR4JZgjOyGQuPqpyHT0OA3ohdTaFESc-jIeATF9S_z46LUx4SE6--MDnAMc_aa7YeA4cjgkklUFAhkrSQxRVCtw0I8yxgQbQpG3oqIGUjMjrzfkIceYLU9CdQdbvl6EEhCQmGZMnw_d6o6CGp_qw7sjGhRrMJtEm7irmCuvVrJ6otiIss2nQw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808277,
+               "lng" : -73.939161
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c1bf1a1d39d4972110ff087191bec01855f26617",
+         "name" : "new york hostel",
+         "place_id" : "ChIJSfbK1XT2wokRDG24GpJbSy4",
+         "reference" : "CnRwAAAAIEE_oWycO8ShjR25SHiHVD6wPXpEFryywbjAniicWslskkwTrCOL46w3AL0KwGT1fLJvQPaeyh-iwni1ee6dq799VeEPoGMpIOqtgfKz-ldo8Nj9ANm8-1iUGBK_okiz5dz8kXQ9zaehgnkiDcqccBIQRC0Bh9sCzPBtOmSLYxZbRRoUIWl0RSYH9esNC0VEOJNU8JqUrfE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "30 East 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809014,
+               "lng" : -73.93688299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1cbd42d809a965eb7799e4a0d39b022550bf06b0",
+         "name" : "National Black Programming",
+         "place_id" : "ChIJjZeBQnX2wokRIFTgYjH3a7I",
+         "reference" : "CoQBfAAAABqCMnQ6k7FEAaAo0rp-IA-92yZVJy4Rjrf5oZ3J-a33ZIkxOCqYqIYitEX077xR0Ax0oYcSp1RVhgIDKRRlEjQqDgLcINJvUbdhm8ZrWFvN4V0hm5dJ9DeqCkSVN9dTA83NeJMK85QhbH-zRD4XSGpwDYzQioLqaD__Htyv11LzEhDsEKkzRmetcM1X3m3CLBicGhT-BXIbB9u_VVnXsy8WTiDXlLn5Tg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "68 East 131st Street #7, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807683,
+               "lng" : -73.937864
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "febcbc4c3a9161c75dce1a6e295bbec79035824a",
+         "name" : "I Love Dormitory",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ98iQ-HD2wokRB7cnWrJhHdw",
+         "reference" : "CoQBcgAAANsEfMZSZ4TYNtV--v-H6YoT8FebYTvbUk0iFiDCyobwwAJc9hsjjPZ9451fQosMZ9Sw2D1u02QvlyOMjt3M4UZlmdxwnBpyU2AqcRjUw_yjiHhds8c0d_xy7yGr6MzCB3I5xGrGA7zntz7Fllnts0LN_wvoYhk64SWD60s8u4a4EhBNlpBp7Mg2GF_RR_s4xVY8GhQrw91IhUIbXgSHCVM8lB5YIgOIfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "West 136th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809324,
+               "lng" : -73.938462
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4536aa4132be69f72f3cd3b1d0241a6c2d6b655",
+         "name" : "Moore Playground",
+         "place_id" : "ChIJQcHbGHX2wokR6O9gnLF1kjE",
+         "reference" : "CoQBcQAAAMW7yvR-SG8fdJndWN5Q7TCMP88T7FFU3UrRnp7HPxGU2YQTrIDMtT3ftF3oQ4PDQbcM1Q-xOxTG7ue7dt4K4gmbnMFuc3th0d9TZiIG65oMVlLbuUMjLn4zpmVRl2e8YwgbqJfibsqrneD8lzD1dTOxakO48E1k-zM49fWwGTC3EhAqltWlf8EWpbocwHq7LtRRGhTTqxXdC7i7yYLki2DQCoj3NqOEQw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808788,
+               "lng" : -73.936723
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "06acee3ba917e26a815ae04a4be52212d28287c2",
+         "name" : "Elias conservation restoration inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAI1iPIQb5NZ5Z0aD9LOLtT1XB0awbEaRlys4IKcK3c4mco1_cjIcmco4WXKhLXfXz_WwxL0YZKJic9W6kKmjmim-vIquJP-TC_a2t-TRi1dZq_s0jV-pWHh9m14-xrTRm1jmkS0ry2TgvyN0Fo61QYxIQDq7bFPzhi7tuN99xOg2gpRoUP_oRHfT52MQKVi_-rrZOsqJjxzc",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJFQqgHAr2wokRrupjNwBUS1A",
+         "reference" : "CpQBgwAAAO0gFKnRGmH2ABSSgmZX24bja3ZF8XDoHcm2cEzZOzq1PDtygGdBkOJas5IBsQkyH0P4Eoto1U0C6Z9TOzga9jyqDPsXMPSimaHekrAz_PYJXvgD9bDmFcp3GvX0BKaChD3yb43DAFqKctakNY137mnaCSfMgnSVWNorCWSs24glH0ekRHKXIuEYfrSdbjKL6BIQwIo1Sm_lk2YDV3phRK6SLBoUFlnHztpe040eA6lYVyD87YjjqfU",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1916 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809983,
+               "lng" : -73.937325
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "365fc837bff38690c06c22558bd25da6e74977db",
+         "name" : "Big Apple Deli Food Market Inc",
+         "place_id" : "ChIJvWiXc3X2wokReNM2DXagmIY",
+         "reference" : "CoQBgAAAAEbXU_6pAmhHhfoaJU_7OS12JQw1Oc8UXDEcCKQM7g6Z4xJR5oTIWuPaQqRU6fppD9iIkMztckJZOt3tLBWGaE3K0dRdYxKdxnMc0MA2jyE1RvcRQudAR3GuDr2BrIRQuiK5GsASC-ieCRz7Lyoar_uAAtdLX0gdES_ehGjLG_n5EhCPDkelz1DjGobDWqHodyBNGhRsFQvhYOCQ-pMT4VndH2DCwG1JYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2095 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808184,
+               "lng" : -73.937164
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e764697ffbcace2e416a423da49103ee27462c3",
+         "name" : "Chander Auto Repair Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkxOq3GGngZhJqpeNnp09FYhJqzJw_iDx4_oNd3dD-Z0wUiwmsaZEefZyRHzkpxR6lGRjBTh1a5QqeIKWiJYCuxIy00bWelosab5ALUv23UnJP98JCOEyZaGRjOb-WZwlYoB8NAPvLFwDisaPA0dZlBIQvPsSJITashOCwd_RZr1UnBoU9movEEiJZEw2c07aQnqEbUs8PWQ",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ50vMTnX2wokRYYcJb8fg8ms",
+         "reference" : "CoQBeAAAAFaU_MUlPdnbvQQDfgrj4suVg_iwSg_twQ8xA2lDUE4WmayaqpQKEeAfXS4PDgT8yK_DhSmXvaK5xDsnCjcoZmwML9RlqIFDHrFP8hfyt4P-OAoVlwvT_ebOt3wtGSFn2cWn8t-G1FXSLu0mvta-OB56K4fwb9WS4A78WrQ_6x04EhBlzUF8zHpYmmv95exW5TEDGhS3CzYWt1GO07II72Jip4Lr55DnAg",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "1908 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807754,
+               "lng" : -73.93888
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69cb8b34329ee64e1c1f7c44b345e64f4a22baca",
+         "name" : "Addicts Rehabilitation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdgAAACM8ipquFkSzyCGq0kZ9V9Vim-qtCtVv9Mr5SoxH6h7FO8tyZy6Ndko_cJox6jtbquie137tAbVawJ1-YfUelpfCyO9LlqXSVwQRocwq2_OkUu_TxyJbNKwptKFqxOJ6oHsynydNpAwanL3ddz7_iId5KMIf9c8LgJc0bALvcEsbEhAG-AP2zJ8fcZ6Aav0IeJEPGhT8BRaqXkPcHFIYSL1hhae7Pn9pEQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJe0ly1gr2wokRvWwsYJgjwVE",
+         "reference" : "CoQBdwAAADcdVhcT3VOz4daAYDEO9X4pSM-zeekqdT3esNmql_vOibYcNPcI6dNJgvTCQFET5h8vvmrZI8wLO5aOwiUgYvJ7LBTc8ghsGIUEZ7R-7Yy2pl-0aWdJffoCttahSJXugi16ICIXQW5se-J4gxC1Sjfw5Ma_-nNVQeD8BQgwQ06REhDV_YeWI2V6BHRyk1MonK2PGhRfh8ADV1T8T3Xu1GSpn8rCiMlQiA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "2015 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAOYLRx1YGivfTpEf2tKgJqdal3_B1M0niYt8a6P-1aAZuWZGPyev2alMVqYK1FnFFck0dehX4eC4YX1oGgEMEAJiKxZh5NgqQ1O96YtUoNWKJ9nh9JmLFbM5MKV6pvgT_1Ii2d7qyXI3EGXGL5uiVz7kQPdYB1cEgxAwCUtH6L-eA4q73r7CG_QTblcWJ3rqLxIQfmxjPDXZcrXCVcwFxkOFZRoUvgLPPMJAmRoqIAgHUOTOTujZbek",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

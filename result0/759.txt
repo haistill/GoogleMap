@@ -1,0 +1,512 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHDYq5rm2P7LWuNfKZvEDg90Lj5L5nyH1BQRVTvV9l4VcOHDIf9AjvRh1zIIhGQpHxerPP7oKPt1j0Jk4GpyHPtLhfhkgjtIB6Xw3Zk9O5wJXvQgQLCmWNuGPO1mmVmFRhD8cWvRuUE-mON8l81TeEZCkKJYzIpzH847Uf9QL1lo93QzD3A8HsNjz5r_kf9IELLvmglqM2uR12Wwo9i9UkOyT4951INMmd-vBT2crIRi1mtm2TWLrULGwHRb8CIB_QZmmXBLRqyjJHt9ugJUxwLe31VwibJBU7e3BvU_VWxW48VJcoIuxqIVJmvntvkAWBIQ6NvdGhdmSLrfRk7O0N8o4BoUfx0ttDRPO69pzBbqJJ3XfcxDbBE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7350134,
+               "lng" : -73.9763913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7368846,
+                  "lng" : -73.9738038
+               },
+               "southwest" : {
+                  "lat" : 40.7327355,
+                  "lng" : -73.9798696
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e44bb186938feeede8ed974b73e24904e0b5400c",
+         "name" : "Peter Cooper Village",
+         "place_id" : "ChIJqTBaqQxZwokRDNW0g6qKWno",
+         "reference" : "CqQBkwAAAIAV7nduQq9cOoXOiF2qYeDWSRDU9iQZlXcOZN0vK2mnZcDDpPW8EGkAoUV1qwSnBrs4Z8et4nzvD1Axm4R16UEUUzktsGtYOJxL8_tqK5PzVUE1eKocZiE9PKkEl6r5nsqaHIqEYFMHRf1BKXCPYivAsm0nQQlQFoc6dpNxLcczdsPpa9Gifgp_ig4J8XHpa7Xww8wFUbAP8VQZqqqj2XcSEH9yb6GPt-Z2yNObQCNRX20aFIeIaapS6o1S8TGWY72uPzr1v5NW",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732848,
+               "lng" : -73.98169900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a880e37c57e8a19f34a8ec79256e732683c39630",
+         "name" : "Mount Sinai Beth Israel",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAATlw-vn7_VCjqMMKu_bt9U8xvJCXUrmjMcF1TPUFE125t7TDWMpB1-11LzOguOCNPLgEpUD8_zqndOWQfnrDW_Xygui8TOrNjDv4QkvRgU83yRtjZGJrKRUo8rbMHC3tdKNzlMvf4HBTKaJUch0ndkRIQcY2lfpQT7zPzD2cdhS6K9xoUj51g-dJ2dUHmnF54v2M-f0Itz3o",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJv3R4pZ9ZwokRjOjDyckXenQ",
+         "rating" : 3.7,
+         "reference" : "CoQBeAAAADjcg7uopYbovvXDytxE1ppNrHbVzNzU2nBOy27j1lRIClopt1a7o2_YtlO5Bbkem7iP_btkISL2FIYTLp9OJosHb-p4o9uSn_1Y-BQkkwYxVmIzCD_chOQgKHpAyamNAaTwf_gmN9Su0I5dtJhCACy9UVpTuQ3St70k-Lw-Js0JEhAqazhmcx1yomZSZJmt0EeHGhTMKNGeuukXqeZrcRzBPqF77-gu7A",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "First Avenue at 16th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733269,
+               "lng" : -73.980734
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "64f37c700473750bd2f86449efac7b9106b5ba22",
+         "name" : "Walgreens Pharmacies",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJkbDmDXVZwokRkApE5sjcp6I",
+         "price_level" : 2,
+         "reference" : "CoQBdgAAADXlD9QRCYeyypLpzjS4-uO21ZO9JZFfwrCbKHPUJGId3XiGMSG9kkp1V0eFkpj8jpoaBMrvuObJ9pNuNI0J4yjwojcUyfcbWqD4HfIUEFFay656bEByRasfjyi5y7O-JZkspfI0fv9VGsh_2ngsiULCmAToL9RW7Ge4leeyVVmJEhBpJ0tn-3EprP7amIQraQaIGhSYqZhDuaYiR7BRR3OjTarLLYlRZw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "298 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732994,
+               "lng" : -73.980861
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "11d48018326018cfe5f4548105ee96fee730e2e3",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbX3moXVZwokR0GI1qfUCsDE",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRqAAAASJRAJO5k0IahRT5-gyH73YptYHBEuqjzGmgdneIeM8U3prpJY-oWBjOdJxL_L63l5L-zn0A7A6q1ye6pBoahdrDFf1eguRdaoSv9rbKZ0EN8oXVQKC3kNn_JSg7Eg3116COPwDSJLNES4dE_q-XADxIQfz9hV-qpEESU3W2aICC8yhoUCoYmFnvkhxLF_6OjN-kYKYFc2KE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "286 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732308,
+               "lng" : -73.98209
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c3a8fc722baf66efb07fe4809b6031dc8c1831b2",
+         "name" : "Bagel Boss",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh7FAm3VZwokRpgzVD2e_q4Q",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CnRsAAAAfLCdxkWNTFl6MJAqy9GGcuQcMs8QDT_QEUowfaD2cV1SuofX3oTFNy0wJ9lFu8NUUbKhJTb79XA6rNgVKT3Ox-Gopw97M82nVudPbrFMS3ZTQe0acNBStgS3XcO2rrUfYSI_eEEqOBiZvgjog98QbhIQqzDLswFNqJajVCo-TUhUMRoUlj_C1JKEnZdVbxRDhlQD6j8kFg0",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "263 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731705,
+               "lng" : -73.977851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1bde1ac20b91fddf54fd7d9067f3856f46d8d2ab",
+         "name" : "Peter Cooper Village - Stuyvesant Town",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 631,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3GKKLC0mR-r_SW0Dxa-vallEvQ36u9JP-KTq4ZmpLE6QeilG_p2L_O_5RG7O0gEUYWZEDITSsxMIVIdILJF4WM4_wnUFV5HwB9R8xAo86nPcxVm4h4qVXEapKB0o-Ob1y3QkCixdORYsC4t28MR0YRIQ5PhB2iYe7bh_kbaXndHuURoU85l2gO9WhGV0ogWFGkeZshXCorU",
+               "width" : 631
+            }
+         ],
+         "place_id" : "ChIJAWLGeHRZwokRV4Dojw9TEHA",
+         "rating" : 4,
+         "reference" : "CpQBhwAAAIhzYHLK15rh7DnY9otsdKe8rgjpKbj1i78JbIMgFaG2bwiQtW6J8rTESKR6pB07oYwF0qnMCLJ2YZUBxZNFvt4wDI-Y76r_cRLI11rebtDOeSKUNbZvSgI1JCsnAq88tEQvhvaMd3KFGw5PBj-7Wf_OAKNN2bhOjfgOLZbeeRN4I6MeZGKb0idPZikjzt8x9hIQGsu9E09RQtiUVC6QCbuJxBoUWHLFzbe5fG_Egd78OB9lJ6H8ixY",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "252 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732257,
+               "lng" : -73.982167
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4162e02d871bd80ff880ac183a859406981b7841",
+         "name" : "Murray's Falafel & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAEOpnCc11-eWsRIwMa5P_Tn0cfpSLRFuwXi9qAso3EKA8ZJKsn5D8VjGcjDmZx9G9RgOFyOytF8dyGE-erVfJTtaqynM_NfBMxFelODOcaPolintIb1esBsLJY6c_n8TG0eSADZTih8l_06kKZxcXhBIQfhc_0vd4GcxOKR2aaT5K9hoUpt8pgYxvaveaA76SqQYPeSnuCrM",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJCSBQmnVZwokRnKl1ucsxyiY",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBeQAAABx5L-boEd1tmwC9utY4rC4mr4FgPKd3Ps0jH8MP5xhn2M3CuBCtoWz8s87_batoPfLTwKTzdLH2WoSDGEml6YcEmwJWTMG7tSO7NN9uw4nt3DDqDopXf3tweI4gT4oU4_1U3rIOTXeNBajeShhs_nTeYh0p_K7PV6efIFkxq6gIEhBeP_ZPT67aSgFjIFXPzh2eGhTZlQnBX2diNr7ncCyBgk4q0uH_Pg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "261 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73103,
+               "lng" : -73.98224999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0bde6bc758d13b945e3fdc59202de2b88ad57404",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwzHWPk8UKRSHemzIGpGiP6KneWjbcoXX_nFmjvWEWsL6ftFctsfsm8TWwEzKTlaTJ4YpCxIli9PELdhJTRYDCPUWPwqc0KQzdj8_qeeIaSZZYnioEy-f5FbtYUTeG8cVYFnU1Ic9AS0JbgLASAXbIBIQiowtIZ42VHwX5Na_VBPa5RoUy2Ii8q1ZK1Rjbzu0CW20EcZITEA",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJcWEq7nVZwokRrXlk25LRFU4",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CnRrAAAAjUramVD7hdoHKnWIUYMBkcjakZ-wJz4Xn0W5WwzPB4PW9JtHWGpx4nKWej--r-kWEVkTNO3sP_lr_Pfde9NIer7iwMxfD_WUWoQli_5TrtFY5V9bEwCmYkpcpMk4GjzI2VRdhNFf8GVWXQo88d3ePxIQ3URz78cG5lArlT-VaSsL4RoUmZeRugdnkPjuhJw0r1V797G7T98",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "404 East 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732496,
+               "lng" : -73.981988
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "95c73f7b7a2928269f4cce33f5f542fd902cc30c",
+         "name" : "David's Bagels",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu9eNKXVZwokRgEkE_Wk7F2k",
+         "price_level" : 1,
+         "reference" : "CnRvAAAALyOdC86FmkLd77_jiaPHQl2ikX9umgBNHH4PBMPmj_LtfP2SuMZEeZ9O9RvSGuPXX_bpMGEbHxThMmP1DTkBcpPZ7Z6yHpXgzDgw8nwvJHvdWobOgPw6hzXy9RO9shRBn3spJqYZABMGVfAbSLb-mhIQSGvmzqo4jDdMqqHeXpeAXRoUNqC30OYQM-Cq3UgjvyF6qQGqeYA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "273 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734209,
+               "lng" : -73.98139500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "710c4e9a0286a44b575bd12b5de144b97497a27d",
+         "name" : "Stockland Martel Inc",
+         "place_id" : "ChIJ3f8GOXVZwokRPBlbPkRMOFE",
+         "reference" : "CoQBdQAAAHZ3vHk_awp6jHadpCyLUKZaRYzvKJtEHffCfWk-Xfti95Hd4lELEszru_B6x1vtKrt1Asggnm_J3oPtUSTWnOETW5Slv4sm9jxay8WrhS6E19CvSso1mAtst4IywxUd1hqcwoaM9n7ALO7F6UpvqI-AfohENgHczMJumh2sI2UIEhCVvzWcAC6ZaJHU3Dy_QA0KGhTzILyZUXb0U1oK1QRCHkvVmxZRqA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "343 East 18th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732189,
+               "lng" : -73.981551
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d66b40870d42f338804337a0bc880355778f08d",
+         "name" : "Dunkin' Donuts",
+         "photos" : [
+            {
+               "height" : 471,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1FhBVtRdcA7utkCULo-FQtozlFcarsMSNzyd9E5fUhHDnTH11hxsJ0voJRD2hD3un4EXPyb1yF38RsKSr3yvMgwTMcw2TPNRywIUVcdARIn3F8y_AXX_VJLlxmyjsta-s_BaFiEl1JJ5Z5pT7obDHBIQvtOz7XAk8gi8jHW2kAZDORoU0Z7XfCXt5RUpGC4JBemUgPmfjxs",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJUb5wmXVZwokRRdkeA5brzzA",
+         "price_level" : 1,
+         "reference" : "CnRvAAAAwi6EoKl_CrMU2ZoFgh_Wz2_wA2RD0BZdhN2GJ1Z9Uy020qKqoITquW7E-uXMKF3R3yzCweGAwdZErbdjbK9r-YqE3xzyRNIyxFvMAVZhqe2wb_TZNicW1a97CB9N6CCd4D2FegSouBiHn5_IzvSFLRIQlKGjsL8t5L4uLI-76L88uhoUWpgup5Vzc6d4Tzpl-rSpDrjcXBg",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "266 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732902,
+               "lng" : -73.981009
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d7842b9e2d2538e5cc75917f86176c0e5b6d361f",
+         "name" : "Brunos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0U9ShNlQvdQhUtpXjL5b7IvPOTy6AVgN1iuDTIAjHeHso4PX6Gw9PInE3-6r3P6OdCSZJDxHn7MBMFTgIw287VnOa6PY-JK_L11xH8l6YevUgVtTJ5awB1j3m0lGs3a-teFtQV2jSluw9Ljb3hk-zBIQloVBszbtGkVFggZBkE1IgBoUenZ7HRoJED2rKuYwwSWt6_B201A",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJSWd4C3VZwokRXnQKr1-GCtQ",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CnRoAAAAqW9Ga1y-dgmKWD0g99uzK4nr0BalE0gSx1GzM6fJIz6359DzmSEOn32Tb0wvxJTRc2RG7oG5f1uqYVF_9es-RihCnn_APnI_Wex0O1cI82NqhG9YrikK4oUlzGHqWUdX-2o2yJe2IThpF_x-aBgV6BIQJPRYwSowyU-iPf6A5etHhBoUEcAc0n2Bh_X-ixi2SHj_cfjQspM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "282 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734252,
+               "lng" : -73.980722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8980f7e01565f195a6e834d1b5fa3f31052a57ed",
+         "name" : "Adriatic Italian Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjYCUebmcM0lUTiXqoZCLoJzfYQKefPefKzNXFZ5DltfhAi0AD0d8joJXIFrHD4gxKRa3U8BeMDgfgs-Dy4HImxZFYg6asRSE5FM8wt6QK2NzSVwr1uiUK9E50XZFGTPb0hMrKSj2vkfT7ybgmXMbshIQXCUIZqv3Q6bVx8DNURQBXxoUcTDRT-9L2T7gYxknBtIor990KnE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ0Z0dJXVZwokRYXI65FMJv1Y",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBfAAAACdQUDIYF4uYRctFAWV95VibGpHLCq7YkCookM7JJK2bb5HUNHUd3kDWPebH4k3mzh-8bnj8IpMWVXWfbZh2nagHnnrDCX0QXtaMzjt6Zhd9fRxY2orRVg-qffYEC81SvHp6PJTq1cnSEkLBzqoTic1CEz9emCcpESZf67IXQTqQEhDw6sqlkrqi9_XxFlFN9UXPGhQqcyCQ4XywD4fufPYopHwq0juVSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "321 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734158,
+               "lng" : -73.98085399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de643929cba8025341673c5dc03c512f5395a3e2",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQby4H0w4O0svUYefRAiYbHa-HhhH6WDDjoU67hi_-La8qG4QYwuV9HGBiyscnibGjCyWavSN17gpDzMGLf334ynvxnV4Qvc2rUfDRYbM1Tb7XJkkrRpuj6FE9nSzlZS2zNglizalNbUafg4kKb4uJhIQ5KTXwwI46xLrNCGHGJQ19xoUdWb27Mhn-IaCKlieTawrqn4KZ18",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJjYxsO3VZwokRQgptvB45AZU",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAvDDn7u_6wwoMCBY_plPjBmTlEduyUKidDTJC1Q6JVx_mmaXhbblZ4cgWFpwm1CcBZ7MwFHngcCNpKgYeUU4XEVpo6Ia6h-oKUqGZBeZ5d7_TT2yExQcmFBGl1C3WZthwpEHEDK2l7ClKeYYsBVK52xIQW6tiA7xJj3T3L9ioT9Vn2hoUCYwXVjMjxVmGU8n56OH6n_-g8cI",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "317 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733273,
+               "lng" : -73.98161899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4a81835c83c3cec6de0fe9acc4d1dadfe9b12e5e",
+         "name" : "Beth Israel Medical Center:Neonatology",
+         "place_id" : "ChIJqd2yaHVZwokR5wczLrkDSow",
+         "reference" : "CpQBiAAAAHUszAqp56KTV-Js5vAf8pk01E3rttigCLiqjfcdHX3HZYemYUe2RGUcjNKhgBAUs7knYm_uBwevw04rwbpr19TCgc5M53KicRjbPwc0_AplAgDHbFsTzgzdt6vV7wRE_pBT8f7vIXvWefcezw0h-ryMfgQoPPTEO6sJJd8lXKFCJ7JurxZFKmdvOGHhM7nUPhIQuQ0zIvBYw662Qb4VmQrvMxoUGKPTXWsuN4kvwK8hM6PnakqYQiA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "350 East 17th Street #10, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732151,
+               "lng" : -73.981347
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9805efac28b267494c6909bf44627486a0b0d951",
+         "name" : "Red Mango",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 468,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAHnJ1oWBPorancQQW4fcAm3Ss6oRPDBOHJ5MurWfGgdcTDBrSd8f12P879aSckRXuWlM-8wlLLVenqCHkMr9bzGLF2MaChlTyoMI9uDLw7lGx4HWt29rbvfFxQlk2dQ0SGTkc0_ysTJLRVITGNVFRwhIQ_eMVh-GcBrbnhH_yM3JxSRoUsMSDf-KaIS9wfguzOLcvbxFUhvo",
+               "width" : 261
+            }
+         ],
+         "place_id" : "ChIJB5somnVZwokRmkvtSw6oPhY",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAeOIdBqO87fDTdQb9MnsLQAkIm_u_zCOdne8GKkoAE2Xf3Q_Zjx5bV6sbFXO9aQLfOFoAwvKDWf3DwOAcCnCyY-dgzpqPwUOyTHgX_lhWatpn11FTmc8BF1uIRJYbWUXzOxOA3xg7VRut9OCxh_oeBhIQ_Z02vthSKKWOLouCOsGWlRoUlLCB3Lr11LDBJByjCLefS9EKyeI",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "264 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732219,
+               "lng" : -73.981432
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "47d9e7bec19dbc13f85acdabc4730696344d5d1d",
+         "name" : "Chameleon Spa Nails Inc",
+         "place_id" : "ChIJgXWZmHVZwokR8wGtZTtsGIo",
+         "reference" : "CoQBeQAAACjQTECQn6DrDuIh6SjSY9G6z1QtpCrkeA-GPSg4RSJDn8SUxcPJAzaGsBEthllA__fATTFCHYAnXTk54CeCnR6zr1xBYTj26MO3wc_x_dBEorqYIXMC4FkcImkBaIJGpdQx6NP5r7wF-hbd8PBVQrZKXmGASFe-Pm1Rq5VSmzEVEhC9e-uzYg8Qjykekea-XRRiGhSgzs-LxOxbldF_I5Rg9lH_NHKHuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "268 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733274,
+               "lng" : -73.98161899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44c244dbefc641d115623a3f6198ca332c749af0",
+         "name" : "Beth Israel Medical Center-Medical Genetics",
+         "place_id" : "ChIJqd2yaHVZwokRQoI77nJcTpY",
+         "rating" : 3.4,
+         "reference" : "CpQBjQAAAPSH6eWPcQZKumhnFj5xpStf0zqSfSruYzsFEgDRiqCFP8I5kUtMiup053FPxtHUz6mOjOqFQbRmmnNfsZsTRzvtmweDS5scBDIcPMoVZRz01X_-XBnvO5QLAsZ5sAm5ePwIIAYg7kMEYzKA3v2Su9TBb8facJMAsoTV5TvUaVmCexD5cJkE-w4zwxAde_N-KRIQ3Q5gVOEUGh-LTEGvecBSZBoUOBpC5QaYuXiI4bt8B0s0_xSzDOs",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "establishment" ],
+         "vicinity" : "350 East 17th Street #6BH10, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732191,
+               "lng" : -73.98218799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "765971ebf0ae9a5130b2bd30641479dd21281de3",
+         "name" : "Asiam Thai Cuisine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAqMeQgARfGb9y5XpB_kzNGRipQJfgQKg0R9XgErCktReEF0Jwp5Lc8AFc4HaDU5iqLFM19Vqf0BL-sdhPn8AMD-Vdm-dHzJA8qUH6nZvQN1ZItQ69e5kmbF6aVDF76qhhRQbibPEpvVDcxLHPhxccShIQeYiVO_nHURqWcij4ZGgN8hoUvwdxysUUKi2ZdyQycFzZLOqZHIw",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJT1S3mnVZwokRPVCAUHmwBRY",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcwAAAFNozvuQuBMd200KU2B_ljVXIBmmkUyTuITXyrekqAkN7oi8x2c2N0ukY4pE2oQE5Efg1LfgxiaOWTqNNzv1W9XDtcxMimthLMCpOw_K_rQjfzZeIv39tSBsMgdfdc5jRmPJCMoBtEotDrgqyaIT2WaEUCxJAEZXsRQkxVyPMWDWEhBv2a0dJvv4iFDsXCGPQXUiGhTy8e4pw7P1tXlKkIYxrDjlzLrq1w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "259 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7316903,
+               "lng" : -73.9778494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7350027,
+                  "lng" : -73.9734363
+               },
+               "southwest" : {
+                  "lat" : 40.7284215,
+                  "lng" : -73.9825694
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e3189df5fad8cde88d3d908a109a21e4fb8f07",
+         "name" : "Stuyvesant Town",
+         "place_id" : "ChIJoVoifnNZwokRBOHAiYH3L2U",
+         "reference" : "CqQBlAAAANuBUKwb8MLTCfs61h3EBF6oUbDgaXb8KembL5M9gIsi5J2V_PQWzGZvWsVuYYMzJDoxkFk43Yc7dUnlf3ctQiycjEXviPu_hd3w9F_p9_4jBikFj8g9aPnoDfxL0UIVmr_vl33mHlVxdxcLm_1lxXsbprSg9uMF2LfXkr4jeeyMytqYbI5k4OcM65W4k3TfmgjKoQDgnvUId184GB8JchoSEEfPxh11-Su4p43bADVGi9AaFEaVYFanLQ_LZO85iqyK9GElJFO5",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

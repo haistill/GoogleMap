@@ -1,0 +1,552 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAANoPieWErxHijXK3uMKqI3_KMjJQj-u8q4iFffVQT4TnYY36cwRTXAIEWeCe2KYtlsuCbV1LX4Y1ZFet4Qzs9Dc4likT-9sYmN7Rhni1J87Dio40WR2djkSXAEJ-Hfh-AvwnmOUMSwk5QoaSIBmSKg_orDi5v2smtVdlhsiWW1cABZJtyxDLgYG7uaqwh1srkHO1hMs9deT5TJrCXy6km-YSeDR7qEHmef-h2ybWJZYgvu1XmdZYyzFwAzARvpziZUtEoJqcUxnBPwRKc5t2NY9f3JGnPAWYrMeA0Dz2QyuQPZ1fvaNr8vioxOtbeZCYSBIQ8P_k0w3y3rpkvwWToPAgORoU1tTOu9OcMwieEOyppxBBlcKkTjU",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBjAAAAODfjtDaS37Apf1n568_FauKkqwYG6DUDTgziy46T4-HQWLG2kWr5rg-K2oquW9qzdg-asjCfNXcZTH_n6qESgKCs0ty8p7pr8KkhFj5cPFzenGSvO2kh1ygoK7RiSGbZxpHUs2HbZAqQy-OoxJ2zDsM3qSemjW-W0mDPekuypT_zGYgpmGeuuIwWDqWBvC8jBIQ81EZIJoWLiT2x-szrCGujRoUV9jhn1rZiJHKki8kfGLkvK8eMqs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722075,
+               "lng" : -73.986794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c1379bb648322b9aab08fb2e55b34f19ecf2f0b",
+         "name" : "Mercury Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAA-4GUsT0CqUa9b2auf1ZkeobYyecbYrlfOGoXCcAFBJAbqK4O9QZgWruA3Qd1-TEINL_3zIXuC1LsD1vBrvzt6Lz6CZN6w4xzqsZUzlMY4Tqdb-s1sbHDuhFXFKA6xQYfzmnjqZNqXJpPeIRb6QuefRIQVY25pwZJWo1YCykBwX8qQRoUhDQ3YaWUHj-I39vBp5SeH30o1d4",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJQxzbx4NZwokRfWXvfisf3Eo",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRwAAAAyGb3bjc6e03E4iJf-pnWwPXp21AIXP06NwaBmyq9NHXbV2QaBFCquy2qR3OK01ecUnZR67GKROoeZOfoPPABL2VSbuNPZU1LFvZOXtl5r6o13dlN9qCynEV7m0qD79hEKYbSUzmoTnkJE9UPEbGBmBIQ1IiBthynln36UOggYn9EeRoUYLQNY3meUgwbzRwXICc6lnr7pRU",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "217 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721189,
+               "lng" : -73.983867
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5f5033e68ca734236432d99d0361e68ae081ffd8",
+         "name" : "Clinton St. Baking Company",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcQAAADQOQXhPGKym8gOmqeGCDx6Up36HVpidFrT7YoDArwrYtdvaM1UAyvCd2WysG6UHYhKwFHNwv8GrqbTyM1SfM5HoKhupvDxi6IPYgC2Fna6b50taywWRL9hHA_oQ13uD8ed93otGhNM7sBn43GuBHuLCcESYqXiHoLMf2cYptq3wEhAJSq8cQdsIxGvWWGz3Lx6DGhS6XDLdREShR1-Nv1QZkYDaw4fqEw",
+               "width" : 611
+            }
+         ],
+         "place_id" : "ChIJ4Q2rG4JZwokR8TVjhflNfMk",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBfQAAAAHa9m0HMRdo0VhupmOteqlIQ6-NC53xJbE1T1yxey9JR6ClAp6sbGhz0NWL1K8BzOkEXCYOn6xv4ZjSTIPoDMavMtKJlq0COEzIjJIJOjCRjLH342-E60SVa2X8NMw7eICY8K3hQgHBkzuHLuI9vGb7S9OwVWzwpq7As8XdGE2EEhAnhH0A0Z2gTB7ERy5XVKpPGhRslLFynadiHld2OSdgnvPAJgiAxA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "4 Clinton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721111,
+               "lng" : -73.98567199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "77ced39308dbc1f9320e74ea04bf9171ed2ebcaa",
+         "name" : "Angel Orensanz Foundation, Inc.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXZ6wkWdhyzDjX54GoCLuHxuLZrD_8sJyxP_3My6a4mg2Ods_ld50nAiNrP0TZOrTCdZeo7Iy34Y2ks1KK5pyjfPYasWvbisd0l_hReQZiKbMSmV0EZ2tXujIAoAkldOUtNndl2EbTVtcWKQUpdAHHhIQ9UBpZfitgYPDYZ6eRIBNrBoUIOShyJkiBvoxUUTFq3GV2_4pu00",
+               "width" : 427
+            }
+         ],
+         "place_id" : "ChIJ74CXLIJZwokR3QKYbOFrY5E",
+         "rating" : 4.2,
+         "reference" : "CpQBggAAAEtn1KUgRnWtVcMjQxWffOfFtORt7v0Rlp8JnqWeBDrHj28f_0mxMPd_l2bfbbd1lBkBFkpBgJkDhXpZfPDepK-sP9Wwsf40vDdJUkPb_jkAlrp1n7oy9ePd9xMXr6qOqjHguxhxUQPfW60Ip2aH2fQecy6AwCglK-1NMzNGluzzV_2dfa-hiow7ALHatN6qfBIQRMZpW4ENWBdgI19w1-W9ExoU1TBWOfCs6eZj-ZQmjlMt-bX7CtI",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "museum", "establishment" ],
+         "vicinity" : "172 Norfolk Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719316,
+               "lng" : -73.98538000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f80a9b8bf9f42c3cacb6bf59e3672311125a210",
+         "name" : "ABC No Rio",
+         "place_id" : "ChIJsfJipIFZwokRDc713y5UeoM",
+         "rating" : 3.5,
+         "reference" : "CnRtAAAAVqN1kmdXCTz74jbp5ywbulaHEopPuGBg9mErurEYTshS4BlrPi-AxeaUqbU20Pgw1zPT5uyejWz5t_aLF-qzY_CboM5nLBT11GTcPHQmyYdHiUl5dA7MaOHxZRol5Z_LIoNn5Mopk-Yxq5SGapo9lRIQq7kdAnShSB6OejAjczlhYxoUulLjZxKa8KxERUaQs4rPpOx-kg4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "156 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720468,
+               "lng" : -73.98692200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dc099b98e85aa6e714f7d2841b34e68f43e0a2e8",
+         "name" : "Beauty & Essex",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAkgvQs_Mg1srIMHq9JD0Q4zyo0I7ljUV_TFh_zK-T8ULt1vAbuL7sEEnljbmIcGehm46VnYTi7tWdaeFHJSYQu637EDsU-vLmhJcvTq62fMNUdJ344jvI30pskbLNVCW45eod8neZ4fHBG9O3ajYdBIQPB1VZ8Djkp7fxCa6YC1R6xoUAJ5hMV0Q8aUZ6pQgRuN4deEAOI4",
+               "width" : 1638
+            }
+         ],
+         "place_id" : "ChIJJWCTb4FZwokRLe7HgJSuHFI",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRwAAAAKDEJix_Qh_zlIzVZwIX03iEsmvaV8-FTyNMRsoBdbYzNxUKfEqXW5eRvILqkfYMNZWi2lkogQ-f-HS-8hdTNdfDpefi-fP5ZBcePkusVKNJ_ny9CEgikW5AU5z_2t57E7N1dbDgt9L7ShhFDz7uq2xIQAEJlj0PqBikWnPn7Rw4MZxoU6NybN5q_o_MynkSePpaq_SPjpmU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "146 Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722,
+               "lng" : -73.987191
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0046bf5e5e2551776fcb59881bfd0bcd3a52b2aa",
+         "name" : "Il Laboratorio del Gelato",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBegAAAKnHJMFrdHdf0R0mFy5lfnEkRBfKZbnuhFwp1d522A3LmcsgK2e9It3wsSSZB6bwj3vfBUr9PecBss0BHsFwgGGuKneJqDrvA8tZ4xi4xlDjS7BJmIE-NoecNXSyobPcbddS6sUnWcXdyGnY_3-4nZHfrOj-8M4jcsNjCSz0JWvHEhA3N6_JfeYKSYi_N2h6aj7EGhTivCIL5xXC6lR6GWRZZaiYV6StNw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ6yiuIodZwokRoAGoRh5xSlw",
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "CoQBewAAAOUEqieRscJFl1ifx8OpGGl-vUMSEFvQmS77EmsuDH4TbmL_nMJs-bTyDLndhTG4fsF2g7xTxbOF3RTiFYrECsMEw5bGfqfCXhPQ1lXLpLvNCaxDKEslfsw8bfiPHyBo__KX86D21NEzUEM7zOdi0dX9V8XWJfItqIB17yQhDG6FEhADiHqN8J9QP2cwls6T-MlZGhRRGFwxXf-cBPrmJRRkFOuA95tPoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "188 Ludlow Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719418,
+               "lng" : -73.986649
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef4aa01f27e885365c54836ecf30f04c01f4a1b0",
+         "name" : "Schiller's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBgwAAAO3mfo_D88OcpzWs9OB49NJLdPbtuPzja0En9Udp-iVVh-MWlqvuwcUQAGpm1hVBBfXUmD5RwHDPBqBI2ZJiWDVhj_g5kY_QKB1SPkl0joV6wgtSwdJl-Ez2x8ptHj5hpJ8JwW6Obg_CLvV4vlkC4Bmd1OXQCzDgNJ75PN1RcLbjfiSArV69iN-_zNpO1AtsDRIQ4E-lD3j64OpWLkxViLxuQRoUuf04gRx_-YBCkL7eC-zVG_GJd5k",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJd8P_EYFZwokRhkpkLU8lVWQ",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAAet8dqfcaYymj8sWmj0y1hcwqeJlwCoi5QsVN7FesO9fhDd709U7zQ2Vz8f2xlyYr9ulm48f7oJouKjRxgvleLKA8OBKgvt_Am9JDpqgBNLwtE8PXiBJKzKJP0yBTARRMo8zJK88PmuB5CCxGGR1HrBIQhGKQDZAVwenD7vL3FxqMEhoUYGzdk36evtNmHJzUfj1aimqi_5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "131 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71876,
+               "lng" : -73.98700599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "28937dd5e2869040a8706f60cc2ec93ad43d67b3",
+         "name" : "Back Room",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAFGoyv6T2JUx2CSjxO02lAqcpvFq2-5lSIf_Jf3ZbG9d2rX-2imq3CuGpAcT2h_CfqfSA8-zZMlboafCZFPgTCjByWpu8yROS5_DVyB5m9OSApDCpqFK1jpCfwM780cMYntSx1qktl-R4kjgD8U5rBGS-8CGNkfghPje7wKsjXffbzotEHUVQ9LWDIS0Ds4GNRIQb8-uffbuPGOnlZFrKq5g1xoUKoSRiN2NbcqPHuo0hy1Zu5cRjk8",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJnY19HoFZwokRfs9FwDLVRKw",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CnRsAAAAZFQRvFYr3qICzhlcMfEXPnUjK-P0TaTY7aVbIvPWzNAajFvKPIBDr-YJhBmA5WbmGPIt6HmYORJRxzmqmO_LSQpfGITJB0l7hNBj-AFx0qnHKE9x3Y3X8YUtDZZewgaTsIZ0peKfLygWiWaR1cv6vhIQA9NW_FZgnEsHPpWMbUH7oxoU5bGmHViPJ9Uio7TMSH53AisLO6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "102 Norfolk Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72026,
+               "lng" : -73.98386499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "1314f3d7e3f5432704148cbee8a37d24b51469ac",
+         "name" : "The Stanton Street Shul",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAANtJAyLa3cTqtn-lFOcdQazlWSA_Uhbgc45Z9jW1zgbWtDojbk5AdIQp3VJeMnDOFrC9jTI4Oj9OATHrP-HtFllhLmLD-nJD20GswxHoitQtz1AiSD17lvL3FlEuZe9Tu6xPkQQKzfiIshgKung9GxhIQ3r6kxK1C0jwfacbfkLB2HhoUw614cMYbpRjQBcl5CyiU_LBsPds",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJRXTE8IFZwokR9E0touHbXjc",
+         "reference" : "CoQBeQAAAHiZH7WEy5nvEh6jqcJcmjy1SJ84_bRdHjEWGetB-JsfY-X5NFrxPdyZi1LjtQeGMDvwa5XMyJ_NZrwVglqtWAWoG1g5zr_Xu0SliDbP8uMxI8OfDTop5nmSlmrwzmt6cxyA8zoojpLnbFUvEOZynuEqQO6VUlDRJcp80033EJq0EhDcka886oT7usXIDLSLK_-hGhS3aSH6o6NLC6fV3eIlnsO2cmuGXw",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "180 Stanton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721071,
+               "lng" : -73.98321300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3a97a1050c183b051b6ea142f89c7c363040ca81",
+         "name" : "Parkside Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAP4gZx4pzYyFtLfdQEBEl_eNB3UGtTBM3CpU4AkR9IbIYFqG-5NR8_pW-jEX6COs8in5dO8PsxVm37dA_-N_Ioj1psoCdreKgudy1swlSzJsmAjZ2rAdQMVrMQz3M9H5DDwjDjkZNK8O704mtubVg7ycTAM0gc0Gt0x8EOGdZoDiEhCrT3kgl51VZTu6PplmOKm6GhQzdXNfR4RmsJjh44rerv2ZeBz0yQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJv2vIB4JZwokRQbbrk0W6I88",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBcgAAAD4e9HoSMtoHSq73PmUaD0vYmgARBbzFDPkJAKI-9CaKyTvTx1EW-QnMOleQXQb4ZHwrlXvX5BLiWDSBzXk6vcqYHPir0C-hE31e7dE46ILDOs-eN2XXIfEKVfucSv83lPw5N1eQzHy6VsJqLXu23UQRv3_XeXO1LjHxlpXnh8yBEhDXbK529eo35srQUYxATJCvGhQAd0eaQ90vFlNpIy0ZvuNrqqTtLw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "317 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722112,
+               "lng" : -73.98654999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ac69b7aa670479a24636fbfeabc35dd25f6443b9",
+         "name" : "Element",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ02FkyINZwokRR5424knS-5k",
+         "rating" : 3,
+         "reference" : "CnRqAAAAf4ZfwwgOsnhK624JRuub0eGHFLqVdudXqNQVN8wRVhj-O19WFheETkDN4BiKBGkQPXgvC07CO0dEsSn7_-DsKAGVxp6V2qX5tUD-aommfqE1wWAewehwUuFfSPBx3K-H5YILW80WpzwDCWLjIi-DfRIQFLbgQvHpnH_EjKOMVZZ_mxoUAJZrHOiXSPP_8tjKij9K7gQ1G5w",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "225 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718968,
+               "lng" : -73.985264
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77641b93fffc930606e5fa9e79ef4389c2e47a61",
+         "name" : "Yunnan Kitchen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAAHmHgd0M3dXByDDxdJRn_oC4qyqFLkj8r8yn4LNb4Sf_RouaIQ98b23kPsm2oxSXGgiCYFLdK6onCxPf00CY-wACvJv0uaGH0wsqPtvWGo55wjfe0yNyuqPKQOQuF32KxzI5V9Oc3NbjIa9GGMQkEGNsgLKNofpJEbdS6cPauMO9EhCNdTxlyCjgcR_m37t0Wsq2GhQvq7isuGdTqH4ZdX0AAprHI2586w",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ3fixuoFZwokRh-pQq-wwm8U",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAAO5OAxYaVCM2bFqAw7SbHUUtC8aiCo2N1pk7i3OUlOnFqeZf8fJGdymvi1Uz8loN7ndMvSju0WYiFApCFSE4AWHfuDfxRjTGFv5Jkve7z-QjwpeepMu6eosWPHSII9KMX-5v4ILEZ4H_cY1GhSalbeGy7q0ewlr3R9YPMGRk-vVDEhAnMtwrsMfRu6w6q0iG3McMGhSpvVhHOVH7zt3FK8PMFCtEXo_BRg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "79 Clinton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721969,
+               "lng" : -73.98455199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6c7e7eb4a7edf491f7c318ae418334b030bea086",
+         "name" : "FedEx Office Print & Ship Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGeX9cOf-tmtakBwWMvLUeh6untNIaHTCrl0iw_hmxT4j-HAjhKI2-mSUQ_e4V2JI85XjuPRL_ON8i8cSOEg4fD_RDa5k__uZI-Pztu5jj9dtFziISVb9YPOjjLiEnVJlKAZ7kY5al4Xz8Sc6o9u5wBIQPjSGJCUcCQaduefTPColwhoU-nwZJLrswXXI36hSbNuz5sjIRkI",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJNxrWroVZwokRxy6NIZ-TeRc",
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "CpQBggAAAF4SdhKP9nMUYAhdI6CqWwXJaYG8IASQIzZ48eaL0BMXaBtoLLASbMDyY8asQ6LW_BcaJ1dYpv1g5BaAioR-W1FlYABsMy6aMiToBcUh9snfFhK1n1986OT_krYkmvUA35mWsxG5izVKCNGUhhdNWv-SXBeg-y_orkT-uRHun52qdtwdFG3sNbAc_9CM3PnWoxIQafibxLPRerxmZ7VwptTICxoU1X-LkOSUpY9YWNnTo-x6ZR0NJGY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "250 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719289,
+               "lng" : -73.984827
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fd13d4691e0a74cc068384328b9639cbb1832d3e",
+         "name" : "Pig and Khao",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAI_L8SdwkXp48qQMjtvh3inquGS4GI8FPjsZXKtMA-J_TEbOFsH6RVzTQRiW2q1hDmLeKCwNhx8HEin_XimYOJ2SjLk6M8ycD09zARvHJGPNo_pzqkvREG395hK-jmcObxXzMTv9OlEt5W5DTV2o3whIQfQOjHEu7rebP9wBmbt6SbhoUKYlZO64IHhsLwKEaRYzavjmDoq0",
+               "width" : 550
+            }
+         ],
+         "place_id" : "ChIJrwEBvIFZwokRY4Q6tww-Am8",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRuAAAA2bsnU-s_vKjGJGDiAmj6soQDZvV2kKczkcKNyQSHAl5lbannqAdbi3xTp1v01qbEh6Xp2fknN2qsYmS1Vb8BpFaJdxtIKqcMJ6X82vwn_bqSsaVvWOnoschyFqV4EwlPmWN2OHmFLb_OwGbroMMUVBIQ7pZ8ZVIvp-6Xf6xdzg3SnRoU8pILYsPYU_IHC8NfWQRlYJvLWv8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "68 Clinton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722034,
+               "lng" : -73.983244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0b84c5fa00d4717bf3b5976f8886c2f50caae5c5",
+         "name" : "Cornerstone Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 252,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEg9X4N0FLXVKLlCdVmqBIsM1E-XutPJZ4m7wK3PVP5m2lXkH7RStt9Xiwl6-DAykX8G3fvGT0-T9Bif4iBkGh9FU3bhainjiPILFX-0p65Me8yAO1bHnYRaFFh5DBolsIBOAw_FezdDD-aVUgX6OcBIQE_ZK_nLECU-Epsdpkm7MIRoU5wqKyGcuR4aEOMU2U0fuSFZOCMY",
+               "width" : 378
+            }
+         ],
+         "place_id" : "ChIJ-RsidIJZwokRLsKWfvhmXhM",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CoQBcgAAAJAExBKdwKG7o22nEOUez_523P__ZBiAo4P_5vbt-vYJbvWc5pelMKMEzIs5Tw6LSQbhd3CQNfksecAUNm7XTamVSm8uay_Vv4RUGpm8NOdfjbAqO6qVHirYIxHlyY_Z6rfqocVORtlrjOxEdk4UlWs7tcgCAnr6-5f1l4idBF29EhCHsW7k0M6toEfTabVW8AlsGhTvP36VZTJ8aHvtSxSQFrYs5aMabg",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "17 Avenue B, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719825,
+               "lng" : -73.987005
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d61db6951300c9ec3ebd06dabe250de6fd6ba8e",
+         "name" : "sugar Sweet sunshine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAObdwABbCzkZp6lxyuOwv8PVpVSrY6dnEr4XEnVLBaKZqGJ08acK1fFoGmtxmCLg0hRxRyEXWbCWmr3IJdE5YFqI_kxhcQac1L6On9IKC3g08MAqsD75aav2pcJRlBNkqCoADvCqd8Q32OONXoXBbVBIQBSh_OTnWwDcuRYSuKArNlRoUlJEWdUUQFL2b74paK3rnkdSs-L0",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJme6ybIFZwokRaVisOt57fCw",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CoQBdgAAAA_cUrtUhq2-771gE7qmQhDJezl-CAf4mFWUboHh7DHkxflnPAceFecdwtbPWiRkq1j9UNfFjA7QFTN2U6qF62tsHeq4sdD3bGMeORSW3ek2sfDQUDlyscvhi9xe-B9Vj8NzSA_3EMwfAWEfmxkHmVmJVvxkFXmTKhSi3JwiTyehEhAEnld58xx7JTfQrCaYl9hoGhQ6aLEKmVHDYaoTT8X0MEH7rjDKyw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "126 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720926,
+               "lng" : -73.983943
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "097029b003efb0b0469c42be6e3e0c93fbbdcecc",
+         "name" : "Congregation Chasam Sopher",
+         "place_id" : "ChIJQ157G4JZwokRVzXu1bH8CYg",
+         "reference" : "CoQBfQAAALlO71BqaObQlPa0Xl_i9XdQR1BH1tNShSGWmPagT_nNCrpdTp3D-YSNZaClagg_VcL1R49YvvChFtjgJN7RbbIgD_tEh1PIRTyQqOYhedTXzKh-2KyYRS8LKx3cDu3uHUxCC8PBn2L-0dEDumUYdXYBRwWiffRqoJP0I5kNdubHEhDmOaK--tWlMni2XPCVlrCrGhR-Gdhs9JiGGKRtJrkfyh9k7N9TAA",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "10 Clinton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719802,
+               "lng" : -73.98712999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "59bbb8eaa28a48f2179cbc68288a16af3abde5f9",
+         "name" : "La Caverna",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ2z3KFIFZwokRpLxbFwFRMLM",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CnRtAAAAcNM7aWNJlV7hr1qmrTH0BD3h3LH63rzMvbYbUYaLvsJNbKY6u5K6751PJf4rlw13TmzSIAqlba3DicpI1gn72lWs5sruwIr5ri8tOUry8qbxLZWXY6UUd2Y6lDHjG5zQCpdfA16mD-CmBjXIUPxnRhIQx_PIQshfDXtd1FLL0nj-aBoU9CgKwMnjIV5XDhSe_2fr9s_thHI",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "122 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAPqkvTRNfY1xVZ_hWJEgoqq8ENlnriAteMJaepwnLoWIWVW7TZ3MeWuEntxsv4sIxEEeZY1lLr8HOjbJW6iNaHH-1dKZpLs589Xah7WFdpbPvyViOzJd9bb41t05cc7AFPWpEE34Z8BLGKJ49-setM7Z7oSwVsgbXSk0uwptsLptJ0cT5gPAiK_br8I0_7A8AxIQZ5RvSKeK4MfWwFMIdW0tBBoUlis2z8VULr4N3ycAJo7z6TpQvdY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

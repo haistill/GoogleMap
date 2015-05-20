@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8431037,
+               "lng" : -73.93291019999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8616275,
+                  "lng" : -73.9228646
+               },
+               "southwest" : {
+                  "lat" : 40.830377,
+                  "lng" : -73.94103149999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4a056bd0da8af8631509ca651f52201ebeb810a",
+         "name" : "Highbridge Park",
+         "place_id" : "ChIJI45ivSf0wokRMw68yH4_DEo",
+         "reference" : "CoQBewAAAOjkZtxcCmACM9bEEJB1hDtIAqVxdF3XSTQ6as1GCogOMMY1mtK5br1D1yIChd7k9aAL7DhYJIDkC5Y63KY_7aKSc93Gv2Ccr9Zy95sBlHYHeKA8Twp087FH33MahYgjf_0VucuQ5XMf2ncZ2Ml-jkPDfTKjLW0N3y3wddp5pgQdEhAAVLSAitp057E1gXXqPfqSGhQb_T8Gwi1nfXvAxdXwUFMcPeZb_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8384699,
+               "lng" : -73.9271644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.845579,
+                  "lng" : -73.9212058
+               },
+               "southwest" : {
+                  "lat" : 40.82827899999999,
+                  "lng" : -73.9334059
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3bb502c9c49edb1389bd4facce536589ff32aace",
+         "name" : "Highbridge",
+         "place_id" : "ChIJB7PQnSX0wokRNMtwLxuy7ng",
+         "reference" : "CpQBhgAAAAJVGJDu6c5PCrc3lLbJr2jiGUHSUHGmypHxayIKyRf_EsWWVFLZBvYm8oz2mCk7C4emknvawb2QEGeNAN-WFyvbuipRhaI3MMyQVz0y6YhzBWKUCrhZvK3JpFyx4bEqqvv75gt_p31O1BEs4rk-9W8O7MaMtnMicMJeII_yyEK6Xj7kMNvtUTNAv52McpT--RIQHN2Kj9Qa4ptQSG-bcgWRxhoUzIkor6wlbTYAC0AkwV_-1RJ230w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8417082,
+               "lng" : -73.9393554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8595902,
+                  "lng" : -73.9224529
+               },
+               "southwest" : {
+                  "lat" : 40.8281291,
+                  "lng" : -73.9505678
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e30d86dac324190bdb532fa02192a66c8f309138",
+         "name" : "Washington Heights",
+         "place_id" : "ChIJyzs3Vpz2wokRBAVKClFzdR4",
+         "reference" : "CqQBkgAAAH0qQLqSXcqYp-DHKRZa91nl7DI1ZyxuAvnPFz47UpXNufxF5V5Nio2rUpB-CCwfWAokMFerYL94Pyy1RMr7MR8KVv97FcTKS-8yqj9Y4DCpLy9afckAeiI1gFh8nn4_XSAqbz295lA4RYZBMixqSCbD_1sl1FuT5Qyh3h-Uiw-mkTKRZmLdfIUg11tNz2LWW4IScc4zfL87xlcypWhCCGwSEKbBPzc7LYEbNOstVJgfE1waFDt_1n-t81diUzgO2VE381EUkQFu",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

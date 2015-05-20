@@ -1,0 +1,564 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJIzQ8JGvLyA-bV5nGnIm6ns6A2qf8bbBJItuYH2STfRh900iMNEWBJerXxzfYumxk2WCJ4u1W5SCxR_Ass8w7iVkXwYto-WefV7rrA1ZWRLVhUvp4WTRhqnbCxvaURGuRp4qs-urr6-5k7kKtgiAY2jCeLrOeCG0lcOuFFVDLvRUMyxDn7iflHGV-_wMDrt4dFqXXBG0WBsuhwrFX2P28ZgDplmVSfkEbJgqJ_MbI4Yck5xWXv2K5wO4C7skJ2SZawj9xTugOWRn4e6i_nd2wDqNFqAZcTAf0rZuW7Mcz4u3sAYh0uaci-XAtOWzVYLMRIQitrr6z6j5SN1szBvmW0i9BoUMPx5o1Fb_beq2b4_OPP3R9-Vay4",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7735649,
+               "lng" : -73.9565551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7879499,
+                  "lng" : -73.94221689999999
+               },
+               "southwest" : {
+                  "lat" : 40.7583091,
+                  "lng" : -73.9732511
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c05550b4b3b86c58916714a3f960403754ca40bb",
+         "name" : "Upper East Side",
+         "place_id" : "ChIJa49ICL9YwokRDaotFKkGh2E",
+         "reference" : "CpQBjgAAAAvcbye5S_amDUzi6AyyR1rSUjieeCYHvSgNuZPQt8slSgpFY8BCuZQlwzHHnwnmGtHnX7QbRIQMSSiPJnT0wowPjAvZF8FnLOGx9xeN2f9pS-DgspR8UAir58koULnfMex_C2nCgOtIcGlXE6DLVa4uUEG-lytWIkmGLKJuIWWR2CmS37IEaqbWd9lDK1k9uBIQO6ue_iQo93hrogr_VkoGZRoU5XgUvTuQGRSfs5Qw63jIFM-C_0U",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771423,
+               "lng" : -73.95902599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3face1e5f1d1acde61f837b0a6daad32bdd424b",
+         "name" : "Candle Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1700,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAARp6dTSEAxLy9oUhN2BA9a8_IPYaCbo4LvBYxcnrxEtCZZmf-ZaXIVPxvYRtzk5VodIftBfIxnw-XGphNqeyoPE3V8CpWJ7FXmVk3pOj-RAKewnvhlQu7KOR2zMxkUTeh__1JTN1_Mc7Z6thu7eby-RIQSP3ddXDCnXM8p44HfTzIzxoURQnsA_AI5k5PDwZYqlqbsi-JaGg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ1RRX_79YwokRD0QHGf9YnXw",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRtAAAAMo3Ua-_w_Vxro6H-2N8fLCynrjiu3XoG7YaucXCpwKkg7cWsm29MtiggAs8kafrF8_VYAXTvhsHbrn_b9eOdxUlPF2Hlce4NW5qWSDvN1U5ljbzztcoYpwGP5g4Y5rJsiTcdmUhm9rj_6FbtqTGN7hIQ3rQHhH2e-TSNqVQnUBLDJBoUEs6ntmLaiZDE6tS0-fHSnBPfFmk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1307 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771069,
+               "lng" : -73.959345
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "467581e5e097a735f18a9043c05c706c5b15f0f1",
+         "name" : "J.G. Melon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAB7s2fwreqcHoSTqWXpIMsciXbCYoYUxPzFiGZ4Yq6YlIsBaaX1xBhFdz9aMQe3Q5EH3_9WsT8IoTJPI_NQi4h_YNmGzVxqP9gGj7I8RESZC_ksFhvhVPuuXlfVZGnQf1cz5_WJYK9LMwPoFMY1bWZxIQ6nyBngQp67Wp8u_ze8-KlBoUehPdUg8avyVYw-mfJXyZyH6MV9c",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJORutA8BYwokR6obC5YpaamM",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRsAAAAIYRIPiO28uV7P3L3EaiqY4uUZQ1xZBFCmwJr4P0dygmmgjiFCgAP-xBqZz_QfzWVF8KefRKYfSewt47lXZ1LgA3zPTT5RrnDon0kPJi4ENCVUqCAVqHyyXbDbrPSCAtbjdhe3GxQjfH6npZOCgNcgBIQ0Yw6ZmgEDzXNb943e1geGBoUpa7-zP4ceF7NStBHZXYU2Ezw2W4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1291 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769526,
+               "lng" : -73.955465
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9d9e2b94b8484d9567e39605e12b34c42baa5add",
+         "name" : "Jan Hus Presbyterian Church",
+         "place_id" : "ChIJLd4i7MBYwokR50WnQ9zoF3Q",
+         "reference" : "CoQBfQAAAHc1uEneUQi0MlBETxmVFVspYUZKWDeGKkz2czlpsWMx02Ks725RKQbSgDIAseleuLJfb9FLI1huf2OuKYmxp1A9hRhR9xziYRR3fv3isphvf4afzsYhEe4eA8woL6SbZf-GJMlnx8NhgszUMEPLlaXfWlzAlGNhrBrEHypajSOLEhB8duk3WLIjL8R-_dqemyRvGhS5J2H7bq20XgpwMvztOi1NxuK_Og",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "351 East 74th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769408,
+               "lng" : -73.955155
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6f16925990b87705a565e67c82f0e27a70c8ba3b",
+         "name" : "Numero 28 Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 770,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiz4dVowuEfWn2-LKguCid3FEzpVxknFrfEn5EoSoFW2460fQpgAWU9H6AfWeRqLzY978GNVU1KqUg1b9H_bFUBXvOFHwH2-wbrYkbKweYeJw4XtjGi4auF8yZtLh_0_3mJz9dEmpoEkTY8E61kGusxIQgwfCuLs5JkT2984ozLyZgRoUrnNUiMRladmAlUWYWCGsLprYXJU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ0dUd6sBYwokRGHjmguTmyjw",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAACx5Py-BWP5j4wfKH6C2BkPVqtTi-MAE0VpJnVsjNda3TmbZ8aMtBD2vF8UZGroMu07kYdWTqgyEyax3x1UuCNKRaMW1yOumvakk_OlzeR1JBNHDIcaSHs4rzTo2XdOxPJq6bOXTFkhx5XFh0N3fYbhbo2rTrYGLOAnBBqJgPcd-EhDd55Ko_mZ-daUVqJhkao7PGhSHQ0QoBJqUfoPX65SnoXZTpONBIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1431 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769127,
+               "lng" : -73.956474
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png",
+         "id" : "4f3134c57b7c7eaf3dbe4acb56266674d843533e",
+         "name" : "Bohemian National Hall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk3BHbsPb5XtDeCjDL-yuL1mawjgzfYefnPSjJIViIe2CWEYTFSlvGLAeExk_jyp38dOSLCnpv7ZGALNH6G7K74xEMPDvvRcl3jF8R3JpDcVKv6IRgYkeeh3_-8CdDqfG-sc5X_dj7sR7-z6uNWOB5BIQgpkVN8tIyJBWX0Hayl8EfBoUwWYr1XCwizX5c-RqJCOU8vrSb-w",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJg3v1VcBYwokRlxANwIA-E58",
+         "reference" : "CoQBeQAAAHK07LdCZjcNeqh9-CMZaSuU3YJFlW8-G_vP0Q2b6C-41rengbcly_bx6XsCJyieQSpoQz250gx7S3tT5u9yMPdSn6SZcwNLmbckiNy7sQ-IT1ROaF_Fsn9p0jepn07VONfctF5gB9vEot_qx_nOQyqUQgQiYs4SxH9QPW9sDL-oEhCTVex8zBY4ile0SIcXxDuVGhQ5AEgvd6GV4dnd-aN3A4_U1p832A",
+         "scope" : "GOOGLE",
+         "types" : [ "embassy", "establishment" ],
+         "vicinity" : "321 East 73rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769842,
+               "lng" : -73.956192
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "788e832c5226e5e8cdb4287ffb886a71a667e342",
+         "name" : "Holy Trinity Cathedral",
+         "place_id" : "ChIJ-2vs8sBYwokR8XOSXY7J3Zg",
+         "reference" : "CoQBeQAAADWEfzAsgA-OIB9FDMgK-_EBvwENZDsbSUvCn4efh4YvtHtw5KMbV3zceD7AnUsEPsRD7zLendlkS27dV9xglD9c7ra2Ew-iLQap4YzTPYjdDF9zXmgOaaWkOkI3WMJrfVAqEcAD_BPx78qoQist3ANRGNNsuT_orlp_x_ljFOJAEhD_0k71iVCs2ynDAdgccuvDGhRjecrJxGHT3XfnJvmC-JoSY2ahtw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "337 East 74th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771219,
+               "lng" : -73.956345
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e2a57e92ba5457cbf44d8a80a044856c9483c815",
+         "name" : "The Stumble Inn",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcQAAADW314Nu5fI2msAuaKYECko3mV9nRo_4Ae2VL9Bew_f_LkVxtla2Ni2gqQsq_0990OktrKEYFmoVhzkbDlTCtyX16aZ72JKd5YPCdP9sxKad65g02WgVd7rcWwGTGK2o_4huCkqAJlzKihkpbK8B7RsWrXMsKXRZpEStDcaVAqmLEhA8x_l1pSN9rpBTz_W6ZR2NGhT9VdviYF7Hj-CD7BCm7jw1JAI7GQ",
+               "width" : 460
+            }
+         ],
+         "place_id" : "ChIJZ0kHf79YwokRoyp64RkoMeQ",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBcgAAAH3ocFXorBkpiol6gaCJzZcNKw1Bs7lsq5qsKmHkl95S4BCn4NRDuTMgGqv-iuC5zXrAG9TNiyUeE4YVomPvi6iVpAvATETnoNTDGXDG3HaamgC4G-4QGcxlDXPjm5qLOMivACGy5IsSP0TpijQD5_aTCdNVAI_f9QAteR68YlkdEhC5-oPVgH9Z419CLCoZSlOiGhRvWOF5p1Uykq7EFduSKTO0PWIn-w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1454 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769136,
+               "lng" : -73.95640299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "da899e2e8e7f6162a9df99f91d7263c03ab9c88f",
+         "name" : "Hospoda Bohemian Beer Hall",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9Jg7m4JNxFKXboivy95iiOAFDLmlVzt-LSl8DQCHHZa0hOuMASgfEqO1UdnnuGAup43SZhKmrUe2gmbr14KiJMw8E_-h7vO1tFawyZk5uIVTtE3nOPFGfIyJ_0NKX-ouJPkrug-25L3a1uzMtfOk5RIQ1FrMyq-TANFyiz-qVpfoyBoUsmVZWlEmxZFCUAdtfJsRzaTqScI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJg3v1VcBYwokRxJIjsnofiaI",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBfQAAAIWNqXjNZ-2L15NPnOi_VcxLSc5lw0f6VK72_c4_nBVrOyxu83_Qs6VHgjRMKg4oMS9rlZjwx1Poi5itpC-ar2NNG43VjZP7iCxDG32BFCqRAT_4Wiv1k7YlAiF1dbO6vxgBxr85tP4ECBikEVrh00zEVg3Bv0ZGES5nHyi2R5VIEhCpkh5IEqwT6_9Uoi1mfEGfGhSHoQ0JCmpPSfLVs4cdjAN1vgJ_LQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "321 East 73rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771032,
+               "lng" : -73.95508100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "535af47da1984b22013b981a5ba1ef125cf68453",
+         "name" : "New York Sports Clubs",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ70vDn8BYwokR4HmfR6-HBOg",
+         "rating" : 2.7,
+         "reference" : "CoQBeAAAAAUupQ4M9IOV_HqAgEKOH84dkHiiiwI3b89fkn3pnOEwKvrkcvYHBFDC01o44h0m61rGxHY8155_VMmAgFxPKgn1LDe6SDRuu84of8UWQEpQGTlzft4oSpfRTlMG5_uneWcORLVKV4o5dQafxLKabosWvJo4nx5xiPMlzKRBXeP9EhASCKptt0jTleHmq03AK68-GhSTRk-5ESgFhNk9W-leV9eDf-np1A",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "349 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.768418,
+               "lng" : -73.95503100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "372e997916bed8cb78ee5f20a07126e6a9c9d96f",
+         "name" : "Sasabune",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfAAAADrfpCu2nfFqFby7zp0P_wpwm8vThjw52NIGAAwTBZIvwsltGd_9OpGSMLV5mlwJTWfrrJVi5USntG97EmbD4ZOZgaVHrrkE96XLC-jHc-UEEiEC7rt0KWOO4lWaYjyQO1pvIGvbcHLnAPLWILGBWD75IZxekqb8cOoIzuSdyxi1EhCOyqqehXxRYVPQnJd_DEEpGhSz4h_hRr0H6uh7fSBYsLRpN3lcjw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJxeHh4cBYwokRrnTTpHq-6fM",
+         "price_level" : 4,
+         "rating" : 4.2,
+         "reference" : "CnRrAAAAwmkPxgBDzZkN3bojMtUFS9CsqIEkc0txC8OV82Upr_ydc8jrqv1Z6xLFvCJ-BxAuS_p7NZ0KU89VJoMQ3KYXxSq9u315wmKf7mxBPaNyk-Lr9Tm7GSFaVpmlvxsY3i-Yrf9iZcTGVLD-dwIBDpBi6hIQ6xbdAOj_Lfeo26rb71nZSxoUk4fnh88Lncf9yFxXUW58_isBt-E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "401 East 73rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76845,
+               "lng" : -73.955862
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b2ab5ae50906b6cc5ff2d7d3aeb79299181bcb5a",
+         "name" : "Session 73",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZoK3Bsq3g_r5SQk3epxVM6S7o4eeZq-Asmn38IyBFlOZElScz6SSFqTllDoajtOKDt-bCdtMseAqgJsTGbZ6eyIOATmdgVLnh30tJFCiOxyDQF8cLsvQHDIX5sBpo1k-auAVtXy5RmDaYFZwtBfHRBIQCy1-RRahxMW2AxsQAertBBoUVugvAHorcWKnzZZaOEKRjHmhDqA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJmeOVAsFYwokRGkZMqwdOLCI",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRsAAAAlgkppMs8W7ISwVoYtFUNUJYWVzBvCaY_webJaE8AbuMgYDd5jjQ1KrEjwxzs5hpqyBPkPLNYOjlK1ypA66H-tea4Btc7voss0Wvupq733-eB1CEn86gSUG7Q-RsdlDjHYyWSI6mcbjtdMfYUU9E3wxIQvUbn-JEXK2MW0pEJD2smVRoUf0JWhEgCWrh4gVf1W6oNHLEI1b4",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "1359 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770516,
+               "lng" : -73.95741
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "013519858f3c76a60b38f823c352cf5411acce87",
+         "name" : "Equinox",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 560,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAUFR7y9McXAkK-vrHkEaIqOfEak7EckLrSa_-PeGInJAlJVmYcS2lzuDON79VJH0EraeIIYh3l7tned3I9RjJNuZdH1IYCAdbKMANH1klA5V9cCyJtO7GHD6DSBVAqhqTiA0E4UREklOqVYo6IIdxchIQNywB4o_bMqftir1TA2OvXBoUrGN50TAAfg-JegeEP-ziXo-WO9g",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJLfGMb8BYwokRuRgJ274zXas",
+         "rating" : 3.5,
+         "reference" : "CnRqAAAAVOdHDu0FrOClJ3qhm7JpfWqAWgvfKwG2X8NAZfkHrUEAqA8gV40BIbG7uNe5vSZhaRtB4rmjkubPy39X36NDK6oJKxlbPHQfNfciJaiE6JgDVTSS0vyXbiDpsTCFms4Ue54GqV-71W_5kg4PVeGlfxIQ1VF-Ao0JF_1O46Jsw_y8kBoU782YPm3y84ccdmLx1Eao6JB0BfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "1429 2nd Ave & 74th st, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771054,
+               "lng" : -73.956288
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d850553f8375b565c45efb3fbb2feffb6ef0e4cf",
+         "name" : "Iggy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJ7Hp3yIQVM7KlOlpk1WXKm0LY_NQIMZN4PEuD_Dfb1h7gZSXtbSlZqll2S26nur9NqLeriafgdpbN5nFXwNcqHpraMMHXaZP4xArnbovnIkPnPepNH7aGzkeNBEXpI-joe5I-0pWQEYpU9CEk4vVGhIQRjYJQuUMxTHtxnfO3AialRoUSRoKJKr6l_WJGhoMOHdRCsA84_s",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJx40Yfr9YwokRAipeh3042ds",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CnRpAAAAJEOKyKk25POLe2OjlKt6X1rOkWBQajRbnOeGdS5hpoenAqcw8ruR-4KQJR5Gsj4ClokV2ZefW-w_vHZbZ_SGpotc-WPQOqRTkoBkM1tEF_zyGkmTlvHtxZd_mJXit8rWJXqiS7igXGByRLhTO9lBmRIQhVX31Ax9af1XmNsogzgWphoUu0Zszy4p8WSPTWudViomYYDPXGc",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "1452 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769802,
+               "lng" : -73.95791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f397033c31abe0930370765c0834b863ce34db0b",
+         "name" : "Persepolis Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 916,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBegAAACTf2JWXIsxnr-x4MDBSSy6VMo91s_MQmg6N9SvdmBSvOGkExAA-qfq7pwWqEgOxZHclWFNRd08wA1rTlYebGBb3y3gF4P1I8or8iD4oHlflh2UxgU4x7RYZq75r1CQqp_oWluYy66xhMeKl8c_END3qL4jng6XaDDNpkr7x7i1cEhDZTbweRYCPx9kwRtFLpUD-GhSwjtKjnv7Cw8WEZbo6C_ZVpl4Zbg",
+               "width" : 1364
+            }
+         ],
+         "place_id" : "ChIJ68H4QMBYwokR42l6M4OIUCM",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAAONLwMccV4YDIny2GJK8L2gypz-Fhi695fG6fFNTJFW4ObcyDjjRxDmUFUi7DLWTzjuT5ByamTfeVshOxQ3xTKSADQjnCUZ7iahmR7uH44j3R2CdenVX591pq746NhWXx2grwuXCnkKf-safJudEB_OzRrQKT04IfHgHxbqEUOMSEhCZnkX1eI0rg26h0clnF_5-GhSeTPov-yxCLJoTwKvOKG69dKlDbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1407 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769678,
+               "lng" : -73.958018
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dd25e97299aa9be9315fef588697c99948e66235",
+         "name" : "Bounce Sporting club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARAfq7xIqBf4lCt4C-Iy32sn9R0EpkGxrebtd10p-ZVa0_k8zvdiD9PocaFiAFBzKv6KcMlfzRcIL1j2sarFpiFydThlgcIFHZGtzi_D9J9vMCr3PyrLqMDVX0XR_oEMCUls3aEem2Mw-dRJpIrkZ1RIQ0VBis5MBKiMS_uMVjV90BBoUUT7UZ0IoeHW7GUyqwBEMqprdw5g",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJiQejOMBYwokRsoM3I3fsCzQ",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdgAAAMnbiS6Fxb8eDitz1EaeOHnqR8DM1wo7M7M63WGmwSzD0DpuRnaL3kPmwEo6yZS1hC3SfKT6yjCInGTU8Mkfz-bJtV1ZRydrxfnI9pIxJVT0nwukfyVc9QKuLrDhVI3Wn3B2VHu0XcJr0tPT_1nno2oYjUj0GJjE5WZheaq68ePkEhBf4-VYYjxtYdo73X6ZadYTGhSwml09RMLScKTdUjexPId8SYzFAw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1403 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771239,
+               "lng" : -73.956838
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "948659749e941ab7270f74e26b4216f9b401f227",
+         "name" : "PBteen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 186,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2dF037fIVmYg7QOvAfbgo_hRS9Hit0Lw6AoWBTMvNYY07mVAXVeiL-dvczh5d4rq1h7vrbO6PmByKwJVcip3Q6zJg_ph90OqYmHaSlmjKgOoQNcgCZWk3kz4aUe0Cgzaceoq0bLWBSTw4vGI2gh71hIQ1kqYg7kE9dP9XEfKL7KBmRoU9CDimb7ikbggmZygx33Blq72Ocg",
+               "width" : 186
+            }
+         ],
+         "place_id" : "ChIJ-Saggb9YwokRE9th9HkRgck",
+         "price_level" : 3,
+         "reference" : "CnRpAAAAQ7IHFb26rAs-_xSsxlKkppzpredNLW9M6KTDzEOEYlFwg0Ly2ocerF-dQnOwtnb1d3GqS4Xm4YuWmBhPA-My9ddh_H-a2h7Qlpt12gBui8kHE7O4FXE2epOPkia_nlwm-DYK2ziuJ8YyhhhEy8bk-hIQdxX36A56J90oo-W359lLAhoUxR3Vx9spCzaJNeP2jTSXxlpjMTM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "1451 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771024,
+               "lng" : -73.956479
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ae1f9abe0656878e96c61756ef49aaca209e128a",
+         "name" : "Go Burger Bar & Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 133,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAtxCfHXPd-9lFy44g6n2JDYjgBMH_Cy8NdNPQFSRjK4T02bHJeSTDsy6oO_MafBDVAOspdo5ZoTYYW0uR2BBz52rttKvmnvP9IgCYKLbAxQ8TYF7duImKp2zVDlxfyMNxOQtDqPqqSOjrQmSpPnormxIQ4lR0WMQu5_WQarpJr5pMUBoUp67S8dnTPB29s998KiiKpH7L8Yg",
+               "width" : 162
+            }
+         ],
+         "place_id" : "ChIJASwGgMBYwokRAkX1cdmVYXE",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAAGsb0nD-KbLlqwyR7-wr5vlrPEKJ-LAdSf1JvhQudnPgwDu6rUx5T7W285apGx6O21fifvRBIcFBBZk_8IDa7nTYxpvbp89W98k-dtVaPp4ebcieokNSV_AAqWbsXC9JLO5uv1yb8q_UbENpSUA4H9NXdRqtR2XhRrXa8xi_h5EEEhDIL9rdibMOeCLlqsoRKMjgGhQeCmy_-Bb0DH70u73znCUD20tWzw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1448 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76849,
+               "lng" : -73.955174
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0d230af20011673c6d18bde1bb7acad7f3748c7",
+         "name" : "Bareburger",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvafsmbuH98O9kVdWJS6n-JXGSBqX_jK7A-W1xMS5y-YzmSggyKU1OmSsUQEMAexT0Yv9x9Ux28LQU7qg_GSI7v_TyzI3-4Qn-AMgiqJqVunA6z3YHoNMoftcv17bhBBSK2aSx1bNIkwRgCydJACCthIQb9eaHdtQL727qui00e5jVxoUYl1GLMBKrJyUWXR8iNd5Kdl0eZY",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJn6oa4MBYwokRznW0ipMrwzU",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRsAAAAPApCH7wDVIudKRur3DOLJQH954wS5nyFYXSEXDlSg-OB5_LO2gU1y4ZXNCQcaE3_ywbwDJvRVqEO9msgRheUwNutFi19IxFJqwRMG_JrnTs7OycNbxbrQT3RrpBQHyc-UZGezPOilHWvMJlVtFBESBIQOw-VEXRlndi5c6UpQCzjuBoUXO4TzK85jxqEM7FoQ1e0H6rQQEI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1370 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAAJe2nOtzBsGS9DYO0zXFKw2e0ZwcWZD2xarRrGL1IO_Nrwe0aEIRoP37Bv1fxkdSmo2NjWM-44NGHWqxS4OHAp0Q01oeB2o4RVe9zqyWoSYV5GJ5t_0-k92TZJtYl4TB39TgS-zD1Q9awp5MYrf8p0jSnLCJf-XczPmnBjM3kLbyljDidJXchT9cazx81K_WURIQBQ0uq47NGoIiYE7dR4TfyBoU1zepOyE8pnS6STThO3Eh5fAK6q8",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

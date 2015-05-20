@@ -1,0 +1,572 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHXxdnIKciWJgqxLfHLZPnguxgFfGvR-Luhzr72Hpe1XIQRviMgzDMBda94Ad-KPXDcaqx83z_zXGAjJnYd5oZtikUhtVvRzJsoNzpHz1gie5VeikDoiE0RKmwA70Sl7cS4nUj0FtuM5qNgLQmksjloVcM8aBjbdKvVPB2IEt_fq3f2BKv5Bf_0xRymZNFZTN8FesgNc5wHVV8U7ZXQKVW7pB-X3BEgZeCKeSxFidfxiRvI-x1F75PZ0yhcY59I4OWIb8xCRdkTCccFv9Zi5128DuSVqf7kWW1eLWUdzsot6HG4JD4zFJ2zoFlQ7HWhk1hIQPlre-WYYqE3-STkbh0KVZBoUX-tIdkCT-FQPUhNJjJGN0yGsqpo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7162692,
+               "lng" : -74.0086323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7259498,
+                  "lng" : -74.0018893
+               },
+               "southwest" : {
+                  "lat" : 40.7113379,
+                  "lng" : -74.01376329999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "ee80b36568d70679aabf48b26662ec0a10b5c210",
+         "name" : "Tribeca",
+         "place_id" : "ChIJFaeLkx9awokRmCS-Bi9hU0U",
+         "reference" : "CpQBhQAAAAafT8N_DklAxonDeMyEGRWiE2VzYFt__tjMUdkrnRvJlmZCLVbnMnlhRnt9WKLAVy45hLoZ3PYzl9T0GFFATPfp9o4E00m5AUIeozgXtdR8Y7Q12KSDVOxMeD8x4ZLjghfQRy9TRxzWbJlqo5he88FOgdwgjx26pEBKiR9g39kyiDaTlFpvWo73tBBAlNALQxIQnydbgg3_Fj5PPq_M7iqvJhoUuHHIbFOy4j0KDcCNZVWiFXpBdi0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713784,
+               "lng" : -74.01295500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "478278912b3c7bf50776bb9ff9fc168b53024b6f",
+         "name" : "Verizon",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAARL3kLuEaQQtQeO1FuR-LyJVxm6mlhr5ZZfoSFzaEwqhWx6Xvkv9RfyReZ97ktgnsnZ7aoIPL7BPSNfRC6gRznXQTskvhhDIgK3jFL3AZPpdW4UZ7pOvDfqqcqRhGkxo9VEb8dDVb0M-X8FSqgwZQCRIQDVWIp4MVSoVCx13WyX3dSBoUx17s94cbQk2y-rGt6po9_3l_3Fc",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJg4z96RtawokRPuIvXmWLVks",
+         "price_level" : 2,
+         "rating" : 2.1,
+         "reference" : "CnRoAAAAd65ckFUjfPNzn5Tx6h42Gs_ualr9HOZzikjGT0XTzRIxPZtlJpdgKkz8Gx6hD0YziP7jzLwM2RiVs-eK84oBN7OGJpmvN_2PiQoRVIY0aySGuz6i235NbNvbNqduIRu3bYkOMLmJ8x4-nBH3pV0RLhIQFOqZ3-XnwcHvhhkHf9RkVRoUDo2qULP1tHY4aKFtdq9Dye3A5q0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "140 West Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71525,
+               "lng" : -74.009975
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af079a1b3e02bbd887af785e69519ef29783dab2",
+         "name" : "Church St School For Music and Art",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQp5yM6feqlShDn_liPRdgxbw_ONtDrlXhDuWMhTmtMYGK1NAl--y2l2Trwj0s2zdHSJWjWRRSHGphPhy4v4zSMzavjPnI8I-uQGtx2-pimTijKMFQ1azgAhiL4UmKRGr_4l1-zaBIAnzkzwain5I8BIQ04IKixrEmJjuLtqMNwiO4xoUKYxu4s158hiErV-BMGB-4bX87Ts",
+               "width" : 798
+            }
+         ],
+         "place_id" : "ChIJsaip2x5awokRkHgu25ZxsK0",
+         "reference" : "CpQBhAAAABld0lE12FoL5nZ0UQdofWu-2ZRpyTO6M_Mh_c6f-Nt6LIRbB5cu-kXUtFrO52TGkMNIWTEKrUL2hH-H0zlR-Jtdim8He1pqYespQxT8BLFJyXEjlQ8P6Df3LYqTGbqGvNayW6cLCELke__7mbg_DyMWavXUPELj28jNbRdM-rT4uTUsPaLUYBWwMsD0KRV3mxIQTkKdlBEJNmgMkURNkxuRcxoUfbvLYM4O_IcirvCV_j74ixpBRd0",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "74 Warren Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715531,
+               "lng" : -74.01146900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "27f938a9b8e0d3d519e1144f1b51654259a2f49e",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRtAAAABCNh0E1oiy5LjZurSTg6omxK2Bqile7EIGP_Abnu-qGQBUHXMB1aIZ0gxRilCOtypGEjVxhBpttf7LEqoEyTYmGfaUbw7Z3r6xWSVko40H-dyxEHBbntlomHKIvWIICI5tNQMrxSNshR7QGC4VBmDBIQH7fUPsF2HHE8npXYhBXu0xoUPl5S3pW3sLVUnuTmnYFhOURDPVE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJl4BZ5opZwokRUR0n7MrTIEA",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CoQBcwAAADlRgCp3NerwzxeEWvdfRkOKtk9zwf1wdWpTCk-i0un8F6jd-m8UnVu305xL8jbKNo_DJya9pNsn9L4zVaOLO-Fi9BUTMNdk29MyxY7DTFT0aIkOcmynsOEvByCrMny1cVLRZaO0hB3ACIFTzKIV-jdCip9sioLb9K1xE5oRzlLBEhBMcOpPFvb-2hTMxtoXjzFpGhQl0tQ5eNcRNnHzry6FRqNETtehlQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "restaurant",
+            "grocery_or_supermarket",
+            "health",
+            "florist",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "270 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715655,
+               "lng" : -74.011689
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "923e98e4be75bee668f8bfb30fd3afbf62533207",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ82g3sR5awokRxn7MgUTAsaI",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRwAAAAHVCx6NgBZkvR9Evv_i60y-PF2-qQgFmBvvjwdL6GLv6OSUOQoZEsxvVuIKFJosOJwQQ9dCTrZX-4MjG0_8EPw09antSs6z3f5jJ9k5Bt57W5J_SGGBYYoL_RQqwpXxqeFQMxR-OKqsr-f1St-PkgoBIQYJXJjL19NEZZfQtJz-b42hoUL5AszTNAD2hKB39FEBr3pKyxSG0",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "97 Warren Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716813,
+               "lng" : -74.009381
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "44f25e15c74ddf968a4bb88c6bbf0118f6d34e80",
+         "name" : "Ninja New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfwAAAF8Jd5ZezGoO05DZFOWctsGxEKEb1FusGziHcHxJq0KvPBugK-mgLySpnQRoR6zojTDk1AJ3i0gii-b1Hb7pHQD7elavOXpHV-J7NkTScbyUbXyy1NRH06ie-Q3n-WicEV15Hsd-O0JX9QjALnEsSdnTAhF3kTc1i-nTWeqtfKkjEhD_BBShcsUQri3Q8oFjSs1NGhQuaiZKEUW6dhD5Q90FtHKmizUMLg",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJs1fnqh9awokRNdlwT_9hPwo",
+         "price_level" : 3,
+         "rating" : 3.5,
+         "reference" : "CnRvAAAARou0nabKeKKM34hKcEs9ooRIma5mgLdAW2KDKsaEOLPa1bckL_4PqxA6_keMsGWS6dqc6WG-70xPlsnpUpkiCQci97Q8FgJfA29bmFfn13Pi1iFMhl9gOGaabTaux86bS7SY9gc5ZH_y5pU7EzCyxxIQiXX-t4Oyu2kcsTXwV-fJbhoULHYLBrSZMCOyCqh5dhTX5FkfCOA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "25 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715702,
+               "lng" : -74.011967
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2e33e63d38a8ba4c5c3d273492bd617ddd125d79",
+         "name" : "Bed Bath & Beyond",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJpRBbtx5awokRM0cNWodkotA",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBcwAAALzyDDH1vNwGyVgMGDMN9q9OnnFZdJqaYdVDU4Z7SrK6dfdYF84LhN7vEvzkrIyCV8yWE8vHEuUlUSq-7ksytGjVed2RxjzSK51m_t-lOk7M0HF6F_BCZ-blVhKGiXf6aVgsF5bjjRS3jXpE-Znmtqd31jKOm-j5bpc5GLMrhDmPEhBO0smHiPCqcYueB7_vNpuyGhSlpbqncU2fUi_pWF2qJFgUJeQUWA",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "270 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715104,
+               "lng" : -74.011045
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9be176bbcba6d94b5564c00f941d589a33975d7c",
+         "name" : "Kaffe 1668",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbVMN__fnQYHY-TzQqMG3w52fgZ2lHjMBEWqoMGW_m4e3ipkMQk7rC62AAauSZvxFTpqvYluxFVtb2bbYHXve75f8tdvJCQAdw4fzZI4i8_EzsOIgUvAPH08Hr98JFpf9v4x11obNr2fxCD4WdzrybBIQML4_Vu2XdoSXETuHs0e5ExoUfNC86ooMbfAjnWcBxaFsMRYaEeQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJQYmJtx5awokR45_sopkXVNE",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CnRsAAAAHRLw0ci0F2LJJW4bZfAeL8VH6w4fu8mIkp7jw7y-FxNUOIEH1wmIptiYwij5GL9bDWs32F25-wAjixz8uF1Fq3gNRnVAkTmtUhNMcfefeMZeL9HZvpt7M8_ecR4xtH3YwPpTQjLsziCuvXoGcNWCHBIQHUqi0k35h3aFj8_J0Jj_cxoUunB85eVbgLgmQI1tZ8vUYmaVnJo",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "275 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716014,
+               "lng" : -74.009928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f89448c52d5ef48f78767ead13d6681d4a63bd3",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARDYadKegwQXdu7uBb9BUSWmSluarCD0euwsEgAGKRKZhXnS9FOC6YqS2_MQv4PNQrqgC5ZxhPcgHIyjRmUkjt2C0AGgP9_YQmRJgU7Olq5g7nIV-FF6s5N4oSzGccGiC66aAHfmCmKhkonNjk2DDahIQwu85ViPnD8jgd0R5LkatABoULTiezBnuvXhz89BR7qyUJtjfxIQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ9XyQ5h5awokRx3Sa-xR-I7M",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRoAAAAXjhNGOj5l59ylzeB7cs864vQiyWZF3-adRrWQVR5Yo7-5FsivmqmHV43uE57qZyqzO_4crsvBFSaOaR5onJLpQt6_sJqGD-Tcv268nDAsefe3BRwkwfF6KVsOJ-XWJ40YdW_WPHsbHZFlPPCH7m3CBIQhIiUADVf5_k19U2DAcmCNxoUFtSuqUncJOVrG4It2pdrqMM1nxc",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "153 Chambers Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715475,
+               "lng" : -74.008909
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1869894fe6cb067e947c583d9dcc3adadf3403ea",
+         "name" : "Cosmopolitan Hotel Tribeca",
+         "photos" : [
+            {
+               "height" : 686,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5zTWLUIsNcSn6ekDoaGSJE_FWLfiX3dxRBcMmk-oKBAbNC01nVfbBVJfrog9E3zyH2PbI-0stHiJwVn34Ubk8JF1vhsPfieq1ZALSTXDb4Z0Xzm49QiRkcbQxHJlzSQSYnXnAhRm-IX4SBkKtX9mxRIQuv5j02ccWxqKm0Ki8KO54hoUJqZ5InjndFpFJOAUM72fhgyCtZA",
+               "width" : 687
+            }
+         ],
+         "place_id" : "ChIJYSjtGB9awokRvtwfGw4UEpc",
+         "rating" : 3.8,
+         "reference" : "CoQBfAAAAESSnR1A4PET6x2Hn4rgaWLDYgQNmNkdooAcYMXK1E2_Ea5bcX0gc4lV4FR_uIPFcehD39K7HMjAygDj8JRHxp3hlxmE8tX7yWDTaRlKYPbnD6hWLYgl_Kh7frYsTPQMDwlZ48_WMXkN-x1d3QntNoE1v9hrsGnf9ktYIbk_nHmbEhAWrk0SbboA4GKBBREkoNHVGhTKXuLUyKhRKGFLu3OxgTW5SYaBNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "95 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715773,
+               "lng" : -74.00867100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "77f8dab1a78de68885be5680d0d4b34994c238a4",
+         "name" : "Ward III",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgPnUhNOoTYtyOgBHhHn-IHbwQavGQ-9gq9XAsSldTuFac_YI82YFY-LFwc2WndfO6nac666ha8BlQbtoVaZAJDifZDkWzzm_WEoWKOsAVoTOPLRBrLK2JHmjOJ-4Ju4KXa7R5XPTjfK3ABP6j20EnRIQVPhDUnMM6JpT-yhQgJkdiBoUsUv3kk9zm7-aSnklUMjYcsbiSJc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ96FeFx9awokRW9g6Pw8JLNU",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRqAAAAWz0FJgMlTeqbAkyM1KR4H4FB6Ll-NGY2x113qHAQdoZXTSmQmejAQHD_w0Sa4UtG2sIu5paS56JM2dAdZ1Z3EzxEcxpcH8rtNAsQ-tjqi9jaLyDQXD8OtIsy562rgRIcwKUyyiq72mSmkImVag2P5RIQvT_1twx2deySYW-Vwhwq-xoUrZUufWz-H2Dm1Po0NekMArLX9jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "111 Reade Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715657,
+               "lng" : -74.008483
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "097c86ba042409d0cdedff010b51500693995c50",
+         "name" : "Sazon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 366,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuP97LSqJ7vBQF1XoAggVu5XxE3j4sS1c4y7kYXWKIZO2qdIYofFnubrCfm6yTEG_7CFIYL6DT1uYuGqCuUhRHOD2ERbYpI__odD-SSyx-kUor5GnKgNPGmZXtgbpctmt0-L9vzkVHy64pTB3umryzBIQst0F8hDFS2RtP6J1KInvtBoUjGoCehf042f1gPiMTFVpXG3qy-c",
+               "width" : 680
+            }
+         ],
+         "place_id" : "ChIJK5upFh9awokRehEnE3F66Kw",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRnAAAA0dZTY6C5nuBweSxJFxVJzzllwYyxeDXd7eKhfAMzzDM0ewWnCzlYVqux_WxQyItI3l5IBo2mt77QP4pvFguNP-0n22Sp89Xufl3F1n1MD7LM9foQOZ8AmRTP74REn1KOUnAvTzPUMoRXz9U7RbYuoBIQo_wbe8sqfyZDUMqri39CLBoUeTimXDZ1Jha-KUmOo-Ii4Z9z2gw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "105 Reade Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714987,
+               "lng" : -74.009383
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c2372255a41c96df5c737d5a4c8c6ed64903ae56",
+         "name" : "Le Pain Quotidien",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 87,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAJMoybRfio62PHOVUtQVvO9z68uhTdJ9mV_cW-NJ9MS87n3ZXXWzzCpggex8ziCu2BfaJqWQ8jJtIWp9VE5AuX2TDjPHPjetEbu4K1KtgzU6VZc3QxKEyW9TpnqRzgLVPZtRzXzYJZfYDBRM9Pp8ywhIQ3RYIdsZR7YbdxHD6GccFSBoU8YfQv0TENZLUtXFyoenxJ5p2zvE",
+               "width" : 120
+            }
+         ],
+         "place_id" : "ChIJU0lt1x5awokRcd1w1u4Ju9Q",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcwAAAKrvDEPzAqbwVOutbF8PRzjUzynL8BGKZ94M0Q11ZsilEUHx5k11ZaTaiEA9nEYO5zXGpUmBpCD0wzDkLegi5PQx2NCuL6DOB3jvCGcCophMjgmHpewZwkb8KgrJ8VGUfIsEzWwoIz6vTBcuUJLxtcXdLhH9BF_Mn7WtEsOvXy4NEhAQf8FmhFL3j4pqldjajuJcGhTH9B7o3NOH9Qqhl-v0osKLdU01Aw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "81 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715218,
+               "lng" : -74.00909900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c34001f0a15f1df637b627ff3f4ef5a6561d8cfd",
+         "name" : "Smyth - A Thompson Hotel",
+         "photos" : [
+            {
+               "height" : 1052,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkwAAAITwtQLTxLC5Hm0YTDxxXtsN8knmiEaKflTDSf35K9EbBIL5mi5HKHCbOKnVUrIy0rPMPFkI2Oc9svs7aoDRA7erloX8T2tiHpSWvfR3CHN_htWX-dV6CKwQ0-nACBi3nmCzVG-sOdTA5DS1N63TXZIgIKJZcR2rqp8lWy5rHBmOeRObCs4HnJG3ScVMWmJiMCMdJdVqs1R3bs-qps5ZA-ISEActOY_11kI_5kdD7LU3dbEaFFBS_hpfB-kgV0lSecGhwZgpLAaY",
+               "width" : 1052
+            }
+         ],
+         "place_id" : "ChIJ_1qwJx9awokRl0bFrNhhRBs",
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "CoQBeQAAAL6eIYcm7b4fH6Om2hQX2p8rh8Ti_5padrrmVwP8Nxn7b4hIatZh06B29GRBKGRXD5qHsFtMUZLJ2B30FN4pRj_IqNxweN3cAOLdWQrde-S-RZQpuQ2IZtg3-UNHdUzhsUUXzpZlLWe71DkY2OySuXkwySZ6GDMcwqEH3Rars5Y7EhCiIbY6GlemW21kpZyWEu3aGhTnEAe_1q-O5OV2Jv9DIIm3kRzgMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "lodging", "food", "establishment" ],
+         "vicinity" : "85 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71415,
+               "lng" : -74.009997
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "6fb23f32382dfdade1105e1b5b72b9f2d14998d9",
+         "name" : "Equinox",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 560,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJIWXW2RDeMjNlL0tNuSulAVFPRQT-7bDXwecL-Cfoj4W9llstMGT2b9KV_2Y8ENkhZaRQv-H7KcH5ljsUH9ljIOcybYlBtNownLVVKMd2chGSlGV9keOqXkhKwFvk4fWQSsWakhl4fY3jmvsp0yA5xIQehF_-hSIgwNFOtu2G33a7hoUKMBp9MawVbsLcqtYBz52j976rmQ",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJpY17LBlawokRL3S0t5cQ9_Q",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRpAAAAPXn4c7jgekS4BT39b8wb2ypJtpJ2h862Qlw_1A7YDZSI-xczU4zxkBqppd6cEeWtPb9FSoMLGU1r3DddwY5oPZTM00CryXtpogfFKumoOJhdFY1Y_8sqVhAi_RQ_bRioieZQZtIP-dFu0G9upBdtvxIQJsbDSiieyVR0VrDKt-Xm2BoU9pjLo1r7Sh6XBUDEjSgwQfuFz4w",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "54 Murray Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716474,
+               "lng" : -74.01260499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "840e881a7bd150f5c2b8741ee5cc4d2b8248fdf0",
+         "name" : "Palm",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJydJMJBxawokRrDjUyT1CNZc",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAHKCbMx84JNfhbwZtEw2Xbq7G5nN2A-Pgsu7EAz625zZOBo8khxZNeTZJ7fy3bei_WtR2y-FOCY5YypYXrVUncdYclncaOMFZDu-75ItC1V4fHeZBMK8EvzEbqVJwR0wnx3RAXUVAGoNJaMLjXur68BIQBO9mAtfVI89iw68f6dXX9BoUTHP1W4mqwYlQCVGVk8VS1AZu6FA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "206 West Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716561,
+               "lng" : -74.009542
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f96c243b41f73b745a6a875ddff306faeb7abd6f",
+         "name" : "Marc Forgione",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhSLc_R5awokReYEI4dyODxA",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CnRuAAAAYnRUKB1G88UF1lugPrVns1AIalQgR7RxgMV_sW0GQJu1PxGbl1ewi7QNZnWfyBi5CTuzUv7zU5S48tgxREmXqm86wFDhzqFDtVkmRc20-gWjQq1P3bv1EUM1uiO469r_df_KTihH9vpNdEbFxP9UBRIQdpBv_6-oOB9uO8MpDjKwYhoUbbadd2_-F3rX2KcR6HcuUUWVNdo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "134 Reade Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715718,
+               "lng" : -74.010244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5265ff70acb74a6432c15855dd7096063ccd891b",
+         "name" : "Kitchenette",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1063,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAO7094VUVcjsIWc7CRklMSLz0agiq_-if3YYkkKCNBnB2LzrrIWHk21Z3Qpge1pdxLqZhNtjYqk1O4PJhSFTeKpnG5PfyByi4ZHxAFbqXy-BcFKIEGYutl09Ado5trKeO8Elqc3vDFIKXfGqTpEbgtBIQAE3WfZ82Ll_C4xWiCIfddxoUwNcmhDp-4U0pW-92r8O77HudYho",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJNwS55x5awokRqwgxMeZUpu0",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRtAAAAGnY1bBuZcHOW8FQHEdkQkhVHeAM4Jy-xtOtIMv6WAMYIoM_eaT8GCS0ejfVNVi-_nADNyMwLJDixqET8VgigeMhk-fBh8oqp-CSKQDNBbWgSBXLhrIlQfIVTEsY0ekJkvq0Kf0RnCnD7UTps8C1yGhIQbPH5SXlm_VN8qVUDzrXmGBoUt4E5xcA9zFACcKBL9bUo5Bj3I4g",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "156 Chambers Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71445,
+               "lng" : -74.00973
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "947d3055922f04aef5dbdd73873896d312acaf0d",
+         "name" : "New York Dolls Gentlemen's Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhQAAABvcLswKe_KwTGWKYnTTFqtrm24s_w62ynL2YZXRfUR6JVO5sFKLrCTVHBxRYFpSyRB__ek7MaFADQ3hYAist3FN6QnKvlcnAq62qiJqzMdz50Tg4N8Dqgrw5xp1tGE5h6Jq5qiV_PEORVicuzzzKuXRUj6n6p94NF8FdjEfXKZsQ07SwAxX6sfP5V1zJtfNvxIQtWKfVVXHJdDPwkFuPKL93hoUpzOxw7tMVjbbiiM4bCxIzgAtaX4",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJj51eKxlawokRQEBMAHEySD0",
+         "rating" : 3.2,
+         "reference" : "CoQBgAAAAPQLXnwqJtlYny1zj3uD4t_sQgi0bnqRwpEmwFWKXYozVHYmLj19HAo9eiYszESpui-FdcVxZNnZX_fV-kGmVBMaX7CDwaQRqTzNaRswicQXgAA2qiqZswpgiueDYAJDYxRtMo8Dlj5RzxkZx2Thy_pFRMxOKVKSxjoUQsngCHi4EhD-7IO4XIK5gcsaKQWS5LcsGhToo0-h5XjS2sjHI5KdfVIzdSgkig",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "59 Murray Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAEoOuUoTADcWp6spLypEY_8Rk9ClDTRUidhd6bhR0WQ1IvJSfMmOcbvsW8F1_oQsjyNUNtxto0LoQDQoxn7SLnj64jE6AH7GyzpaTMb28fWkREfbXosr3NNdW2PzIyrUXPcHBKNqUOf4upgY59vyCmi81K6LNCtTBntMXXmdEE8lcINOZXOBKGScjHvV2Ovh7dX-OhiuK53XGZjQPP1QclkSEM4Ym4qrsRz-gc4OLyBcVpQaFDsV9zxJf1qETL6kTU6yycNbSxXv",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

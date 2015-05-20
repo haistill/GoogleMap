@@ -1,0 +1,529 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAM5vR0NggUZvXyt7DmwwvlN_GVK46kSD4aSuJpzZPFiEPbhD-gJ3RjbhkH8UQ9Wf4YLkv1iIRYZ1WpNbMG940DhRdWcXE5zhVr9ULd3EC6vsGa_8Xqve7JvYPj8KDwne9xoT0ShUuuSPsmEGF9SZ6Qzzh_ptqJCyjUg9aNR-FpXk9b8JnBY1QIvqUQSyzVeT-FQ0ZQDq7EbMHgPvr8hpeBWlfCU-v3jfQoSN-XbHTReKlUML3UUghWJlkoTaHWb7lPIERSgmryTfMiTmSHJPemU3yutEWqailWziKFGubZAZqbd9hMEQbEDaTUaB4haZwxIQ_d0y1sm8gJ51Md1K9m2-hxoUL7XpBm4Cb6n00PYTIS-qjQf7TRQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7191413,
+               "lng" : -73.99732729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.721577,
+                  "lng" : -73.9944313
+               },
+               "southwest" : {
+                  "lat" : 40.7168155,
+                  "lng" : -74.00054799999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c24ea4cee7e7b9d6dc11f3576e64c73bfe23fc7b",
+         "name" : "Little Italy",
+         "place_id" : "ChIJ730FRYhZwokRhLS7n5Ybz54",
+         "reference" : "CpQBiwAAABd0PtsgSVKWV_A8PhyyGMHwRKwfyOTK3wiRrq8PsxRZtgvLDR6pJl1hxWdeC5gqesQ72_75J5cY02z0_G3Ufs-1HaRI7Duysrn3RIjNeVuMD9fQd34DjO2kmGi5ul0uNkDmEC9TDrXibOh2xrao6zkFcf39sgD6ZW1sBJZEOTYDurEFushYubvx4Qh0JbXFNRIQk0NVnN0oHju5eCZ_eBeY_BoUfL3s7m87UqJpTpgsci3gOyHfFRU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720097,
+               "lng" : -73.997574
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a65a18a358c2dcf5e3b66a3e6dcdde92313fcaf",
+         "name" : "No. 6",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUb5kVYhZwokRP5DHegKhqmI",
+         "rating" : 4.3,
+         "reference" : "CnRnAAAAfqEPqLiTmlwr0kmDM0zDvEf6ZbN65zQnnOCfn1ceQSZi558Ek7Es3XQaaLjqrg5t9koRvGVsenbsS_GQc1K6UC6oI4rqMyKIB8wB-4_ta8IaPheVnvZFkmGrgD94Oz6dU5IzljndWWtAIvcBPOXFDhIQMLQT1h3nE-_SuHBaDjqh4RoU_6KTvDH8rGOf-LuJhvvzGHPJqCs",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "6 Centre Market Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717682,
+               "lng" : -74.001474
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef9ad5203f0173767dae87d2eecb1f16ea32cf26",
+         "name" : "Santos Party House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 403,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzyLBC9MkjBG57BL_x4pBsrQuJWi_niC1JEwMDcf8ZNx3j5pK62rtPEsSE1tV5Z1RmDbMyiLaWr1Ir4RApZMnZ1qI7ykubPQiIaYbRJZgDSmus39c7_xuXlpwQZT7OFdlHl1M89hnmRgOg5bk1UPj1RIQGseGmlKsrRI-zWxZGtNJxBoU5WrzbOLXpdrWCeIsaSYuvxYrjsY",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJ2QLuryBawokRmVQSsItLG-4",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAAGIqXdsjzClf0RJRajDdVBM8poxAsV6OP3eBAShvKVJ01h9nmj-dkI1SLrYzB7lDHRQuRg3adKIjg43HwDbw2hTUY1ATkqT6OzsEyChgaibToYMPJIknX4aO58_2edW1QQn6ybEc7tD-UHerLaTwvBfChl5s78svYLUXCFCEpyMkEhCS9nt3ZKTJ9ubxqVc6fohsGhTLlcMdIMl5ly0mWrpeEzgoFuBZNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "96 Lafayette Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719449,
+               "lng" : -73.999056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "97d902c82d72a3b29c7c7ad2e562a832ca82aeec",
+         "name" : "Museum Of Chinese In America",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1243,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPFq0uaWcIp4zrG9hw9SBvwoFPHpf0vHuPu8ceXPC3zUS2bRqCpNQm3Omjoj8orb_KPt16aaLDwXBEIPV3QOoWbwc9CAWrIqURZDLJCI5uMXy9RKJ7q4xuntpPxGMxPDYBBLEAbF0c4Djs45VMz_GOxIQAQV01k-oFPQtN6cPxca1cxoUP-bbyTWh08mvFbOUYKUumEzBEAw",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJrd5vvolZwokRLR4z0Ui4KFs",
+         "rating" : 4,
+         "reference" : "CoQBfgAAAB34i8Qo5qG3IiiN89RW0WQa79-DTbBA0gOrwO824kdET-Do5gPgNqVQsA0LvvcH08keNhU8WFcBpMxinrz6KNnYA9b2xKyoSadP4VOHwPM9y0RJQJ05rUJ3_CLvcBK5Ey1rUG1In8qr7aTMNDJz882ShtiPz59mIBndxPgAl1M9EhAL1Dho2XKstF6jtSRWaLDVGhTv84dMD4emeeHOyyu70wxL8aqvmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "215 Centre Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718187,
+               "lng" : -74.00179799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "6e768a857f84efac8062f08b9a129cce07c43379",
+         "name" : "Art in General",
+         "place_id" : "ChIJ2ZkCoSBawokR3jWO8noG-g4",
+         "reference" : "CnRwAAAA4SgXm0B6SINkV7jr5-I1VsQXaYqBhlLng03B_eO3A2pumnW9uofM1RuRsPWgQrtXqCaKw5ZYEmVKAluG-m9czyZCJLWjRnbnpfWG3Jd5EO5194Tg5H3Otih87A6UjydIzm3eywbf5MYyBpvC8etaMRIQUoFgiahZfohM6hS9pWuOaRoUXGUTMukREf3fKVwEl7epKXNf8PU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "79 Walker Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717392,
+               "lng" : -74.00116199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "e8dcfde672e06b6540b6d77079b6d4bd862bc48b",
+         "name" : "Downtown Community Television Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApY1aNgECamdbMOaCObdAGHKK-NFGxXGjVi7ADERDocmtTUHqJavaURNjX6OQVyPsDf8t4z9e4VfwXuuC7sgOcKl1Jn81bC7k4ZOEEPnjZNzu-l5PWw_tbcnQvhMe72BrjvBho-GxTWwPZejKnv2IPhIQEapiBecNpwsZn_5kx9CABBoU5dTB7BnkGXG1MbnRAg3jGnrayVQ",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJ__OJsCBawokRekzTsWeqX3Y",
+         "reference" : "CpQBhgAAAI0-y7MO4X3wueeLolbJlFlpZ6iFQB4uM_hX6b-LAmywoWUVca2io1meeXRwy7-qE8JzUwLYdPpNJofEwsmuNKKrvihnKGKHx4s8A6RJCg5xlqVTtRgiwHzsp8ZTgru7nqtOUv532Dy41IqUScJrNyen2WfbCeFWP_wZ0Lh2scBAOeWcaeaX54Vu_IMjidNsohIQCd6IugGgimaOHntOKwQAcRoUcgc-ftSutKv-6AEUsVuigu8db-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "87 Lafayette Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717528,
+               "lng" : -73.998634
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "406dd14499dce277f2ec3627a5929a52b022ec8a",
+         "name" : "Most Precious Blood Church",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfgAAAGhtirKNQZejGlZhdLRIY_htjf01DdfUbdWLCM3-kmqQIKMEYoRMk_oy6zFdMz5-wd_7ofmnwjYJXhJhyxECjhvfkS2FZzywfCMs4OcitJAtXk6To8fMbaHpqiHKoXV1Mw7m5_v_4RWemrJHXMuCeV9DBH7iSHZCkyC8YUo8CCBJEhChyuts2ndxJQNcxV7uSKWEGhSf7svjqT6NmntOylyCe7VUyuhzVg",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJrY0LYydawokRFFLAcPWw5gw",
+         "rating" : 4.3,
+         "reference" : "CoQBfAAAABWb02RYqmrgXMuidbZF-DmYzAmTqyTsCAq7u9_BKR5EY_l2QA8rv_8Oant_kacY4FrSMO8-TD0kmvn5Go-UAJEIEejvNPVzsyzq2yWuVnSK0aJQYlzELrBLS9fhnvm77xEW0-WdZNQ_5Ra2q6YFO1Rty6CMBNnp_N5ChpR5zMlJEhDC_dDsLD3kTi43NaylibKcGhRG63ZnW4wxFMXNQ6BC3EstMBZSOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "109 Mulberry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716876,
+               "lng" : -74.00143799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0fcf4e7ac3e2d3242eb600812c488d85bec3ee20",
+         "name" : "Manhattan Detention Complex",
+         "photos" : [
+            {
+               "height" : 1989,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfAAAAI3rpOJwzr2UurEgv1CfR39q0zjEB6i9kpLne3659plT0UytHKnewjW0pAsq5Bq8o7cZR0PXfpKXoBvdUWXBWsow1LIPM1UiP1SHqIpxUiGJzPCF58zGFi_4K8QJVMp7uCBZ89REulJXmZLSyri0QMjCZGH2nlPsw89JsitEjRYMEhCntr0dfX0Sdb4ToWkKnmsaGhSHiUOvPYzcgfX0Ssl1a3BKQLM3lg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ2bfktiBawokRJR7uwLxVsD8",
+         "reference" : "CoQBfQAAAHsqNlBobv1suL6bWJHDFXJ-JqtkaxarAzfcmmyXVezCaNF94OSj2CzTOyCwtRv6fjJ5jqwh2n73qdoGo9jZsQsET1RZyikqdC0FwEY_pOFjHv5sxf40b5DR5-t1RI2_NKIb_lUJVWXp5Ey4AdmWfoENI-pBgK2Yz4BaLi8O6-e5EhCN4ThlA_Q34Eh4r8AWARWWGhTwEThSTtsypF2o8j7JlVDNGvSsRg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "125 White Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719114,
+               "lng" : -74.00028
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "66d5ad2b3af0a6efa7bbc45023c8a76dd431b0c3",
+         "name" : "Holiday Inn New York-Soho",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAoO5f3VvqlePTVZ-TfbhG-3hS9ckm94BkL1X0nninn7I-G-B8feV-HWzcUSwy5Z4a_lg-MJ7Qvr9HN7Ttx8XsEkpBwTjKUIacrSyEmCdxctX8xbKxWkQFIBFBocAED0AXtEbOeJbxlwDBxbGSQMnTExIQgL8u4WbviU8YuBudGPLsIBoUo5WxgoTp-BUS2Vit8984j-xSt_o",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJRWwG84lZwokRkU5BRAzgT1g",
+         "rating" : 3.7,
+         "reference" : "CoQBewAAALTrc1gMsPvNNfO8VyKFSv9-ugNHSaSJc-r54ZDM7Di0iMGsv4FTxhBMXhWKNJZfP4n_6f9rrsZkhBq90IdUblu1qY4J4SJCi9JEfZtjjheaa5y2WNBv8A0xLAj5lZ7BSS2YhSPfWm_m7WFi7Pd2LD2BwS9LgBblHyDqrmhBUMvBEhBqK8amAQx37rYHWesZJ9EMGhQksXPUr6GUXbx0WUUgED3Q4hnnMw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "138 Lafayette Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719814,
+               "lng" : -74.00006999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5a4e7875e3fdd9f3c4ad0743688c92358f5cc4f8",
+         "name" : "Mondrian SoHo",
+         "photos" : [
+            {
+               "height" : 957,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBnAAAACRfy-BPypKMyCNRu89I6Xlv74C1xSoaxcSo8VZVmmqESfJCz2hq7cHF0ZWRSeTY6FjXgKmhACa-So-GoCqKu_4ItJ-7g2go9rWoJArGH7I6zK2raIcF-PY6fbhnPottQLHYwEBI_rmNaT3gVQf5fBs3gZt1pRraABb7OfZeJQgplj2OFaPbRX3korqXvE46jOJLyaNSQRWkptz_H6IVdOESEO_hVD7Rg4Diz31vaZpcprkaFCKeGs_4CmpUsS5tWhgNWESd03_u",
+               "width" : 957
+            }
+         ],
+         "place_id" : "ChIJM8mGj4lZwokRSbZBvNOVNKM",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRwAAAATnN9-kF3SO3_DQlKg9_NcbdAMfpYHcFglSjQywd6Sy6ZNkUbEtzKMzKQ_Hni78VxkYXK_alfJjWpbhiLeeDgfkT2UCWnAmRkVYATGoGlxOwEdMI-BBzVPXdFCkUWe4LP15Kgd8IwBkVvUsX9bOOX3BIQFhMKAdhm4bdwzApaWf7b_hoUXbS3yzY74Z4gNo45X5wYxchC2Mk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "9 Crosby Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718422,
+               "lng" : -74.000975
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "b2f060f3206fa79393a6bf978925e09fd896eb0f",
+         "name" : "AT&T",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJU-A4A4pZwokRDuk7W1DAf4s",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRnAAAAjGb4rvgp-GgmlkieZOYfgGwXJDAAQgFVL8HnHR-qBo88H4yCtroVXD8bCgZIdr5_jVt6MRwgdGTHnYW6Pg5Pa9DPl7ZpYLmkeFmw24tTRjSoXeb16NLkJk40rrUXz1Wngcm-JSMkgeT3VQbnuu6E4xIQbshcmuyUzfsFXHlHEVIQkRoUmrK1rjTyctShC4SkZov6_zKLnQI",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "260 Canal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718099,
+               "lng" : -74.000511
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "109c1dbe8ce9cd2ef8246c52305a512e50a0a3d0",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYLlA0nICt2c3KvL9JN87R8L08QPr3JlDgoHjW6p4sFJiKY7JSjtjbWLxDTKFF2gISFMErRRrmdHCXa2aVvO8VYm-WgeNvhAVsERzJxcQz6I1-iCJT_DLJyXnDIRWL1d8SYgPao_qtQKMh0xKwS6BaBIQFIhyyAOS4L9zXCNvYRYKVhoU5CFG2hAtCHqsq9V46lZGs8jrGJ0",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJxcaL_4lZwokRgBVs8kQWzX0",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CnRoAAAAt6rEMKGRqg8mTe3EaW8EpyFNbVNxN78xdw6T8p72vfht8hja6GSooL1FFOP8LcCjORbbelk8V3uxxMs_TZ2nEk30oPNMHUI17rR_aijDytO8xwMr7ZENwCdssqR6l24SPeZoUf4wieJYFmfk2MHyoRIQBN9ZoAxKzAnQnbuFG9JP4RoUYu6imub7lcfeHw2NYmzUAEYmvL8",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "113 Lafayette Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719533,
+               "lng" : -74.00102699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "43c1c5f24e87a8808a54b7ccff5d9e49495aa8af",
+         "name" : "Opening Ceremony",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlHU0UDu4q6fw-YrWu-01NRDhjjLOP9rEubH19AIJ1uM87DVCgMCEgoNGrlvtaNQJ0PenPVKYz9l4TB5G5uxi0Y7h8APK9EX2NRApN6BDJkwKhr3ch9D0j_JBW-9mwYhdmaOMX4GxCZ-7tDwoRTpedxIQNpKl6DoWYuEuoDQ2v5UuahoUNYXpDO9zXTq15O7T5RLU16Jsh60",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJe-cnJIpZwokRxLU6R4QTLjM",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CoQBcgAAAJ54ZAMXIyh3R8rY3NLcPpwcY5Cji8O3Fa14nDS_2cfZYeUOKKOkzWVn3DeLApryv4VNzZDdIofMNX8ijGQ8JqvLLo5Rm3phLH1zMbjMx5A0fcTK3xMjlbFSDkaMJ-S_sLCf8hdHMfnv9M5DcxvsCq8c4_1liNsrhALwNuw2pV4BEhAyPqB1w-P3mIVJbsz4INuWGhSKu20b3ujvhxiOKAOMU0tvd61S5w",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "35 Howard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719035,
+               "lng" : -74.00171400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9d8cc439c0d1f5e7bb91e1b59b1f751e6f136192",
+         "name" : "The TriBeCa Blu Hotel",
+         "photos" : [
+            {
+               "height" : 422,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-sig_bCKjPJXCEhklW4w2JTc-fRJ2Jxk797eNNOIFVtohAxwtHlPyci1MmJIghzu295HXNhKRJ41WpppcpdnOoDyGo7JqUHRfIC1NqMfOCEfz-rBvhY_M0N8WjrYFWkbdzfAkUPzbU4yDqp0e1Nr-hIQEcpXatYywyVhtPqCUVvD5RoU70xyHAMzT0vIQNo0GWyXxABwf1M",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJxaXREIpZwokR-HSDTcful7A",
+         "rating" : 3.7,
+         "reference" : "CoQBeAAAACXLFfUajCPjbaDQkSMFvYHTwACUX0jwbQRdVBPKAccMpoup297XKsMiohlVCsDywHJuxkD9qMD-0ACnZKf_rs9MNTRuz0R4ocnrj8PuHUSrDlFZmye8PxybV04UNCQnUghjokgHAm3-yFPNF7dI6PPEv8MhRf6n6yGvnUq_kFh_EhDuvcnH0796Zp-9B94ZlQBeGhR6V5mL4KrnC6_GANrgmsQ_VBh5CA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "276 Canal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717466,
+               "lng" : -74.00082999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "b9150a27e26221811b853e670a7afa36109df704",
+         "name" : "Centre Dental--Shi John DDS",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 465,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAr0_cjRxnYegH0g6FnY8l8eNjkFQj_k8HpZi2GsVxi-Z4syfRoblNpB0UO_z8VXnIBp-qv5f_BWx4reeZgO7Udvguj3OKflj9GI4nf-CPIFNaYJD6sVCgBCSYxyGEZkA2zMQxAmOGTwQ3PZg5JoH7KBIQHiXNkrvNHtSeJ-IBP7BRMBoUR_OxNsKidlLZ8ASri5d1rKHwUIg",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJ1VOVVidawokRWP7vwVsOGL0",
+         "rating" : 4.6,
+         "reference" : "CoQBfgAAAFHm-Sy4nH2GzUVtxZ9Of_qIoEYFGpEfakistzpSlbheC4scCo4X8FGGLX9MgXFwQrZdPl1WoLZhugG5hbiP1sjg8haY3NeEApesX07G_EcxLz6ZmwIl77mhPjv-BIGl4YZ2QFA0tKT5NuQODstTouFc-oTiPexlub_Nz-d8BesqEhClqjxN0EuptcoSj6PaCdjGGhQiProsj1mS3C9wwLK_7ru6edDXSw",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "139 Centre Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718745,
+               "lng" : -74.000478
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d87579a9466c640d498cdfe10f660b4ac879139a",
+         "name" : "Hotel Azure",
+         "photos" : [
+            {
+               "height" : 1542,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_2Gvpr_Ad7EoLx83VQJt25GM0OOrOCh4hwJpq5-MgTtE9mKLxTeuU-2xk2wSvKhyqWia0fyEpQv3mKf0VpwAq02Fx77g1Vx3c8v56WmMZCTPzKI7AHhTfMB_l-9Bs_yaBcI5ZMxmGNfshaIFUuQRxRIQe5bKADMCbzvVTDS-x9nioRoUh79ElBKYveL2JO6zLH-TLv5bjYU",
+               "width" : 1160
+            }
+         ],
+         "place_id" : "ChIJq7t194lZwokRebSGPnLB-g4",
+         "rating" : 3.8,
+         "reference" : "CnRtAAAArL3tf7CaRsa_lFUixcGf-MNjJssv2jTNKI95zGGnEK5ludz6K3KbzUf8Lk4hYMPrdcmt8V7QVF2iQ5fkU5UVcXGAnHj0dAaiUzs6Mul5FSjuGPfl7Z_Q9J6US7pcwCplCbIlPtLQCVJkaN4fcTUm6hIQboAJFOlYSomcxjrdBJyOLxoUn_aVy8ebnDcTC1AsUsV4UZJks6Y",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "120 Lafayette Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717267,
+               "lng" : -73.99723400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3fb79c46d35f48fc95f03b7ae8c75eb3c6a83341",
+         "name" : "Shanghai Cafe Deluxe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAHmwLAnbNA114H9BkW2V1CJb8_DAkISGdmER_G8D4T9e2PM3l0VwaokUYE1xqycP_-T5BjAmJh_yn0pz9b3nfX_bPqc6I754gNsxAY2a0X5vKTj1OPPYiYVetolHVXAvWR9mGTSA8VOXRyPEbVnxE5xIQwSB5fWOowObGHUqQKdy_exoUeK3lnVVQCTRE4NVksFbjF6rzFC0",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJHT2IhidawokR29hLR-IQb8k",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdwAAAOBLktBDs2D7T9ZCvlV7O6iWiclgFJtyoX4Bv-tivaGNlLCt2rdRBoOhdSwNeWX4_LMczOnR4XojHAq49TjLgHTMcVFjDsH2JGx5CqGx2teU9fgzuI7qp8wCU3unDcpSDqY3s_aYu5LKh93Yz77ABCByRe7DtQa92dgIX9RwOtuBEhDqErgQTwtqrNdakBW1P1C9GhQ4Ji1Xl45457FH3S09V7doM2wlhA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "100 Mott Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720364,
+               "lng" : -74.00140500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "19705e4c364d670e736dd31c75c2d4d0a4d3922a",
+         "name" : "Necessary Clothing",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAsLZciBlmk7jHguLOZ3ECv_mn88LUoZkVDZnwPxHs--CfDfWrr0ApqI7ymk4Cz7ES3MpH8o2ucm4hFl8cZWfLbVwQlZIB0C45ri7uN46XHCJqkR5cq_oGgLvnHEMWyci36NcGz-yXtkIPBC2AYjKKaxIQTjaxyTlnYYPZppSe9dMmWBoU4jHop1Czy9KwrGGSw8-YL1peKqE",
+               "width" : 533
+            }
+         ],
+         "place_id" : "ChIJt41PJopZwokRD_LdhM7WDuQ",
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAKv8oXPs1vb7j9EBZNHSuw9Y1dDZaFsVHWzkAqJXz6aivTFmfdJeVfe86Twzy8XU-_nyCBwyVWzrzGHhqHoATqZK1cP7TRG81SCNiVRrCO7zltwJdWyBcIxlNSvhgg2Wj5k_Q_XgKnuXMXm-_tFZV0liKhPLtaanleT6N4nIq72hEhADw_ivsFQpRTdYV390f_X_GhSXUsoLcysqsunWShHTZYZb8jpTww",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "443 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71981,
+               "lng" : -74.000058
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1cf597d83a57712d90d29fce4e39063c89c2e5f7",
+         "name" : "Mister H",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1806,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm346ezJGGPRn8V_mNLdKGTfzBBGWeiADlgeYZBCl2nYUF1jgbj7EaF0ZHrm125IAbr9n5shN-rk_Vr2rFCjPltQ0_yhoF7uEZM8jIx7c6WnYqjhSX1O5d8EY9WRjs_4RP98jAIoCBQiyKMiqXouTcBIQCpI_kV_ATLkdE32TMgpL0BoUonygwiWJhHjutu5bF6PnanLOhOw",
+               "width" : 1354
+            }
+         ],
+         "place_id" : "ChIJM8mGj4lZwokRWqyD_feWwNI",
+         "price_level" : 4,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAuvwgj-vvNl5JLTg1-rGEzbK_XhRLXGnA24iwFtHachTtsOehMKKExBEVFAwSdlmnmXg_4zAuOVV1SrT7x-DBKnTaloDnOClID-X7sIzl0_xGLsLKznc1mjk9kzkWpAQk-uVs8rQX5FltHnwwAKi2oRIQhsMmhtNkvCHgB_ffl7G_8BoUs3wIKtWvvU3-CkBh62Q3kb05AZk",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "9 Crosby Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7157509,
+               "lng" : -73.9970307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71936549999999,
+                  "lng" : -73.9897026
+               },
+               "southwest" : {
+                  "lat" : 40.7127979,
+                  "lng" : -74.0040592
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "164d427670301e16d72050d74603bcb1a3e65257",
+         "name" : "Chinatown",
+         "place_id" : "ChIJDcEvbPVZwokRETEfzXATns8",
+         "reference" : "CpQBiAAAAP4fQ3vpbFsspUxfZovtSFohHyskhCRUXa-YJFGBCRLBtAKsuQSmVO7Wrx9dm4TQC60RdtFSJdwrSbsJAPX69CJt3vLpVpwTlp16xrhGU1vU26ZaTsy-l4K2hTJ3p204Rse9G0aJpvz2XDTNfDQlAltuuvpWw27OMILwsY7_IqCHX5m-MVezlpetWQizytKlfRIQpygVLnT1pYjQPxCNkR0GnBoUUfQiBQE5Z8llihuruQgtjxwEr-o",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,394 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAFBvN9beyYqJMyZZqLUKZhesE3k3jrzaXNrBIdnNumFUJ6OlR9zzA3LfVab_xmXV6kc6xYtLs3XrVi3g6NcOIAq59h6Yb85F7YggQT7io0FgvVKb7_mNIysyYi-d2vZvAEyvbBOxwn8DwGngu9I-JtSTZkWtIuvBxnhyG-Q_atzXeTt8pwMWBrnDnm4N-Lhs-hNkm7ou3puoecSTVvvk8u4SEJsXI9kkV07uTmg892BgBgEaFHaSYwuP4oL6GsLfKLS7MYjooEBW",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70157,
+               "lng" : -74.009131
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "a1614a73607f8c206f3b7ef97ff2cf7aff967b0b",
+         "name" : "Downtown Manhattan Heliport",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 573,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAPHJ_0TklxJ3z7N4Nyohb_85joWNWnT5WZ4wPhFww4LjpwXis-Z1S-WDqltn-j8OfxCfo1iBB9HAthve9GUBGeUGWg5h3PyWkRIrwGSwD7jSVE5rxjg-RGUn4SkGCu1_l7dRYXjv_YCiRE-59L_1CeTxmKCeNuRWy2wm_9CLeDojEhAAcCtaHeo8KbAtlT8AaM7vGhQbTmGda86w_8ga5nVKEthPF7WjYg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRRAAfmSM9BIc",
+         "rating" : 4.9,
+         "reference" : "CoQBfQAAAM-akNz8w7bk6QvIK_AtQlthrFU_yMDIi3vbGzthKko0pE8n_oNxruXJUkxdA-aTltmcinjiDRtKGBUJ95GDclS0r6RoTDm0it1GYzxUSmPrBMBrpvLJD3hHB1G1S5XkPdwRUHycSS3OV3PAzHKQnDFnU827hYITQaaOfsmyMQVKEhDCEwuxAe8QZt8Wn7WQdG1IGhQUMxDtJ3xwR-flLaatd4G_pfToEA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "transit_station", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702616,
+               "lng" : -74.009906
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f37af8a995f15b95c6ac6cc8bd7ec5ee6a19d397",
+         "name" : "New York Vietnam Veterans Memorial Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAnsWvmfTcs-FIM-7a55lRufwV1UqZjeoV_7QMFPfRjZ72o45VGotimzDgSWpsHY3ozO_dSfLkvax8kD19WguKHr00SoP289rRcmBpV1ElzDLZya8IIK6iNGzmO1ftKYdsFEwId72f_oU3YQmaRNNRDxIQpWvHC78LwvieQvQ0m4p0LRoU1ERATTTit30otxnzlF7J35xx2_4",
+               "width" : 225
+            }
+         ],
+         "place_id" : "ChIJ6UIVsxVawokR3eZJUCIPr3E",
+         "rating" : 4.6,
+         "reference" : "CpQBiQAAADv2tLOukNUxMZFx69zmtT0ac7gh4mnseXocHdaU5vJovonXY7HeC38ns194FbtcFWmtXWhw-nFEnhEKnJOSTXMV52TPoyi86jFDJauT0NKWHkBC-p3FAysd_K5np7-108RQMT74pDOO3n6chhIMk8m0i7gF66Ktq2jC7w6lIL_LS7EtSrhxDtfPahN0Jy7TrBIQY-Wol9Cg1PXZOCZntr3ibxoUjahHUb2qC2aoKx2hqATNnJ_r1K4",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702273,
+               "lng" : -74.010732
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "36d0105797c218e5ff56d07a47ee2551e5ea7d27",
+         "name" : "American Civil Liberties Union",
+         "place_id" : "ChIJtVciihRawokRQeboII5hkxY",
+         "rating" : 2.6,
+         "reference" : "CoQBfwAAAPzYWAoL-X9YWbEneMucUZGvwfvq5tvKe9YDk2W7YiKrgn-fmgE5-mjM_v9Palv3_9SzZm9wTp2li-OHAj63p9PzCOeGx5_JKEddR9sA7cdOuxQ8pPMR54gt9ol2wS9szLshaIuf076Bf_-bLMiMAPuuRwJH8ZMgROFaApBWU5NwEhDnAIq2XxbdmtkEwmFHIk66GhT4nwJkVhQlIaPLsBV-pOriG3imUg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "125 Broad Street 18th Floor, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701374,
+               "lng" : -74.009109
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "b70630b970789ab95464677b36343eb8b83fa15b",
+         "name" : "New York Helicopter Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 591,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAFmNoVRomgIbq6OahHRfkc6Pq0MeJFYDv9PxShm4GLLVb3xx8HXwCS9zbmLzxmYcqm2AXc7rATsx7b0lenOW6GvE7qJIUNgg1YWa-pKL2dD1qb0pBpGL4KmLlFJfMqS-m4TPlzHwcKnF8uF24wDCGugFSLv9jOI3Qp99xunnYnBOEhA1IRzkAeJuh3NsSk7xWob8GhSKbBLIxVYNM3ecWtPeBH4dzjFe1A",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokR2ktT5HTvGDI",
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAOtse_otb-ZHx7slrvuJ_7kgwDgVIVVXrxIam75-FcCPP-RDb7Z5o0PkkBvFD1yW8fo5ZZ_TOsGgg2fg1Yo1PoFaj_BafN3R1FIyIh5mn-rAFayuD0CpxidMW7zZamQ4egJCZkHJ-HRAMXfY7wjL_L3sAHhKVmivLdfj9HsMoIg8EhDcQWnerzfYNtWVT_HFLqn8GhSO4HF5bSnHQKzg7-Vmq2eXQyXX8g",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701479,
+               "lng" : -74.009147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "543692887d21a68c30b8ed446b403eb9cb64464e",
+         "name" : "Liberty Helicopters",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhwAAAITk2AmkwlzqGZp5qpwabbcptyLDgcczJmzXVynOrTyPtghUSKakOS--v8iZ1t_m8kn0cxDTQxheZE9AHkVL4oSkePexTxeFg1BfZGjLDWcxCxLOZg4U9i1nvzsMbTbmr6nR47l60DLuasIMfsDUdXsfXqCvukEUinWubsuGMGFQsxo7ZCLPXLDQhWlTJ8bymBIQ4YkojGMG3SLlMZ-fSupEERoUu-PqlT_76UJTQAN17pjFbbh-G2I",
+               "width" : 1201
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokRYaWmXhDkl_Q",
+         "rating" : 4.6,
+         "reference" : "CoQBdQAAAL712l9GmRq2UMBtRdn30E3HXvDhBLt63aggkg-p42Db4hhbvq8RepsgeO2SAFVLoYqc8iD97ZX6jMrT-txfAglA95Bs5ho-XGy1HdbVnqEP8c381GaldThqo7SZu3HFME4kA35m-XUAuU06hSJRl5u1sd92eN3AKl75xJwnwC8wEhB_15zD5hdgW9g6m88Ub-F6GhRNHCWQr0NE9v27mVwh7Z6c3NJp7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers #212, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701834,
+               "lng" : -74.009305
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "37540c44f4dff7582a1feee2d6929f8c4e1d5902",
+         "name" : "Helicopter Flight Services Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 565,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_iVH6pOhLX1pj2-OJgHD2tfX_Fkp9-a4ZrW_7iVIIxb1QgAV1cNHDc35L_vOwf56oOn9Ar6ydxyXlM_bxP1l67f2get2ySLEqOAHE1YdJhJoGDxQbJTnWNQO5WDdnDKArPpVU5WfoA8pAQdvh1aQshIQpdxsdYq9674Z6Cjq-i9YxhoU2J5xRkVMCODnxjnRtHswjhLqQ4w",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRaXWPLYrJcfs",
+         "rating" : 3.8,
+         "reference" : "CoQBgAAAAN_JZWK6riWq1NyNLsVB68Tas6RgyLwh07lIPGAzAwrHT0y_x3r3cgPIqMPIQRjyNE3bu6dVzT5bJKKvJh1gh3rvqsvs9M5xorRDFPv9qTF69xLtOYs5V3Nz3ydFmik4yuiABSitvs37Zx7WxuhIzds6yldjjHMIVBfluiHKwnUXEhBd2wxNE6hHDOGgCDhwSKJOGhQx0Ck15Zz7yInbmrsfnHwDeqYn8g",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "Pier 6-Downtown Manhattan Heliport East River, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702273,
+               "lng" : -74.010732
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "353d2992adc058e33021cb13c88cf7d61e7736f7",
+         "name" : "tmpworldwide",
+         "place_id" : "ChIJtVciihRawokRvwOe4r6JcE0",
+         "reference" : "CnRtAAAAC8IcbQU59FczXFzN5SthK4Xpc7SZ8XrUHOItcPbtn860l9sQTH68QiGt6-kOQ2v1em8Re_yffqTOIL7yKTdNP5QMGQ3rro7dX4VpW2Nddfg6qp_jGzsUFaZdqTwS3xhafyR7KO1-jJy5MbzmkfAhCxIQm3Ixm1g_O1v_1ngUSfKEOxoUhSukb5uCgNZzQifbAYfLwnc-L0g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701496,
+               "lng" : -74.009068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "0ceef4ade2fc4765d7af7dafcb2f4207398db270",
+         "name" : "Manhattan Helicopters Sightseeing Tours",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAMFfauctCeZcFzBgKkmIGk_R6LsjFPhQyPiJx-dpLuUFzdEzEtAzpxlZWwt_BqQHpZTKAYylnRhdyUxAtfMshUmboZefJuPOnSPEZbWQDuoe5yMWalHG_6L7bK_iw4KHJFfxon2NWDL1OJeGbZFV7lxIQEL8p2yrlI8c1nYYPQORHFBoU6w5clYN3BDA5mGQm3ThBTmkaxi0",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRmnCYG6DA1LE",
+         "rating" : 4.5,
+         "reference" : "CpQBiQAAAB-kTXR71zYcdmVSGkMyB7xxI0DHMO963mQ71bhKLIT3AjqqMMGC6KNO2uJe3WBAzyittl08RnpmRz9Uw-MfnvizbiG2YlUIIKU9jAGjWyveRCnl253jOlc2-OVh8Ue0ZT-y83EU1z9hLsrp-XIKdQxlFNtvYhg-KDd3Fhk_vZ3-e3FmPPQlCOpTjLvyHoNYGxIQY0XJ0ns78xTau2a5bVBYrBoUlE8CeT5PGRkqh9jfFKN-UJ5pXlg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701563,
+               "lng" : -74.00923400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "e499252f4975a7f24c09ab22d1134a1c531f273b",
+         "name" : "Zip Aviation",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 264,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPcUjINWTPyQPu-bb9jeZ0181uV_K2duyUMf2ZoYTyEwWHFGUbeHMVL3mn2v5uyDbRi1npY5lVKUvHN8IAYuMjxvCbNHxDQIvxVvHiJnJaDhsxmx-8zwqR5PRm3pLXvQH0XIY8g_CcsB5FgeWOjfbuRIQU67EMOwbqe27GYFp58SrgRoUJ86N2PbczMRA2NpyqczZ4KURIGE",
+               "width" : 372
+            }
+         ],
+         "place_id" : "ChIJ56onCspZwokRAyhPpjPfo7k",
+         "rating" : 4.4,
+         "reference" : "CnRuAAAARkB12hZuFDp2k5_0GC5JedKz2xJzrOOztC8sTMtDTP3asBN616cDk_kkqQ51xqaewuEuP6GQPLeezlqnb5Eb4e-NvAS39gJmE5T8UxMh5FzKl4wL8FTqlA3ApriwaVKTv6WoHBnzManOHJNFhVAU0BIQqmeSIxoOpTLxt7So3RunwxoUTLaxAPRVUzbLCCgZZdjXXUmsgbc",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702348,
+               "lng" : -74.010902
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ef27645ade7b157e639da78208be228cdd7de2ee",
+         "name" : "SULLIVAN & CROMWELL",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJy4pQZBRawokR1ZZx_XYgvRw",
+         "reference" : "CoQBdAAAAOGhdzAuo6RT_KyyNjvOGn0ITUnTeTHKQ-AS2as_-MJ5e01gMcb0181_IB4hkLebqm0TQiYC-e4MEOd9RHXcx8uAhldiwaKH09BzOSqmjKX3V-pyUTO0-0mT_dU8RP9t9qXUSehbFw5K-EjFe1utTwxgFrEf-TyyPO64aowEzqOgEhCYrPMiZ5rDMHHYiI3SXclQGhS3xNO5W5iZKsED13bAbTEDpyJCDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702458,
+               "lng" : -74.01076399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7573f78cdc364d09421ade81541a1071717eb20c",
+         "name" : "Loeb Partners Corporation",
+         "place_id" : "ChIJKQu0LhFawokRvzRqgHeQ9jg",
+         "reference" : "CoQBegAAAI9OcXelcomkIvpCAd1Ka-gfzFl8Odg7JEaBAearqv_3n2B0F3Y1exM8i8rFmoWbP0OTeb9DL5jIVAZj0skluUNYuwlWnD9-fgtsFFGB9rCZAcVI9QdjtAmq0qWRZuoOPPAKUBITwHPbxnImVp2VtBArcQdWVTeLis1nQ-HMIdN_EhC6Aq5AzAW90bb80IXAQIkoGhQVTaNf2GMIe9GnlP7AJNvtCZqUpg",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702381,
+               "lng" : -74.010856
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "deea6c2df8413eb6bd8fd491c2c8b1c3181fb4fe",
+         "name" : "Herzfeld & Rubin, P.C.",
+         "place_id" : "ChIJtVciihRawokRA3cf_7E8UEY",
+         "reference" : "CoQBdwAAAETcjfwCQyjii8Fg81Ib4Pkzz-sqhBebMYq0YX3mpOIlfwiXqnXYI17XW6vMKFxyDF05nCowUtM-Q-k6A7HiCrm2I30LeVYfHEGuYW1XbH4gFeDSez7J-s5Ma4wNw5V60m6ndO0xrXw_HLQfdN-e7ozOANYn4hSxAXTPnMvmMYwrEhAzgYhWGfvXCo9mbkbNZpWPGhQ6MQ29bqqQkLPCtXBW0d9kTZ61xw",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70222,
+               "lng" : -74.01065199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fdfc504a741919a1adcdfcffd242705ada5ef51b",
+         "name" : "Sullivan & Cromwell LLP",
+         "place_id" : "ChIJtVciihRawokRVpZ63UTyNT0",
+         "reference" : "CoQBeAAAAF9gO_GIPHlPekG8Zk8IsFWAw4rnpyXngGf4ubh0FoighXCdfY8M4-H9Ko86s-EmbPISe41pOgWJGC4-yJ_8yIMi263OBony7nfMmTrXeEGlWm4aVli7ArYPXpVbzKNVQ9rQizmaPes0H-G1XYgGrPVAyWvC0am1Ye0gN7JHQ2mAEhDR-QGxiNNVv5XtHWbFkStLGhTOEobdyuyi-8coYwIMTuTLDdArQw",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702253,
+               "lng" : -74.010768
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2542130dbaee345c0c8e4d7e80364b843937c6a3",
+         "name" : "CNA",
+         "place_id" : "ChIJeZAh_hZawokRN44qLTJAy24",
+         "reference" : "CnRkAAAAwHUzkQ98BdV8-P8LFwjlXlGknfCsQ9oLvAqZEZF8lP6FKucFl5ldAa-cAXq_STkeQsk6joPBlRMW-jOohc3nrsuZneiGl82CINU_jT55SPJDp0-e1O7qC00N3fP1hRQUmxkwAYCm3UW7RAM3X7k9_RIQql4VW4akyM2GnObi_W_CSBoUDd2rJ1RdalLqCd3VYHu-r_fpVu8",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702252,
+               "lng" : -74.010829
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "06d80242df038e68f05ea81230e09ca8318ae25e",
+         "name" : "Richard A. Pollack",
+         "place_id" : "ChIJtVciihRawokRcbXhrMVrN_I",
+         "reference" : "CoQBdAAAAGdXEflfr3WZtZvK2vjkyqm4dS_PgBX9ozxqDFVE3HlZ7B4nZ8Uf-enjYMJHwVWqePho7gRXOAoR7xXE3044CxzLpb3W5iETwg9560kJnA5RiBdJysnzaBhSBElCjv2L1ChQ6NRRKxl1D6J3Er4oosmSY21joG9n2IGAUMSsSf5tEhD5yubBkWO_p6eef-Nw-iFNGhQOnazWYNkTUznRWXF5mlEAq5sEHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "125 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAGzp_XQVnvy_M1HrD-WFjeGG0iHvj8qysPIkEWmFMSDSap15oSp5Nra34bHi6sdrup4zus3T_c1PswieZDYF071XKHOvQh87VhJ4w9bkpZqqiikHHKD9azjBy7wXQarWCZJCAAJM0l5VV6VfEY3Sd1tDFjcQUihY48bmup-X0iE1tC_Vo1EnBNlGZf2at6Fo4xIQhD7dO_-T5QPH0HbX3b295BoUJttVyU-ib2zAAzBDHjF2cBrB1uU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

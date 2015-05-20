@@ -1,0 +1,479 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAFMP0MuyU2gODgNOkZnJjVnkXsTPg7A3odS7ARjsyuH5LzTTGveyxpCeQJhaOzMJ3Vqivi8czhzv8cs9QWGx88M8_kv9sRkLWHhJ2HjGUY992HFAOklHM7d94IA-3ddi7r10m_b5_zQc2TFKkDlrdh1XEBbCXsbjwRrTF-1Xx1EpgHs-Otyjxfb_4R4cGBE_ABaRAJoZqkc-uS5nblrhC5AslYtrMbBh3aN2ZbiYhtJTpHp-utCn7Mv4uHFADaLRArQBLVtDiFhWDVrgjN8bpwkqZrvdqt8PmUkDc2E8IQ7Kq20cBKw1IY9DQGDLE58M9xIQ10fiZR090sq8XLCzctez-BoUI-ryxEFn16y79wCiVL-gmfcwf5E",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85958610000001,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8630781,
+                  "lng" : -73.9008051
+               },
+               "southwest" : {
+                  "lat" : 40.8540789,
+                  "lng" : -73.920006
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9d9ea9e24cd64433c44e3664663f801803ae5ba5",
+         "name" : "University Heights",
+         "place_id" : "ChIJK1x9m3T0wokRiDZV_mFACJs",
+         "reference" : "CpQBjgAAAI2XveATI0vO6hX72AWFBAGAPttreHHs5HUwUc0rAW2AkaZQdwsrqZLEGvNanHDeXemcAcBukj9UkYkJc4TYRqyecUzfGxBWQCL0z3LMJMfxZwKIk39Km_qPLcO1Mi4f_2Tk2jORJxX7-sQuIc6w0p1AZY1qYmV38qj6XX-oFWfqK0hNRlvyjirNedASl8yA5BIQPQcCAgZAfhSFlnp5l7PxrBoUlY_6pM2XXGEco2z48d7lC225Ixw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86061,
+               "lng" : -73.89748299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7103339cde6fcc4d8a117909e1b7479c5b1faaef",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgddUObgdzmWF7RqANrDePS7MicV0RDaZX2coz9scHz6aZU59neIFX90w3105-VJVmqqAeO4Zy_2gdpmMg_4bHoZoH6mRjLLLTYW2fdrR0YcTWhQXEogX1vUZwYq28Lqt76QfaJdW_8wPGV4qPTpUDRIQu3TArbm7CjNsDYkRMOPz1RoUqdXK9aztGhfOiW5ZsX3dfM88vI8",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJrewWiHj0wokRbfBu-N5ldY8",
+         "price_level" : 1,
+         "reference" : "CnRpAAAA6g43f_tJ0u6Fb51N0AQ5Q_uIRe7EprDV_fDfE9voHGpvwoy9NnAq93lu3KuN3x4u5f5eawttcQV6AFHIrXCIzULIA7Z-Hmz3qT_St0SSkqmCcFnENXFfxT2E9uI-uPWAyA5w1M67h7dVQv-XgfTMPRIQkyeoHqcjqK3d8m5YW8Tn5hoUs8AUypYC6Evt8PcvRyMUEOX4Cp4",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2438 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86046,
+               "lng" : -73.897555
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "9260847e715061004b49fa4ea4d25ca47d00dfb4",
+         "name" : "Bronx-Lebanon Hospital Center",
+         "place_id" : "ChIJS-cUj3j0wokRxreayS1ME7o",
+         "reference" : "CoQBgAAAAEMc-F5KYmtFaeRsUiGpZ60oPk7SxJO2TFi6SLF5c-GmrCHlK5bFyUGtvTQKPjzY7cuJcaWdx3PE-zc4DQCiy0aZJH9oCui4YCVw6mwYFq4Y38oSmuMHan-cSu7X-VO0iC8GJCkboceIDXqjfY0hr4-Pz9ZkCWGXlpx576kbNGZDEhApvDfURngbsaRGaEBifCYKGhSdoWd2bDfbbbwA3y5v2h2C0rFRhw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "2432 Grand Concourse #201, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86097,
+               "lng" : -73.89710599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1ad2ca2b7fb5e7a9bb80f1973cafc8cec4e31174",
+         "name" : "Brittany Beauty School",
+         "place_id" : "ChIJSxNgg3j0wokRiXZFHHE5mwk",
+         "reference" : "CoQBeAAAADyJhcSMUz5KUyn3G39nbcmVq9v1BAsnxlmm45RJTWO4GmoaTqzN-2upwY5FgueKVA0PDJ4IKLI3VSAb4Mih0EququJGJ8bKfNf_JDMgFpLDlSpnMssW0S32N0n0ZrAHfHSNCdCjhjykv2H8C9itmOHgl6GGU-Tw8sAnuA3Az1t7EhCTAVkW_tDb_8W-dsnLHdMUGhSpTWengoC7waHQKkY7vUjRfmxeXw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "210 East 188th Street #2, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861613,
+               "lng" : -73.89855300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "ab498e04591f2bbb90a5da3045d7de4bca933bb1",
+         "name" : "Petland Discounts - Fordham",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAzlsUOJsoNbRoq4yge9yPpvruWywxr1OCDed9BvJyqgs7dwy12-pBPMiTpclk2wg0bjJn9e2jQNqTBOkRWBx2UQOv0O1zZsyAJ7CiSXEIf7B1FJfbQkkjSt1jEnyxovkvj16ZWgpdYqlPabAZYzGbzBIQl5_F601cll65lQZWuxUI0RoUYJHKJedPYHmIKLAoqOJT-WOAnk8",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJiZmHf3j0wokRw77WdoGw_dY",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBfgAAADZ6Hzg7XPSzxjwNeiAaV9dVUeF7dl9rVse5Rg_TrEqB56FW9TRkXgxSYEg9vxXnKLVAAHGXgtgDD-xL_4NRtL53r7-ROJcHgZhMSvj0TcewURqqsovjB0u5easxa8ZKJgyShGdr1ffDbU-C0GtZELue2wFVudQsqECoo2uDdE73EhBVLQoNTHjiwhJQTcA-RbYCGhTgKPcft05eWtkyCH5WVpRM0Ya0Vw",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "150 East 188th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860888,
+               "lng" : -73.89757
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "60fb69f4f5ea985737d9a6624cf219843ef1b790",
+         "name" : "Sleepy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJkUlBh3j0wokRTb37S58h0W8",
+         "price_level" : 2,
+         "reference" : "CnRqAAAAu3a7RdOByoW7z20Vcketms5cm6d_r-TNLa3UgNv-Ni561LKPE3RLtxix4bD_YOHaWPSFWJduwc3DB0AizOPW62i43OiX99Ge0HI401-u8jo_xA15PTpFDvHtCjiW4rQUUZO976sEvpqECGz90AR_shIQ0ChU7ggMgRBih1fXrzITaRoUkWz729lZsiHSXqdWN5iH1R_7I7Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2450 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860862,
+               "lng" : -73.89749999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "20102a04e5bf42a8c4e3080c14acafe29d39de35",
+         "name" : "New York Language Center - Bronx",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 404,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkdEHXCxBBeoi5GDL37e9Eafx7zf65bNHtynfDtwrpCVZhclfcVXSipVilbG1a74oMr_mMRSJw3LT2wNJaKG1X-2T2KE2kfPKNYLplnpIYf9j1Ov2vlvPrQ5V7BNXPSiDWk8P9PcQVLiRYnSVh2J5mBIQHjCN3jW281ZwPjjGXCF3khoUZpiIWQEaVns7KjbEzGEgHDEAZ0U",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJkUlBh3j0wokRiRbkm3FNHsw",
+         "reference" : "CpQBgwAAAF1oTwF2IR3UffqfWBgUBvSnecTgZO2xiH95_0zNMhTO7EzPuxTAYQXxGdqGrORNWcZspyjzIpwq7O2oLWQUwmL3TiVDQ7c2_Q5xQ_q453cwixaIK2NCsLEC8H3GDA_D2JT9_T-pyUyDbL_My02I2F9wQd-o6COY04m0xwvGUDyrM7gYE-W91QaM-TNZzoJT9RIQAfqdgmRAUbBEJi21F7aMARoUzq17EnmwEjH_MSumvxhGsPsrq28",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2450 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861524,
+               "lng" : -73.8986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd311de669476d233600c1bcb42655b2628377b0",
+         "name" : "Fordham Hobbies",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAFo3cg9t8OPAE4K3-aHcQBwtphlWDudyOtXp-uyR9IkyTNkwG2JSv6SWOlCnQppuZW2c3SOpuVBpfApqfm5olZlZrC5c4NrVMBzbNIvfekUcBq_BJQnj42Mp5MxcYBOuo4wQn3IVU0iNMmFI4SL4mRBIQCmu-CGOztOdd3pirt2dSnhoU6W_M7-ha3HiC2ZycslkT4ZnIxvk",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ8Q78d3j0wokRHDsVVcE-qnY",
+         "rating" : 4,
+         "reference" : "CoQBcQAAAKyxoqMXcLUq0fLWXZiSdTK4LrKoZtNaU1PruRu9xNcTlO3h9fJWYTlJ1fd_ZDakt8mE1GH8MpdaekWL1PanXv8JZRHn-UCmSPUUvhxABd3ANw-Gqu2S8WeMVIu5THhsnu7Gi6hVzZGEeeMWIXrngp8JUaWtM1a7GVJfBaN9jJUKEhAPHIqu1b-P6-Xw6lOVmyf4GhQAyKilzkmPIc0V_E1zUOmCY6JAuw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2446 Creston Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.859568,
+               "lng" : -73.89821600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb56c13d9083b7171e8e0812ca4280e9e14e9f28",
+         "name" : "Paradise Pawnbrokers Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJzQkJUHj0wokRN1dWkERPaOc",
+         "reference" : "CoQBewAAACpFsY1XNf9ylMYkFjB0F9Xrip7vG5Xf0jLIsDGEqtsVQ6WDh7RX7Bwi0-4g5C5xu71qLmOmTJPoPMS-5NnlPLSYVnjP_Elz5MkXp7PZzyq5dJKRxE2K078arrRSufroLltrTfawMzURjF_coo7oO0sAKJ9nFJCYD0oi2v4RDe4REhAiHiDnnYoNIqTsEJpIpzibGhS3cVnMoqofwHDAwOlUXIx04WhieA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2384 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.859109,
+               "lng" : -73.89854800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f250bcdf385eb7b58d5e156a91e0a40d18c790f8",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 792,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA50Ury2iCKHwjPozS1LYXJPO3buyDdv76g6DWx8qvMI4ZJIsWLH31VbFUdUUjr574kGqoppDmzseweJzaP-4zURboOJoFZ0whbrTOiqwMG9tHralEzk4p-zf5LRZodqUhh6tKCgXnLGNc-UeIvO6O5RIQzsokaU46iwLAL8bNo9pDYBoUF0HGO0_lZR5lDNeFqJg3ftz99lY",
+               "width" : 588
+            }
+         ],
+         "place_id" : "ChIJsfYdTXj0wokRqd1nNP5lxl8",
+         "price_level" : 1,
+         "reference" : "CnRwAAAAOGmdeGu9uHjZnfN_y-7zLn0N3OsV9ox88NlzTR_xr2ulgafVBuKfKyqbTUSMuJHtwWgu1iBeN5V4NqmI4FP4b_2YHGfW5fUpudaxhP8Bg5let6w0QpnWKSOAR9X3DpGR9TGe4vpVcpTbGo1AhRmdbRIQifw1ivOLyFGHOcscWTEYpBoUG2Rq0LUsSlfYrz18ZcdGUO7abUw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "2366 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86046,
+               "lng" : -73.897555
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "7c2dfeb7a2b9d8816c0d2580b668331dfb283122",
+         "name" : "Poe Medical & Dental",
+         "place_id" : "ChIJS-cUj3j0wokRB3j79o7xIWY",
+         "reference" : "CoQBdgAAAIUquzvWlIxhbqAFB5N-8xGrN6vDnL1tofuYjUdgjdGJupfwN-EJZtJJolVxLC4BEgmDVugc3DLf4z--HWTG_dFO1M6w9z8yCV1pNyYmWn1PFxJSeALkgeVyFLpEhFV3C2n2tMXW1piR9HFDjMp14ZY4pnFuhgbADuwL03EctHSfEhAeocbkphR7QmLjhthXgdblGhTN9uAo7Py4PcXedmHprAJ_Gi6abQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "2432 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.858344,
+               "lng" : -73.89988099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "695202a8bb81df56be4d575189683495461937ac",
+         "name" : "Concourse Hotel",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA0ruJkhMv0sdA_79Cw23OVez0T4IwEDJ81GVv-USgONNcBZyEgBDgCWqw-IffiBIKUqLfH7EEyzB2TwADkKcZ8oX8Cm2stgSEq05azAJZqnrMpQVeQCkOjmeiDJBBY9Pd_DL6oDsDxlsIJJzwDDeFhxIQo0eKqaLZw95-7qH_x-6JMhoUEZ60PebKqi6mPj2_N9YTm6W97y8",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ9cpXw3n0wokRU_rB3thX2cc",
+         "rating" : 2.7,
+         "reference" : "CoQBcgAAAFrImQyCml3M3ylUsM3atUGn0tAGGVjaFfP2kMxrNa8D9nUCV8w1vDMFwU9R4VFxri5rSF_svRGW7kZ3utMDuapvEdn36ZovENAXf2BdqETrg3IJsZDFO-GyDokaMtZZn6OBHvqwLnmjHzh9QZWjbqr0I8Jm8VpFW2IDT4aRG_nfEhBh5u7qarn77dR1ZSQIdt5jGhQLeFtwZA4mgaFv46q8Y_50S5hH6A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "2327 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860629,
+               "lng" : -73.89729699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "195f944b93d410e6899844963f3f846a741d57c0",
+         "name" : "Bronxcare Medical At Poe",
+         "place_id" : "ChIJS-cUj3j0wokR1ODSALTBsaw",
+         "reference" : "CoQBewAAADxrIwo5hIZWG5YegNfIxqGwImsId-BL2v4L5uj63uGoFyB4orWprUYn7FZlF1jkxAjcoUz3Jo7jFRshkAtFFZPVsM4ZUWeX24g6DMv3ErPaBR-CgT00pb6YV4DERR1P2y4SGZX9yix57qWsr6Ws3cjj2NSJmmgMY0WL4c-QINk4EhBCexeVlIdkX79c9DYCwK21GhQkC__OI4Yci9X-fBfztRGIFwqzBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "2432 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861309,
+               "lng" : -73.90037700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0a318134d5cd785dfca4874fa0f8cdaa29e3054f",
+         "name" : "Picture the Homeless",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAITh9HRyOTRq6AM8dnIZcXObYafoVkaKl8hLmuu3dCAHUT4liJoamklIuL-mOuGiNcyN499yoy6MZVsmkODVdYlrhvHNa9V5u2GxP6Plk_KMF6BUK4_V2YPNA2Z1jUHZgi_LP3DCV6n-rrqxNUiYRuBIQdWVvyCw7VLTN9drCr_JMsBoUpDdNlobefpKpw4m5QgWVA-HA17U",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJj3h4A3j0wokRYqLa7RR_aiE",
+         "reference" : "CoQBdgAAAJTdnT0MXP1HxtS0dzMa5AGpRHhRqXImus4VKrs1RAd6HZFs0Ez4_m0VKWFzYvkJiChAcG27oAkLrg6EKlUetR-EUnfdNBxF0yErVfNEXzGDK0T_V8Tmo6Gi_ICWQ-iVPy9ItCd_kKKjL9A1eUe4EkAayVUcAGUySOo1o5sbO0v7EhDsJ_C3Qr0048-RT0R4yzvqGhS1eR7ltmEnC3EfU6Dn4_7NggpH8g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2427 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861419,
+               "lng" : -73.897201
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1ecfba58cd03b823ec6ec71a9ac092f393f37c5b",
+         "name" : "Sprint Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJueYEfYfzwokRvuNeNNstxkA",
+         "price_level" : 2,
+         "reference" : "CnRuAAAAptTk82ZJkRDq_pk9atiKQXrdNFjG_QTYmBdjjMkJ96YtwpcbgDkP8iBuwdcCRRSunaHWQGV5eZqtFmf404k6FF6HrBul_T3pX7mrWknTWml5ia6eN3tw3Q9QCAPSUZApzFOzDc3oCh9EuImBmHihrRIQe8YMPGKfx7utETqPxGsc-xoUlNhJIdDQHesK1HZjcTkL9VSVqxY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2460 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.859073,
+               "lng" : -73.89846
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "63a626a59a66f2f5c76fafea21a73d8b091e27a1",
+         "name" : "Baskin-Robbins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJsfYdTXj0wokRI0gS22Uw1Fs",
+         "price_level" : 2,
+         "reference" : "CnRwAAAAnn8Tr8Kc6VRf7Fl7gCL91rp09CTjfTXrz22m1Bo0Krh3mBfnR1txeYLBS_dzjIXPNym47sJ6FbhbBGN2kMPFLxTrJNx2CBCs3Th3o8A1Ki0nhj6JLRQB1sgCeTbXWHZfYuTCWvkhocnpOk4fGvPqDRIQSWb1IvS99zFvwII09vWfqBoUFLo4wQ33jtLZL1ULE62uGPck7GY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "2366 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860337,
+               "lng" : -73.89870500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f3589c0a7b7d2d75d54e25fe78ab5eb531e09a19",
+         "name" : "Dental Oral Surgery LLC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA32rHJ6CVwnxgCcXI8dbmLyDmzmDtavy4xLaIaFpg8ED9O0QmnxZV86fQSE75HZxPXxNvkedql_cC8wwwXZBjLMVNJOCBRNrRVTG2zGS-G3d377ab0RVJvM9s6UCHdJQ6j3jBcjXsJDRVHTwadSwkUhIQ-SkEvNP8Ud2EaFz1-aUbORoUmoTwohEbBa-rjU4zFQNMNNSJvzc",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJxzJeaXj0wokRJ8LnVLDhbh0",
+         "rating" : 4.2,
+         "reference" : "CoQBeQAAANDH-Z1GClyoHvtQLagieWOwnn2m2fm-eod9-uSHNzywvEJyuKP82QCoXjU6pVJssMbNsMXHRsSTrgNMFfClnh5H_y6rDZ5dwXmEjoJk3a4kAY2raV5fyiKV5wKr4Q_TCmfZCEK-lidMDcQU98M-S2lpv0RqTksuPxIWhLYF8CPsEhB6-so2MWo0MSwQKaQDEz-8GhQu1eH2Vi9NUqWUyt88bjqS6ZeG4A",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "2403 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.859648,
+               "lng" : -73.900009
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "46be29a35bd448ddd964017142364803c1d38462",
+         "name" : "East Fordham Academy For the Arts",
+         "place_id" : "ChIJwVnPMXj0wokRv3Y4_LpYFGM",
+         "reference" : "CpQBgwAAALwtp1r5Ydp4ELFXo9aOJ3mgPvqFAoM4XJvzNyG13TOzdU3Jwdr1AW-3yre2gOknMgnRNwVwyFxUlm7yBVWX75og3Cg6nT3okTVBYO3zP0wFc9nwETCSQY4TmHJcM8iqjU8z4w5fc1LVSVmrwnW5cAKLWm6pXO24yfaYPfkDgW1lrplIwDWcIOSMl4Qy0VnZDxIQ7eDNbOf9G-O1FilqFQM9qRoURlPa7WFX8QU2Smfs6rkQ6I5ZKnA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "120 East 184th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.858688,
+               "lng" : -73.898692
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3f1acfdd69717859020e28930991becf34e6c930",
+         "name" : "Pay-O-Matic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAMiyGRTqNyQT05A-e0trPyNHuTEZDpMkjULpn0aQqB9TQT70_kaPBUcF0uNeFeBaQudEjTkY5dOySRlca56tOrUSqjCTMqMBGjAse0cDpwrgh5YmQvOZAMUTjBiaJyaku-aXfwkMiHtTAW-SCDm3xtRIQoMG7-g1Oz9ZKYI9oThsuIxoUyWAcgy2E5d1MZU9NZGWzw4bmsag",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ9yHWtnn0wokRT18n0d-cnv8",
+         "reference" : "CnRuAAAAiv_mIz6pMx7-bilTrAPBjl6W3GxYcJUkmd_7R6z2PEThxP6a4fhz3ZdW5EG-i7BCNVrmieA109UZzRCVDDJDvYfJrnKIJLp_tN1D24pVF6OyXCkByNGYMgE8DP51h0MFmD319xVqlXulgLJxlwI9ERIQoM5-TYIu2NAoxWIlLpH-2xoUqPSZh74UhPjuhkrzec5NZgVwpuA",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "2356 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.85790739999999,
+               "lng" : -73.8992392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8629781,
+                  "lng" : -73.8909049
+               },
+               "southwest" : {
+                  "lat" : 40.849379,
+                  "lng" : -73.90710490000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "06b843d90eb34105e33840a3fd876da5c8c54848",
+         "name" : "Fordham Heights",
+         "place_id" : "ChIJkR4II3r0wokRXlQ0MPws_r0",
+         "reference" : "CpQBjwAAACs47vm36he60UMFoiynlcsulPAHv7yiVCVhjOlIaJ2dmO03i00VqnD21h6y1UwTzTt1g0w-vwmrHRo2PKX913BZO2cDanTV8KROBhE1Ak3Hh1Kt5gtX7r_iX-Zb-tvjjsMCX-QIU8eFeQGeaa8fG9BvcqG0SZPNdxRBNPA3_4LSHToWMQUc8i4LnXwqLoSm_RIQU_CrX5CV-x1R63myZ5cj4xoUkPlfwkAglqn2O1eYSLXZNLt5V4I",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

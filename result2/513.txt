@@ -1,0 +1,466 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAAzlNiG6nXsdRM22vwYGiSUJOwtZNyoLHsFHqKKgEH5n9n0G97sF0_i_gKbfsMjNPBosae_Rir8QyHQmQKJkc1FkjY0O-YTUVK5U5F0V1_9O07JRhoiiP1LANiLFDszLqeFFolPm6umxasRfTFpa8Yp5iTveREbikJmOKYDdovOY5AHlu8xwyeu-yulLC1MD4kRjpqOFUD3sv_nlcv0llstHIFbnfKKVZyyu4nhjtAYak5y8zrApgyCKy6k8G75CjzxMLd6vkuC2xMYwqlsa-JbYDYMCj8C0XkFRYdJhLfxW6dd-fKPORV3CifVuM_8kRBIQnEnnRtbpPPw8j4fA2WTRxhoUr2IUrz_RJeyuOgBLNzx3Xqbd-5M",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAJq9F5wcliB6hS0lWfamoK92VtBrI7j_0y5vHn_Hk8fHnxCwzb6yVvkWDBJNQ7IMf2xHb5dQB3H78Z-Uqj3UgrCICFQ5WA2-MAVDImfAOBfCJlmYcFnRGrrqojLmEKNJb7-EaWLJfPsLX7QtiHZxaPWsoh-au9RoFXK91nOkbx2CT__hBKdk-TV68_Z8tiHTdxIQ85gcj1nDyl-hWc2uroCj7xoUDZqy9UWMUdWcFWh6Vlj_azASiq4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810943,
+               "lng" : -73.946392
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f24c22a5da936b538a5d9f11ddc19799f30f07c3",
+         "name" : "Metropolitan Baptist Church",
+         "place_id" : "ChIJn-cQk3L2wokRbS7UkvhFaf4",
+         "reference" : "CoQBfQAAAJWmkXWNwEWFTMgHdLimwlqLaeEqymWqOnWj_LjIksOudqUUGdp3wgLOxJ7w1qYjlbVfaV_s1mKCOeOB4Wl1B9FMCUvbbTWi1PW_Jq1RrXCbc-13ABWPwBxBrQn3UKZoN51z3s6_zVWnPUm4jc2hYddA3NhPbLasXYRyXM7S0ImREhDhsjDsRTSVhkkts8CmtdVdGhQA-jrdLYYZ6lUf8Wi_fz0jJ3uRUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "151 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809724,
+               "lng" : -73.948926
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f61a0a8cc113cfccb710fd52318d4b6f4e08912",
+         "name" : "New York State Department of Labor",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJF26qyhL2wokRkP3SOxQ1rnA",
+         "rating" : 1.3,
+         "reference" : "CpQBgwAAANkBnLsQ5kECQ5oQIWNaT9Ptv1X0cV1Gg5KHt8qMJA_8FlBHLi6JWqbX7pjF-WbK8dIsIBUKEemroll5uoG8R0VO00t1ei3KtsOnWbZ9QG7XblfkcNRwuCgBuLErZFaimmndVH5T_sbNnrouGe-8CKscPS893mH0LyqBK4SBjozQkjPeNgO05LVOYvHQge5kOBIQ1QvwbOrw_IkWQ8aCC1TTfxoUTbEgr9cofL8VuZU2xkc2iQv7kYE",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "215 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809353,
+               "lng" : -73.948652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2edf1fc3bb84884ff0f6d7776019e1f80821fef",
+         "name" : "FedEx Office Print & Ship Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 412,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT33j4Z-8pgP9VYrvvRq9ANngCyJwFro-CG3YsYaVdgqzCtI2ncwf0OYcgWVh4Z3Fs1If9jxIQfV4evFSRm67nhXmaBdomDkgjjNPO3wdNbz6k_PAM4h6gEO5qwPp7MOtJYvSb4xY-rpek4ulOBhfShIQOxqjWt69ZQcBIsATQsTMeBoUz8R9qaye0Tr68tEt3zflz209zM8",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJ0fMEsxL2wokRhiiv24OzL7g",
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "CpQBggAAAKLBPCWl_1Ccn-_IHVR7yZMPdEPDmvSBzomdg6nOHTq3h9VcQvbUPelWOxEt2qX5jTLDy8du76e5GOWBs6sKJN5UtlYE26ZTg8wjS_OFmdA-8OAVP1B7kADBg5ISUxxkgaI2XWY2ULQSxdxUwBic8qqwhbK2h8ZQgBnC-72nVKHaiaKO0MIoQBmYjGEanOsjbBIQRgrDzI8q4sUjPIf0UBhNKBoUCmKKcczDLQofBCGuqJJ-A3D8LrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "207 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80897,
+               "lng" : -73.94944099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5256e0008db8a33368d06928591d20cf5c11d533",
+         "name" : "Lane Bryant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 212,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfCRPr_j3qOS4nRiezZn0pMreMykJUctrybgF5odh7tEpYXALjVjQ9TWNNalHKfkLxM4tEw5S3wjXQOZF56Std2NL3p77q9DbgFLrgTe6U7EuR0bZCuMwVPgpI95VihYUHvZX6eOOqRxao4Mk8MOPaRIQNWgjVw27CIwzn01iVSf0yBoUrYNf00tk78LgQgbVNARtnZdaoyU",
+               "width" : 235
+            }
+         ],
+         "place_id" : "ChIJl3wByhL2wokRzKOHEZq9TKs",
+         "price_level" : 2,
+         "reference" : "CnRtAAAAreWvF2eg6S0Bi2TXTKIXMdqQzjFwPTgH5ySOyQG5zmEWX8ItW0LSDb-2Ar3nzyoqzDrtKOlO6m-g2XBMc43Y1XZou13BOh7Kxn_21k95YdCkTD3E92p1Mga05RbmZhANtjq9GC3NC3r9dokDy1LTmBIQeaW5MYREoClnkGDXtOp8KBoUGgMyMErnf92ddaFCCN3uNGv5aTA",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "222 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809368,
+               "lng" : -73.948809
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "f765c1c6387360ebc6ce72a9bddaf504bbe01c6f",
+         "name" : "Sprint Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAHl6lVQNiXQUB42KhmFK8g8Wls38El6hbxXuo0HdL7SMduV1ZmgqZatK4HXvsZVI4QyQRoSyPICVF4PAQfQejgMBYc3M6ATvhDHNzqkxSiUGUFgMtja1XaxRc7sXY0AJ3KOvKFdD28hOIBATWvgmPDxIQ38ga5cWnAh9jMJmKxiJ8nRoUTD9NdEXVIxkrlDIatVjeVl96QNk",
+               "width" : 260
+            }
+         ],
+         "place_id" : "ChIJB2xssxL2wokRVw0w2ug6L48",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRuAAAA9Z7548m_rBpkGIEPzwQnlR9omuTBM1MdHvn-Su07gXgyz7SEoSpJvJZbXryXbU-C8uk3TQEESf6NFkjW8QznhR3qSilCJyQXs3xB_LNF8ftyNdKAbSRDgiDV8akCXNxP7RCOqalIkTpQRUeXf42w_xIQD5G8qYRs1MB42oL98ksJMBoUPrpQuQkKGr1367qNde4Ccyd3EYk",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "209 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808809,
+               "lng" : -73.945149
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c5af2bea5afc2d9b3718cb42ebda9e6681e9e922",
+         "name" : "Cove Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJodSLLA32wokRRctK4ht4bLc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAAw_LdFBV_0SK53T8FIi4jK2uwptNNu4GUxDVOBZR9oG8ShLoVdpPorST6YcH0yml-nNweAg4RTiL76P9HfhNeOwf006J7ax11fhQd1RAXyR0Xmr6qRE4nTfh-lUMsSirojKLELK2T9cVXZlDpi8iwRxIQwxWTc30AgwC-XykzCSvKSRoUSpcSV4CKH1wYU14cqpsSuF_H9M4",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "325 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809305,
+               "lng" : -73.94865799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "99a97bd5330e345664ca2365463cbd63ae5ba307",
+         "name" : "atmos",
+         "place_id" : "ChIJC7X5shL2wokRjvWysSAi0lE",
+         "price_level" : 3,
+         "reference" : "CnRmAAAA8y0TWHn_hqKtv8bA85E7W4wxyHxE0aoz_yTOuMuLog9ZfrnbonGGtdw5OUs9aX-7NW-5KPhmYAERcaPrP3HJmuEYVhoWaW_yx4Eoe16tihwGv3f5JRa34lnHO2c2rsRzjgr2C4_AoMje-twOeoYufhIQ6uHzXKfaTMbcLO9ABlG9bhoUp1MKKBJcoSoeyOyg-6MA-nj7dJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "203 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809699,
+               "lng" : -73.94893500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc0827be78067239517e3c3f7b2dbca7288757d9",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcjtUfrGJhJ7G50Wwh1YDi0AIWU2pCf40bI3Qph7xMB0M-oynToDPovLe5opn47v-yU8MeebihJ47pErDQuSZuorOpY24UMO6Fo-Nrau5Tg9I1V9sXVzeiI85xTRMCtD-jauoIHmBjbrVQz63iEpNFRIQEm-UWPJmknWMIilRvT08SxoUePlpmhzP_GYSWuT3K5mUY6NNVqs",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJF26qyhL2wokRQz5siQNRFB4",
+         "reference" : "CnRwAAAA18x7LshMchrPjrkPEoQY5w_q1jKtZQGGheDpIMVNY9giiESbZnT_qyarmNHLiXYB54m9r9UOPJp4agFSo2sP4MAGXKoVyuqkh6AEyUozj5D1BvyJgTBWeW97reeYCllTk2fPmcvcWAvl6Mdxo9YdnhIQUrDR6c3QvFzMNkIcUer3SBoU3X_SIZQKQerwXdJDJ5-pIlwfqiw",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "215 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809253,
+               "lng" : -73.94736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "345d81660d3970c8f29486e75784c52f4b0401e7",
+         "name" : "Breast Examination Center of Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyQP9Wg32wokRMLwpZt9ywYM",
+         "reference" : "CpQBhQAAABT-SFFnK-Nroi1_zCVj8XOf2pb6b1AiY4pl_ekqzRfhrXHKx-X1hWMCqf4GPn_U-gSbj8JPPtbDYE-uW4yteMD83487Q0i1Ubr3WDr34av8lqFhkitDMsjXhI9MtIqavgshfmK9GZvq2M6Y-TwgGqMOOgV2Nh9g7a2LkiS7YfM98agktci2BqF2wWqt5tGVfxIQYJ3lkjf9V2ZwFc7uMoCkghoUsRVhXNuxFNDSvEekD-MSmo48yIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "163 W 125th St # 4th, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808869,
+               "lng" : -73.949206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "c9136b10bb801c0b8ef905d78144c0d1fcdae84b",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAAJM1vVMpDPtkP6Y_XC30pBKNUVVCdWHZFnHN2UhY9sKOxnk4FpZnxlWOwdMNLO5xPjM4GTyghtVoa_Rj489ONpk0C6jbw5VVSvBSmhtyMpQztHnexCx_jIoG3SWfOPBGmTyTROOeVBS5YKcjb34tDhIQQPoEDRgkY68TmGV8BEnOhRoUKcXxPiYgYld8B0ibPcQvVZhOC7o",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJh3bFKA32wokRXnT1evv1nRk",
+         "rating" : 4.9,
+         "reference" : "CnRvAAAApGFC5MlzUuokAhCGN5unB764IheD3FMaD0P78ZteNJLtUkwGK1xe1hFKIaCFtyD0bHoTcT8nRlmsen0HX1Tob9lNhfF3kSIK5JUHbuVR5nix1sSo4p_Hnls9FFo42rQob691OB6QzL4D6jjUFj1GQxIQhNGY6lx1R7z3Hmp0Td5QsBoU5_IT8GUnIvSGieQGNxEcMztTVrE",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "208 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80901,
+               "lng" : -73.948819
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d34e9ae223aa4aa1b696eaab2f879895e291741c",
+         "name" : "MAC Cosmetics",
+         "place_id" : "ChIJC6IQsRL2wokRFMMcf4nBVfU",
+         "price_level" : 2,
+         "reference" : "CnRvAAAAnKpexjfqVoYdrBW83rJnJ1YdqhiePNQUJF2SOba6ZdcOORy4yx7GBGMA-h9m1KZD-SOc0ZIVF8jzgnH6bSuG6jtWeP0n5HcuEDYK2oSa_vOJ6dmuOiHsNb09zxjqOHFqGF6csNkEiRbvYMEwqQpXZxIQNy0acMONzbntRX41lFBU8xoU0cf8JlHuRqv5BL-DO4UetXGy1FA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "202 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809256,
+               "lng" : -73.94752800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ffc8b5ae7fece10427e9fa9a38e2d4c276885b9",
+         "name" : "Manhattan Educational Opportunity Center",
+         "place_id" : "ChIJyQP9Wg32wokR5NfRWCDqEZI",
+         "reference" : "CpQBigAAAObMwgGlQGJXo5TrsirJyw8nfeyoJISjVCiHt48cQ5vSyCL7nEDdBbsLacXsJ6Dz9BhuLLq1keMsXkzM45pXAXAjxa22Mr9piGAC8OGsBgsItnG1-amP58C1g3cWNhGB-QFBaXeNPb-EmpketV1VogxOIPeCxU9LaJCDRKDztWJAYMcREhlZ5FwUbLRMfVSFnhIQKBWUW0IydrCdx6Ed5iRh9BoUmXNHm0uiZ-pmcLeLnOzXXxWJ3cg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "163 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809201,
+               "lng" : -73.947281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7438c23ddbae1da8fc348825f09c1f65ca55a68d",
+         "name" : "125th St Clinic",
+         "place_id" : "ChIJyQP9Wg32wokRXipRZzzcFl8",
+         "reference" : "CnRwAAAAVMPRYECVh5J79W9jLF38FO1VnP4r444BUQsWXusEkwNd0HQ4Q5v4spnUOa3b0SghCkPeNMd9bPj5qu5mU7P1-6knIjjS5Z_K0GLOIfaJd8G9M8mCjxtlg7-VUuLXmoYc3ZqdFpgjtEeQPCpSKtc1ORIQyZhRbeN2OJi1Y-jW_Ym7gBoUxd9EiOiIIJZ2xabk1j5VocBGnn8",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "163 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808949,
+               "lng" : -73.94922699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5d9fa99616c2eed35ca2d82a57d8ab081e486341",
+         "name" : "Champs Sports",
+         "place_id" : "ChIJp_xTnQv2wokRezXhL_HjXzA",
+         "price_level" : 2,
+         "reference" : "CnRuAAAAcH6MFDD4MfSM244n49sb75YyEiwvygNU7HzRdJO4ErBm2UuVSBeC7e6ktJzXeSIHOCJ46NipdTF-WfBPBxRZA2c-E-IyR0Uv7AyQhABT7IW8uAJ3Yr4_NWETjA89ldG5vkrSEKMjBNGfA_YRyrPx5RIQGVYa1q-ZnAc5cS0rxWdvHBoU55nLLu1lGZHwFPz4OmKKA28Y-iM",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "208 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809291,
+               "lng" : -73.94859099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b86961726afe6156e980ee8632e3333d6660c117",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAYmXN2OZs14ov04OHEjyWsVRyBcw6OPS3dj_CgxY_TtJWPNtbcoxCYRybi5Yv61PUE3-9yxineItxyoDOdgRT90_pSyvUNj8ubDnNNcWPTkkCvn-CAyTXErAE0JU3RxCZ3KYKbTSuzp5u8CtnWsIv0xIQZ1qHP6Hf4bqck6uCz-KXjRoU7op_eeKgeuP19fQ3i7yKyrHbFqs",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwShishL2wokR_j-pWBDZD80",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRrAAAAdCqqi0FrKp1DdGnMtlso9B50heG4Mf9AsQ4UnybMZ9KmGH59Gt_qFmSPxD8S7Y4qxRtETN6P5KYddxg89qGCDBB1JTvWBOdIxS3ydagQLDaiRVDGcndc4Zvd5yFFdHhmNHKGxBMl6GEn7YkEJIlB5hIQ_NEBM3RlK1vPu01RXHy_WhoU-xMcV8x1dbuWsOb-kMe3ckWYvcA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "201 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810187,
+               "lng" : -73.944913
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b52e3d06ed2b8669fcc0fd958091f3c435cb0d94",
+         "name" : "Harlem Holistic Center",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbHuN0xaXuzLxIhBuGa4JDYx1InMfrv7VucgURUKacQm4gwLyowarqHK96b-NNG6xhunNA8DTMSuooZ1eS4rrxCt5nssS7jqWCiGnrI8YQEUOZV0CTJJv6rlCnDj_wZusNINaGa2XVoTgkylH-HagXBIQ7dk7AqhRzUQRTQnUh0zFrxoUVRC54pUI0EnHTYdh3YRS-gftvz8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmVN14HL2wokRW8wUcyqB1DQ",
+         "reference" : "CoQBdwAAAOOV6KZ7GeOdjEYCrrrE0aMReLGPyWMIcX63y2SiUwSrVM39mVGWQm5vaGiYI2RmoPfc4HMuNT1ZacmvK8qnUGg8IKtxBgHJ4TUIoiTEGFsf_S8U32SIMPunmUXgwILIHQA9ziNkPYgYZ4WLlAHutLgxO0beaKZGUn1MaQ_SSX-9EhBczuZOMSLp8if0PqGOBjt1GhRN0mQWcoU1K7Wh549hGWAm_fJ-RA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "health", "establishment" ],
+         "vicinity" : "115 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809595,
+               "lng" : -73.948986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4c24cd42cc2b19d02d0251c78fadadb234e27062",
+         "name" : "New York City Community Board",
+         "place_id" : "ChIJF26qyhL2wokRxq9oEN1xgAM",
+         "reference" : "CoQBfgAAABfgBmXxTXbclaDzfN2-V0UB-0H13zJpYgoHNQEWboC3y7ARzAkE1GtdzYQQa75VKTsneEm56O2Jq2CrHYqTF21KSetqfMgqTd3O4MSJMtCQ9yBEY_0vMaQAUoAApwb9vnSz2CXWx-SEcP-ICrq3NAN_oc6dhfeAZtMqDYcfFnLWEhCnhpBJB4QLolu7DfSRkr4cGhRoUE4wk-YLxuxwMrwwSTEd6k58MA",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "215 West 125th Street #4, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808976,
+               "lng" : -73.94875
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0e6430504a40547d4ac2b850387d99d3880e7d10",
+         "name" : "Aerosoles",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAj2hjGfcCSJCc5FIwb9Rrqg2Ix5Mc9CwUUAKkBR7jktAp8FP6-saEUn7zXPFS2sM-4x18TyWlxuVlXhuNJPv2KulWSSWmLNbWKGDLnNSiGKLHi4_Xt-8MjigUlJvHgDoohrolcd_0MF64kvVWCcGfZxIQ6a5m5lXwwYSFkRXwH1ETohoUD2Ux7DBKls9zhwT-cbR5u6L_Mno",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJb9SrsRL2wokRqtf8xSDm3zM",
+         "price_level" : 2,
+         "reference" : "CnRqAAAAKr0fjGuOcnEfK0K6VYPtHresGVxaEMjW6xdc2qU3OaLWFdXA6YO50Rk7qiKyW5tTpqOXeJpRyMcGNTapju7ToRhQdaCOx8YyLl-D8IZOG-gx2t5aIcKE0kIBFAxfZS-sLHUtL8bd4jH8SBWtC2vcbhIQhZ-_Me1gX_tCIYgRCUnRuxoUWvCxuLBgEL8DJL1ltdXkuFxjFHE",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "200 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAIuaazhWAFY7Y8thSGD9oG-ZJcEyzZ8X-Bu_xuu1xRsNhwZA7GMF_KvWIr112pzgIpTQqNUhZq8MAXtB8g0yTVEVHccWIAvE35o3gdWDixzPGA3pKEAaGnB3hcI6IFiNZUmbTjNFZkQ9JixSfWSGmbcRDdTnT3UT5sCUm_GgkUKllOYhR9-goKSbqmEYqkd69RIQ6DiMkMMa5Hv7cxWjIsm_zBoUNZHjQ5j4W5m4ZrcKWJ9_7VtSV-U",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

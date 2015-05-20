@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAALGvALfZv1zHLKA5OQ7BMWkyVXbPJTD-2WIOdo9B9gGXv0Fq_KYNZQDVdDYPYAfPl269aT79R0YPVqGsanHYvImx9nC1vvzfrM1wupqcVyWv_CgbfM8pYfrcWCAL8R8c9X3s5tA8DOB6A2jWRuBlpEaS0yeqaHDLZ1EWPzRWlXX1-AQosO7US_DOtLOF9dHB2hIQhiM9GVSS_3ATvT52pr7mZRoUkbN3iJIm9f100JoFWGR1XIEPneo",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6781784,
+               "lng" : -73.94415789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.739446,
+                  "lng" : -73.83336509999999
+               },
+               "southwest" : {
+                  "lat" : 40.551042,
+                  "lng" : -74.05663
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "ad98f8c32a1fb55f32ebe9dfc011bac77c382bdd",
+         "name" : "Brooklyn",
+         "place_id" : "ChIJCSF8lBZEwokRhngABHRcdoI",
+         "reference" : "CoQBfQAAANA78ICYaW5zGYy-w938I8aSDEvO9S2bMxxyA-n1IktYiuFa93AKY-DAnlgNmzyIYmqZBxLCK2ODC_twkqRmKa5Vx3V6Pmj-D7kh4_PFWGjYIozxvfXemxBpjgYKAOQMZaKtWykrxdBGJAtJkRprmGLa_eCSzLMRAUerkoBFi_QHEhBvFrx2LvuK1tMl5EJnC1_XGhTxsOkU2vLIQ85yGxpIYN1gJ6Jksg",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

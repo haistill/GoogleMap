@@ -1,0 +1,531 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALkA5Nqoq1-DTshk7w6wBCRoJwsixci1tTU32ay5zXwJDuOoZOJW6pamMfYiUZEj3ODUKOOgYy_ew6YkiBrK6bk2OkqrNtd56vkXXkToB7NPTslKSwpGXtCIc8W9CWH1nAoZoPiqkOtGBBOzYs-bXGstHTv8ry0vlARmDYlMhaaHPuqCQn6pbltp7gf4ax8igb4mnugn5rzv8qxhhQOVPaC9wiiSYElNkmJ9vQkmdvSiB7WzB7AAvQCP6-vy8h9AozU-jf_lo4sTG1-sqoRK3lqwE7NgHzw18VyOOB3SH9kl079BesBM7j3dFPaorUkBSxIQfxH8gspPkoCbo2OZdLqT_xoUZF7vCTcso8u37gUVxwustP6PPUU",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7367783,
+               "lng" : -73.9844722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74018510000001,
+                  "lng" : -73.9785298
+               },
+               "southwest" : {
+                  "lat" : 40.7313276,
+                  "lng" : -73.98879459999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4dc545813ec7222a9a5fb37063e89859ad7b431f",
+         "name" : "Gramercy Park",
+         "place_id" : "ChIJMaZfGgpZwokR0gtRaGghT_w",
+         "reference" : "CpQBjAAAAJ6QfkswsAp_l9havD4nocAwmlDIEn72Tymdsa65V78jCEirPv4YaxHXT2lGlKKtiqJWRl-RJsHLEO6UvP15-iAYzJaoPk7bDRVsCYdI3NhYFUaPw_COrYPjhfekqCx-D8uum0hCRBRLpRxTDVcKwYQZ28H0iqVRphJ-DYklFX85F4ilsbN73Es-HMZOA4QgfRIQt4BxveZ8oNl9uC7kBHgbOxoUDPFfdWi8AGsIk7r8pEtQHcvkAi4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738725,
+               "lng" : -73.982327
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "aa9838e6df2f325baedba10e7764321368e6cb46",
+         "name" : "Visual Arts Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJD7SlcQpZwokRiysk6CFk2T4",
+         "reference" : "CoQBdAAAALzF-LnXBZwP0R_3q585MxHDAAXOk5d3Zw0hOiljAaDpPirD8MX-mXDwrGe3jYvmV91T3_DjXgCqWc2T7ykpueS2kOG47-w_tHgloB9ipt5AHv2-6DCCByWsvAd313WqEzKQVqo4MJZXp2u2b6W7snfMXTwcMQgerY3X24mM9oLjEhCrc9gFwFZc01pu0FCiaC1OGhQKBYEB9suGLa81SpK1nq8-u_tRQg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "209 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738718,
+               "lng" : -73.982243
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "15f35ecb90d109432d257b65c6a7000da9dbf4d7",
+         "name" : "School of Visual Arts",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcQAAADpcw2HlK_KHEO51Apxu_NJoDzH0-iQz74WOgMJPsk-nMG4Jlp-ExuAyt9s3gt5a7rf7HiS3WD0oJdW6DdlM9YLc8BNVraKH2z7UhuB8VYSSwGHYBF60fAsmup9e4x_CMl2jZymx9QCBAXwRmavOY4LN10uEqTEAtprq3Vw_T6qHEhBMFSGoYs_yckYv14GIqziyGhTYbPlRMishh5PoLftejXTOBmW2ZQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJIW9j1YZZwokR-LowCQzOdEs",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAFHZQ4Z4LsxA2XwHAz3O7z6XMm3ybXPV7-psrrlxhtunBG32hRzyh1dw_MpMs6mNmqyJm0wSg0mdvm0TCXaICmDwOO9hClO26L-MgAeQ8OSPVrwhVdsn9njzyrSm_qzj-1-VwJsOKucyd9BAz-3lmuQa1-mLfjK5Hj_Zs-ibEtyoEhAOa2U9OPaOMAx8WYnwlYJaGhQCKpXXUIFlh6rzu6zoXWLWK1TNNw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "209 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736951,
+               "lng" : -73.982297
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "cc69f0ba5b2cf3ea0c93be1571614d532c1f31de",
+         "name" : "Church of the Epiphany",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJzys-mgpZwokRoSk-dFIQNZA",
+         "reference" : "CoQBeQAAAAOuQRhMbhsgnCO1vCh8Ctl9KSPmUJWTaU0ZyQm4wH-dSqOfxEZlLUa81-Qpra_Oz1GP6GSWeu1DL9IrHu_KySS5Tp_3bymcyK2ByMkYr8u9BK3erRiiuhzXgDFNAbza5HLEQzpouwocvbIWWx-WvXAnX1QaBq84GJfhbBJI1SG_EhDSx5NYvP7wSpi8U2PY1uvGGhSmsuzfsOWQ9a54EdpVGPFDeRxeeg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "239 East 21st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739541,
+               "lng" : -73.983242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e14b897b855aa38be0f2c76ea473972489602428",
+         "name" : "American Dream Hostel",
+         "photos" : [
+            {
+               "height" : 1172,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBjAAAAAQkggls6FRnG9P7GaSUGlqhlR788FPns2KGD1L8mexSC58_Zp9jMNRZEsuKZMxzTMb2Au4ite1hXTYOX5MuoDFZ2eroZ1LGQBA5ghNT_dSxG_rKJFH7JPEERUmNNfvDkyPAXKEZkUjhUzCRRazyT4OMXPA6lUdpVxmwIyQVXlZbqBGThGisiCgOzSCbAZ0vTBIQZbI0V3copusk7NIXBoRWXxoUC-z2L87WrPZ4vVNCVs4z7Tv1mmY",
+               "width" : 1173
+            }
+         ],
+         "place_id" : "ChIJQVjDp6BZwokR5b0uOiTyAwM",
+         "rating" : 3.1,
+         "reference" : "CoQBdwAAACfBbhK98nElkTQMP6t24mAGmE0WPqqbJxHuFFR4oiETVDQFaa8E3l9ok_hUEHCqBDtfsYC6wdfM3BKU8X5sDTKozRQViKfA6ymn5_UkjGN1_knJV0jvsA8WwziDZJQBm7Paq2BXJ26nikk23P-Jvdv7DjgbFrE-YX5IZGBIVk_qEhA1J0aap6-qaQzuRaWs6UBiGhQatHyFVcu4EWa6udcc5YB6yH4WeA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "168 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739482,
+               "lng" : -73.98232299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a82bf7db9d0cce36c89b6a9346ae23790e1f49f2",
+         "name" : "The Marcel At Gramercy",
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMy7K0NDmJot-IUGRW2upV0loqMp1KJrh8ZSwq1Y5PlPsduZrSdcS2ACfJL82bXSPsTtbn1iuiq4Ad9_aVoevCsbdnrtCI5o_ZQbKApazYVvciLnG_U4_U2LV9GKwe6Th67DiPJONg29Adjr4-g70wRIQzQw8W7gkw-NowSHMP6OQ3RoU8l8wW-j6isrVkhpTiQv1y_US8fI",
+               "width" : 333
+            }
+         ],
+         "place_id" : "ChIJnRQyDwpZwokRrkYPdUU9JRw",
+         "rating" : 3.4,
+         "reference" : "CoQBeAAAABhdK0sl5rXfGu0gYymNHCkAkE1wESm7FuEoGV-I9JRHTH6Bviy0GNCojouHJJPX31pS2fJdK0uDc4k2p56uPGNKyLzZ_z_3zl6ngfEphFHK3GRzcTqQAGuSo2gwc7axqAyA-539xk60n1JOwfj9K_S6kQf9uFWRY9YoWohYrcmqEhAhGMShtEURx91xd_pXxJaOGhRkyGP86U-n40XyG5C3s7uWhVGkKA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "lodging", "establishment" ],
+         "vicinity" : "201 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739713,
+               "lng" : -73.983572
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "50288b9366f6343ceb37164d545e5a7bda1fbdd2",
+         "name" : "Madison Square Station New York Post Office",
+         "place_id" : "ChIJkZNkv6BZwokRJAIl2muc7-s",
+         "reference" : "CpQBjgAAAFSaLc5b0Iaw1XTQyYWEWyslfrY7CLqR7vNbd5EuruZXRErxDD8ePFRsIRGCb6CKh44_PhqQsQUPHoOIPqZaduiWMUFtFkp9BMKm6NfIL9-xT5dJCVQ0gK7bTSVHgd0mjxPTHJy7lGtEybDSMtlul07oxJ7PkXcGzYsZn8Dz3i9FAKJUv3gpZyaMOo_whLgyLBIQcpiAlmXV9XNMQZ1yOgrFvhoUNSRBHu1IIxQ4hHtZnAjiQDF7piw",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739545,
+               "lng" : -73.983431
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5be92933eb88fe8d4d57e85f434f4a32634e778",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLeGnpaBZwokRQbo1b_RMESI",
+         "rating" : 2.7,
+         "reference" : "CnRwAAAAO4oORnSkkYIStFF4L4TajyKoxL4nY41RbiRyDr1-MAI0nJJ8tMP3dv68guhswklAj9dzOoZtBTibvwXm-zvMPlqfKbPCfIhbHFHwQLHFJVJrOyvAR-qZz7JvvRWSnvmiy_FWllxWVZqU9rjPrUsiIBIQnCo-zpp7y5Oc4euDfDELKRoU-5SMf-LhFGj5DO756gHGXHSFG4I",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "149 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737968,
+               "lng" : -73.98348
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6c3a55b3d6a8caa783f4c3e4b2949c4e7a8c67b4",
+         "name" : "Rolf's German Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmTdqoOEQNUET2TJyJl97aaQuiAhkpwpFZzFtSL75n9ht55o-iFD3Tyv_VIaz_dGa5GK9KUwpIcQnWO3gFMHgZlSDKs67gUuAzOmD0IHos0AOluF_wO-kNgpINnxwIT0zh7MXGDgESOlqjfAkDHEHLRIQ3oadmXcqkx-195LXUlNNyxoUTu0WhDWIFMtWylG6yWfKNgGloW0",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJo_D3hqBZwokRGVzNSAZkqZw",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CoQBewAAAPdYAQJbMldRuwvMjXO6_MxvNx_3_tf2cY7CN1gp1bYkS9AofO85MILisnKgrdmu5TPLHorgQn0E2mQodTGajHzrD0hbFBWh6k_uI5cXB8VET6YBeeD6ZNfBrh2BLLQvaZW3cFhERNK7lMKnXYYZdOPMa7KxRXLh71Hij0586ZmzEhDoec2vEJW8OQIKLBoWX23gGhR-87dIv4xUIl1Ee9kEejrG7X1BqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "281 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738177,
+               "lng" : -73.982354
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "0c5a4ff9ef3baca6e2e3d9ecc3ef7f9b98e74870",
+         "name" : "The Salvation Army: Thrift Stores",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA3kf62X3YN0Dw4b3895EGgtF-GI0O0KPwkj_nYmxXy0QhoQp9xMUtucwECCM-C4C13bM9iuZZ4TAF4TsH5c2RsEdQ1yd92TOcLOIcoMFmyPLIV0DqoImtAHb-BajMoqKHTrmTKBGq8q1gM-bfeSPmeRIQrQgbRR3IU8CeF_zuAjzURBoUfdicTzh1-LHS7xIVluvDZCmcjFE",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJGYvfegpZwokR7jdYcAvOekY",
+         "rating" : 3,
+         "reference" : "CpQBgwAAAFTkYws_PxSbL94iNsIV-3iynerH-83Ob8-EsouqsYzemZUAARUfQMWKywhYyjp_qniTDKG98xIwoEfnQA36LVKbwyTzOLUaImUPQH1CStbAhHIFTXdiagzCCfOX4oUbS9IB46oKnS76z3La4oozl40c1FneXNS1p_OVfpEH63BxFSX65gy2pB_Vb4_Hkj2y0xIQ1cbFFUvADW7QnmOS97kjfRoUXIilUrDJD1_t_gX6Oc4K-7JCiOs",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "church", "place_of_worship", "establishment" ],
+         "vicinity" : "208 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736706,
+               "lng" : -73.97984
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "28a01e445a8ae33c7ae38358b5752688cb4667d3",
+         "name" : "Dollar Rent A Car",
+         "photos" : [
+            {
+               "height" : 78,
+               "html_attributions" : [],
+               "photo_reference" : "CnRpAAAAN9VGHCQYCm6DAeTWfmTqxCMJpgD0RpT9KFDUR9nC9tdztMKNO2-5qRvJ9egEgSWnGlFpnb18Ks_SsgnK6S1JabXCEKdVaya3O5SyxCzrnVTaphrbDMylW1MZllTakHMg9A2d9yyU52GgMAdh_xtrURIQCTVDGvyGzaYx-DaIdASDxBoUkUSv3ojX-yR7ucjjmOmBNqAbV6U",
+               "width" : 158
+            }
+         ],
+         "place_id" : "ChIJt0af-wpZwokReQoMk0BKOv0",
+         "rating" : 1.6,
+         "reference" : "CoQBdAAAACJXLESHJfm6aa9dLPS_riivlShsE7YJZgbxpEiIL3M9v51HTPqRP_nf93jNsn4QkqB8n4zsDRSpv-ckbkHWOv4eRQQidOEdMBzAtcNVUaLBNLEU1cBxAU8hSZ7zUPVvmk5GLBg2A1eu7MHSbRGH1C6mzJ9h8BHr9LiO0iGYbyopEhBL_MhQE38x3gSKMtudPxePGhRAjU047vnXWbdI-0IwteJjbWZOsw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "329 East 22nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738245,
+               "lng" : -73.983238
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8ce36193c81bb9529ae50eeda74230199a85f23e",
+         "name" : "Molly's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXve2HF_HKaMTBiUKCQyKmCngpZaARd54xAKCwM6Q4nrQDjY-AiOGK358-3SmVfqq5vWU29H2XZ8RnSL1aWVDpWJO7eLng4q2AyUiXMzT67AVn3QcpJ_dmD3Uzcdt55gRJ-i9BGMjTuJZjisPCujcOxIQgyrPVRaoDLYX5NKVNX_QZRoUU2ga3SCSA8qyfqpVR6T6byLYnN8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJpRQgg6BZwokRmUr1ao7HFZc",
+         "rating" : 4.1,
+         "reference" : "CnRqAAAA-V5m-Rx9um169l3cVNWhGl8nVPwmtjx5TH-Z7mCeGlrZkRRmjgmbob0d9_uKDkAgFc8j819_Cx8Jxp_aCI17ORur-RCV_IL5mcSbNUUlLwsPMXQz8lIGEnIxaVLpkvb8j3nvdMouaDOTQH3-8ID7WRIQc0j5zG5Xmbw1vEDeWwiICRoUolWUUVVAt3Ji6eV_0lz9vX06r3U",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "287 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739129,
+               "lng" : -73.982682
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "080fe42d19827b515dcd9582a869ed593107a594",
+         "name" : "Taproom No.307",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAzWwq4Ht9upspIAVAr7V_Zo1Yg8IuVKGx2OxdTUVoVj4-6zZAb92p0QVeUmS6nBhfOLfC9qhxwCGO40QRK7VxIxX-1ehi28MuebQjWGSq_9YYtvzJ3PlgTfUkpndZjAj_ou1MvOaQsV0DJRtL-MeoPRIQ2kRxh5jji3aaryqQ4PJzQBoUrkj-A2Ka1ZXK5VIHgm-n5msLPCg",
+               "width" : 405
+            }
+         ],
+         "place_id" : "ChIJ7_QKCwpZwokR0xPkU2Z5GrE",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcQAAAAPI11__tfgTCBv3ED9rE5lS0mH-MNX2EXbsyfX6BcOf073YC2C34rjc8IXv10_2_d7CaDd5nZOyBwmAaQxdaiboPpdok0fJ0x4VBoDb7g6SFMIKRyueHRs_op1iN_FSyLgQl_NpfJBnxM47d9wmeRsgwuupagj3PCSmcjJ61NnvEhBmuV8bI7BwVg1fYZwcZ82EGhSN577ocSsSntzOxbOAFb9VmoMmbQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "store",
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "307 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736811,
+               "lng" : -73.982878
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "1cc63539446e9b831a7eb7b83b65a05263a3e5a6",
+         "name" : "New York City Police Department: 13th Precinct",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAeNf3TWkjFMriyQrPb8CxOkPiAicBYeG_A4Sx5r9VUhepJk0KrZIaOQPsD8omDLT0tqKE2fc-Q9d3b7omKeTOMA6JtXEhi3r_O4xtvceM8rKF8ZfrDCaiM6z_TBsMlBBXhf-5P-chAJqRkBnplVzSSBIQJcr1D3Ud99taH3HOlZ49jxoUFc7NaW72qenBRPK3jxfoOULpvl4",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJbwVZnApZwokRUhmlEyQrK2I",
+         "rating" : 3.7,
+         "reference" : "CpQBkAAAAGrURt3WKWJnKt0HkpnZiyEM29QtIVY70KtItl-RiOHzWpGhj8s2gW1z2Vd29EGtQ21X4azXfa0ReYseyJwHs7BB38kip0g-4aMTacDEiEY9_tvDPe25YC4-q4HB6CBASQRAU4zRFBcTkhjIh6mgtX2g7PJ2e6of4-9cuq0R5I4dninPXNc-sX5LlZuZPE3N_RIQwWVdqpK2L4DRK21BEkjNyhoUKO9QV5xlNyhIpquNDFg4MPKQ33s",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "230 East 21st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738882,
+               "lng" : -73.98374200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2691f289319a04b8d01bde982fbe2ef2135d9078",
+         "name" : "The Globe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJiUxll6BZwokRgDgDzwAscN0",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAABULd1aj9dE0xW4JFuYot2WLv3kZCFV_-JkK7F4-RiYd7giEoFqRQaWxLWUh_ey1-z23xXmJ0Y8udDjG-MuSQZMy8KhF8lwNq7OWccCjM8vcygVmKrYmGr1Zj3bgVPHUD4K-4-4gR-2A8srDDOY89hhIQMcess8-E_YKglPstYm5pzxoUsilrMyB2Uarj0Pt2oLauPRK9jKM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "158 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738516,
+               "lng" : -73.983058
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29c35ee0327ceb73366d8864e5bb3b5c85eab53b",
+         "name" : "Pick a Bagel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAORnmI3NWqLVPvqtnwePmxPU_0nfRR5k5ZClByPCEM5QQiw1_qKVU4orNaTxTjwHHxAd68x4ABLIeWDYgLu8cd5MWobFXG8FsnFBkCjJc0lyJBBnt19JKeH18AwF1wjaEO_aQiRWyS2F7233oSepDlBIQA6D-HnOGxo7CFwoQ0okgpRoUFUrrVMeo5a7cZPv4xjPNTK4oQFs",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJoQ3ndwpZwokR_1OCrPBgKMI",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CnRvAAAAtIlPqHam8COTkdmhi_X_zk47rh5P7poavObftzzy0XyorgyMJQDFvst4xvraeGYSLt6_QnRvZh4_gxlRyTtmzw2F9jaogEkx3SqqxhMm5qRdS6QD-diwRe6vsOXYUeCg2Oaf_vSeMSHxHL_gYYHcFhIQIgv9IiiarmtWgZaZROfcrhoUlMbQf2uUJP83hdZDVyul7k1Brc0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "297 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73891,
+               "lng" : -73.98081999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ea60725a80d1101f967b6ff55e98ebb03ee07b2",
+         "name" : "New York Comedy Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMNHR5UiuR1YYYbFAR34cLBkm_lYvJUmjlcjQimoH8gQMY2KwJ904K7WsN8J1l2VdtasKgcdGwBd9UuibFBpQiE0UuFCQq0TLP9q4vqd48qpGtYZHELHdQTDJeJ-jrNDu0hVGtkIw9O0s0ee8_FFG_RIQmJyQ44xLbXw3R30vni3PgBoU0xOOVvPm6iksBk68H_HL-Lb5VHg",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ9esxOApZwokR90NQNxR7QRg",
+         "price_level" : 3,
+         "rating" : 2.5,
+         "reference" : "CoQBdgAAABmX3XfZ5hU7_uplJilLCvCR93CXynWWjaVfhH3Uw5JCQBaL-WK2uA4BhAi9WSb92HW6ejLmAzCcqGgwG-m16NecazC-bXGRPboy806_g4kig2kD2uzzhyUMj_ubziSudiy8B15cYNv223OP9umECWN9ZiGHubkyxDlvXj76DfMvEhBIwDvOI76Kojf9C4-QNIPdGhT9zJMZs1dpXcyT6iF0YbVOycoHSA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "241 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738306,
+               "lng" : -73.98227300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "47574aa241a477c476bc77b1c8210401b25307a1",
+         "name" : "Goodwill Store",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGYvfegpZwokRA-ZxRJVuDlo",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CnRwAAAA3bwdz1mBtAvw2mApY7hxfd15wwag9uppfemRWYxwXjRPZPGPhY2ea0LYvaMHB_FJJ6qSfmpzVjOT_uZpBBwPJRmYkTmix9grB2rbwj1GrZU44IHbED3F2glmsw48CeZk76uwFnFQ5Cm71N1GT2dMaBIQboP-rdbM6T9_uxxxjKBlwBoUHDTRxITcmldLCTezSCZ3cUFP8Hw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "220 East 23rd Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738537,
+               "lng" : -73.983101
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "3ed3759721188e49662b34aa97c48bfcac0bb2da",
+         "name" : "Confidence Beauty Salon & SPA",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA17MOYCwaK8l0CNJh6OQNqpXfDI5bKvxTgvHPxOdN-7MBlSlC0BIXhXXi7QsN8wqYIHU_tajBJ8FhYVjCbJQLdVRmVQr7PAba5L9x6qH5HqoyvkCqxQ3LAaidjIWV3Mf_vbWTsx8KTie2QCFe2uG0OBIQwquucr409o0jJEDdWJIYbBoUIXgc51cvbxVBdW7KhrdmDpKWFLg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJK2OtnaBZwokR0P10j4GWhaQ",
+         "rating" : 3.1,
+         "reference" : "CoQBgAAAAEx-rb455siGmGBmkGh7bslBy1SPEhwzPI8OWhaEHBA9BLJv0skI9MLlQpe4SjOYtcipvta6S4b7KS3yMdFmMqtaC9IvnDH8IjxDsAqQDb4rLQ95AQPkyS11fTRKwUuYOfNUu3PFfyCYsZkmldxw-lLzfBtOobl7la2K370a45H3EhDJwMq6oLuocFyBME9D5jinGhSJL6qXV3B4PBpP6c4c8zKAiDz2Vg",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "hair_care", "establishment" ],
+         "vicinity" : "297 Third Ave 2nd Fl.(btwn 22nd.St.& 23rd St.), New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74232920000001,
+               "lng" : -73.9800645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7463913,
+                  "lng" : -73.9717143
+               },
+               "southwest" : {
+                  "lat" : 40.734901,
+                  "lng" : -73.98473369999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2fa1e037d3c7c565c9a4f7a7400bda9796558db0",
+         "name" : "Kips Bay",
+         "place_id" : "ChIJ1cHJEglZwokRXqM6j2BLvnQ",
+         "reference" : "CpQBhwAAADUpX98NUE6VpTfFNVOPWBrL_1GoEqIhNdFV0e4E1tGi5DI7VWGVWQKoPoEMZ8FhIB5a9JaLcEk1EhumBp02mBDUYhiSUWvB3KNci4vfB3CJlmOUoRroyEChCUfqmvVE1UotnpCYfljI3d_m-JHvtMh3QgKm3W9GMx19aXLMQdbaVKOQl3IR-HGBrZMSMxiWEhIQQcujJM_WuPvenI3QEhC6KxoU9iW6gCf39yLvfYP0bQYiUXeth0w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

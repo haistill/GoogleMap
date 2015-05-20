@@ -1,0 +1,559 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMcJfyhzLZKbyrIkBqDAgBvDO7HRhAXgVIKWLebw5GJFgt4sIoONWYZ6fCHVv-VT3Wjsl5PrE-jIXTBhyeMNFkC46ZXg2hQFsuE8OQzIYlEZK6d9eNyHfP8iyCN5qGMDUGQlHIK9BQlP3VSdTvsPhXo99ASCzZNcnMb8yYODHAKPBFTrS9Do-M5uC5w7EcGuCYKpuK9j1ANd5S6PiU3I6GrnK-6Lefx091PtBcnC7L0lp2XSChWfOAUntqrNhOhVTgHuPWVUyQIj_9JphEgqt8B3vkX9xKiOWw9K3uHtobork6P8s6hdaI4wHXzW8RVWdhIQBwZGpmLx6iPaLtmkndDfNRoUKVelY6asZkVQWoJJ5a2WFkaF51w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAGwSVTAsf6utKpl7eph3xWRMsMMDgOJFbPXHRNnJU5HM8SoY27Eb3JIuUItmyAsuIDIwlscgOOvfArkzvO5x-amt5Dz4M5ijSx3oEkejkUvoZclMmA5qj-NiJ7QSuzQDx7TMgAWacwn0EvzE3DkXoUaR8bGYpUFKcG_nouugGuO6ydB5hzbFzd4FBwNibKNdSRIQ4D7X0ktJtrXyuhfT6wxB-BoUqUeRRhRnuiTrlzeFpNzZlVur9bU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731758,
+               "lng" : -73.989124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef13f64dcaa44c4e655fef375502f76652a89145",
+         "name" : "Webster Hall",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYcJ-rZieKELJo5Gc2-BjNeNY9mz7yO6azQCIyIlb0JKvX9_CHw_HuKlOBi5eHXQwbZuA9879M1E1UbwbFk3DsTICl_FYZjQk96vkflBDE_euCi-1ahut0hZ541nCe751r2T3cFlVIk8fy7edd4qq7hIQZ-lrl9a4wUHB1tryqnpYbhoUeHhX4LOB9NAtx1vsz0QJ8h1_u7I",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJhRtmUZlZwokRkQOpUZlUGZ8",
+         "price_level" : 3,
+         "rating" : 3.4,
+         "reference" : "CnRvAAAAjQ1FCQedT2ozhCxwI_IbY01ex83bmkHiaR6DkbudHo6jWPnXGKrncpf0J2F5xsqZiyvtqRdsMNzl_vFOhqvD4BtSCyyZhh3TLyuLEqu_7o4fxh8OAnxhI3xzai272iWpUDSEpvkLnZ6gXhu6kOoQERIQedcIl9HYAziasZydfurV-RoUMiPEpyKOwtfh2Y44ZM2pyw-cP1c",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "125 East 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729305,
+               "lng" : -73.989676
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1fd93825f351e8887dbecea7747b305ea3d3083a",
+         "name" : "St Marks Hotel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAAHtdNFr3vQYzGO3KOFOzYaP_e7R7XnAlI3qB_qX5o-_qzZHdFg26jeChu6RzsAwHepW20f_ad1yoyETzcPTq4m8dFki5SU1cIQVAs18K6qzwU_DBjHPnq9yEf_HrlSbAcpPcUZjC6WvYas1FId5LwuxIQ6DzcJhgz8fSyqx2Wtd4FJhoUospZQz5hwgCUB1TB39Fb2pr340M",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJl3GCkJtZwokRdwxzDrGAFh4",
+         "rating" : 3.8,
+         "reference" : "CnRwAAAA-70BKlZaR1CaXodHTE1erixoULZ578cDpzL5NVuONLEqpOWnMhKWr7roRWNdapgWLWxMvizk0lFqAOyaq6Z7QPEs0MwlPNj9nrOcMnKwXwoI2hrRHRka5-Z0mfVSCGDmiS8p18v-AsG_S2tNhz7rTRIQNZ-6fytS5QeZ_KGf6fzn4hoUaQ5CVaGWBDtNRyi8EkHjZAF-POE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "2 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730281,
+               "lng" : -73.987115
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b415091952b29d50bed51923a56772a566da5632",
+         "name" : "St. Mark's",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAX7pvwJK_Tcb6-ayrlLxJQxprG8b9vC6K_x0ICcHxb-agVV8be0p3S90Nbow4M9yrv3yVmhKdj5HqdznOO3fuoq154ODezwu0KLiutubJlQTbByA9WpeNRZx0R400Pm8LJqDcAfLd-0jqn3yvxcgEixIQ9uvmXGUJVhHJurTgddlNbRoU_CKR2GyjIhvy09FYUrZ82Smc2XA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJsQ-LPJxZwokRQQ9jS4CceW0",
+         "reference" : "CnRsAAAAb8m4EUUcOT_m66kkZCZN30BbUSmjSmYgwY9dZECCoyvgehtTl4CkXIQLcdUZ8SwvLSFBLIRT9z_HYNCf5Ituo1hkMmClOCNxkP-4tPFP9qYBPQVL1RI58X6aDqgefdu9JjhPMc-ZEJ8piexWYUHKTxIQLQOtDMOoUMGC7ByFAQwn2RoU-GU2jxSt-PF-57XKEpnEXBasaCg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "131 East 10th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732683,
+               "lng" : -73.987297
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27795cfc99410ec0aee30c2ef0fe342ad4230eae",
+         "name" : "Kiehl's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAx3dEpcH3kFvyuZNVSpMBRVP8tKo6sXRWAEXBiGH6oQnavleephhCJ8aeaOwqIHyssLY9gHrbX_RqFyHPcbS-VVbCJ3J8cVHIFzUyvY6boqtgmroXof76y0aiY1x15UTHHe9mbfg5xxn_O5EsW0_CjBIQ0NSJRaMuzdSNuGERSDeJAhoUICm-tr9TsBYI8JOUwmaXQZKnnC8",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJY-8h6J5ZwokRcfZyL2HQvps",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CnRqAAAAGWGnqPljB1TUatsOlAKZ-xvz1FlzOs_L_WCH_46eBc97DBq2pTIyoL3BpclHuO9_YdXEgM87Nd2DRSdDzehCjs2Xm_CdVIbgHh8pH0IucC_ezCeFmWUM9FV_uH_Q4n8dHeQ_ZL3nf16ZtAyi9SGgmxIQFHkAeTvUjuArF28Ca5dRyhoUd7pQ8ymDMY-XUoL3Opkhkfy9O50",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "109 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731845,
+               "lng" : -73.99053000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12c8ef12f66cd731d4cd7066bc1027fc816ddaa0",
+         "name" : "Grace Church School - JK-8 Campus",
+         "photos" : [
+            {
+               "height" : 225,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQIIiZkLhbD1UN_xJA0erqYMjaJNJ5vM2VMXOL4Eyfs56h2MKYIHJgNdFUMdafUIKatZYF4bl7XW1hCI1kDMq9nSHg4PsN4iicXv-i-iSEw0mE7LyMC6t1zABg-bMROgPky0vE95KoBvpklXIoM57iBIQk-YcCTy8fm2AudA7PPExMBoUkfk2mm7oAMNHPrzHc_r8Pa4oGmI",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ3zk-XZlZwokRW4lxc9cV7XA",
+         "reference" : "CpQBgwAAAAdQF3rpqNm1TSL2KGtiSsUV6nbrzo8cnkBecWxHR2y4tNBMNrgM7uUZRnMuErA8uy0X8UUGMmat2uVWhjulwbNOQV2ZcrfCP7ftb15d_i4lSPUHLSQGu_dKXD4_71ec7UWB_ABPQJozzpWsrVcRmXLtygLx6iVbYLWmZ5FrJKzHJ1C-FyoMsz81LiXA0pSh9RIQCBQy6w1i62wqpqm2tvZlXRoUg4b28fuxE5qDXvvHFRrH8Z7a_uU",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "86 4th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732739,
+               "lng" : -73.988336
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c9b087a517ed5e7f7fabf8fb534aa9244bc0b0e8",
+         "name" : "Classic Stage Company",
+         "photos" : [
+            {
+               "height" : 133,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACWJ1A74zTDNI5b3RG_yM624P7hA7XpUDdP83wxaRdeIqI943tDbVM4UHmncPrUQBbS6M6hI4kUUSJQ2ZLZb0sl9mTBIjyWxQlmPJ-YoRihcZ4ISp40wsadHPHR0d0Qh8Yl8vlCkd8tZzsn2sKsFunxIQwF74O6SZLcD-uJTzg4DwIBoU0NtlxHYRANzJ-PvlbsZumGOG4QQ",
+               "width" : 172
+            }
+         ],
+         "place_id" : "ChIJveAZz55ZwokRiq_jyITazwg",
+         "reference" : "CoQBdwAAAHJzr6AnAaeRk_Hl2CcRNJ4z9c4Lt5vOYtuFI6PmQuG5UoI_01eu9BC9bPWWT0iIT11hGc3dct45Xf6Ps7aSg09i-QgPyuhjc2LixPnnd3KpsZwzViEskFwirMEtEegfe50V9gz1ojabAczO-q_tGVzMO-heRQUT9ev0Rp0bA0b6EhDYKbUsxM3lW5XgU4uOMpxLGhQlT4pIfrR6KKqTwEtMP_8_zSUSIg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "136 East 13th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731612,
+               "lng" : -73.98920699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "a908ed2b372c02b9c164bf35f5c7669c50551cce",
+         "name" : "AMC Loews Village 7",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAAEgm4xOA-HMeaaeqbAnSur9XB8D93f_D5JGy6rpNd4sgb76vMm5R3u_8RhkRd63NXzHBb8x8wUmGEBaZoZbbAVIJFm147JUodTH1eDRghQsYW2m3xzQzxS62fnSBZTBIBdMPlczGKCKb6vRjuGAKqPOovKajQ_5MwnQ7TueYwrIvEhAK0QdLOmUGyc5AxWCx3VyuGhQPYP_D2WWyY8QL3UiJgqPKUTkyyA",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ_4vCq55ZwokRIjJSXWnH_0c",
+         "rating" : 3.2,
+         "reference" : "CoQBdQAAAO-tag2Cq_rtB5Z3dtsQRNGObp51G6a0unjBYnCYIK5D-Q5orOyuvh9_kOA-__dcLKp4Trw6G6ukjiK6Rkc3f0GPqIP7bBdXFWpfY1r1wlQfKEOqZtuNFQnCm-F5t3Hy_vfeH1mQjFoZF6Kz-7lyS7riMifbMX1AZpgtP9YS720QEhBFnwE2_ebv_katU-CGPiB0GhRl1CgCYwL2Srowgg2PlCW7L3SuzA",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "East 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732353,
+               "lng" : -73.990449
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "caa5c0fc8e55f4d612f1666115a086027ec76b06",
+         "name" : "Halloween Adventure",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAsYXeQwI7saYWDTkvuVoHJp6qGBB4Xmwn5odDbh09h6jNueMrQb2Hu476qmEMrhWfgI8DsCeu6_TJXIfmWEZe8Uz4zmeH-qGK3ioo4ngffq2xPvBMonfG7i0xkOy1ZT40KXs-w0PaetSozXQvRNIDmhIQ1R_39L4tMghcwnkdPi95ERoUDsF1XHkgQJin8Sd_masxYo4cKNk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJK5BNQplZwokRaIp6Q3drK_4",
+         "rating" : 3.3,
+         "reference" : "CoQBdgAAAGZWdx4td7_0DYSMo68RTKTtut66TvLDHrOFhzNaJb7iGqlruY6wAb4niU4i_szscTqNFwqmcExkzJkTvNz5ieTqurPHZtJwVxV4qSee0Eg-cUOGy5YOG_LAyjAXApLljzoNs4odNjToV_RV04yTIxDOBeNDDHjy9NLAJHvsJEQ0EhD7U1vGxUweZcE8_-NrkA6zGhRdEGkoCyA1wkfoHnS8d1vQMgtOjg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "hair_care", "establishment" ],
+         "vicinity" : "104 4th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731037,
+               "lng" : -73.988536
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "840275122306056cb5a6b3de955e966b3cd5ebab",
+         "name" : "The Smith",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBjQAAAEn9xLhZiN0xgyrwhGXQGJCS1FSnHyJMwjEoNNeSqqlD3KRWuBqdUJt3AtJFS8tiSHuZSnTuTHspstzVU-DzhKRt72pyfmpJGaio0DdbigAMCDZGViuv_R-bH4ze65f56LQmWS3VscYcu_-cKDmZDFrL0VR5LdoJnt0yFxZMzHkB3e93tWfTn03QQOzZc9MyKhIQB-Xyyol7t8cKU09DxZ2ytxoUNr-vDgV_RjY7cmPeQvJTsUqerN4",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJcXq9AZxZwokRZ56WZuGnZkg",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAA1IRC0lr7eKVUZtqIhiBJXP9TKml4RvpkriPCWpXHQgawlMxbqBoYxvem4Ur_xd0WHdn2onh5eFuxZu3q51H10OmAk7IUCbsCrOVNrJ0D5EBE78bRlZogmbubRfBz0oltUpdPSwqk3HSdWk3ITzG4jhIQCDbZNHWVdoXLESZaf6M3JBoUEwJDAES5npo4nmusm9ETgoH3Zis",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "55 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730883,
+               "lng" : -73.9902
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c150e89d342dc6ba1cc7d78f3b5aaff06c7fe6a0",
+         "name" : "Ippudo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABYfVtJMZjTVQoD8Bj6sAiMrWgeqMQxNvlZD-vdKyGa1L9gH1xl6ZHINtLbeiKlPPmvsEX7jj7WWBLV6Jn8G9QCqAFzy2m5ADkB_LK32y2g7msYfMeDyRn2ekXkyxIyrEQVCciteRodBtVk8tfU6zyxIQx9w39ogmaHRG2i2-EYgruRoUPvw0s9Q8VTAV_XfObaP9gdz2vzY",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJWUOc55tZwokR9q_g5l051rk",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRpAAAAL272JCO0U4W-8bRsHuWC8wi_vy44bZ4nn348jOlqPGngPH4zOYaj8U4AMbU75KV45xROvG6k4x6M5ZDAFkPNHhHFvxj8c6e69R1czTbh7pz5UNxXE4SgombD5cxniBhDdqvWPwgGFLF4E2yKpG8n_BIQEfFjZcezMojm3LV8iWowKBoUt7TWt255zj8YUFYCPycS_bSkrIc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "65 4th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731341,
+               "lng" : -73.98896499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6d074ce60a5a92bf6fa7a1a882f3f5d7837dc706",
+         "name" : "Village Pourhouse Downtown",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxKcgyKz4xWj-RbKl0Ie-SpZ3Btyva-D5qjBRd1TDPVPoQxu19VLby1f3APQriyCPb6g4FpLcKjAp-dJ8lMpt2ffdl5VOLFQugrx6YnQfOFrGYTHXFj-l9N126T2hepGURp9DR_-pJE7Vh9Mpei4YMBIQFiTU-LwKnAFijCx98XPn-RoUY4sz8HpiAYIxAskE_DnV1gZeXWg",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJlZLPqp5ZwokRuGU018jq_Qk",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CoQBfAAAAFwYaJqsFuRPSVg28e-5xVdYHExfADNJ5WI6mDQmJ1gTWWNbr8vhKEKFvo6aTMQYbgCFdVN6bXVWG20rvYLMN6GYb9qtTJd5Q0GnWvXG2QaUHSggKBmF-VxOvBuTaFSS9_TfhnNGyrYWgTMpnqhugYovDDBhQ6zglcO2y1Wf5WAFEhDr5Qxp2xHnPTU6NKtQjLhzGhTlRx0cWlrXVr3BRSjWqIY6-EAKmA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "64 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731719,
+               "lng" : -73.989238
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "be045ada4f242c1141cf3c75684eab4004dd545b",
+         "name" : "The Studio at Webster Hall",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuUdrKG5xdDVeFa34mSUx4U5lEpicEoPBt5acsyG_vK_-sIVPn1358C0GqYPU7DhWd20s12uXpjIEb9LKrcSHM89PNFTA6ta7bZsdK5oEzlvv5vZcCFBIV1QcP2M6MHfSWM6PHtUIXmMLdiU9syFgeRIQ30bj8ApGe2Ri4pxahv7AgRoUSua7rTHlje5Phszif2Wt2YheHn4",
+               "width" : 994
+            }
+         ],
+         "place_id" : "ChIJkS3HU5lZwokR8QO7-vTNxmQ",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBfAAAADrAnMtgzn_WqrlX7j-d4PvcZlyQsyuprSrhbRnlpECU1DDl3sxgTUocfnJDGA6gECztc8VcpzCeoI6vxfALVTMZytd3m9eISJfncWBH5vI_zczxgqYk2Ha--bX5KmwN7cGhYuNV5oLDuPwJsqitDFWnPkl80tt_e7Y6rmMnT5szEhDRcGgH9mh8SwVlI2IJY0z2GhTMgxlNwjP3AiCzUvAN35f0YXmmPg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "125 East 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729899,
+               "lng" : -73.986435
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd4a230405682ec69795e70b072bdfb6014222ae",
+         "name" : "Urban Outfitters",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh60jN5xZwokR-PasiziefjI",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAAJzNqLURjaJbXRjBedFnb59iKlN-CxkU1WLpJfT6vvIDQpbkuXFrHCRzsKkdojasyWr7sREFeXDIczZFnat2_M-73GiOsh6_rAysX8uJxlhbMf9iPmI6q0JIXaiLPWuipT_dBvy5qX402n8LXGzCB15sCl_i3p6ED6kOAsThxeb-EhCBRk1h-3xRfE1ajo5vWBOPGhSaEnom6-M54hHmruqzpBuwdy_gIg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "162 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73126,
+               "lng" : -73.988957
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c52e1ca502c9f8dc418bee52801e0744cf85614b",
+         "name" : "New York Central Art Supply",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAz8NDGWKhbiJm2suUTptVwiOk0gK6-G_9FCV4acIf4Yoao0Znh-SWEc0l37_x9JGGKrGASe-GpMA2Ht8lZ0Z6CYc6RB_yHSPyF1BTtZqL4OUXa3f56LUdVwVc7vuMLDV2GLX7T2T2vmqtjDH00JuXOhIQk1_ujSBC0Uncfg89NQYBLBoUVeRdB5U0dcfDI_3nxrfkQvQiPYw",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJHwZQVZlZwokREtuQoWJCE3w",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBfQAAAKuRISm3yzrAI48gFxlHN1cHwf_sjcGUf4_TFU64aG2TS_5uQMHrf2dpnV0IFESzOSdOMEyoFSkrLYBtgQjH7Pf52L_Z1TD4OE3W9u7pnpQtCPGhJ4Twf0TJCy4qh218Wl4G9QrLyYQCnpxqtNXy_eKH9ppIJ3B7BZXapls-nVXWEhDHSFdVjutGQr4UzkXGgHQlGhS4z2zGT01ewGJBAAP60hhNlUBg8w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "62 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732026,
+               "lng" : -73.989834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "59e8c56a1a246f7864ac13ad4c62b8ad49ebeb03",
+         "name" : "USPS",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz3H0RJlZwokRhg9xX_Y_6uE",
+         "rating" : 2.3,
+         "reference" : "CnRnAAAASMYFFlVuEvmlOrMjOXjQBJV4hz8jR5EXC1S30aGe_lOljWMqIgJb60t-NiZy_a1iUrJqvTU4cYvn1X0qGI4o3Q1QflhzyX6kUuLyVprgpvzGuwUWzoIAqHxTCbXMAjBTToYn8vdu2KnqvarlDfjTaxIQeuk9Xl-Jm1GCMry_KhJH9xoUO_5D2A13Gl7Q5MkO9FnXkQ9Vn-M",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "93 4th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72961,
+               "lng" : -73.989558
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f725407e62e164016ed00305a6da97cc2a7822b0",
+         "name" : "Continental",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRtAAAAJ1-GIkM7WKelNA3Vu9WMc0UWB5Xnuv-c7DbhAJpvM-pftxUTtSoeGKFy9UghT30JaJz1RiJkYevfLx0EcmUjfWikHTYooxn5i3-NBst-sQzXO8MimZs_kxLXJu5LQi5RWxslk6T7UnVLNfIhA0LB0RIQF8N9VIAbbg6BZ7lYUnQTZBoUBPmRITAKudZZ1YU-dRJoLPqzdyM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgchMjptZwokRNwpy7frJeuA",
+         "price_level" : 1,
+         "rating" : 2.6,
+         "reference" : "CnRuAAAATjvvb0ley__BRxyCK8aZq7l77Ncgm7Z63tQgqjfnUZSj3cMYUzUmfRgY642Npi7vdcSPa5HZJ5mmBuWJw5fOhZSzyOhiBbydBEevcwv-EfmiZrrqVgI_5od_hvtbzNbRR-KbEMaw7bElxOMXjlDUeRIQaUK6u1PlSL8x32_28BTkNBoUE1-X80Ym4j5mf902xUM6noKlgsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "25 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.732406,
+               "lng" : -73.988148
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "07f11bfbcd5a70e34d2dceef794e6d07aa34b7ee",
+         "name" : "Bar None",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyxvKIL53DTxjhonGFocSnphcL3KCyb4gHsyIrrTScEg4TSiPB2QaJ3Ipb_lPgoa91mksKyjwfeZiau-snpwWBOt3BLOUSd-2peqC654y07yffFNTOz7Sdaj0-sfZn5SEgD2lxU1Bz9iVtTZj8FmrVRIQ3AEahgEJI1rjnzGFg1LzJRoUzo7bjTyYlKyYCbBG3a74Y6B1sHA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJKV7Ax55ZwokRj84zGqiqjTA",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRqAAAADTPE13FjTFzkDzaZ0Jcc58pPbE51k67E6urq2WDL_dv7hmYu87ckgFPwZHOB0bMw8wS1Y-ZK370RZioQ9q5d6ml6cQeoHsnuzD27E6K9QZVFZKRmDsc2UE587Ha4CVeveGdwHKec8u4-knV4l3YF3xIQJxngCUIxm8zJp6mQPwxOoxoUXkjr1WjyLMUY7seiTEOZYT8XsMM",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "98 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729457,
+               "lng" : -73.98724799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0dfe370b832bc938e7d0f22660bd878eecca7123",
+         "name" : "The 13th Step",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAATLZPQDY0YUGB55p5lw464EDZZgOEgaa7fkqOO5ubeO9IJ-93EgQnsjnX_fmwuj7-XhkHtI7nnDHKGiyC5rKopsUBqNi6l0kFkUl2WYMixAiTECwZgR2jCM_uH9NgVjWCqG9aRntjhaSTBw857bBpNxIQRUWZlvzs3jhIjthY1anNwhoUDmIrJTjexGKdxL9TyAstfzugl5g",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ0ct3QZxZwokRecWgCBoHfPg",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRwAAAAtdqgePeJkzFgqVpxmMwggfCSlwkBA6dn8CoaoJqqVOMnJLZJ6ssqcP6cJYxj8_UoCYLkUhBUREf6cJVxAPJnYAil11zERphYws6MYiYLQFcXdO2qgx9lcuRKlBB-J9fL-jvY7aP8Dcq0-imjZaRDCBIQEdvphUQOuJVnt7WjIWdS7xoUIq9fEQOUaJBOA0JyJrsFQ0ZVD2s",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "149 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAC4cNESvr_0SNx7DBiKX5jJS5us-Cd3vK3SkuwRRZsygwg5B20PCAHVc39TdXvBTRSKWXeKffpxy1RT1xlF1Ci1oOpJweYyAv1VErN91RRaHLalqXAJTQwmzVCRFOvwuXOqZ_wVa8kNbH83YwPto6nzka6Yiu3mDInihw2q7dqO53N7vkXFrQbBN4IsN-QiP1hIQB1Yh5aJ6rL15CyBlqfWJ0RoUsjm1iQKzLX7rFXjT7GYttjFbZ48",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

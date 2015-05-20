@@ -1,0 +1,488 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMWu4q6-33V3Z7ydnMZ4spTKDb7Fzn50n03VxXfvd6MEgP57_kW51ChBbhcsJd8vAGo5dqyycNn-171qUYCrnEIkxl8mboeGI4tQz3AYeK5iK5PX9p00QRrzRltkl79CNN18wnfLnFux0KjzYR8hWd5kxDNGUV4kNSGho2q_zaY4Xw9sSwmrQcQyxtlNxBhAuXwmcNgbUWjGqesbTIj7N7_KSve9Oq0ksQWKKpowq-czf0y3rCmMP3iLjxPzUislr9_Hpd9tQY3vxD4x3sHyXTNbT5FgaxWJrQwCF5ZPkMiHkQ6yD44dD2xclajh-nQLZxIQHMK9CUr74k8uQ9cSY_sP6hoUkoi8nyqXWzFHPvWNGYBfmCiriHY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAPSKAIpD9FPtKjymZKgVU7KN9mmEk5pbtWo2UmcWCydQrCu_0iHyyD-1Uy3hXAH3wbLDPOUb0ivxKcwZcM1I5_KUzKmo9SrrKJaitLzAIKQ-2QlaGVHXX2YZxK1sUnOQfaZ5WXyoanMGNHFAbjkbY4g8UuDT019UEf_ACcRRG5i9uIvJJFTeCOJsDNbAvGVTLxIQThh0r-79VtNiWwBI1kR8KxoU-oRkJbho5TkrBSawEMeBoGCgU2U",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808363,
+               "lng" : -73.93835
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "55f1e8d33f5dc41cc4c669e57dbffe3e9a6350dd",
+         "name" : "All Saints Roman Catholic Church",
+         "place_id" : "ChIJg__iK3X2wokR1lPZgypRNw8",
+         "reference" : "CpQBgQAAABc8WVv6RSGcYk87MswZIoj9HN-jK6RDsez8HdltTghi8QfLRVSbOyQRs7I2WNEd9yiaDgtm8tNMwlkPFt7AHAVy7zABYFMZzWWG9az8iryaPDCAa6_2K4s5xfpO6AxZJV_l9Mdd0O96HOehkIxcmPzK8Y7nVRURBZwS-WijesuhtIcactSGBj91tGvYvlAithIQ58RI6iQPynAVEKDWhwjbABoUgwEIG8YYLIpNirU4w_ZZzgGjLoo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "47 East 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807709,
+               "lng" : -73.940721
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a05ab464075455e9e00490d3f0d2d4c28a8d0bf8",
+         "name" : "St Andrew's Episcopal Church",
+         "place_id" : "ChIJHYYYTgv2wokRRxSk_tvovzY",
+         "reference" : "CoQBfQAAAAd9OSXJNs7Y6jVwO_j7uBk7WmNPJV4E-qyYC6J1523boT7q4qNr_oDD8GRQmgg5kVTBpxASVJRa_0vxAMdTl5pVqWFf-a3MaDlmPhVAHnCfCD_fCnKYJTvl6gSIr10ZX5tDo0qgvGflKbAQ8GdAjrFkbEz-qp062LvCEF30ypo4EhB2vSlmFm-xMDh-0Jcr4DdIGhRVoaXghfOVVcHfSjW_wQa49yvcBg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "2067 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807595,
+               "lng" : -73.93957899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d2fd3ac1342a8804f2c36912d0b86a16dca7d7a",
+         "name" : "Palladia Inc - Main Offices",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxzA9Lwv2wokRLTea7fK6UII",
+         "reference" : "CoQBfQAAAKa0sow1ucztNRt89NAXYt6oxrdBMC63Npe_qb0WJSaZ71gkU67CTQpaOB0yglGhovXyxzN-Dv6ZodnzDLw7dElg-YNl5AdcFKdbuaHsfqycnqkG-gvGdCo4DqxngTllOZ3RRSoDakDt4RB8Ljbj9ZCnTyP1C_jSTDbBOpoVgu6fEhBF_XZ1GG5R2V7pyEiEKMipGhQCGZQLlhC35pcd_CAB3O5kwhc0iA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "2006 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806959,
+               "lng" : -73.938519
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8875e137e68337463bff71c5f7e1d82004d8c32b",
+         "name" : "Promise Academy II Lower Elementary",
+         "place_id" : "ChIJgxnj3gr2wokRbLo4IkfMspM",
+         "reference" : "CpQBhQAAAOQKNr5vK_nSSuzW7OSlBBcD07Q8SPp5_2qEVQbl3sBNfAbbv3CUTIAx1Y9RYD8y-pg4-qkiFxta5V9Fo4FJFrShBadjk-fb2N9ivZ6D51M_uZu0duVTUckXYV_WLA3nHzNGstofVhQhUUYM-bK54RADCQCRxNo0mAq6hHYzFY-mtIgWpvgNGiQj3z3L8D2azRIQvu6bMgd7e-QAK-E_AGxQBBoUbp6GAazM2PJUGvuIrEKCoueMjXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2005 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806106,
+               "lng" : -73.94093700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c05615cb84e14f424fe7373b44539b1aa94b9929",
+         "name" : "Harlem Children's Zone, Inc.",
+         "photos" : [
+            {
+               "height" : 630,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoxhMfWsX2Dm3_dFOM8ymt8ilAqooLXfYk5JtEd1kB4NBTVzeLm_ITYJhy2CQIiEtBbDibLGcooS6GvuaGAjUd4NtMKVMAvsFIgj15ZZMK8dX3q2buDuIzPixk9OPsoCaXQcDdWxsRfLWQiWAqjeKixIQI4qR8zw_EHDhcdSIPL6WDRoU7eTrJLxH83-z2DCkrT5QzfRERkM",
+               "width" : 882
+            }
+         ],
+         "place_id" : "ChIJUfNAXW32wokRIOAZyrx2iYM",
+         "reference" : "CoQBfgAAAK41V02TaqueS1a7HyI9nuJfK9BLN6QZAPl8PxiHPT200xPYJZV1WwCBIOac79YOnp-9ygVGr3IUv9h07UzHsgYswm6eSzNdOPyOmLvrDINTb-sT4x3UGkZmyDezcNDKXAuvcpKjrCMkQtH-GlqAiUONXY47jGeNL_YF6zDI9ROJEhDAJcpQlbwbn3ZCxL9zIlQVGhSvyfhSNtT_leMqN7gpdv-JNi-39g",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "school", "establishment" ],
+         "vicinity" : "35 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805699,
+               "lng" : -73.94101999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3a1aaa7b7a67eac1fc6dc2e1b476575301c08e78",
+         "name" : "The UPS Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 532,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeAAAAEShg7ngZKByn7zbUUK67wpSlw-uKHxU37FiV5tBHhfXtnQteoalufUtouM_QyBz_5ZlDPSRGNs66mQxZInIsqJRIPYiX_Zl6--I-UVM3NEGDzzE8gzb1o8suCMCdjeFXn2rHRik56KzqtzAWZ13dUuX7Xcs2plvB2Rnphp5g2RsEhASAX88g2TI8oOkuY_NIyO-GhRysa-CPWtL9QuTxLcNu7FNzPASZw",
+               "width" : 532
+            }
+         ],
+         "place_id" : "ChIJybmTnQv2wokRRMgMylEqEu4",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRvAAAAkc91srvxepfHYJSkA5KThsdbn-MOxtTLr9hRdHqTOU5rOAHYxX1yK9-M-tv50X2Z64MHeXKflDnTi9ikR-FiFOlh7vvKYjpHVEW8LWmEY3pbpLxIDWpMO9nC2ulVNipRPkuExJAXgsr49g4ni-JT_xIQHP8xKqjgBGTAQ4H8WzTkSxoUFAkPn2GINlBJHnq_X8kH34gbRTA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "30 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807455,
+               "lng" : -73.937444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "51cf9870758542914c402069ec101ffa302d60f6",
+         "name" : "BP",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwt1Sa-hKS663EfGRAFrgwGNy65wTC_RlbtmMGdictJK35xIqtdCDN4jGFb153IEq85I5El3-7OO6SXjqcfh4mb9QJnD7bMmfguiZl8vc3VNs29cOKM7423EmonkpKkuNsYhh_gqhbQ8_VNBAeGXD_xIQ22R7UaoUyelzjmYz1SM4nRoU7W07GUmDGyshViWKR2V9EKIhd_0",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJg2SIyQr2wokRNl9y7o8fmoA",
+         "reference" : "CnRkAAAA9EXPejNqa8_9frvvcs0tXc9FugX1wR5VNNHuLa8676sObScdzREFGMiMJ4-2DiY4z98cmeBREvpHhmvbu4o0XVLJdMACaUnooGqtuf3BZlHrhz1rru7Z1ZwAE6456riZIkQOAA5fCmzKVBLDVaLBJhIQTxpBftXhs-Gchs15e36reRoUF9j8S4yraX_Fz1CxBUH93zY53yI",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "car_repair", "finance", "gas_station", "establishment" ],
+         "vicinity" : "1890 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805761,
+               "lng" : -73.940049
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c07d05e14213af2016014e63ac49c2d0b6118d34",
+         "name" : "A Taste of Seafood",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANGeVgITTDxRR7iBAECIrY6f8l4Owc73eKXTHVdESpfTHk5Lb6iah_PCevnnxTYfkQUOSWC2EMIlxjDlO4kR7X9M6GSuAcsRYlJbeUk3X_JaOkdHPoZ2kk8XD_-9N_UFoeab3YB4tfGdf6Q4fQSCTPhIQwC1bNgq3HpjAAgQDGcEPzRoUZkk4yVtxdXXrFzHjburbLDrptgk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJKXzgoAv2wokRULAcn2K7yC0",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBcwAAAF3BuSKSVyJ-iXRNX0KeRXu4FHG9V7UZFLZAco-lFiu8czAzVZXCrJ7E_fw-9Kmc0x9eo9kG08VJdhE8Cl1r5QCdKEkMzCK-Nhv8ATEeQ1ERn_JQ5p1sfZuuZkgWLCqKI3nCerAKdNRW6xAxhS0Cc1HsqP4F-5GypsEid3MCPzNgEhDHDetrUXIC8xMUOsIEO31uGhRObypaKrzcVL59Zqor6sU7q9CKsg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "59 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805662,
+               "lng" : -73.93796
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2832a36a2281a5b71ddf76411bd23919a1d674af",
+         "name" : "Association To Benefit Children",
+         "place_id" : "ChIJF1Oe9wr2wokRYcn_tu8-WWo",
+         "reference" : "CoQBgAAAAGFaT4maRQmOuytfBdax7W7RBeMOTHgLqK2AWpHzw1t3MxUkDg_zDDRmNJYysaOUxpI5IEvDxeb_Hv26vP_XrAyuq9FreuazgzRN29AjDmStPl0LvCuMdaIYFz8RZdrl4-wohg0nQy39uwxSsLis4ZXDoTJcp5jT4ZIbrGA3qjo5EhD3amF4hUU0CH1jVGQDIuILGhR1an3MQT7FEBYfMXREHQSJWbpQOg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1841 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805512,
+               "lng" : -73.939426
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1a1f8b4beee9845e62851ec3ef03ae9d046ee122",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAj0ybtWaIe_5ifoj4D6QXcoGjWhcyAW1gf21psU6lwJbLTpU00oEYY9d5yfVXSK20dwWAJpKXep1iE9TNBSupdBKTmLqFVEPkoBFPtsADw3_BzBXgJ57K6QHhA3vIhnlzssBhvTTipA4wzaWQY9J3-xIQpXYlr3aL8x9HLUbtksJx0RoU1xHuEmkqOM8s675VZG34V6Aa4xM",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJy2ynqQv2wokR90QM7i686Xc",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAkgz0aE9gBjfn2p1SmYwFkqO4AvAEvYxeF7RASv0ll1EU-oSbDZXItz7qA9V9WeVsjhEEHFcyXTvjqQMLuLiBGorkDiYXfl8dN7P-ugC2R_rJryKHC9nHBgymLdEWwH4FpH7m7FwQMgmLQrBhb1cezxIQjxEwF1L_BH8_P2N_gtMCLRoUB8G8kBIUYcmHofvQdk-fNrSx6IU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "79 East 125th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807763,
+               "lng" : -73.93995700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f86e61998b5a81bece4e8dab6894eb6e935623ed",
+         "name" : "Harlem Renaissance High School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 324,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8mbMmByPBGSw0qTfXb7Er2RFudRmXZ0tZOudSmhp_rHOCmJA0XJnGIg-4Rl1Zk9XtdBFO78pf8zWyZhaph2hx2tPTd1F70Bavijyymz1Sbyr_C0FkdbQbrQPvGYjraENkT9R5oAZLty8hcq6QrGBPhIQdNRWwmRKhMkq7xaxvDaohxoUEJpaA3slefZNkX6E_CxNsxtGZa0",
+               "width" : 541
+            }
+         ],
+         "place_id" : "ChIJm7RvMQv2wokRBme6YdSA_cQ",
+         "reference" : "CoQBgAAAAOmuy8WsGfmD6PzYJbgxz2LoXvrES_nu1z4C7vf30h6k98sJk-kba6ZasobtNUwgkVPBMTfP4x9qR--CliIiObD6Q6u52z-1dcJ8EigclWjHbod_6tt-F35fc4kkOIOzMajAugyfzwdu4n1gk1acpW0Y28dZQQ9PUKQlzGFuRthiEhCQBJ96CoEXdKqgBrYEzSVqGhQGu-ykS43JDH5mUVzeE48pANK96A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "22 East 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805835,
+               "lng" : -73.940342
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "62fa07b2c94b7812ba5025238bca18fcf63e1e46",
+         "name" : "Manna's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6o7YUY6yGO4oh8qd2QgZ1nbXXlFzLQaCyRNINw7wEMbJOyjoVxVuSy_QwLV3-L81m_13SyewnSz75u_YyalYsV40tS_EfO4lLJVH_S8GHzYdrUJzOcw2iAxAIRV80D452ODrIOO3eUUn-63Q7XjIWhIQ4mg6uoUDQi-XXgeI8RiTzxoURPO1EGBpamVlyzMtQvA1kI3vM-4",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJw3SPoAv2wokRXHp0X4Bqt_4",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAhf-XRo9NvoJYPA_nkzLxZzgvr9wJ4pnCGLnkzB8T_MAn1mrMnk8cx34_jFSMqsJYThxGvSCyPQ9Hx9NG5WenTaX7HPd8QpMuB4hOA6fum0TGqHN4m0_l-z9ctbhltPRU9gY9o_8SIZGE8KMc4C1wvRIQClyaaBrJ66zjtXNkdYp8NRoUZv6qI-Mk3GjLs3nwoc6tG2OyALc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "54 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805806,
+               "lng" : -73.941282
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "103e507ee022db32557726f5f261f7a5b40cd62a",
+         "name" : "Island Salad 125th Street",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRpAAAAYKpblY7izkQ8xarpKGkNTYBkNfqp3csz7ttxWiyKSKNHgtI35HjhWuXaCFQr4B1rrKUWpXdh7LOyXCKaODqqrPNGny-FgDBi_HYpdsEoylAisG-DVifswQqKE0Duss5fBWXhkG10kZxrzRhBUf1LDRIQBHQrMXROKGamL87Ug1lTYBoU0wstpOS9ERHjsfyrc5T7qaz9gk0",
+               "width" : 976
+            }
+         ],
+         "place_id" : "ChIJI7uZgwv2wokRZpj9bNSRxH8",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBegAAAAxc32u6EpYbC3Kkf4svKZNM2LvYKSFIyAjJI3EgueW3X0O0WEmThA1jUiCJ3valhmO13UWpMj5AXnXtDGAmDe26QnX74jVMwc9Gtry_2tLpRSttRt3zXhhREPE7ZPoKbk5q_DsBG7U9tFUNR4Dytbazu-Nbo3NrjAACBY7RvDUtEhApLR9nQgbsSu8VesNC1vfYGhSw6WSrUO-aAjzIZ_lDmnSO-fyLrw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "22 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806399,
+               "lng" : -73.940529
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0433b3989c8f329a0eff8400eb4d3f933de42988",
+         "name" : "Achieve Housing",
+         "place_id" : "ChIJQbmfcgv2wokRNzn-a1dullQ",
+         "reference" : "CnRwAAAA87p8SS3K2GI214rzJtlCCz9zTte_6yuJJNk9KOy_GJfraP8coBHSoXeJGbXD6ObP98NuguydL-6agcjLhBR4YdfVyAUR6cw7xH4_6-8SbXYh_NXBS2vd0jshfKKomCbsaAnnD5mXMKyjdLdPAZSG5RIQ1lgCwjSoD9fgMnFocbzQHBoUBatMQYs9bSXTM_jnsfjwy6yZJik",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "lodging", "establishment" ],
+         "vicinity" : "36 East 126th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806262,
+               "lng" : -73.940568
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2ab62996799cc0b0637d3a96bd69b89f99ff58b5",
+         "name" : "Jahlookova Natural Organic Health Mart",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAt27xuFJxTxooCoITM4Xm-hSJ9G2xdiLLk-KlTiuWJT49sdeZdBNR0ZJsdsAjA3Khspgc8sKgsqsXWSTjUMHUR2FukBwXsdeuYcBIVoClpcfQ7J4StuoEHA0WtmNqV-9mi0c8ep9uUY-nofyLo7hoBIQmB3ZolsHqB_2MNUnKuFmXxoUzYrrYB58Wm3Sy958wvLuyBzNrCg",
+               "width" : 533
+            }
+         ],
+         "place_id" : "ChIJKWCxDAv2wokREV7HtcIqrMc",
+         "reference" : "CpQBiAAAAKIrrWwHxx0PzujgMwKyDwMNhItmeuf9DLrUexBeJhRpUFZT2UoyADmRZ59sxIDVeR28sR2W-5nb2y9nBguNAAAAV-HaD5OP-uFa1DObH27hAX88PM8DG_z3qlFFqiqr6Rn7ZCM8iMkNI6D_jgkBqhwKhPVoHuj4Tyx2g2Cur4jxRjOo_N0m3GsEAuII_m2h9hIQys3x-uVD1Jc8B6xgL9kkhRoUF0G-PGNlY2LYdR3RKXf-7r8ZnrM",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "health", "establishment" ],
+         "vicinity" : "1962 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806622,
+               "lng" : -73.93745699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "09c4f18871f1c438678fde51580e20314017a2d8",
+         "name" : "Clark & Wilkins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJKQp86gr2wokRaYtOmXaZfdU",
+         "reference" : "CoQBcQAAAFdbTVILXT8XA9aKS1uh1RYhzPsJHJYCNwltJ-rklSJkZngePddC0RdUynlg-KSrRpbYZKbutqYwCflWUNgF_HQ-hYhhlVP9hFY7bmEdOE3h99b54fNU9VJnMY6v9yrWL7ohiskBfBVF7JtsV3DFpTZAffQh2QER9zyk6b9rPhxYEhDvN3tEfYkfwSNzYwcRj4CQGhSovh-tlJbe1f9wBmGRLekzF_dXOA",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "1871 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806036,
+               "lng" : -73.93786900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "7aaa30deb76457eaa4a1512da4b8d4875af66458",
+         "name" : "U- Drive Auto Rentals & Sales Inc.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_CBM100O8tHyCusW_pmUqa75dJmo-BmBWDRWR7ZpX8qkH9XybcfsJCWiypifeZSSL2Bi46lXqPeDwGuKPfww1qgjnlNw0CzcRe8HHvX7RocN2Qu8BSlpy4OfFlG6JuGcHPd9FiUjqfwMPNvOn_MUTxIQ4mKXNa6fMsLXNc9n0s8N5xoU7WjjRzR0jp6EMqSu3E0PFVdztYQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJYUri5Qr2wokRL-nLhWZZFYo",
+         "reference" : "CpQBhAAAAP558b5PAWmZ20bQ9N21d1kWt7uAJTTO1enKY1WQGgwcS8q-zB9Yp9BXeFppJPr2FdS-6S_E3OoXQv2VXVdNsWFJdTAgsPW6BN7QLiGIWo0l1ZHUWXsaIogGbLYwL1VUifULIp2INKpnuZqO0EMVgeHNSf0P82Om2YWRkOrI8UGvQ-OBjXn027X56tR9P4jE2RIQU8VrxykYHGVF8LNclwXx4hoUgeyLtgM1ZgbQwLaj7DAKtQ_XEXM",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "1851 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806435,
+               "lng" : -73.939632
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c89d96275f792f28077adcd721783e4c38da9ca9",
+         "name" : "Metropolitan Community United Methodist Church",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAmSJUsQxinXPJIrVMe1J2vs-aKMWFufckRc0d1RNw6D6m0NBgA797yoYoFRWDApyM-SaG75WmmFqNhiFfg8quRNlOXvhgXWIfrVIZzpTPDLkwmYQ6mI28y5L-cx27KpTPYj71ZT-J06NF8qP0EKpmLBIQH1omEwoEJxzHI_RzRTaoVxoUDmHEawq8MiBAXKlgno-u44o84oI",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJZcO-EAv2wokRb1u76HKAJj0",
+         "reference" : "CpQBjwAAAHbHfEomlGTBlSpnBC6ZyT6Q9X3O74KPEfdL6UR3KUwMWFXyVm8aIpoP6FlCFjiGfeh7w6zu8DkbpSUlWqMhtqeWZeLXhgIDRJ3cQStECJcq9CmUGXPsLBtbJSVHcK-NMlSDPKvjurmJtun24r_N7hKJprC-5_UPfK0VUlMqVZTjJZqDE0OgIH3p-oLJj_aN6RIQmTwCdPvyUSQnal41Kozb5hoUvQnBYrJEgfvnGEqj4vJU_ZosLJg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1975 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAL5hUtVLSOgKLdnZyBlykDIYp7GoaRzd171iVbvfJCYZ6vv2ttrEhjokHAYPw_MIFkibx3leGcVS4hlUXO6EBLje9P-tE4ZhWNoZTNMtmOTkYF_e370kPTpMmH2yq2Dt_N_hlxaFHDnR6dbwOjOZAbq53_rkwSFvA_TpaRX7417BxFbrGDDU_VuSidqJR5hHEBIQ79eSTsWO-HAdi4W2yv4gyBoUW6EqR1dQhhRubcFnZsUH5S5hqYg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

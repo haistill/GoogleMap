@@ -1,0 +1,558 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALJ-looJ2pXATOwv8aS3oM3GKOeQH9uUi9YUoBtLrnZaonEfvajXuuDlf-TvR3sI1Eak9sjW4429THN37WuwT4JDykrArDobPsp7qTUo9HNpeK9i3rOcYk2qMvLUcZFbqIzXWWr0-r-OWJ--I03vvnbe4wGNlNE6jkzBkTOFwFKs_rTie3N81YkU8SR9uie8yEXdy7DpDz2AM3BCmEmFbauOiu-ns0RlIgd38OrZour6HyQuocR6LLA6_p4zEkW8zdj1OG_DQScPfvNR4icKhK4KFs7DqVmbxcHaxqS9WVvVboBIEfi4vfIoOtcfAF9YdBIQTJMkIwvN7C-1k4tqoITu-xoU0OyMJHrcCJwD96cf8ENSzZdXRgo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7223972,
+               "lng" : -73.9916358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7235749,
+                  "lng" : -73.9903223
+               },
+               "southwest" : {
+                  "lat" : 40.7156534,
+                  "lng" : -73.9948461
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "47c3313c419e89761a87b546012239b65a942844",
+         "name" : "Sara D. Roosevelt Park",
+         "place_id" : "ChIJX0-MTYZZwokR0L585ip8P18",
+         "reference" : "CpQBgQAAAFmC9XmbHfZL1qYs8AUH49b-weSenKlHmO71NDnjQ-2P9TAI8M-_kVTrpzyDIiRFLa8zfCeG2uG8DpqZ0wsqcJRw5j7uu9gfae96G24HxkI59AFBNvnMCMdaUUJY7wBUaaObg05dHy7VVkPvYwP10S-dXw7ZslLOg0zUmseWNfv44o6HfsYXkPLiGA1bW5sQ8RIQMphQGyr55lIiy_mPvIyOQBoUAF4bWktz68ZRwE8ik-4M1wEdcrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7191413,
+               "lng" : -73.99732729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.721577,
+                  "lng" : -73.9944313
+               },
+               "southwest" : {
+                  "lat" : 40.7168155,
+                  "lng" : -74.00054799999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c24ea4cee7e7b9d6dc11f3576e64c73bfe23fc7b",
+         "name" : "Little Italy",
+         "place_id" : "ChIJ730FRYhZwokRhLS7n5Ybz54",
+         "reference" : "CpQBigAAAC0hINwcB32s1w89ULyz2fCTUTBCXDVSw6hP93YkxrPhMhgIgBApR4bKO8EFjTSxpHujtjTWooouDyR0Zg582cAuvfH5I1IhdE4vJY-FVNVyQAP7h3jY0IGMTdtu-0UEEZe2OJx45gWzknD35juFc4OadLtyogpcxDrIHHDV4xIWhGvWRFCJY3ReK543LK4qQBIQBBdKkIUd5U0NRof559HevRoUd9U0dPndhdsAqhhKSNVWcAlIvOo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720097,
+               "lng" : -73.997574
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a65a18a358c2dcf5e3b66a3e6dcdde92313fcaf",
+         "name" : "No. 6",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUb5kVYhZwokRP5DHegKhqmI",
+         "rating" : 4.3,
+         "reference" : "CnRmAAAAQOWj4fgQpyRssOtWyrHwCwJyrdtuF5QLFSzXQsxawfZgj1ug9AXwlwEaqH6Bu-eCySBMaqSqLIOTO9ZL1y2hbCobEAawo9m236G0Qf_EL2BZ888qD2Cpu6zjbNSz9XtFe4dkcV4eY0xkwDpaXv2SrxIQ26tAF_irHFzhpIPgWgJKpBoUEb4wnOW1zNpuR1wak5WFDKJZQ1w",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "6 Centre Market Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718322,
+               "lng" : -73.995149
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a53e7e2b70e903d86e342b8d1becbd272ae101fc",
+         "name" : "Capital One Bank - Bowery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 78,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAARJO6N7aEDjgLZl_Sn7A5vZ_X-amyjH9fDVYhW1nBvNoyS8jhnHBNXGjxb-Chre1BRk6Hy94POo5Pt1pOvljf4MmdeakYjPP4O-BPkK-pUQaxDJHbjxUmrNpLwOuaLq5INJCqa77sijTzV8fgyue9UhIQ-Pp4U2XVXu6k3CHUEFFudBoUuXobxponpM4fJPo_ACRYRyjjxNQ",
+               "width" : 160
+            }
+         ],
+         "place_id" : "ChIJBc3tC4hZwokRff_BH9kh-p4",
+         "reference" : "CoQBewAAAE8Hp3VihCY0lYe5Y6pD1RrGZJQruUcNGZjsmcc8dxOsE6ONnFgB5p7-QZSgZHFmJrJqIJr9qbIK4nXuOZ3tMpmr4U5MRHALKMFvGVuNu5lJ4ATwsZzQRCtrhoMyWpHcEzq5sQZYEC3fpD74iocKRNEpC8NUHR7EahPijJZ4hSRLEhAz8pvc5sxnOSnDxQCPZFPHGhRjCwDPI-1hbXVJ70T1lgodEGZhSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "116 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717528,
+               "lng" : -73.998634
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "406dd14499dce277f2ec3627a5929a52b022ec8a",
+         "name" : "Most Precious Blood Church",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfgAAALTKv5fhTBv94OlA0bpqtlWG5PnyVMdBQ-LGIP5lP8R4pfwKcSB4c3Woi2Wa4Lj6KlN49LFplm1Z6hs2BpWijXZMSttMHRg5BMJ9o35zwLQ5gxyIx1OUr8VHKEeZCXubPGZmAFRl9hhAGw5hyYn0HHkb4oHNwsq0yFKB3zyxXpWsEhCiw-vVBoF1WsAri8Jl2ngfGhSAjibBHj-ngDR3vWdPbbCc-EFfDA",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJrY0LYydawokRFFLAcPWw5gw",
+         "rating" : 4.3,
+         "reference" : "CoQBewAAAKWfG8x56-TbntD-2asSNkFuGzIaNIVhCFeM1prA1setNX7ScygxaPT5yjjcn-s0tU0QFNC_JxBH3JTRyUQxbLhIxd1jQ7xIij1mMlYxhAUNlGfRXR-OL11BorUoimRPYOIpMuelW1XrDA4aifCoJVusQEKApTJm8E7YEzPQrZb_EhCl2T6qPLM9dgiH51EF9jG5GhR9ae48ERgtdTA9XpxG1sPwNBnm1g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "109 Mulberry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718392,
+               "lng" : -73.99521300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a695631f0fe283e362ffb03b4811c9f7af1254e9",
+         "name" : "Best Western Bowery Hanbee Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhtJPsxj_7OnFEsKZie5-saq8ug17l76WtckXOGkN5nPg5mrltrGOI2tMcBPrP4SW8-x8lul64vHV-HtkoX5Oaz2MQt50LR8436F5jSCFyjOBTqP60vaT1uabOwjQjgPFXbSPCLco-degBN36Da0BNhIQBmMPI7YzVW_zAdxijArVhBoUJcl8l3CRf1tXbDC2EVb795HMyWg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJkzxFc4hZwokRoNVRLPGrvOc",
+         "rating" : 4.1,
+         "reference" : "CpQBggAAAJp6zTBPMn0RRSzqTlBM8F54mTXVsGMKBn6gA3jej7XkAUaYi-hEEabVCV2rELMgz5q1PGNEJcdfco-tBmxWqWWENMKcz26wAOa4jLWwSYotXpX3rB4JDLUPN8tmz1x87SlRXemHsmpCjxehBpxs-67kRtcR2w2PB47yvWNuS-dkltDxY_I1PZUa5nlhA2wJPhIQX-cHT1JpId9eTpTxjAIEVBoUcl9WRT6HaxA7l-aRtjXwg0-G99g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "231 Grand Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716981,
+               "lng" : -73.995216
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bdefc49ecb355a0d05a7b2184c7ed45145a2a64c",
+         "name" : "Wyndham Garden Chinatown",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 249,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgJFV3VwMFKMsACNS0WxOcPe_a6J7JZz2kqs9kn8b9ED_WgCbCc0QmpmB2NUFD-9wFt1zugDYGjOGLFRtB-hk7cYWR4m-rUtKjxdJoM3iJuXr1eTWd5IzSyUMqpMoNaCgJQ9s8fsgtaJHutH_qcS4RBIQcbh9kZb6-P4kSTLfOF6HfRoUAqbwDq-AFPKk-GuX835agYdLsag",
+               "width" : 459
+            }
+         ],
+         "place_id" : "ChIJCQoR-CdawokR-IYo_NWTz2s",
+         "rating" : 4,
+         "reference" : "CoQBeQAAANvmk8vN-XPVkrJul5cmxyxm3egS2U8fizmVknmREpQWa2WQKmvjNTyMkSwCLQAoamMsH5GH9ubSw0Lq5OdJI3eET3qsC0xJ_nw7FwBiaVNPfjeQpR_AFOczwJ2NcMkjna-cBIQomSXZPS6zZUh-bJl0fEouFFXQwGnerejnoMSIEhDVH9BADb_Z02K3alARSD4kGhT9ygC3C1QGq8qG38qRTmXFwHIxKw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "93 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719474,
+               "lng" : -73.994643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "20fd748b8ac9c3bcac50df839ec160afd88faecb",
+         "name" : "Sohotel",
+         "photos" : [
+            {
+               "height" : 419,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALx_siLrbPLowtp3sawHMmEYQr11znTRYAUGBTTljC9bn4wczCIYAT2lGHNIo8ukwKor8URJY5NwpxdH862cqJ29f9fU74vv2Fi8euN47ym6p7PbVW9dbhBYI6H9jkIpJ9LjF6NLK1gTU-PYB-GU4cBIQVDJSBOFQh-8KNFb6GzqK9RoUjgE3DFUzgTiIafHj6a9Bctj8tDE",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ98gO1YdZwokR5CQeeK9hCKk",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAhaBfshIocTH-ChFX1japxngN1Dzy-3D-xmEQSaIRECHlocT8VGugNRV7Ig-J7tMTncriroNkUpLIJ4CmFdFRwVB8qfudjcg5ubg8uothlathlJ4BXxFwx_Ejom5DG4oAGPcBHMy6rDc8KjVTKb5aBRIQocs4FlCPM9y5TSakG8C0ThoUgTIglGj7s7TIBtfz0YuEm_aStFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "341 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719076,
+               "lng" : -73.997086
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "058556d1d347c0a083bf87f2486f9f2848aa5c33",
+         "name" : "Ferrara Bakery & Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 389,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeQAAAAilKGr3F5DpYUM6LlkzhrxdsGqMCzo_EoVGmnRA74l4MIfHJrYsM6GjqW-AM5nOAGGY78Joq8ThhHrY54PyeYo6Pueim560V0GITMNOm_7HAy3BQ2rcU_vWVINH_WrlTO-OCyZ1z5c-TsO5aNRYAPBTP_XW1_RcqLdb1ubUMXvIEhBHW9mDtgP0ppHJvGZsH8BvGhQD9HQTm_VczcqEB6iu1gytRKPd0w",
+               "width" : 430
+            }
+         ],
+         "place_id" : "ChIJTy8URohZwokRB9YYYDHYBKM",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAGBsdk9BiOlHJCey-8Ff2QM85ia7DZr8cQ90Q4EvLgIbDQzLDQouXbfAIQ-RtANKOuQLNGLZwWGmXmwSbkjwRfAN6-on-a6cNAKUJtltl-PbQzndGEtnre6gCO4PlbXgYj_gu37hGjPj0kMn7qOaq1NkVnaMGHMq-yJptLlMX0pxEhDcEkrZzdsdeZIOusjw4LsrGhQe6aufmY3ORM9ezERhl-E5pgA04Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "195 Grand Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718982,
+               "lng" : -73.99695800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cfde0c5cedd4fd9707abb8ed85f50aae1441af1c",
+         "name" : "Nyonya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAPB62yHuGq69javQQCVZLvr8YGp_XMnzUwb3YAvgrXd_vhJtdUv6gnqWzN498iOIVu9VD7zFVHWpb1ud6iehUke-ffJ5uAInKYE9N-dtphUYDBNf9eao50s6f6RjDNWRgbjOTumrjf0T-PEr2ma0X4xIQAm1qslryEI0H9t5mM8F8OBoUZhxJUCvdvBfOFiROwQ7v1ba6q3s",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJe9bKRYhZwokR17ZYnurQ_5Q",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRoAAAARH5nIs6WnzjbCT8AqxPxGZdSp-5imnNLQ1pAdIKsyszTkJAcdsDcIuQO9wpjJ16vQVW79rJ9GJ67O9bKBCuTJPYmsYSzBWU4_wjcOGOvd4rqk9F7DhjUa2HQjTHoQnQNAqqtBBUtyvteBJfjia1lLBIQZeVE0UTH71ZORhbLNNTQFRoUeoitCJnXtO42kPYLn1hP1SYgBtU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "199 Grand Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717228,
+               "lng" : -73.99585
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a2d9e4c3614353b1bcfe19f2c4acc48a6331f62d",
+         "name" : "Sun Bright Hotel",
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA5kAPMkKT17hyjGlANJ6caYpFgigMtrBDzjK9HkC18NNlXkaovKCN4BHgmv-fAN8mloE-v8aho4raX4PXi6A-C6Q3OEDmEbnOEliQ9VqgD8n9fH4aZq0_dFwHj68dbmIG35gvcyW88hvVsPWrYGC_cxIQ5jHLMHN71NjkO1BpN9FJIBoURwQ9dbc-V-SBeOnT0l9NmwHmOJo",
+               "width" : 1125
+            }
+         ],
+         "place_id" : "ChIJx-Py9SdawokRw3naoIDNYBU",
+         "rating" : 2.3,
+         "reference" : "CoQBcQAAAEt6u_fjn7TY86g-P_W9B7nbNFrzxfyKWshYwuILa0h5pvlv3xJqxHaA5TdTCADmKkAGge2uosN3m32ftNBOfW-CeyUPKKSW3chbwjbYr5zrIKLN_zRnLKLbHRspX6yvXDZzmohQ7onttyf6Ssh7S6Xg0i8MI6aQRD4lW3tlCIsNEhAWQw4s_fs9ObdPwqDAKocoGhRqIAvIWUiSx55GBDOElILJNv0ucQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "140 Hester Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718872,
+               "lng" : -73.995085
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0f2c9e7b50305c0bc3e8b2ee5902d8153a112265",
+         "name" : "Capitale",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAl8H22ZJqTLlsH3Gst8xTnYJQ9zk1UlNz5WViXlKqwHL4i4QmZ5Di035viF8s_nJG9kE4ss6Tn7SvO6HdqO0xJUrOtnyVJKGWKYeUhqODVfyNNAoCMOYXYBDyZKeRZOFmrE20qyuRLHLIF7pZSbSnYxIQU9egioQJBPeItELdxQwNYBoUu_JrLNyD1LiRXnNvUIzFbaFBgZw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJmS85cYhZwokR7013k7BaZYw",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAABnBLQV1O1SGXF-Gye3JykYVAshme5L8LVL2I78oE9y6sH__q9XMewejzhGxjuoRxOfLUWRHiN4hZP9ySdMGu6pDg7WF5MoyUO3Hk0Q4NLb-8tjKlf3vutkhwlq17QGiSSP9BUYIRosonmIc5edInpBIQ0G7wf8yCiLPdCsXPQhABRBoUsCMcAJI7nU_AI-t1GHzT98QFlVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "130 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717602,
+               "lng" : -73.996011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2e5bf6e73b1b3e5be7aed860505db5ebd34ea0a",
+         "name" : "Hong Kong Supermarket",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAAB3tC_CFn9gudPkS3CcUSM_vkz4eXvVHdTX7fC7xLNTpCkiZ3N_MwDYsK6lJDkgfhoCOszigmXZyFRmNOPCswO8MBt1t5RLZMnjHT3rtiLY9a8yLtOu4yCRtpB8P1pCr6US-Wp4tgzcW4eKWJi41cabc5ADnDxvpscq7vXjr_m_NEhDewBiOI2bvDT4MTrqTFMg3GhQyse_F6cPj8UldFqMa07JZeW5M3A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJCSxjH4hZwokR5Y-7TEHXRw8",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBdgAAAMhW04x14T1zYYO9cmGgMV3eIrSlRsPFy57G-Ofv_Uz_ZQA2H__9UCyyCbJ2oXHxQK8YOfNvCkfe_3Ytzg8L1IW-1dT8V785wE5IH1KUTWI9PugyAoCO4ZOwAIC_IoQ0wfCdlb1Hmyd0r_qk3AwVv0DBHP10sjy37WV2awZcn52dEhB9-koCnTp_15EAZZs99hyzGhST20LhpeXqPwCSQJ-WE0S0sIMy-g",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "157 Hester Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717267,
+               "lng" : -73.99723400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3fb79c46d35f48fc95f03b7ae8c75eb3c6a83341",
+         "name" : "Shanghai Cafe Deluxe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAMT5KgA3QzHufDfZpDr2fJQqr7Q2ffaLDR3Mlhu8mDqi6sEjx-xH3K7N4q-sgqEuWVoplrDTzHAo0rQXDykO9Tn0DhG01l3Hd5hhCyJItFe45Hqx-71-HFMMZ24VDB4aAnH7x6QKLrtU1xGzoify3fRIQMyfqH0no2qG-vQ46LJe-ohoUhvlA2j-lZa_Y6aHbSx3SS1P0lzU",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJHT2IhidawokR29hLR-IQb8k",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdgAAAPJFC0pzsK72I4cGiDjcRjndbhex0UWaYUZlto8UbJzUyArt4Yqs1D-9znfyXtQOjhezPBc7ES9rlq9vIwdW6hozwCNybv7KwWmkmoQwf6K7_XX-TftU1MEHkBi2xwNVNboTeYgbK2g0lI9TpwHvD6H5c_gjx-mylBj0t6IQ0VY2EhCHZmrratXfR5chFgZXzmU6GhTrA29uoKg90H2wLOomYJGKvy4nPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "100 Mott Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717509,
+               "lng" : -73.99497599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "84548fc2a7cf1425f24b1289b9353291934ac48e",
+         "name" : "New World Hotel",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAI4ObeYMGF8039HIJ-Kk_JDROVKCDv1ssbUt3bAef_zuY5MOyrWWk0oE9E2E4WBykOwAkB-HXxso64t7ehWACZYK9HyYl5yetZzbXz-TyBRkAjYJrlBo5YCpZNWRdCeaIYU0S9mFgMBVDzqWFqcjhyeduQo9HTEKwMwuagH0bnM1i6hXDNguxpu3iJ5Od-IdgRIQsGr4Ce3tk0_3Q-qzO5e7_xoUV8WUnv6j1eTTeuKQ0JGqsohnook",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJdzH8A4hZwokRYOMOXt-6ZD0",
+         "rating" : 1.8,
+         "reference" : "CnRwAAAAI4TDkTYUR7UGU4VmdKNcPex7pZoEczZkH01WOQ4UhQaaOQWhes0XTYmt2Diugw2655hfFtqBUpnwxNGjp7nyxhu0CEiP5tNDoTp9_HMFZspdv2d8P9HlUUPZxcqXQV1O1XQIfSi6Ok_JFgoInKy3mxIQsYBMQOZ95sb5tg-DG6wjGhoUe8POfzAgsr80aYTmFTrzh1XGWi4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "101 Bowery #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720379,
+               "lng" : -73.997113
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b4f8b52521b11b6275730e564a29eb5adffa3ba",
+         "name" : "GoldBar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeAAAAByhNMaJ0uwTUZ1YZErPBDIZfevqF2y05T7hKPVm32AdOIFSLz3y6xYwJ41XDcpvoyrUlaAMg_5tTuimQT7rdojLM46ySGKs6uxYG5d4b16peuw_lceEQXS6JMMRmYadjMeVpDg4WtQ_vAFrRUa-YN2w02OoSpUFMusOYQa5N4KuEhDgCdQfm71L_R0Pv1oTFsqAGhRK1oG3QVZePOYrhWn-PsdG3iDhdw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJg6RN-ohZwokR46kzRvoI9zU",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRoAAAAlGwNPYBt_O7mSERPVD6t467llE1XPRA1GCtzGjBCVbLS3N3pAT_qpIXKQbvIOujkW0u9xjAAGsgzAVyYCAmXxu4LbZysqrxTnL2pyKr7NUKNUy-UnrGFvQ3UgD6FQWOcVWMcBQEnB3OgoJ5rveyNPhIQWnQaj_BjLPj0ZyUSlcoFShoUvqdfOs9Em52pm7hXzlehjtQVw_0",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "389 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719043,
+               "lng" : -73.997731
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ca56d3aeb88445e64b1a3abe9051c7a68b39892a",
+         "name" : "Mulberry Project",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAC4Lc_husWxsKMmW9MH8_tkIqiyKnb4YEm8BqxBHHBRKaJqitf2pA_CjCHE34-_97bIYHGj731-gHuNeL-vnywUpoPMb-NiFN03-6_HOJIrHjOsvpB9JZ6QvQck5EKYyq4eSZHuQOLE7G1_4JZH1WbzAdzbBXPsfbVfD6amiY1pDko1vdxQz6DjUp7sStsmBhhIQx-6P4les0SbuQ-9vdwpIWBoU1uC_hqjjKBWIFYC6pTCpa6dnvj4",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJGaAyS4hZwokRzKiuS8sNU0A",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CoQBcQAAABvTOoQud6T89a1FuB0ghafmvbaDvqPcnP3TYYKU2BL_3ueERm2jN5V_BtBYPEc-_ifSjDJubvffXqD-XSR2vO5ruzt0SDJ36cHcVbetXnd6WmrsPMfjbJejyNRB_nvlHOIj8ipV2vD7TYbWVvUyrmhzZNqAIWu-v2MFCMrY4-mxEhCXcAEXHFIvRsHEZvml_AU9GhTmgn-5n51dosOZ2tT5UaVH9fa6sQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "149 Mulberry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719868,
+               "lng" : -73.997338
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b5fb78ad84b447b19ce82fdd1f4b2806cab283c",
+         "name" : "Amici II",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 165,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACiF798jQeLOcV2avO1Pa3sJavBp6ATPFgI4x6FP9n6xOoWUwxdHImP9MySzgf4GWgdULn65obhkOH8SxhvqUCiYh9l9LvqdkbX9h3eGguzGACCrdPn0KANm6XXrHT6Blit7BL_39bPPOI9BCoGLaBhIQupQbIrAwi81imttlwazcTRoUp3SVWpJKzLp0HfBOvgY7cEKCMBw",
+               "width" : 248
+            }
+         ],
+         "place_id" : "ChIJUeQ1UYhZwokRBon4aOd71yw",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAg2KO6eBJemMLO6HKukxTvXP4wFbXJKyMvqhv3VmQuIlsCOGnVcbmSVOUdxfbavr_fw04puUEgYOo3e5QD5aCrQ7hVdp3hLxH24kExGk-dcXvUiOk13bAkq8QoXyMJySFbTGcYmNy8VBgiPArh__qshIQ_edTSTYVtCuMi21t4aN3HhoUvqi8LSEDsklAKGzWF6qys1_DmCo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "165 Mulberry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719651,
+               "lng" : -73.996962
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5181bcc93c08a5b845901507d2111b0c79ee2ee8",
+         "name" : "Da Nico",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 323,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-NfNqodf6MlXwJ_Y6-hzOdmwKjtKXMPlR_4rk-Q-A04xO2cGbksKNqzfDMWVtnK5rsM7xHs5qjbtwNuZvF4nthDFdAb3iseAWq_k2amB3gGkxxMNQ9QhVPDEAW44x3hVC2tS27y_xpT2j6TUYUhMAhIQZNck6tSTRxDqFtG22Ij-yxoUfekhy1TKYTOy7Z2b17PkXpbIesk",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJkwvCUIhZwokRBOF1SVW2DH8",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRoAAAAju9EoYdWzGmGPnZcGW8Y9ip2hZA_3zs3PXuiKIQQLBoXT0SCOJq6_sSS8X6J1UXkjWGvfad3eTkyocaMmVnxwD7y1_NRmzkPoehwgpB2lgww50pqSyFmwan0oOzMrPTSn0hbX2inhJIO3b67KYTUBBIQwXT5aE5-mHPWcZeIC-WybBoUrLZ-naikq_4gRJTN-ykgAeyXPwM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "164 Mulberry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7228971,
+               "lng" : -73.99549089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7250838,
+                  "lng" : -73.9926194
+               },
+               "southwest" : {
+                  "lat" : 40.719431,
+                  "lng" : -73.9982402
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d73963cebfe4e664256e59390485c780b0ae5b12",
+         "name" : "Nolita",
+         "place_id" : "ChIJd9PLRY9ZwokRk9g2ewaGdEI",
+         "reference" : "CpQBhAAAAEtwdU1LTeEiNhuPcupF1kY-XQjGHqyPz4Bns886pOVg7vc-RSMiMt4a_GF8KE_bFQa81q08i1fVxSg0vXA6JGPQdghYa44cV_DpUevVFIzuFMM6B-w0sgLIVZb8YPdMsTNlazzLuNtb8R2nj0ZBKFz4JyNiPpYzTvEBmqfj-4qAu6BrCCvqpIy3HLOq9CpI1RIQ90YUH46HB1b3-cfihEqm9hoUYTVDJ94Q3PBfQxrVdjPD9d0mWpY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

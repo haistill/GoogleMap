@@ -1,0 +1,521 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAANCzyQJ3P2-nCyz-24HGLbpEpC8jJNR-NbJKB4EZo_G6pLgxFLTcV784a47c5JB3hMucv7JLhKD98L7V5eqPFNRYJvjlXxQVvdHfgbP2_c89-5NBl53EbUsM1RPzL3GmZwBwjpXXRhedPwJZfmOSAP3khLmlLngFdrIM4O-WbI-azNpkCXCxjON4wDnJ2bOriBIOAovsKTB2GFcZjf6sVDeRgHITjgmt4_biYsOUbfwc0pQ65mbOjI0c9zSFN6wqwOUt0xLL2eYGbGw8PHYpMRGG1mqwP6Ig3IFDsARgQHnsHKyDrNzPRvYg45dIL1E70RIQ43cew3gHM6AcKjZ1zAz5lhoUS2drQXIDMSQ1w-TcoARyFjP5sgE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAAN1Ta5hfkJ5kj7J0MVpaxcI85NqTEdVrcY6RgSfC2gL95ygvDellZ8-rtlx_6mhKSs7pUH-lSXOMEYeJi2FfUHnErSEQpdYsuWlPx6xTBVqiaDuNUBGr1EoVoUX92cej_73wDn13S6_iHSBWQ6rfpQfWm2XO-1pfK4s8v-OexATRDbdPsmmlMMA7MjwKoIrtsxIQcyrGlWC800qDKjoI2qw1MBoUzLTC-vmajN8Xyv0L0wvDHan1OfU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799,
+               "lng" : -73.93899999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c14a2c3bfa9b318c231be0c047255a1781e2c3ae",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAn5J9H8_Qa9CSgeZI5t6Uci8yPCsnurNkNn98bcPFLvunceuKhNiMcrBlTjKq1QP94g0GpqjPBfJdK-nOhlO5AS87JqFALNRYrc70izrg44RNmERq4IL2aFKqaRQis4ZkQ_nvz38yCXMXuNC5NvNzSxIQ8TH6LXEzcWx2-ZIfwqqABRoUgcbN1VZKKu75sjOsDY4NOnDvDLA",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJ87ETiQj2wokREr3WF5mwMoM",
+         "price_level" : 2,
+         "reference" : "CoQBdAAAAE4yaJLVfcv8c7pjHTARXKPiMlKTpwQv4w7l6vDK0rW816I08u_c0yoAu8XiDMDud8yhFBV2uUf0svP1hSPutkyWroMAnYGwzh6Fb9Ep1jULL0ztCpa7wXERJDuHI2bG729RWcZR3Y_s4sqFxEey-VMYQlaI8SD9hlPTpiKZr6nLEhCtsAA6LhQoFN-xTbHnk0J7GhSotanBVQOTMF-Yq4n0DzQBuxKfKQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2155 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79772,
+               "lng" : -73.939936
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d79a2250f063f1bc02c003bbe0ecae0c0b72bf8c",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAR7MPztuEcYNIlFQhCKj4_nhqG9xWRgxQ09N3ZCfZbnj6UgNYv2dNsQUcx219IrFWzcPB5Ycynwqm47q9JMeKHgAzFLz0wQJ6DIvuyjk9JbQX8nrB9jB2MFd6DRWGKb8HU2GqXhrS9UQoZVdedJoexRIQWMc5ZqAJ91v6O_WNRrVvURoU64Sgpci91jJFPJGFoXVllWvhl8c",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJx_YyOwb2wokRo2sijoA9fLI",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CnRqAAAASDLVVnCauEEL2heglz_mvDbkqYkf9aq8D5PEgsT1H0XWC9WMvs2aUCDkcL0J8GXiqeCQvdxmjN79xZtnG8KZwH60btZ9LZBTAIOi-p7d1Lp9YsVqhKvd45AYLWwzwiQZsj8UQD4DdI8_Ij8lg4QP-RIQ4xHy6UeQxGFl7d_X9-atMxoU8p1cwYdeciux3FqQPxZdanKgHsw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2121-2123 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799875,
+               "lng" : -73.939088
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "36589bd53bd2e9661c79043213cd0f73b6523f44",
+         "name" : "Silberman School of Social Work",
+         "place_id" : "ChIJc_0lIL5YwokRszCvlFhhMgI",
+         "reference" : "CpQBgQAAAOG4-JcBLEIu_x2pw1KcTAOvOJEJ3MktJ7gTcMMYph7WB4LdOJh-V7xwb7avVCL_6iC5QXkPdn98zII9udT-1AR8w4fY1I6pebd8K82682s6krd3AeEPoM9C9m82u88km5dNA5RF5DYovitg6Oor6cCJeDNzov1HVb9vG7kxSPvON2oW7lesUDlYomhuEPHlYBIQc-gp1pSFeOTVvGi1bRqfixoUjHFd8oaMzNmvtT95qCPYDOE8AaA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "2180 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796673,
+               "lng" : -73.937748
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d448263d6e2a19250a26403e4fde5b344f737a84",
+         "name" : "Eagle Home Center Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVF35ltNG-gNSnOEzvmiWb1N4WSVZGsafxr-ovRxfx3dopgtR30nta6YDur8kEXx562Mhh9KNp-W_S57mHpAe0KlohaRr8myprqyLwrdHTVVnz9nsHYifLbGYxkGYxYek-asw7b-BXvUVIPJ_4GFdNhIQYQ31AjzfUwhjl5T0JPqE4BoUnjEF2HJ7j1vA94DL7-4Uc4jOSj8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJH5n9vgf2wokRx4NsIImXbcg",
+         "reference" : "CoQBeAAAABb7gvEp5JbmSOkQZeXntx9KA_F3yrt9Q8rhm0r4TPiTGAbU08F6dRyN0ZX8R3x4nt0FY1nAfenHQqr_lgB-WIRgztfxPpy1qLaO1yovxHiP2JvTEcgBndoRCzXGIGhRsW2LgWHn6n20OUGi4ydD5JkpnNvFmDHzuZDjI64zer8bEhBww5riklzNkeveXJemfsD9GhSZJ7rmDPIzVJMWhab7MjUVWo4KwA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "general_contractor",
+            "home_goods_store",
+            "hardware_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2254 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797317,
+               "lng" : -73.937275
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a57a0fd09999783de0b9d148965cbdbe6dae4fe5",
+         "name" : "Mi Abuelita",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAu-etHGpBSiO6zVbx78LPyuvIDz-zntVeA64RRWanVHwLo8uHeh6rJUo6GW_zX6lII2imzIzw4FrTqqcQ1uFmYgSn8CSlDYbTjlTSytiPW84IDQ0y16yFZnPoDCUQC_Fb8u-VwZnuY0swVNKqourXGRIQOoB6LOnX6eE6QykCR-VhGhoUjeq8XiuYFwErWPImTGCeNBAyzO8",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ0TJ46Af2wokRbEEVkM79144",
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "CnRuAAAA7QXcimPaJRcnCTPbgeQs3XFInPykTLPnz-YJAF902SuxuhD2fPlCmPLkKSL2-jVQj4Ljr6JOVYIJic3Tm5FxB62VuwSAFea4wCRL3DrbEOkqUk_OcGs-CpRSq9VtQSL_eKVBkJ-Rr_5rAgNXiijp_BIQjQUzM63Mjdn5Unc2NYHb0BoUKDDMuPuVlFZKRTTzggor4XvzkOs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2270 2nd Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799632,
+               "lng" : -73.938492
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cc5a63a27c96c4ee97597b2cf24c94be99c0ea0e",
+         "name" : "Polash",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWeTG8mOsxBRSFycNzWHky2mXwWTat5vofgvDzQZFojhpJDpY0HdcsRS6BHYm5bLVYQq7hslokQkS9pAgBDI4I19u4JWX8heLrpJUhhda7dCSi-QvgyA3MU0GZ4TlJelS5n8v85t5bbCfnWQ3uYngDhIQ1HUSfZC-AJiuW8IiRFxkPBoU0ffO0CayWbq55b-I93neooTCdBw",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJdT6sXgj2wokR8OZiKQUJN54",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRpAAAAFqU-gRErl-NNFYuOL_PCcFr6lTDqcd1Y4MWvAzNUgpqLGwO9-6PCgc-k4E0x_iltHHDRcXT9Axfq6yIUh4RO7g3eHZDn0ryqWu56zvBCXuqaI8g53tuKNxgVAOhWpzXwKrV3M769MUcfWAZP0pg4TBIQuho3luYTKqpd4djsTaFvCRoUmc7g-jLC6c06RxU_QNQOUPSTpfA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2179 3rd Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797906,
+               "lng" : -73.93917999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c0bd3379076813507a8f0401bfc48ab957fd2ab",
+         "name" : "El Tapatio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfwxJiKCQOyV1vk29sZgJVoNwsYea9gz3qTaRLUrx1pdDH2-OrOTnuVou1pxlMaLOnSdrlz6ze4ssh0hMYX4xnL41SsLdsXJfgduszHG7ewdgICiTjp3_neJi9GCRe6u-013jL_2XHLCOhbi0XF4rPRIQrVixFJzjYDp8guaZJ3gBbhoUyGWSSzJqKfTDAaNMX-RVxmecKns",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJb9V9Lgb2wokRhGyhWdbs9Fk",
+         "price_level" : 2,
+         "reference" : "CnRsAAAAZJAZW9pd7fgSZc23qPzQl-eB1DMQd6zRDVVQmyapvd2_Xw5wThgSlQLcfhqHHDWoV1Z3YKI_LCRLs3VOi6F_4wa-5bBcN6O3TjIOabaMXNMtoLu_ouUcbGifLwM2ZYwxXCT9WIhrkd6gS2JLT2rT6hIQczwin5MmNTbvmYSn8T8ACBoUo7dN3eKf0T7Wws_-qeRc_4hUmLk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "209 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799031,
+               "lng" : -73.93962999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "cb2ec150f60f662bc26b72e903a0994f215feded",
+         "name" : "Sleepy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJrwVPjwj2wokRmKkZzt6m10g",
+         "price_level" : 2,
+         "reference" : "CnRqAAAAtTIUeQtGAfrSR6KWJzXsICLM89ZX0x7KE3nZ5awA7NHDaGPfRfa6ydh37_tRougV6-qf6g73VS7mOoweH00efSmeGCTkp3n8EkYlubgP7kAF5_UoRT-mTqaVBwPQof8JQxoSAJOF0-UqtSjtLM0C1BIQrnD9G8L2pzORrs9DUl2kgxoUdM8BK4jxcRsQk6G02YF0Or8KRRY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2150 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798628,
+               "lng" : -73.939812
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3993af8aa90a398f719fdd5923ca4de5f6fb6c0d",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3jj-sLZk4hxix6HqxJu_8QvxYiZeF69nAjhuuIkfD1Uh_Gheu1SniUZZMyXm2e2r4ytvA-75TSRfnzuzf572wr3gjMlx88JXhpEr13myBuWy0B3SnXWih5Pcf1AIwQq_moTKWDXYOnmuAHGfj91wGhIQUnfS9CGwKMIRaGa8L659IxoUGiv7O1c_lYpL_qZNPjPM6irsq1M",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJlUZ2nAj2wokRMtsfoYK32cA",
+         "price_level" : 1,
+         "rating" : 2.1,
+         "reference" : "CnRtAAAAeT4uYkzSMIBJ-BHm6BZVazg0ldcx4U0FPfmncZ9X5HhSrkdkw5e110Ji39IpctHo4bUuOeA4G0uid65NiWclKSPgzGzHwlWvqBgN9_Gjy-dwzUQXxT5xaB4iYEGf9l6M9OqV8VTAOIkGniK7-Zvb9xIQoEAg1zBKeJGAcE9Dys1MiRoUWrsKJBQc7AquZK34dWnTCRG_Q4I",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2142 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798087,
+               "lng" : -73.938687
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d81bb857d446e37909f0313f642606a257fc7a55",
+         "name" : "Budget Truck Rental - New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 111,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAA014UXuynp8YpgPVX9w7ISn0xcXKiO2qQwCLTIr7QhURtcRN3R3NOOK7N9BZ4MWPTSsolO7h62moB_iEEpGJJLbpzHyp4xcXNu6aJeIJ1qr1gLfaleVu9Lj79P7tLAmLgk6QcSlylOzA9CxYP_RoW_RIQE5C_CG0vqV1tRcFTSAkGoRoUpiAbAFNuxkrJOucxg7310ImSTWs",
+               "width" : 167
+            }
+         ],
+         "place_id" : "ChIJb2KleAj2wokRn1-47Fzgm0s",
+         "reference" : "CoQBgAAAABIHDZ4BtZpWtDjhQJP8s1W_pYCMiR0h9pVBcVF5ZMAm14wQaiPZUwfpmZKbDYfZ-Oq6ww6KJlVRc7es1W6viL6JkwXRDf1ejAMMU7LBpxUVWjYuBSVT5i6pZWRuuhEtQM0D6DjEbSjwV8k6UhWjLUiyl1o0i9-69THNJ_m8MBttEhC5ORR2Cf5_I4HYXStxT9MzGhRdipMykDmUKyE8gkbTZt6hzxTsfg",
+         "scope" : "GOOGLE",
+         "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+         "vicinity" : "220 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798146,
+               "lng" : -73.941118
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "753ff582ffb11b48f00fd0810b33bc4eb77d03a5",
+         "name" : "Banco Popular",
+         "place_id" : "ChIJFyNSAwb2wokREq4lgJJRWNM",
+         "reference" : "CnRwAAAAiPqCxo_wEjnNo2_R96vC3U_gH8Vq-yRvtekOQ4WsD7JVItxcoECIfxcVGoGYsiUOYMfUwf-KnqYfGmSD1DihRHI8nIlNFGE9X61cYvVnaCv-wY79ISEx9HisyeS4grzCAIBw5ZirMny2MhK2be4j6BIQI08KgL5TPqNxCDqf179-IhoUTenHVDwzdS_kwtgmWfEu2IiBnFM",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "164 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797402,
+               "lng" : -73.938171
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f677232f9e30891db1ffb2043af7f7bfca666e9",
+         "name" : "MEJ Personal Business Services Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAnIhlhzbuoAomYITojPswfjS2Znb9AAxv7FXoT4sENSeISIe4Y7M2FJXmGTA4xp4ZuVpi6e8VgyrYKuURi_R5VZ1f91bBWtS072YhuGX4lzAU7QU-8X-oEN1ZRxGMky04h6-paUeb4E3beIhIWwdzihIQIYxFDiv4vvRd7i2CLTq5rhoUHYOcdXMUSm-IkSOOqgl_meTYy9k",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJm5J1zwf2wokRfJcAYCyrp4A",
+         "reference" : "CpQBhQAAAADWQ-32kElnoc8Rap94m_-K77pkXUUQyg8J9i5RcKZPILZVlAYWpaTMdhe0GNCvrzyswkh_T6Fk1Ix3jCYvDJuKfVYVWshND6uJIX_WaKySJuXFAc1SVYDUQiZjnM0NMwMK1H8Zcc8O2_8LV8sQv-VfPS_k8obaI7IyefbQ_vnh8uNpsQQaMkznQhYFCZuLzhIQrLAo0AZED_G-g0vJ7Bt9hxoUzqrV1EVaniY8v2vo95IMpOyQ42I",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "establishment" ],
+         "vicinity" : "245 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798642,
+               "lng" : -73.941211
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12cb54c2aebe9a674215a5bf34e4fc9da26b3780",
+         "name" : "Casa Latina Music Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJn6kwqAj2wokROCmyI0WmpPw",
+         "price_level" : 3,
+         "reference" : "CoQBeQAAAAOfTjsC2Mv_VmZn1dUF6-TDkq7OTw1KZ7St7X9Go-MKagRY_gpFDy3e5JHTo7aLbrCTcY9vgVBqRg0mPnhvDjkUS_zsIhTZH_Mm1ZbkuqbGVGLF0k3mdWKv3LnPZRDUo9rj_iLKBMkeJDFrU38qYz0bMu0LUO00AO-cN2BdrWp6EhA6QkxPKznH8XtsZcGaHpshGhTwTy2ptR8XqQss3N38eVFT5cbR7g",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "151 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798367,
+               "lng" : -73.94054
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5f214d50cfef3ba2590e9e2b014289ce3bf5c2c",
+         "name" : "Taco Bell",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAtpzuayY9YT96MMI4zb4iQXEmt0EvBG9jWc9Suy2QgReUro1lIsuRdzHj1SIuqBOpQEZsTvtAgvbf8ioxa9JJxjzyNRtPNqE7IvSdec9poO0BfT_NKFgXeFytGp4qjrG-qwa2Z0fv5E-WXRZkFuGYaxIQSoGFhdQaGHXwp_e1mizEDBoUm_nWfTNQAmnN8WebxKLI-ayHjus",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJXSKJHgb2wokRAiaJVO-emik",
+         "price_level" : 1,
+         "reference" : "CnRrAAAAXswpj-DWz31q4W-nexfqgBqZ714HaMiKXm6IMATNQcWCOZlsECC7sWLAWQD8HuOoOPF906Gn3hHMrivkhXvrEVHXwmih3n8Eol7BlYehFujJi_KBqqQM84ge0zcgJwJ9_yY3B-wGjVX4x89nr_A7WRIQQKYSfiQ6c8GhVpjDzKLxcRoUh08QSpqnouUQQtCC7Nyd2pAUK1c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "173 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799235,
+               "lng" : -73.93932599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "69d7afad576d578abf26077fbc666be9639b40c0",
+         "name" : "Game Express",
+         "place_id" : "ChIJnfQMjAj2wokRQ2_XuhplXig",
+         "price_level" : 2,
+         "reference" : "CnRuAAAAIEqoqVM1uDJYMrCR3RHmdEgWNZ3Fx_n9cVbNjHloUT1jlyk3E0wojuMgxndlCNIgLIKi25E_NNb1gzK5B4IGUHVY-FPUTMY7zRJ1n3AsjUPvDSRgs6JDhl-vqVnnLtqWu-yR8tL7vUoTW9tT77A-QxIQKzxTXK7kSBuls8nl-1iaQxoUlR2O2jiv-lUmzzE2aXEeD-eroRE",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "2158 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797715,
+               "lng" : -73.94042399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ff22f83abf12a9efc0cb8f42b36fb0027bba4b72",
+         "name" : "Duane Reade Store New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWUecFwb2wokR_va-lQzODF0",
+         "price_level" : 2,
+         "reference" : "CoQBfAAAADI-gV8_WO7PCbAx9BZQ-eH4GK7dClI20HrSYMbKjM_hw4_ZPXVajCb1RXDtfXXeLd9uZ8D81Pa7Fyv1oZHjuoo9NX_YWyGa2zWDpuhrjbFaAidsNUeHyoF2L7CAjrpaQ643giC-TqaMsuLAHRqoN5xvQvEmqZJOVLOcy4avaGeeEhBUaM_tLlnA0oH1mUCtAK7DGhQZg4YSHO3N_15nSJsCmzAgA3UG3Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2108 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799816,
+               "lng" : -73.937995
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "57c28570fb0d74facb3bf229ba356165aad1b323",
+         "name" : "Davis & Warshow - City Showroom",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJs2EhRQj2wokRZAR8EvcbocI",
+         "price_level" : 3,
+         "reference" : "CpQBggAAAEPiQMwVD2UerjPtCFY6JpLDsdmTXduCwK3t4W1wFalPivNxIqWct17xEwNzvGrZbP3L94N60uxd7GUP5ET3GNtidHGLQN-f7fNTUc-bqcG4n_NX2j0XisecKcy7TN3ZpUQ2dD6P_4d21yipU43s0li5Dy-T3yeh47wJ4S1FltIHT6h2dUXz79RF8fejh5JiPxIQJRpcDVsOc-7iLwW4Z6TevxoUlDrEdMqyuAUPK1JTrNubSXS8Gd8",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "home_goods_store", "store", "establishment" ],
+         "vicinity" : "207 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799992,
+               "lng" : -73.93797600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "226dd1c7ce050f8565cecc7231d7cff751abac09",
+         "name" : "Gracious Thyme Inc",
+         "place_id" : "ChIJO56jTwj2wokRQ1UbeJnwFF8",
+         "reference" : "CoQBdAAAAFNHXpZE5vBIrXF-UIjEC4-xdYFJJc9dXSJatEP6KYC0FYbgcP3JnRJf7wwDiKcUnpWk2td6oq56XT1JXPMAjPZnR5lSCKyRHSANG_mxdJxnpaRcG218ZTSNQ3DJ-PVHMCiCnwUYz35gLoUPAqF7UDzPWCDEAZsPaLmuFPbxP_gKEhClP9owpFYrm-KOdbupk19jGhR-4U93MxOchRxuHMTnK_S2xLVDZw",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_delivery", "food", "establishment" ],
+         "vicinity" : "2191 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAOVwT_QJ7NebejKO1Uwm3s9affHQuo9OCSIWsKTOTneBPMmbI2oth8IV2tymhkFbBunq1z8yiH2J5mtk2qyZ5gWmWXfw48WYZNxTybKKynVPjMNe04zMFPFcKRRxpJroUOfGBKpu8xGD93VpcwhWnrFASoGZeVEO3k9c7lHGujpBACBG_az6Z6gNEr-fTo3kiBIQ786EMKQWvZBso7P8rT7CeBoUVrZt8YZWuF7Ekrn-lpimlmZ5Mtg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,458 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJ5I3wZZ3gh7IMYc9y7sxcVpahcj4W-vbKdJJGqgM99GbOaACILzA6Z1__zqLonrOAMXvUjyiZ4KgYsmP0FjzfiS7K9k_4CsMRnS_lncCOcGHUR-xsySUEoMcZxTs3E0aP1LRMoeYGaJOwwxm-Vit7CBukAY2L4o2N1AYHGgh3UL3BAH1jJJVB_wayF_d00p31tRspswpwW-olvza9kyjfQnGM-seOcDcHBr1cuF7d7kZ9Pf9FDyd9jthBIWbWQBeYfqZSdOcZX5zJsgw2JmDdZaiK3c2RAkYjba2JDuC3znw4D-cajPXBc0R7rUxIadcxIQsb_J3C4PY0AwK2D3IrwGChoU36GD5cFmlJ6rNCZ37r0dCPcPygM",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAACQDfeNxkbBgsSN4s_W2dmJ0w_J90Sj7Kj7zBpEmdpljBBtMNyBO3fQsjGmy8wLnKDi7aLXNATxt9rclPjdmBycA8ON0bKt4UHSuV4IRyvX-5B5j0c8LcOheGyw-eknm1Tw7jKNvZnsCzRrN7jze_4WDLNyMGb05oatCo6RHdqP0saToIEsN6rrs3er0tC9iXhIQFu8WGIsNccU7rFhCbfHW4RoU2Fr9wBCSncOBjyoS_IQ5Te_vKDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826809,
+               "lng" : -73.950658
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "7999810cd173d5383caf4107c629c1e9e4ba508d",
+         "name" : "AT&T",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJddjAAGP2wokRwLLg9mif8hE",
+         "price_level" : 2,
+         "reference" : "CnRmAAAAAiO0Gh5XnKmmwQqPaL7I0MGmDZ-il5hmJCYd_uhUpa3H5d8y_jolx9kmvY5OMbsgcGU1B--sspVPN7iRA2z9lsOe2CkUBGhQHDsniy3QkzqUhfQ3Qh-QkFHVJjd0bITQ-XKOBVtxl2k3LwOHej7kyRIQnTCEXyVmv9lwLa6HujKjxBoUCAEe19TcH1Q43qUV4WwKoVFHK8g",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3545 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826727,
+               "lng" : -73.950627
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3c3d085ff72b6c56e1087b20ef4cc926d2ff7f7",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2Bs0dT_WsEu-wAnm3VJ1HqD6loTpYnRc6ehbWYeWyDrqbcprz7ztZKVEnCUyp4iwCGO6ye4nuY2hPR2T4etjjL6ZIHyko0k73Olocgma8QcQkBYOfTYm-R5TQu41Bad7_HSi0mOZgGdHfmYQQINGhRIQXlrx5yxTwxqpICzE1_sTkRoUHGS-AwbnMpzOdPCrYpsXiHa04oI",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJhT6eMlZYwokRlm7KA_UnPAk",
+         "rating" : 3,
+         "reference" : "CnRsAAAA6wZYil4tkF0VFfBYuFmFnDh0HgegDSADNYJSnNszg5Q9jw1LKP32fW1VEgAas1XttojHzwceIBN3koFd6lBbTEkXl7iNju8_ZohOtas4cZigI14msf7yZ-e7O6GDFv7lU8jEDUPDQmKaPo5hvFi-dxIQISMfE57RFX6Ze4N6vdyUZRoUIuaeGAnCFnFUqW0XO049Y1qlPU4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3549 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826775,
+               "lng" : -73.94982400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "329a68cd9389caaab3b4108589c274d4afeb4d22",
+         "name" : "New York Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAATeNSFlaVbntwE__gVMv9jCXbZkD1EbI5tNxcHXpI9t1NROZ_csE4BSTLLhYRTUBG9U9l2koMOLaMHd_s0cI8drRi_HQbJDt_bbMqbAQ8xdXccJlI2nrxzYJDEE9EbAcpzfQKxXgT7aMwH-IlRyRiMhIQA8CImPjZ9l8Yl9yghxbUDRoUq5vXww2dxcE4Jy-sZB2A_1-Iz1U",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJn_U4AmP2wokR2rvnLwA-3qk",
+         "rating" : 4.5,
+         "reference" : "CoQBcwAAAOgjHkBkd-9pFIygHxVAom-_Q2cgU_6BP6HFtxoQPZ0GSQFKj0s316H4AmOb0sJZKxOrhBnfMpkw_WLPAuh-uUo3Ew8M_VRgqlkMcVyqC4dsqF2TltrKTpkb20s8i-oImVHAeB8UPpWoLx4ShMLqJcvzZJcTErDZFsAUY1Jc3YiIEhCZMwjamR7Mf43lqd4lqi-hGhSX-8BZHg6QgcH1eGrW6Ba_ELnf1w",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "3550 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828372,
+               "lng" : -73.948722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebca2dca2d30c88e58cc9a93f2ff650634acc8ba",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 792,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAH3eZ8Qr_Yd3qZ1E9KFxWv4_JlHYuWlEqbzE_97SvkFsT7CsN2NY99fEI4R0cTf19ZILGJYpIkQm_orGDBlAn77BpNcj4RILW1H-_wWw9Vx4d_a_h0CTgS5Qjx0BfYgFwMtecdtRlLWmX7DP56C8HYBIQ4GMMOnL4hBv1dXEu8GhLHhoUa_APZ7HSTYlJrohDQMtqYreSoYY",
+               "width" : 792
+            }
+         ],
+         "place_id" : "ChIJ11ziu2L2wokRZl5kdtdj_ZY",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CoQBcQAAABMVWiB2f1Ad4YnMXlkR194ntL1Lhh6U5wR_arsy2kUtuML9vZtuH2Ned1KUghmnxlJ0ze9P9AAYeLIjNsSzTq3UD9feClYjIO9EMPFRfAcKvg1Q6QoBC7D7eRKMAkDCj1OIhN7tF80f9fnz_d3kaZzQzNySMggJelv2YkO2uB17EhAZvY_LDYtgZthMy5Wlw5ZgGhRFd2tb3TuO3ejwaSi3I_RiXA8U1w",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "3600 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827458,
+               "lng" : -73.950322
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a7deb8c28633bf6091f3209c52df936c660c0749",
+         "name" : "R Moon Associates Architects",
+         "place_id" : "ChIJhY68BKJZwokRYEGwOaxmcYM",
+         "reference" : "CoQBfwAAAM1FhwVdlZGNWmOFFrSWWkvmMCYvtbJv2vpvkSH3CxHK9STD7vj0I-9m8TSS_k9GDmXRia610HubmajfOFfp6DIc-mbL-qUl2V7WG5yEv3wVj14OnhAJwUYVsUmTH-ieQqJrRXChib_9uQU-8lx0slqRdY2xit9DLr1_5IlRhzz9EhBjhcr1F9QCzRYhsDVNkZm9GhS_IUZK9pX-9FaaqgqaB6_yiuEjyg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3569 Broadway #7a, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82882,
+               "lng" : -73.949022
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "141ff25d8f13cf18baf0d356367ad086cf1ceb45",
+         "name" : "Best Taste",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtx32o2L2wokRkMnjFWZTaSo",
+         "reference" : "CnRsAAAA6uP46tlEmP81Y3KAbsAoRojs7YtKtCWtiyuoLXEemhYd6OKMU_wWpS-bp051dAfw1o12qYWzKSuDfgqQeMHlYlVJlIdYoPNZLuduBK_PhwkWB5-0gM5lx1iS78syVv4Is3njFC_3oCwLvWjRxNKdZBIQ6szJ5mEe-pFGpnR-sMlc2RoUFjrwRb5zeSMZ1IMHB_K3ND-S1lo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3609 Broadway #5, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82686,
+               "lng" : -73.950585
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "c89c929a9ba6fb4ff07832ce1d9147f80c19f7f0",
+         "name" : "RadioShack",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAccLevtYYWjvsIA3hOqXTha7uxFX3OKjpgVoweIOOHbr1VZcUxLUZhv1pqBI-QKxJkZmAgYw3xZAs7QdoQ_si1LCBijjmxJYi8J0XkfyiTn6LDv8nYpHwmVsJ45uVxcPa1jRE1BBI9bym7GRMz9NEfBIQpLL9XiFKDIhxINlWy7kn5hoUicGBKuon-QODxWpaFV6E8LI7dvg",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJnRTiAGP2wokRoTMwZmwvqXo",
+         "reference" : "CnRsAAAA90n_1Kq5HPQJkbTxRsguERNuO-uMBsmg3RRDKB22jrTrw0ufFYz-bMPm3lkTYdqfsZVZYvuTf2mffKYlXDG48jZlo78kIo8DWBW0vvIObdbsN-ca7P-aPNI7dYg-s0MP5Dd9j7TW1R-YcRZ9Pp6N5BIQbHujGbe7qmIgldxPmqEe8BoUnzMVnD6ZF33ONP8_djsCee9702I",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3547 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826979,
+               "lng" : -73.950382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9baea8ff59e4883af8c43d1e8080bdf5d0745919",
+         "name" : "Broadway Vision Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 397,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkQAAABG1n2oy8fCrXnMe2mcYro5lMoUTFTWxuk0GM3jAPnYwU_1PiqUN_Am-rGIZ5opHvCD8uM6xhQSufOFDBHqzT7jtUK_gUiZqRd0zfxWTVJSifpcokfDWV8GfoCvMJQycjE4dVb9YJ2kdcu-xK44j7psJdwUesH0hCf5jF0grdgdvmJFSITjh0AepBoob5DnntJy_Arw1v8EvrFVjiziOBpQSEM80r57rsr9n1KOM2F6TT9QaFOwPCNzKHFz5B3e2FzZgHyiruR82",
+               "width" : 397
+            }
+         ],
+         "place_id" : "ChIJYywg_mL2wokRlc1L71lEv78",
+         "rating" : 3,
+         "reference" : "CoQBeQAAAHqCVdUXktO7KYNJQ5IGKMPbdr2QKIFRKK5yza0XfsG7QtMOETZPDbJkakMkH-ykXTJsUF61mkESpRJBzRF9t4CwykdiHm1hOyP4AOShMV43Ft7JkZs8Y42OnhlU_AbyiR9PaAmrW4To7RD6LRFMaUDA9sGYvqFqIIv4Eyvxyt2fEhD8k3uTx9sAqCrE0zjn4Jq9GhTacTCdaoANKPw1TbxKbRShyJQXNA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "3553 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827455,
+               "lng" : -73.950047
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "697f9bf3bb97ad95f0bd079e2ea24b57c02810ca",
+         "name" : "Mi Tierra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJX4hA5WL2wokRlQhiMCP8GuQ",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRsAAAAl_HqS6EFwgF47RuMGhXdHolX8Q__sngr0cOsjD2xEcQEK-uvionklZEossoE3hsdKXLLtEK0qjw8zxv-ub_tyj29_yvZpmb-Zh4biJiir6Xy4RJn6xLtKw-7yjZpd_y4J_MD0VsLmgIz9SD2ZXjvphIQjX21WoxBs7VqzA2bS38xGxoUGgVsJwO5V6VxTo1YuTPJzcK_eig",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3569 Broadway #3, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827992,
+               "lng" : -73.94892299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f28c28d3247aca6dafd84c26583975387b522b11",
+         "name" : "Jumbo Pizza Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJe4ujVyP2wokRukFP2hyg_co",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBegAAAOlfxwSnOpueIR5ec7vr0FOuEW5KG52HguM0VQ3PIffLPiH8m4LX5Kno1-LvjYFXY6KS9lc9P0zjFSUqV6YA51YdtWCB_ndK_ICk6IL8gIWPEoxsBAIbYw-XgnmNyZkpk3nTEGd5SP6c-r66ZDxNhBTI_sr8YAWsqAfVJI_nLRKSEhCvEAoM4OsEljn9d0Lg0zoqGhRt_WV7AiCNEU_XylviACqRaLi2Wg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "3594 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82708,
+               "lng" : -73.950337
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "b488e87f85733597bdc5d43ca3a90b6ff6f12494",
+         "name" : "Sprint Store By Mobile City NY",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUwoB-pW6w2KnQaqYdtFC-AROkRzKSkXmxyL6lKNMGVUvOs-9LeRzZqMYZMHeNKxEhbKT5k67ZnqWpmuIf3dXEIsqA2720yrDJHrogCQSL18bVjqHpdgr-VYhIQ--vBKxAZ80KEdWmHVv-DHN3pi8uxIQhoyXdyq6_6jiDdaHI1KeRhoUcnP2bwt61D2UPTj5NvtHHtGxw7I",
+               "width" : 264
+            }
+         ],
+         "place_id" : "ChIJxdcT_mL2wokRrU62AoNIQ9g",
+         "price_level" : 2,
+         "reference" : "CpQBgQAAAGcXek0f3swN-GslQnhNSTSMMsM-IVQTDrVT4mWeEPB1Vo3Jjm1N8pmSkExsw8Z6_7ayp8v-v_c6XreeDNH98x-sORMvPZTE5dGcDRyD8n8HBo-d8rzL6urPf9Zqrv-KUgFIcmTxD8XS8-cwRVwBpOPPXAm_AM1KRTTe1N_P0Btn-0pdmWizfon_SBINeuVbaRIQXxV9IEpwgsoBVKZWTy7MYRoUwBfRjI7gKf37T9XHLGdcxNxKDFY",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3555 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827531,
+               "lng" : -73.949292
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3efc539fc0bef8f7c838d756738767cb32b76873",
+         "name" : "Nadal 2 Deli",
+         "place_id" : "ChIJIX836GL2wokR7SOkX9hnyeU",
+         "rating" : 4.2,
+         "reference" : "CnRvAAAAkOQYCTKNKTIlCL0ZTXoXD4WY4t1PzW9kwrv8qIKxgs7lpIYfYP1YtTTQUMnUze-LNbC4LKvQlxW63GzipN9LI5RcQERkm6o7dFwzfuyMHZjq8myxF9hiJ8KTncl6P2aPKN1z8zZ8BA_bsuZqtXrpjRIQ1a6nF1uNgVhyywy6W6eOwxoU2LuT_HLEbuYc5sk8Imf77T_eBCk",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "3578 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827019,
+               "lng" : -73.950338
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f165ee874860e626e26ce9b1d60affbcc5e3c21b",
+         "name" : "S Wireless",
+         "place_id" : "ChIJxdcT_mL2wokRoTnnHAcOZ4Y",
+         "reference" : "CnRtAAAAxj4-bgzdVmd9IygeedNmY5-CB59MB0YMO2ToamUovqKwleuuanEYxhNlYUsKUJzcYPo8spV4POucSe8o46JeF1Vb0PQAod-2LK4A4NV_bS2IpdGHX1nRk26QMQcKGrnlwdej-4u0wzMATGz1J_rXIBIQx9OsxxKtcl6xuWVriUMFoBoUK9YNfVJXz_sJYDGgie8DSnp4fWw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3555 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82884,
+               "lng" : -73.94906
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "f7c306d6b5223d6d278c58caf2710bfa2e1bf226",
+         "name" : "Photo Walk-abouts",
+         "photos" : [
+            {
+               "height" : 144,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAboWk500unEbXpcFBDnMARY7sKuyIQ9pzwMPDg8TUqNhofkU52vdi5tP9lDDtrvSlTg7-LVktn9C5YPKbjF6OPJ5csk6ZD4u5YFmT_HBGqQAiPrbHngZq28Q3anZgiJyKucxAvwxJMBprDEmY4cFDtBIQnkA9Y3mDc0MJQxof_R1m4BoUeHvVus2U_F5Unkx4YiDeLVpPWgQ",
+               "width" : 216
+            }
+         ],
+         "place_id" : "ChIJtx32o2L2wokRjD1PsU3LV2A",
+         "reference" : "CoQBcwAAAJlS0JaymAKn5mT-jFpcVpfzj6byi2oqqfdtYaADS9Lxo-FsYdsQgiO_FtuuKMkoljh05m2tuIGakH484W3RxACn11_i3XIhNBbFvGuMEfJOTKam_L_4-DYNyUZEy_5nU043I_s4ihTabjR8J2oedPQSAHSQo5KkCHY8Wz0ZCds0EhDpzNX74ZzQ0DhVAi4FWMjFGhT1AnqwNX380G-r6TNNCIp3Jxlupw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "3609 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826953,
+               "lng" : -73.95040899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e47e9344474c109f977177adde456ae382618f1",
+         "name" : "GNC",
+         "place_id" : "ChIJo1S1_2L2wokRj-vGld9UEkY",
+         "price_level" : 2,
+         "reference" : "CnRlAAAAsJWLSSwMbRWrEdPEqZdEr5TgCu-XYkthlNbUiDS2AdziTEcK6heLXMFq_f3qyvBlGi6ZvYzDC7_YCTVgnsFb6rGm1XqmtAHhzipQRtPacXrmbpsLTKY0O81ELg6PQUZZNlAUaAOT6EM54vK_Mo4izhIQ1FiX7aYHcOLNzM81rTd9oxoUIP-7xNqmNCYxhU99FaQsIrkHfYE",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "3551 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826938,
+               "lng" : -73.950592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5e4af4f0c8fac31a95bf115cb6dcf86fa497a00e",
+         "name" : "Foot Locker",
+         "place_id" : "ChIJD4YhAWP2wokRWa8x3R38IMI",
+         "price_level" : 2,
+         "reference" : "CnRuAAAA2SJzalvLoZPEaaI4PP1yHLqRR2FyJqQzX0XedoIFvrfXyuWDpNKe0Yn-wdggAObdyo7xrvSNPGYy0oKkCMwC5x5fkL4Apk7s1SHKq3oo-UqOjH4VfVQg633oVwxsMkqsxNghkl5nVOLHkV7ax2zc0RIQ0P19rh5pfpwvn7KZiXC1pRoU4P9kma_wmv5Mcq-WY29JGNrEEWo",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "3549 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827319,
+               "lng" : -73.950142
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "112f03c44c77a027663b75dbef1b7bcbdb0ff7a6",
+         "name" : "Apollo Pharmacy",
+         "place_id" : "ChIJ85bv-mL2wokR9OJvrmFSj4o",
+         "reference" : "CoQBcgAAABRjff0nfq3KyP9X4z7zEW7HUy_9jNH0VP5lren03W0E5LENIW75asPlafK4UWyzdtCs5_NPATqIfJYBtWYPvDuwnbxHVx5rc9P465O46wmRAwmM39C0l0DWXZETtdF5huqcgTaWzmkk0YufXZTtsrPy21P0ao4ojBhqAhsW3CfeEhCSj0f2H9xbjuoQQueQ-6RXGhRl-DDawh_0or4N_yWU88KaOuhoFw",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "3569 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826605,
+               "lng" : -73.94994699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "86907c2521fed3f6d5b8d42f8e3d72a8fb8fa3ce",
+         "name" : "Cricket Wireless",
+         "place_id" : "ChIJnwkYNJz2wokR3Gr6K-MMxcg",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAABVVQH4WlPbjSlvVnQOXO-1QYMekk3NdwTBtnO5MZC1XQaYPy9bz23g5B5TuOLEo4LgeX5brakUWPGwQ3UwHhxKEaAlZiBaQsuOS26JOTf84UM0BA1UrkoFC6gPtdYK5Oisyv7uQaq6612KRY3VScRDBFwg6uwntFZVoGcoSIU0rEhDGl2-9Dky8tApHXIZooTrSGhTUwezVcJvJil8gj8us7PIsoqVeHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3544 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAHYr9ixH-d4U2cVHPf9aDuldj8h13Wxtr3O2Nb4N2Dck0VOiP7c_XwCUmQGtJsEs9aWxCnNKwJgPtPoyB9oy8kVJuMLzunE2mlCRgvMvlysF8-ELHQCKYQ-HV0U3WDILveU1LVOxVv4CzDOKiYhW_uSiqL-XOc2aPt9Q3klAa21uO6ee9hVwtmVxOLbgsRxNCBIQLgQMwzvv-Njqio3XooI40hoUfxHQ4f67O-FMkpQOnYKQnQFMnA0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

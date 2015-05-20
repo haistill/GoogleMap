@@ -1,0 +1,565 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAFwD8NdM5P4xPRoemp2LJjs3KcT8yCR7hn1PjuQlEvKWVoEv8fzM5s7HBgdKdndM4DOF1Vtn8sB6cn3KxONDrArd-XywwF2btsbmZwhiicLaEUCL-sIuaVxSGGw52ZCNid5CxAOCZyiEE8TLKC9WCwULee3ln0rvTq87nLA-JX2SzCwRGAEG1LRD63Bu9Sq2VZEVJXeiZ_US4Bm9zdKu0pe2PowQmx-p7DtRoHDOQH_czBWJuRiTzoUT41StI7QE-9nuZhvKVObRmf3GIvEcvB1mLPgEoEmr_uSt2xlyolj1NVbTjBiJtvjbXFrxJyHkvRIQbiAaxmRbq_839oyQHsBAGhoUyBrgTHbHqPL_B9HEhLRgZ7WNmog",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7157509,
+               "lng" : -73.9970307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71936549999999,
+                  "lng" : -73.9897026
+               },
+               "southwest" : {
+                  "lat" : 40.7127979,
+                  "lng" : -74.0040592
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "164d427670301e16d72050d74603bcb1a3e65257",
+         "name" : "Chinatown",
+         "place_id" : "ChIJDcEvbPVZwokRETEfzXATns8",
+         "reference" : "CpQBhwAAAFRBpiHrC2npKzojGvPtb4nwEZ0LL8g8e6ioLs9tmwI7beUK7mUpfj-CaqiHAxkwSl94enmZ6hcgdgdMIpeLv5uaF22nYVbrvDkXUMG36soSlAMK2yPkU1-J09OWZ2-gJTrQuyU93VDIKPFe5tVU9NLOFq96OKpxFY844xRRD3RbA9m3I9IbIjjORguZgyMSdhIQCKVhEC7uBk4-J9LUKLxU1BoUuOxYsgHCV0Y5q4RLrQoJWlIfJ3w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718467,
+               "lng" : -74.006049
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "e23053a9cd51a50912e68a86e61410b3743d8697",
+         "name" : "New York Academy of Art",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1862,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZvOEquMhdUbyzhBMEN588kiFVFOO3P9Yu1cOgi4hnHtlsWRXjaPnW674XasqjDpm0Lra_JjAQOUH2HwW_s6fuYc4nZu0xznEO2QIg-h8Xay-cqjkmiSVXhi1paDZJkT4CfCQmr1_PoUVgM3OZqsE5RIQ-bjlHk6TvFEtwzcvLwB2zxoUSnnvclvhgDMJCWNTB3-hCfs6dL0",
+               "width" : 1373
+            }
+         ],
+         "place_id" : "ChIJ_XViBCBawokRxi2MUEFXWn0",
+         "rating" : 4.6,
+         "reference" : "CoQBeAAAAGW02NZAIShmE8zgkmx65hTLmKjuZWND1kaC_1NjY3oPqRmB1iJuUcA6m7m6CZtvbZCH054bFysQyfOlU4cnsUC86bVC51g8pyfshkP4s3-3Uli5CIjWyqsnSeTMhLCVdSd6AdiA8MNNJxb0svm7OFp-NKSvuZjWdcO5C5Mqgd4sEhB-zSbvmR_co-QLRcRiDgAYGhRLKfXPNbuCJPHrMfTziuCnhkrb9g",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "university", "establishment" ],
+         "vicinity" : "111 Franklin Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719222,
+               "lng" : -74.003597
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2ccb07418eb096e832e4f3eb11e2489feb717261",
+         "name" : "Soho Rep.",
+         "place_id" : "ChIJaSATiIpZwokRPrpfx9FD-uw",
+         "reference" : "CnRrAAAAWjb4fZfqaS_tHjuxwvdck23IjlBx4boFSU8fzhQslh1FqfIKAJOpKQ0lHLiwRuy6CvODLadvqi9IBPfruhWiheNM0cSr6iI6BPCuccGijpAXisnB1gHJ24_Vai37Xxqy12C6JmjVmb9t147UIMY4sxIQXqM0Pei1lJ-Kv1kTktFKDxoUok2VBaYSeyA6RcYUxkWuc5wnqP4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "46 Walker Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719382,
+               "lng" : -74.00492
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "94285181622dc5afad1da1fe926a16b0379d0a41",
+         "name" : "Tribeca Grand Hotel",
+         "photos" : [
+            {
+               "height" : 1132,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeX9U3NxQRrtJsgZpVShBbF34j_fC1rxHVF4Yv55qvFNuWJjY9ct3TiOH3tgpPWW22G5MieuPWwVh3xCsi4Tdmb-1815We2o4IHNASri4_eu3ByywxYXmdzB3kppgSrQ65uhiqkOFwdX3Rsnf6uJAexIQqbRWC_HVIlfbml6YcQrTSBoUtoD794PW4tmuw9rExGHHAcylgvc",
+               "width" : 1680
+            }
+         ],
+         "place_id" : "ChIJteYXl4pZwokRyx61ICQfyH8",
+         "rating" : 4,
+         "reference" : "CoQBdAAAAChUXIuN2Cl4JDuThs7b1Uk8NUzJBRIJet1gikSZ0uRKemCcoTBR1Avv04TrpYWwQQ3v_Ox0wLBYIs7pgOLslleoMeUQkv7vHnCX0qzlNcqccPdipPCGh7XueegSMurHb88cVeyxbugCxSan-HpK0LnXxMtGFnvbtSpqXpBlDWjVEhCJ8eTfrbx10z7CuY9U_r5XGhRBp20FZQmYCZVk35ekvzitwY2blA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "2 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719158,
+               "lng" : -74.003237
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6f8e27038ca4ce2fd87ca262351266fdc0d17a6b",
+         "name" : "M1-5 Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 669,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQ2M8ixU5WM36QUNBoM5ZQlQAXgagIqx7TEXX5C9rxj7Ol9wYyq4IhXTAOIyWM0c5m7hbhGTFMCjiTBJCotHU0LG5NYaa-Xbm3F3RpDaAbxSM1pPRbDf3bqG_q7vCiRuofqcbMQVQVAkW4Krk9wn4kBIQS9s8wJvFWwkN9grX96QsjBoUGXARpGvnZ4xiCqSorqdn1bftbAo",
+               "width" : 999
+            }
+         ],
+         "place_id" : "ChIJc1U6fYpZwokRYGgPxACb3Ac",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CnRsAAAAdh_z_6JAELrOqHsFu7fmVCV3bZb_M7QArtyMfOATOqETBC7v969Tpl1JeBgmGRZ44WfdEmxcKSp3vpUI2qbeWKr63NHqbcgSp5S0Wi620HcQyjANeAG0wqQvtTuw5T9cLmea82kw4eaD1qhlFg2hVxIQ4IJDzdirIwjbDBkkw26fDBoU24t9AXjW2QUJhLHLTu_sjP83A0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "52 Walker Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71963,
+               "lng" : -74.003939
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a6c8e5b208570000acf8fdfc9339a27155b7ff82",
+         "name" : "Macao",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAANkDt2Z2i2pQhPKswszJ2Ore0dvU-jz5q4-HE7dut7btWafTrqD5-BDPsMt-DMPlBaZ0X0pOQizmfnjj3yI_VNrMRzicEE53vX65s4IAFxz8mPma8kZ6jiFUJds5YCOydyGY4L-Ori6oJaCfRdOLayBIQ12NFSer2Tep4dI9Qg05fxhoUdMjEQbQyj2jhnR9ZCDHJ1Bn35A4",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJA9S9jIpZwokRZTF0bHWwXYU",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRnAAAAyfjDAVPGe7GhgoDUKnMah2rORREAiarPxlwQS_lZetcqapH3dyF86rbIT_dETNUe74sqDwvrDBS3gqePb6oZwWF9I2FfQEexAyZL2raCVRg2745EzK8twvQCgvAOcYe0FamgsbL3756oqknzjc5HCRIQeTJWfmbyCkbgRjUpmJsExxoUw7Y-8J9oEe_XOn3QctliS4h98_c",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "311 Church Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717898,
+               "lng" : -74.003376
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9d48efdef3baaa003a959205563a4d07ca846b46",
+         "name" : "Ricky's NYC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhLKw1N-WipYSs5UAZ7nh8PsVfpFGxvcWHcBk1VwGA-K5J8-HXCw61JUOdZbZfZQI8dj7YY9n1loSpxjpgxoVdu1-i4Cnj1FPL_8dgx8d7TsQT0fhSphiDoJFk9fkLYiM0DWsCZVg_oW8qBEix0qUuBIQIm9Cu0Sd9ZYsWXYwGXJEMxoUkDjuxzsg5nYb9VdOmbhTHHvLSFw",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJU0AEhiBawokRM96lmsFly24",
+         "rating" : 3.5,
+         "reference" : "CnRsAAAAMc1qySbfpwAE3cfoBTgaQLpAqKa7xH-GDAr3MCUiViUQFehWWUidoXUoe_9_FSXsZfihakfRFt0PEDFl9rgQl2YU99P26jdl3eXV0TZgM0wSlTFZkJtn4Y5tF_kcfdxCPBpmFHLv9gV6R9f7LMILVBIQWbvYzk3SeDJVjF3SPFD0WRoU8Zo3lWfQHSVsfLo_YtbXhNmJN8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "375 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719466,
+               "lng" : -74.006382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c0f35c68325deeed5efa54b8b18dbbbb1f32a4f3",
+         "name" : "Bubble Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 215,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcExYOE2wRe0I-YA2fQIOQE0Orex4DXdV4j58G0G5FyRhytzPQgK8pIS03QLOksIyyGFrePcFsktIGtFqMzoPab8FCvHJYFPFlzqM7FF_MlrDp9WsPvQH3eNtExc6nMFlhUSy556VQp6RGjOB4OpLixIQpON_5vuD8JdhyZGvUdtevxoUShRC1xdy2VE0dI9X0Z0g4ltuhto",
+               "width" : 220
+            }
+         ],
+         "place_id" : "ChIJ2Z5grYpZwokR3JHhX3OeKqY",
+         "price_level" : 4,
+         "rating" : 3.8,
+         "reference" : "CnRvAAAAhIZvXo24ikODF_yEM3bHGl0k2Byzdk26qfv9Ggg6v3_kRQ78mvfoXvWNby_GWr0MJOUZAbaJ8j9on5gmDoDTZh90bT7cndb8t99MKjUeylXRguNzM8fFT4qmtDWtgNj3dtgVhXKnixl92jrMu_FfdhIQVBCgEB2JjXP9TiInFCybixoUGdrHXYKXLAS5_yc5eNTXze0skPk",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "228 West Broadway #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717901,
+               "lng" : -74.00537799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9480c736d70bb2618223ff7e6aa806e388521f88",
+         "name" : "Kori",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAATOFQ7U2S8rGfbxBorpocSvp9quwqXT_9W-MU5LxxDZzjCZAnxpWEbPAwokqmaH-XaGhHx08FXsWf96xHyq5t0UySm0J1CsSUiAB8OUWbXl0DjcuLMakA2MTx4dhH9kpe5sh1Y-vlM3djPWHJdIyiBxIQmUf006iZy0EXN1FODvwzIhoU23NAeHxWFlUlNCMDir82NH08bps",
+               "width" : 399
+            }
+         ],
+         "place_id" : "ChIJIQitFiBawokRt0CnZtVGu6Y",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAnSpUHNzgqfM_s4kbfFaJjbKiigJ98A1BV5KiGdPb8S50ZNC0HfU5W9Jba452M9rGWnB6ZjazXo04KqTOK5iG0CaKke0CH3wgcriXME8uU4lgCsmNpWekzBywI4O1rWHz44E-Zxto-uRRYjAgP-OCmBIQTxuPsYYvmb4E9SjqmQ-24BoUwKzHHUmncdO07YaXSh9CWYxZmgg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "253 Church Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717968,
+               "lng" : -74.005442
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "724e435b2ead533c239ed9317b8993e42a3f04bf",
+         "name" : "O.K. Uniform Co., Inc.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 443,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAAkFa-QgVi5E9BaN_-OQ6CZKe4eHn7CJIl9nw6wQkm6G0iA3b_ovziC_2fk7nbYLyNa2fSWEmQjnaVB9icScuDVQmrqPBJXKx8-kNplBOxQmYjvGT88JiZhVVoOwlNSKrKci8bXnRrWp_8-UTY7BzwsRIQ8Q5VUnfuYbJAHbAuBJOGCxoUZYcOly0n1D5n2e-OL8WKpfvzvmw",
+               "width" : 441
+            }
+         ],
+         "place_id" : "ChIJIQitFiBawokRU3YFAdzmCMw",
+         "rating" : 3.9,
+         "reference" : "CoQBeAAAAOyv4CtBAyevRRAGRtcjLIepPcTVOSMWmFMcBZ4YvrGz3LTYAdHEwxZbrwpA8eAhFpYphQ35ukKHZV8B5h3_L6ZqmMgZBScQmfhWCfJjgkt4u2UYPw2gTLysru6_RW6yjgiN5NNZD93ru-Tafbh8zmMoIu8T43bwTHDlKvtD6rr6EhCbBuh1-9J4a3d-nUxhPmFdGhR9oMxPPYeENrokCperdyJoloQ1Bg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "253 Church Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717721,
+               "lng" : -74.00451700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b665c0a3df992f082abaeebc234e22048ee30635",
+         "name" : "Billy's Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAv3KOLBgmnCSe8ARKmKbLtnodZ1wZrf_zf3EdlB21iFPOQuzV-7-n8KOANyxik7uZS0izFrjJt-iCpz-B96nj-f3Cf7_dd0d4P6u-3kyrrFNyuaeZZ_XNW6Dvmhgr5nByXBauc_iRcAPJCXP2JaEGZRIQ_DY1Vx_7mDSKYmPjngM__RoUms7Nk78q157WAuJH136bFK7qkEk",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJKXvTaCBawokRqK81g3crdqM",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CnRwAAAA75KYGu4ULkhnh0uMY7XCJd6SD_7kMSNF55owcBj82IMfsg5ERBchTPcwjkNjDkUlu8H67qSnLvj8mH-eHTT5nzF-XiYm9KcenhoAHkINIfYGq7aGgqjY7vgLKnVNvY0-UlU-Y7Gpz6CEXNaVNny_nhIQXjcAB9repO6wlSbhZ4v5dxoUOHIw6WP1xGH_THaIks5wWMvdvOk",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "75 Franklin Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719892,
+               "lng" : -74.003817
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4fccea03297bee06cfa1fd3b0c4463b7e53ed280",
+         "name" : "La Colombe Torrefaction",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 302,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAa9O1IB6gPRQOnssnyAadnsmB9Z1eVNLVAcXlse3vlP76-MHP1o_JkBEKnBdPAONH-oKyUh1KS-gYBQDl6iF1jy1Wxo6N5G6I786RGM_VzP95UlEl5EUAULS0H048UlziWGJAo-vzigpPZ2HrAg8kbxIQ-Lz-pgaHW3yJgeNUD1XD6RoUnrNUBGsVp8Z5_l3ZhwBtUDflTbI",
+               "width" : 288
+            }
+         ],
+         "place_id" : "ChIJPWpv9IpZwokRyO_TqOA2hbo",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBeQAAANiJYc3Jho79hJcY3U8HZv3lX1qq8yUiBKGlnwV8-smqkVrGYNsY3PQDr0TukkSHuDx6-MbcJRtygTlEDkiWzzr1dMBdG-o-j70MY3Kp9V6R7sEMI6hSY2-rUIcU5yAaBNrep4a_WmyKv5s_khLsD65kl7WTmmiNQ1M9rfPeTvP5EhAvK1CnB_4aFWsZMsMaeuAaGhQZ6xW6c6gTG0UXqRSahhVm6qQcgg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "319 Church Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720009,
+               "lng" : -74.004642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4785de17204a59b18a44c2f50463d638452826fc",
+         "name" : "Cambridge University Press",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfAAAAO6tkducpZBQ7szaFGEWCdVlBbPqyTkarcpVln4f3yNnFoqenhQ79uZ6l_jgUY1fSoKnHqXpVxR4dvECaaGtfQv-v9Lx6tg2XYmO9ElNABTSjBcOGCRYekgzwogDUhetLMJCPwRe8DhESy06dUPqKPcU_N_SWyrfd6q4x6YthaRDEhDtR2Ij_80SuObJoL-K3t3dGhQ1rH5zz1k3tbEInZTUihpD06YNKg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJpf-x64pZwokREvsiipypv8I",
+         "reference" : "CoQBfAAAANX35w7whPTG4esJXk7HD0KP-u5Msq2kuPlOxe3WCUXQn-EcNgOvtsLWmwPVy3LlPJvnG7pyTiMVxhZRHGmaAaiFTkMOcKGNF1JLzn1mUKbrlSAnfkll8HqGN2TM00tf1Lw3HPu1nVsp2WBzW9lE52iOMhsFOqPMjkgg9JxM5zOcEhBBZ5nHDv40CKpoGq4lGh9xGhRTEWSYIMyqVn7qhwM0u0XG4JO9eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "32 Avenue of the Americas #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717481,
+               "lng" : -74.00301399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2a4399fa4650678e637fc09adab0f42c4092e19a",
+         "name" : "K&M Camera",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAAoFrvB29jIS7VbBLhykHcNIBi_fJmXE-_XUk6AAXZtMP4gAcph1XyB_XmSiJ7QWebmb2f5JaZCIVmFum7zSBMYUbYooKOOEB9uyWsHL3-RL4_BtoW0klFx0Vn2cFrGZBwMFK1krbPuik7CeVfeF13txIQyU8Wx1-MeCKsqhnDGJMVWhoUf9gySV8ARWush9RnBvI_IhIz2yw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJNfK-cKBZwokRyRtqomukJ-o",
+         "rating" : 3.3,
+         "reference" : "CnRsAAAADbNNMZdlmo_aIwFPH8MvYx6k-LaWfLOlnvc9lYWc3vopSZnCK6kychd6b7xXtvMCpFYs5YOoO-l2nrmo2KFrIhSl3UhQP7Mg6cmjliEH25aggb7gbXYZ2D2hEtj6kfRCH4r22CJWI1PB4oUKDPfjoRIQatHGQz9dTxfe328lX-2-rhoU7nEXKnzdZx3cXR4JHct0ZmEHkIM",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "electronics_store", "store", "establishment" ],
+         "vicinity" : "368 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718943,
+               "lng" : -74.00196699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c6bf56cdafdaac992e9e9875fd01585b1bbf0b1",
+         "name" : "New Work City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 725,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBjwAAACiO4zbxjXmEFcEOcewZVXdpDtE1g0W_YDSTq9zJGsGDfS_NJsxaiaLtgqJeOVZCXAewK--HL3LEJ1NS4Km55UjSgSz8iOkVceWdRtwdPwdavi0f5OJ-giR8nqLNHHi4ISvjd8Br4MS_59Pp5oVCiIGWXV57mwD3aZsbUKYW7t3wTflymWnrMkM-aQrdopSNMBIQ_ocAjjYWl1S_K5Qk1E40qBoU78HzTUaxh7LcbehmS1-zdeWhLbg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJp-cWE4pZwokR8LN0YOsgu0c",
+         "rating" : 4.7,
+         "reference" : "CnRuAAAA0zkZUh5Z0bdqMrdGAZkpkXocl893tzyNdoj33YN3Su6_aVKwtRyAsvEnLRuN_q2HPUiVEP8I3XeWExlM3Mi3AujPjRjq6O-PDfKEmLy7jTMMSB-_LhLThFvlovod2SyVD2GsN4vporvqpSA2md_VxxIQtOda2dzeoXqhCYWWcKsYyRoUkBtWO9tiwoJ3Pnn8dMmqP53L_5c",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "412 Broadway, Floor 2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719471,
+               "lng" : -74.00588500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0f819700163cf3ed48b266f64f29956625d45ef3",
+         "name" : "J.Crew",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdSbAsYpZwokRaCvbBF20RTY",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRnAAAAHLC4V6RA4ZC545k2LQ1N0BuiQaPfdOQaBPvkF6CehLnaf5onmUs7JGEPJstW0nF5BdmDoFK4Rh1-G91FnNzOMxUSPVE8ZmEuJ2C17X4ZOG3WeMlw6iMVfjiOGAuSqYLJk8z9d1Wz2oIswTURyYpl6xIQgcTuFEfNryIH_0y_7iEfeRoUObdOMJNe33vNARR40sbik2Beeys",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "235 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718457,
+               "lng" : -74.004768
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ebc055d8a6e4daf65451f6aefef050234c86b8f8",
+         "name" : "Da Mikele",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 557,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0WDXB437PYqY6R_ChfC2MfiR_Su1rDETbesOzepeVClH3AyFTTIOVvMEoxv57Tzna9Z7hF8YdN8amMTTDQtY5NIzcn_ZMev_GMpncXr4VOREZCsKAWVX2nh9grOmWttAvs2BSrvKras6UgIBJrLURRIQle5bvVz4ywO_eCgkP0AS9hoUbNVYm8v3K7tppeV2vFWShTzpKq8",
+               "width" : 556
+            }
+         ],
+         "place_id" : "ChIJ__4cdSBawokRX8ep5xIk-C0",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CnRqAAAAdiktqCO2sRIinXyFh9b6X70kVL6qFKVGqbJOyDFcf09WcKBoPlp1LIqdwSbEO5PY8sSf06YPKYu67ouJxGAcNC1mgmjx5i2AUAVZTaprw5_jkTEuJe0L-mbBQamau4SxSglLN_wRTQy-OCDZFoL6uhIQWTtnQ6aWDFYcShJxFevhyhoU22fGN15cdzoL3peg1IVEvIkEQOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "275 Church Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71889,
+               "lng" : -74.00630099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d80195cab7cc326003665e083da5c0d1d96d2652",
+         "name" : "Distilled",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1100,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5njoYGObGrByzxDn-Ntt8aUR_2v_sHITZRkNYbHZmypUdmN2e7Q2540kQTBsrE5vvjuWuSikS2ycO_G9bMwQ-7J663f2gAo6iAH9RXTGQxLw3hNUKwtjMDqKSoSLkkypv8AB8lOWjlZbgu37UD5BxxIQghTudxX4ixWa2CNXMNsRZhoUqGMNkN3m8CM7xtTPkJH04bCtmiE",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJra1qqopZwokRmgLHOV9B-_o",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRrAAAAxv1pFcfUwP4awUZ3O3g4p4kq-mMkCNgUIOnCJ6LIV1--I9S0RhnXQEaXzzMU-kIHwI0G5Dkf6Mr7GksqhK_U0eZCrFrqYUKxKgtyn6hgIU_PKAKp1nZq9iGc3gok50SHfceXLDIZC1yc1WXaFGlN7BIQKlecZQ8Hb2qYYM1cBEoPYxoU0obF8ZtY9HAaDRkZC9JCPEUm5xw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "211 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717328,
+               "lng" : -74.00388599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c0ecf16b342d12e20341722fe06e3708a6752f2c",
+         "name" : "PS Fabrics Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRwAAAAHg7HljQcFP9k_vi5Oxj_-5-pIaBAWOG1ZTuFQeBlsZRbGP1QDHwUOVAkJI522DLYlwgtX6hPygg7bCNVhNoH9hM47z4F370vePJH-Iw9XURI_PbWE5doSxkj8xocuWynXdzrDWKZtTLySgiAGAnNRRIQaZhL_xue8Oebd7z0tIfCnxoU5ISD0aSo4J2CVMcRyiTOaGEMKzo",
+               "width" : 389
+            }
+         ],
+         "place_id" : "ChIJW8r0YSBawokR5hVoy-_6Aoc",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRwAAAAm2YYqcDHx9Oen51nhFZFFytYtimFELFgMc6MFkrdLcJnFKGCesDRZoI3OPljrCUByvuKxGYnoy9bgiomh4vAiOkVHhioVEC_SHqnzvoq_xjAc971rQSRftXW2iMJ074qwfHlGoPwPF85YNhEZKpTHhIQuMMpWVUjZSx2iBSXqDvDxxoUCttS1Kkf7GxZ79ISphv9xYiTyak",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "359 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7140519,
+               "lng" : -74.00283639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71776149999999,
+                  "lng" : -73.9982199
+               },
+               "southwest" : {
+                  "lat" : 40.7097756,
+                  "lng" : -74.00873419999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "598e04bb19f69366f316e9ff214554562a14ce60",
+         "name" : "Civic Center",
+         "place_id" : "ChIJEZaa1SNawokRXvMbRrc0HC8",
+         "reference" : "CpQBigAAALO8aEU4Iw63s1G1F-gfp3iJsQ-CQgX1E8ZDx-JPVlOtxbXrD76xGW0vocojgdY3ZwWW6FfuOmpODjZorW8lnFFun_PcW6yL-3BEMcmqqqC0NnH4KEG0NczIHj-9sOjzvzLYCuwd9zAAFLLg0pXrHBwCKMSWgN-7BqoVcR6a4Q8lddb4VkRn9An8Y5yV2pFmvhIQMpTNUNnPcPCEQrjlICrnPRoUz7RToNPgww9pHg_IPaLjPxK5xMk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

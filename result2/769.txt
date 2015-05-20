@@ -1,0 +1,467 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82487829999999,
+               "lng" : -73.9572898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8280446,
+                  "lng" : -73.9536203
+               },
+               "southwest" : {
+                  "lat" : 40.8221895,
+                  "lng" : -73.9597418
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d6eff965e1d680d1f1d5e36f614d5e167203e333",
+         "name" : "Riverbank State Park",
+         "place_id" : "ChIJP_a7lmH2wokRMSi6hHf1eXA",
+         "reference" : "CoQBfwAAAGB5qJqpX9LUOarvilZsOYPKwWPCs0ky2wvFI9UU7LTKqyLCQSEZHlrtfw0CijTTXIzJyzieuK2fWZfWutn1sw8hMQUnnE2nw490OS_94DcuM5fAcrwjWtjLChEL9kDziOIl0Z43eNW-wF65TUZbV0k3rCN-MWEUX4aPn1LnO2EHEhAgM4vdl6dlqPoYcfONxxUSGhQGMmEqAui5H3n9YyRNhWKagMt2Bw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjgAAAHJ-Wj9jZduCoclawqUD8KMlhs99GrVKl_-fSlWqqYkZm08iMWKQo-87xjfs-6rKOQfC0_7kdZTRVg9BmU9gKLmZup695qvwfARNmdvt3uTYZ9T3pnmhbnukuo1DgszIlkHwEWFB9LOjqYSNGv5qY5Tl8A66LlwOGYtSMlQZPOjMRDAAvzvcWr2j_dYowi7q5BIQN3sb6trDf4wtm5EsZY0CxhoUkvylAFtBocsvSOyRn-sZ13k-UIY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821788,
+               "lng" : -73.957756
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "85501419d401f89ce648a7194ec28a53544bc20d",
+         "name" : "Covo Trattoria Pizzeria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 344,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1EpkpL1cEePbSth0tw_H0HEcy5HCJBWRTHaQVbp01s-_EMPjLIk72al7MFEPCW2lu_zadoqFl50_iG1fAPvpOVVyFqCNN5oCemx8lNKcw0Xg-4B76j86E0yynHQp99DId8YYyuqSnAXlt3NYAwxI8RIQsf19JGywRcV6OLQtbuaBTxoU7YbRzC6W0cLJJ-YgBwcDvqvk-Sk",
+               "width" : 510
+            }
+         ],
+         "place_id" : "ChIJSaPVxmf2wokR4qWbDxe_wHw",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAMI5iYBgc_738WvRUdE30eam_QJ1TVnzb62kw2iCpcJmyrycB5mbX2CiogXS1LAc4ChJjLMDr7g9NX6jTtJQ888n3wjldqXlVczTHlC-CMGM96-h9LsGTKikB0Lm1IhdjHgo1l7npsyG_VwhaFykF0neiEE0j-HlS7bGa5z9vlVKEhDW6QT-sVQsSbNTZvN18kpcGhQzuxR8jPxYIaWLzkMLm2SIIdLHEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "701 West 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822668,
+               "lng" : -73.953563
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a73bc8b7db4104a9ae666aeb9179fe9806442d3",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_LMsq-zYo9MmkaY1ctiVgVQq1fmS92IpzinOgRCBOwwcdoZOZzQKlhIT9u9oS9hcsze1rABG-xrOrMnE3Jr4ZOZMT3X3TEmBckdzLnW9dc0yUi2GhdTAVz3FTnSTSRHJSnPYptbKQuI3_0Mmno1V6RIQZ43Bkqh4r0DnUk5heuDZQBoUooNRavcsd-lNX9D12hpv8_t8_OM",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ1-NOKmT2wokRpuZWrQX5KYE",
+         "price_level" : 1,
+         "reference" : "CnRoAAAApjQfieyU7RtRZdwDF90A0y0faBrdyHg0W7guNPr-hmSTLavXrt4suxmqYZqoSzPWZjfA20YKt1pXLxqCFGm5HawUW5PVT9VdHJXS71UVU_FZlzj8gvJwtIN2j8XZtNG1qcFZ59YNGCQIpTM5lKCDshIQ8iNqSznK3oWzJn7rIODGPxoUbeey63sbcho1ornbbgm63V0PKxs",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "3419 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824167,
+               "lng" : -73.954444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "abd4e7ac39118866301be181e0d1fa5b2abefc6a",
+         "name" : "Saint Walburgas Academy",
+         "place_id" : "ChIJIwRgu2b2wokR5lt1puOAoNs",
+         "reference" : "CoQBeQAAAH58I7c0RUguj_NcRkDwzsGRMrvkoG5paZ5fzEx2uFF9gb_YKlqKzWWCoJthxSGCw8c3vQjwnLs9jLjv2B4f1kzWwBUn-5A1QQPybW5I_uaQabVRah1VfY2x2MhWXAFTWdb5Y-7-t3sqKkHKs13VY1Ga428n_n5mJsmcwCFXUrfLEhCDH9EBOZb49Y6xfN8TWZyqGhQml5PSp6wzFvZbryeXo9sqZ4xy0g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822093,
+               "lng" : -73.953239
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6bdbb99495425ca74ae56d754c5c7c724d11ac4",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqW_a2FjpjUnbCF2dM5clI3ZOb2WwvX_049DPZGzni7d-XQSllkh38IDDVDiKA4QvINJyt_IWiGZyYdRJ0HEw6D_6Ly2jOmOEpVuSPVZOyP9LaqBWoOpR_BgPnVG4ZnQRQJCfgmH3ScS5q_1bLFQSqRIQQ5q9yI5rASRBKCorIHdDWRoUUMzQIwndHqAyB-jdfXA1CPJbEW4",
+               "width" : 2172
+            }
+         ],
+         "place_id" : "ChIJhT6eMlZYwokRHBpskofU8_A",
+         "price_level" : 1,
+         "rating" : 1.9,
+         "reference" : "CnRsAAAAMrAflbIFCqBJVz8W4LioxOznTlnU7sXI2BvkOr8Vcqdr-nA1Lj0uVuaWXl1dV9viwWU3MEjUetRQf9WvU8i11tYoMKqwdf4wb3J0Qd6josCgf1bZthVKUlqpMmwfT2FkEbfTEWsEhG1pHbtBubp3CRIQNBXxph1xZyhoQFh6BU3MiRoU05zkE6CK60D1OQW8JN_3EaRnZ9w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3410 Broadway #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82168,
+               "lng" : -73.954082
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2c6a974e4fd8c988c38249818e81c256b178829b",
+         "name" : "Duane Reade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-37YQwr2wokRv9n0P0FCmtQ",
+         "price_level" : 2,
+         "reference" : "CnRtAAAAiuwQwRJLSJbt7dkXE2K4dkyDQYOREW_k0CbHfCDRBDx6Yje0AIZlwJhGJst2H_o4jlWDyWfBtl4eMXfffxlSzcQeyLW6B7GxmYRQ2aw4Kp-_x5UD6l0rkP1oBVb0_cc7GQR1YH8qLrbhlogfJ3dJ9hIQj515EvpOiy3cxnP4rDHLBhoUeDXbKlHcyTqsm2x5TcmF6bbZu4Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "3387 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823994,
+               "lng" : -73.954098
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8b0c087b7372aa96d998e72e48a7d810cc3a3815",
+         "name" : "Fortune Society",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJnb1WuWb2wokRQMv2adygn60",
+         "reference" : "CoQBcQAAAAN9DKqev_Abayd0vGJNvI5jzxftEWA0mPumkk6QcEZrdQj3_Le4MinBUiv5jplKB3xlSMNbpHgKJhaTGtpjPEn4VzNeQkRVt0FE1lNl4feW0GHFt_aT4gswiIchPO_uV41Wal-P9EO5d8faMfG29W77j1FZlsXKtvs7qWn7H4j6EhDPh946mMvLJqgGaAMmmgl9GhRcUThgmfzli1nRa7advWWU5inN8A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "625 West 140th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82217,
+               "lng" : -73.953187
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "88ea334fc6b20e6545e6d4ec4f4c70ddc36dbcf8",
+         "name" : "T-Mobile New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 155,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhyRgY1sBdAr-MPBMecIqAwaNr73MNQNmI_ohUcqGtF-JFaBKSc2DwFXmg4c3GL77uJRHDuyMZHzcrlPpNru4eW-A3LMX8QL64eNZkhNrLe06PmaNja7fvFV_ROpqPq2LQGEnBN2clXrtFMWI0BbAwRIQpn5oS94nLIG6WKVSoKs8FxoUVvlhT65-Ys40GAKvzbY_glbDuFE",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJZfRh1GX2wokRJfwjRJJioso",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAAFKCKBgBm7GzHnyK_cjDnH9GJ_f_V4C9wHDhvJSWjzBCFwq8SPJjAVaMAI_flXPm9BRiBPA0OcFHpqIXthIWigZbg31ozEuz5dr0yjti8eOueFbKFk5Ml1yfY-7b_PYZoNUhgsi8rcswwABQmYsUDV-mxsgn6DFPGU4CbWwiwLa4EhBLBe1rrmX0i25FAEOYQBe5GhSO-Yxx7RQztU53EAonzJj6Fuf8nQ",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3410 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821222,
+               "lng" : -73.95705599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6472d89df329b894f1a40cfca41b7fb8357dbffb",
+         "name" : "Broadway Housing Development",
+         "place_id" : "ChIJERBVzmf2wokRzdarJtF5-5o",
+         "reference" : "CoQBfgAAAFD-PJkkgo-ZMTR_7gXYCaf2Ysi14ZNw0vNR-xpvTjE6L03BZuCFll5jr5GlBdldR1Kkx2qvL5LqAo4yJeiaYQWyjIjkzxntztegf1LLqfTQNe0V4oNfezEXG_bdKAwsQKCnr57k2JecXccgqekXwXJbBXCnyts8-hF2i1dxpOYmEhBp3kseXrz9BVsuaWL_1qurGhRRuNXOAn_neu_kY1NOKcl3tjHFBw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "583 Riverside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822851,
+               "lng" : -73.95398900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3bfe9f653841a6b6aba567ff8305ba7fa39ce151",
+         "name" : "Vida Saludable",
+         "place_id" : "ChIJETsBhGb2wokRaeNsGJ3tA8Q",
+         "reference" : "CnRwAAAA7BWXoeuNheJGLJPCzqzAJafD3cYUDYTMQcTqTqFT_EEwj3u4na5GyC8v5ZGDyCnou5htgyP1OkeriA_mB7FbMG5-TVTFRmWhpMHJcd5JEOOHGYPP0mjXbTVMCHNudyWjq4l4SPYC2qUVXKqzKaJIgxIQe3hQwmndeRysQvyEAgNaLBoUSeukpsAhuo1cCZdd2FMzY8_-2u4",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "602 West 139th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823213,
+               "lng" : -73.95312199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "efea8f10ff4a747aca2877fee615a7f13ea9070b",
+         "name" : "Pay-O-Matic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJoaceJWT2wokRMaKU_wRb57o",
+         "reference" : "CnRtAAAALjHRGg1TfxCofHlvUGd7KyCcA9eu-vMLTe1N1yXD7IC3cpur08SRbofhSr1yHrSmrpFvaZjraV-1tsw1ie2i9kgGyym_Yz7It8sTfyFky163rH9vtPwIkR0rcaONXILUl-7jhjkdYI-US43wEzroVxIQPmehYSBNsw96YVAVygL_qBoU0v0p54vBZL55isuGsT0UmZkkhAo",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "3433 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82122,
+               "lng" : -73.95456
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c2f283a824b66a8e33710cbc9ed79991ebd85c34",
+         "name" : "137 Broadway Chinese Restaurant",
+         "place_id" : "ChIJnZqtE2b2wokRYBe1ctzzKJU",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CpQBgQAAABwXl5wk3h2qCJ9Cu1WO4mDvSjTg3o6w9qYDQOkbYdiqRM0KP8PYlEuqDJ4AcXoWF7RFMByv0YjBx3F_Si0ctfMSLO0gqMq2Qr1RO2AXm6KP2fq7glc_VUd2HFGTZXjxbpJAphf0FpcHmE3xuO8aAGBVAyM4KX4qBKzH3MswPpwasPcR4eKUcDZyOW-OObn7iRIQZuWzFV7rFYakwpraen_eRxoU_M3hOYayzorZEtbkWgp9fOA2jbw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3371 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821402,
+               "lng" : -73.954556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "59db11463ae10832047cca9e98c4cae2ecb5cb60",
+         "name" : "Nadal One Deli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8wEScmb2wokRLm3eXVtfFMU",
+         "rating" : 4.5,
+         "reference" : "CnRwAAAAeJGPX5kktG-xkwTt3FFMhUiJkfmWh2asVSTRJ0SIKpEhHHC-VAIew4V7xFwP-0j65cqfuWwCs7hlsSteqJw8ve5htq_BAe4BRIIBcv54c0Rgih6HX93K7Vbl9uXmj0CW--wS0SZcmS7fpt1L-fl74BIQCEv_2U31sxMv7n1gTEueFxoUWKJTQ7Cq8EEbLQ08_lrYXDt6F4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "3377 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823195,
+               "lng" : -73.95324100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2dd5990c04cd19b66f97f0539d1e3f5327026b7c",
+         "name" : "Trufa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu8YNJWT2wokRtKTDat-zTJ4",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRnAAAAwWZwSuG4IthsS04ga1B2y_tmqdvYo0Dc5YXp9nCoVfy0DWRveW7PSUBIpmRtRSXUmuBet-YiRusCA9mK5-2hSN2PS9i_NUsijRu6C31grle3RBh6jyDULYW0KBeQwGxrJRuaY5ecqxGXcSnuJqCHmxIQ3s5-G-DSUDnpVh9aI2UDUhoUPVOse3aggaEHRDYRxumAp2pZFiE",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "3431 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822221,
+               "lng" : -73.953856
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0176371f018db6e2014607d00c892f7d9de8b30f",
+         "name" : "Fast Cash",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBVfKtmv2wokRT2MlTvIzCnY",
+         "reference" : "CnRqAAAA8yJUm3qJ4cwfiMQA361nSQ-U6KeNbTjSwoMbPX1kstqHi964AEXZW-Pt4ytiEs57i_NPg8uNRxy6sU5-THpVHBP75weF9ZMMUJ3un84vZ7ktFRazGV5LHiIv2h7rncHW2MzWJtlpedjmApr-JZGpWhIQcbBNcoGoRRgJI39TGNF3rRoUWIDUUP7IFIcmp3nxl_iZd2oIvz4",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3401 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821708,
+               "lng" : -73.953433
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c8a6b8b83d73b1dd2b5d1f78dd0b4e48b291cdf4",
+         "name" : "Montefiore Square",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA0UKTVi2NgtsZmBExhX_K2fbEEXD9VPBhpWp_i7rfO7dfI4QTnKxKaPZBDplHYFE9Cn9XY9JSzKEvPoRlzkpa6TcnjXnRR8kJ01WJRo-b9tx5KaahheJ5PE0TroplvMKNKaCDNaI2a5Lcn-fAg64gcBIQ2zBI4MCDGYcnQ35ikM8utBoUNm_lfajF5J8P7eucMTaoSet_TpE",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJwc-GdWb2wokRLxf5oPP_MUE",
+         "reference" : "CoQBcgAAAH5W5VR5nwPiofRPmHJsjaUHKrXJW1j9gR-HsJMi2Ggo4NV2SsvTPwVbq24zSQUHqryhbH9MWdAgjc3Hm7l6T9qLFdlfphAOFz_VrQkg_sRTggfhRBjBmG998iwFNNuEQkZAApPYNZfhmrlSbzYh5GQw52gXaQUfPxAbXRhaKhtaEhDDxJyRHZSSQwm2IOtTPmzcGhRM191NHSfNVqgB1VlbRe6P-aaIuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Hamilton Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823172,
+               "lng" : -73.955085
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b60e6c2620eb415d62831fa013acf2ddb2dfb013",
+         "name" : "Tribeca New Music",
+         "place_id" : "ChIJdTXVjGb2wokR_Er-QZEHrao",
+         "reference" : "CoQBcwAAADrCqX7brt9EwbmfpXhpL4FrqjBzPRMPnDgAelgtQbciZbUifrvb3XbiEj5vnwUZv5srpZIzf7CIP8fw5nUQqGEZjvztozEqyUlYeTkMJW0iDegHk6Wy2uQ4oiDe4S4frrBXrnEUOiy7-7EfIt58y0yY3wp4NoUvFqM9M0dCGLmlEhDZj0dy5cCEK7Ggwp3n0adJGhRbGWdsyz9-QCKVvqCTg_O3rSwMcg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "640 West 139th Street #60, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822266,
+               "lng" : -73.953945
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb2e12a260a93c1085b8f4572bca24471d8ff881",
+         "name" : "Fast Cash Pawn Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAE2ILti_d6k9dvNV23VPgHm--QJ3oqET9oNtGifMg1Qhb3dgpbuwZeX0xpJ3pr_DjziFnNPqrO_i-6cpTaoSTT51sO7snS4ALi1U8AZGWce1uSR7LWca86Li-ooF941CaMiDy6DWRbgA-6PMcOKR1BRIQDCInEPj_cnXW14Gvnv8kIBoUggvvppnyf2TAuTykoKPyUTBadCc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmVPgfmb2wokRJp791qjUzrQ",
+         "reference" : "CoQBdQAAAL54ffg83eqLlkCOvUQDtAQrU7xbt0QY4E8cJayLzTsB9vKVsSFuB1_9WQpFh79IoesG3-hcagX0TgURKM7eO-FqBZ_LSJv4CfPxaCiqTCXz12LqnSnGQrWF7lipBla3PsE5MRRiNNDb3SdnBulaWTZjRpI4dQgiJhynTSofM_fAEhCfK3zqbLe3j2mblB4kKUM_GhTMtg3cMPbk9kPUIYTOvvbwGJHT1A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3401 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAIFQxMhsgMhGEomdlB77JSLI8BCYOyX8P2o2rczaBHCRr13q5jDvJRoJRLx6tPut-LTWUPb5NOmaN7ZE85jmzne-iGHGRnJjdXzcTEXr5Q3A3aE5VgDlhd_BMzwHblTBiUM5QhAmbIaWgrPeSynB7bxgeD_nxCF2VOO_oqgF_KakH5HRrsNXNSU7Bs__RrEJIhIQGLARrV2WZxLrif_FBOPmkBoU6xaLTe9GzyqXchVSmE0BGEkSWUc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

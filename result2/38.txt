@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7891291,
+               "lng" : -73.9271644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.802083,
+                  "lng" : -73.9134835
+               },
+               "southwest" : {
+                  "lat" : 40.78086630000001,
+                  "lng" : -73.9363146
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "15bb2271d73ba63ae870ee7bbd53a1ef01d00e37",
+         "name" : "Randalls Island",
+         "place_id" : "ChIJtw87A_r1wokR1tzYitCZdKk",
+         "reference" : "CpQBjQAAAAf05eCmljVTgqR1EDe9nyFhACYdMQhoO50dz6QAhH6bwdHmtCsqnTBAEoL54MwwIaaSLOA8LWOKMZwKaz330E3mfXuPih_6JfmzbLmOO3TNdrQHQi_JhKSywe78h87DONUyrMwxW_qtS8TCPg8W3elHAKAUHpHGssH4EEe3sgu7a3ftQNwQsE1SM5F6Tv04yhIQbUHYfpo4i5gqJ8OvQKwDuhoUajAdSqPWQkcVOd2Fu6KVZrWcn2A",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAENiL-6hO8WbXEX8sNlBZzYBTE1E46lxke3qWHs1sqFN3cY9jy_Eb_peq_yWYMNWVT2WrGO8FENZHrbTIUf4rxjXaO--Zzm2NJ5xC5m0DW9so0QSUOdeUjlArIvcu-d-l4EM8AweYeTMnh4kjL6RkVcXm04hP2O18_-AbSb-31XrxPsYPZkEbXi-oQAYVIXSzRIQQJ8_Ze5I7WluIimJtIbq5xoUyx2IQHSygVHJDKgGDp3P6SUsJb0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

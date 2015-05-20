@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBiwAAAFq9JbMO6nfw4Td0KjOOQZWLLt3QW-HlMsNJMcQlZ1a3CopNqxY-bAyT2-v9eleW8bPsMerIcBPSQ_-nqEz-UPg9dA6239yRokoCgcOVZ5-dfnpE0InHyQMxhBDPamWl4kaachCOHuW6s3EpIKFvyPcZYexs2Mi_zisxvu-4vNl4apq1lO6oNQ-ntLNHLICVqhIQUtuQmB3Lca_n_dc3YQzlqhoUpfgWT792AwGZtr8maj0vrxEBHMs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726213,
+               "lng" : -73.975139
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "373764349382680594b49c4919b79bd147bbb455",
+         "name" : "Public School 34",
+         "place_id" : "ChIJZRpE5HBZwokRN7yymsvlTMo",
+         "reference" : "CoQBcgAAAEWlx0mY9JEX9DHKPwPlTut6ZZazOmMntkVytvOKTK7-buspZOy1NiypdZVuTHurL2E48PrMgv5qX6-Xv2wr36h6CfNH_x3hnlUgpWF1GItwFFkxcFDq3r5CC57Di2sH0amnxVEibuK6RFugIllyP4eYPbR_JWsecMAPAs-XnnflEhDx-hgsNI0ZPQri_FUMQMnuGhQLZKamSwiqDjxM_fwuy0OX3p7Mbg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "730 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726905,
+               "lng" : -73.97474
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31f6b6217e8d73b08f6ba92428f677658f1c0fc9",
+         "name" : "Escuela Hispana Montessori Inc",
+         "place_id" : "ChIJ71W3VXBZwokRxoL4LUT-XUY",
+         "reference" : "CoQBfwAAAP5GWUxemR5WnKvjFQ1f2LyzQ9oSASI4ljm4A1mgCcZ8GjYr_jFf9zRQdwuCDLCXnVJ18k6ZtTYvrbf18-gmX-98q1_03OT_KoGMBEXA1xYWZXYkN3Qen3ON0StGigdy_zGnL2rWQn0ZOPj7FYld32otiUjJOue7lZBIL3sE6Ui5EhDdkmp5Hqk_ZrpAmR3Db8KxGhS-gL2mCHJHUVWGToHzhJMzgZIMxg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "185 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBigAAAGquT_qXL26CYiNGVJrxnWh815L-guwymJDmhNSoOlceUOGzYQ_tnwO5RZ5z0Hf1OcAwEGp1qZhdsLbRivNHGF_L-lTeJMR4sKjJaML9-AW3r_luMUu7kKiqpq8x6-rCSDiaVj0oRuVkowZRcoJiCusckXA5jsj_cgm-Hu9qlWEB6jlLmwRh6QFQf2-Cb-EfuBIQMXqPTVlYGLeKMFHVCVV6iBoUAt87pa2_J0V1A9k_WRMeh_-IUTM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

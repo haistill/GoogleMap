@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7017076,
+               "lng" : -73.99701829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7045645,
+                  "lng" : -73.99309719999999
+               },
+               "southwest" : {
+                  "lat" : 40.698391,
+                  "lng" : -73.998193
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5af62970c4bc7b875c06eb6171ee795babce99c9",
+         "name" : "Brooklyn Bridge Park",
+         "place_id" : "ChIJjaFpo0ZawokRBcOFUZ13CaE",
+         "reference" : "CoQBgAAAACR16Y3jPjXw4sZ7czqiPTssAN85MTpcnjMTDnJOd8ESTWdzY68GobTD0jrp-7-X0tiXMV48n-l1mttM74QiclQE1rLqM8aULMXmyX3jiXICv1kFhN6ZJ-6kqoBaJhJoCE1Z4WdaaWxgpkCFZTki8Va2ZzDb9E0MDvjBukZDotxNEhAOjjPe7Ec4whLrYFJOQslmGhQe_-AR9M-kUtC7XcNjxrausujNjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAAHtn5vB_l1U7qPDhwXqQNc78V_QBIzdoBKlA6Y7TK-OLGX3c-p-TLMYWPcf8pIzJAycpZ3kiAWGaxvUblkzxngCrQvlHVwvT8f7Tx0ewkpTb3PjbQc7A6YuySuhKvSKZyMiyeUtSau-ljS7MB8F4DVfQUYT-BPHZSek0SwAKEy6WNqBY1gMxH-eB87oYGz0b4RIQPV-xVhJ9l46jaazYalz0URoUvTSQwQAID99JcPB2ufhYsl594IY",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701708,
+               "lng" : -73.997018
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "82a3fefae28d96a965db2a0ae55430d26e6a1a8e",
+         "name" : "Brooklyn Bridge Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAAuxvdPiq6OAkyMOe3gHrtylGSqHyf3_3b6ndsEhu4a-P_mOAnxZVhtCRKA1Xx_TGs-OASmvtO2BeMKpByuYei4z8JsRm-tLckrh39oBVNUdGooAiRfUsQHEsHuIMka-ciDb6FSszXMLy34CkNQIJ87BIQ60WI00twULfcqFgTHf9G7hoUcvmgSjqj_yoTyiqh6XSn4MFM-y0",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJjaFpo0ZawokRBcOFUZ13CaE",
+         "rating" : 4.6,
+         "reference" : "CoQBdwAAABf-YCuLorZNSv4gL6NgJr0qJNNvmJrrd4VIQJUpxGWt4gofcCEQqgML0lnQyoZTlbLlxIz8h-rNDdfvfQw8Qm-q64hwImBSOXe_g5f0-UW85MXqKMUdbPEHT0t2wcA10_SkNCoU5nyKVlTk_UcW7obr3MilsCfk-XgZPD8T9XAREhCQhfn-yI32iQLxJqpfuZMnGhSG0be9XkCCWSmgxJekNo5QmpQo_w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "334 Furman Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6781784,
+               "lng" : -73.94415789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.739446,
+                  "lng" : -73.83336509999999
+               },
+               "southwest" : {
+                  "lat" : 40.551042,
+                  "lng" : -74.05663
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "ad98f8c32a1fb55f32ebe9dfc011bac77c382bdd",
+         "name" : "Brooklyn",
+         "place_id" : "ChIJCSF8lBZEwokRhngABHRcdoI",
+         "reference" : "CoQBfQAAACu39VhLat5Hg64cbrxKLvCpGmfLkCuwMEK48tAU_p__RlD263r2o7O57ELWfJ_lVR2Kdj2_JxJuSr6NblGWc6VTKyi6Ag38GLssrMoIRYsJ2vvF8HJ7_67kpoixb80OlPUPXhtg9W0XCR6jGsUPDSDU7JjxuqmhWYCDtBUgWjuAEhCwOtutBHhPsXbdIknnBXNIGhRTPtVzGtU784sJuMjJfZdqhmcRXw",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

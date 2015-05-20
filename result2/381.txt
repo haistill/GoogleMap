@@ -1,0 +1,594 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIO9t06cDRbWLFFBs7UGV-3ZcjW0IqEfR7JfvHpYvsL06wyE8QDBhO0QpaDu0wTWhJEUlwGdyN7b2SkGyefEWGPL4JTrTBbkrH5-f6v9ekHDvw-ph0ATtKS4hqArF0XrCLXL84aOSKMkR8yBmg_uUULWiX4mDv0BrgKYTKihiwpS_YLHZhX_touy-LxtSCWR3PXqvAr_KUIxkQJV2RNvZ_cJ66c_Px1Sv3DgWVV9y10vO2Lytg7xGdwpIfpLhO6XVRHSynhzSZjV9QYn9BAkNe34knkWHyb3v9ZPSiFLyRMQu3KkjpTzG5d0QCF3jWkIqxIQRwGJ5cdjoPWmIBcvPZQPZxoUG3zbu9rnGaIxJVMscrjt4EshvJw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAAwhHHUSKTjz2DyN5l9k4Ah4cweuQYheGf1qp6SyS-SWIIifoIgnJcnnl-jmFp1bg_iy9pXU_Pa3GKoGD_WBQ1r-XQlIsee3KXs8weEcIaJUs8PwqSe9WbYUMwIYwkRf6O4Y1RDmyrPF7jypDfev1bBRcz303YDy05vL7q5Nq1-cfFHMwqyJPTc278RSadLGzBIQjBnzvJrFijTVWV4RoOFqtxoU7yJ758T68qm8f_k8Zj_T_DwthcY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804723,
+               "lng" : -73.955382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2a14bbabc5727256ef92f9e90ea893b3b611a0ec",
+         "name" : "Harlem Tavern",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 467,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAp4qzA-mjtgigkaVJG1l4y3qd7NFnR-9zczPjKcPbZBD9LThK65TWcl06tOamXpVl_Ttg_kG9udVsVfFB-t7pk9Lv9d3XVSm6W4SqELUD703D1uIgcQJcUn4aLKTMZlGeh1j5eH5SBh4bu7fMDTaetRIQ16FeaSVBbYo0t5bl0LyfxxoUe7XNfEFHk3Ub79Et2lmfIzRxPr4",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJZ-Drlhb2wokREuV4YeyyZcc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRwAAAAz9tzDuh4ZZMuC8dj1G5cJ2Yu0btMAR5OZe_u1X992Y-py2e4wtlgrV4gfaYS6EjXpRHq8gWGObsdCh4OtqHagPTL2eIBq-Sogov5aHdpYAKvmoYB5lw3TvqseYyO6c5gReqqACk2vrwupf3Y2NfvihIQxwcgMepSIR2PEreCbcKBbxoU8eAQ4RRu7l65U4-bFBZiE4qYmXA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2153 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803555,
+               "lng" : -73.952884
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5aaf79ba1cdb5da46632e71645752fea4be557a",
+         "name" : "Make My Cake",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAAXaTOMUU61IqCXBu0iLKKaFSSNKvIslyCl6OR24uEq7F_mhrp0o4F2ZWzzaTCdkbjiNcq_k32SFD7nAuJ1Bob7x94C4ItGYhCuJje6zp7CY3jgE_mEbuux6-Nn9d7ImR5CQDpYXkuW16CtY5dYOiSwRIQ8w0LLCcw2eTGKr97qFAooxoUj0ZWIZpDrf17B1HFuTzgyHAcZFQ",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJNwcgOhH2wokRtiA9lKM5egc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRuAAAA55P_v_f63gtEA0qOO9Of6BUlP0En4W78M23oH22p5J_Q58UTyFvnyTELvHECfUGUkTWMC0lvEKRMEKihkcJcozjWUcCZNBo4mgMw9aMs2vagprya2cL-33YpyTn69GgljPz_wBg-76im9C8olybh_xIQ4DjI-yVb2B0lBDfGG5Oq5hoUpMKV_KpbdAEOQM3NVqRrPmTbgQo",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "121 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806898,
+               "lng" : -73.95381999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4f156fe3562edf96713de59d5cc442368c9c14bb",
+         "name" : "Chocolat Restaurant Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 397,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAot8psTtIN0P_ofn2ZEYVeVVwW-SxEqkv8K5DQygN70Fhs_YVLZ5BtlX9tI0iVrTBObYtgzLYthr5FvA49yETE4VNY2UpTOyZKZnZFnaHQNGzIQGeQcWw5cX38DMORzJ3_hsXi5qVNSfdViFEcZ2YIhIQhD1vSV8repC0oyqPiXrmoBoUXq57RawcP4nmdGQGedyJgfl3c-s",
+               "width" : 415
+            }
+         ],
+         "place_id" : "ChIJkbNGdhT2wokRJ1wWesV8yK0",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBfQAAADnJAkfTVK6m8zJoLUPEKYF6gWq9D4W3eBxRiLBJul840D_splMvmhfDuKQwP0OQLzPX8YMORt-NvHqrYlu1j8l5Srz3Oi_hco-QOTwp4CPLG2LtTl3_QvXVZf_r_qnQHOhOIZa0hjxqlM_NT82POWbLa8P9K3ais49g7mZJkGETEhCKG-d6bC6n3s6DOy1O7BajGhQ3cjLXdrgC9szUaAYxWOvpjK6mlw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2223 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804915,
+               "lng" : -73.95474900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8d6b1030b8d173748d6f1606550428b2fb029a8f",
+         "name" : "Lido",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAg_BDhzIxIWlc4R6mWbL3YNYWizwmMj-U0jQq7Fl8nx_NNbzFjpCr0nKbl_-nkRP64fqsjQIF2-_mqwCxUUAUJmXrX2HGq1wwGyabPp-p3KB4je90U9DoAUoksrYvGcJxyEtE98r4w_TyGBW8P6HcwhIQlbMQ9FljDY74_PAgUCouiBoUMsD3ccaYbkXkoZmW4EjNYiSXqHQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ2yTMoxb2wokRixfwCY3ltok",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRnAAAA5CyH5P3s-igc-GvDUYeutv-jom_yXGqGJlv5LAStzhxxsVTg8fKHc7v_7epNKZZwS9sWxcdqfJez4Iz4XztM5ASJnYqlwZnwXZIbBP-WDLKkjr__1zpRB6fSzn3UNW2b2a7ayShAOO5K2zN33fUKhxIQSknLCmaphxcdsKh1BcOfvhoU9jZO9PEPlkZ2sym1VaHcZUCggac",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2168 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805117,
+               "lng" : -73.95459700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "26dcd387accb7faf2c09a17854954dbf4f164f18",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAA3g9-kPwMJARLTVRJMtj1mH_vGe6wO5MSLTnfTmSE-JZqLGViS9Rkwsj6oP7Ao3sWF4Jx30VaimPXplG3cgAyWAqKIaCCe8xDN0zCTa_x5mAwNHjgWM8CHj6R71EU6AVh2sVPv9q-wCvDZtbrbDV4wBIQJ6nI4gYuPCwJgnX4pbPdcRoUMu9p_bGcfaaY77_290vX_AkoBSY",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJM2fbqBb2wokRTfcOBat_JYg",
+         "price_level" : 2,
+         "rating" : 1.9,
+         "reference" : "CoQBdAAAAC9-rp_xBczmTkzSeUkVlxY32AxHtvGUOPOvS0KnkuNosrpvymJ5pyR4u5Nn04XH2Wlt4la6ihW0-ytuhy_s7tgsYXdcBRXtmWSUAW4E7k8LzM0R4IirxhPaEQTI55JxUUHgn7CwQahHdOWDTVNLV5SLwzCkkaBsuplRsNabv7ZlEhDNHJojnkcBZDQ88wcOH3XpGhRrNBmjMUGclum0MgbIGIPmlmGwew",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2170 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805041,
+               "lng" : -73.95518300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "917ab644428cd37ce9652048c87e77825cf545a5",
+         "name" : "Levain Bakery,LLC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFD9Vk0H7x4yx4ZG0OGrDXob-07yHgyHuCYc3egQpcPeV3vgSNiOxYr24oQTNIj8e57xxgg9VUZj8KW3TdFUUqtgpmT03G1l3vckKsJKBjdaWFuF_uJIp6Yo4ZtyuXvA6cG7Y8dxU2HF9_U2szyM_FRIQMNY9NmhCGdyWkT6Kh8QNPhoUXuIr1-OkHcM2SR9i6GVGAj2DQIk",
+               "width" : 573
+            }
+         ],
+         "place_id" : "ChIJY7miohb2wokRnAnnGGFikog",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CoQBdAAAAPFbGuRfveWWcWgGiRikVk2jnADlRfm-1p1H4XjPGcZY6DKYXSOehBXpRfKYnJ2buJ_AlqlpMJG5nJJfUwV-qngBwajD43nwnZFjWf0wxDD52p2uJlmqwVeeCikHbpqYn8oTWl5cwsbDXq-tkbFNdMebpJyCMWFGe00yQjg9P_DbEhDrxU0qT6vd3txRBrnjVZgzGhSUGOclxyuH7mwKjVtpPeE4uOkFBA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "2167 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803563,
+               "lng" : -73.956248
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "23ce4bd5dedab2ecd949eba76d502391c793a199",
+         "name" : "MODSquad Cycles (CLOSED)",
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-zkVXcytqC7sR90BZRihDzFR1ul7vdKEzzUdnhO-BiCS3c9NlOrX_BhP-K2XEvPf7d4aI8qejH9AFUUABROD04Dm-94nvrxcRtIJARhDQeJx2VS-VVv_8VP3sGIRKwE0krDMvO8xgHIdUwp1CxyflBIQI0sE5qka1FsXT9ilQT6-whoUaDmXl_rw0Bp5o_-Q_ogf7mvkrmY",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJR8X8-Bb2wokRL3VGAz8IklE",
+         "rating" : 4.8,
+         "reference" : "CoQBegAAAPOxwVzQGgYMxw45VF39tkBdLHk4GH5_5ybjVbl6nz6xX2O3T8Dvm-rB9tWC8sznNmkS6PSzWadwDTB679U5B7uLBDqR2J8M7PN9W_YRg_a0plm6cCdz90-i9nyB4SI-fFZHvXASvM4p3m9CRV2ROmFmgdyX-JBW7_Aa8urmkK2BEhBA5xJ7c16vCmI7Pt91e11UGhSlQzadnoyImfY6KjgtbMfHI15lTw",
+         "scope" : "GOOGLE",
+         "types" : [ "bicycle_store", "store", "establishment" ],
+         "vicinity" : "2119 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806077,
+               "lng" : -73.95444500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e269f4d92f41f92226c8cf54f228c09e16c3a257",
+         "name" : "Best Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 301,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfAAAAO6tPp1Vwpwg66O3Ck4GliWOe8YYRhDDhhIeWuWfWBk68IQn9NUMyy3bZXOIhpwxZE5ZOiBSribWmv9G8I3ye-1gLtkO_GUuKEhA2vxNHuehltZhqgieWYoFZZfjTdfezinySUnw3u15VoCrc_7jfvmOu45Dn-eBOpyAmW3VI5nrEhDMtsIaaokCYyyCMLxGl9_rGhQRjKlce4VSwwE-HoiIz6xBpzDCWQ",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJv0A-GxT2wokRQU1iByZCVMo",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAq7tBDNceuDFccxfNMjZLwtuZ1xD76viCJpJSO4uX7h1BO0x8vV5dh_wd0UCTbTKTXCgQCNa0bwqQ2doV-662mZwJxphEwc03sN75fbyktCQsJeRSE0-7SiDe3n1RHgmPhKwivCrNjd9Z5EcnVlTdyRIQjwkrqc-wMdleZjmXPqc38RoUBKt77hfUgc9thosxI1M9o7dXXSw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2187 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804028,
+               "lng" : -73.95498600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c4a698935c64591c720dfc99c65b6fb42a01338f",
+         "name" : "Food Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGUOTwRb2wokRJNzJJfqZC5k",
+         "reference" : "CnRsAAAAMlcIc1kKR8tROgP0RpypVFfpeP5VRURpeEawzN4Pln27vGBfT-XFMpYS-oM24_sGID7lxnxsgbJKr-UuvGeUpX9Fov0Brlg7Z1gBPoF6fIh6EZAZFlevsegcSpBSaoODklYk7sYEyj6QJJ3k_iX8xBIQ5hzM845Mac4jAOeo5Tc9ABoURlIKnnLxESvCxpRjI4hp3JY0hio",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "health", "establishment" ],
+         "vicinity" : "252 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804453,
+               "lng" : -73.954847
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "816b334e50e2bd49e6f4cfb04a5e35bcfb0506f9",
+         "name" : "The Winery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARWNJxlUmKDrPthYKlH63cmU29jlOdCpNGg4E82craUJytYKIsmmztLjVdARIlFhZtAB7elSagW9mwikZlywsgGN7gfhzC2LPUwIfJSiS0KBnxcC4p7zDvpTIbMf0n_vdBO89gHCpOkhAC21rO7ikURIQwnZM_xvatosnnQY9IQuqAxoU-eALCO5E3lOIN22oGJRq3xgfOqE",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJRXbNvxb2wokRNFOnQpkknEQ",
+         "rating" : 4.5,
+         "reference" : "CnRsAAAACSj094vM4FUGXJAvCsoayl1v4VBSj1LVpR3usP133FJ-Fw-kkeYA8g1SHUagmHjKsJQ64CVWiwYys10-wFaQOsApH_hg2__8aFuWsaDlPcx3R3d0z35WdZXfCzUVZHHvhQj2fKm3j7G_17g8iZjJzRIQkIxiPOdkoiIygWpOS4LBSRoUe4S21KL6g3TsWBiR7_wsHNcHlRM",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "establishment" ],
+         "vicinity" : "257 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806392,
+               "lng" : -73.9537
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ed65f13b437d0b09983f5f6e537e3d90ea45f3de",
+         "name" : "Moca Bar and Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOcfHOn0gVYdVkiYUnExwulPYQyLIzz9iVAMJESwMFwyg_oAvfdKDqjH7-bLQNqPWeSMnjVVfdw4kPRPv2FWpKUkhnU2CDQkyOCYeF4TXUh_ADEq_tg_3bpWYrnMl9lD9rlozcMTXCzoY4OLyJp5vNBIQr6njQMdN2B0_hvRyom6E1RoUiQudd4qrRAYIX-NFdSMLWfVFRlg",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJpyCh9RP2wokR2rtk40X2skU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAAE9a4PFJxy41I7bIhRgFIFU6IRzC4dhEc2p6M9mD14_2Ceeakd3BJIcDHm_C9v-5ZhpExo6pq6YFJvAKdFnKjk1OL_9QaZarSbyZdud7K3wvUaWspfa-qocJxcVL4N4TZppbz4d7hAi7IYnxeb0FjSyi77fzVYxzT2NQv_nVdvoFEhBVY1DsCuzSryVpIbjwfDswGhRBGOw22eASEW3yqHH7l53HP3aakw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2210 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8062,
+               "lng" : -73.953244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "54a7c89ba7d64e4fa9c8efcb0144e932cade24bd",
+         "name" : "Billie's Black",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAHJlIf6g4-0-9kyHy4N1PlImUhRCCdfp5Epp-AaqcuNZUIqZn23Rl3h6mokyopqKOTetwTiZfu5PuajTFE5DotEjt8u-DP6aMKDCoSaG8vhvdkU1r2gbAd0c5FWJ8PkrUJZX0G9Wwyp_WkAfHGLnHmhIQ7CKmC1ucawIlJq_tqDXhhhoUDDwqsNsrcfDSUzfkfTGKvi9HIUY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ_0mF8xP2wokRbPP_qN56BKc",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAAAxaHFCLiasihtYdmz16LETDCVhU5CQlKwrCM_FeJMc2KqinoyaLiauvtOXZ64_Z0SLiMNICwXaxtqGnjrRWCm8olaX4Mp3K1i8vuPMacdFiVuORUNldzQG5WGq2suukVNsXWnQStPz8su-JGyI86QGPlRwBze8D-2ymaESNt5oREhBbziEEqlLKWkcKP0L_ZTvLGhSEf3ZBgna2nleTh1FpX5ZNElSJDg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "271 West 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806131,
+               "lng" : -73.953087
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7876f79564587b6ef045b8115d75ab1b3f5de6bd",
+         "name" : "Cedric",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmL9f33lpwRK5WmnEWVG8Y9MU4EzJKhDccKsffPD5z9bCxFjBHTgt6npNWe1zAI_jDZk39mq7Uwb7FlrywAsKlv52H4I_9EuYKUurFoGBumH-uL-Wjzu0CNdE9idFJpZ07aCoU-s_eYWfKVvFqZzSzBIQsaeclaprNmX3tE2vEX_-YhoU80ERRfb4m_NRdn-0j1J_7WC-4b8",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJf4tK8hP2wokRkKDXuch6R68",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRpAAAASH3Jyzbl_S4wuM2ptLv4J5KpLCEUhg6A9RMCGoJGELpO0ANxuChqOIV5u_RJNZ7c42-HCjMMixbS6yMRJALZsNF6idiPyTPjgahyqWdVf7QTZRisL43-BVpbK-a-P3N-mFJEPEoZe6pmmGon1SRrjxIQwUyUp-QBsywNTosZT8eQIxoU8rPQhEZf6Uwk2qFFBfk9jQdxL5g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "185 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806007,
+               "lng" : -73.954526
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ff8484c6d1c9ca0ddf18eb9ba94597e265dd6236",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAA2kvLmCBxQspQYzVEa49d7RODgTZRSllttw202sJq7pzV2gg-sT14Xh-BV_h9D-Bin2S5rSSRGqi8jLCPCcG7qW0oyn6ySgNbZS_R6IaIiH6V0TkGZBmsz-rr1V_hwfXUHUXNbBZLpw6N_WILEtj8axIQz4XfyypJt2-upFv0YAPObhoUNfEeiJ6OU_2asmXPJJZHkH-v4Cc",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJJeqNGhT2wokRSud_UteS3F8",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAAXH9wP4dnQexzGM_mOLotH1f-DQ6dHEmRdRdLQQg8MpmLCYiyY0s7sQxoiiz-K2fxzyl3xgop6rsvVOfF_9aYR9RZ-t7Ysu8v0EzjjN3km9qrVI5r-Vq4x3DUawrjAUuKKaKm1gij0X0LUyRP9g7x1hIQ-xUZnfKA2u3sIw18gkIvFhoUNdh2RQbDDqwO5ai_ryzCv_hG9Xg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "2195 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.806087,
+               "lng" : -73.953799
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f5f2fc64e2afad45369a22e7e9718e5b15a5182a",
+         "name" : "Les Ambassades",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjhPXQjeCdaTqMcCi4RzYAtbfI8vExUl48QjQ2lQCAKi2QFwIJYqpkL4XC0JpImnDK3QYHtjPsEge8gm7asQz_6QhX287XBK0hekhsqO7-xepQWy9EDGCqfO_Cr3NUtkVZkVvDmm-Z7x8gHFk9cDBZBIQvkK_H81c1jEDkpOHJyalyBoUE0OxB2wbS8ISq1Hf9IugChSTT2I",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ9cqZKXP2wokRlyhuzxOZs64",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcQAAAE20CCaFQFQXMoFvOF9Ca9Tt5q0RKFK_s2mN0FifAAMzhEEcWBb5Xl9RoOFXAX0sfr8EjrPpLplh5ks2osW62xirqX6pP12ifEYn7tAOQoRTnu87wuS237FhZj2rvGwN_Og0vdaGKZ3NW0zYnowhWfNY_pyHiNITQ6ijff2SSAbNEhDuBa6qL_8wt5QmxBvJqc_IGhT_5-TRZL6q_2DLsZNjG6WgIHsSQg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2200 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80683,
+               "lng" : -73.953369
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ac2a9cc0c924a3e72e1657a2b66f61fe369992d",
+         "name" : "Bad Horse Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 301,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPds37jjwe3dZr09Y3NXu56LhIQOb_E-qT5Elmv0dgC491nK-AwTJHC2mWL7ugUs0nLpfPaUNr-B5BzWvajn6-rstP3d6Ve_jFp7UBCyEVMkjaE0zJN4BVx_4yHeIw7K2XRzipsNZf_EwAAzZaQDnYBIQ3-9JQNlDpBI45iZIqsqGYxoU4Aug883IkkP4q0tqEBavtplSzMg",
+               "width" : 301
+            }
+         ],
+         "place_id" : "ChIJOVTPiRP2wokRy6Vfd8-R_Qs",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAADpqOcsktmS_paH5Y20ZwvWc6eqKXOeGFNVYzJCiCnE5OMSdIR8CGkvGjO2WQrFZHXNGqqQfdZrovvcbGFlaHggKTRf1OxIfO0U5V_pb44YMoYcPYNTg0mWr1cgzuFuIeohe7rzNGZn9CEXvS3Z7K_-6TrqdoSxul4iQTz2910-TEhB9yRwKRv38VZ1Yunv3rQOLGhTnezBAEP4vfmZOozrnDyf4wCZSiw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2224 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80594,
+               "lng" : -73.95453000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "94bd9973671765c045ccc4a39784e2a183f1aa39",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAD_gc1kqU2S5-UH63NlMI6xWpbLrKyPUZ9vwHNqE8vsgKIX_DMd6_92TevmifDWbhrAWkEbweo5Wcy7650hzNP7iMD0wfVU1uadXSO3uAA-hNC6axzFn8Ytdlr1H7Sn6ak7mXTu8fLZbVHB_s9nENfxIQxdAS7lgdcWVLlUmanYc5ihoUF3YDsEpuxQTMpd_Q_SEX_9xHo7I",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJu3aRDhT2wokRpKpY1blUT0A",
+         "reference" : "CnRsAAAApYn7VEYtiHx9BLo3k7EjtCSoGYnYlL3PzeigTOorRRAaCgq0jN_WSS_5-iaN6C9xH1sAWxgkVadG2cQ0DtnDlu_HN-8kZJ5hKrL3Sulm2sMCHkXU3LAd9--aH4RaWMQr01E5532IRZqiFHuPLK2XlRIQktne32TS0JJPquc5FLjmWRoUrgCt59uGlJKU26WaBKwDNl2UbrA",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "2195 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805708,
+               "lng" : -73.954031
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b1ea96aa409bc9e202392df53d5d760c58e1a517",
+         "name" : "Lee Lee's Baked Goods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm_Afd0OCjXzuczcfapMChiKTAprQ67X8Ls1sjDxEoaizB229i90gmAxp5l293jg_hX3ohZagmW4jLwaScLs-o36QQLr0btVARkvuixmtTy4TaULLLd4kT5PPoea60t-irk37JatZkBx0QtsryqA_LxIQ8g9-4rgtS1XPywTCiVba4hoUTVeNCscBmxK5bnO8x3-XqrBZnkM",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJwysfBBT2wokRDsP-rw3VtRk",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBdwAAANE550R1KAmiSy9GvdjTOPgHnchQE5CXP7Pay3ZMIaomBGcnp9XxRGBK6ixWTLTQ44Je9JAXxTqbZYLPzOjO2szmdd42a4fyTJLbntX2ZiMg8r-PR8kMN-IoV6UaUlMhI8I6H6JVPuyJWt9i982xd_SW_nvCb-pyrCL6wo__jd3FEhAgBVV4ZW_RRS-cTPvl1R_NGhRdLnVw39kNwpN3nBAP9pYDIDAUew",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "283 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAABlnKlVk2O8M6sO_1VnVAoB4QojQ3BiwJ7aMg5v8Pp8V4q9o4emhDLgFLX2yx5brNblcJ7YYsWxzlYOUqexGDqLRQVW0DYK76pyods_8j1CYYMa2ZM4tU4cJDO1oNHjN_2qJiKCtWq94msIMF8ayQ8TXRGJbamroRPkwV16ijT4EPhyDaaXcK1UwvePPmeSqXBIQE0ynGFKCoOMdOtyNJJ2qzxoUIBXs_VbfV1Lylr24aDNhJ0H150k",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

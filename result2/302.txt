@@ -1,0 +1,473 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAEoBXz5QK8SJMj11t2_lwjEAWpIu64qq0avO19eoTdVziaMQaIoK6GckaFuzgb7jRkcQ8dkwHw_QE2hZScTuYHNpHMILSb7tTWQFs5DHU2neHyApq5t41aav16twQ2LXvFmgOoDJuxPWjfkwQrdjFWWqVX6doUStaFFD1QE0Tj0CD9Xu7vkMsb_AOhuvwvJRMkCkOb2HfDOeEpkjZcP0v6wXXYveXp9Hcoxw-cOj_qNn2S0sKR1dDqV5wog4hnPC5gu3owcyuqQR4Jmp1eKaMbwFmtFW8J5spxQeL53rJ1C8yh4YEDwukpW4L4GQ8mqxjxIQgzwS2-9DkJsIeUvfP6cwghoUsENkBi8ZCOeGRuSsplHtD4rNS6M",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAOA6a-ZVzViD9IdHsTLJMhiOH-hmpMqQ0KUb7YNxkLxcN6dflV4Mw9XmRJegQvz15cOe9WgfBWjGCRICdQTjmxxLHhJ9GgFcVbsatT3QFr-ocy3qlxCpgyOBDinKY4oAzebBhjsd8jTBL4LW1QCDZIm5UB8-wQUmfmsxEtjSYpbWNS9vZz5IdO1KpRIaRBTMUhIQzkbkDHfoVVsN6iufdbNjKRoUZb61_XgL06aFxYYHEEXu-SV6lgg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802946,
+               "lng" : -73.953575
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b92de5b27ced1c4e5a152c5512ee4cca3a30d504",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvxA01Rb2wokRIXK23B8IEN0",
+         "reference" : "CoQBeQAAAIc2dAcvwJ1Zme5sn2EUppyvXPjtG2JLKvq2SveGIWFRizft_c7yH4IpVt-guUjvQIMooO3gW6Cl_E_xEMc_0SzPQ8VV9f7TTPATSsgzzedYyoH4bhPsZuM8o6vpw--_0rHJD-t-gQ4tqWlBdSYqqESyr2ScNVl0nrObKRIKNOqqEhCp20x8V_TZQn9iCvNsj0tqGhTwQVOS-bGZbPdASX_4B5b64Z9q1g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "203 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802504,
+               "lng" : -73.950309
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9908612b10048082412b4826e7e65f99cafa193d",
+         "name" : "Amy Ruth's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAC4cbWbXbZJdj5WHAxsdwsuYFi_lcLEbuRB0QcOClXkm3RuWEnLm3Nl5lBVuKK0lc3USAS8sHSUA3Ppbou0gY8gJBvAkWHxd_Arck1bS8XpU82bUsHvJMYGTQnzsDqGkoca2EZpyj8kseEDzpfiAZXBIQSOciTRHi9UDP7Ds7VXdrchoURTI9DK4lTjpmDlHWLkEThVJWlJo",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJ7V-ZqxH2wokRwaES4IMqwQU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAAAkz2LRhfH-7VaCoQiO_NXMqD5NmtYje94n4FQxtjfAW7clAouD2yqQu3Z4KoBfjq4WKRAkpPatiUZ2da3TXdwUPv6puGp8ne6rp1iCDElg1lmjK3uOzy5YTdWFq5ZDh3RW2Bn6h5v0q0vPwTTQ9SLhIQ5xBA19K1-ah4Cf712d4oDBoU93v3UoN8QL3yOKB2iGelPRoYYOo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "113 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803159,
+               "lng" : -73.953034
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "017fc58bc4acb1b0b37b804690565017486d0871",
+         "name" : "First Corinthian Baptist Church",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAwF4zBfNR3Bjpo07UPU6FTczc9NjVVDylwDGf1aO_bCqACtolHq4NlNhC77HhncOG7Euoxb-Hv25SNZae6XzsixpF5hOtCgleabJWkbgYzqK9DcJ2yXyBg48z5SyTjS256WcHfwXJuXEhYUxB4s6wJRIQRLQL0o9l7NgNcwlWBBFITBoU6_TVf8WLqaVYq8sw3kDc0K34vaw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJEV5gLhH2wokR15bcwSNuggw",
+         "rating" : 4.8,
+         "reference" : "CoQBgAAAAAQGihkrfeB75gpieQSvWIdHZU1uaf8otAFccNoRjWbjlJ5sR_hcyghewqNSn1FR-Lp4fWBOK1wVoDuJfmpIoLpC0u-xsDqkDE-oaJTqpV7CRGFNZ3xCylZjDAaW0wKq6Z-hh1miQQjZCrjcD6MoH78tKuwFGVAPotR03ItGksaFEhCm6gw_9nBUry0aB3ge0oqcGhRcDTdybd27VGYX0JzHtYF9bywodQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1912 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802951,
+               "lng" : -73.949406
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25a9315e8ac29af08ce5553202d6507b72cdc052",
+         "name" : "Wells Fargo Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4wZe0WdqoPORIcyJjLvEqx3tcWPJfm3dQCB1Vv76_i1KmPGQnyUSHiorfxOW0NKJSbYuyWfP1-XrxrOwd8nHazzLC0VWD-iNWachPbIvsGpTzebdfwZYWh2hTzhdlJGRPc9Ado9UW8YL0_SrQr4rMhIQOqqu9RVBR8ZiiiVTkz_c0RoUgFnrmMWD4XoglZGTD4fFEIjs1dc",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJa3OtuRH2wokRiZfT4cw3jnw",
+         "rating" : 3.3,
+         "reference" : "CoQBcQAAAF2Y2QG9Fn5DLA00Y_bPOV9dP5ox-vB86KxjDBUXpDiED_Duu_10PeApfcwm8i5ONTfK3Kg8sDDQ69KPk4H0iFciKUA6LcO8uasThHYnVZbh5qI-Pmni8eH5Lbwrwk1J8Ko0wxqN8WfKn9-QlPqmFYCwGWWAod6I82hKoL6OOPwNEhC4FqOgvdeRGa2y9EUSxyMYGhQlhu6cQpH5kziU-4kx8AreOR6Q0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "143 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801473,
+               "lng" : -73.94968799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "2b14891bcb069dc25b6fd7e1792855a6d4cec957",
+         "name" : "Harlem Heritage Tours",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 285,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdUM_G4ga6EdQEivZiAu47_9NM9C2DuVDXAJmJiDWeruKvGgwOgU2nxbqE_lTXPFCBbBkO81DX7-b8uH8E_2nlYRlLtv_sZV1Llfakv4sTiThxLZ4_j9jbLkdfNBXgrC_3jG2t3P8uNeXzTFcVSoBlxIQZjDz8cJWDiYSVvwE821v1RoUqFPU1e18NoX6Qh8D8beqCyiNiBo",
+               "width" : 460
+            }
+         ],
+         "place_id" : "ChIJmSKXRRD2wokR8MEnxPDuGMA",
+         "rating" : 4.7,
+         "reference" : "CoQBdwAAAEF_3-qAGdYHOLqcu6DWMsFAtl_Q3VVW_ubjVyTQMujjIzWLbWdy8yIY60mGK1KGj3kbsC_9_7SN8G2-nq4K5eBppNcmY2nIN6zqy8BYWTEYHTfbyE1HQAitVO67vWL2banmAgyI7EGdQHuh1UcDrqfI6sYAD5KgL6ksOh7DeNenEhDVuzq_4DNQssLZjuoLoBcvGhQiuZFM6i9kDWhUXbKZp6-nhqKaVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "104 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802569,
+               "lng" : -73.951483
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8bc99cb76e82bad77a04ee076b5f77e9e86fafa1",
+         "name" : "Canaan Baptist Church of Christ",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAn4bn_jh3SXO0lL-O1c_HVRJxU9k4ixBC-vLBtI24fWo19mcpeE2ROdf8xhAEoaN5FHoO1QE9IHHji_-FCuG-IuPzOmEopi_38mTCnebHNQYCasfNiX3zdIgD8akAY5nJaap-wMOk68vj8YnkzcWJCxIQ9c-pHtuZNG1HdRkMw-F6HBoUggLc02zF8B7FUVOaW3muavoZzcU",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHUtN5RD2wokRfed8ihFv-Tc",
+         "reference" : "CoQBgAAAAOhy4wImBKFiyDDmTfDNn2iSs1AIC8i83SdXxrJaccxusi_rszTTpgWyujDCzJbw0-adWseBeQ9-hFrb4G5Ma7qDulmi7k5WdVDaC6xrlfcF9hYfdbENsbWl-nW_Qg4N-QP2KWpIcG1mCU2akq5h8W8bSErmJ2TX9FA_bN2mMbCtEhCWxWo_P9dH8Z_OnLfgd2XPGhTWcBEK7P6G9ynQkTDZMgai2YXkjw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "132 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800071,
+               "lng" : -73.951527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1a67745ba2ffedbea62b886d6cd20a80f4dd9787",
+         "name" : "BLACK INK TATTOO STUDIO",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAddYg6rxkyz0TTLkTMmP1fnPXBv23x-ZOVdynDJRN6kLmmLfEBfI2_rFJXI16rJoi5q1cXoHsgMw02fqstwkhCByzj7RLI6XK8i-KwsFBa9140V12_WcsPV7MP7zgub6PFtEo0hsHvowhU2RoaEwPnRIQoeC0HoscXhhIPDrSkYo1sRoUdmU1hmPXSxkCnBJSu7C0Dhuy_d0",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJne6eghD2wokRxu_OKnBKjd8",
+         "rating" : 4.3,
+         "reference" : "CoQBeQAAADXaj6R6iDQA5Xd3K9gfICmBrda2WMHxRXyl-K6N17JQm2OlnPa6aYVtkUN2UfhSTX8mVzD1NCnxS1Q6pBiXrpAx8t4mQr4vMb92KK-DQH0hXGXjBa-RKnFRCdxLSeqjp6ro3NIFwS0Q5O8c2WXRIlG1_yOSjjxMrhDjlOP_AWNTEhCkRjFiDHiuJVwyKI9D4r6cGhSgOxNgH39akqgiabCvlL5l-cyxyw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "55 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80264,
+               "lng" : -73.949654
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb6c84b63c2f8a77a1dae841113614ba14cd880d",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyIcRpYVrPRn93F4FEjAwumHncwJAteqg2r2BbfUQg9neYcJ55MoxkdsrGIu-ynAOV4utlDf2kvZLrvqc5gJgkRS5KoZbLiRUE1F5lByN7IptW74fHuSRNyTNjh9szTLEgD43veegPmISyGHUCxIB6BIQUgxqw2Nu7zuCzbzol6NAAxoUmj88tRr_aGmsQ3Zp9dgeSAp56tg",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJJ_K8sRH2wokRMatltPrfUVA",
+         "reference" : "CnRwAAAAFRxuE4tdyvVwlihuU8TvrkxPmtKtPPAuabEcFrsrdtzNHBB4CsfDpRNefnNQHuHSiGfpVocTjmh7LPvhHkJ2FPC2ukwyDGVbsVb2vvXweY1FbBWzY9zxMg9kySuj8ERXhbFvvUXBF0R5vByrbFYS9RIQ2EqmdHEA0PE631Oqtei5NRoUizh83WI6rJ0pjtpdUaOikx29ayc",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "106 West 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800114,
+               "lng" : -73.951458
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d65ba199a5567ae2d3563e424f99f20ad6b930e9",
+         "name" : "Lolita's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAGNYQQ6zjiLrKKsL0C_fu0OdssW6Agwd2LxlKFxPYWpA6MmohiqW7AZIRznXOBTLDby-yZ-XvSizSiNSe1r7bqoZ2sEpLd0m4fG6ttNFTUOuUQmv7IJkMA07cJ5wSHxCll7McDBOfCxHSTeiYFd8EBIQKFh6ymTdNPw2A5CbZxD2KxoUG9gt1wkMZfSL1aP6_z0nqIPttPc",
+               "width" : 2091
+            }
+         ],
+         "place_id" : "ChIJH2XQghD2wokR6orpB9Ja_IE",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAAJepJzIXf0W_e6pC4mnkVFo-ZiGn1dVK1tp8m5c6JmLRuuZFL3yhrjriBRxF8bV4HW0Zi61yETB2-PBh1YM-GBK33nt381VpaMdg195E0VpMEktI6ZMHcClBfWnjoerI33lsveZbFqeF8nkXltREaDBIQknw9Qfr9Z67P3iilCaislRoUMnkm0Rec2v0QAlvqm69xZv6SiIo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "57 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801255,
+               "lng" : -73.949472
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5a3fab442dc10b3ba5ab0c90ad7205a1fa6d7e23",
+         "name" : "Community Healthcare Network Helen B Atkinson Health Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZV1pQRD2wokRLBES8T2Srq0",
+         "reference" : "CqQBngAAAFpK1PizSuWmSM6Fd3cUDfBzfHFroXLjp59MtOS8-4dbK6Jeiwqq3L2S3uGeyck5BNaHBf1251G-qsFRXK4W-oQR5LTrIe244q3o6bp2GtbEjusOUgMcZ_e1Iv78znvabyLoFIU8MirEqvDb6hX--mXx8LAIlH6qxB2Cd0Q1yJxcDha5Qmh4cknDJPmxjP8ao8AdSpVC3PrOHdLU7bRsV2oSEPFR7q0o8nkH2bArKGQPresaFLOje_Q70Evjk37442QTr7qdaiH4",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "81 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800043,
+               "lng" : -73.951486
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "508d4228f9c0f21e1441430570de5522b518897d",
+         "name" : "Black Ink Gallery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAAJQPyDhCiPBAjInLBybVBuG-SntFaK-ceGc9Ln0gbIVZo0oJ6zax7FsEaa_lWoZZ1B0chHa_fzk_XNLe6_iercFngKfbNTtoNT6EFma9sJ_8TaJbZq3Akm1gDT157wOiF3IugSQz9J3j6TOYPD2W_aCyVXA_EfD3b5HMWd-ircf2EhCMYtMKKeXRdIq3F8QryOFyGhSH_-lVn7wvpjP_1pwxYC2Rjj5iuQ",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJZRpznRD2wokRpuvJsJX_jZg",
+         "rating" : 4.8,
+         "reference" : "CoQBcwAAAATHoWxKF_mZLh1oRRQ5_pWw0MQQsCRISI6XNcgSXyIKYQ8a847Xgq6SyNod7NNMH2moafCasax0UyqAN6_XfMNmqrZhvUqMojV1LSz5AgLAcs_2cQNjNDS2geEuxOM_uUh8-pI7j-KHMiHLSEaVWvLgtlmJDmG74BBk_L3MsYd8EhCcmvRZW69vJIKd-JwgHzcvGhQ8a1B0CmI3mp51Vkdg8RGIRqnuUw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "art_gallery", "establishment" ],
+         "vicinity" : "55 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800147,
+               "lng" : -73.953754
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4dbb1a4e36297b40daf37fb64730a785b9d66cdf",
+         "name" : "Twenty-First Century Foundation",
+         "place_id" : "ChIJRTtt_xn2wokRnauDmshkup4",
+         "reference" : "CpQBgQAAALOVddekSbW8gqlOVHGOTZ6ugw_oC8ZVnXIjmKPLDPTr6iBmPzFuO5y9NQ1J0K86Iz9KTPrcOm5vhCvdxAS4cIuFYQKvKhMv1JFq7bbvabaodQ68VYqy2r_1ebwNdenGrIcMFIv_aBPTeXiJwIOJ-NCiWuckSAZG1WwAk4XuW_5Bl7wuvl2MkcUEG9RolKmX7RIQw1htCfEuU2VUHRrOl-VcIRoUKAXgVAt6Lpg_NkhTzdqOMOtIinI",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "132 W 112th St # Ll 1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800662,
+               "lng" : -73.952794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "78b5f397fffb31dc920089b63acfc971f92913f0",
+         "name" : "The Mosque of Islamic Brotherhood",
+         "place_id" : "ChIJrYKdpRD2wokRvObFDYGXqy0",
+         "reference" : "CpQBggAAAGX4Hr766X3Wwi-YtvSuh6ycXlxjqvgX15bpxfeLd-71eUruq9YgrEQJOGrR6YxGo6bTe6I_HzhVziPfiqv32H2lz8cxbUPnY-T_jL8pn5oEOi2GKatZ4N8_04q7j1v_6zwo5WRn0dACm7E06XMiEmos3hRqOn29eVJDuh4hs57EkMU4E6fLfbAfjYGRtK_oNxIQuIkx4jSm74P8bN5zi5908BoUyNnU16MKP0Vst6E6xKIOGqCayFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "establishment" ],
+         "vicinity" : "55 Saint Nicholas Avenue, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802014,
+               "lng" : -73.95135399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c77484e43f52fc39589fe2fbdfc2e831f8c302d",
+         "name" : "Sisulu-Walker Charter School Of Harlem",
+         "place_id" : "ChIJazuz-hD2wokRpjEEUX6TpdY",
+         "reference" : "CpQBiAAAAAHW4GULUaS-_zntEM5wkTTWNZXofOcCGNu9iN_vqUOT7jZBD1Y3b6SiVMLAw_82hd_nXzUpg2EI-EhH46oYhk7SPhHTQ1vSfBXGv9WOnGppHrwr_byeghpkbLsVyktlRBtOb-TkXbcZG4GCAAEXqxINZw1EPxL-xrGPi-XQvuaYDwAZ8OouibYZIp2ajAXY9xIQLfF-JrCURoTkL1BEf7t8nxoUNMU6x982TJcjfhF5lOTKXlAZhUw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "125 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802601,
+               "lng" : -73.953475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fbb27c9b13fde21f941d64818b44fe961d93b22a",
+         "name" : "Friends of the Children NY",
+         "place_id" : "ChIJDSX1Rhf2wokR9Ca18NVAlG4",
+         "reference" : "CoQBewAAAJqETnNjSiwt4oVGlxaY-7PpTf93i6ovcGhcLt3zeIdfuIjppb8jEF22thmh73RAoftokGtc-9Pekzljs9mX_YP9j0bnBptEn5FuoDBPyoOVp_GroqQaxeZEwo3j7DPmD1J-jzT5uWuJzejo8Os4lGev1JNP-n5BzSDfmI1aKEVTEhAj8PWObhrR0C5mxfBvFLEoGhRZHi2GHcoSshmcWjmolAYgPPeIkw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "204 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80039,
+               "lng" : -73.954086
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "62bc1251a02f68d01685a496e688712357131108",
+         "name" : "New Ebony Hotel",
+         "place_id" : "ChIJDRcUVhf2wokRIx1LRm9xH5c",
+         "rating" : 3.3,
+         "reference" : "CoQBcQAAAGcuP0yOSRUPXlKBId0jf7kA4gCMM68unlAAwLMdiGiD5i4H2EFuQAvgZPmTiDkWtj3G1-xE3kssJ8YZIKy6RACuXa3sctHYzoej7hlCQzilR20yfWMkBJMWCqjXb8aOLotqgdUF0llHGGwnZDpJDDMrW_sH5A12jePqIo-5aq4_EhCHXWHWTho17pXq399PqkX7GhQLV_tMmFyxHlxDazYhZwjswju8xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "142 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801944,
+               "lng" : -73.953056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "94a1a7f3727b1ab94641a51616154761460b285a",
+         "name" : "Mount Neboh Baptist Church",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAmCIEaCdy3y_ZzoostZbtJZmGLJ9JYEVofzBxfTdCO0tH_tX1tG6p_iIJJMj2nykfaxIMtn4JyopiHmPwO30mbu35mK21-I9TR3DF7fiKJ-KKthWDzzd04pteoa7uZLKStxkvT82cJ2as2KuDnvdJ1xIQjb7Pahnb9x3g9w5_2CSHZhoUfuyz20438VboEXdHh5ShJIbCNyo",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJl0MtzBD2wokRKHgZRCC63rM",
+         "reference" : "CoQBfAAAAJxVjlzr8x7stkWApQtKB7jTwL6hBUc1s62cdqEMhb1jPr5QglG2rLHLjig16-E2ezJo92XVXYdPKS860vu5h6LqRlRKvQmL52Meg3m3Rv5O7M38MyGRhynrfNopB31ZqDvlEFTuE0pyIzHjiJ1ctYbnUsIRLDHj3y50XnU9JpkhEhA4Wh-Ao6Z8Gh9u4qHf1Qe2GhR5SnwDcRDX7HtlGFrd_8mnRWaJxg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1883 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802017,
+               "lng" : -73.950239
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "577ceaedf3956e32ba45dffb15251a01a4c0621e",
+         "name" : "Malcolm Shabazz Mosque",
+         "place_id" : "ChIJw6noUxD2wokRnj5_OciSlA8",
+         "reference" : "CoQBdwAAAHtoXJfU6NtCqrphCk2ZMfIem5gTcy1jTrLIF6nhNnmNLYuSZMBfxUbIKX8klSM1O_zlQyf1p1JyThR3rTcexSMZHFjr9ms66aW6q8flBPcwbmCwB9ufvRo_sOOONw6gTWmJxKYqXpK3yBOMyO0qVgNLFTWtz0P6v9053Ho_DvCXEhBuo--G6Nj9zeZxnfP-CV9_GhTtlPDuCt5cwtOwSoqKk3ctT20f5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "establishment" ],
+         "vicinity" : "West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAPeDxvRoEX2sRsesctQ9-MzEVJD1g7ZrmCRxfqr4rMI9L1FV3CjOxIAmJchDSf72zH4VpVTeyB3OLy3cRj1bxXHdTxNh5WV6mpp7bSmnhd1SqcPvdplb4IAEO422DXnTYaqKyI7bXYXdWC8xRT8pm2DXLkKa4pcrNSwMigJZooGnDQ2qqjsp5yPk-q8BffLOKhIQU21CpU4FaGeXgXGbV0BQKRoU7MiJiAGgK4u79ERSzGxL4xS-_EY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,550 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAOefgqbjK5QLvVFy2tTOtKF2KZqtUdWiL-zHbh_Xg0r2jlH4wRPzYfm7KU-4L8jO-elYr_JgpB_QdHc2IBLOQrVSCEQ7bu35JbYrc2SZDbWY192UXUedjfs0C9laTmymOj85sizW4r7v5Xz9oFptLEp12aMMsvhelwpmLLTvF8xWc6YjguycCcVoUY63N51wIkUqMCEI_FdY3BsYpUCWBNoWStmn2q4UtClqhX7AEw1DHB76ay0UZalvpBA7y0UmcEB_CEd4WfOLh8h0EiT4jMfdCBL4RWgkaQeSYO9ExrqoXYe0GiWn1wuaGuQEbgD4pBIQ--4qBgrp-O68XCww2kl0lRoUirDKI8W22OiQ7ov0xwj58NAfq8Y",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7762231,
+               "lng" : -73.94920789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7852441,
+                  "lng" : -73.94221689999999
+               },
+               "southwest" : {
+                  "lat" : 40.770222,
+                  "lng" : -73.95753499999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "6316e9cc37ceb8dabaf03112a55b558c931ca8a2",
+         "name" : "Yorkville",
+         "place_id" : "ChIJH2Vx97pYwokReJuLV_O-lfA",
+         "reference" : "CpQBhwAAAMmZAOhEeMxS99pHUyfMIj0OnzWn0TGM0mSyurbR62xgOErCgje07dKkgvnCvJp2cGMmnaguQd5u80xin6EiOhVeF3QelKtXJVfebn1fBhtQXu6hec1LKb5KG3rY83WRGwZwEvaxP3MVLUUNgSeqQkpIKhR4pjaPcTfEwOkg54akquxABeMhQpl4n8E6XbUj-BIQ_nWawrHR9lUx0faEyHHKehoU0vYK0GvUTtf1wJ6Z65D4amSV2yQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774456,
+               "lng" : -73.954486
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d079a1ff8cc50765d0e22d8306da394b5fceafa9",
+         "name" : "H&H Midtown Bagels East",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAW1iu_dKHqrIWhYAYHQg0SjD94IO5bx4sum76koMJARJfqhiMYG1GZnLMpvbfTc3Udd7d3YVG8nkRu5RfxwcTan0BOWm4EeoHiXw0vO3TNH1TytVSrj9EaAy0KmjmaWvqnZer8-4ueMr6U9zmNJ_mwxIQM13E5pWCcCgpX5iyfQts_xoUh2guoOsAtEQUj5svahm42ornEDM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ67CUx75YwokRv2WzmiltMsY",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBeQAAAMTRNG_Q8JZw2wEnsaOm_AATT42iW7Kaa0xd0datSHpIufjzrWxVQbf8O4yYKBzNZATz0D6GAuvt8JJ4VJyal0Ta1t0RKCjVa9PhLPyoF1RhaJ0zOqlDiQFACEQPZBW2J8Q4BfsoOI-wGA1bkgxiBrAMkWsxKA7VXly88bRdcj1AEhCj9ScbKAkWhM57CLYkrVuTGhQwS2erGUn3suctiUjQs-qmIwCSSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "1551 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77226,
+               "lng" : -73.95499700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e83b94d0fd6eef0cb8b151ab23f482975dce727f",
+         "name" : "Orwasher's Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0Je_IJTIk6yC5Ks-higBLqjV_9SYfW0Y7ljNFHu4_YLcpdCHyZLu0nKn9vXgynlvBuUtIgHHHDIz1gq3mkR_ZRhN18cXkW6Qe3a7gr5eJkqo0VTTw9LuM3YJgp7M-u5feCmLljx3jFrVRa9LbASE8xIQvj04d9w01SJKu3suQ00LmRoU-YK3O2cJ8MdZV__b3cvWpTRsuSg",
+               "width" : 491
+            }
+         ],
+         "place_id" : "ChIJE9I-Pr9YwokReow27sEgdLU",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBcwAAAPhW6PYFlYaIV-laZT15b2nDXAuYO1csE33J67bidg80RpQr4qmsM4QeLrSJ-IMTEr82ZdwUsdEuKyP0-DOIRk1-4H5YJIS-2BXUdDoBw0d_shpsnfjQx1VK17T986BBPA35r6AMYvfbJ_4cl_DL7qqlvjWvg_jLR0S_-h2aHk0REhBj4e2GXDlfTHLf2re79crmGhQ7rs40AVMuwl5RKRgZ5Dql9Bql3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "308 East 78th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77329,
+               "lng" : -73.955415
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "8c02f405461a22bbde099a3a9a813fc88a1b77b8",
+         "name" : "Temple Shaaray Tefila",
+         "place_id" : "ChIJFTJrHr9YwokRIT_DnBlc8Jc",
+         "reference" : "CoQBdwAAANvJz152w6qZwxQKzNbIbRKy6emmV1Yw_k09N4QEEK_Vs6SDDPTxhJVU4AlwNoRGMvCxsthnhLUW7mY0KrwG2k0jTWNdwfsQNUYIXxv6WkfBrVn1DlsgQsA2vNQ8zFR57V5PYUMQNfd1nU3vB0N0kQHRSu2ZOHMfymDimV5WKYFUEhC1SVsK6qShe9HKwE8Qs54zGhTYroolSQHcS4q08h1DVkr9Y5XC8A",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "250 East 79th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772187,
+               "lng" : -73.95562200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6a33b7029d319250cc223cda1a96310f9a5b7bd3",
+         "name" : "Uva",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA74vleNUxEhElUb_k2q5ckAMWBv6QQBt5cxqKUPT-jR6F0jchRbXfX1Gtpm6tG7hMVZMZIebtZWn1dRQ3_UmgkMCk22-qHTQT08ooE4X7agjngGuyRy27-mIPbQpYdwaUHU-hRHaHFjGR_URso75NnxIQ6-SaoO8DC3eNUf_E5wo9_xoUoll-fV9R80O8AdEgqCMHG5g8RTo",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJxYXIbL9YwokR7A8e89BZgGA",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRkAAAAqsRAItZt9uRivguuELmczQ5sNAy_2B8hr8SPUtHxWuZ7FyBDe5IAUl13n5uCmfIxVa-QsfztXC-kG9Hu5fbI-bdLE2ohatLDHnFIBsl486QZ_BxPyGkQsW7EUHw_Mv4QWaKE7bvZF72TbPZ8ORP0pxIQ6vFbUYMeWHo-v25e1DbgoBoUtGFbTYTLThjxGIEPKJhRCnk94I0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1486 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774892,
+               "lng" : -73.954179
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "26c298753afb489c742fa6f30b64d76af3b8bcb3",
+         "name" : "Blockheads",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAADainRYhZzV016SyMC22aM9odk6m9xF4OaWO8eb8f1-6rSUHKsauDSlBIHLVmceN1b_ClE8w0sgAwxMzuvLjaFZEiV-gmmocUHivjEf7HLI-h-FZp04lUy770WsZF7MMPqeh--8cDf99NakaDYgpRLRIQkWrJ6ftiYvYXDitKiEBPqBoUMUOgwHttZD7cdbrxuD5H1x2MTHQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJ-XjsL5YwokRxZBYbDz4ctM",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRsAAAAm7tAUFzluMw99eOS4fsQfodw7pbGc22ad4V2U3d5ok7x4FE8ELjRivFSCgCKR9vTe6wkdSrTj0NWy9RA91rlDgMplLL_bJNCvglPuszEHc5189eBrh2rdB-OXoAw6pbL2VGPUCqYdwk6UjWVVtDTcRIQwou5a3LB-lwd5tsOEPBCjxoUgIatjGOa8yHeBFDJV8V6QOGY5Wg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1563 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774853,
+               "lng" : -73.953681
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9dced223881f9527787122b21d43a77169208664",
+         "name" : "Comic Strip Live",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 287,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9IX_Z3l6ubIcMSx8YLjcbC4eU55VVpui--TWrgYIsB9P1RVxbEHbIlPvvMu4V4OaA-I149EDe0i23-I3kFia6NHBYPCjClXJX4dAqJzuD12aORtjwaEErusTP6EbZonAVcz9vvjNg1RW5DsaFvShBhIQG1WDu_RLusT0jruQadgzqhoUTLbbaBETQ7kNBq_hpo9mztqcl5I",
+               "width" : 390
+            }
+         ],
+         "place_id" : "ChIJQ7fusr5YwokRDVmR6HL6yrk",
+         "price_level" : 3,
+         "rating" : 3.5,
+         "reference" : "CoQBcgAAAC6rZwwmdp8bcYfJ1l5VuHUc-diyJGCq44mB5860zHoDKrnfN-EitTaXFO-Fu0GxhSJAETfkjSio27Z_a-s8sXGbKxqoAyphbG5GqSft3Li6Si333wPGtf7myqx4VWIQS9cZ597TuVpP9BPx2bS-moe__ADOpgt12-gz-B6XgBPVEhCs0KDuLUDA9GdLFMmPQfkeGhRYZPhKoHp_6JYzVV_DDz-iy3nBnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1568 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772342,
+               "lng" : -73.95607699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "73afbd04d0ae961f6a124e0843e9622b39791bcc",
+         "name" : "Brother Jimmy's BBQ",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAuLQ10OfuIOZorI3idKvpO729PIoJIh58hxTgYQtkbjJ6m0qc7ixe99-HmG57sTH89NQwgydeAxUCdcb1JeWeja21UYeMsa6L4hj6xt-8qf9HFH2fzJOLCFRMQk5Ps8apkcmMjoti0-uaK2zftZy5jxIQN3gYHFLWTYyHQNr6B8SHmRoUXAWMuuTnjkW1HPf9W0-tHSAz24U",
+               "width" : 1609
+            }
+         ],
+         "place_id" : "ChIJAb8cDb9YwokRxS0uPeiwYKw",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CoQBdQAAAIYlHKaHghv1xBz5nOa6C7FGCBejPVlDnn5bKgrDryZdpPws-Hn1jmMCwNimMvJIUICE_T0CUY5jKo78zQUVGWYGygKgqfNPNjOV63nqGRwn44uyrJX87FbWzbC34pyjHYjc_fGxA-EiY4SEJ3PFQ5OZmoP8MXmfp_Po06VRC8gjEhCKDqG5iyrLIqtBuiAiFb0lGhT349hHntOnW0WvmHAMI-0aNr8fSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1485 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774886,
+               "lng" : -73.95434
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1f9dc55bbfec5bc0f6cc29a0f9a79458fa5fd3de",
+         "name" : "Luke's Lobster",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfAAAAECv1i7dGk0Wf0yX0Ehh_sAPaTAJWsNvNfCv7HWk8FH-CHzGH_Jmb0KNbf47aNJp2e0ZFfYp9v2nj-JsVKSZDnLnv4E4CsofGnmZo_mwSPwILMazCiDbTOWX3RAl0QKEw-QeXfGgaY1r24W-fECdZnCHhYYse-QvGveM5dS1zjgSEhBgbxOQ9za6fa_AY9ARvcEhGhQaR57AzCcqYWkRJdXiJv0OOr3-Bg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ8YYpur5YwokRW4TXrqxT-1k",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRvAAAA1TenaXhcVxXXirdUdTIUUG0kA6oesyaqUZWazRSIb5gGwFX-M8i6WvQ2Z4cXZtW2dJh0jhYQ6tfDa-7nxhEZI9R-QAzxheECkiS1Q0tGZoyvSop3HFgH3J68LsKN7wcd44yDY9rmJ3VEAgqH3V878hIQmaxFcpK8BG2cay--ZpKQ4RoUzqcrAMxykkGmVtBRAiwElckhg4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "242 East 81st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774843,
+               "lng" : -73.953625
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c70820ea33211843366593959625b784f709a384",
+         "name" : "Solar Salon Tanning Centre",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_fJg31trhvfqbsR7r5VvwvxLLO9lE5DFvjUShFiIJs0QQQLeqM60WebbsDwgDfXk8AMV1bwgZm0nczxKutulDVDPkZ3l8JS7CiLVF4bLBoNjxBBO8AZJubpqLR23JLqbyEVPCnRv_8l3i1HQ89llzxIQ7U0MbfgzIGa9lULpG7scUxoUGL9liBOw_mJXn4N1IFaOD2n_wcs",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJQ7fusr5YwokROHCyAVL750U",
+         "rating" : 4.6,
+         "reference" : "CoQBewAAAOBkeXjkersEigJoSquib9tbQBpJHIw5NeNN_Iiv-pA1v5Jc-o1lhm4r2mAbwpIqZtGxpJPyi9C8CZTpURS-4UuafYTCtlj-azHEqgbhKFLw3ue0JUdZ5muXE9Bafzjan3rhe4-qf4FM0wboXCqlxQVYsK91yrr4fHUUIzkOniRiEhDvQA8HToqmkMGO4_y-iC-mGhTspX-0VpLmQdJzP9Vmmi2Tqcmyaw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1568 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.775055,
+               "lng" : -73.955422
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5a3a2bec6c9c7b416e33837bd8f98991a6f4e282",
+         "name" : "Alice's Tea Cup: Chapter III",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAXUItJR2lEAQYiEn7p_MSFXkdgc9zh3JHzfS1kSw9iab-H3wAtOrNLa3AZiqA7n-IAJ6-vYarQKhAkGaFuvqv3b8Ky4kcl0oia5r7_ssDHynz60W2QehBjS82VOsafukN6tUXjIx5a1RIUl6E-GORAhIQCNFn6mZMdf-K3aJ-EhG1vBoU5sWvgLp5ywiOBWYSup2S7-mERuE",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJJ2Lelr5YwokRT4VBGp-plwY",
+         "rating" : 4,
+         "reference" : "CoQBfQAAACxqpsgtS4WITSxcwMSTmWnSNS60ThcYwV7RnxRPi2KaFLlmhJzMYmxgFE61PDFhF1Bwiyv5qFYaus7SAlB4qPZBQm130p0iQy2zI9tQVAoPSTZ3hAaIiyh6BB8KYQ91YWomeFdk-VOuCp-wKguuwpH3z0UFQbHWoBSIQTsUJwywEhCnEMHCTlmo51FfQlt2dahUGhQd8PtVhl8A-EPXyF7vjOjq9bhecA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "220 East 81st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774505,
+               "lng" : -73.95140600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "89781270f4500499eab2c956519376cc9c0d07fb",
+         "name" : "European Wax Center NYC First Avenue",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 370,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxz_b99LZdjdHtc7zc8VDTsxSq3rTs91QzvKt4tr8L-GhF9KsB_seZRZ7njuuQS0vruZFhUgnD1-RnCIOeN3GrIg2uY81lTwl-8Da3yyT2gjhWNfzDMEs4uVW1Fgn9-87q5uxDNeyem5MM_lkVzHYaBIQhnRJ86kxv-5itaLExGI1xRoUTGgUQ229So9QLMkXfc954sxk8lQ",
+               "width" : 255
+            }
+         ],
+         "place_id" : "ChIJny01brlYwokRpRIu5hBYHyo",
+         "rating" : 4.7,
+         "reference" : "CpQBhQAAAG2oRV96s1o7P6XWRNViTonHdcUNnfmE1YXWcMNVn2U-Z2ymm0axIgPTrru8mEKJmFzrWMan9qHyC7XOvDEHycTObQ9lPCq7IVafyt-tLoZnShIWw_Bc3z53WIvHCoWnJtlag10CWKgh_yXoNKZf5rTWlimGWcTXw6Tyi9HBHGjUZB0wVpY-HXHAqS-VnEQz1BIQcM6CmvjF0qQfT2FmgE2MsxoU6V5hqOBqEBAjGfENMCH3_gHSVd0",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "spa", "hair_care", "establishment" ],
+         "vicinity" : "1577 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773587,
+               "lng" : -73.954444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c079dfa2d953f97ed06751d933b4a786cb2ec13a",
+         "name" : "Lester's",
+         "place_id" : "ChIJhXMX3L5YwokRMt7Qbe5AWLg",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRqAAAAA32wVo9hCkMSQV_Hq3QRXTzmMwR4wXYby_TBZGYAlJj0YWYhk1g3iljsA5QOIk--dfSv06VLA5VsOidl2OoAYJOdb9tx0qk7ZO4QTyUGB9hQK-II2_41LfqdMf04l1zmxrDP4yG4fp2VyqToEknNdxIQ_zlhViNN7vWsjPfhAsUTIBoUYSrxQKg5uTf--hxJn5EzgbiMogc",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "1534 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772628,
+               "lng" : -73.952151
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "429de8cb74bc5eb7170e32eb194aff2d87be7722",
+         "name" : "V-Note",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiJxLT6SbBMr3R2J22eG3u0LfLz5DDmkuumwTkwKlgHTVd7e6mYq5lglTmgvx29ehi2NIjp_wLHxBds3ma-R_CeqCYBQ9KlpPIxQNqgVT96j0zLf4MiSBdlbJGs-HCo2Ae0kv6T2JJG3iWLCkZ3WVXxIQfusCkCAJoTgyqCj_dQH15hoUHkJQH_jRZ7r9xaIf8d-yv4PsVoE",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJtRFT57hYwokRRzG-0bQhV3Q",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRnAAAAMhgYo8Sw8pwswsvYvJbbKkqKTwYrlGTi4YAnPrBnYlDi14eefsIiu1bxDj9-Kb_kPjz0Yt5M9jYXwZv88iuFN5Ea8ZCjv3K4G4EX0AuXrYlHlzhfcKk75KWEgJjNJewRyXOF6J8NSWF6lvVyxyTNUhIQxyXSv-fEpxl7oXGGqwnlcRoUJcUjHO9DlByk0Z3tgPYX0Q5dQ10",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1522 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773386,
+               "lng" : -73.95570499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a640410f83d3436d4ff6eda273a9469b9ac4f152",
+         "name" : "Sojourn",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK_w8Hb9YwokRegJCc5qritU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAfT7F4gujtllDn2-jiEZz05XGamFbcT5klovnFgvTb8tOF-Ls06isrShQ2JmGzW1YYximpWNk_CClmFZv8k3jtdT1E-6ADWe1o4ZdztOgyjcmuYAIJt89y5BEfbnqZBCiQ6RRWeRWonpo4NSFSRvViRIQP_ONjNBX3eu4PeDhkFDMuRoUiVR4X7ePqhoJOG_pKP6BWlGa9dU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "244 East 79th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771875,
+               "lng" : -73.95338599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e2f41c061a849e07a9902c3239d94a4e19e3957d",
+         "name" : "Bar-Coastal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwVMS4AoOIyH8ce8I2TdSe7z8AkWzeqYu49ZRtSS_pbP_0sNXHYK-pxtG1IhJ3t7uZyWukUlaRd6ckImhLdIoWhZT8g3WD4sLJW-L6V5_ov_HbZlaG2oWkgZhWUWEoZe_y20Zjgjnpz9p8LKkebILiBIQF4yoPzqh9WHLiAbBJJIi1RoU_AZdy5KTdld85YoZIEBhlgIVMis",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJRVSUtbhYwokRwcVssBW_UJU",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRtAAAArM1EIYtbIi8Zw6SA7nbhcLAVrb6h7_lBMpRpkSvLvw-aZipIveUf-MsOrXKjJ-OvsuZDDLmyC9nrI522JZM6tk3PSat5X8AxmjicQIyuwtgRDslBDpmN9LSIbCD3wIejdi2ApSn6uRYl-WO2wgrmwBIQJzg5P86jIxnB-vmtuu6wQxoUAXh0GZyJL-rES4qbfpIDDfUzrqs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1495 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.775238,
+               "lng" : -73.953923
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8010507f556140062c6c578fb799f2e7e5754067",
+         "name" : "Insomnia Cookies",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu59nrL5YwokRlNqwmyk6OpA",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAK_Wd0uJ6gL9qGQeh4NUaejH1K664TG37I5KnINoKQdmI2cjQPnkvmIUbD9yNqKoD9YX-crzNxdVdm_rDmk4LxTsVy-dLlPHFliKcNKjIPV7E0epQNh3Yi5zaRDkCpJ-tcL0U6UrLMfooP9KcZtFiQ-33Bx9a2f1067DsnWhSSJbEhCPaxleS3s_yEbfnte9T5cFGhSmX9ckECoKsxAoiKf_c8Grxc4NRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "1579 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772277,
+               "lng" : -73.95552600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ec196ae8764c7af2689e8a55caa6c84052bba3d0",
+         "name" : "Doc Watson's",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA130zWbKa723FaCtV_uZDU4sk5r1UiuiOAFp-W_OUxAYLobIfRzSU-RBTQJM_-c9TjXwj2tGgEK1CoTMgQxlFsA1pmn8XKoHxQshr4mulcwic0DbIO8CLAWvR3P1UE0E06_4rKJ1w2PjBoMvQuXhZ2hIQ3afODdulxffEe2rES7wPqRoUyc_9bMjXxGYjU9_UOMDCFeHF2Q4",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJwbsdE79YwokRZEzH1mMqiwk",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRtAAAAcFv8IeA0DspH_ycqC4G9TV-H5hzmreUuBJjeHcxirvHm1Ic7_8r-lzS8RMNhxBFuKSKisTTQhBvoC8iuc1nXlV5XsOlBuVBnUeOzhbcqoI_U-m4RyAoGdt5kZFoxsV6nir_oV7nxYFXkBAuUa-e6bBIQNmCdbBwFJrSiDzfEbKzMgBoUs121aBMwU_bJZf0ZCtSpE7HET7M",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1490 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.774744,
+               "lng" : -73.954622
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4832d7dfb8a192c4820e64c7cb456995b1dbe815",
+         "name" : "Eighteen Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 506,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA40uHRaEr8wkj5Zk5M7ORs-NC7wQuROcspQh6ikt6QmfbagIwE_Rt437EisJd-who_caOO5T60hJILfp5kF28V9e1561W9CXJmKprhNG_x6pOXGRQJc70a1vJVJsLKUCNJ0JzlHPywAkVDK5WooNBghIQAohYNS341QTZMgSGPJPabRoUp0ru2nXRXG0gH6Ul-_QC1TfGSLU",
+               "width" : 483
+            }
+         ],
+         "place_id" : "ChIJbQYrur5YwokRGrkyjinbNQc",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdAAAALs9e38Gbn57h2OzsRdG12o7G3mjFsVliudNWN27RHlqxzgFX8oX1DwlMxgXf8ZrCyLP_x3hPGEJ4yS4AZNtaj43REWgv_qJv9k5e8Pra72A3D-b7W0WuDqTvPryecRbw4GCBV5KkDYubiHDTNtdGNjGU1i6F4JnU55S1P3seg04EhCQO_ZL4zpY6W9tT3uHES54GhQ7FlLUAQvG9YvXQA6VfvKNWFPgrA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "240 East 81st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7735649,
+               "lng" : -73.9565551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7879499,
+                  "lng" : -73.94221689999999
+               },
+               "southwest" : {
+                  "lat" : 40.7583091,
+                  "lng" : -73.9732511
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c05550b4b3b86c58916714a3f960403754ca40bb",
+         "name" : "Upper East Side",
+         "place_id" : "ChIJa49ICL9YwokRDaotFKkGh2E",
+         "reference" : "CpQBjQAAALhdXRInce0ttPSZlTE58F8ux-rR60LWid2E49dzwwg7LWL_wFlFRRJWXBGflHZF0ovmnS4aqhhCq6DTb-2EIQrcVCKaZ58ND6QiTjbhpDEevXCpsRNHtJzHVRYeNAU6jDQ4voQLL4_f-q2W4AY3Ssu-p-K-TKlKC88DZhIV2lryxLZvikwz3PNYqW7nQz8BXhIQoBn_jdc2FgglRPpzKHUGyRoUMT0XJiic2wTfdHaaoDy3adPQ9HQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,427 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGof9NBwr40WI_G6FHtT7TcouNrAT1jtcK1jyuWLg3vcrz1DeCL-qOnrUAYaq71M2G5OnVvUMgmNMoYxP4eBdH7Nq-mn9M7p4dBaqgl5TCaU7I91mXXZ4cDygacwlR9uvrqKynKAbmQsz30UQrBJ4_qSAAddKnw8fCstdGmEwiw9dDoCTM8v0V3kJf-22de9z-PzrBmOAamEZXT0JdZMnIksZlic9y1lxqPnaddzkACjfQUXo_JVcqP-ADDDEMWQcncRm_joEKk2ywes3TCKOKDbGWygE0sUNxz1pyqAQUu2cWBxm-Q74GKA36zrCHrM4RIQrJgNcFqrG_PjLlVGLBV3aBoUl4NGqYfAQl9A5LdNq431n4ezK0Y",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8348136,
+               "lng" : -73.9058534
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8385219,
+                  "lng" : -73.90195559999999
+               },
+               "southwest" : {
+                  "lat" : 40.8313947,
+                  "lng" : -73.9095892
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c30e901c4f283eb79a584854821ec9f4b37861d2",
+         "name" : "Claremont Village",
+         "place_id" : "ChIJfTr6jln0wokRloJzsoyBQLQ",
+         "reference" : "CpQBjAAAAKXbmcPFVGVlqLqOEFLZAxde0zXBqrBA227kkEhWmTt4YcvO6_TvWm0AGPZd12zQ2dRCJrr7la1LIDIvLdwxnCEMC-oQWK3-F4LMaxef3LCLuhiN5g1yewJlMNk0WCu8hBmeUXCGIN1Z7PWDS1ii7Zt2T3d7ZURDECvm85ZpgU_BG88fDLAEL9emSl2_heJwGhIQlSbK_ONku92ddCHTxgGC1RoUdm2QYBBeBp93yQsmGVlbF601psM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831051,
+               "lng" : -73.910777
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c64d0a226beadea895dfdf26c21834d852e9943",
+         "name" : "Well-Care Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu5m0tUn0wokR8B5oUjmtXPI",
+         "reference" : "CoQBdAAAAIOpFEGnjUKjUJMY06OOb8KhBzbBvZ5SoW-bXk1QjTqX3kom-reNp_XCFnUaOIxZKAhRbsGCohfV_etBbXSdjrefMgCMwn0GsjF74r3QjES2JejbYvQE06IScKw3G2BhxhjI9Y9NWudl8EvrOnO-fZmpa2Vk-yULJ2KS-Yj52juiEhAUZPH622fN7j-MobfOid_nGhTbyg6VFnwV6KmCzl-bklkyN6a7Iw",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "397 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832669,
+               "lng" : -73.909762
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "cdce2c87d3a2a94d1d2c54bcc4ec7af52ef78d64",
+         "name" : "Family Dollar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 51,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAArgnBTXeKxzyTQ-nu31g33X-EjUeqQ0fRAD7CZG5ylLw6zdcqsoNzhsL8O0OXmyK0uAgtMzYRw_DchpvrW8oHPjpBCwXgo2W_mzxmnX6VwbucIYZguk5E3gIhEciK8swTM-ob0VZiVXgACU3tz7yN6xIQK3rz34BXcyCEc3MVyVQ4ZBoUr_Jg5qDN4l9_hLaE8pa_SHMm1Fs",
+               "width" : 332
+            }
+         ],
+         "place_id" : "ChIJUz1kYkj0wokR4nqJ7htTXY8",
+         "price_level" : 1,
+         "reference" : "CnRvAAAAHUcAsaeNiwW7m1uq33fMd1UZhWnOXSPwkbxsxX3Y7ILV3S3vSVPrihK8iY11uvIg583wmt0AHBGtnRY_7BPoDROStfW0PyQiemGTHVM5i37yCP6Qq8NWFXqTCGAPDCm7qy11dMCzoKrnX1rTW3P0CxIQe2hsHinVCnF9ssPBFF6g5BoUw12IPQ1mdHonCwx4t1CdYQKFeII",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "department_store", "store", "establishment" ],
+         "vicinity" : "1227 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831618,
+               "lng" : -73.909593
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "087387547569b4966347838fa7594f4eefef592e",
+         "name" : "Associated Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJlYbkWUj0wokRJ1GgWn7q-0o",
+         "reference" : "CoQBdwAAAJ3jhnC-qx-4UoFHFe0l8TLebc0eFcn6XgYC8xfp_jonI_Jb5vLYjro8ZIBScvUqlG3Q99SuCuTgNDPKVHfSAtRodo4hGH-vpuGZ4UqFUTJCn8cz1I3Ve5PTUZNVXJycouRW5MwBqkPLdAl1-EP5cpsRVmm2qZf0UAYN2R44UfzpEhBV0ls2qlu3d2Wws7Oiq3HVGhS296h3FZ9WT4WR5SKBt5ogvO7uCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1188 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832777,
+               "lng" : -73.911806
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "273fc048d456beabc1451e384108e01a683e7f15",
+         "name" : "P.S. 053 Basheer Quisim",
+         "place_id" : "ChIJG3Zpa0j0wokR-fDrsASal1w",
+         "rating" : 2.1,
+         "reference" : "CoQBeAAAALKIt2tZAVp_uILAsdK8TvbA94B98qm_YfHYFrD8TMaEzW3mSUSqoUqaluxlm02624FzSYM-Cqq4XdyfiSlO7f0EQAXnHOusNcwSadDg9XvnsTRR53JKYv2Nvm9a-I1T9o5qzthWysrdScseFNFz-GNQ9rbDkVjqBieNBIknvbylEhDzRYVqJdz0kSAqDZB7CnHaGhTZug2wqGSXeCqpxOdab8Uj6RN9FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "360 East 168th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832278,
+               "lng" : -73.912835
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "85c14091cb05f5467bc6883aa4edd7afa8167510",
+         "name" : "Daughers of Jacob/Geriatric",
+         "place_id" : "ChIJs6vP2zf0wokRODEvZIFDVhY",
+         "rating" : 2.3,
+         "reference" : "CoQBfAAAAC7_AR3GIKjcz3YPQBor9m2Xl3DJvlggv7gZTb4SUzOtonNshrS1z5Tl_e05hGyr21dkxeUifPulCWALeIWNntPfvt8AoDtMdtCRgJdH_cBfO3Fng6z_uzb3Pu62kmHcIbfZzAYiN-tEP0NdqSJzVVpU0CYSsjOOynatirpEdgHjEhCHEPm6lJBKX4gSkiXFTRh-GhQPakPSCRtP_IBE9PqtRCwXI7sgHA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1175 Findlay Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832182,
+               "lng" : -73.909938
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "6a2d0dcc91a29557341d9d08623e84789e7b9434",
+         "name" : "Merit Oil of New York Inc",
+         "place_id" : "ChIJtVc-W0j0wokRjzTOXiGnAC0",
+         "reference" : "CoQBegAAAGI4GvC66XblLmNKV4J6QZoCKWul9hKgXt3DMfsrX5p2v7QeL8O9xCFRxnvh2lR4AgyZMVEisNdm02dI52K_0dTcgaqtSShkkrYEUtzHuw7zySj8ydjIR3_cLVsXrsmLmBfXMgiJCPW7WY-FGCxQs07zis9q2sxbK0R1XRYA8_JsEhBzraLWn7boMUF0N9iTViR2GhTyMo8lnqNRbgl7cyh7e71lTgmekw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "1201 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832847,
+               "lng" : -73.91369
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "9820e2b5de2e9271e4ca9a664b538f9b7f61daf1",
+         "name" : "Carmen Y Blanca Beauty Salon",
+         "place_id" : "ChIJPQnPwTf0wokRJZd7-YnOWU4",
+         "rating" : 4.7,
+         "reference" : "CoQBfQAAAJOviBKuEhX5H88hfZcwqxRIEkgVMhIwf-9fWnqtB4URtBmNFk6lsiRFMM78S9ZtE8aPteauxeNFMY7E1nBEMJ2525tUmkecQR3dIHfmJpbwMoMm3domSOLS4xf_J0GJJ_F2sEQPKs70_KQH-kzKsGWDj1XsWYiAQNxKL5m_eJmlEhBl1ejkFUoCBsGVKfNThIa-GhRWwwPasgJ0vKVHTRBp4PHOFjvdNA",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "289 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830745,
+               "lng" : -73.910882
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2cd2676b38c92ca4c0d5e497161ec625703800f4",
+         "name" : "Pay-O-Matic",
+         "place_id" : "ChIJL1ezt0n0wokRXz45gXVqTeo",
+         "reference" : "CnRtAAAAkoZ6rsUfgiAmfWLIT0_WN1ys2YueHx-8flTmTtoH_vNdPEqFFCNGwdzXPP_HY61mGCgq14UAtRh3duahX4xudcA5FG0cnYwO-DtmAh-VNPdgA8GfrQH7T087IMBtLY59pmiS4RrA7JZdcSpU66jjQhIQYRkbgGfw4gr53sQdGucjyhoUFiIsP8uM6T12mOs0m2aHn-XscvA",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "establishment" ],
+         "vicinity" : "396 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830974,
+               "lng" : -73.910625
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e9992005a708f6375f50cbc8a5c3fbf763d559fe",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_ZuCaWwrt9M3sRpj-6nfZu6920ZpsInerd-9c5EURN8Q5JVfc7nvApVE9LY_o72C54yJc3dUMVdazHhVcmsICroC4IgBMTZzpRDB_U155RtV2xWa4KJXtfizeKIQvB6k5FuTH23ZjIydNRNF5WMoCBIQhi7eujTTm-KXWrB0H_QpNBoUDhWFLn8w5jybPXD7gMTWujzOoWQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ1Zk5s0n0wokRaQ4Rd8S08Y4",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAA6J4I98oTB1fNYrEsgYA4gGi8DtdRoDm2S10YuNuQbfTdHMco9OQs6xdVi3JU23ofWkMQYTvnMreJhzhR95Z3PdBwYAAaqs3Gfspf-LpqaVB0C6Yltv9ly0t2wnZmhPuImNnrrub7ciq1Xyj6luZw0BIQDdeP8k-TbWStXVWXy5MWiRoUIA2Ntwd8oCqdccQshQ-ea-hvTqA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1167 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831793,
+               "lng" : -73.913526
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b345b0f3a13c1a0e62dd8f6da9a85409a9806cfd",
+         "name" : "Dan Ray Supply True Value",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 308,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAPkTODbab_G3U2oKB6Cq7GjV0l1GF0_lcovwTW14L_y1PmEQWDYiXcvhOOX-NOI50N6n2PBlrN9X-QqckayhUdMT2liIzju78PrDudqwSNW72BPkUPUkFgwgNybW8E9LzCl7SSNeKlc8GSfcYdYdm2dnwfScEHuiqB8W2QnFWoElEhDO0h02nG6QCBxSpCtA8qgNGhRnWkiZomQ9kOVfcuqcvw9TaxQIjA",
+               "width" : 308
+            }
+         ],
+         "place_id" : "ChIJaRfZzjf0wokRm3t6BylQaw8",
+         "price_level" : 2,
+         "reference" : "CoQBegAAABMQYNu4zbzP8qkZ4Tx-FkZY2_VSZLPlggbe3yj6BbR97H_l2sc5SNp5jKjcBUzpZwgpJ7nISkdkKxTodJgqfQrub06nnfnxlJ2rNqCTK9o88kdOVjSQbAtMIShbBV0sPulLc9D_C-Hqwq1nyHwIY1mfKnjVyqXPniWPyAMmb0hWEhCE7z8s8lEXfzUx6nW-KRWtGhQJlV4VRM-hztIg5Hd3iWNmb-F3bg",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+         "vicinity" : "309 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831003,
+               "lng" : -73.91012499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "084b89d58810046c9f5ba826e5b09c23ca9bced5",
+         "name" : "B & S Trading Inc",
+         "place_id" : "ChIJn-Gnskn0wokRuyXEHKc8Wcw",
+         "reference" : "CoQBcwAAABM6w6tqTUAuDgdRbYWx_GGOzdsZCb5HVHnq7ZpAnatL9ljhm5OtNuAsjBeRQeyR39CrB-CRXjGB350SeB2AU4fDb_6enQP34xBDRh9FJjR4ZpJOn_Y5TaVjPH9ESdWaEJME2UZ8eVDEysht209q_0L2ReyOTx_VZqG-yMXfBzSpEhBXbUr0bybgzWI4NdqmPOgsGhR8XjSqyrAA_yteQ7mxzSh-EJH86g",
+         "scope" : "GOOGLE",
+         "types" : [ "convenience_store", "food", "store", "establishment" ],
+         "vicinity" : "1170 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830627,
+               "lng" : -73.91029
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "596e958db4b42096c242928fd692edce0913e824",
+         "name" : "Realgrafx | designs on the fly Printing & Graphics - imprenta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 473,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAA6jUnFMiJeRaLyjK-vqSPw1jcp7OM3Q-mE8IV3yPan822AsUkFNAC27CWwYPcfYMncyBxTsDC7THI6IOcrY8DWOPpPtoBSUN5cpGK7uCk2xYiK2LjeexpswTmXr4ZzWAMYDAh0wi2qBqD9i5EArJLfBIQ8dPtmdFNpI6ETxUiNv6D9RoU3rmRXilXTA7_uUOJgJHJjwORzZI",
+               "width" : 473
+            }
+         ],
+         "place_id" : "ChIJfcbJD0n0wokRESmjVGp8H4c",
+         "rating" : 4.8,
+         "reference" : "CqQBoAAAAJb1Y8392AixL_XWvxfg6JOpOjSHImf3oPdUAH4E6zEfCgfAI1Dd5WNgVbJeGO0bu9M5-wr_kloPiIglt0BJ9ZyBy0mLDzOISZcuwSJ5Hf9z32OLF10Uqhfug19RyyyZNVZC8sjiwIgkju-4qHTrpwxika2WewMBcssSGGsE-9syVgG8-pPR7-fCPw5runrUWA74Pp9fpRucBh_JJeOE_wgSECTmB5GMArRSMUB-rCWckFcaFF2KdaTHxW82AxIPWxfNMjqMfd15",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "400 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.833335,
+               "lng" : -73.913618
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4ddae6a7f72a4b7695c8b675027d5c2aac83b14a",
+         "name" : "J & N Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 999,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcQAAAMsNvn4fvNCweEFIYUkMLsGW5FXwLaS-cdTfMF-2Cuhx-rCdF7DtjFiznwyH5tOH4wMcsPB72EvhqNhmobliiwnEhlvu8FZiR4SjHSCrxrinDiUSK_A0AVnaMr49SdSI9PUBzInKlEKixhTZmUsGNsmii_IonqqAhJJ6sQC0jMKKEhCE-0W4nnJZsm1TdV-tJSp-GhRfoR_-H9Pfi83KKprCcDar3bT4bw",
+               "width" : 999
+            }
+         ],
+         "place_id" : "ChIJb93P7Tf0wokRP05zccQRjaU",
+         "reference" : "CnRwAAAADTZ7gWbVIX0ja2VgTp0kcPMt1IxMZNyyRHqpBSkgJGJcLhUe9DP0q2vXCbeZlrAHkl5ZcTUK8dKo9kqQj8NqS3nQkKXRlayKhuAobrWSMCFQOHmsPbDVQNqfbDxLlDKBATtWt4I1d8eSok5aHAnRABIQ1JIBHYO3AEYLmeb9fDChIxoUTfl3CFrZCpmv0I8-F41_0psII9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "1220 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832513,
+               "lng" : -73.909722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b613915b8b156d8978369fd9ba2b080a4e94e700",
+         "name" : "Webster Gourmet Deli",
+         "place_id" : "ChIJRZWfYUj0wokRtWvzxK78tn4",
+         "reference" : "CoQBdQAAAN95DL6gE1buKjm4rUpAVpwkne0HqJmodgDTK_c6pjTOrg4HU8bVKGPhRgBrJ-X5h6UIVDZdFoLMMIfCpRsjQKdNw5rl8JnOBm4coyZuohm8SwYCYpg_wX1rulFdPcjFfRWBpVUA80wUof43A84ZSmxQusx2MM013pgtlE3ADJiSEhBN6ixe3k05FMRJ5wC9FfD-GhRIkJ9BJr7A8WxgNTU0b_IZ5z0FMw",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "1225 Webster Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832297,
+               "lng" : -73.91290499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3dcaf3985b2ab14c933c3952dbb9c263325fbede",
+         "name" : "Findlay House",
+         "place_id" : "ChIJw03J2zf0wokRHyEf6gBmyy0",
+         "reference" : "CnRuAAAAIywoOTRpnWRP69oa_9p2QYiFHcB-lzCtveRF7cTk3E6dWzdj-IPs_X71jSwz-n32Q78X8qx4NhLnG9AVOfir1F6wiOYv5gdCGUNrYoFAT9FTkka5xI4lDtuK5HWk4NIzp0hkZOTMtkZ1Cmm80mI5mRIQOuonjG7MXETm4HgUXf6iOhoUbQWMJ8vEJPJ7EhmJJfRHBzNAcM8",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1175 Findlay Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832203,
+               "lng" : -73.90957400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6dcefa2000284662eae69d943423b9aa91c09e37",
+         "name" : "Daniel Webster Child Health Clinic",
+         "place_id" : "ChIJoVYAYEj0wokRLjDgosH5rMU",
+         "reference" : "CpQBhAAAAB2-n599kLSPuIa9LUEplykALs8VCSjNU4erPDDKzqWSig-e2vqyRH-kwt4Cg9I3m_WYvzPHSD-9nxZkYvlO5ZfTpbA12vYGfXbU3XIDJI86IHyjKJcm--LHHAa-RJGiGlKjtxUBAXIi8_bxl-B5PYGyLi3YHMp56_ryWxyKO9WoIw8svRQPkxD-JJGix44ycBIQN0XNlZ5ucbWjSGuWWerreRoUH5H3_f6H12Lm5j5qHydKmC2rkGg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "401 East 168th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830564,
+               "lng" : -73.910315
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "181abd796d3040b9ac1a2b78ff9c54bc556bd1ef",
+         "name" : "Webster Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJx1FipUn0wokRvteXcQGI4xU",
+         "reference" : "CoQBdAAAAGqU1u3v_8-eihZfv95-nqg3TFCWAXtrfMFrp1ovqh9SlHc_EDuuLjzz1KmOXEiU0VVPvlCRCn36R_A8eCijBf3ZPngOZfvOHbTKRoQE1GaCB5pSOGdutQ9XNBe8q_fgQyXn9gUl1WT38sghc8tQrpxOuCytpxSnAyH6EsAbnZGkEhCovkPddGg7IdWMEcRIK6DLGhSW2pcA0KcIsGxW8PXgAJN1krRtPA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "400 East 167th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.83194,
+               "lng" : -73.90894299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "25d9aaeea88f116e4c1ae7ddebad752b972f6891",
+         "name" : "Quick Stop Grocery",
+         "place_id" : "ChIJD16w80j0wokR7U3FgrkScxw",
+         "reference" : "CoQBcwAAAF1Qnw75tSpLhwgnT2n3gT4qU_CaL7wcjmi_QP8JsIWm-t6M0zgEnbMSiu7u3DRK8Fgtr9LyUr_h2gzuM83E2umRFJGf-_QTj98SphidTKho6VHbs2LQr4u2dIfdaLfRy5KsqlPRq0v2CFHmPmbDos_Y96116RcX0qPHrBNEQ3GnEhChcx7-_DZM4jTfBKWKF5LbGhRjlOB51JcyL6_XzfKLyLp7ymWFzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "convenience_store", "food", "store", "establishment" ],
+         "vicinity" : "414 East 168th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8250663,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8340087,
+                  "lng" : -73.89756199999999
+               },
+               "southwest" : {
+                  "lat" : 40.8204754,
+                  "lng" : -73.9166379
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "afb454c03658a9ced34c55f4910acc3a003ea7e9",
+         "name" : "Morrisania",
+         "place_id" : "ChIJHQQOLEr0wokRxLXs9U77hhQ",
+         "reference" : "CpQBhQAAAPIzU9-bbtHppB496WFN0qVvHUpfeZk6F5dsZGCf2dIvL7h7E3_kUSGd4WiLaMyGST91B6rsIF8jKamDQHQ_eVGPRGh2xddEAvTIxPWjEIS09YXg_Fb5NFjAu5O1FBCvUR1KosHkxw4AuXY5xkH1DGRtPHAj2WtwqsKsjR750C37hWLyBzt57bH-VW5EjkXDBBIQK9ajvpL4kVcTp0PrrDKLJxoU6-EWtkeUxFw6H8Ro1aADNo7BX3w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

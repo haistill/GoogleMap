@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70255299999999,
+               "lng" : -73.981086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7059655,
+                  "lng" : -73.97909299999999
+               },
+               "southwest" : {
+                  "lat" : 40.7013741,
+                  "lng" : -73.98470159999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7a930f699e7b8adb3e02870ad9eebf412f023e3e",
+         "name" : "Vinegar Hill",
+         "place_id" : "ChIJN64bRjZawokRMuZG_yF_hJE",
+         "reference" : "CqQBkgAAADPS4Yt8z0BgZNea0DNeY8V0EtlDDp7EPGBtxY3KB0Yv2JdxHAp3FmFcuWj-96dTk1MrKmI7nzwUcNDaaSUEgKNPYRg_xVLpU5PphXVqEaCq-B8bEdAFYKvl0CBnpA4mIoeE2J9HIAxTk_tYkTBhQB2uJiUkHlpL0-0yOidj4uDxAzFX8oD0lYnfpkIrWydTo2cHF8OsZpLPXk-5mQ1pY98SELT8s1m-NRHIChwy1G9GufYaFLKw9IaUbyELyFXCVMzkLc6xt39A",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAAD7WLQxlC6brfT_HNX5w4-jLP-6Ju-OsCWUQCWDynJ27iAqF1rbtdbM-nfWwptLeyOsUQ2zlP5QMPL_MCC6IIR6kdGQ8VeHyR81OZlz8WLZzmtgOCidlzO2OnqX38Lt2BOvZNH74aKa_41WUg6IRxAcqASqNOhdGLKbaByqlZnPmOl24405cHApsecX6RwAAhxIQvckVpKM5QIz_iu9dt9o0WBoUdKeOly6FBANMLtEl_4zncJSy6xw",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

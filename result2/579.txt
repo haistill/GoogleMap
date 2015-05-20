@@ -1,0 +1,461 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABlSoBt106jUGCZLx550l8WH3mdIkZowBhMJhgPnM4eGYJukDUVXUHOPTDoS1YB1hx_duXquy-NQqEyGEFGvZrQaINj7Tez3TrHsLUXlwzmk5zbyWCFdbEpns8v-wH5auxSflnTkL-nCsVun_9LcSLZ56GmpxZOXpEHM1sEu-jj3-LPIo2IGc4zhlAOR3mmmh2jVKEgFvdPHlpr3cck4-hr0fifLxAE6LWSAmmvQVugWWEyxa4GMyJu3-cBkppgeIzUaHorD6L3KnREN9W6njmnEYoZaCJPZPtP-Gg2yySPcQrO_zX8GGOhE6BftCvoyfBIQK2jQzHDQQX8CRAzPkToz4BoUi6uNtMqmWlcNSS9y_Bgyt1k4LzY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkwAAAIOG8XTZvqBziMlfSCNJGgukrisNEYucw5lAxpIIr9UsR7iMiG6Sl-Kz76Lf_GwjqgYglzPlInasDhlIjuDuygyDCzUsy7pEN1FT3X2XX9eyAHxD3Uhl6gQlke8zel22C9qBySbQud99lnz6fi9fyjLmHbaP4btzkyECKdu7Z3ijYvN1qksoa0OfXYbjzl-WpvJ228sx-luSMxQQwWhPgy0SEJ7x1gCHmZcRE4q3vzY-SBQaFNAdK7omS1lKeqEhT1rA47wV0LlK",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815289,
+               "lng" : -73.957111
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "cc1c9cccd26304b4e9fc6926b591843dc9cbf634",
+         "name" : "Old Broadway Synagogue",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1519,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXDqF6Iv-aBL_HVV8YH0EvwtyJVz79bzYXOhZgcBOF9YLC7uizqIgFe_5gLktest7AgnQTTLBPc88voQ1I6f4h_n5etElieaYnLJzYUTzOdNzxafUW84Cf2V09kgwXfrXkNlqtNSRwLblSzamob0nYxIQ1C18euX0zo3-FbOHYeqktBoUo51HKdkGopLaNwhTiAIiCf3ztDE",
+               "width" : 1374
+            }
+         ],
+         "place_id" : "ChIJ5_DEKGr2wokRFSZMikJmgsc",
+         "reference" : "CoQBeQAAACtAQVtv0xZIb_2oH4fCvXh0jwCrjAI5vZFOj7VtTSSBenuVwJgzCESKK6XPwAwDLw_HY1lUSKEU1YrAw-bCXa6fgfk86hZwBtyIjQp_WA5kaN5yurrg7N3eGSC9amVjxhS06bP-Aio0dl3MuqCJOlaYNsoYyELRFUmxN9PK2yjWEhAZqS7xMzdOH6FN6V9FRWzcGhTj2RovoiHnVRyQ5qRAa5WDAmX_-w",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "15 Old Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81362,
+               "lng" : -73.95614
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "517df450523831bfc8ba3cd1fb2e4f5ba704a18c",
+         "name" : "Baskin-Robbins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3XbBsWv2wokR1vmo0bt-ZG0",
+         "price_level" : 2,
+         "reference" : "CnRwAAAAd7Ah-dEAbMdqCxPSgg0nfpMmew4Q5BxKUJj0237mWwUVQ_xly3sTqoR_JvSPi0U-GKzo7EYRTAHkF70WyzZmpFnk9HwKjruzozH9RBK2LeJ6jxME5DRgZjEOh6iplPUNcd8c4RRh5BTSMnKRqEtpuhIQ36iXtBH-M8qZdFXR3co6JRoU27cPk4EiTaKnL1unqph1mkHn9l8",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "1342 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815074,
+               "lng" : -73.95483900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3e48cb8c4faaceba2cbd01d392f7ab51514a72dc",
+         "name" : "Academy For Social Action",
+         "place_id" : "ChIJGVvw4Gv2wokRKE_WdX3Ktzo",
+         "reference" : "CoQBewAAAG1gHJVVRLl-JlFSeGAiOjCrNh8wyKVkItpgdEpLR2sqsVDGHcUHhO5JQLiWdRzSh6IECGBDRwpBeZIOME88AKB-GyAqd_9-i2XlJkfBjzlUjWOloIxnJ1Q6x4guLZ095vjrvK0Ut1tHWLKH7bnhcSCe-KQbUU0SaOcv3D-DI5iFEhDCJAL7IfDnAST5scd20vpmGhSv9RJ3Dip2krN29f43tCeKelUEOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "509 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81373,
+               "lng" : -73.95568299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fb52a6a2e270bae0818d68c9dfdcce5a09875d89",
+         "name" : "Surroundings Flowers And Events",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0h8HMgQFVgxhbmXfLq0x9K9YOiDBRbjFmhQKaE9SVhSOaAq20gU82lB12vtYmIne1drynLVLfxMgDNsReKhq-mjdQgJli0FN9TAmuv2LRViGREg9lktYvSyfvAqAawgL7vU8Xm8h99zLSPLtTxXo9RIQCzDcue3WS99PpWSOwULytRoUOVT9yuQImTtEckXyy5dSpsgzfN0",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJcyVMt2v2wokRfjvDELs1g3c",
+         "price_level" : 4,
+         "reference" : "CpQBgQAAAB-plROB-iRhG5dPuAgL5wNPkaRFgY4YRzq7BD793Odm3P2QJMriWnmXlThCDm6vFwlmwjb9fbZiNjEX2zqJbHfc-nYaR7FfBoTjBAuy3nnOq0BnPMopBTawnVuto3ElYNLyU7sOE5auAeyBZwsnds2ISLNC89D5PXQt-5GeKouFd1q2J_w9y-g6jOx4HutnKhIQ28Hxcy7xyhrLD0XxTkSbhhoU40gBkvUCFed7p-G0qGqUBkPdvFc",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "establishment" ],
+         "vicinity" : "1351 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813734,
+               "lng" : -73.95632000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7d0fd57172ccdda6a6ca2e2a140596660b4a2617",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 792,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFQpDtQQ5HRwLLMyLT5rqMHsufUWoP2anV8WAMgnQaXFP9HujGIELHKlOYy6UajLpAPuSgDycCxvgbExGgPr_4lYR6A_v_T8akC8DwrSUlhgwH_Dweg2oQ1dSlN2f-OKN0c5Mw3yHiLQZ23jj0rvLNxIQztMTRBDQyAQjK8KSfg-YUhoUnbLr4ypqkxq64AzdHXxnceQaWoc",
+               "width" : 792
+            }
+         ],
+         "place_id" : "ChIJ3XbBsWv2wokRQ1gBCiJQt1I",
+         "price_level" : 1,
+         "reference" : "CnRwAAAAhLdQCqmT4KvDoA0rytLKC0nkFs7_32H6w4rpsr-c2eFNse-KQQe7xY8ngKpctXbgIpPD3rrkcu4q2fVFoSKHX55BwnOfdYGZBd9KRcZv4OhIXuayvDj5Ca2BNolrLfaICzt8_w5h-dzgECdOu7mi-BIQFlA6MJDmL-jn8aoKX2wL0BoUXgcJgv60bT_-Hn8UZmBz4aC35LU",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1342 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81368,
+               "lng" : -73.955761
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "722091b69ed805025a7e615ad50e2717cf82a8f8",
+         "name" : "Jimbo`s Hamburger Palace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcR1yh68L1lMS0WAnynbNCGC3gPiTYWbMoeLnl3g5H2tKLJWlNYVSeuPd4Qk13CsVAofiGNFjXz4prbNv7nssE4s0JCOPCUcPnSJwygSW-fnVcSnYSSmmWY7Jz45HOay8zRWF6CNf4Osexlwwxdf5WRIQyxYPQ6bROSz17wTUZ0StxBoU7xOWcFUIs7x1Wall1F3HM1hGk4s",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJUXZxsGv2wokRuHbjG_4-oPs",
+         "rating" : 4.2,
+         "reference" : "CoQBewAAALBmky96jFm3H9bAZl1LyLAHRjh3V2qToWYiwMmVhBnTn_vlJ89t0aNC7A0bBayk5YHsRswLab4t1ZWLcWJED-Gc0pPYZkkLqC5U_MGiVx_6Co-jkp9aWWVcna7MkFAWc8MPTp5vzZASNf76XLFYWFnWHAvXTS21Dx2vWnmYmrB1EhCRCWmfhCb7JULghBmaNMYeGhRfoCl-y9SZ288vT4DAGpoRyCSxTA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "1345 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81245,
+               "lng" : -73.95728200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1b82366d315290b848bac2641c8d9ed8a56d8f0d",
+         "name" : "Met Food",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVWuk5Gr2wokRqvu2Zr5J_iY",
+         "rating" : 3.8,
+         "reference" : "CnRqAAAAG65Ipjg-Aetfi0jKAGM730d9apFjdlp_q9Ercm0U53fJSbL9MxQ-deBzReSTq3rLLhLzhtzQZACbB8ARLq5bZWDvVLBW7HbuYy-PZG_3m6ajOpC7EINn54JET3ouHzsDx5MDAw0EF5hq3t-C2Fpr4xIQDIrr23ro0soK306QwqVlqRoUYu6B-DaugsrhYNu7BoHGAmxy3MQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1316 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815076,
+               "lng" : -73.954758
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3119c04777b3a5978730de915d6b42468b1710e3",
+         "name" : "The Urban Assembly School for the Performing Arts",
+         "place_id" : "ChIJGVvw4Gv2wokR775entvar3M",
+         "reference" : "CqQBlAAAAECsyzB1t6nK3ESIVi3eutuDZj8HASZaZVmpMmmM3HhTYIohSaumn7k_mIR1tlEUYpMhrmNE2nd6smpnZczeHcRm-LPcS2yD8dSOM-AtGDnc173xud5-ywAccCFiCsxYlFa-L1YWd4gOkvno6fLFxlS-vsF8jOVJQxAyY-KDrRBKOOXP2yQJaq37rvuvdq62cBFa3FefdVjQLCjuI5Nfc6MSEPl623iqUDlx1SRpJ882g_AaFIWEg24vYLrToPqI2pVYuvCbnSA8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "509 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815118,
+               "lng" : -73.95478799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "355362869569a53217335e9b985b446517be28f0",
+         "name" : "Renaissance Leadership Academy",
+         "place_id" : "ChIJGVvw4Gv2wokR6S4uvhTEIbg",
+         "reference" : "CpQBgQAAAAFTpC3GorVMdELp1STPJnH4eiis86FEjDXRb8CVizTZeElcAXsoF0qqslYjiLs00rMjsV5pZgrTEb0J4n81naIw5jxbdCqN2GfcOOJSg2Ne1RTxGURr1uHjJ3FgAj6Gs43sMjdtM-I0LIvcyB2SqsoPjLasRSPyxQZBpMKpwbZnbdRtCq8d3OG8oU0evhMRtxIQK-5TdhVjzDnFQGVVpMI4qBoU2cwu6PPS3uRjLs_j2LLbgcZn0uM",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "509 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814693,
+               "lng" : -73.95704000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d920d05048809623a48077f8d153a754b72a70e0",
+         "name" : "Franklin & Lennon Paint Co",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 133,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwACvxPf0t6FrVkDy8NXrCFFJA3HmADcgVQOEVp-qcMonJstPySeona-UcbnyecKXWgGl5crrxnzmx7Vh1FT6XrByYdsA4OJKOYgzxB2JJRZwQBW2m5lhFWvGSs1frrbwQ6Dnp2XcKQ98PLmcmLcLURIQnXSFZoKsJ-SAB4a11lHISxoU4VNZRCO4-iiyz9l7l0Gox0cNJ40",
+               "width" : 189
+            }
+         ],
+         "place_id" : "ChIJlyQjN2r2wokRvHbEqpyaI_o",
+         "reference" : "CoQBfQAAACohV-4PGESLWwREfnxP54wW8KFgOUvfxVO-5TiGd9qJLgZQFJHur0wWjLwJyXDXZRmxyW9JKhda62qwYQT42H-QhTnpZgSIteJaknmcWKGwWZP_YXF2kHRqLLoQ9zeOBuMBxUFYFiyh15wA2MLh8A1jVyhYhQlTYNsoK1YjFlrzEhBo9HlBybUicVhZy85PF9CAGhTzl_mfvAMb7nxiGwEnhXLIWm98cw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "537 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813933,
+               "lng" : -73.9564
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "18c918202bd9675054f648299b81e82f2c4ae059",
+         "name" : "Luis Furniture",
+         "place_id" : "ChIJlfU4s2v2wokRq4ipvHy2FjA",
+         "reference" : "CnRwAAAABldHulsgFGb-9XV-VGTnF7XG4O8EO9x13rvZIR60F7Sv59DekxZvRR8eXYxrs7c8Br5icRBXJngUMv-kM1ScUxwAZjGjq_R-Zt8YzasZLQZVPIePgF_LDCf1otkoeMhdWHRo0RF4kMkjnP3LUOAVSBIQN5Jjw_wOIWgUFuzhL9BEFxoU2ilPIEtCZUA5rmMmQzccGx_aphw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "509 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814692,
+               "lng" : -73.956643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "e7a57d42a40b3cfa3cda5d785c87735b97a72312",
+         "name" : "New York City Police Department: 26th Precinct",
+         "photos" : [
+            {
+               "height" : 550,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBkgAAAAqZQKUPsAbS1AK4vmtmwNS6C-kH-pS3Lx5diGwGJRmu8vSEbIBQCepeg_bIiL0J2W6mdCUGW8O9b7qIywUR5zbG7X4NFx9gIDniThLTZ7K6hT-X7gL6PTBvWcojDHtIJ1KNA6cJ55xdCBeiOTFgk2_WjiGQExBHvVTxHFXXDQa9fDZT8terDB2P9f_DGh1kVLAAPH6h66iEJPe1aIJf2CISEMXkmwuG0LlLHek6tedeVC0aFBLgEO70Cz7uddGDnlVLxSOr4ndE",
+               "width" : 550
+            }
+         ],
+         "place_id" : "ChIJ35erzWv2wokRKdFXUqQ3YYk",
+         "reference" : "CqQBkgAAACds8CQ9pxVy8EyjfgYPrVVPUfPk0_ZRM143haaHW9PZ0HsMBLRguoWfp96wB7DgylMtbqKJkGHVsqwIrdG5IX3yJrnOPuwT4R3jI-0hmOb9G66VGyrw9tgoKWAndb4-0T0Nq3MxSQBiuPHUCEzl48hH6siIydRGN_H0b29nVKG0gN_RBNfnIPYmZNxKW4qihCJLfrkS8O94jmfXrqXT8V0SEH_JL5UguQPQ9ti21l2QUV8aFLP7idC0rS_TPOAc9Nee8NQhuu6r",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "520 West 126th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81418,
+               "lng" : -73.95662799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b30223e5be87230fce5589b579df0311b08be1a6",
+         "name" : "Antioch Baptist Church",
+         "place_id" : "ChIJf1FqS2r2wokRfqy8sfsQmd0",
+         "rating" : 4.6,
+         "reference" : "CoQBeQAAACA1LECUow0K-FR6OqWV673l4x9GGp69cU6vKFQYygFlCYvN-a8eue87fBE19oehMU7kXpKzjgFUXitU40BPXK5UhkLUd-qupNxvsVDcUvbl5GjaqqGo5fg0MnKz9K95alaOuiOK8KvRnKe5YEXCHvK2ll-eOWfVcqkgFa_tkvA4EhA2tJEWDlgtjOs8BvozNSreGhTF09QX8vkqdMMca8c9xp_HC-1mMw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "515 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813435,
+               "lng" : -73.954295
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21b1dfcef7cfb3834a02dba90fbb1079c48a23d0",
+         "name" : "Peter L Gluck & Partners",
+         "place_id" : "ChIJ-fnCj2v2wokR5SsKUSKj4nU",
+         "reference" : "CoQBegAAAFbXzPlB_lTXBNKQDlcF1PxeAGmbjy385WIupnMuiHhXjELfdvEmMYB2jtJmnY68sj3gw2lqyaUoehZ6woWJ6ZLeSyYU7PLNU4Z1oKhaMWyzWrMP73NFf2xZffVEk8dOgH8mreS_9FOkcoJ0RO-2otMyYCxfsQ9mybVFCV7Ni0JoEhCTheht0tDCe-vttYmRj2tqGhQTO-aiVFdoSedN3N9ZdKrvWCeQnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "423 West 127th Street #6, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813901,
+               "lng" : -73.956214
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "39ee8dee39b42bf747644d981a8498bf57bed95d",
+         "name" : "Jesus Taco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0bWadwKQ1PIgKFrKGCy7sQ_nxptuop13vznnYifVfL2o4a4ZcFubwTILnD9H_qkmog-w3vfnJTlT4IHs7ZREPdoQZm8kwzfFfr4jS1ff3ZE0i1O9pdczmdoH3UZlkK-1Bwpl91EkZPyZLHuG8f2fOhIQzfhdJCveFGYomfhQ2gWGJxoUtW64W9nSflRYlGasrWFgxzBl0T0",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJjwJGsWv2wokRoLLH4TXbZqU",
+         "rating" : 3.2,
+         "reference" : "CnRtAAAAL7wSc8Z65DbJZyIeb9y_dTLZlFZqjG9aaolPswoclnMJ85yeE53BK8mR7oj7LhdxtjnZgiq03e69RsVmXPRbBi92j8XyNN4HVWZu2OpImxJmHL10hN81luQ0zrP0-6d0ffjAvbAekaEjHGp4XgCe1BIQ_U56fOXdFO5XZCEAWDuHahoUWu6ZYT4qYnildxYgGVK2WD0_bDA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1346 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814208,
+               "lng" : -73.95530100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+         "id" : "01453c80130386e64cca73ef771f3e445819af7e",
+         "name" : "State Supply Equipment & Props, Inc.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJIWljx2v2wokRVNmqFT8LYoA",
+         "reference" : "CpQBhwAAANfrKUZm1G-V5BDPDXWGPpZ_nKyeaakzt4wKUtSC9ZakrJoFh5iSCYdAqeiKct0sJo-IW1IXUfyQfuRdGxSsV57dhmaraZb6fByyq-oyUO7-693blMUbX3U-ZRJPTduTI892s2HyPqWg6z0-gRxOY5k3jb401TqU1PAyH7F8aTg2cwGH-83kpkZusOH9zWWnoBIQZMwazR3hafr1D9nW9J3xNRoUM6ypWqVtJ-_iSIIl5Fl8af7xtw4",
+         "scope" : "GOOGLE",
+         "types" : [ "hardware_store", "store", "establishment" ],
+         "vicinity" : "1361 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814751,
+               "lng" : -73.95713499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b9398aeebd6798313e40e179b96321ea2d1c6551",
+         "name" : "Manhattan Pentecostal Church",
+         "place_id" : "ChIJB1i0MGr2wokRc3zBrV2oHXI",
+         "reference" : "CoQBfgAAAOwSW-ShEEd0Fpqr_TvPeESrzZKetpNPgzuQD9yjAQQi_z8u2lysVo1fz-EefmWyGDjpkDmbi_QrSC1vP91BpX67OEeDYq-HBdW8XTTwMW04fA2hwy4LLosX7Blp1N26F1XWeUowRLHpPDpBsOXijv97DaPbFtvjf_ody83Kp_OBEhBsOEYqSnZMt9rML09DnJ2wGhSrGyKHODtxGK2iB3LKNHfLyBwhyg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "541 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81397,
+               "lng" : -73.956489
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e82b1c7e2260507000bd07c65835c3a2b656a719",
+         "name" : "El Tina",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA55l7sBXgQZ3DkSzV4ReT5Qu9jxRgKlTEXLn76UXy6LT86B4mjJBvwMnxbn1zGaQd024yXsK8e9Lb_eEqruHZyq1angXXgVKxddoaB2iGNGirX7S_8oEgmHu1F0mfY-tAPNen3rt_Rfgew41qaK4GSRIQamWFmGnQQrmeN2-j8vc7TxoUVhuJIqUeDoxddIuizqu7JGZIpGg",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJMRtWS2r2wokRu_wtCMfge6Y",
+         "price_level" : 2,
+         "reference" : "CnRqAAAAl3mXm5TeQ1rK9pW1mqLOC4fIYOcjQBG4BGYQaItzXCDTnVqZDltfyCPhI-c_4xMYAer7xIjLCOj7L4zIF3rlKBv425Cv6SXtiXEiS5Iv_d-CAlK32NkrczKJIVX2LiVktzb4lpVJIbXotDLkQ0RSiBIQ-YFlJmino2xNHmNB7geythoUgbFu4YLwu66Dgu5H-0GH7McvVtI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "511 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAFlFTMPRvNgXe5A_NqcZSx_thjkwY5o1-AuCAcEWb_RTV7fQNuZsXQ5Sq9zfxdTgOLlJPshU9oZMA7VjODhDqCn3u13HZgqxwkc9dLCxGxRMH1aqR5OnG-QUEJWbAa8yekPH4d9vYDhTRdZP8UZdNXlS4Z0AaQCSqRd-gEwefmZxNr351pGvI-jU84JO34GXhxIQy5HXmShRVNtxjBfGhoutTBoUa87KM_-Ptc5oDnHLFiLkoOMtzcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

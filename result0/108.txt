@@ -1,0 +1,169 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70255299999999,
+               "lng" : -73.981086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7059655,
+                  "lng" : -73.97909299999999
+               },
+               "southwest" : {
+                  "lat" : 40.7013741,
+                  "lng" : -73.98470159999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7a930f699e7b8adb3e02870ad9eebf412f023e3e",
+         "name" : "Vinegar Hill",
+         "place_id" : "ChIJN64bRjZawokRMuZG_yF_hJE",
+         "reference" : "CqQBkQAAAIl2VtjOIzuN_Lc2OgSoqHBRKjp6Uw4ciIzoxubzohNMrsR9R6_HkmL03kGGYB9LT66dZ5prZcOrwht9QQgsqPEj3AWBZQpOSOU6ZqA8klN3MUZTf2WyEDneJodPi_0uq-iigFKF8E4dUU3170pdwlTE4CQDyyon5ZNLsH3bF6b5jE1IeRmgF539KLBqVeb3X3oIqb0rxMfSqYmQQszih_YSEEMIR-Al1xbRSiZ1ZNCE5osaFHNX76o9AJXmtbQ2Iz8FNIrKjKMJ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70275,
+               "lng" : -73.98126499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3dc28709fb4d74e7dee5ef1493e4547284b131e8",
+         "name" : "Vinegar Hill House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAANyV25hFA3c5z0z88N2O4ae6rM2QcOSCegOQzMJW97L78PF74sNI1oGNW9zpIP9XqsuO56y2_8Gc5SAhQ3J4lmOsrk3cZjVts6F-a-dB-lCd1FBxt_Skpn7lVHqv0UOU2KYec6QTJ-iyDfUpO93hLmxIQaRUbTDiNZiJvNws0CQ1pwhoUXlX0b-5Ts-tFNxOKH7_y-1H1n58",
+               "width" : 1160
+            }
+         ],
+         "place_id" : "ChIJ1xNe4cxbwokRnDw-6Rvhxng",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CoQBcwAAACk9ibEB0IOS7P_gy6inC74iy3Jyh5vy0wQ-q7R_AW4b3UG4Bp3DaVnstPhxoEcz6pXbUYm8LefyivrQt-ssSMoc4jQjDPUQz61ozaA1Fs8CHsuN7Cz2t9ukWI496bG4Px6XcaNpH9kDmmUEqCFGRP_theMYpPg_0XOclMuINx6EEhCDE3pu7dEqrEWGVxk6wiukGhT8FeX8yyZX4QhlwkBytEkViCm73w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "72 Hudson Avenue, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704176,
+               "lng" : -73.98182
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9681530228ebda4866783bed62530ee1c79c8584",
+         "name" : "Tuck-It-Away Self-Storage",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFwbJQNePtV5T2sqZbvkHu7wKDjA9Lt2zSrfM_sfISUi_f0By3WZNfHcScjH9VMV15ZkJxVOxnxHkA9yoXtL5AmN1DXUJ0loMitok5DdTJmIr0d8LO_gukabsynoYSjDh0DRv0Gt_nYi2jRo2njlSZxIQ2z1h_pqGoFSBpywz0igvrRoUuGMHvHshLuZkFM_kA927MzAlLQ8",
+               "width" : 580
+            }
+         ],
+         "place_id" : "ChIJsVT0Ps1bwokRxXJMelqRlLs",
+         "reference" : "CoQBewAAAFxO3vCB3mF1r8xL8xTeTms2eeQ52-Ly0dgH07dWcwvbWoe1itKACAc8giD3lr1GAhDxrkl0-h4eEZSjiCdICEjrvftbHZaD3ZPF--pF0AA9VBZMOOSCNoMwdN5k1quExeP30L9Ev1Kj4fulk6B3KA7iVoF8ph05wkKKLlhvIqnkEhA2iK33Eqcu0Ulpy7jdFGC8GhS9ZwAsFyaiX9XYIK1xSieP27IzLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "storage", "establishment" ],
+         "vicinity" : "160 John Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702824,
+               "lng" : -73.981267
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2b2c3e8477d35c1ebd0966aa1a0ec6d95c2fd73",
+         "name" : "Hillside",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAy_yI1Nz7XaLG-Ccgb_3jMKGiJWB88r6ybzNl-fzAnyJ8i2G0ClLsp0mx0r7_XheCKtN3s_ziiDgwpzSXHE4bW8fSBYkYUeiCvkTmbkZqvqL16fgJQh2THlQ405h67Qt0PzuP93u5t746XFdEkw4-QRIQTqjK5j_ytKUtKzddJIsKRBoUGx2m3uFYYnFJo7dvBiSXQMzRHJU",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJlb4W4cxbwokRxzasWo3uLPM",
+         "price_level" : 1,
+         "reference" : "CnRqAAAAGdhNOPBtPX77XVuoCxps-KOLtb45DINQFZFD8Gyb3rPqAxpAPY5TDovA0NOLd1GSeX2KMS5xZsPpxYwrqMv5vmej98-5mzrgeZ78VApR1ER6x-J7LsEGRDqRNCxquE5uniXU80sSWoLP44z3lAyvKBIQwW-ZMiQTdYuENn_BNGvfXBoU_1vII-DFLCYz5ZsKYvhmW42iD3M",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "70 Hudson Avenue, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703189,
+               "lng" : -73.98307200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9b19ff42d8f852c36eadd4be4abdb9b39da1aa1",
+         "name" : "Damascus Bakery, Inc.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 380,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAspYEoJKkvmVhZRdaCbHcvzC38CAt0msK_RQQ541PRg7sWKa2PE9kN86KQWkkk7HkGZRgqgBpo25Bpr2Azjx-OQw1oRXdbuT0Sz6GRINTz2Ak8jfhPXd_QLyGN5nLsXUFzFCErVErv5_iWXx4b3mAixIQKlqx8ciTb8Rnt9D8ytW6jhoU1l38i3RDhcPD8caM4sYtsxN0GWI",
+               "width" : 570
+            }
+         ],
+         "place_id" : "ChIJ6YmjKjNawokRsWDItLoxKig",
+         "reference" : "CoQBdgAAAJq8JVgnGMxZZHiNevAm7LSGp45mmosjfQaXC-7-7mqcIDafP_8lByPssKi7-25wN0cFE7BtzQzI7RB2X8O75Hum0_mQWYFrGHZMHJy309S3CrNCeT2aGr_OyEXzhGEqFpqh1KiTOWJgAc8gjs2l-3ImVjFb2y3mkI74k950UoGrEhBssAcPt-Al_hQpsUfCjqjPGhRktSUNkG4ktnslxZ08BAIX8hns8A",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "56 Gold Street, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBhwAAAFviAiMvO3PTKBsmxkEau-dcDlMAaxRW7_Fu7nkrbv8iXeFZ_9ZEIDZmedJOl15OYGX2hnWiX_mIuydqWeNMQORV-m3AUPCsIP9Am4S3HtnkEzlprMy9RxNCx3_BxFi7TWgrAZgpwdb5QOw1kZUHqqj6tHmwCS068JR7Vw5tvLA8QiBM2L4_wR6oEXmpNuAlYhIQ1Ffz8xMygZ-G8aQW8nunLhoUkqspmAp8mYfpnvU_SKDvCY-e8pI",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

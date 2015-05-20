@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8648819,
+               "lng" : -73.8962994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.873478,
+                  "lng" : -73.8800049
+               },
+               "southwest" : {
+                  "lat" : 40.8569791,
+                  "lng" : -73.9141048
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "5e4e69b90b09127b993e8c261cd889a7a57bd3db",
+         "name" : "Fordham Manor",
+         "place_id" : "ChIJEYX0jYbzwokR5oMRnGwy3Lg",
+         "reference" : "CpQBiQAAANTLCk8pfrxZBTW91AvhtSJ9nxmqP4IT8ooRCCpPemuwr0_cyFerNWe0U3yNFHYGR71st8YxpXjT4H2D3fCE5uO-s_ZPhWfLAXacWdRkjpdbchbz7-XJRNZE-u1fNwBAjwUcyAJHGFH-vhVOSLqYcaTgLroWaD_mc2gh2VHlfx1XOTnOu6T1jnPfl-u2WDE5VBIQG5G1WOr0_mpU2SSECReDwBoUpFKthD5X1AXlzHWPJYR-R6tHIoc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8677145,
+               "lng" : -73.9212019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.877591,
+                  "lng" : -73.9104948
+               },
+               "southwest" : {
+                  "lat" : 40.8557032,
+                  "lng" : -73.932667
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a0b5d93daa18eed40568c69701619f7dd72c0b6c",
+         "name" : "Inwood",
+         "place_id" : "ChIJd6eiHvfzwokRHALd9SLBP0c",
+         "reference" : "CpQBhQAAANQE8bn07f9xuoYqTNobIvj4Vrkaj7cak0fhc7g_6ZQLXrKNZDkUPvtS6mzaS0yIqwRN3YITBPCZ-V7WsE_tc3KTXQnEYp1jkFsYNwenCZllwJNMOGch9eV_A65ZAFu1BUIqUm31cHs3bn73xOgONYNyEpzpPDSWzHxBjh3xoU1SIhwD6Bh4f6eMSLDhEG-MTxIQ8VKrwPkIEIgpp2mEWHrnzxoUySiK-4KPXV3UyGPqP3iXR6wkG-E",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

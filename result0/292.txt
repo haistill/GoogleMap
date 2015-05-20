@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjgAAAIk8JjfbfxYQgBxlc56rppa989ujkT5rFrQ5PNhaglk3ngaq5ZMUPGgWM0_T6lnAK7Lb9OHJZmcmRAwxnEUsLBa0YFt3dwyFEFCvyyP8FWp12N6V1up39bsf02Y52nfadhrjm5lxSJT88fyl-oWkIb07FRwK0gKMs5Li2Y5knAb5TXqF3hEAuqNC0tA0IMpptxIQerc9sX1WoV2R8tW_IbFz8RoU2dyyVwVjH4GPOzNHfTWW20AiOAs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.712787,
+               "lng" : -73.97613
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cee62f05ad7e16d8caabfe35e7a2ba98fd6b5d0e",
+         "name" : "Lower East Side Ecology Center",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuu5sMHYo4FLrTpaVuPo1X_SNjLSK3MVKNsKrRWUB2usXuPC4HOXZzQFAxzrjZZuh0meVvJ3Rh5BH7NDmOG16GjzuHYNWb7xExhs7kHIF7t7U5f4UMlJqFDJlDVpouL5Tw1Gtx6dEu4goGeHMsPKChhIQo8lnbkUqy6L4AZF6Fze8BRoUb6bk6MEPqDN3NHTxr7vc2G5RP4g",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJY5kWeClawokR-KEUvP1lnoE",
+         "reference" : "CpQBgQAAAGIkEhb__2t53cmVm8eOSzLRP5CTHTTyHOlBb2ELZ1VEj7n2DCFEkkXVI4RoF9qfWgTJLovp-PLe8cmJulsV7TutPByNxLGrQEpVV8V_rVCqmvlvAPripE0SOKlh9eMONVl7J8pRiH2fIRnpikOAcgKkiSw8QZH_2F96rVoxk6xCCmwFsiRALp6cS2PCznb-DRIQLzccDp01PNKpI75k-GT6FRoUTSlMEibIcJ4krJ5joOrdYofqMSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "East River Park Promenade, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAEeWjX23hx7n07rjAczqXUpWub2xshe1BL-1GWEjqLRNY2_89ulkNjBeryukcIgHliFcUoyUc6c-YOGny64NX9r_fBO6NM2zYoUcQRVPwumlvk_YJpnB4Cl5fmqrfiAnp8lJgcnDAaFeiw8yFbxP5HKoQgZ5v0y0piSkiPbglMN9RDs2_lkYlkqOI3YBu2pwbBIQWlKN0akbDbCGOTQ6ZW5uwBoU5ebyUhfkmsFvjTeU-yOS3Tj2-XA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

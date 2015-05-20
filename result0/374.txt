@@ -1,0 +1,276 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjQAAAM9z0t5cxQ-2yydDUb4dVQwSdEXaMim-86fCzvr8lnI3ZQu2Y_GDAwhf27rCxFzRP3ODrR2yjijNLbo8eXnRDRnhnYrRlFP1xfEWl3dkl0vqUOzraDzyPNhAxBCYTxdXG-xkL87E2X_cVdQfOjYqK9FcFxHj2Dcc4cMrwf9DTSdv6c_RT67oL7ndOvu7KxMHixIQNN3FS3gorl_Hj99LoPueURoUWCU9nk0YAPQQgsY8wVl7NQdHCHM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716254,
+               "lng" : -73.97932900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "901ab257cb2e174ce2944d8bcd23e5cfd4663b60",
+         "name" : "NYC Housing Baruch Houses",
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfQAAADa52xQXff1yxahIleooAbQ1IA0fjBOx1jDh7iTZDfvia58FJN9bFBO_ZsCK4u1nFDyG80-CwEH7YRET_rJ9QB-dSXKwCEm1r11gCgNo3i4yyq7fs-MT28n7H8fTkx5kZpivl1cATZkMpTaqBlMVhDRcEzUp5TC3XNwtRvDfqM1eEhCT5lyX1lwtcwZ2f6LDRkgDGhRG5OeN8RVF6VQTx5YQcwjp5f0SNA",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJMf-6OX5ZwokRZxJQ08X-g9g",
+         "reference" : "CoQBewAAAAgKV6aKDYrFMmej5QksXq-LetIJPDuBHDEjKhxt1K4QuZ0plai925pzoiv5A1-Puj7Gzo-kBkfq5-I6pweIJnrTwU7NV-BhkFqOB2i0n7IXZufJTsmjxhI7CncEUwzzn_bAnUI-Bxkpk9D3ajAP48jjUAP_5aPBEWj0-XE6Ot-OEhCtdbT4HD-xq9bXP56Zr-tLGhQOFXUeuisBrmSzbBckXIrtWbO4BQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "300 Delancey Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717986,
+               "lng" : -73.982219
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd2be131d20cb5be734469e02bda3e0eb31d3b04",
+         "name" : "Samuel Gompers Houses",
+         "place_id" : "ChIJxR8ZeX9ZwokRRJaJabUaGEo",
+         "reference" : "CoQBdgAAAEfmU_Jhn6tpQwJxUIaLYV2v41_LxEKm0ZNLN4x4IKPHAKC3xBiWZCFsio83DThzgyd6YucopTTiQbP1xDOUzT4OAUAf-st01F6-IGQPxoW_Y2nR0-SoPWEtDT2UI5hhg_Lju5rLD1rpC4wDiXWNsRwHv6ClFp4gv1Ay9iAFYvmAEhAiY-0bUlFCXtsXt1ceGXdsGhSMP0QrcO_gl__4SyH1-srsK9vgGw",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "70 Pitt Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718285,
+               "lng" : -73.981966
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "86bf1ed3ef110a92af124b1ec4fcc0fdc4a22fec",
+         "name" : "Grand Street Settlement",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJifM1en9ZwokRoxS0ZUQChTA",
+         "reference" : "CoQBeAAAAFxmIr6L_CBq21MSYFmwR12G1nbKqUeIMWuxWV3jHoFAgOm3wfSiMaIIh_JFWj-vfOKPoW-H9aNH26TRgQsSlnpv7elEpS7qMHcT21_vbHhqc0ZdqQ7sRUeKAdq5U469yhLDxFHa0pDDnk6GGiUOGveUI3FOWEE2t4hOcYfB31czEhDQPkbzBIyg4aL8Pe1P-nKTGhQUYoWMsh9l-pXerVk_1gFYa5I7TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "80 Pitt Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715154,
+               "lng" : -73.98288700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d7c6950a2f9dfe73115459d7e2de1070213f5678",
+         "name" : "CVS Pharmacy - Photo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 86,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAcXaKYHWx9azLwBh8QkrFObFSToC8gUrWahXr4HzrCYmAJHm_Df8AfUwkh2Kf8CM-QFqi_YQLInOZxh5e7BP6l51b6dSTT75R0AqnOE6atZGL5v032hGrWBmMivXqwmsinjzOzLnBqA9K7SwXEULejBIQteSBTRasfflAc_yGgNLgWhoU-dARw2qLeYJOO9LolX9HPd7jSTg",
+               "width" : 87
+            }
+         ],
+         "place_id" : "ChIJzYPwsSpawokR460MdpQhHrk",
+         "rating" : 3.3,
+         "reference" : "CoQBdgAAACoEUqMdfInc0ndyoMl0Y9biAmXVbfEloMQ8lZKQvgZr5RGM6gzV6XIVc2GncgUXi4SNOT7TrwjRg5YaGLY99K9NH18RHfz6gdbns80aWCYfIQHSQ4cBYdokvM7qYLeBqy0hwirvDcjWOHS5f8bfDVc8lT9tcHaGtnLe2RPEzAb0EhDuuvDRyJ4zVevnb9arfF2nGhQtDbZORsaykeAqipZkIEbv7cC2VA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "500 Grand Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717105,
+               "lng" : -73.980445
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "73b49d445d41886ae37f374c7be1579df50d0e93",
+         "name" : "Key Food Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_zcKuFqFYLPAGcbcHtcKSAi5_J33d59wHdprOMsDWOz-ZY3vPijlKIVzsGgBiw2sTa6lVKjcbVbVcbBNbkEKiD0Ow49YTWRGVrM8K-ZDiZoV2gECBIhABYJkrY-kiYsDfMqY6PlUxpxYJG1GpKVcCBIQ6ijYmgnvx4T63yUkrwylRxoUGjN46JdootvqN6Jhs688rHN8OV4",
+               "width" : 488
+            }
+         ],
+         "place_id" : "ChIJNejms39ZwokRqv5JQZQqPn4",
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAAD3cf65nGo5SOH2S_rNRodWoBDUtHRZ3rx9ojGBpM_aT64TcIPvQSKEF8u0RGT-T5mRTqrEgxQ4cQw2RqxBAJ3b6Q808aiNha82U6E3L2qmdQYcVRcm-Hh6hNwdGeEo7kJ0A2IQxtsU_WvSXI0KqVENYntdbw8h4eQjldh4jEQ_xEhDU8xydFr4DKcYqBwLehJI3GhRz6HnUrRA0wh_UCN7pR4FHoWB5Jw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "43 Columbia Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715366,
+               "lng" : -73.980091
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3409772a06e8d2959374392462ad5aef626d33e",
+         "name" : "PS 110 Florence Nightingale School",
+         "place_id" : "ChIJQTEDK35ZwokRu0mrRbgAK8E",
+         "reference" : "CpQBhAAAAGNbuP3h4rAmejP-Vl3lCqEer5MAaFWO5lXZuKfesugavaGwcyr2T7-vi647EhXloO3qAnpAV9qqoPj3c7QiI2_H3zccQSm7YIJUzJliUXj4vPOa-ty3m_U2OVmQsk8Oaz_RITTiWrFbKfyoVsAd3S-H87FOdAu9Uxlh-ajPPKaSK-Zf92nfrZ_f3eYJbVhX0BIQA108uDqEZcoPI3xYyGYlSRoU-Td3Lw3SMVBub90cz1fut7J9rY0",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "285 Delancey Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716111,
+               "lng" : -73.979264
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "55dcd8a205187ae2ff2eec1f9014a3abe481c9db",
+         "name" : "Grand Street Settlement",
+         "place_id" : "ChIJa-xeNn5ZwokRj0goXtaQj4A",
+         "reference" : "CoQBeQAAAM7VAV9KJLPZT15Af8UetFTfbWBMezMXMwDfyS5VZXk_npT1krxLowVb0E2fYqqUh9VdukkAD6MoQSp19E0Yhy1OZVQSZpoS_IU9AKsLxa_i_r_Qv5Ktbmg3vg08t_P3QsGpU_ASXsXdLbtDW9by9mcqeY35l_N7KGoKCXcEfUVfEhDWXh_aHGiECxZCo8hpIiMeGhQetQTjSJOWpf4Cxp6_r7zkPwFwsw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "300 Delancey Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715138,
+               "lng" : -73.982097
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "43216cd9ec6992da55368fa259fee2c65f397918",
+         "name" : "Moishes Bakery",
+         "place_id" : "ChIJ28PzT9VbwokRqvnt1PLoa8s",
+         "reference" : "CnRwAAAAGeMvtAsnf9AfG7Snbj_87Ug-OzUUcE_9WQCnxonvrpeZpcyDpbba1IFXjivsQlxua1pVvUyRB8jM0Sj-BO1hGbqm6MSgZ19tkfifFrh-ZXzkfn6a1RzddeGA1fttwrEJLJcdDjnJc3VE-i3uuHAAqhIQk-xP48cKWasiNr_hU3A8vhoU7HuW-84tZ5URx4vvUiqd4CSbyzk",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "504 Grand Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717404,
+               "lng" : -73.980237
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab7e3ba819e32723d445020c1ff416ee3861761c",
+         "name" : "East Houston Bake Shoppe",
+         "place_id" : "ChIJu5pPq39ZwokRLenEKd2eFf8",
+         "reference" : "CoQBegAAAFhbBO07VAL7KTqC7YwV69628hA1JXfi5yearjmeg_1iGe1oCZOEiq8iYOwz27cBF942xa7bsLDNoi7zN_Jlsvv4E7kumEGt1vtReADLaVZrdGFz3wOsFlWwKbRMEI0AiV0W6MFF4Ho1IXAVQdOfEJCIUgYM88SMoe2HjdzZt1jkEhDT5aBNpvBMjkFwg7O5G72pGhQHXdV14PkeMTAwtTBvfLEkr9IWHw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "71 Columbia Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718527,
+               "lng" : -73.982553
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1e428770469da555f34b8d30817bd9c01271d228",
+         "name" : "Mini Munchies Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKdYih8XNelMrfWf2h7C8vuufD9KiAQ6fQ87VEOP9lvR8V2Updf1OWbTYs-n_YUMbg9Z21PpfH6-ko3KzFHdO8nmx7_VMV5CmHYfjYNPm5MyFVYj_eGQAneMXj5RX0-ZmQ6jpIqrCN00mkoGEC1ugLBIQ5GPkylgFR13DqqYTurjaJxoUl8jrD9egkUy0IfvLsCKR1kcJpCY",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJFY_NZH9ZwokRne_BXQt_kDM",
+         "rating" : 4.7,
+         "reference" : "CoQBdwAAAMkFsCV1QjlufIJL05NIOEFmRKGBxo0uY7tkNus96zJROMJUXOx0MdhwpsXJ87qFbj9GkAMCumwgzG8ctcH2qBOz3DT7NRHLyoSmgzUyw7kMmoEVyNpwdpoewFJfzVxXxtLDPSCjqX2ZsDBDR38kR4HxsHiAwsxCYQbQbW4UmyXEEhAp-dJZFCED7JTbYLpu5K8CGhSpB2cjhz3MIh329D5q1JRur90jYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "85 Pitt Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAEyngHfIAFYvDD0I4JKHjjg3uIv37QwfzvBFN7BFfph39JZ7532zCiv7KBRwudOOXNDq_SOQdktjJ2ojcfDgzCUBn277FN_xy4VCohm5N2Rdueo0XV7l9Ot8nuo0Q7zWDrpoDFWQi0vw7RA8PQoCXUyoRZ5k9PG9V5koLf7vd8xfhmCG3SIfkQGkQsKJFqy8cxIQdcXNsOKObmzHXZRTxjdmXhoUdvrv0YMhDwQdWO8VsrhNg_tgvvg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

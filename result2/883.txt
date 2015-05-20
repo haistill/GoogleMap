@@ -1,0 +1,423 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJBKZw1LGnMUDUO3OcUf2boWIzFKp1gSu62XU-OSll3Mg8CWGrcJRgKe7K7k6f2jFJpwL0FvS_gjVj8Io4uJN-PgogXV-P55KfPyZZiNXoVt_JoPxnn6I3jcr0a7E1tpGHViY7Erv7cjM5TUBEohTdt5tgd6UPi7te4qN7EdFKfKI2bSKyZfw2-ZVZOFktuwO6BIVp1TusGg0BbYnQMjyD3vtwybc_ad8ra2ST1xOxP-m8YzyE5BSPxazRcLYxxmX4queNX3JRymy9fMIdPwxjZH6cuQvocPj5wfqzo-eShRd3kfgAOnmX7Z3iBpdA7gexIQxl9pYFpDZGADmo7zx4w27RoUIS7lc_i5GFb4BLeRaxa5pf5WyYk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhgAAAEkbght9vE05Tm3TvDP2EJ5k6cuINF0bRg0BB7gEiuublC01tqrMMOZiqwLKC2Zf11ZB7hz-fn4PFPqHShdkzcWKwVpRGAa6iLcBPEnV8XpjiBem88k9Re3OpW6KIlCfiCXrOUnnLWvsStbhXCuKR5_yavpUp4GnJKq_zXU86oD3-VWosSKZby6XoaTDJrjhwBIQXx8OY8vwcvtzpEYFpQ0OHhoUMc1wAJoUx3cDs3uUYZRYXehv_Ak",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827542,
+               "lng" : -73.91896
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "92dcbdebb0aea980b0d283a0017bf0181f0b23aa",
+         "name" : "Bronx School for Law Government and Justice",
+         "place_id" : "ChIJcW4KeDP0wokRiu054-WctGo",
+         "reference" : "CpQBjAAAAEAqj4XWDiLiShjnMvqCIfz23qb0I4He7ID6FGbO8qSuoGV-NozmDb_eiCvdgJUIKoxFuwMxrTQo39emm2bmix5Ohx6qtH6JrUfMlxrRVnuakQ8hVS5byGTiTBDV4vjIS0k3xRsz-LUXm2LiMysUMMinZqehtePQEWNx8nQ3a68lMZlJ5xZVigol5JToMRpsChIQ9nDsS-mZ9DYkHXA96NEYhBoUv5ZN1_34Oo8oREoyHGic8-oxk4w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "244 East 163rd Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82627,
+               "lng" : -73.919605
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "2ad22bbe09566e377d892b9ebc80cedbdf18aefe",
+         "name" : "Bronx Supreme Criminal Court",
+         "place_id" : "ChIJj11QQDP0wokRGrW-kHWkJTY",
+         "rating" : 3.2,
+         "reference" : "CoQBfQAAAH1ApaFOHuC_RT4T9B3h2Ux7y9r-v89K1N40KfNlQc-r2muaDJhVONaCUEJwrX-v44SHv9XfZZmQ3M5vL5QjAHBB-KDbfWWJOyAMG62IA5u7BTVlMLWOIGdWTH8m9tRXJ9raHYEyUGYj353XG-HEMtwJahKGPco2G8qCxihTU54JEhByS--01EuW4dHvILS3RSMVGhTFJHsrkWIWT8HjXf0iC6ja4-eCIA",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "local_government_office", "establishment" ],
+         "vicinity" : "265 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828178,
+               "lng" : -73.917558
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "27a59181c7ba5c15f632602f7c39018897b42cfd",
+         "name" : "Bronx Early College Academy",
+         "place_id" : "ChIJcyy2DTT0wokRmaZi8XngEOA",
+         "reference" : "CoQBfQAAABZxoisnRUZeuL--9H2Tam8GhHZAS_X46uFSQ4mBcT17x_DUxMYqFt_3UKlzJGOZ_57-cOZeGZtzZb3L8A1KkTXXg43SrhVqMaUozF0VPV86t9n_RVlocj48uzjSDclJJPnXNCbG5MfActrFqUiHKAGYS8rQetowoYdqgpdqOne3EhC5u08pCPm_yLcUpu0Bf_dQGhSaIrNEQI4M-qR-QwjYywwqD5f-CQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825615,
+               "lng" : -73.921173
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "efe958682c90f6d1b17cba1b8ac63b9326d14a0f",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0XQBaSjnxB4V4FZz5fD_93B-nK-qU_ARrJlCIZwdMuIyCemGonq6RTbQzAaqIKHmnt5kMhNPgai06CSKJGWUBZTfNrMGJTTnWZiYJegpgpC5JaUW0Wrw2gGJa9BhMuR8_pWGMRb111Qppi-zYUkiChIQORhWVf9D7Pj_LN7snGch9RoUbIfNzdAtuZw8ZxgFOXlyo14DmdE",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJD4SlMjP0wokRtldi4wBMz-8",
+         "reference" : "CoQBcQAAADul7x8aBxsKn6o6dNa_vBs5Xo6f8UEqLiYJhmuUF_QnmpikGD3W9U1yoLBCngkpGeod5bvz4CHN4kN5vrZjNPY98ACgwR6Wm9RatGreGTyqYcMjrhzkkBmPSVChQzTiwdo0g6vcfevzsV40A2H7kjOzmrKzdMsnP0H1TRIom97_EhD-wDYv_99ovL7X0fG38JtxGhSvVk1ft0IiiuXqukzYMVgs0wgF-g",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "200 E. 161st St & Morris Ave., Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825361,
+               "lng" : -73.91696899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "2f0c4e71bae51b58ce4e2abf78ebd8d2bb39fdbb",
+         "name" : "Montefiore Dental",
+         "place_id" : "ChIJnRTttzT0wokRAxaxJbAo-uY",
+         "reference" : "CoQBcwAAANm5ihKjaoMxNg_B-sMm-X_35DO3VEyh-3d3fCq-WQPFLiIoHjDJVzBodwhgfo5o82KpJaDfIeBwLJJXcPEb8LYBLgRO06ntDS5eYPueK728tjj7bk6ALVUxr0aV2azj7c-0uovCXeTaz4j8XgBAD_XW_tb1uNn00J6eN0GiOGbJEhAO32OtGfPINbnPBlYIyrFcGhScjvE0czo-2yNmnd5aXqHvqE2C2A",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826592,
+               "lng" : -73.91759
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "921f9b63e9c9c195185253642aa0181844b2520a",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgd07mzT0wokRbj7SHJcF5d4",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAKZtLwUPTS3FcmrL2TXU2TrsJgxtG45i-c2gGW22lkdRmzzz2Ztg3t7kvWwQDSRJ6Z4flCuDKXU7fhgDCTY5AOp8CaAvXzoQqlvJ3eo-kDdNRRSLgcH4OQPUDsShltvQWMCripdlJcYDwfvz6C5-2OY165UHKwWi2iR_PBI9M0XqEhBXkrj-96IFXIiqwqaUEpmyGhReXTczu8EjKdt-XCwWg4_GzDbihA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "910 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826803,
+               "lng" : -73.920686
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "d049131561a9e8462e6b082d684c433c29d43086",
+         "name" : "Family Court Division",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJzSgzIDP0wokRtsiJKZIx34s",
+         "rating" : 3.3,
+         "reference" : "CoQBdwAAANd9oJ_ibsDpdT--LGpJnlTKzHfEef51_K0gdNvsyBhqu7XiRVvwXkEQQ6sdO-XWSoE7liDNR1EJCvVle_zlFgepdF2U7_jJgoWiXHXa79MeYdVbBp_DX-JcCUixMiD3haQ_jnQVDDOJbEEnBgG-yEanGvqYD9v0ZteMlImHeBgqEhAlmamt038UIn8tCRJOG1rdGhTYOlGPdlYeWlVXZ3f4TwlMPK3SpA",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "local_government_office", "establishment" ],
+         "vicinity" : "900 Sheridan Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825278,
+               "lng" : -73.91970000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "18c9ffeb647de380e1cd531b43944193b17e8e3f",
+         "name" : "Food Bazaar Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAKiGM5fWb-lUxUGVf3AYJpKCl1bCFDYRjEZgdVCuqHUxjNWaErZeRD5ZaVB98s4boGMswnZcbR5Goloblc8v0kzimIBxS65EYHqzWEA1WcTY3Pqq1TDAbhXyyWjgIRDFmf-b3gnuyoRF5gDXwetx6dvNL7yrS2GeFCOa7z5OxjRILQlwIjQGlv3K5cAFr8YIgxIQsteVL-Wv44M5JOJFE1yf_hoUuVWjiMbVYzxnEapOjDj4YmQCkT4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgfKTRjP0wokRMrMGJYuCNPI",
+         "rating" : 3.9,
+         "reference" : "CoQBeQAAAHys3AMKe3hvCwhcFhUhzWOOeM_8AlWKMHFsy_rxDLma0-1tKhsrKUNCsDRux-40yvFJPfqotIOcFd73P99UDnB9d9i3SNOno43xLFClGdXiw6zYWrZMXx9z5IUUpZvRQ6l8MqTqufMZhCnbMomI1jbgpHOp5L9JxPkZEgHY3gOhEhC-rXRF_knOtlMYp1F8wP-OGhQ60ej2JhL067KSbbSJQN2L2OE6Iw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "238 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825496,
+               "lng" : -73.916858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4f3e68374352ed1e65391ea8abd27879c0cc0d12",
+         "name" : "Comprehensive Health Care Center",
+         "place_id" : "ChIJnRTttzT0wokRH3aghDpX4kY",
+         "reference" : "CpQBgQAAAC9VkVsBdp43Iku8jbf7pNox85VbkhN22HehHqy_4bIFtwG-O9eva-uQSWL0rbqVsZNHcfa2K9ghkbMicahkD32EqVwCwh1azsZ4YozdQo_g0glgZ0Leq0_6ail9Hy7_n4EXzU64Vp5DSvALYaiyvEiBwL2Zln_QXM4-9kJ728ga4S3jdnTrLVGijMzP08-ddhIQINsoSxpOjUmTPlHemKbP_BoUjxVmiiWGSqvYEYXY__49j9d6bzA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825461,
+               "lng" : -73.921161
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3f03068b35d1a981961bb7d95f808337f5258d9d",
+         "name" : "Eye Express Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 301,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAALc-ChHKaZ9u-2Ml64NnPycKUb86TWBIwniICBmhF-oT83wuRai5G7-njv7ftb8G-Q46e-Tyn9uvxDLX_Cxkm5FkOGsQu-t6yyIH_Zin8hg4pOgo74HRo7d3NeufX-Sa69FLnLXHhagSHr83ub83mhIQ2Z_0vgblPCE7YzmUE5cJ_hoUjvudCcxTMmYgCkAum2dSYkykDgw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJA040OTP0wokRMuHgUL8MyXM",
+         "reference" : "CnRwAAAAUwUJl3N8t4TUQ8ul-p-ujpoATsN9rXcme4JlG3_Efd8c1yeRP6URYzNcbC3ggYxyKOIoAsaqgaDvxwuX73_29voaBSjTaR1JPW-37LZgHwmYWyFInxmkR2OJEq1oVe_5FZrprsOX4stOfoyB8quZ2BIQbwI1CxW9IJrJwSn4MvhYzhoU29EhL1DomY0KG7-fZqSutn4iiPU",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "210 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827349,
+               "lng" : -73.91824
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "659a0722fff14f1ac0f5116e033e824894b0dbe7",
+         "name" : "St. Angela Merici School",
+         "place_id" : "ChIJA2YbhDT0wokRD4R7Froq-Xg",
+         "reference" : "CoQBeQAAAISrt4cIU-MiwF3DznQz9ThQtEg3RqCgPUUGlktaZvXtH3U4ZOnhohEh6HC8pEKwu2o5eUXgpyiM3S3MC6Em2kiT7I1kZHKzHnPgVNrskcpdqxF1agSiiOeASl5Q6cutGlJk_VAtfrrXo0x9NmI1UZCvduxa9AjUWqIaiC21kxeZEhBeGqIl3yfOPJcZgdJy8Nn0GhQ2a3GiJgt7BM909aHw5va-IcfYjw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "266 East 163rd Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824781,
+               "lng" : -73.92064000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "ad429abc92379b0369010cd4629592d983c0ce6c",
+         "name" : "Petland Discounts - Concourse Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr28pOTP0wokRZs8VilfSFCA",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CpQBhAAAADZ2VOr8womXMGG8KNM6PFnYnRbQTDKBZ8pV087phmMiqRqzRp72jt7RRGTs6AbaHxKYKyhK3nhYrpzo3CmxCSRyv0yM_wBmVhymZMJgvDsOHJvCxcZwY-_9qoXiiGP3kvjTV8DzJPiQgvGDg6drkzj_9kVDinbDfwpvsCtTCeffotaQdvUtQ1XS6LEakNm0EBIQoXmPtk-OBWjPZWfxKe-uQRoU6fewup5XRLjJazDelzWL_qs3e5k",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "220 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825231,
+               "lng" : -73.920495
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5855cd0b8c6ca514e21b2d61dcc15e94397f9e01",
+         "name" : "Concourse Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAFv116XolDjqimc1EcMFeYU58Kn2QMC_ouNqC2FoS-o0xklxoyW3HVKDssDbawBOwse8h4i5Q-LwP8HmCJc--MfJ99yyGQMTRhSZU6re614RfaMvwdmo3i2qQZV9NUwhkDm9IvPGDr5YEIl2nDAwbTSOdc1gbHvJP-_2jSk_Wx4REhAWOFzPASW5Sn8V9hbHh_pcGhQMalPaptzFaKJBvU63BEHWu6YZ7w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-a8eMzP0wokRN9eFAID2Oag",
+         "rating" : 2.9,
+         "reference" : "CoQBcQAAAHqt4K3eyEHxl2ZPo8zttFAg--8psW7oFB3rX_BfGC2WsYBvHcdt1Dznz7D8O5PMn0LzJag0AXCxWbBwEo-789AqcSRQjy6SCdzBX08qYMEZzUDW80p0GgQqERltzqRLNmZ-VhJ4S-nZpfBmryln8RmHQaj1Z_S6MmKQjKVKio2xEhBiugKIP7fgAFkZHym645lTGhS7jWLOOqWI7S9hlwMmAz8JQC2RYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "220 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828242,
+               "lng" : -73.917242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5dcd54ee0a2afc8122d7429aa9c303866eb00fa",
+         "name" : "Intermediate School 166 Roberto Clemente",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcyy2DTT0wokRPwwomIBZsug",
+         "reference" : "CpQBigAAAElazUGsVFWuYvaa5qX-MeN39kAB9aioOQEH5zJBsTzDxY-wSRzpwXzp-aZmqr3nvkXCizLW7aHrhlEFB7tXTTDkAw4ELF8IMmVf7mKBvju_WKTIONv_YzYt8x8EEXwUF3FwCfh_DkPCZLl8dJmuB967W_z6Z6Ur78ju-FW-x5YN-q7GqKpD38ajeTnCyGfCURIQUwFPgQ9FGx64R4QksgCE1xoU74DfWCfSlTxKDd_r4GTcf2hssT0",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828276,
+               "lng" : -73.91726300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e9a220eba3065d035b87744ac0c1ca2a34618977",
+         "name" : "Grant Avenue Elementary School",
+         "place_id" : "ChIJcyy2DTT0wokRHvVoEIt5eG0",
+         "reference" : "CoQBfwAAAPQ01VKs7CLGdS1riER1Gyc-1kR5HPZ_qz7Gfv6fXMh01B_QNULGJP7HBOxwvN2Om8ykiiqZ6izWJffZxbn1yV2espktNNNQyVpMmk1K9M3XsAB17Djn_Nev2yUI02O0mS-QA88laJ3QuEb1TAA5n86xrkS0wHCWE6DbO5au8hYQEhBfFj_cZCSqugmv5g7x76VTGhQWeq9y2c7GotKtE1nrQUBR0usFrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826473,
+               "lng" : -73.92049400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4ae9d442cd5a20f1620069768961cdbc159ac0e",
+         "name" : "Criminal Justice Agency",
+         "place_id" : "ChIJk8aoIjP0wokR_PQ4-mlmCl4",
+         "reference" : "CoQBeAAAAAVRB-OKIfmVkeSVmxtrmXWGskP2VpfA7kqMG7owJ1rdIlO9tx8vHMSCcv2HV_rysBcR1Bd0kbGLN4XuKwTM2pDRlHjcWQF_NcnZSJokPq1LgCyNwX_9nDuMMXQ2XK6tb1_9hM1aNIkyqRU-M_U8lDEmBzC6bX2h6_JHZZyQ_fYrEhCri2F2CriOTyuIgiuxgVXJGhQXEUbrhEl_1_-rkMMscOdZaj5YQg",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "health", "establishment" ],
+         "vicinity" : "215 E 161st St # M29, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82697,
+               "lng" : -73.917951
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1e94276c0692d490983a8b81b4bdd10f55e2aeeb",
+         "name" : "St Angela Merici Church",
+         "place_id" : "ChIJA2YbhDT0wokRVVBgyBWQ4Rg",
+         "reference" : "CoQBeAAAAKRB8607hcBF7R-7fEthB37Iw_m6QmFJy6zlneg5KEclBOEUR9j9hZtbtx01qjilVRDIyRr_Aq-5_jTCbk27viOM_XyYJ_GCsQ7c-nB02O0y8SRxKE05r9-h2S4DZJ1LEA1EyNI6kc8AL_mZ2ztARyfnEX3X6tVmTU0QJwYbiYGUEhB0B0iDPlE7RHpRmsin3W3JGhSSbN1VdGWK8_PMXc9nwbrzSAE0IQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "917 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824791,
+               "lng" : -73.92057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f5c1817cafd35836d54d550a46fd108f5889ccf",
+         "name" : "Jimmy Jazz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ83RsOTP0wokRmAb-SXhMDz0",
+         "price_level" : 2,
+         "reference" : "CnRrAAAAP3y1qKft228UqXcSjlt9-EU2rxpJU4V1RoNtWsAmWMLvZYgXvglADIUukU8RsBJleBY0sYFxSCuxMMTlkCVu-EOBX0wU20bN7fFyadt_O0AV3O0XnlK9ENQdrIKiIukPo5xvnNq0ncm1DoKghBgLORIQYZZWv-m4MYOlORnKpA64cRoUwdu-GjjdTvFBw9j8EO_I66PzKIs",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "218 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82837139999999,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8364789,
+                  "lng" : -73.90722889999999
+               },
+               "southwest" : {
+                  "lat" : 40.818436,
+                  "lng" : -73.92658399999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "20a6d9a979b2218620905a6af5f17b789875ca99",
+         "name" : "Fleetwood - Concourse Village",
+         "place_id" : "ChIJSRJTZzT0wokRRFm1FJrnjCE",
+         "reference" : "CqQBnQAAAC3cPqslxyraCwR1wVIv7Uh-fZRklXHFoPY9L2WIQcQyVNyrT5wb7AzXczFcwfueGgiWVWP8yLa7hu-9M-pOG2dnZfgOP63Nhc3Vk1m2OnXQ4FQooclWPLvVfG9LVqxzSbS7RRb1aZcCkLaa-oXs7XE2bzX75FBxuwWjlypd9WL64dwYeicGK02YaNRkfE-9HQoIK9ghSayye0YpR2KOdJESEJl8fvpyysCVKEDRmHIdp8gaFCOOJASjqS-w54m9UX8L8_IA1-Ef",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

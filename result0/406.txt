@@ -1,0 +1,579 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABNYSd0rGX-Sh3nvZowbfyF-AD9fLCstivODeK-MOCFWwQg_3pyxNi5jppHIJ3yDjJbfvNmFmG8ALUta_rHur0FLSpWQla90a5Q1yDiLIq4FO_ZKa-y-QqC4bQtOfqn2fmzhBscSYoIa5wWH-Nko0ScJvM1l3oAfVXHD1zFsdqMZBQWqdnmxnYxiD3U4iSLn4AgT2lpCNPuVbM1oz7bVaU-_XNRHWn_x86Emt_7qNBAUydz1nkxmmB0w0wV9RWvdWgP-QF1T_M5B3iVCOSK5HtNPdB2Z0foH6QDsSvM7i_2Gj2AYKpohEcWKCeKhzW6FJRIQgqkCPE6eeWQZcNPyhhyAghoUxMkmocBSr8hms7s3jXiN_0HZI3o",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725257,
+               "lng" : -73.9903489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7276219,
+                  "lng" : -73.9872062
+               },
+               "southwest" : {
+                  "lat" : 40.7162989,
+                  "lng" : -73.99544379999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2e6ea09dbac02f470a1265b704694415ffba8f68",
+         "name" : "Bowery",
+         "place_id" : "ChIJzUX2LoRZwokR-vdL77UahyY",
+         "reference" : "CpQBhAAAAORlr2EPrVLuvzJa-xV0Eqd24L-eGPWa28AUz9ObUdjjT4d_cYW1WfZXjCsfdxqOMTuKoL48NbjvqqRYDrspRLagPktjI_pBT2eCJz3YPHoee6Io4JyrG3iVFoAqjnQltFXjR_GzuWRgcW16TQDYf6XqpddGgQ5Dj63Ymb0P1EmYy3OXoESckyePwmmy_4Gc9RIQY-Oid-oTZRRopiF8NI-QuBoUKz9dPZIYIYe3e9Euu6-j5YQS5Mg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719762,
+               "lng" : -73.98809300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1659a125ae84c50e28bc8af04b312e8e48bf2720",
+         "name" : "Hotel on Rivington",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 630,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdAAAAJEzrNclSopl3Sw-C5Kk33zTRSz-tl07YclWfFAHZap-_WBaH09tmTF93stGqmOfVgMhnI-h_RbstoHU2eebCHNdIDBiKyBfLcT9m7TF8RE4SnAALsux7vsTTphJ920xh_wHBoX_HcExBfUvkegUS6ohFvCyjgGbLdqIctAG4-1OEhClZmnf27eXuz8n4YKjx9mHGhRNgiw5WQDkEeF05bKa14wEPODNLQ",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJAZJEOIFZwokRW2wqvoRYkM8",
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "CoQBdAAAAKmCUzbXLT6xY_PFLevtkGQ4tgap2SiU3XgROIrmMPzDfoj7qUbMs3Mxj4gSaZbe01_M5pDLk3eZKANHX7oBcLWB2MNlEkTY1RBIlqPU89ZFgLE7OqzmxAIHUOguq7klw9B5Tp85ylY1NDwPDUOOIDk4zcS9nBcjUN9QobnwTFs1EhCKHQVzImmDAWo4iIkexwZcGhQFoC-_lbeluc7IbSNxnuf8M49rUg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "107 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720317,
+               "lng" : -73.988742
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ccfe75e5e810ccdab4484a9bcd7f842c539fca02",
+         "name" : "Teany",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 571,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAC9Q7Ucp8mspoEa9sSTZu_RT7DDXInohD12DdZSy8S2PDpJJ0u4fCRz3b3-m7EtVpox5BJ7HeFyzYgFsXtyChvb72hrOmQ1CaYwiZgNci3cLgPZh7UH5IYoexsS1FUoCWxsFh2X24y0fn02JiHpTDLRIQh1_JOxwT1XZM6YU5CoG8hhoULvvL__FzTJQDR2rOtx3Qq9KfitY",
+               "width" : 857
+            }
+         ],
+         "place_id" : "ChIJCzdpS4FZwokRYrhBevO5U28",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRmAAAAjupnjUEsZCcbGL6exnrNg1Y18J8I4RiNSheK46SD6OwG_BpS6ptbDm0TXh_-46HF3rfrpQbv6CNX198yj6aXbKV-v26yMONn7Ak-Vnz86gg-5-TZSZZf6xGhx-sioqbJyA2u89ztr9s-kVssLRrLXhIQnnCb8N1LCL6B2GgCAjYh8BoUG1CsIXbq2Ti2A_pQErPtG6sde64",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "90 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719231,
+               "lng" : -73.98763599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4b9c69606a33fa4e8188fe51b439a7ce8a748c26",
+         "name" : "Essex Street Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3Hx1igSdFKDCPYPBIml9qIwRt69hg7WOpw5E5I9qaRMRbP7Fk8wquvpP3nFaihfoIzoQmmUtIQB0XgcnecqTVv1gpc9lrTOtvoNSOeZmeK6kjtAIz6S-PwOWDnyGeiSSkAHqowmO72Zn2zLV3ejhFBIQezJWAbLWieizWA0ZrWrrzhoUb-8RHeXIh_bOiHIcrzJvCGL94q4",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ7fydz4BZwokRl6FuOJM5QPU",
+         "rating" : 4.3,
+         "reference" : "CoQBdQAAAEECEsOJfNyvyJzwRcGRqwQ0mpq3ocB7C0h4WMmHD8FyWusuWwVssht0DxqEfemuabfydfid44OyV2Hiwr6N_qRbOcLc4tHG76YC7iyLBB7Fg2sLz0-DxMMTKSHvNBOYtBkBeLt1FMPICO6ocB8YOVmPDXKmFG2oi-OIeIF9fTlSEhC_YYvwsX3M9I1mp_xG1GAOGhTVgHS8Sw_sGrcdd7VcPxnS9VxDQw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "120 Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720094,
+               "lng" : -73.990332
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "7a0b01b53739bf4615b53dc805e948e5116e7c14",
+         "name" : "bitforms gallery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 845,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcbBw1f01uxLtRIz3SYU8QNfKcleA_ooWrPhszLkx5nq2ij3qoo-9Rmcuy7dAc2YmNcd7M3qWncv8Oexyw6me_4mikyUHqCp3x2pJX0gFcYL3cVhvKSsXlnH8RVXpNFUAQpeUVzyVik2M29MNCG2a3BIQN1_cxAZcpiw_us_kuB8XnBoUsCB0uZz5GISKpPUZthzHvvIQJUw",
+               "width" : 1087
+            }
+         ],
+         "place_id" : "ChIJ5bQPhMdZwokR-f37lHVs2u0",
+         "reference" : "CoQBcgAAAEGZXj6HM8a4qNOeW4MsjVPPeHKpPJ_RBwadNa_58qpsFsCYkFJD6uPVSiyAxu1P3izpYwUqgwVL9_FGhe5q4IPbZfBuDDfv_JT2mzoRmwhvWc81IFkcYlvXL8drABovQSZ9K_FBbNrMiGgk-gX-pR2VJh2i_nnAsTzZHSXTyQrPEhBezGbfYGf0rcRneoXu4QppGhRK-SYtyUWQw01hQpUwfI9jK7a-6g",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "131 Allen Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718555,
+               "lng" : -73.990218
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "91ca80ed28f783251c262dbe66e0e4055fa51ce2",
+         "name" : "Lower East Side Tenement Museum",
+         "place_id" : "ChIJ20bVJYdZwokR9DxHq-aDb7A",
+         "reference" : "CpQBgQAAAGiudINI2Q-Sfw3TwjHpr03lZt4ziyxKtpRZ0hVWemLcgqqk38fPUOB46BUFfdnjFeAWjElWl9GizaY4c7J8hD4tPmLFaw79EFe2UqiJh48QRm4sDEygfalSSUoug0u4pUEt7KEy2mxiVHGXD4kVlZRDwnMHTcGA837lTt4cU-d-Fk5B253RWMZYCQIxhFXvcxIQpajD4yA2CJp_2nbNrNNmCxoUM5hfGIzhSVhaE9EdiP_aVtKDrTw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "97 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71854,
+               "lng" : -73.991193
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "4354d6fc555c64721c27feb2ca944168d6bfbd6e",
+         "name" : "Kehila Kedosha Janina Synagogue and Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAApe5Of_lr24o8dSWwc5KfY8Fp0UQyP-VMTjWw3KN7fxT4WGaCbwR1bbE5tEPX41f_mpcqpXByrTo4JLfbExALbjgwlRdwf5aL9Qp9GyBYcx8xq41DVVoygkzFGwHiEXSHpioxJPhRbbpW0ZSGd_aPIhIQLWxicHmK7AVuL8fsIjHWBBoUHCQYJSKi44OwNZkxwM_MzQt2pSE",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJPda8D4dZwokRVlDPjtECU9c",
+         "reference" : "CpQBjAAAADi-RuvW3-PTR4KthSGYzPc9-YferRN--LcTrUHRcLjcha7nmxNEm0zQ0sFxDGt7cW1daHSIUrSN-qYClxD8VV3dCnCJiDjxDPJtAjlMh7LVzPGcjnVtdFwh7bXZ08Nmh3FRoLRDTNmzFENf7ZgcQerFvQ6mqR0WDws2dwD085v97xmzSUOPkyxSaezdBLf4shIQn2YU0pJZM3F486bZvxUevBoU-7XbRkP31FUq4Lt2ZtQRzlh7Xh4",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "museum", "place_of_worship", "establishment" ],
+         "vicinity" : "280 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718794,
+               "lng" : -73.990157
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "bf04c672d6730db2dc6a68816bbc53eb870c993a",
+         "name" : "Tenement Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1178,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlCP81OUp6FhuY19EhcoGAMgweUMFQC697lJ-h6YnAQXohWfv0uzSc78mU4W_eOHqld-koFcB8myzWJL1GVxUJbVUwZmnOg9jfHgkTvI_M3mqx9P3IjV9xU9bI4FMFgzUEKZxouy_2kf9pNQMOV15URIQYtg001fERuRAQf7XonjZjhoUt50KpHjoOY08SAd4rfEW1etXwWc",
+               "width" : 933
+            }
+         ],
+         "place_id" : "ChIJ20bVJYdZwokRhI7esP3mYM0",
+         "rating" : 4.3,
+         "reference" : "CoQBcQAAAC0YZLum85towwdURCWnquo8ZYBSv18KLn7TKhZFFSZY3GMfXCOdFUgYZzptJY8-zPBhQcLtqHFiAqX--YKAEIVU-vGERCCYBHhn3yeU1x27t1lTB2wkQvEN6CYXs7LdVYlniqGbxXJS1J--dzdpLRw0GKT-BnJfBb90eyPbl211EhDKnxYgczfTK30Aru4isN-mGhRngVpk6zlu4tiA1UR3lzLAr3mn_g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "103 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718405,
+               "lng" : -73.988975
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c3cba48cb7aeba0c88258d28f933f0230fff72d6",
+         "name" : "Hotel Chantelle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARrLymthTB-4sPJ1U19iBsVWxl_hwjVr2HfJAGQBhV6AhKsxQCyrC5jIQrc65Gbza3avx7HUJ7FYNW0tGdqgd8Q7JJH4i40Jzbr-Ig-MqPL236LhBJrVV4FAVKx6be0M_UIMSb8xgdIOFGtYHqt798xIQO28Nnyhc84u7Wl_NiB2WJRoUCUlsIos6cVv3q4gpSF1B9-M-HXE",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJPb7KLYdZwokRIgG4nSNM6qg",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcQAAAHegj_tTh3VlSc2H9U8KYvdFQWtwodT3Tq81JNwLeqD1rOre0xoAfZ9cmFeHF31kdct9IJvwPW4hh2w88xcKehGmtyj7N1eWz0W0S6fEOhvQjNgZX3hP-buz3h61raVISgjDY3RmRPm33AYa3d4GiIAPzNqDMYqFJcqa5cR1w9ZREhBPjdXDLq5Jii4g7n6LYsCBGhSfnZ7QVvnphrLr9Zzfsvud4IuGdg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "92 Ludlow Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719892,
+               "lng" : -73.988291
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d8ab2dac8016fd23548382e6a62f15f2da9a4ce9",
+         "name" : "Spitzer's Corner",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAib4e3WV7wHYZGlA4zNb1tZ17silk0B1JTezH5KWI5Hq_MWP0ZXo6l_sxBoTD47Cb_oQqutke6ZEsL7sc1I8uA1O28weHgadhqJS2nRkzpf1GzssouJGB11aUhl7jLMeCXkNREPxxuiBfhjzHloh46BIQjL-5TKE9H9DyNxCee_KBmhoU8YPqM4PqxFgEdzlsEuu9Ogu2Moo",
+               "width" : 1581
+            }
+         ],
+         "place_id" : "ChIJx3LoN4FZwokR6QZgRGOP57g",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAACBdr5LnOgaGq7jRWNxN4i2PP_A9z3gfo4w5zmRVPO5mN0mA0nUCnwNzzZNkjslYNwsk0ZEvMhe6SOoqYqJ10b6Mr-emYIz5Zy6V34MdXD3FJ4OpKWMD34IXi7tz9R_EE6c-49AOeniK-_-n1R9JfytVNiGl0hkmbY7mBgoifdZcEhAqcQu3ctLjtzc6vixjPqULGhSlNq4XMetNPFTa8aAFjx1_POCDfg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "101 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719333,
+               "lng" : -73.989981
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e493b381c69f56b47a2a616193d1138d930310ed",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAElNNWhS11eoF9ZONKoDSAx-wUQZcfPSA3V7sZhQRBzrlMW7hE6biuE6OpPS1Jit5DPflWWsglch3q1IIEmWtx1Q0MV1Dq7-5-T_ARoqXUryWDovDPYf4OuHycFDsauvwv2HDbwyKLBFfyIWzFQgALBIQgyaikK1-iq5UAFkHT-hz4RoUEc-m-a9Cz9f5NS_6RZc6w95BFA0",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJvVFW2YZZwokRca6P_hbHpmY",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAMklsoI8O20FtWJ8hgpOASQ0d_U7dzmLSpzH2RvcSzibgXvZIPSOo6Za9d_HolnMo8fMrRFwQ-ZLnBCJK3IQjkzsQ58QRlY3HPjPbdLoyaF_MAdmlvwsstBPTfVnJTWCboWzg2_JC_gpSk7sJ4ndHbRIQLkeI8Eay1hOlwRhiSm5bQRoU_-dJjzT-YViK8qqcyw3ozsKTMoU",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "80 Delancey Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718562,
+               "lng" : -73.98938099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "595a1cb5841a3d8ac1f29294f466e6fea460b0a3",
+         "name" : "Lucky Cheng's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-5-XziX6h2k5HLlq_GIAOts9AByIyO2j-7N-5GOdwaByVYJiE_Zq37b_V1CMZiv4BltR5WYr0sCwc9WMu5UJvBRI4EieK3fMDyETppFXYGYy5bnbtXXYisGwbNOZnLbus3aHKXAL3eSEiQS4zasjVhIQLophSQIHV1f4OLdYQMeQdRoUtdfzUGrLaPG7t1cOJgqU-Z9xcaQ",
+               "width" : 341
+            }
+         ],
+         "place_id" : "ChIJORjnnYNZwokR1uP2odXPR_I",
+         "price_level" : 3,
+         "rating" : 3.3,
+         "reference" : "CnRvAAAASXdQTgKoxNPzoeC2CzO2ggdGLnB9Zq2SLZ9-7alRz2W1PB6c3CJE2iojY989m1SyX-jdqg0-zVTQn-B6sVn6KLlfMySD2xs0hqJ2RriEIHK8Gw4Z7xM7EXJTuVYo6S6afnTJaKfNNXNDQ5ToUmbeXBIQ8CNp3fzaJVN4ynSNwi8xWBoUqWdyMYaevgrHW_29bZscI29TO24",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "93 Ludlow Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720196,
+               "lng" : -73.98753600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "306d92cd65f50eed9f62123137711f497f2b4943",
+         "name" : "Sons of Essex",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWFGOjwdjUfcvKYWPK_KUv_nR_cvgutunZZ5VUoKYrG_275Cz3ncyit1Ja_rpsdP_Jpk3e3nAHaajFaEu4QKo3QVhYbhBh48UfqoE7EwqO3SJF_1mc0SyVW6_uSw9Blin6C6ZsHtDOca9nOq0D9sVtRIQENqRsKQez4QUdq3KlaneFxoUlu8VhkZu_3lRLmukDqZSsJOqcyA",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJi6iXQYFZwokRTsCjx-BUiQI",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRuAAAAJqdbNydpUTlLuRUnf8eVu8RzCHGKyltRciwcWCkFDBNdQ7lLYiD8rOh8zODpoyHawUQwc5JqyvFD8V-imRp8mDCK0ewHQ8n03GKcvpwW2xNQJL7ylUWty_GIM2hPTziQObrnOhfpXaD5A-by5RH3_xIQcsLoyeojrtRJVY1PxMUXTxoUJVBKydpDpZZfJDxJdwKBvX9xqSg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "133 Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718623,
+               "lng" : -73.990202
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "53b15210e75a4cc2144e9d20c03fd99cc70bd0c2",
+         "name" : "Congee Village",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAADh04RymxXX8hZd5DNWvOBCADnLzOYwj0Blnyz75j543O0AdQpHkY6SRdl_W6hXTDw_g8wuO0Mr4w134xq6lO-uc7LLwJbtsNPuUektjEv-AA6bAqCs2GneZM348RSg1BPXbCDdmMJ2OVYlV_zurYW5rwqtmWUqLXHV8g57rLeBbEhA4-u0oCkWm-uHDu7FL1aNBGhSnqDgvgP3Q1VyZGe8jCIbbNmlQ9g",
+               "width" : 1518
+            }
+         ],
+         "place_id" : "ChIJx8xdGIdZwokRT15ilvIVcTM",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRvAAAAhf9L1EBaEIcbt-6vGEbuSnmWfhnx7alhiVAwTwllTWcQBrrwdSqcrichqrdJqSbREgympjXdubKXTGDa2GDQAWDfk_4fVZgatqJgGEyKUiU2JkbaKJyIHkG8LXLY0-JiugBVn2UGMAOvErklLasG5RIQiFZ09pH6ka9Kup2_10bNfRoUzoq7RE7u9XgbxyTm4ha29fZYr58",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "100 Allen Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717965,
+               "lng" : -73.990048
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fd1511a1350c84cff9dfd3bd57f87882eb078a33",
+         "name" : "Barrio Chino",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAPkng0C1POujeedunwXpgHJSlEx5mmey9ho98J_ikNZfKCbqJqaD_XuNfGEXv6l5Tlzju4J29NYyUVG4_9dHUdixr1aEI8H2szGt0n49sJrGOPqYAJkICYvNDvvDw3EYCEw3VnJt3V7x6qM0HH1eXVxIQt-xdSXgx20Q13f0tSrt8tBoUi-huNzWgkLm0kU8pHVt9FrXLV1g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJa163PodZwokRrmuzoMb3Emc",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRtAAAAYkY3WC_Oa9ijvq8cOzPWSRWJER3GhXGg4bAqNVhtecnab4SpxymECgzUzXQENkli7rJU1LrN4BYHmasX8fAPlPopDlLkDGt-8yt2bu2Qlyi6XX5ka69hiulDjtFE4_HsOC7gaYB2znhwuBbkfrTqExIQx2OAzz9GBiCwAkG-IbXmyBoUrT_Op4i0wXf_GvHilhwo8aDAOJg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "253 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718558,
+               "lng" : -73.989333
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "05c388cfa7e93a6c9b0f7e954f085620d683e571",
+         "name" : "The DL",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAACNMBTWnGapfPFJ7dGxRlXVNAyKzURxuCgjqCYmTtAAprEMpVyOoTm1TTZWG6iI3WPIfNusQaO4aZTKH50vYGP6hCLgCPKvspxkNUkuv3Lf5Y_DQM7oRmUvOni4Olv5-o_GKojCff3xcobp9BxRSSFBIQoPX7u6IkKH44bQcHj-wTmBoUroS0mrWkUgIQaYn9N1Afn2-cyx0",
+               "width" : 892
+            }
+         ],
+         "place_id" : "ChIJx-YCLIdZwokRWxdzML7Ogw4",
+         "price_level" : 3,
+         "rating" : 3.5,
+         "reference" : "CnRnAAAA4glM1ipyfgqZmg8_Gq2OE5q5hgw0GuRYzFck_HpT5WkKuuz0uOZJNXa0YWXh7kFUDNt-_z_ZizMTC_j3qOAcoGmCmk0AgRFnfjUt8dQoN4ZNJBRedrBTU0f0G3MG4WR_TVC-2cctlXbzg7VrS8N3bRIQQE7MA8oPmpnSHp9HKWAdBRoUn2twCOr8xvJCs0zdu53w0CAzYO8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "95 Delancey Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719418,
+               "lng" : -73.986649
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef4aa01f27e885365c54836ecf30f04c01f4a1b0",
+         "name" : "Schiller's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBgwAAAKDp7SuyOH0wpYN3XFscNAA1f0xLcG-RBpMX7GVvjElpohaFsbGi3RsJlH76nmuJ3eFIvUGBgLLQRo-7Gvhaavb0u8KLHUHo8pQO-Ogcn2y8QqHjw8_raeJIHydM-kRS8hpdcSpb55P_LHHXThTAbRZ2a2Cd5UfPL40AJ9EwlPzfEsb0GNx_MpqxSzN6pMqQKxIQ4MEQxsotAMx2oTA0KC1PbhoUi9pokFswVdgM9UZPt6WkcxRukZs",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJd8P_EYFZwokRhkpkLU8lVWQ",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAZv0l3r4lWHh9g8QeqVnyhB-r9JFA31LGNCCnpIFINGE8foGIWkbWkezrj8OL4eoKZfu5vBnP_3BW4IQI6IqGoRvvLDRiVht5R7HoTBWmMKjA5W1kJcBm15WXcIaEU3s_jrPSXBxFhwRyskmH84LBzhIQ1CtpaVxKwX13qkY4uNbySBoUG7_Xt1Rsssgy869mCftZXLAw3gM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "131 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720056,
+               "lng" : -73.98788500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3619e0da102a19a3f9749f57142b4f1f9cfa0e0b",
+         "name" : "Economy Candy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAACOrvMfTLQYjCqAOt0WfmtR9kHEbQdK6szLd6qHg7RFP4NDQ0NICqbadm3ZuGOmvxSREmm0uaPlhKh3NMZpwnjd1UnxgFADfvDr1BeAYrY0hVoMYXzlIyzG4z2hk_UMlHNZney3xNf9Nq1cCs-4usLRIQFE7_Po9YnqaLTNBFhJfzNhoUNC2GU-YU05PyU5p0m6tezD89Pdw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJNdebOIFZwokR0JEfqeQONrQ",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CnRvAAAAVIgtyXv2ovwTA5quJ1ETRZiDyLSqO4XT0-wotqq6h8tqaknXJZ-nss_rcFf9qKCuzaK8NeDESXjFmzGb5FTI-dEHCTxsBxcWh3XyoFNKXWvGuvAeTNxnvVK8jv4FO1eIivWN7Y2nzT_Nd03hH13JnBIQ-SPXP6W4fCR6En9DMYJOmxoUl3rru6U6o_M5Of1uJ8KVI_3MwgM",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "108 Rivington Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71806,
+               "lng" : -73.98971299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f59ef465a8950e46a5f58826fd602ffda42ca6fe",
+         "name" : "Babycakes NYC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqxv3uLAWf7OMVB9n3LLq3q0X9OkIpJX6AkJldO_MXROk2yMmluXK4Pkys2ds0ddC2I4bAyvt-J7mNcPzetELNoUnuDbzFq4gGb2EQDmXGjDHW6KyPiXozWPHvidJjhg2BhD_pIXjGTv4Lwo5dGwEKxIQbbCU7PmahBqMxyzXMtIulBoUyXWzMnNbCBJ8ZVpQrjt5SB8BbeI",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJ2YRjN4dZwokRbL5DuScXEyo",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRuAAAA8ldylrWQGdM8rhsFJSmTR5Un1ZI6vjUI5N8-HngfSbrEEy2kXyeM6mllVVQB_awdJo_ij24q9vZC15lW05KloIE7oEKbZU4_43zlAXO8W7ZJLNZVDd_INlMYjmYAduIVkW_UavSy5Zg0-Sgn10O42BIQXr3GGpcYcyQ5g1oC6EQEWhoUgrmS4pMi6LS4wrY7vCSngcdkZbM",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "248 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjQAAAKNV6-xNHi23Fiefp5ukvXiXrBtfQe21llciijZxp4yrt0fp-DPUNH_PILTgULiGbQlPh4REmFr4OFSOM4ixRFKmUa-O-gSjrKEmvDN_153Qh4lgDpGJRGc6-Jdn-PXZf2UVkgLfO75CIYnCUsrttM3uvKuilq1y97VX_UUWmhQbHXPOhamvDTHcLdWWJngFNhIQZm2OOuzT1UAvg0X_DvM2NxoUUg6Ox1_Q6EK85pCDzW5cLGJlupI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

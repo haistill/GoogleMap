@@ -1,0 +1,496 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABwqqIOwya1zOVlPC6BXKacHgi2LkSGVgwbwMRW2AfrBA4AYBEqLejemNf8iCGPl4uTZXdsOEl-A7HBlfXpg53ZIdGOdHueFu_ConydqN3_CIcjgC023urPNr6vXx48wFdWhBPmQr3lgZND6P1PxGRuns5Nw0Wvg5XaKdhTUNs69vblC2UaPKHev15b5BP-jiiuI8t4yF9SF4ANKeNBLWQQ_8xvk6DANgk05bFatk5ORW5eLNxq1_dvTApi_szfPu2dm8enzdXOIQKV6GQJavXhNabbYYMY2d_71YF_WpsD1yfZxnRjoC0OdG8i3WJ-EqxIQ3xvr2TuuJ7oNjbbn34bxXBoUMZRe_AFiP0KF6ruCJvIJAVDL04o",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAE_Jblpfi3qMPuss94VOhVABWW1BMdXKD157qSmM1LHwCTh0sRDDDIez2qoaJ7Z667KYe74NBlj22xntWJSQC4fR9fH1Coi2GInmY1x49lk7wwc1ynAad9stEwytrEzkq6Exp2C-xS-LTnGyzrqbKpj-PoEw6RlNEAzpP16ZM21hBXOEFJQmaJ4SQj2jQXokVxIQIsWZB2MbCcbAjC-AWAi_MhoU7gThTlIFrKZpMML_LigOAejFqyw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804723,
+               "lng" : -73.952243
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7ad4d6a16fb6043445247e4ec2c0ff58ab40c3cf",
+         "name" : "Minton's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 115,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAFl_HSXXXsZ60vKAwzG7u2KjI7KZP6iIIDyqB-vf-sU1F-3MQ2qzl5LSn-BzfHVGJwsSq0BSeQ8SxsIwcgfFSITBC7fZZJI1Ww5giY0QubCUCdV0Z3uqBLB29osldX0sVczkdwhXuQMA87ifgJvyK0RIQvuwqM_v1OnBpig6UOYqfLBoUivpU1lGr8xT0jz08XkoShYtOKr0",
+               "width" : 115
+            }
+         ],
+         "place_id" : "ChIJ38jfXRH2wokR3ZewiTRd9oU",
+         "rating" : 4.4,
+         "reference" : "CnRqAAAAmIs0SvSCP5z2L8i2r34DyeiOjFsXSqiLKoIQT059X4lyHhvjiuipkAAtDTntgROuswDslU9SKdx1l9YMc16OQvOsKDA0CZOHTZU8BTrNBD8wW4H3ahkO8c9vXailmHlmPbMQ3eVQLYbkpoy36MLqZBIQIo8CRGpMOTjSWaLvetkKfhoUdCKC3bEHJrMEc6zH92rPDgawU_M",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "206 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802946,
+               "lng" : -73.953575
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b92de5b27ced1c4e5a152c5512ee4cca3a30d504",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvxA01Rb2wokRIXK23B8IEN0",
+         "reference" : "CoQBeQAAADi7irI58Vph0zfl6etMBzYBD0fSC3EocOa-LhPTt8zKy3k87kT0jBMmJXxbx-5KbHTSYGxp2tQrt1Wd0U624oMsEwKsfXNe5PpqkDmDsdhzBzN8vczMzTu_9CHnRz6Nj_Jer4ipn7iG5d7Xl-HOxFMAXjiiZx7AMBFamOZ6HYsoEhAg0yy9Pk3DFC1r6_1H6incGhTDViM6RunO7I7SjDBwsaWWhuscgw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "203 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802504,
+               "lng" : -73.950309
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9908612b10048082412b4826e7e65f99cafa193d",
+         "name" : "Amy Ruth's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAdJQCSN2-DbJhAsc6D0DAj0NiyDUO9JSMd_KAXefWFEtRavLf18eHdCNbQlKse0iL0P1mDaacTHgiGZlGACpw4d0H6LlT9rnx2jC-rzJy7rtC0UFtQr0T30zWNVxomg2jCcEQbv4r2CK4SjFg4i0AjhIQGYyGWo1soESPP4JSkNn_nxoUjlt9OWBvcf1RGfwUW8d80PpET9o",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJ7V-ZqxH2wokRwaES4IMqwQU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAA2yLaPm33r1Cij09rRDJzhjoW7WIXP9Ur52ipuydkoypjMIjIt9NXQVse-zlkC-7VWuYXmmiMPXCCa8Tgs8NkWDUQ-MR81D6L8uhs_vQpdP02nefZdj641yDXg0ltca1FlK1qcbQoPJEtNCTE8UWjwxIQQeYn2n4wlJWap1go_qdHJhoU7_S8DtxZ7L4bcNh9Q-u15gsx8xA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "113 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803555,
+               "lng" : -73.952884
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5aaf79ba1cdb5da46632e71645752fea4be557a",
+         "name" : "Make My Cake",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAAJJKfrsWkf-y45MpxENasZObGPxTNTnyzRf4UrK9hX3ozRksFWSumDGZK0pNYxr6mY8PIIlPgbLKAYbEaggHhHOBBEmsmcoOVx_3YGbi-zePNZKYzs3pYZMuaPJWlZDPpiR4dqQRULnEosvTWb2hJxhIQfgI_eG8nj3Xf4v9MdK2JkBoU5O9Mnwt3nOu8ZvWhHAaUrN_8Tqo",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJNwcgOhH2wokRtiA9lKM5egc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAADyLttpuKpTAmV51fxj0NdeCTn9EPUjT99nrLdutC7J_k5D-9poe3c9aX6fXgZh0ibJP5y70bOIdM_BEm2DBzFk0HpHR8c9o1f_PrQPENBnhTbZCRkI-bEHMSBNMoBcoX23QU2KTL_-f0ZHd2T36ylBIQVSb0uwmPM2i4P8ww5rSNQxoUva3y7rQddSeWdhqDa_lGvK1-MVc",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "121 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804915,
+               "lng" : -73.95474900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8d6b1030b8d173748d6f1606550428b2fb029a8f",
+         "name" : "Lido",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAioP4u8pQy6P_T00oU2g9dr7RaVNITUpN90GR8UTvMsQDWfQrSSpF3Qx2bJDEzUgrrQnMl0iSM9nPiLUmUUib9vBSJDlZknrWwScp7OuGBmKHftnWM1S0JurazxAI71mBSoboVLUJkTRWNvPzvqgnVBIQijIQLLap6tnpqlxsnG0Y6xoUq82OKRRdIJ2cCnJQMBj_XQMfo_c",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ2yTMoxb2wokRixfwCY3ltok",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRmAAAANqhns1JE45pDvq9cM_TtN1MCxEYLuL2WJ1Ol54Ws6rPpgcFwtxoZki2gPRETT2w90GOgLpExmxNOR3pMO0OsVUbAqA38VJvfmjGLdVJUvLE37eBijbih9S-tsUq57SkDTIdKZLMF1SNonEh4QQC28xIQXqcb1VVGjHbk65cY5Cfp6RoUjQ2N3fzJnsmOx8DafrRBan4wt5k",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2168 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803159,
+               "lng" : -73.953034
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "017fc58bc4acb1b0b37b804690565017486d0871",
+         "name" : "First Corinthian Baptist Church",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAtUVBv8WnDkawDTldC3ahFUMON7UenwXkDK5YzVLY70ASp9Wf2MsHh4YuknXgdNm2RXM4DpbDNESMUNGrvbkaUJXhVsIjczRHnge1zTj1jcMAugvaooV68gqijgAZrpuuDc2iyPteIXooEP7uEQ2rXhIQXmO7ypuhyn3V9EgZAe6fNhoU2CYdsbrbOmnifEO8sJfdJBm0i-Y",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJEV5gLhH2wokR15bcwSNuggw",
+         "rating" : 4.8,
+         "reference" : "CoQBgAAAADpu7e8lyFBDVXUVO76XXnqibbXyhpOllZXVjwUGhsR4IvzOIMMF2N_T3W6QEYZl1uG2FXtzodl-96rS_Ib3iSGUXFLiOePxTuV7FAzqec22azajmKA-f6u0PBLwbWT4MKLtTCx5JbHDyo__3FtcSjPJzyOqhNVy1C7Q9WNh346hEhCHtLDpW5xlRSJKEER80HT2GhT51Iomrw28DyfsRuj_sJguW3XjzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1912 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805117,
+               "lng" : -73.95459700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "26dcd387accb7faf2c09a17854954dbf4f164f18",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAA6CFOfOOftsmjlrKq1JFCGBmemGjxuSBEWjuky4spIfpRLlUEEb_aX2Wo6jcuM91kyUSS5HCyEhOfCMa-4Hiw6JAWxBoc_MR-vInDTD5vWSSAmbd2k3_MWEAcTcRomrvSl8_fimFJI-bT7ojGvHaU_BIQspPQDcXOiD4sOBINIzzznRoUXV5h753f-Eq03DytGM1X9RoDVJU",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJM2fbqBb2wokRTfcOBat_JYg",
+         "price_level" : 2,
+         "rating" : 1.9,
+         "reference" : "CoQBcwAAAAqFdz76pDxF-gTNcAG8CESkUMxcxkIJHR5uoIaeySJWnVcku83h1t5tj8uZVA0F53NUD35cpyDPuW1jWVlaLoIALtt6J42JqlZ-T0lDps9Skw2Ka8PS5-k26lYmGWYdeTYdzDIhBMRRA9gurZsJxE71eBJZKtuMEoc07LxrqgjJEhCkkM7Mr7VS0fDHeoHv7f_eGhSo6jdx9qbo2NGOjokRYxzm4QAeYQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2170 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802523,
+               "lng" : -73.954559
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17ad36aa40abcdffdbb8e3ce6106f65fbfabc784",
+         "name" : "Wadleigh Secondary School for the Performing And Visual Arts",
+         "place_id" : "ChIJ1X89JRf2wokRLXHRDVnj1eY",
+         "reference" : "CqQBnwAAAEA34OBbfZzpfJu8GgED-_t1U6Gyj_EMQNiM1nxn-lBxV3tXAgZ8AZc1ibk0mjYprMtGHOePys_zerJ4Y9052zSc67NBitThgV-Ia7dEPF2sztVMw6lkj7DUoh5cbhLOVkBnj-8s6nqLZC-J-uQL-6rxgT7yaTsLYALaa1_U5GO2f0CMS193MSG5AKQJFsVONJl0aX6qp7p8giAyfrhqIUwSELTMHCs8gyKxedW3JZyEp9AaFBorr-bCy_KYGIV8W7mYPzp_gIzb",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "215 West 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802569,
+               "lng" : -73.951483
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8bc99cb76e82bad77a04ee076b5f77e9e86fafa1",
+         "name" : "Canaan Baptist Church of Christ",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAdARcCGT1ILmYDAX_55A_3ZqpkI0fIksySP3xK_Pjkb1KogzIPMiBgnHThppK1N4rYl8tMAflV84pkVgcNv5teLITE2yD6Y4_DwopWolIBS4NOy-MvpnDls-rSH4EhrWQpLG7TK8GDrrNqJgmN2mpgxIQTBpVZnTKz1F73ocBXCbKyRoUm-iTksAiJwR2-d1zWZmRu6ohyCI",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHUtN5RD2wokRfed8ihFv-Tc",
+         "reference" : "CoQBgAAAAKCU9aRpvlaqZtvfrD41HtSqFkHhgMxybrk-fNvcH7Us-fHAVQwr1_KuklaGQetgXV_b2EPUUZafWlzywyikclHcL-FfZi9DZ9Jl_EjLG-WHh8xPTetafACoLzGyhPIPrO7xraVeo1-4v8ybBDaD_F05W2UMZ1mUkKqrjL4ANuDFEhCHJEE4Pv32YwywwqVSKd80GhRYVO05ugWjtYlOfP-awhiKuK3Jyg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "132 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804732,
+               "lng" : -73.952358
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c37e76a7c4c712b4bbdd7412c0db985e7bbf91ce",
+         "name" : "Cecil Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ38jfXRH2wokRyPrFRfAYWJQ",
+         "reference" : "CnRtAAAAAyM5qQG6Zd1ETyFVGGWXXDCT6UfL7uw2dVo9ryda8BNApX0ktBl45qgGckiQbFiL6TmDBuDYTPiIznDJ_HHFjm6JMosPgLWR2hI-_2hA80nMi77lMqjEaxGoBhH9970nBNjIZA418ZtM8xvydK1q4BIQiE8SmqMnnQBlLXH6HaNYwxoUbS0u4SBnkfsI2xB-zWaV0UeBRTU",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "206 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803953,
+               "lng" : -73.95478199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2b0e0d936f44c9c31eeda08cce730aa12c5d946d",
+         "name" : "Benjamin Optical Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 281,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5hVAmjMxZVAqcZ-7YtIXUPoG_LXFB_C_MHHz4J5MnOeBONe6LvH1Yqn71iewLEvjS2C-CwrqTmt5QJ4UUg-bqiAErwhtXmSbwid4ziIPSAQtbxkQ4hvelUwY7BV6vCfy7LcQbfz8NsFLfSGnMsFuUBIQv2CB4JOC0mFMWAec33WZ-xoUkSwZV0QNE3WxtDsyNFtVqUQ4xFs",
+               "width" : 421
+            }
+         ],
+         "place_id" : "ChIJC1nUxhb2wokRn3lRa7L6bfw",
+         "price_level" : 3,
+         "rating" : 4.8,
+         "reference" : "CoQBdgAAAAe8XO80xVhbfwW9NV7n5Aa0OtKHhfMFt-yxMyhNPeFzS9jaH2XM7_6-P6wvYfByCAmhGxuXxbfgqq8lARxRoFDFMjAe_VU-2JZfgyZlpsn-R1HSiXEzaupCUqCxJQyA-0U7-fACVJPqXPJx4lhQYH20vBq8AVhPhnhwJ38QH0vZEhBhqe12UWi0mZi7Oiv2WuT5GhSeiNamN6QTe9bwfRovlnazNHjfEA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "248 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802529,
+               "lng" : -73.954621
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b60b3f89053c36016e5dfc516e61fa9036ec98f6",
+         "name" : "Frederick Douglas Academy II",
+         "place_id" : "ChIJ1X89JRf2wokROMF8pQB9e1M",
+         "reference" : "CoQBfQAAAES1fLyInYyzjUSvEbojZrlTcIJ709-pK4FwCTb5K7wuV3kN5ONU1Weqj347LFkOzAn09Fi35T9OjLlbJngLoKj1_ctMfloDtWI_fC2HJVThAsxiAJyj-67CkUoUvuGBPgZVJWubX6S_TeGVuogT8i864OWXZTym6U1nGMCNX7VEEhA4uc2Eenq_wuRrrxF_trBoGhTUjdqKX5TVRCrZhmsboQjgoRu-6w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "215 West 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803943,
+               "lng" : -73.953716
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "972f4e45c623fd299de0bd36c2e217f2bdd9dbb3",
+         "name" : "Focus Lighting, Inc.",
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0bafIgPm6-KfNWfUYbLR5JHhpXV_pbKaVSJ7-Gu8hCzrT--zR4Z_2_ULnlfgTsq2tOAagNItxD_RMOBBDTM14nucNfsBK93Y0yTaBRPTSbohyZkESQ065dwkDeaisve-oR4VyRoa3rH6MgLt-oL8jRIQIyDDMmcH3pu-Etc_-Sn4FhoULk1r8i83WtM7NYw8_AQAL-EZMz8",
+               "width" : 283
+            }
+         ],
+         "place_id" : "ChIJxVCkyhb2wokRvbNXMyWh1Ic",
+         "reference" : "CoQBdgAAACn_HSIAvX3l93FYb142RcxW_v8CQN2-lw_bvulGdz97zK5XpmsLXUlrDsmTwQXyRnvZWNKRJYZdCn15ds5V2lPE3lfmrLCQvs_Jp1NpTKV8-i0BaAVJrwg-_20MLmYBjD2Sg9_cHcoBUtoJgrG0ZoJ5GybAihHA6nag8YHWUv9QEhBW1ltDwK8rbEK_C7yT178vGhTCia-EbABm_gEjEulOKMm6nOi9Lw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "221 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804416,
+               "lng" : -73.950901
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "ccad754e1236110c48a22be7f07c8fd76718bc38",
+         "name" : "Brownstone Fitness - Harlem Personal Training",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJv2mheRH2wokRQ-8yxKRVG30",
+         "reference" : "CpQBjgAAABe-PsoN4e7opu44sWY8iqLojKFqczBhlwoQ_XzLilspoCMKHdysd_QB5H0z2dOwBc7CR5E4OLhQ5nd4xL2QsnfNwmC6fHIzAtCholRe7lzefPYYOFcvn4TTXPJ23Nb-7FUVTxefD075em7x-B8FAU872syoLefbQ4gEkNfacKPQlcbMSrp6lB_fpXSj2-tdlRIQq7fWRjkuUc6ILjUQj4ohChoU3nHNj2wMkkAYyNuT1LEwmushJR0",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "157 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802014,
+               "lng" : -73.95135399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c77484e43f52fc39589fe2fbdfc2e831f8c302d",
+         "name" : "Sisulu-Walker Charter School Of Harlem",
+         "place_id" : "ChIJazuz-hD2wokRpjEEUX6TpdY",
+         "reference" : "CpQBiAAAAEYnlfdQrKujrva16ex0uG7B5C32vqWITQsiSA7ze4hOENhCuJQ-Wk7vkp0fkBLCJ-QdlaftWwrUiKut3W3qpZA7CoeIFrdsRhqbCylBr4p6DsPclxLd6DJVq3Kuuj3-46H5kZYvy5lMUXr_FDzexqifPHXv0kA6Bz8BOzv5xu-4-uY3s5IFnFR4vZJubemlFxIQEKJRzhfJYLJGJErtFfYgeRoUeMi3_AuqpYDRjU2Xf3lB0EuVa8A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "125 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804778,
+               "lng" : -73.95181700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a6e2c97e334a5842d9f6474f5d05e5a32347bec0",
+         "name" : "Swing",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAMVfg_Tss0qZGnsWSmMNSWhpPQK6M4K-RfMHzGHdpV9V3NhYXH3m8Z9RzxPKX4bOrKVFSJkyEDb9TRF5GVM4hZgLH8SrlxYuHl0KdLqgj_NDlcO4-AQL4rukpcKid1eGT2snh79XOsHbGI274O2EDWBIQ-O3YXWsnx50VHAmdiLfJDhoU_IxU0j4gP2nurKq8pQXiWfuMsrM",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJxYANYRH2wokRI6SUMTH-ctA",
+         "reference" : "CnRnAAAAspsCivIqI198iChRyKpPKm1t2CENQuODqVOuuwmKnjlA2HvGqg-6uYjeZwPacspazTcctprs_kPSsOp98Hs8nIJlCE5Ex1xkXAT9dGmBkA6tyO5T9FbvxxJsgsHoB_L4k3b0va5VsyocmUaiTuTcDRIQi-ly2j-IxFvVIOhxm0veAhoUXXUFuJqh5fsDHz6Yf1PYII7bJ7c",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "1960 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802601,
+               "lng" : -73.953475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fbb27c9b13fde21f941d64818b44fe961d93b22a",
+         "name" : "Friends of the Children NY",
+         "place_id" : "ChIJDSX1Rhf2wokR9Ca18NVAlG4",
+         "reference" : "CoQBewAAAJ0N6Dh85CxKljWSWGvI6jOczVUtOZAf2xdNlAtnhJ3VnNDknkH49SDb2WXPlbpPq6hkM_UlbngJ0wiURu_twFH-dxIf1liq8UHi0s9Pm2qO9seucH1-Glo_qnSM-Ywb83hUuTbxqcaoKQCE7-l02S5VAnK_zPIQL-big2JggTo0EhDVm5T-bGgHYwAtODEh1-NVGhQTGQpCWNm4YW3iwYBG2y3EekWGtw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "204 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804754,
+               "lng" : -73.95247999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "45d5bd4a728fecf19194566f530c6740e3abce0f",
+         "name" : "The Cecil",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJTxfb1NnhxyFSpcsoO6prvYJbiJcTgQrY-Bs6pM522SePNZjlILoRKqIPJtVpfe7-IKvyhRQKH5M83DcAdf35ptWtj9JZ3EoYpTrCdZbYezFuiQ94bOOfD5ba16OKDt8nFqfiFci4q60Ov4XiahstRIQ6BQ77r_pzr4OpwdJudralBoUV5e84sEtO_gVDzt3gBAuHppSi0M",
+               "width" : 1077
+            }
+         ],
+         "place_id" : "ChIJoUvcXRH2wokRAhEdgCkJpKQ",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRrAAAAivNvg0_okvgxJdOhogquMvRC1G-Shlc6skAVWF54vJqFrkTt_hFG1LgcgMbu-TfRuOenQbn4ZAB_p5lgMLf-yvu-UoqxSmMSWjCB1okhklk9Wuf_HwfAjQohGFhpWle8VScFDKU4JwenAcnrAgRE7xIQin5X21Nph2GQoq-p0SvlgBoUqNCjzNJ6bImA52BgzfPUFL0Oe1E",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "210 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAIWOQLXXfRQSNQK0YTnyXcHdWQZFJhn1zv0rt9bvOAMCyw7AlaGlfVCx9KrbeTpwgJmt5PWndAtMEY_hkO-KzUcAQsoIm4cFga2sy6h_3rQk-hdp93vht4M9IzaYID82v1aKV0-VzORdi9kLoHNuQkVk_s-09Y85wc5kCGSrOxT_pI45qW06pm8altf0xxwKjBIQTJHP-cSYXFq7Nakub7y2xBoUSuHVCUpzUd5bPQiJATKVuVud2ao",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,568 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAICQKvcnV2mC8J8z-alVcFjvymkeLeTj3mWiRjdTzmX363q7hZN5vHknq7ofP4KNqdo9YkhPt1i-fVdNh06EVTi9-CXzux84n3P1YATADd4YPc_WPCFDzPAn863-WRQjuFDHzuAhh3faXHI_Wif5QNgK3cs5ufWTuDffWAU1gke__zG-_pztRS-5Vylkg3gk6e47tLrgTupcWMorw4gQyFdoQXDk4yliAXt1pgt6Tc9sVySmN-2BaVxteJ1bd1fLcwOTAKO0qJJP-5agy0r4_0qpCnEqPI3zGlrehZnUhQu7ZZheCA6634LDd7iropRTVhIQVRTX3rQJI-6Ly4FiH-ZDCxoU1QkhVitscy1W-Y5sEJm_c-HddDw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7870106,
+               "lng" : -73.9753676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.806098,
+                  "lng" : -73.9582099
+               },
+               "southwest" : {
+                  "lat" : 40.768483,
+                  "lng" : -73.9963789
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e1b498aa40f4503f70b3eea86ee84db9b2e7b3fc",
+         "name" : "Upper West Side",
+         "place_id" : "ChIJ1bsw-4JYwokRbMTfRoskJl4",
+         "reference" : "CpQBjQAAAOhHtnnvhl-ASkyzBfrDE1nQh2x9_kuoEQLpNmOcHW37SixZJwcUyryN-P14qnegWzkHle5mgyMHdxjSMZx8782aUe0iZkDBLocomZg7qVMamvgYFlckCKHZdBU6HkeNhMWZNZy0Izb7NtAF-W6s3hnqfoImXngfoAJCLpwm7u4js287vPFpHuqS0xBDrYTHKBIQB3QJEpPGukzsYE9gRLUFQhoUU-C-XX-nIJh4CwHC1EvCa2fav4w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790449,
+               "lng" : -73.971322
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f5ac1c904582d45cad485f7a786b65feef904604",
+         "name" : "Trinity School",
+         "photos" : [
+            {
+               "height" : 426,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAABgXPBG1M8Z6WoGX87ioUkyrKndWWSZ7fj1Av4s71_lbFsByoL9yytC3o8F5yIyYKvZV4oBKgCqdEslPgXdN7_23t_dn_rAnEZ63VTp3jTHBOpYtbLEwjYwNhG4VtmqspIeM0Jhkl0Jw4-RNc4df8MxIQNfGAF0jGjk2UfltuGVPbEBoURndHzJZ7bV6iw1YLPbwfz7LggBc",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ5SmDKoNYwokRCkbkokC1bdg",
+         "rating" : 4.2,
+         "reference" : "CnRwAAAAUYHLs-KZ6D0E8cukT0kzCqx0jxeuK7ZkaRvGcmPDTC7LK2GzCl6GvT7OkuIkw0nXmYvdN8k9gXQURlxWVvRz9jmGpndH-fSytF7GvJBTb1XvZr5HxlyxubnvJvrlnI_0D-gmQgh98qwAvdMKM-HC6hIQmIFJCqQBfLBkph9cAuA2fRoUdZOhT5bNZJGQHCTzJRLsVMyZabs",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "139 West 91st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.787966,
+               "lng" : -73.974484
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "939aa4044417177e39e590e29d9ee44738962650",
+         "name" : "Barney Greengrass",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 214,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0Mm2W-SvCWcdFaVSHyHBKIGcdYhjzQnXTRIZ10ZG4z02k7R6P76Yf-BN940LF4svuhKxe2tJtDZWFJktfh0NIa2rvPNcLttMNHG5BW8-PLMR11Ok85gl_S2ypNbMgbteymsALfO2a9hb82ciAY3wXRIQq269YYtp-m5vSkf4HIygNxoUDXLjr67cVe7cwD4avtt0pRg3Iks",
+               "width" : 472
+            }
+         ],
+         "place_id" : "ChIJZ996e4RYwokR2kEubU7CVhA",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcgAAAJCyoDPLpxRu4_f_nLeKYoY3CU1h6MUImyrXNMDhjlv07wNcpZDuESIBnzaNIiXzb8fDwy9PdyU6UQyRKRW1CbfOJcXQ9VIHjZ9ooi1yDmjt8ClsLKarccU0GVkVMDCmpusZv0c2HRQ8jCGhd74TA-DfUlG2o2nwZC_4pPGVO_VsEhCeO-S2m9qkY06fqsrpIqfvGhTJq9vs6NjKpSmloE02Aq9hDuqg7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "541 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791099,
+               "lng" : -73.974035
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bfc821af8d51506f1a4e19971f85448311eeeb5f",
+         "name" : "Carmine's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1563,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAb40JfjeUd1xWY1L4PtwionQzsBRGEc1QSOanKTT0lLPfVjyPwQ5AXFYSKfBA_SHLnDSkdldQ5iOasSTU67BCXsKUqD9RCOSa050bYnhjYjtQQHfCwaVJLZBCTvnuYlzH_8TWAgGuyXoQ4OGrmojN8BIQ6BkMtsue9m5FMcGCttOLsRoUclGz_pr9AC9Dyvcv-qRsj8t7EOE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJrXva_oJYwokROtv_EdGJgH0",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAtpAxPLtcjj8vqVrQ4jTFyxPPlYz9S7dT-Y6BvpkRK4o3JNHHxZ9OJb7TtLLCet-kymSa6qeZ83U9uvI7XNXcYGgCZVtC70dIbMaFqXS_LuRnsWyAGy2X6TZUv3S7uCPhvTcS5lS-TMgmR_9dyoiDURIQ2gzlt3wImX3x6maE6-8WCxoUHNlu3lZMEySRVR7qOMIgv-FR7ZY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2450 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788825,
+               "lng" : -73.97458899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bccfa37a72387decf4c89aa85fe9757659a29df5",
+         "name" : "The Mermaid Inn",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAewBzBgndqwbIqh6h9PaJQy25e2nxNYoDQH-8p59KypO0YNYEDkUzz0QvQhxv_mQBMFBYIY1GbxZK65O_9mdsShztsJ2ve3KS9gwevGgUve4qRNIDZGuWxAMGjWimxBuvAIqJIHnudoDoPZTycd5VZxIQwOfEaG634SbebNeYK2lzRBoUgmqOaBX5zQnonv1XEElpBhJjEAs",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJExcFhINYwokRLXfjK-u6PTs",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRwAAAAZ-MgN_ek0DUPG_avnSWPafi6K2199T85TSnzWy60w6bG0WHqY7yXQcY-oGwNiHoKf4YrtLhxNjoormcXQh4KId_ETahm0wXTP14puOwDUdwzpThbWzTNIoaPykyYoJEk-0YhYQQh-pd4jEpXClAyKhIQfDV5YGKcrTV04dUOaaq4hRoUDGo5BEn6iegP7FtAq_4EmSijmkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "568 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.78916,
+               "lng" : -73.971926
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4630426dd8620266038a751d1d3ce9ab76003d49",
+         "name" : "West Side Community Garden",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 947,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfgAAAPzXUuDTWskXSKA1fdIudp0gu52UvXsOv5GFokJJwm5U3sIpKAdNZ-Z9s7YMtIUc3OJCwoOy3Wrhw6m5vsezgGc0leXC5QiW3KBgtZyPi7ZSbJFv-X5pxDtnAGCdjPynZ95gSJrKggD2u_WVWtxGgK_4gt3JRR8dcITGwujziQriEhDziG5GwvbcD1WBEXO8i8UYGhQslqr-4uLn98KPSM1Fqsdic_AaGg",
+               "width" : 1268
+            }
+         ],
+         "place_id" : "ChIJkUb6SINYwokR9TTScW254wY",
+         "reference" : "CoQBewAAAG6OBuZ4L98dWg8enWAjSTGy4ELc-W_SxGVQbNY1vtLWhACM4bJfl4TO8eRP0Bh-61nIN7LNXfZUiqgeLPTdj2IcKqEffzdneFVqAuaviTw4iWCX5enYb08rN-k-XaGToBoQOOyYmvAIZfcR77Elzazr7OjjWbrW8uRiLBtbJlnMEhC_MaI2mdSrLNeXGQ86OUE-GhTJ4YtyjLuxt6mSHZfU1Y5rhDvaTA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "142 West 89th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788852,
+               "lng" : -73.97446600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2304651ae8d92df9c423910b87e69e01e4f2c1bb",
+         "name" : "Mamajuana Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 467,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0StMow9D841CZwUvOsvon_G8FKFATLrfdZU2ZOm56-SVS3dubOspq8nmJkojeH5KJAxMArn2vakDSwz9O4GbgYuOD7K3vhoWrECyEYYxzRkzt7lltpa9xf43iv_hfycbZuCrYLztNPkMmase6YhzhBIQbLKpNxgNGzvHfTFCWJ-QPhoU_hykBTENZnea6vjTYGgDSl5viic",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJlea0g4NYwokR9ge0E5WNLAI",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRvAAAAHA6AMtK4UAVCxh0WRB_9lTXygxW6t5q5gW8VQxg3qBO4kw1fXYSmPVza1oE1EGzd4cG1P1sti2FWPgQExakQtWOZNDD1XBt4GtkEZznU2ba_0YFDleMThcqVX-FxVaOWxc4jgSj2R3TR3CSo0chwyRIQGZPVScH83RZRCPz6KvWEXRoUJde1Bc6RpmUHR0k6Fd2e2edCZnc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "570 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791181,
+               "lng" : -73.973938
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "612853697fff70a5979a2c32fd85af6c968ab9b0",
+         "name" : "Big Daddy's Upper West Side",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 874,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiKS7xOuhAOxmkQKWkjrsAqHR1HR_OKhCyIYQ3slIR8qNJcdOa51-IKZnSY88xbRxVjL2iKO1RDi7DpIPq4eKsvxhsHdI93q9M921FTTAwNXSUPFwd9K31zst45CAAFylvmvvNYw1BS5bz8duegN21xIQS53R-7kq2sVzLWbdc8YDCRoUd6cT5QmWAbsQcUadeCEWmbJeU10",
+               "width" : 1310
+            }
+         ],
+         "place_id" : "ChIJ3aKN-IJYwokRuDQQzkAlWIU",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBfQAAAOv14ffSDp3lhw-2BS3QwQhtrwMKJmWMT-vxFYPRcfUWgHcJ2JV7RqrygMeoEj4fmjPkdYf3QVdKNmmh9zF75U3bqFgOHu9NLycsdj_V7WX3OfVFvhtyelYLWDOxQY9GnYvnzFtTSXC5GQ8TuJmtSdfwO_muHKVKzjXk_fZAWoxREhCRgWR_IROD9BvbESLCKP2oGhS_orxoM79VekoZjQUYm9Sk05LaYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2454 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7896,
+               "lng" : -73.97388599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b136d282ee904f7027245f2bd5613564cdd9a69",
+         "name" : "Papa John's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 97,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAZvzJvVBfawuBbNvolzWdN-vxNaw9xfYNu9XpwqpEXR_FioQ37Th0W-WPK8ybG-niqbiiixEBidifzhiPC88DE6mNgd2mG8t0y0BNgLqk7HgxrYGTwULZ43x1sfHWudexq0KwYEhgQbkHx6X7EMoQERIQyhay4gpS83mB33I4OluqbxoU8CcKQTgnAc-smB40M5BM0EJSQ1k",
+               "width" : 145
+            }
+         ],
+         "place_id" : "ChIJVa8uC4NYwokRZbiuUS2rCH0",
+         "price_level" : 2,
+         "rating" : 2.4,
+         "reference" : "CoQBcgAAANYB25A-1BVNAPF1Lz8p4T0gkiT1wSE9v_pjyTApRGPC5LGvmQ44sKwIir-NcZFW-MEkaAqX9UkSKPR9cEWPWnfSpSeY49sTNX0vgsWhEQosuuNqSACjX58WMTUhKnS3SsNznPIso_KU_fv9PmLxPfJRIUtgTgAPFVc9s_CdGlwLEhAq0UsopiX_WymIxBX6Z-s2GhQtUYJcBFNiU20BlnaS58paDqV57w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "594 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788704,
+               "lng" : -73.97084
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f6bd7b45ea331e0e9a721a5b786beaca2ad72551",
+         "name" : "Super Soccer Stars",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALbgujlfy7AaWTv_UFQu7mvG042Y22UikSla9IgP8VFvt_AeJzTpEa0K9Xj7FB1k8EkDyo6Rp0CQ4oIlVpgGL_UhqB2JqKZ1v8Ft3qPbVi7WoAMSF5GMOwmX7TMIEYiS_fiPppip1IveLD6zNMNAP_hIQaKfmuQ1iUu2O7U8C_RN0HxoUhi-G4f9N3k0_yvKBOS4hZzyL7wM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJL4JqXINYwokROzLZti4Q2b0",
+         "reference" : "CoQBdAAAAEyaP77_79DcYqnUvt-NXt3wFqCHkqY7HWOwZ-bcxl3yjVBQixXKtR9BouofKl56uyz2O7QQ5YcVAIQIoOwpr-w7xduy7h3mNxqbT-tr5R1c3sTzte1G8W1oAObWty6fTGNLohZFzUjR0VH658LiHsKhlk7_YBDhXOCUdmxzOPOdEhD6es-Eu2E84IqZ2Dck8oNHGhR4g8Y14K-tAp-H4au1pLw84aahQA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "606 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790838,
+               "lng" : -73.97295
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c90af4da2c61f568672a894dd404d6fde7107127",
+         "name" : "Plaza Jewish Community Chapel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWLDhTfqNdZ6hoCG0JTPfLjHnyALr9NXq4qPnOmJmV1OY-JQ35wOdS4bYyoVDcb8tlvi1wiH-9s3LZNA6TAyoMquck2QqdtAvc8ipLraogFgLcwqnuvyiB-8NUf2mk7EcNIOvxoGWI2dFKy5xIZiBZxIQpguF2d9LKjn3a3OF-xlVJBoUVLeHkE1KpgDvhvBUSydoLZs1a9o",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJl6jA4YJYwokRjb8ojndLKOQ",
+         "reference" : "CoQBfwAAACRqPD4txZoQqiylowqg_-IwyV8VX4WunNgYY8FlPckWNgR6t6EdBcUibTzmlROgEsVWyusHvSvwAwdyDsnDJvELglNxZ95MZuHfnIvIRHxp8vG7rfuRn96DxnlvcOLdySaxJoIXrHwN828_xYkX8fQf_SQZunccOsLw7E-k--a6EhBraY9_x5uHV7Z8ReE0yKLzGhRdhtgKLQKiMhV6V-t5X42k1hpIZA",
+         "scope" : "GOOGLE",
+         "types" : [ "funeral_home", "establishment" ],
+         "vicinity" : "630 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791081,
+               "lng" : -73.974745
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0a258e2b52fdd5f8d211565e4a576065498e0b12",
+         "name" : "City Diner",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAC37z1d_qYQht0euIi38R41tyNZXZVFVl__pvJKX9earMj3Inm4PHt4rS9kYrPnu0HmZfsata67zZXC5wu06K7zj3OWojpqxnTYllq-KM4qqO-WHSVLKPouVM-zpjEmZWTBktyZBzLo7HzW8JzB54oBIQuUifIHaRx6-rMHghBFH6GxoUBznidqU2xdcP4_od5zgiMZcz2Lo",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJSYM_UoJYwokRjE2LiueXsNA",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAAMU9MKSQ-kCOZnqZ0NfEDnYOYpww116431WsfVkM6_FiqZ_lTDn0TVXrRHBR26u5seCu15BXtGgTvTAjiB-OyCDC0Yfl5IejP9ADA_lVHeMUvbgPbSQkOuezo3rK9FF81FEvXB5-hGzQVBvUM0UHSkRIQHpPaGD46ZyEQRSXzTmfythoUyvp1RyRmrhvQLehxXkaLi_ElksM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2441 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788713,
+               "lng" : -73.974531
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "da0a8a2aeb9abdb50de95d7a3198179ab6231cd6",
+         "name" : "B. Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAM5tYv3tHDvdtFmUsQZeLvLl_EhJn4A8IWYiRL5DTwXuSOLMIswxP6SIHHx_mDLnB-f4KDiTy50VlDfHHZ30038vhhIuCGMXQoT_nhrF6y_DSqafIFC8BcPmNPC7hjuCxCPyAXAuV9XpqI2EBFlQCgBIQwPfqSnXYtjLDruIAbUhhORoUn9FxKSA9PODaES0fLO7gqTodTxc",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJBehpgYNYwokRquN_4tPMF90",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRpAAAATCA3qaajT2-Chhn-NSXYmkEsOFJONJzemRjuwWbOKMecz7uuRZ7D-mwBt3pzZFDgq3OKy_sGaaARg24dwRWBkZWXEnPAOkjhGYczGfLtuJ9l_a51TyBVy7-8eUj1Kl0yFwSup9_QuzZNIPvOD-hmqhIQJR--vUV2N7h1l54QeVD6YRoUzxVwiPQPDNnlE0_n5Vp_BkTX6Dw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "566 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789878,
+               "lng" : -73.974794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "774c23a4a8cb7208b62d6ccb64fb7d89b2ac1d73",
+         "name" : "West Side Judaica & Bookstore",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAy4DHln74sLYn6ZfEiJTPeUlxM6o-N8v2vHYsCQNJFLme_XSweZj6ndocHpg05QqY5X56ugqKeFMvjKGHES09lnivgXu4ihr_pfmkp1XuWUs4hyQjDYHQcN79PJp1iSg9lcyx7Cxgs5iJRiT1PM33DhIQL5W9h4hStzImHYXhX4cXxxoUwypWLrZTcjjay29mbwBsx3AtB7w",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJmfQlvYNYwokRpX2TUjJsfx8",
+         "reference" : "CoQBfgAAAOWyWjVq6yDWcMuQQvyubfp4H34GwRHmzfMNTfIDiEoRDN7iYJZ3ebN9OjSk07_8heaFUheTepmCuWnhWJ0xOsYHwVC4WcO4wZC544zDfPldRM_Nub3bcVpjTieNf5cJg0LzLE7qANL6ifprDpaU2cWhfC8ftSLAQcdUjX6bo3I3EhCUSEJrTFjlbhzhN3q6PFzKGhRBKustQhV1eSNTZBQvoZHZDvv1mw",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "2412 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788694,
+               "lng" : -73.970865
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b148eac3ff6be8f162e2096e8118fa8d294fced4",
+         "name" : "Columbus Gym",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW0z1sJxYwokRihrZhdO_nfg",
+         "reference" : "CnRuAAAA0Wpw9BTUoTjOHy2nJVJJd4A2fWdPgH95AP0RVrdF82k7DUygEA6Y9kpTvvE19El_buM2VeF0qe1tE8t8GEEJxUTXrJtshUxfjGlsXrUgBrtEnfAp64jshQa5-foW8hXgOIMsqYvycenJ8Sov7y3tMxIQTmaYFh-8f5z_fRjGkJnAGxoUyImIPuYHkraHm_7Z-j3Z9fz9gOI",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "606 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.787735,
+               "lng" : -73.971456
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "20cc90e597ba511d0c50f07e85d68307013fc9d6",
+         "name" : "Common Cents - Penny Harvest",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [],
+               "photo_reference" : "CnRrAAAAFw2m2OPrXYqP6zXJhrqo6BceYM7HYLoQGI9hhP37WwQVFEs_VRpwl-e4cH-vShtPQQUUK-PMWPmRlxL8mqHQRJ-8CWqQdaBOM5GOXdUIkHkLmZi5qqyeYFd_9801CANTifo_vN7ylax-FhpFSGHdvhIQ2Lt3X1TS9eQg6nL98OoY8BoUHMrVYfVdrRL3Dpax1VDSfbL5nOo",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJOxBZqYRYwokRxf6VVISFcmI",
+         "reference" : "CoQBfQAAAFRYlUBJTtqMHc9Pl4yn3Z75pHmqXnVjsGmtcz-ggdIEpqsSzifpOjWuq9mP8pGbOEyt-G81ytKagcDOm_mmTmO3-PKREPBJX1iBUUAYr_MTf_BUhz_a8nO0aHe7vyj6QZUMDhBUPaXOg1rvGKG4TgQwEfO3_lherv6aaV6IMRlWEhBiZg6PatPFX67r6iD6xoPvGhQ6rVXqdUVvAhBItMpTqGPgRlq9PQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "570 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788779,
+               "lng" : -73.97470300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ce64212431bb24f4bf2ef468d4de9b4c92215629",
+         "name" : "Ozu Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBehpgYNYwokRp8oxNxOFKok",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAARBkXhJKQQCzMn6uzx-onBZ42rf4zQ7cZsOCYMhreFKjvGZx8LvkSKSXlHeMKDKqu1hUvTiNws5_Bl8Q80mIyqactsqO3LSTn3CRuarRGs3llENe9WB8Q9oH23larIC3boIbh43Fv04hIzXq8bhbphIQRJiravbG2J5VewxFEuUM2RoUA9pjBxPcnYPO-GEGQVTjQrWyTPk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "566 Amsterdam Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789355,
+               "lng" : -73.97401000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3b2823324fbe9549b9180c5c7db5486cdb4b7eb3",
+         "name" : "Bodrum Mediterranean Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 931,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAp44uK2daTtg7KiTDrJzN1umQ-AUrOu1w6v8YFb-EJxsPff-yTEUHcQbTdf19c620iK5A8pCYX_6cNDQn2i63oPue5mNY--YzwbvTYHUM9cdiW0Xzf-1QNh7h8BeidRzRBeCbUeebRGnvjoTIoRSO6RIQUx8iRha6zR9rymY-Jaow4RoUWtievzlsXPwBwbdFOLjMrDzJNls",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJq2bNdYNYwokRZAOPzrJjsyM",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBgAAAAAN5kbc13nBjsS2r-N4wnDMEYwwkMEbd67tw5u4q9wPyOENWEOmUDaTJj4uPOGAqkZK6mIV5PW0QAqLt1TaGQavmXoLjc20uiy_qlsbHHElpzjcyRvjylRVmX82yUJseCruNfxav5JQCGO2UI4X42JOWrVaIsUVFbTfiJKVWYmcpEhBWHcQsJiEjHT4i7IZEVHCvGhQ7zjBzadZsXY3Gc3znMFELTDFN8A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "584 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791011,
+               "lng" : -73.974082
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "095a0457b91add22ef5aed695f2e0acf8d5fa81f",
+         "name" : "Tal Bagels",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAW9PTFFRQCzPeq4J2JTn-YIUKGT33nR-IWQNABfig0bnEzGkwqKHazPD6n5H0T_QrsmyNR0WWgBdPeN5x8845Zgrc6Tw6l32CLHHVTGg-C5mCmmXlLlj7sI_m70r_oWGCiiM7qZwLAAKSBnZlqMZNMRIQjfvV0qMHsCtUUBVQIFzWkxoUpgODeYVUy0d5SYzX2ZIB1oWTREA",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ61WfVYJYwokRQ7dII4kqK0A",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CnRrAAAAODEFIuRNLfyoIpufxynjAbLlsKHZH2JfstDxYrWa21i41d_82ESbtA3Tz6rXCuidbgV9W03uzmzpHRd5rnrItmZBW3331R2E90qaOwXrRrgYN0gyj0mq9AGrxz-59P1WarKOD32ZkRzzMEI7vTvZOxIQfvylHEu672dlRACpFyxDcRoUxUGZgHB9gVts3FPvJZJjrIGyACQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "2446 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBhwAAACQrBkfXrcEeUWTrgFbEQ2Q1k-G7iC7ymqMZDBYlDY01CnVYh0O1PawwayU9VNFYpAHH3S6Qx_jzEzzr8YZauQf5WCPxYoYwWFGnL6INqxgQ06lflmsvri42YEPTYpZRYOmIQMd-UIoF0jVO9NAclqIrh55IkiLEOrBbZD87MjsL5mrC9cwAJO1sPOOrXTIHRRIQ0Yn0A8ZozyQwAbqVcoEFxRoUhwzIwxcuuMrp8cDT06o8nc96ll8",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

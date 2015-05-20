@@ -1,0 +1,353 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhwAAABTiz25v6Zz38AZPGfB_qKs0KVu09UEp_v6pmVau3DoFVm8Gs-yP0kbSYYDgwv5CkvrR21AbbUKtv2juOSY1GhBq1QSy_RvlHlxOvinwssCGnpkmJdTeHafPThUH0icMiQ-7LCNyJ2EAA4gFR2lQpZbLdhHMdYsknTg3Vs2PjVOXGg5AeDKTqoPqENJ8HAU7ShIQmbNa-FOsUpAev6G4lmQQkBoUhtNp7jzm5qIiicXt3jSAOM8CFfM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82445,
+               "lng" : -73.91965
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0a4df930cdfbe894ba38dc235034d5020f32d9ac",
+         "name" : "CVS Pharmacy - Photo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 86,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAACmliw-Hq_9ZA_IKatPYwu96iWGOmG0r8mrCv5d13xNnoyi-0i3z_Nm1S_ICYZ2vWemWHIqGWuxa9gpcr7dyGsm6Cgp4YUQXprb45tf-dTuSFb2ZGCn2tRe8oSRv1DUfHVQTuePQKor4BpsgAr4xpPRIQzFoU4nmY-0mJSim-snXcHBoUbxJ-bBjCwzRnnO87NmkfjvL7hOw",
+               "width" : 87
+            }
+         ],
+         "place_id" : "ChIJM_7HODP0wokRjETNucDp0cM",
+         "reference" : "CoQBdwAAAEZwICUsG7nM0_xAcn8TRwiV1dKiEFxw2y3NcsreU1S5bH487ZTvBsI5_GM04_pOKF-tNbTDwhFjgkLb8HTyGMk4oTfwnI1D1uFIL8919eOazgO4c2ZWvjO6J6JghW9JCassr_OZmXASt7jM9Xtlpe7ltL4mEg2F6WIu0H-_addrEhCNl2LscFDxQknLz3tcLTCAGhSp4tjqw7ttZhL2ZLFHAf_2zzFbkg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "224 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822489,
+               "lng" : -73.92314
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "67b7abe00a35ded7dab4a6e366109c33ad1a937f",
+         "name" : "Bronx Leadership Academy II",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfwAAABexu2CBBvkiyONo-RIibSv3eK42tDjhwkRggh2Kwzp64tzX9eZuYR9qipGrlizO4f7ZaYFrx2lhnO5KsBPYQcv8IxIbkFnM478OxHD5323pMn75L7p-7P3jcpBC8RAyGst6h15_9qDN2Vs2fiPUKos5_ifdaMAhtwrbEai6411LEhChoZ8PFlnk_7OW1_kgwRBYGhTwNTYiYDrKf5ohGfGPqq-YWgVl7w",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJg-PuL0z0wokReXFngv9w1j8",
+         "reference" : "CoQBfQAAAMhNZxLHQJ8rmFp_C_nDv3H8NgI-7Km33DsKv6j8bKZ9dK-iOnJP35PBIdsOJ_wOhYiy-qfhs5WBzbnDzB9A_JY1KW0vXPibBEJs66HeUM9kl3b2YCB9pCDkJdkxS9nvoDXrln3hJCuV7T6hsAtBCZzd2yF_B0N0lt2L2jO-XgNOEhD6ANiHrxe9hd7lHx2QMDrtGhRYqp9qltTRw5i6G8uStGDpPRv6ug",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "730A Concourse Village West, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822675,
+               "lng" : -73.92110099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12fbe28e2b857d9935e7ec2309123ee4a2f93c58",
+         "name" : "P.S. Middle School 31 the William Lloyd Garrison",
+         "place_id" : "ChIJnQyPVMz1wokR16ryKayIYg0",
+         "reference" : "CqQBkwAAAIxSv4FkK_9n4zSXpd86LCT5QIAbbm6G7zD6uw6fw_QAWteszSKaZ275U1GJZfDwbBD5MNLk3nacsgVIajuIkRSE-aZ_EoeiHIhieNp7oyKrsiVVKyxG6ndwmlcCgILeiK5BsSlEe0I91SWHzJTvR_SxQiL2-m-LvOYLjK2rSt_JWt0p95VkOngZZbkZrt246F7wr2bxq9Tlarf236coKz0SENSSQNoutsaxiTXjIXIg_oIaFNdv_JWeibgdxIbjeFrWRIyoE1Tl",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 156th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822687,
+               "lng" : -73.92145499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d7aa804d6774ca87844eb62c5e31c1b4237882c4",
+         "name" : "KIPP Academy Charter School",
+         "place_id" : "ChIJnQyPVMz1wokRAAf0xMN-1uk",
+         "reference" : "CoQBfgAAADb5-zo8JcYx5jzOLKURNNeFpa6eO33EnHRs5oe_XaADJ2syWa8vvCRzYsi_XuPJQL7yrMSk27jdVOOBrntIwxVUrVULwoiHlyMvGj6ZgOXIAZx43lLO4DwMunMcHiCUCtJoZeYlDjKK1zzxn8kz_WWqnoi-bNEsU4TPGn8n3qvwEhBLUe3U3ZYN_7ykBs-GS0wXGhRGJ1zY9ABQrdPa9-Qw8o5Ohaazzw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 156th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824502,
+               "lng" : -73.91990800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "92e9d4301cf2868a90f9fd6d3f43002b9b7e674c",
+         "name" : "RadioShack",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5NEtxJdQOf4PuwsLiLvi8cp4tXI3DM-0ocdCs2OKMGSA88ZjSy8RS74oshD05cO4xb4-7AZuatu03g93uI-mY5OjUWQtrxMPVmdbH2lJHz_tL-9z7qhCqiYqcDl7ZR-U40AGTMntxHyvD-hFu7yBpBIQUP8qcMS-uTABYL2wB7OShRoU43Hqa6sEcd8vsmU-XLC5uZYqdDQ",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJr28pOTP0wokRfXKdAYPA5sw",
+         "reference" : "CnRtAAAAgOOtRK5gxrQ4goP6KB40U_uq6BGJy-1cUPPG2U1LqhVsud85gQpsXR9vvOStvAK8L0Vo4GzJ4u4Lw3MydzJW-0XL3EExgpRQpv0gzudzzynGlWN-34rYUWRFyVOeZbbWey8UXGG2AyujcepFYpA4sxIQRj9pts_l-lJoWPgCvaJi4hoUqeKd3eIKqHcibRfSgq1tshRvhaU",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "220 East 161st Street #64, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824781,
+               "lng" : -73.92064000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "ad429abc92379b0369010cd4629592d983c0ce6c",
+         "name" : "Petland Discounts - Concourse Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr28pOTP0wokRZs8VilfSFCA",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CpQBhQAAAE_V8nHjPfmsyDXNXNBaNgxkZ9c8fI1CWUBDOq1OH8fMe2apeXVSULswZbqWvKhexgd-CVFszy_pmDRGfPxt-WE2sPf0qDl4Vx76Begrn7QV_667C6ZQVOK1bsLya8fYoQL6jM3ZDXGEFOcB4SCas0lOjL1MDs8aV0cIBrMpOybSUM9zIrT20Ju6EdbOkvORcRIQwKe8PXPh_zruwRssshW-hBoUrXWQoTukcZuhmsn4y-oix7NzrUw",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "220 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822512,
+               "lng" : -73.92148
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af5b2680932b3060b02761533a5a1bc3b18da309",
+         "name" : "Kipp Academy",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAU0RvR1q9QtCvuM608qLAATj2hmh93Z8c6x9vAqaYuT6aCtBmmKlaSnkagDFoQxOtk05PXuRCGF1OXviYEMYjFk76UBD8hWtEsIr3Vrcd2YStT2f_6tQPV_kDzAY7H1eK672sTWf2gZ26dQ31vU3xXxIQWvyA76LYoYVgjM5L0caaEBoUo8pZJwHDaHGluiA4xUfXDV_ANSI",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJnQyPVMz1wokRb2X2jx6_eiY",
+         "reference" : "CnRuAAAAs5FfXyD7s57K4RADUtBYRsrDGTtkSNrB2Mh1S7O50xJGAfiD331fEHTNxKr1rXArKwwNU9ugkz33q9X3_2679GGJEz8z-8ycuUe-N0VKuqy2-B8tmY_gQAGykBEhr2a6WiUJChPE1X_VaaQXBFt1WxIQuJ9cMusehAIg6-xPlYi0uBoUwS3HcaOF4NZa-tYh_ecSUaG2oqQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 Thurman Munson Way, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8228,
+               "lng" : -73.92279000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b0159b5336ed43e6b5f7bab8c7d2e3b6cc76b09",
+         "name" : "Bronx Elementary School 385",
+         "place_id" : "ChIJN1KOoM31wokRT-pA1_mcE6o",
+         "reference" : "CoQBfgAAAHoINInFeJDKdfL60zI1EYoyRCYJQNiGNNdQMV5ah51YRi1RI0SnSTHnBmD_Bwc0JPeRx3pYMLNJ-uy9LYlVAewXA_mS3EeDYJnursDsFCFIxovKcYLu9Y3PR60M4Bf2vFYsVVUaH68ngv9GSxvC-NhdtDhVNBQKf8MgnHIhxMzSEhBCdxeGw_m5jzb4pUgKvpDcGhTYlrV2j65u452l0V_Cem2fbOljMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "750 Concourse Village West, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824791,
+               "lng" : -73.92057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f5c1817cafd35836d54d550a46fd108f5889ccf",
+         "name" : "Jimmy Jazz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ83RsOTP0wokRmAb-SXhMDz0",
+         "price_level" : 2,
+         "reference" : "CnRsAAAAjuYOvIEowPHZB9putoWtibie7n4hBEr6Yk6aE-MQIv0S_qO2ZDUHwHMI1TwHvpaAr1oLI_soh9oK3T0sr_tZ95j_WLOAg2JHS5JHOwdJmcyv2FqAWXqcmB4KZCDmJ7AZQXXVR-Y1K4RMIJ60Fa13exIQoJMfv7_LnNkJk9zzJTDkXBoU1F_DdfQ2zPBRnpOJvczmlICc_hg",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "218 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822611,
+               "lng" : -73.921583
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "04e61456a58da5c51e63711e2d3fe6c942596af4",
+         "name" : "JHS 151 Lou Gehrig",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdgAAACuaj1zCE74EujIg-NxYbOE471YEASG5dCyQIbxFB-q2nacLPovqXgSkX4n5mu-eJ4kwn1EhcybP0h5D43o9iD2nmp_01KYA6ZMMHVKRwka80A6rjZUdCrqVgX52knj9m_InjvxhaqlkrP_Xoc0RMUQ6JBbcimhSs4LEraIAdUWdEhC1tTAXFJpJJ5Lja52Ln9xNGhRlhwMGHSVsf6W4WVw7Qu_Qm_yI2Q",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJnQyPVMz1wokRpTgsMVprfY4",
+         "reference" : "CoQBdQAAAIc4XMllXcQ-WkC4Bljezx3vdRnPaZTp7rf3QMI5f8CSoJmPP_78vvHROugUFTsIqCtZN5OLZtIFdA7b9eMBpuyBRA7Dxn6TysSmCQ_eAW5_DVX_XhRr0T-VlQZX0qhojUZEWTtjwk1c0G0y0YEJbx5Ga4tEnQndmyIyB_G4wMikEhAsT3iLWfegp37qBS-Q00TDGhR1U-iX9Cr6Hi0zufuLiO0M9e9I0w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 156th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823921,
+               "lng" : -73.920967
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a54503d9cd1046feb902c03ddfe4253845e74bc0",
+         "name" : "Concourse Village Management",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfgAAAA1nX4lAXFdjqzz6yAAb6jzG-Rh-BYGrMtHROinxKfx7mv3Lw7dK249XevVMSgCmnnbSLDnvngdI3ESTRrNUZzt0XHusmJqC4DQWtLVsm30G8gvul86PnsA1fZng7lFTqcoYFNbWytR-g7cGfmgYE4vTb_BIjASS7-Hlt7Gaq6vBEhDaq4ANQYlBlSOzjqrJ1-_vGhQs3P7juSRRQHrkEK2CySkiVfLjKw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJWQlY68z1wokRO2B4B7mg8K4",
+         "reference" : "CoQBfwAAABoIco45n-Ux6ti_YZHCWFq5MQDE9EMvLJvgsACMZ-b09NL_V6gIfDw3GEzeB6bqmWg8gqo1CLqkhejYDU6oVRwIK_aKNRv5hgMqol-7NqQkrzBRw55FHY3OYDUJFZyfTGSYgCODwpbkxmmikyBFh5pmIFHVJ6Q0O2TCVB9Ly_tKEhCaHozgJwJ86IosanEfY9jdGhQaUWV-BAPfrJr3EdgW9_RJbaTXrg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "775 Concourse Village East, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824658,
+               "lng" : -73.92017
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7804a7b20f0afd0dc199db893e007f5ee699a8e6",
+         "name" : "GNC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJi07QODP0wokR-HfxmOiGoXk",
+         "price_level" : 2,
+         "reference" : "CnRlAAAAGS2kb1_5wGqJIKgP4jYNQL4Az0F0DBz1XYALPX-3ss-eqq0qkGH9v0uYzkKpSEjhdZb341bjW63IBMvBCkJ0KOh4zX91B7hwJfDVepCiX98ojfFjjlfSESubgAjkvEnsfQd1-ZibSfCtHVQckfXd7RIQK7fSQSWtTtHxCp3GFymJ8BoU6r4KLJbT-r1XGrjh0nd2B1TqcGg",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "health", "establishment" ],
+         "vicinity" : "222 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822911,
+               "lng" : -73.923079
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1862fcc5241b51adde901f8ec8abff8040eb2771",
+         "name" : "Bronx Global Learning Institute for Girls Charter School",
+         "place_id" : "ChIJPZKQWKL2wokRP7EnE482aOU",
+         "reference" : "CqQBnAAAAJPO7zg150useXNTgx0N1y-H-W8SW3Ab0mtKo93sONB9J3HAIrVAiS4moYmgNGEsqiL75bNdwGo76iGKBx5bGjCywKVmLts2ClXgoyqOxGfcs2R5yBDS4vU9SAMVhWJtSDVFTaAPcGsCEq689O9hhiESxaB3pAzEXeRy19Is_yCUwe_izw3vmQioS9vSYuXa9cayGZAl29fB_RBs2y3hfwQSEG81ssXil4y_fuS2xozmteUaFPx_OlIItjAQtT2b_6JuaG40g1fP",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "750 Concourse Village West, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82837139999999,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8364789,
+                  "lng" : -73.90722889999999
+               },
+               "southwest" : {
+                  "lat" : 40.818436,
+                  "lng" : -73.92658399999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "20a6d9a979b2218620905a6af5f17b789875ca99",
+         "name" : "Fleetwood - Concourse Village",
+         "place_id" : "ChIJSRJTZzT0wokRRFm1FJrnjCE",
+         "reference" : "CqQBngAAAHZYJx0VreLZFry-wfrV4H8wnRmB3ZtLbb1Dsy9jweCggfMWLoH1QhoPalYrkSVPHjb8ymTFSd40OEdZrigW7edowuJQ2aXlPsnqMnGQCt1ZEBENvof20RlEqhsLveUAhZtoZgqu9N_6lV_Xi5X8fjbNa07odaPkpr7ob2i8GP1FAtS_QXLRxRZNzHfbpqtiziO2TX8AILwKXnshdWkta6ASEI1aEPggF5oY8FDo9HH1-REaFHRraQVNaG4pSO7sB2YTzeBZU5OY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

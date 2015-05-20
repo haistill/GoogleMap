@@ -1,0 +1,487 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7149056,
+               "lng" : -73.98924699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7155504,
+                  "lng" : -73.9880873
+               },
+               "southwest" : {
+                  "lat" : 40.7141426,
+                  "lng" : -73.9902288
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fe13d5efdd18eb2e9703b75062955690c817eeaa",
+         "name" : "Seward Park",
+         "place_id" : "ChIJgYVCiSlawokRDDyA2Tq9wkM",
+         "reference" : "CoQBdgAAABw5E33EZ9PcXbOiaTAmixPVCJEOt-gV69WL9ph7ouZxWI8MovK70tEhvPFLHpZUQpVZyqi8KhG8xayA4w2Rgz3E7Lcq-g3bb6ewADbVYRaHO-hmbXGviKFSWAnVJYt8TjoavjZSqCV9AsigwZ0nltEspjXpuHd238rkyxWCWwkZEhB-l1OXYgh45ejlZ3zLasqiGhQeBvXdUtysyvkgMexd1qofNwrR5g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBiQAAAFESqZ0-AIRnnYp6cMbxnOHLEWuzFFaqBEJrYSfEUOgjqd9ylBOIapgTWQiJJvmh4-sXOABawsZkisySAq62YJzOIHTCM2dGV66OczgTsWTUXOjw_WBaTxV6oI_sBCNlrqo9lHGO5s0u7OV14jA0WvZPKkHwNKtfxSnreI4uDXm_d57a6-4qvaQpv3Y25FIPLBIQwW4CPjSD9QOHGmUX3NDfUxoU57EiqqraKiBnNW5RxqD_CRqrZmU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713019,
+               "lng" : -73.98764799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "cab0a9388bb000a9c311a3d3eca3a57040b1f382",
+         "name" : "Gouverneur Health Medical Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAu4gU66GdXaWcZKb90o8cBe-q0-ohDJXBNcifNx7zJJnKvN3HLiXXW5p60-HjnyFqCE5uI8-lrHG_9SVrguu_S2HQrVJYukN1kEi-idK5KshrRO-Q2u0PUTg9jRimkVX2Bl66yP9BGvAutI8QffNqwRIQLy5SQwicHNM7KmvxivnjlxoUtgK9xZsf39Yga1RwbZviGRcJgPg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJFb1OxitawokR2Wfi0loJ9ew",
+         "rating" : 3.8,
+         "reference" : "CpQBggAAALWtcZQ211NigM2mqiH0yCilLCIDnusA3386RCKzTAGKcZDob0q2EIKFf4R2FKU3wwgfqGjFze8qiJ_hTGQSuvVfY4rdEzsExbWvQy5WN_vVcamiB6dZgmwgYYMVJFOqao5auS0Bmd2jXQe94J3nd8OWQIN_dYmWm6Z6b6Fhz2umCZgACSVDqGgkoRDUHVdp9xIQglm1uG052xyBu9Z5opDXoBoUgfMRsGj3CV8_1ABnGjKu6PPrcrc",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "227 Madison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714906,
+               "lng" : -73.98924700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "82ed400fa831ece225ce3b43542839b1b960ac97",
+         "name" : "Seward Park",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2Sgfvadre0soZNR9ZFbc2UuHDgA5hkdvkTOhR7myyLJu4pEWivkSLqRZdIX7SM_MooPpHdn_K0hSp3lWDAsBS9zi52kxXckGyMieBmURpvf4ZJb7-BxXcYULFsA_se1WIwbJiWXC3WDmqyJd7ZeadBIQRfPt91XdkiaU-nw5Gm2JCBoUZZrGIpqGj7o0Xe-_kFwyjI9TRNI",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJgYVCiSlawokRDDyA2Tq9wkM",
+         "rating" : 4.1,
+         "reference" : "CnRsAAAAqTqB5AGItODSWycJk5CiKp5qQk7UM4LWbomeofDbAZkeWvDDWfOHNi5YRFzw-xn-PBGE9Uh4QSZjl3eL42M8fcyFL1JWAQxcyUB1v3XSoGjBUGHRK2ITd63rbvDcyyLk0K_KXq6TOJNhSHHwsjVXwxIQhlYwB5UIaD_yfgXccM54QBoUcLd5tX4P0gV1CHNVW_r6Xo4HcAo",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713939,
+               "lng" : -73.98842500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "62b4864aea5c78e18f2072911036a74e406e0f9f",
+         "name" : "Educational Alliance",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 514,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkgAAAI2WvcNej20GQBHzhXo94CsziNvT860MxvldMQXwRs4uvcMF1U6v636PHCcn3pVHsqpf9R9F-sJ7TbjQ5iSZsneU03f14MFPijekCseSOx6bakHh9UDjKE3-M6jK35CIbVxywNRHKvWSNguvrmJ7eu4TduDkNDSQ0G5rEakuL0-hUlN8MMznoaUHVZxt_xilrsj95YiuDNPJnf3X1jIuTI4SEAJugITvd_FewKCGFrgcuyAaFP4gM5btxcMbK5m0jPtnz2V3WsLs",
+               "width" : 514
+            }
+         ],
+         "place_id" : "ChIJ7Z77MSpawokRNaujzBnhmxQ",
+         "rating" : 4.7,
+         "reference" : "CoQBdQAAACLgdRI9Lb_UQ84HATpviMKLUTyoyMcjyjuQaFAc4pOrpPNppqSomCPW0w17vRrM5dODPhpUN7Aa1tb6mzR_XTIins3y6djEtspr5U5CwBWpLtsNk2Nynhk5mTvj7qjGtCnMU8naRTriXdH2ukoLa46Aepr2m57VTXumGGDH726OEhBiebiX-cxaZliZFRc5q50GGhR8-91MQQSUqLQfcsfa2VB-V1vEig",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714339,
+               "lng" : -73.98843100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "715dd5d19657a0834d095e76c1d0f5431e1da22f",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ-sbLypawokRCB0zWUxZeXc",
+         "rating" : 4.2,
+         "reference" : "CoQBeAAAAO-u4wKF2HP_06jwfkGKYSxwtZ6uqhEn9clWMNRJXISmN3N_eSt_dSQM5VwnxXAssw9t4JToOZA-GJXoZ3pfCYDZD-RztskeyqC4NpoiWeU7ogg_8af18BuQQAQJjEju6JTJRqULrN5JZSZkpTDREikiggLlKx3mITey1iEinM9ZEhB68Gs8TIQ1B_jnCXATPJHQGhS5xSwvYpeeBXeKyRzfV_Jme_4MYA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "192 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.712893,
+               "lng" : -73.98934199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83663f7ecc227c4d92396be9242fcd999db0d3f6",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhDItPPwn_Ee682bkPcBkCdp5xBKytpPEZeLjaLGoX-MkwIagywk630iH0hr75gSK7Pm3H_XMZBu7ypNMBSsJDVALGrKd3c6ViwK0mr5bZ0MkmY_yNk2TIgSECeD0oypoxk7BSQyBKYfMdabOqCNjoBIQ9fQOY-DkaT8_dJrnomWJRRoUWi5Q00W2FgUdnSCo7BVEj6Nj1ss",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJDWjJYClawokRxD9k13W2Bdc",
+         "price_level" : 1,
+         "rating" : 1.7,
+         "reference" : "CnRsAAAA7npO_vzbzY2IF1fqbfs2Xadzn7q7UFGNeRKrYHx6x6jddff7jj8tLE2Gx5Lfrd0MyOsQbHizsDLWm4OPxTBf3sV5Qe0IzhY9X7EEBHsX2a8V_joJDt0scNP5tKDgYDyjkKAi_13qzJBRt8WlOE_HLRIQ6htMiSdJZdnvsAedNhGgNBoUv6I1xTzNc4GOHUIzrEnwgK4CdSs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "213 Madison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713508,
+               "lng" : -73.985592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c75917f9a3d6e6a80c6f33c17f55ce33ec5d530",
+         "name" : "Henry Street School for International Studies",
+         "place_id" : "ChIJvw1s_SpawokRysDKfyW9vM8",
+         "reference" : "CpQBjwAAAEW30M297Ud4szEJLaMIhlkPPuX7vDz7FLxYvT7jv_SX4BPX46v3wuS7X_OdnQKwhZvT4PIcev9ZYpBpygKVBFRFixl-Itp_dKqQCrJ1dvO-pG8-jMP670RffQVM-zQEtFcyLP6g2VbkAVDmozilLtUUkyTj8yGcFLQLiiLfnB1anabyVDwC150gNidRfsby5xIQoJAOllz6sA8B2wfMLsPlJhoU2AzaOyvCjX24d1n1MVeFGZ8lgLM",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713855,
+               "lng" : -73.98929699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "dc7d23d1be850081a54b73e5aa1f80affff87421",
+         "name" : "Sargent's Daughters",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 642,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_VwWR1jHrWNylG5Ri_Mn14mZF2_-fbxAJtHJhKY1_asaRwc_88LbM03csUkzQKnbanwcvZFiE-mxJ-gN8l-gsjvk4SRF84OdydzNWq7fSaJfIspXrNdYExSaDd0MTr_1OrN8JwoxjS0ifyJBFfcRwxIQsVoyjr6KXhWqsLgZvfU9zRoUzR44hot1KIu7RZ5U6daPB_EStO0",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJV9GYeClawokRwo2LH7cuCNc",
+         "rating" : 4.6,
+         "reference" : "CoQBdQAAAGgZOU3euGhJZU4teqV7qDi5hG9nH6sCnYQbdsFPvkV4bCdu8DrRNUemcwc0byDc8tHMKAxsBvk9Tc0c-9nBPOzE4R8lnHSvZbYmYwihuztvxc_Tn9tSxS8V0N6ol_PFX6Wnu9QpBjFpZ5kRmOk2_DiNZxtSgllXcf3b1q5Bf9upEhDB8V0ZP89Xt5SqGirU5GNaGhR1PCCLV2ywxIVlGwTADqzJrbpvdw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "179 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713835,
+               "lng" : -73.98921199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77c53d0c6e2ab675835758dd53e90dabf8647b26",
+         "name" : "Lower East Side Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 389,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjMGOCqBUR2NRJxK6nUhfo-9E86XMNdIb_gf1ptyiPYqk_BB3z4OxZenBjHImabLbxgUS8OH5A4DqXWA6VIz4RSdaEC_GUR9Qp8B4bf5e7G5e1bp2c04MHeV2UG6wS_PC74OmR1kW2Iv0TRNs2b2IphIQ9OeKraRrTVHHq-F5eb_xExoUzduQ7Z9YDN76oHB520NuYVVc1tU",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJhddvdylawokRBy_QVy20DRE",
+         "price_level" : 1,
+         "reference" : "CoQBdgAAABhyPLkqzmiqTKo7MKbVXsG5TMonpwJgXy_Rk5WYnjsnukpq5YhejPHIp0QH4AJ9r3hrNBbmr1J0geS5MRl7HgqLpMkquKsd0iAiq-j2fyMNIxtk5vGT9vJHPUJzFoGx77n-KKJnAYt8DUcFSk-iOWh44hXOcDb7BFqwrBc4J_RVEhBUtq7dvp2XN-YroHh06YZzGhS1E6c6BYl_C4Jj65oMZ9o3KRdlEg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "181 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714005,
+               "lng" : -73.98884
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "287d3ae533ed651c5748ab6ba0d32a5d60155432",
+         "name" : "Cafe Petisco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxSxLMNxfTEbxZMzD3z1emITEgybeKqLUgWYtfyyNo31ZNimO660dEABm07PBLA_jrduOtT0oGClMKhWIAenibfaIYROrCYFERNDp84MlD6YIX9kT2LhBcWniLSv1liWYt6d6tRega4yE-Ry5pG2KyBIQpvzD34QNP6WZ9i0v8B94gxoU_YOlqlh205yDC8MlOfhTqng1lvw",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJN9FkKipawokR8fi7CcJtecs",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRuAAAAwCQDkInagYGpUIBkAd55V7dCfiaprqYPMCBgTHeAar7FxDx2StstWP5X3dsyoOhmS8FU1OjasphDpqV4Bb43e_BnNGHKzkkTp26Fi501DzPmcQyN0WfFtvzWSuMfGLhiqNy-5BX-aH-RVV6_mvqBOxIQN-WH3t9YPgwTNp9n8vQ0QhoU7hKrAvEwbj1Ntza5YKKm3M0x9s0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "189 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714022,
+               "lng" : -73.987782
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5a332485ed1f1fca6992ab6ddbc797fdf8cad6df",
+         "name" : "Primitive Christian Church Inc",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAgNV5_4nMaIfBwup3-I1pC8j8xWjxoH1gaxgc0r8ZHGzJXKul_7pUycFRspswwGD2-FucxOZGaF8IY6GxyUzWNcH8axJGHRVsB4nWovtqt8dKFMIGH2T25BpSMkXrt2gQWNJLpaPWxfqc9hP9ZZkA0hIQRerXtS4j54QQn26BstUxkxoUOs9PfraqINAF57ia9m9VgNbAysk",
+               "width" : 1906
+            }
+         ],
+         "place_id" : "ChIJ-wn2MypawokRrilXf6kVPbE",
+         "reference" : "CoQBgAAAAPxK0-MP-Mh0xJOBfV37m5lSSilMTA1mdlBV_bVFafutF7iVk7Uuxknp78IzOLG4c9WqkLn_WYAr4DXBz5UpXh9jB2nyAccsKlpIp_w_GjjeMUyJnfcjkpcome4CLBDTJ6Y67p_rXHsxbV6qKXY1AjPAgBUSq1jl4O2D_PrpBB2CEhBKGqFZruipXESmNXaceYLxGhSfGnZtYnUC7bfNxg_kG6RaH6JqHw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "209 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713486,
+               "lng" : -73.985438
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a6b58f0d4e648ce2c4bae5f89ed2afe1b0abcd27",
+         "name" : "University Neighborhood Middle School",
+         "place_id" : "ChIJvw1s_SpawokRbDUSl8Ml7ms",
+         "reference" : "CpQBhgAAAMZNcOJI7WUg8nYI5WrEV-OpNIgPwXKUKdLcpemjuNjYb6BRLFyAwTjUasQInI9NWKxBogxA2GnPfQGI95u_67YNM0QWvW1T9efijrHYWIXOqBar-El3duAix00KYQaPDGSBpaC5LbF_ScYi1JTj8F71g_ySkwD5_b8Ghpvj7N7v18oeyAMjAKSwMUTkssVd2BIQ190DoYd5a0y4rXe5Qq8IhxoUOpahP97PkHfGMzTsj6i2TkoK1_Y",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714261,
+               "lng" : -73.98643800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6880a93a9256de94fe99cb6ae686d237a82820a2",
+         "name" : "United Jewish Council of East",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9wJoWipawokRsA82I2RoYTk",
+         "reference" : "CoQBfgAAAHsoM6Q114SXj9TC_0rj_y1OIaopeysKQY9crcYzL8on65_YDpIMXfacxvMYsaPR7wdX3TP6I7lFNpkbexZSe08yFfIweNwQtlunVsNZeNNKIhPvI-_dRSIr7Hfj3tSiHul0LZua3LEwTbNDO6ls8LneYf9gb7t3vYuL1wkMzYnfEhAnmZfOaG2vp_zoG92DhN_BGhRY2znrywZB0DFD976ssGCVUz-xFA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "235 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.712757,
+               "lng" : -73.985568
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eff13a78da5dcb416236c18784e41ff8d08db2fe",
+         "name" : "Henry Street Settlement",
+         "place_id" : "ChIJQdiJQQZbwokR57CrUbGweR4",
+         "reference" : "CoQBeAAAANWo6O1c8xZWosd1Jm-jSkpg8emWtwqAHv9obHQY4s-eQB3rMWUwfqsLUDjIHMRsZsez58Wf28s9Ablhn7HIhiAIDBywt1MiGxzTPv3SER75NEDmWMHDfVEiJVUs8kQ57aAYVu55Jjtd6ecF-wRvx-bNIqFLxUNl3icQ-tHqqF6yEhA2Np0_KIVY488e71ZWC_nCGhRmpI4tZypIUAkz-rq61tktmGFY5A",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "40 Montgomery Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713736,
+               "lng" : -73.987694
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "006355d456389c397b4c8ac72b50be4aa81a1972",
+         "name" : "Yee's Hung Ga Kung Fu Academy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAS3RlYUpoDu-8VvusEPJL4UJ1tI_D9-DD_dkNUkKARUhOZf7vEuHucGanPE6y9ADBIKVehHA7OHGdNHBV3eVB66_zbJesuPnRkVk5ob64wFbTg_OvltDkrbYb4_MZmGnHMbNe1PU4uiORE905BbKfSRIQEiW0JZfN1XOdOBpbcs87RhoUG-9B9KW1RiXvHoUsX0yXO2ZOFHo",
+               "width" : 464
+            }
+         ],
+         "place_id" : "ChIJ_5BJyytawokR4j_v4fqvMik",
+         "rating" : 4.7,
+         "reference" : "CoQBfgAAAPyZ9WGH50_3ImLeAffU0aFwU_vL23yIToSDJfJjXu_cJWd0SWZXlBUy0OTlZ6dCqWrouwx70mHtMr71R_pO3V0qmXeXJxe06bBU2DLl2G7R4SAJetj8S-cdURf1M-DVaZ6sSai2qIlSZ36_PJUX2wcWeI5Pr25EM80DA4tQFhEXEhAuJ1cyU-SeNWJDkUwzNsBjGhSwpyj7ifE_BnFnCvqvf7_buGWx2A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "197 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714301,
+               "lng" : -73.986011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "df9bf02ead5329df540c7c91b6c41defd66fff57",
+         "name" : "245 East Hair Studio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 579,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9KNnDHP0v80jUHNv1QapouIvOPFixhDdtRw_ieknwJUcNLeFEoquXYm-mPkkEQPD5vzktQQxH00FGMNiG1HuSXua3zWkf9Zfgpm_osdLV0VwA3pYiZaF5NoTYb3qAJGsfdxJjBk1xEQyN13-z_GbHRIQv-o3uxubKrL9NMQ1BhbONxoUScA99hYng7q-uzBh8OpmpOCMOXk",
+               "width" : 1026
+            }
+         ],
+         "place_id" : "ChIJpfSNWCpawokRwev4qPekoCY",
+         "reference" : "CoQBdQAAAF1B68QO3kGPJCT38II6VLKeasQxYtGDh6D1uTE0gMXRz3VCccYNC60eJz91jtdJ4Bjc9tPWv9ER3EzDbybreO33HSIzcM3iJ1WfoZRRDmTF3wupFxmFqwlumUHMOxZliZ5MUmyFo4_7XBkCFG3yrLHw5IIZWW2vgIQBgmAihMTiEhAqYvAM8AL2DPMTX_WvDaCEGhTQjWMOF5bCloJgpircxXO2T4JTBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "245 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71353,
+               "lng" : -73.98568400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3247f28a6088240cd7a1074ce30dd1fb262cdff3",
+         "name" : "Collaborative Academy of Science Technology and Language Arts",
+         "place_id" : "ChIJvw1s_SpawokRxd_V5HYBwYU",
+         "reference" : "CqQBoAAAALOzge7O947rTwmm1zIWICwrfUfyY1aKrPWdRWcEMUsXFUF_fllSElP_M3LE3vP4lF7xUMVdz4qJ6cnNosaikJPxUkLdaKKF-q5uszHRibSK6EeFkfvOtoEM6YSgv0eOI8jpmtAK4_WQt7R16oTSlFOmGyFThKB554iaDe41nuKd1wcteQbEdjBV5XXxoMxkFSLPV4PcVlauvyI-hKDoCZESEGxThljs0ClY5oSlMHhJ-0AaFARAdoISk-N2amdaC5HEAg_ThDTN",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "220 Henry Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713208,
+               "lng" : -73.987787
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "881bd3d891955be44a26cf0e62c44ded53aeee4b",
+         "name" : "Dr. David E. Nardacci, MD",
+         "place_id" : "ChIJFb1OxitawokRX7wkp3w3zAc",
+         "reference" : "CoQBegAAANHpsKsPJQrnAWChe88XDSzgNMgrcf9AGMCACb0ETlz8UB9um0zC_bdTgJwvl1rT8p_YECyypx9FkWc07hCfukWoeYYctATwJM2IluATSXek3fccOdfuoIp7_2srijG5DGAoToezNVgzW7P1H9y2vadVLKYxOfKoPvM3nCm3eFE8EhAuMyGuuJjfl_6VSbT3DN5GGhSS6On2qOrMskWHtO4j7EKic8Lz9w",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "227 Madison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjQAAADCBNuuV-mPgzjrMtn3isyjaQ5eHuTYW-9fN_ghhYRPbU-USe1COMKmDllu5CEI8J_OvBX2xfJgwt9Z7sVCnjIZkPbeNehGiRj0Gdt4vOrfKV07MunTfKkbSoeHL6OT72cyadX7-AkAw1PdN75EwHTzYVQWdczfH9i9JgcqkvQuG7qG2R5wyx3aSblOK66m0LBIQNWkFZ8G2kttf1PzmNZbyVhoUCxysVfkwP0LX7Mwe_tQjq1Xpzmg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,531 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMMN87qLCb8BfHxBuNyhTdysPHVdb5Pu7EqYi8uydM_92eVr9dM11eFf9hUQbGDMbJMLuJ2Qto94EhCggEZ2Yr_uPk5wmRv4-jLM-oHx4WvCkVOEFHceStiEE1zDePQRirhzlunev_NXidz2LCK0juy3vFzzSVOicIIfVUT_bJmLFHfcdHOpvUfPAiNrbxT2a-rURTU9FBz9e4a4s33grrfN02R8uIuoNSSBJtFhcMnHiThHPBrrs-eZ7zqcX2CmHA8zztJ4Jb9YO1HhTT1Z1TzQd34JuDCcCo6yuTmh1wZONWhugBJDckWyFrOGmT4olhIQJaKAy7vbDQaFNEJGNfaSaRoUlg5a8tGRXjni8SRxRylTNj9jJ4s",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkgAAAAp3IPlTGm0JxCPARIM8uuE_hPoVfTFx071NQGjzcJtYVTM4sjXqCpO3zUMq2f5c8lU1ZyvX-U0f4ClTgGqVADMXa-Q4qwufqbioWjpa4RAVfjDvYQV-9G9wh8nNOzN0O83QAWHIuLU4Y0CI-7sK_CbyKPCwdXG12AANKixKycPzP51M16dMGMLsNJSjw_KKE7Q5DPiPfetROzPbwBIgmdISEBQh42covlBIB2Z0KDKjDy8aFKGVdXiDgFfV0AwDNCW7FvloMALL",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708506,
+               "lng" : -74.008723
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0a0fb23107af4fbec5794ccda7b9f6fa8bc74f9d",
+         "name" : "Federal Reserve Bank of New York",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWwEGmRdawokRV0KluY5VUvg",
+         "rating" : 3.4,
+         "reference" : "CpQBgwAAAMyAmZnFL8H4J9VIyKuQriNUj03A1CC6gQ2P_ZDLADSI5BL2ARgMrn422MaDy9h6X7TIIZeMOf7LI1oC13rtha7alBKhCnlnYTicg1WJhdvF6kGUw6syELsE3n_kgjgsYN7kplIOuV47fLG3_H_oo_rUw7NrXNWW_ezQxtNZ9jUPBfOqVmtGEdk5UvOfMT52ERIQj3p_0C8iWmWffMmxulapLxoUsGDcyQXZxEHoB2A0c0lQI_L4_yw",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "33 Liberty Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.711328,
+               "lng" : -74.00918299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8dd805bd10f532f7a6de053e36d00ba097b18ecb",
+         "name" : "St. Paul's Chapel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBewAAAIfikPtB8GFcR4f2LaQLnaAQsFuvo6gm2Yn6nfPyTbLwThCLQm_nTztla89iyMhrR0RWD0DGH-VtrlMTWsm5vCggSAA4WTUXGIUybV6Qv6X_yrGCIG7v2NdUUPbQOdy1hCc0uH4zVdSilrjuKXbY5Xma433vzk_xgr-I_iVv2YcyEhAK2fkZHZf7mMNrT_4NJKq0GhSP0yCVUsoT7i1beAbbaNZIW8LO9g",
+               "width" : 333
+            }
+         ],
+         "place_id" : "ChIJ-wHkrBlawokRjCiym7MbolM",
+         "rating" : 4.3,
+         "reference" : "CoQBcwAAAIKdEfXc87GZzXI7ZtOfroHTUfs03zEIX--exF5jq01TrP8eyuw-yhptmfXs9S41tkWNaBHiHh9-QPyFqXc5V5mjQ8Aq1jBT-FaK07rLLJaxodn51SUD7CbjekBMJXwlgHuk-eSZaIeCKokmKCojYYQ3NcyifIbVc2buJ2lZ35nHEhAMOCW8D_c3-OndYtRSyy7wGhTRRi9KCHQ44wmnI3jhZJUASrLHxA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "cemetery", "place_of_worship", "establishment" ],
+         "vicinity" : "209 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708227,
+               "lng" : -74.01054600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "4f3d1911cef7cacd03bf7dfcaffe83c261d8cad4",
+         "name" : "Ny Law Institute",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJp4OyaxdawokRXp6fTgrYRaU",
+         "reference" : "CoQBcwAAAFbwgdzew68q7FK8fyUz-hagFbDQNDh_LFrcEc9SNhS_GeJTUKWz4cZ9pjs_7PKSi_8TRXuJzHz_E6LxZJ2nzSlFyC0gtNw4er6JpMzQRa57aHg12YhlLujiPzJ83-l9HllECjKCiRSiZTsBy4XdImlg9s5LF6REa9D4B-FxzX-_EhAbCQZNnr2NcqJccQfanqgsGhSF12Dq9VEG_yv2YYQny4bkfofeVA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "120 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.711552,
+               "lng" : -74.009722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "c370318500c8d10acca723c374104515e18a4962",
+         "name" : "Saint Paul's Churchyard",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRpAAAAXC-YeBNVO4nO_iMPuYgzD-UVQfaFxiUG6RfcgSQXocpfDN7CR577hipy5ji_bLVl7zfG3PgM6NXBOViCrpse2Jbiy3X3ae44u-YUVvb88gi6k4zRRt_t5UUUhPHyqd9p0TNN1RV36vvdeBJZcc1JDxIQ1_OWMICFHZVFDN8qdiL6xhoUnehD9GGY1lIcqnQRv9KhTIzYaiw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJo3LnrBlawokRGKDeIC6qSYE",
+         "rating" : 4,
+         "reference" : "CoQBegAAAIB9Vh17kejxn9H6HrdQ8Q9FKubGf24uWHkutFulEMmT1xrUlkdIXWsWsQ987LXd96BVTG8x4zLLJGcF2TNbAbBi4o_MxkhQj52KqSNZOqfpQbWmsu3Gdvkdzo9_6KgZP8rKuNT7Bdgv0zfjdPgobbAB-3XaSQrGzMMP6irYyfjLEhADtZ-MbWqS5rah7kxQC97oGhQQjNQ9xnpT4vrqD5c9hZ3SwKEGgA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "cemetery", "place_of_worship", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709983,
+               "lng" : -74.00868
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e69cfb32bfff1acbc6d01914a3b046bbf74e030b",
+         "name" : "17 John St Associates",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJld2QOhhawokRtPNDNs5-AF4",
+         "reference" : "CoQBdwAAAKGW7wAbfZqz-uEjeDUfPeeD0dZIOza4pHQhVjYWkp4fMfY1qEpocG7iiK5zIv-sVqYnoJS_70vcGOgGcTFbztrADIV2RdEuMCUgRvL33GoPNzijvam_PAoAbmkBf2aqWU0PlgLn8MgxLuGP8OtCpnUnu9HwUB7URrwzKf9DHCv0EhBTQU05ZYFIXVXE5QGachbDGhS89cglAMWaF51cq-2I0ZTHep-geA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "17 John Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710348,
+               "lng" : -74.010642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8bd4189d1beab93f9c2f2959b6cb6d14895b8696",
+         "name" : "Century 21",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA9T_-eOsg8v4MaamJ3K7ftCbVlYodyoh8-TDFU5XmIqKz7LdpoL6GR-aHopJgPGpysRUVTOSnH1WQqRzbs3Bi2e4PGp7ouC1etVyamKvUC_4vSEAmw_9AVij7UoHR2xaHo22deTW9Kj-6QIpRSlu_ERIQesGfAK7v3y44i3dGgHOjQxoUiAQiWmE4-wvksRrb_iWEvbiag_U",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJkw0mwxlawokRuHDPSyw1aaU",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRtAAAAQmAbT5mR1S2cs-_i9MY7-hlRutSS94Py9ioEX4NY6OEzL4QTsfKhz_QL1y0jVDSvLyHZCcYtQ6PsVqPyc9vh57_4WeKJkH3GbzBbgU9IO8xr1yeb2WOwn234QoT3dRJ5sRTXVtsPNutegsPa1Kn-3BIQinp2RIhqFnpQ2sTgMkUoORoUgjNr7bhDnmIcvy7aha6pMkrr1lc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "home_goods_store",
+            "department_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "22 Cortlandt Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.711222,
+               "lng" : -74.010341
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2e2e2c1ae4477fd55c8d37fbeaf379a1a19d91f3",
+         "name" : "The Millenium Hilton",
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAs0V9_SlLAchi0KPqdyCg9do1Ur5F8ab7Fff1xwMglFrXGPJ2jF46ZDU-ndGewZgRU3PpLcDLTbHtbaLe7dLzVZoiEJeYHhCeepeT909CLbNqFdFuk8u8qnw3xbgN7HCZl-UQkqA1otMut9Wx9sHvGhIQASTyVC9eQXx2z5Lk-eiiyRoUm1TmVUnUDJlc_4wgd8BAB-HROxg",
+               "width" : 1377
+            }
+         ],
+         "place_id" : "ChIJh-L3uxlawokRDwLmkKwLIvY",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAALz90TSQj9eMwyMCsJSBS-BCYDoB7h-VxvgPAAVVfs3IF2TwzqzTSFq1HjY-3dsm_d_-9wTmYaTVYWurp-_WsPztJPI-5lb_M19-ffS6grHf8mx8PgA1dGPj8V1-qznVXdy-RLqeA6rnw3fT4Bn0OOJU_gsmnRSpUAlM98g3NM5cEhDlW97vKgGUGoZ3QC2pbPJ0GhTdUA6kpaHKjTXDJ8UdMIOmqmslMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "55 Church Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709024,
+               "lng" : -74.009191
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d4874775360c764a98e07228c22dc04790473b0e",
+         "name" : "Holiday Inn New York City - Wall Street",
+         "photos" : [
+            {
+               "height" : 483,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAU7UALbAjJ2KEPC_R3quSWU9Am4Bvc5rdBlOP4ipFtj6AnAgecnNaE3hjVKGLznOmT6Pz2Fwzfrffml8lMlY8Bze9oGQ8H3WSIap7DtlfezYJP4fm9qgmVLitBGcmpAvzETCQuluBWi8zWMqhpwwnSBIQ3ryq2PlJYRFY9FfctbNzSxoU_hiQuK-6sJwRmLxfWuhhuBMOH0w",
+               "width" : 484
+            }
+         ],
+         "place_id" : "ChIJPTJohhdawokR5-M2cwZ2WDo",
+         "rating" : 4,
+         "reference" : "CpQBiQAAAL9z4oTl9WMwm0qRcS2OPo_F6SZ59XrebYf7QXUdvaa8CdBw5sfUgUf6Y35mJj-wymzF9Jiw-Zik1xMSGDXdCVr8qA_UdXuRtiW9LacNvslSkI0fDijqF-f4lggWPO0MwN29lmXVldssf6JQaF5UgJQ81qjChfrrd3iv0BmFOoz9XjGF_kFXPZtPlI92ZtBuvhIQnTlUDvcpowb3x7kwzIdFwxoU_uc_B13955n-Gn20AsAwthJVaP4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "51 Nassau Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710059,
+               "lng" : -74.008843
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "611b1525b665edb9f43604dff595c344227e2aba",
+         "name" : "Les Halles",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 150,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGLVobx-pdJNScqL-WRum6B3i9mPwpLCyA0ZIHL_uDAT9vOHcsdsS2xGs2Lbcojvse0TmOg-fzJjv8_EfRliJD6u8rc0R12govzBq2AS4ETpQIsOfegV6iyFl6ACHysNTWct4YF_Atu3ZJ6cfRkgEFhIQi0Y1KPLetieH9qMcOjNzdhoUMJroaBC1vBsoHrlaxNvZk-Ff51g",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJN5suLhhawokRuAg2igbpeC4",
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "CnRsAAAAhEDd0lGPEDDFX5lt9TOYjnpFUX4tgrZvXDF4feaQJ4wksotDJVL3ImyJ-5weS_5vS27Y5jOLxt58hpAx81athIr-ZoxUc_nLAsYMIUYFlZijzCol4KaSRX6aZ5_7zWKVZ0K9h11X9RJtHS8vQXJzrRIQbBCkgipTroPQlzKzpMJ3DxoUhQKEKp2bcGA_eOQbIvg53Zq7URg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "15 John Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708252,
+               "lng" : -74.01097900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "33f94f52ea58857dc3b831b893843aa67ef8f83c",
+         "name" : "World Trade Centers Association",
+         "place_id" : "ChIJzd_ZRgJZwokRiRzn4NVf1CQ",
+         "reference" : "CpQBgQAAAGBP5c3AcTjmYvMYReIHVDTUw_M2UK_0n1wjjHUgF-qq_tDOkIoqcrutGXddpMUD2auSvCG3lHPz-LCtnBSsFJlEAir1jGatzs8CUcs_lD5Tehy2sv-_QgAeSgkRKoxj4FTRg8pRmR9OgozX3ZDW7sTHD-iiWYM6b-HnIstu58NrywyO0bd6Zuo7AfZdngzr_hIQl49Zkcmlsgg3FEk_e4SgORoUBGAZs5Mpjmpaw2sp22HynMaTq7c",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "120 Broadway #3350, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70803,
+               "lng" : -74.00876599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "95c466885039c27c5e15c1f7e0d163fa49f3759d",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_zbJ8BZawokRnFxMZf24ans",
+         "rating" : 4.3,
+         "reference" : "CnRsAAAAphGJ9OrvfK4bjEEoZQkcaz0OihBHgWuMaaiShnt5MzyX9ntK05Du7skMSaPEok4wRM5KgS4wpqcWuTSsiCAmj01gXe6c1DM-LuwMxJhC-9jUFoZtnrz-b4X1LCDKoH6Z__0y93dni7L79JPw8hyCChIQMzvqv7bnsmOjH6mxrL8KFxoU1rCeUDz2iNIM2W-8yWMkmes1gYU",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "1 Chase Manhattan Plaza, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709364,
+               "lng" : -74.006952
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8112f2bc0b4cfc84e3a11a7ff9937c6e9e33d78a",
+         "name" : "US Social Security Administration",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLUturiFawokRPg-ThfQeHaM",
+         "rating" : 4.1,
+         "reference" : "CpQBhAAAAJTrl_hSHo7DyXcdJKVFvUkYEwx5vNUjsKUIHq9ID1dPZ4jWjf9RQxhkH3HYXbXS2uQLqSH9ByeqFueGLFi5LRSAJ7-kYoFXBObzvK2SCC2YrOVxSlLbyYyb1eUFACW1JMhgbGtDyMSAPYs5H7tLFVSA_pYM8i8OGlR1r1kzUhFqY3J3uk6nhjIoVTKIfcI6DxIQZ7dBoArs-j1hYoIua1x_8hoUL9rsy-0XYn_WS5agOeDD9xLJj7M",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "123 William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709473,
+               "lng" : -74.010107
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3cdef2772d2e16e365b0d78530a7ada01b68ae3c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGrFvyKqoQsZUZeTjPYUZjWOUX2H8w8Zz9s5p6rKkuaiHt9W3o7uRgJVUihMVoU3NIuuoVm-VQQ5WqTzVYjx_RbF4h083sPdcQAZ35cuSAtz9oYJWtJ9dx3xrONlTXZRvjPjpjHwwtISW4ar3qx4PqRIQo1_mb9IkBiCKVHiOZfAiTBoU99BcNl8YnbjfH3Pfn73rw2Q8nWI",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ2_VLfRdawokRXKfA6CMf5YQ",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRtAAAA0O1D_V80jLLBHYylFoKWUDZuTONCm-bKcF5NS32FqmkSPMrTNguSO-jX2deLQxtWsD9r9UukLu0dJ7QYoTS2Uyk4c_5JPllfEs_Ge6qsu3J3EjC_Kq81KrSq0ChEi0ulLfCzp8IMbG3ldMiN4BpYDhIQqXC3vxZM0l2gnsn6WIuCAhoU41zilz8Xo4J9qnsg1v7jB1F_-2A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "160 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710313,
+               "lng" : -74.0074
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d8fc368e240ff3c4718007ea3a601daa4e2f6e81",
+         "name" : "CVS Pharmacy - Photo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 86,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAA9TK8jTKfqLLp5UJWXuTbVJsPtjKJI2HtCPqjtKObccTffG4N4LjkuKsUEgzQTPGlcoHp-8_a2rmh18SHGDQlTT2xdOkrbFrg_g420Erdp5SRW49u6m3G4UNkVgQD-m3TDrOzhqqX5Fpdpl5BKrOWMhIQ56txWYOjG0jfmMco-D817xoUMLoWjil60SEGylAVQwTHZnOO0EI",
+               "width" : 87
+            }
+         ],
+         "place_id" : "ChIJ9XQJEhhawokR-OUFlT4C5Jk",
+         "rating" : 3.1,
+         "reference" : "CoQBdwAAAHUtydq7dijEnSyokcbi2T9Tkm24x3WwrMZElIP3sdNhjk3VS8FmFZU_SUca96E-vMnM4APFy-pjGNBPqrlNs1u800pxgg7xxPSZZDm3KLA77b0EzCFp8CdxL23ieb5GR48TVdgoO89hSXZIyoHRAdPeHTxWo0MqMgeOeskiLhYcEhAFBL4sTGxd53cziYQJZ-7SGhShDvv5dJw--FMQcmAe8B-hmuZEAg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "129 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708771,
+               "lng" : -74.00790600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6da67fabccadfada960005d2ed06aae10e48c182",
+         "name" : "Zeytuna",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 194,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhuE1eRcWrrn5zISV4sxkorhNaXwNI9mjPWyqUtVRE3HueHfVsTGgNNI9NXb_w9xO32QZMrb2P9JDQVDIshy4_1QYefEcBtQ55JGFarg0ZenS8RoryHWAzqrv5_Msh0ae9izxmGvdAqIDlGVXD8Ac_BIQoSu3Ei6mHiPZpPQVZjVyWBoUdpBu5tCrQayWh1vAZJtj6WkuWdU",
+               "width" : 259
+            }
+         ],
+         "place_id" : "ChIJ62-fkRdawokR3uOQWkYfRQc",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRpAAAAw0l7EAj0c1cUyWo8I4tr6d-fFMG-zsCZuuPVA2LSxjW2LXVVtz_5Z5zLEWCy1diwPJXBTfhmTbixWY4Y_B86a1ML5vjDMZkTIWRcAW3dDKHyOYy1gbfZO8MT4shxfwqTSxr1bhCSH9A07BBiCiMgABIQZposX83siCIwD7pnC1lbGxoU_DXW_PvxzR5-12pYxLtTW-i-Xqk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "59 Maiden Lane, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.710866,
+               "lng" : -74.00941899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "71904d5f024f893d94362cb3a08cfd0de39ef610",
+         "name" : "195 Broadway LLC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8wQjtRlawokRZiim_x9YpZE",
+         "reference" : "CoQBcwAAAFD8fXp_-BA3g8Noxp98gXgwhWgDGJO1jkzoNRKvN004bmTC_2Wy5Hc_0u1q5AvSIrDbLY48Go4SKA_Sa3vfLQQsEjAnyTTVmfSDBULBvSfHRO5EyP23keHVcxzP_6MCaoP42FQ2V1x18klFpnc3Y49vjUV6WlZR3yL9TfQ2kS2XEhDyaF0cmzV9YlTuTKTAVg4pGhS9RqfZ3XRB_xZUzAO1tJttk8h-qA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "195 Broadway #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708916,
+               "lng" : -74.009755
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5a2dda189775908514bfb7ca0023295d6047ab16",
+         "name" : "Pound & Pence",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoAyN1e3a82md-5Mr-Hxmg_0aMwuT00rpbR8HcgSpc9mQpZndT-IosWw0Iq0w8xtSFJ2V5opR0JATjKzvp6KGp_pvzmmUcSpO3rYCcLjPa_ofMSlC97e33R9hxPTjad25_JMmhWt_IFM4jg3kj1N0IhIQAkLMk8Jl-twsL_tjQso2lRoU8IRkhq6W1jyzfzL-CeeHpMfQUfY",
+               "width" : 567
+            }
+         ],
+         "place_id" : "ChIJHaCadxdawokRUwRYV0Yyiq0",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRwAAAA09941zgW_QBdImeGGp11-ID4axL1BuIqdd2J5zuvSxjSqTcmhaUkXrXGjmeXE9vPf1oAx6vW8OywucXPZkHAZGghHg8eJat9J3BAC-IFIyIJQtqZeZsvX6n7brd19UqrLesx8sppI628-WtUEp8q9hIQ-dglqin5BzxM5-kZyjVqUxoUZ1QSi0JudXEw3qIhwbTVzJN3f-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "55 Liberty Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709176,
+               "lng" : -74.01009999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "222ee2834ed2fe4472b0767c6e3d365f11e3f433",
+         "name" : "Sephora",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 277,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA7OMVpDzwKGUyi1AGU4Ti-vi4XwghU0b6MOEOwpUGzlpNcFtbkm9FhUILULFN7CCVcffBfkRwJ-BVF83VeVfSJq7Li8ZgFo7uLHGCRqFdZP5ysxTR7aHOmCQOIZqvNZODeY-Qi6ij0H3ej1A3PRsmBIQUR1btHxRo7ojxQQJSoY7WRoUtRu9odrqR_p9bVWUnQxxBNbC0eg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJg_sOYxdawokR1rjcdLYGUrk",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRqAAAAlxPxZ5iLnrvknn3m0TumrW7vEud3AGhffAVEzoQYbQCaS5m6RuJVaDIpVkkEZaDuGUUuOT_0fvvMXauqhiqz9w07uKieWiMoYFVfxkxmiVX7vOPEGZq6Nm4fBi1JvXS43N8NfEcMYnedEXCVXPcIbxIQR2Iqm4MtQYKJrxnaKwpWqBoU-7tBpWoL213OqU7WQfqV7A-OLsA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "hair_care", "establishment" ],
+         "vicinity" : "150 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAABf3-HmGCZYlMZtFU2UxxkP9LKLyhGZn9vkA79DuxkskFhzJ4Nx9cUW_9Ecx0bk0aPRI--jDyX9GKihXfEEtohwNKl1nIUlZHc_bTqim9XcU433LtBBDsJVT1YPbts3qC-ckJcdHcyFSs7mdbX3yzjNgrCAdSibxJ6hpQvZEB8R5LZnrLim5AxtuU0zLiOvzFBIQHgECgDLsikABDXCQ37wHUxoUafpSn916TLftoJhauk9a0iwAeuA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

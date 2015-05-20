@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBjAAAAG8nRdmBnDOTpbilXLzRA0sIhGSrqIFyTIOMrQSMBCeV7jnD_bnHYsiehjmnmRXeb4w2urHie5F61021dfJ_ZEDiJZYRmwBWiiNeDNQjtpdUyIYUJFz_1k49sPCpTodrt8vqnMatZPoDJxwwMTr8iSCo-2vIqvmmzUKX1lxtizlRhAC-Uww-xyRrqN9YmAJW-BIQZoUeXbsboYFdDKuSdPjtWxoUZKGB1yPg9wYWFfs_LBnwkpW-tzA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728377,
+               "lng" : -73.972493
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6a97b5757587576726bf81cf85301f02e451b46c",
+         "name" : "Con Edison",
+         "place_id" : "ChIJl3Wl0XNZwokR2f3A8booM6w",
+         "reference" : "CnRtAAAAQy66TM4a00j6wfPJ8P-Gif3-8gTDpAucQaALapH_KjJJUtJ-FmHfEv5pXkW50mx9Pg_Dwh2HmOeNa4yJuouWgXrC5aRnPBYPQ8QQIGecG-MtmNxAkh-0pnjWcfuWYi_3CkAv1SZrPP9JySzVWbXtwhIQwXSG-Qw0QSBOf9M-6-ZenhoUsy9kxyOdh3wyP_umLXuwbvxQ86o",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "700 East 16th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAM_P8VprbuDH9wK-UEiX5DKmRuwsiXvQ_sOhbLH1tHVWGPAJgxKaMNhESFAOcYnu0IV2dnRI83TmJKwJHdsaSZqnJSMJ3MT7ay6KySwdTwDZ1CbIni2QLLJD5ct0I-YqW6kFl81Dd0bjaP4_VIFv8xOeFGrIVQrSQnMZ5GWoy8yKs4HlVsFJhxk5o4H9ieBxGhIQeQidvZojuXEZRntymGRAjhoUu6NXkxniHJkxSJ7Ou_4OQadRPJM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

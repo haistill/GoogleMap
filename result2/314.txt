@@ -1,0 +1,466 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAEuE9GolboKJQqk0c2gC8jrWyPXbE7oR9RkVqPopsKuinoXBM1-hoFMnb_kvUc9q55GwKt-mTnecDnS9mSWPHQF_mtHm_9nV4gFt0iWRKa9gWicAHm-Zi2dY2evMGgl5W9n7XppJ1-h8MKw2waEBrbKQvg9_UHBMMj4_EE432fVZ2bK58_JeN5Ga71Pj6dNaU1phdvjtoNMWfb4sfXvWU3PhGueu0FafLmo5g0VQrj_waaBxjpZnbeMA74zcF6R4ciqUZZ0K-QnkwUzB-u1XD-1hCOYo_o7VbKPUWzVRsVT1T10eGKTfdvO4_aKXWco1lBIQVygvfsLn4M1b7e63UVyWgRoUAFMK_S3wSxnap0NGDck7eR2WrHg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8044924,
+               "lng" : -73.94406459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8063444,
+                  "lng" : -73.94117609999999
+               },
+               "southwest" : {
+                  "lat" : 40.8025632,
+                  "lng" : -73.94605369999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6b896e09b2dc2839ccadef063330e9db5f11612e",
+         "name" : "Marcus Garvey Park",
+         "place_id" : "ChIJHa6lPAz2wokRlRyxNExaJbQ",
+         "reference" : "CoQBfQAAAJa_3LpRdAfajshumrrEAVUgVeYUFlaV0ri-DCf3-N7yTRGcwHhBVFJz2LUBijk-gXc0r7w-gTtIysS0nxGPdvvii9RyCObjt-n59i7EEcptKBW31wwLcoLBulkY9XTShAfL1_7jdpE_BOye29glo4LiJT3PTxceoSbFDq79vAENEhBpWCXjO2xCXeT7RllSsIj5GhQ6MZIy1Z3KXsD4GKPno1KfsV6ouA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8044924,
+               "lng" : -73.94406459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8064561,
+                  "lng" : -73.94119309999999
+               },
+               "southwest" : {
+                  "lat" : 40.802581,
+                  "lng" : -73.946206
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d0291cbf8258bdc67faf0e0bb975d092a3666fdc",
+         "name" : "Marcus Garvey",
+         "place_id" : "ChIJbwZgOwz2wokR9n3tqrDvPuQ",
+         "reference" : "CpQBiwAAADPJYjhRG7uGMd4z01mcDNsBgDo93fzDdb5Ly__Xm2C02qBx4j_hgbe8gokyJLDAT6CVznLINbeKZEfGc6hZCTRSCWoloYg1UT9-r_MlZ6tJ9IJO-kCdyqF4GKS2RoOlEcQvBdHwROEXOIzCEpmRhiii3B7lNJmmOlW_ghSsA3B5Sh6uWOeAEpTDf3VHOoCR3BIQvaI246pgMWuyjvbJJ1aGlhoUVXS-ZfRiEAAKFDMCMvT-RX6sS6w",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802574,
+               "lng" : -73.94390300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "65b72eec6d022646ba87178df055ee657b961417",
+         "name" : "Bethel Gospel Assembly",
+         "place_id" : "ChIJ9VO3vw72wokRh1NpIfnaog4",
+         "rating" : 4.6,
+         "reference" : "CoQBdwAAAI33_sGbW4FBCwgEuLIIXvZ0xgAZx3EhvQDUks6RhQvI_WEUk0Bt4bRjmABcRHHLK2Be_5Np01VqotV5a-z7xyw54avk9txTv5M5PHKqo2zgxjeKdm_IpnAU1vtzRcBSWv_fc-0-Fme-Q3Z2e_uJ-5QExGCt3ArPiE39zcz7OY6vEhBK5GnExYevqnIF_bWRwlncGhTx6rzvec7_1yC0FLEfbK3m8yfB_g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "2 East 120th Street #26, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800775,
+               "lng" : -73.94104
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "7bb25a2fa9548f2512794d2bc2333847ac1aa636",
+         "name" : "New York City Police Department: 25th Precinct",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAABkcy1ELUhO5YwSKWKQHXp8d308lPWnN67XhfN7lzPzfXww6IXmF23qHK82J1ZdOpHk7arP0N7xLzp6wo1h8MLaNFsiHY4lEIYnh5EDZ0S4y0QFYZ7ILtUqqSMo-ZbEg38QRYVRUacsA4rk7yr8ZlpxIQ1w0EDAn_sSMkpF3tb88zGRoUIMxlty73DtmovQNQy50lyjZcCBA",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJZ3pS2Aj2wokRosvTxcpCdx4",
+         "rating" : 2.9,
+         "reference" : "CpQBjwAAAOpag-NxQcMxBeg5aW_H_R5ru9WzlVlEP9wR3jsitShYBSxg-wDZvOg3cg9QOPj2ajGcmRd8B4gdfsRFX9vBC5eZHDQjdghOHgL4N67s-sS7CZYkHqhXIdI6hbhr8yzpXNzfaaK17ChT7hDFKyaOO-2D69-i1nL7YMcKjZURM8nmvurCCpkeW04BBJAhFVRvzRIQQnFKXUy6UakFVFXpleqoohoUWaXs57MuuYsmr8yQ5NCmX4Mc9pU",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "120 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80259,
+               "lng" : -73.943377
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c7ef59744fdeded708925b9a74b17fe7389fb6b2",
+         "name" : "Helene Fuld College of Nursing",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 638,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAATpjK3vCCGnJzvBqI038HL1EltNewMYNbSTdE7G9kk0jzCHQ0KaRQ16GHvRQ51iegi3wAspuXjEO24cgIN5_cVeMIxpPuAdSP9siBhJlc70NdHYfA2c5S52KUGDqSVkS4Cus6Tkuveg4Hy9SjaLQgPRIQvtLOG4fW9sX_FVsC8nOeyhoUcBvowas-ZJS2eTGf1NXliqWoq2M",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJT7L7vw72wokRUdmYsb4rLR8",
+         "rating" : 3.6,
+         "reference" : "CoQBfwAAAEA54c3I_RlXiE6GopeA_9JIyWkmL93eRt4mWKSvcY1LdngW4HOPs4uiODliKHiXeZDSzoRWSW9xQoHeC7NIMRFv4d8IqRiORifPFjC434Vcne0hzlxAEESFQOQTEKed0IwnxPdci_HlVr_f9Yf2PTz6XX51VIeg2U5HOpG8Jr-6EhBUXEBu7Se8NLZFqjjGtZvmGhQzYRxI1VWs1q8FFni1UT1N7V6czg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "24 East 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802689,
+               "lng" : -73.940293
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "533e382c5fc4644ee15b9edfcb746d8c58b98ac3",
+         "name" : "Bailey House Inc",
+         "photos" : [
+            {
+               "height" : 330,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0-LuRmhBE6ML1gRGeYQ6P8-3EQZMOpjpZeTRJyb5A_dnM9SD5dQg0JPeQ7O6xrmRmDLbccgXU8QfWWGztOM-ZHR5sUDbN0j3IV-eU-wEFiAGA4Je1BW35x0TbwGziG-xZBiE9TozNYW9L6-lpCu6BxIQyuqrlD-ERD-frftnNq4YIBoUr_rf9SSvOznp34QD_NgNr6LGeNM",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJqUXnQwn2wokRVR7Zo84AzV0",
+         "reference" : "CoQBcQAAALgtZnyT7dSKsDoPF9hmtJdAsKXCKLk7GzMwQSICRwDMKkC8GyqW9w9U3CM_nJqHHmhl2fN6UbMcnuKtvLvKIF2pc4Zpa2ULQA40d8d1_2kAqXvuPmavahjz_CDJ6ltVqIZVCGwHbT0MhcQhqqeotJQEvRHJREo4xCOoAIldtGuyEhCTD3FBQIPa1zJnTRrJanLsGhTxUSYD_e1j0yilQdaNtruOW0F7xw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1751 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801481,
+               "lng" : -73.94341799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "8db5202c525c4225420ce48704b69f101c0f4e15",
+         "name" : "Madison Avenue Dental Associates",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3SDHegdZwokR7Kdk61mrcAI",
+         "reference" : "CpQBgQAAAEXDLpXEUGsjC9_x1cYyvvUPcHlVMWlPrdKR3jnsewN19Vuk2_u2eKEwZARb5EBmn5COU-s-5eqbPp5rswPl3ThWLn29QXCQ22QNmMQfkTsi4kfiYUSW6YV1eomGNLF2bKjwGGOTCWSZdbZUdU5VAX4KHScs7aAwmkGe6huO3ioZaq5dT-v5-gyxrOgZdRbjyBIQM4OiVVAsRErsZKXflF7UxRoUpjSGMlYyT7uggwK40sQtyC4pCNo",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "1825 Madison Avenue #4, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801006,
+               "lng" : -73.93963100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "de0b61db8e5ce2191708dbd432a0bb93ab6e23bc",
+         "name" : "Global Technology Preparatory",
+         "place_id" : "ChIJlYx9Awn2wokRliRFgXoqob0",
+         "reference" : "CoQBfwAAAJvaI5TWv4DAt1YlZ0GodEJoHJnn7zerWD34M3YnBKwl9cY1o5bv3OydTfArONarSO7FX_omF97PMfH2FsY08kbM8YUDBwbnWJmqZ1r9K7JFMYsgiSp-Tb7zIsFheABSXRGRvW-KtzUULBszDHSqBSxwY9HmQX5pM0o6604UJE6cEhDBVR_RLsFUaUKz8J_87uyUGhQO8aIh-NS6WD6IhICsnldL1huNIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "160 East 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801752,
+               "lng" : -73.94331
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1d701b9ba637953437356bdf2948dcf26733822",
+         "name" : "Microecologies Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 136,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABvLPXcn-uOT8AyJv_CSRJ3w1occX8Qn5b3rsAZu6FEx74gvhJJZQkywp3HpJ3WkQvrk6oonWowopggePvxPm7_kjDvi9CanEPJWeigwx35khklYTtRNSR_pJYJJk_z4PdVgFah3P5rIE6QPMD42rtxIQRifn1vGta-t1_KY6851CvBoUuzlVVgeE5_X-ypjs1qgl9ylai60",
+               "width" : 187
+            }
+         ],
+         "place_id" : "ChIJvZ5NaO9YwokRbYzO2n8gGiI",
+         "reference" : "CoQBcwAAAGvY-1VHiKWkocvwBAQJF2Q8ZCyRUTxZvDWy9QyuxBAgtSzcsLVCMpQ1N9Co9HRhmOJwtVWSgYgBgtbv5w8_SVfYzChiM50DkYoqH55pGWizAiGJYjophh-uw3K0kzVzMb2Jeue3UE9DJEchso14x9d0r-FxQJwgZ6ebMkFwK3o5EhBx87RgGz4PhycxphCDFZ56GhR4pdSOxWqMv4DuG12oAGaS-qZ9ow",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "1829 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800154,
+               "lng" : -73.941652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27d9d1984fd8e987014988a2255398f1ef2bd31d",
+         "name" : "St Paul's School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 135,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAzEK-gOoRRyt3-nCks5XR8pKMMAUIUl1MnFMldR6Q3t9pIaqoSJOj6esdq3mfAY6tYswtHjr5XhfBISz0lI1ZArSa3q2ekKPcSZUUXmd8lXAwyoEIKjcX1jL2OsDE39cwYeQe1RPX3wkorfA29MCcLxIQwBTol0kRkXJu8982GvXi8hoUGCWntJtRUwXxSUTfaqu-HhxdoJY",
+               "width" : 124
+            }
+         ],
+         "place_id" : "ChIJQ8upzAj2wokRdQNOgCZIOis",
+         "reference" : "CoQBcQAAAAytCiuaCC-8UrZf-CMH7wJo5mPEFjD14i_Am6eTvG-poJD3YxRFst9UHWZJybQybTZ6mB1ZFLU26p67kGvraRhVYX1XD9mIcdeo5LtTNhpBc2eBGEKWeo-4xmIvXPPn2rd-rEEbooukHlGo-_QnvmPORKSPF1Rewrcb9glqnx_QEhCpHK3np9w-M0sF1Xx1EVPkGhQv3qfVTVneu57xRKTFqmOsuw2d4g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "114 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801376,
+               "lng" : -73.943589
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2e7ae89bf8923c2c8457e2a11d9f0102d7709e08",
+         "name" : "New Heights Youth, Inc.",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAA5vkptdZd_xGepDw56rqhSK-toc9fjK0xxRZQBBnSDuvvWZXbj83gKGZIAzrRuftGf5xloZuws1j3kds-su0v84eI0HVxbNTuTRSVHZg2iIj43orbTB2Dvl4GEPoCknCL2nW7wtICD0gLpdzLBvZBDBIQTeJr4avuX7kt4_sBxQkwqhoUBofM2uAKanEp22g3B_4dRufmkEU",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJdeYU4g72wokRq8L_AyAjQk8",
+         "reference" : "CoQBeAAAAOgpEEUlvY8wO6CGhnhpjOQmFAXqZDrqY5g7-llwscFlsk-Cs5l3WN72leL047X6LrxHvq4Ft9aqV4U1ny4VZ5TubwXFI9W8qUhKNuvV6QyWkslOzB5oM2059ZLj_YmkIZ8JoKL8tf-D5cgBG9loudsUADZiEKndVsUVFV_YdyA8EhA6e9Flw98a5OYhrvho_4BWGhQRhB4KVgwjDJ-Y9O8MuDbkzt4Fcg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "50 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801453,
+               "lng" : -73.94349800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d6f4c8133a6f645f40b28a6063b1cb1686c17e0c",
+         "name" : "Madison Avenue Radiology Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdeYU4g72wokRw1s3QeNGx_o",
+         "reference" : "CpQBgQAAAP3q0xHktoPDlUTtDW1Gj5JJgE6tRdrLsDTBhTBwm7H5OFZY73adnHiK8j6_GUJ5l_Mi_8YGwWWgIOE1kUD3p3mSyQPto2lbzS8EhahxaDXCBkvrswX2wrah1x0PYi-rBgZkTHg0mOm7f2PPys0PaKIRYXkEo-gKZSLC4R9EA8hbewC_CwzQkWGIbH-FYGQI7hIQ44XakyJv3a5rumC63iBfMxoUunuCz1Atr7JwYWwHtl7DcCHxotM",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1820 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802178,
+               "lng" : -73.940595
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0d93e1064073ec8ca7b557e6935d7c9302cfc063",
+         "name" : "Grace's Market Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu-lJPwn2wokRs9-RpB4FGOg",
+         "reference" : "CoQBdgAAAExB9O9RzN9XhMZXz0Ur_sIIc8eTLrP5o4cjUyFG_a3GB525utAqhZX7iMzXONRQ_n23qjpWTvDENahNIwzU4bZNg-HlHpWzZD38LeSFLcejMC_cuhDXqILPNKER5YhmnDe88ebXJQtNBUqmdjmq3H03JK3silPmfKUdQaHOI4FKEhDudlDyfXlYXxNWtaKeZVzOGhTX51TYusZTJtknj1UC8_OnPEpmVA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1735 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801886,
+               "lng" : -73.943741
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "02025bd201e67e7cd4c486ad881979b36caba519",
+         "name" : "Family Health Center of Harlem",
+         "place_id" : "ChIJ9SO75g72wokRGKJWjq2EZe0",
+         "reference" : "CoQBgAAAAJCQRZezYFapb_IxCjNzvVDkwF_bldtkGFvTy1ZGjJGMb9K7KhqURo1tw1MZ_jRj7oC8Vz2q8Z3qZtS6dcN-JBlWyfqyrxgHRd_0APMLPh10w5GJlXhIDB7gylCUe5qfs16oSCORIJo0fjtnbdJbyQgfgA36cxV8EGKrKq0f23KiEhD-C4cWEgnv7WiGp7a7nkJvGhR-pTHAUBNTeRWMbd4IMgNFHtIgKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "1824 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802771,
+               "lng" : -73.940247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "274e14bcedb58fbb28051092f130013edd7032e2",
+         "name" : "Fat Witch Bakery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMdl5XQn2wokR26MuU6y6_8w",
+         "reference" : "CoQBcgAAAMjZeLDXxfqisG_wEHSQxSG8injChbSqqxWQIfaHWd6lHmimvYPVY1Dza1fSF6JbW0qM2kY85Yq5m82tgTHGIZela8Ajw2liDi67agy1RnSLF8peJOGpOGXatIqpHQmtzVF0f-4tc3CcCAF56qT7vrVFE-amgpnKzxii5_ylM3rNEhCglNnXLcKDeLmvcrUQF0zaGhSnQmB2qpLb0e_pTAOSMxPmmV5kXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "1753 Park Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801476,
+               "lng" : -73.94401499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ce33654adf8c3f876e6b8aceb33cab208af1066",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAe2JGd2OCr7lxYx3F6Zd3UZxw_e1Zh_FDkZbjZnbyVCKyjvmQU7fC89rrcb4qdnSRm0Ol27qggQy74cjxEyN5LDRHMVdTt2t7RkmcvK2hjGUNJnCU-MZFsmOVZyRf_Vz1CfruShU7KNYBMD92iuejdRIQJ4nb8e6747zYkEp2w2xC0BoU3mArWQ5fek4WLVEJa2jaWNEvREs",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJG0S94g72wokRbCoKKuCGTrM",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAOtNi6hiFfoAa2rPd39eoDNUZliICoUWRg5OwQzU1857PVLJUaB5s20cm65m6c43xR9IjzhOC-_ip7brJRBmxDAclVHNF85761S0ELbw86dxuEkNiKcLsPXKZkciNjzu2E7GvDLVd2M4eka8alFD4sxIQ5EDy_yLqBSrN-9SACAp-yhoUyumZ-wmwxP9gQTJChXfNGzn4MSg",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "21 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8021,
+               "lng" : -73.943039
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8db59737e6fd5975a178094609db9106e1d3bc60",
+         "name" : "Madison Park Apartments",
+         "place_id" : "ChIJvbbYww72wokR8XYyLbvzk2E",
+         "reference" : "CoQBeAAAAEtb4hXatC0VsFZ2ce0iU8t8gGoaqIBRnp5nabGqwQXc032sRf1QpJKBeWF6sx6ULYs77VYSUwvhenjTDtB107A9ukKmwbyPKM8l_RhmopBPMCae1eo_bM03iAn7vX9qJ6LeKpcIbfLkhfMg2S2ZoZhYvPqMpZFBRvgnY4nbsy3IEhD15BGn16zlY3s9Jpl27GwlGhTbtCdCt-GFvnFwfUzk2TDmyj4viA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1831 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801005,
+               "lng" : -73.943806
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "bd71ee8bfe542ca7ad90c78e0629082204906818",
+         "name" : "Madison Avenue Wines",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJi4bxGw_2wokRTMA56ArvyQ0",
+         "reference" : "CoQBdQAAAFK_63-foPM29kyQDa0XnGgQhngRQ3j9TY5pkONH9kAboQbT1994pXwUztcl3cigf_bzuCTPRqW88Y-vnvO5RSJEkR14Ek44udQwFhsm2myvQ4tJ_xBw5I_ojJ7kzaycYune-PfyfyRDMoPs3x6ZmF4vtINjo9DnfEyrDM0fEcIyEhACyj_Mi6_-Gz5kkouIy_XcGhStlHwhhKflQVM2Ny-ENrooFuC5Sw",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "establishment" ],
+         "vicinity" : "1793 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80135,
+               "lng" : -73.94232700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff1933f8f7775687ec89e536c8238144179a6b5a",
+         "name" : "New Ivoire Restaurant",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkKrSCSqSpdWFutFmrjqi72an9OKM5WuVqAR4fycCwvj5mux4nZdSuIKwkEpwOH9RB9hGRZzJO3V28GuMTObMOV_s8_XI7JpWpnJZ11aqTKtkSMdKkMK6XtFq-IYeyi-rYvA6JVndBFQlidNvlSd9RhIQDNeZ3YDdMMJ_UI6LczLa8xoUYH3MJ_38xaoRxpK3KQRtnu4T_Wk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJo2Tt1g72wokRXr1DbBNZ7YA",
+         "price_level" : 1,
+         "reference" : "CoQBdwAAAIoj2Emb2BCpKOuKZrQeJD3mE9wNStSeizKSGc2RRUZUyP3a0_XgF9lVtO8q0c6lZoooSRa14Wkds8x-dez_JzhHFhNRtjvIzcCn1bzzeP-Sj3jQEkjrfcaSxyIWl9TxgH9qFvEoar6D4Uo5vFuA5mi1qUdqADK8nDKIjW_UZQOEEhA57CQUHzK12TtyANQp5HfxGhSsjObvC6UJtkjTuDyIjRDwBNz7ig",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "76 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAMpVGMv_4kjlH4J6UOxVaOC9zYIx5B9R3vtzDm7_29OGAw0tNCLttj9ZBIJWpX0-bSVzY52v8LhQpMswwWSrr1Hvwkr9kvXGc7YXeFJ73F_weTu57Iow2CjWMc8RyrlMtwezMoBDJEXdAmfj6bVy81IoMYhxq11lIwYekOtF6QLCqEcOyR_93TlxpMwqko0xpxIQ1gKZuzP3b_PBYrzg4YsVwxoUNHm2tHvVYyRkvGscjFMJ1GJVKZA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

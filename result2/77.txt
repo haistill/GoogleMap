@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7933657,
+               "lng" : -73.9352473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946934,
+                  "lng" : -73.93310869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7917813,
+                  "lng" : -73.93770789999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ca72f226f30406f3893512d8ffa898fecc2de37",
+         "name" : "Thomas Jefferson Park",
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "reference" : "CoQBgAAAAB5cV6q3FCW656FBh9L97rVAS_KTJhQunZfteJVxRG9wEG-GmhPoOQzbRObcpNzgrzOPsJJytId8LCzAnIA7_cFrNRZbz9pekO83UIo4YFXuAMuiFSK3kTF9Tj3uK1enYjlliPnCL8RN2D_1KqKuYQx5fQYVkgjAovFT2Ea1-nOFEhCQJ48zTFtdN92ruJsZjdd3GhSw82qpf-ms7M11d_bBdJYwg7iHpA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAALUbnfmFOWSMIQSwHe1f3j-iYz5vzBvtHH5BmzA-s-zDYp8GGeUZ5oawTQvBMrV3MAp8q4lbkqUFjCSFEoYnDi3wYFuBGsRVga2Gkv14qKD9eS8BvSf021UvffLvBRY9qapWBY8SFwqXySogiNPyZzW0AHpusiUET23hFVX5QiUjxIYQObsAKiOZAbmJ6A9ssxIQ4o_oUwRufjS3anRCZKo9NhoU8diVrXCQ48FZ-zMBuvSsVHEfYzg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792058,
+               "lng" : -73.938568
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8e330f51aa158378d048739ba132425b26890d40",
+         "name" : "La Tropezienne Bakery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFoNMnFoqM8Oe6ukhBUSbrB2nHc5nGGHG1_-v8WYj4QcNRY9PJxTO1pHJ1EMCMaSiIZYZLyMnKLHLhUhrrHGclkiYg-kiuIO3HO06gMn6rEjPTZa5Y26WVPS1-YKk_-cfk0BfOj_38T1D2n3xwVTw8RIQYqPkXNCR2HGLaxwKOHtKqRoUXmNMIkSubrv5Jfj3vDKLuds91cA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ3-Pm3QD2wokRjgJV_S17Z1g",
+         "rating" : 4.8,
+         "reference" : "CoQBdgAAAGxU4kttPRLVSAtkGsF5QvT5GE_8h7KU4TNE3dchjWTTTVyzzahZO-wKsKOPCRZCecVi7_LJSKK06Xq7lrOgvjWUgOMRHtlQoPctB-q96uTBFfccBw51GYw6cCWxCeHPP9M_oECmiX4yASAu0N19jcQY7xc0PARm1wWihQdbdLzHEhDLqSuL_NXK645_2O2KgnuoGhQjwXeM-AbO4D67NP3xqSChPTPJjw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "food", "establishment" ],
+         "vicinity" : "2131 1st Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAGn4r-MbBCuXQEjOjMFPMPSLAPOy4VY2UU6Cpxq3cwK8swYHEnc9X0t00et70fj8NqcxmZQOZlT8k9-9gy1nTOUWYgab1E9Wx_WxifZ0g0IFEihtm_6ZXuRt958xWnJrPROwhWETobIxIBlYVGp6NUNU7sAwexAgkpTkAYgV3hocX2hVZH6y0OdQcOlZAQYBghIQ2K8OwUXP9lF1iCqZqenEgxoUwYLvSadPS-Op96MBas140-JxkME",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

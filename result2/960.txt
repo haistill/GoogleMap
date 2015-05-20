@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAAAriXYOVLdp4LQQ7qf-MmE9YAntpbpQYD-BG5oH1yt47VTYK6H-Q-WvG78VhC1OcaWb0_yQoosSYfNn4G9plrIs9iDovkIaeGjxZw2GwqF5fa5ywAu-rluTvBv3X9B7dIFpD0ywDCJf4_EF2pUPSSoHyp_P6n7Mt2sWX4_4pmc7N9_GQhf4mm1NEam15yVYU0RIQrQ8hDEJR7brnk0O_XeU9nRoUbq7yb1FUpTkHI7d3e5RcFx_2F7M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830391,
+               "lng" : -73.949552
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "01e1c622bc67b639629517e26fdb2f3711396572",
+         "name" : "Amassi New York",
+         "place_id" : "ChIJF2kpOYj2wokRBmlRpA3D77s",
+         "reference" : "CoQBcgAAAM4SGlhrHncGlSRBx2w4CKxnXAt9rb37Ib0s9hVf0saxshukpsjWKWrm38_j6vcRLjpWS-2Gb4RfyfNKPzZqqvUNAy1HMndlvFhZgXUU9uXg2TtIyphD9B0g58zPe6SY25EDONWRU7aPwS8f_wRuXVj09_k8zutHsHwL3uzupaUwEhCcHThYKEKBg-TsbiBDSelOGhSm49rHgiMjmoLZAE8zXWS8htR86g",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "730 Riverside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAABOzlhhSGhvNgBgl_2T042eBemAhQj3jhvM-IQntz5p3ytmahI-i378b4eBJiwcv4ed7Ih6QE0lQX6bCb04l5esGQh73rbi44_ad-pVrA1CwHNwHT3GUkij951SOF3zSHp-KkeXWode3-BYjOYy7dVHb4o5O4VX9AtyyMh5Ngy5uwmks2FZ1cWGjImaVB4HHRhIQdSZ41VgCORVM_cVHQuWIixoUdW2HbgYAuSFM4VP9JYKDXaQ7H84",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

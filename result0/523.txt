@@ -1,0 +1,543 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAAij4g0BeH2Wo2W1ULyCU5V5Zzmmb5r8Jwhqe_YWLMKPB7r85-dTvVxrINZ7igs9Nb3lmLjtW76uPdzDGHqlAo-2ryAYsE-W65FFbQeTfBoSbP1p815EtGF51WgQuvqAlFTcw5F_AWEN9hYBq6bhkOpaAcAHW2VFD25TxspKiK3eFHmGxwHoLVBZU0K3vf5fBqIRzQg3FQ0azp2iqXgSO2znC-twDuYrsP7s0f78bgqm9alJQxD_aKy6lItbB-M-rJX13vg1lBkDgiGLbmlm6I9-crBcHWuVpidy3Q3H-gsh4LHJiSdZD-8lE4nL03vH-RIQtoKRiJAW88keS21PHnfFkBoUn2eBYYgpwseTUtW1FndDmhGlNZ4",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7228971,
+               "lng" : -73.99549089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7250838,
+                  "lng" : -73.9926194
+               },
+               "southwest" : {
+                  "lat" : 40.719431,
+                  "lng" : -73.9982402
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d73963cebfe4e664256e59390485c780b0ae5b12",
+         "name" : "Nolita",
+         "place_id" : "ChIJd9PLRY9ZwokRk9g2ewaGdEI",
+         "reference" : "CpQBhQAAAAjWJ18vJJQd6DAnzAznbmkXyF7GCthm_Dso8X24_qZ-xLuyAn-Iph-_YgfIPDm25Pilv2bZtdcbVqgbg2naEm57jODhhaAWUCOoIPG-j11_0IEqkTuFQQOmjNR15F0k-cSp80W3Zb7_ocEG6FlgtP6WfZCY7GeiySuEtsG2z_oNJ6evkBVJG4_DpjnDwKG-BxIQoiYYdmjKTRLvir7YuOQR-hoUw8U6b199CYkwcuQtf3ZKla3aCns",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722636,
+               "lng" : -73.998285
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ef33213b47e5d54f3cdfc6100f33e45f9ed7d14e",
+         "name" : "Balthazar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQihlZA_1gxzU5bYypnOrXJOqLRPSl1_Uxlc9QACfY1OKWqeQ02_hXJep3ATI6Aj3Rybf24M_dH_tLWs1F_4FCMwBRnTm7jEwcWftXjgS6CvOukBS-SN9QU7NH7yf6vfdELIl8HgrtnVFQT4WaWjkQhIQ027oUG7NRyzwJaOoirPlQhoUIWffe7VfBN_8B11qlmImK2eDSz0",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJt7fMLIlZwokRCRtM9bNDg78",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRsAAAANbC8mKuxoS2HQEuJMwI-Gr4p5hyYeQ1eY2GluqdX5Bg30JMJekguY-wLeYCYI02cBw3gY17aLFbI_RHsOWw88P_tMBI-ndl4g1CajJxluz3AWBzVC9Iy7RpnQag3QUnMAk6Sxkai9tBr9RQ8hM-ZBxIQTVpSePN-6DudwG5KTDBkyxoUhngyHRSwtsm067NrMEi9GAO7Lho",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "80 Spring Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724009,
+               "lng" : -73.998256
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4cd85d2e29a98dd1c28f53b3e4318d7342e57d73",
+         "name" : "Scholastic Corporation",
+         "place_id" : "ChIJiX6d545ZwokRjNzF79mflYw",
+         "price_level" : 2,
+         "reference" : "CoQBeQAAAD-aJUhW2xV3YR983GlesRELTXNACsjX31MbcehXu3t0xu1Q-0KV2DG01heN9YCcVsgR1Ysy3IGFNZtLWZPA0p9zBxqnQB5QgZwqdjeyQoO9-BrHyQH2NbTWh92YD5VNE0tKmv9HKDKVo7mFqiIsm-6zESvXHFn3y3XGG7q5q-9nEhBAiVeAzmFLE_zDXZ_t-7M-GhRAFTUNxSEZp3ETFa5Yw9qYI0uWpg",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "557 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724047,
+               "lng" : -73.99844
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5ee16a77e36fbefd6718ec41764bec32207fd5f5",
+         "name" : "The Scholastic Store",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAnytPLgGPpb1ffodWJPmN_M9HV3-6akhQltlf2KnvuQefFHnAktOF7JcuS7HdBdlI4fcesVHGvoxev16yAcBQNTvdjJHIR8AWdPqVTIx-0WXwD_itI7lzXfr-u73UdMMuNrsLYVwUOBiIHW1tQah8DRIQBLQ6prr78_FROofqHagrfBoUJ2j3tDPNzP8QWeDR8mS6P5pe5eo",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJiX6d545ZwokR1mzF31tLaDs",
+         "reference" : "CoQBdgAAAKVbxaXNCMoy0nVc4Ew_6soB2c7Nm_RDzSzIPUljU4NGxUJTY-MzH97AxAMRk61ykXownP3MBmXXwHRZF9LQow0mLMu9-ATVaw8CgHm0g_TrK8d24OR-L2XkcRwHqnnMSigLYKC2kTNE9z-srXrsHo1F4fBP3XhgSlSow0bjvoU-EhDGhGKexSdNb0q6B0Gmyzg_GhS3xesAI3moi5hKqAX97Ms_pB7JpA",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "557 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722166,
+               "lng" : -73.999779
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6875c6e74b9e707d7e98649d5fe7aa031f7c8e76",
+         "name" : "New Era Studios",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK9SLWolZwokRBZ8NmR82rVk",
+         "reference" : "CoQBcQAAAEWGi5FKkF-g9cp3tE04bOcAUfu1QIe_RVpQxrsCh--LrriIZV5YumX23gj0-pmHn0lbXug5xgUwMNExMsjKujGrMUn5FosvnVU-sm5OXTQMH6mdh9oxI9l4mXzSKdpvwPbyQcblj_hyqYMRwZGIkRRdZTba_zp_7f8lfzo9viHIEhCtro8TDhyTEVuClivcuq0RGhS4aYMi-AXQPfkx-Wib90CWJMCw2A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "495 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724769,
+               "lng" : -73.996982
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8caf16bd9d8d3676d5a0358a1e4cb7f2ef535842",
+         "name" : "PEN American Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJX9ERB49ZwokR42fEFGxPkxc",
+         "reference" : "CoQBdQAAAJFMC8e9pQcMPAjPOdTigohuCnecyc1glYUjrc3eN0eWDTmqPTJFTTCFdRd3D63tdA1b4VlYcd-Ma04s82n-UknAhMsNvQc3lU2RURD20gVPTEkEUTy8m9e9UcqAtQWYF1536pyMXronR2RotJZ6Ml7W4gB8KtfgqNhYGNFjJHTXEhB-5vPygQexgHVj7_xAFCqtGhR4vGMzpVjbyGnGHSzfEHSve2HiNA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "588 Broadway #303, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723929,
+               "lng" : -73.997722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "80f2145b6e7948262794d5ac96fa05850c14086a",
+         "name" : "Janet Borden Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmX-Gf1yQy-VkbdfDezlbUfp9hUHNr_qIFQM1un9c0J8OmtaEpQrLB5gGhYZ1dHC-E3DHh0LcsKGI0v3topxMSiupfDyfbaee6OQ75Sl8F1LRd0TQd6McdhpSsAnob6MX8AHCy1p14xd7hg-8OVT3vhIQIhax1KI8x4eQ2krmoi5ucBoUVmqcpVTyMZU0R9nzcpFZlEsX1PA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJcXGe4Y5ZwokRNztOjO84zJs",
+         "reference" : "CoQBcwAAADSuoigqNx45fm0hUQTQ_EZ9X--5wVnkqm8Vww3PUKqZF1NkH0XVaOcLWoq_rNa-kFAicCYQoXtVVpsLCtsMw2DI5rabhv9sn5qPuywFW0Tu0iKrL0lCt3vXUmM9Dp14es-TiJu8euMA2zR1K5EenUqOMsJuKDnteLJsi5KozD_wEhB7cg_zKdrf5tR2rYK36GKNGhQq_p5uaIFU5uYIj7XksdLhs8wpAg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "560 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725062,
+               "lng" : -73.999037
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "bcad88ed62bba666c67e819cb95d56f3eea98ffc",
+         "name" : "Apple Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 376,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqPg1Dqh43NAqvKf4AV8gQqbeS-dLX5ui-dmgYuKie-rkPnyg93gIv9UEnzdQxNQxn1wwzyadUkzok94KlxXcBO0Dc4VkwwiOdruSHqgp235gnnxzZ-ycgjpTIayYGDAP_3Jvm-EOmsqekS7sn2KmjRIQRue--YwiBVWoyKBmXZgfXxoU6lUeiDcw7yt3G7y6GwMy52BwgjY",
+               "width" : 564
+            }
+         ],
+         "place_id" : "ChIJV3Ws9I5ZwokRJX_PJBN3pYI",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRuAAAAMkpfDcm5l049su6u0ok12sJIuBJeT6bHz3haTwH2skqnqai4RXmjKsB-1hZICUATupem-L5EOLjEcYpSEH8jGRCUVCybIuAKtIQebyAGN5PUXMMjdSvhDsIz9fAnC1mmrfN0wvhaVa4fSo8AE3jgnRIQid1kV9w4wWbLL1XwCTQnRxoUjnx2sVgKOUC7gW84g9eNPiWr4r0",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "103 Prince Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724049,
+               "lng" : -73.99776799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "8402f5af9d1f23f19127ce1c5ecdec632fb5e00c",
+         "name" : "Staley-Wise Gallery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcXGe4Y5ZwokRCR-Yzx1m-SE",
+         "reference" : "CoQBdQAAABoI0CxeWYpS5wHlUEIhBnqhiyKI4ydecGI6Q8pHmMR5lA27FiKseiDsG9GKIdicg1VX9LvseWpR57Eyw2XbUSDf-Y4LPuXHRbhoZCkJ69xPPI-SRjHHod3ma0bubVJ4qXupqrEQrinb3itYbr9NBNnfUkieTX0q8mQZB5Rl8S45EhDaMdind6_OvBLrXAVMaar1GhTTCPm6eA990y9n1iB6eQYHeli8Ug",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "560 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724569,
+               "lng" : -73.99648500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "157022f7378cdcf87ff7155004832bf49ad74dcd",
+         "name" : "Housing Works Bookstore Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwVJUziRpaQtIqB7wqs2RscEcv8QyZtWjCbHlrrJpd3FNCmtkuRHM8iV_FzRVPNysT6kqpOPAxyxNScwEflEdyOxnL5QX4dsCJ4PUkMrKPtga9SkKONWsab8cUOGt_4QerT2wwqQQzraQTcBu-mn-fxIQEH6IxolY7sFpG4k97Q6hWBoUfQHY9wt0nj4ONjTbaVo3eEpHB_M",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJSaRjC49ZwokR402Rpxj6i9Q",
+         "rating" : 4.5,
+         "reference" : "CoQBfwAAAAnc7jSTkJO9aBVr-ur5M8wt2EhA5mpbY9gQGYjLlf4vv5TY4tmU_SFbnDb3LeZky9TyKSyh7wO1Yn8SD9Jpz5AusMSJbTiYtCQN4M3PFVkgG83butEvvi8FSKRIgXMNU5o96SgH4UI9wzyxzSIy0tKPRUucZx84x6f0VIZiqhJFEhAdgAGTkcigBCtpg8gUSLwcGhSoS-43mwe5HJz5TU_UhFycGNViVg",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "126 Crosby Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724332,
+               "lng" : -73.997518
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e25b343bc49ad02b37a21adb6906ee7b1170be09",
+         "name" : "Forever 21",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1400,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBlAAAANQqWGn-8WmMFoY7bZjtxUVCN85nU3XkTLUQXDUN4u0ZlgZ2ub_ek2qwjCUj6teQA-C9l8V-zSI-oVig6FKzWmqs1QITXiHi65xpKJglMnZTQnasauZzMFCnZhtuCPmkBFtlUyyfGZ63zLfDAFsIY3njFvjk6jtGpC-0t7aIb8lAYE_D7aANU2ztUFVc9OOmkJBgExnHkB9xW7-JVPAJc8wSEOHJjIX2uufR9j1yc_3AIuYaFBBZAO1vf8Tpc427fOK98ODYAWPv",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJex7FHI9ZwokR__tP156WVtw",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CnRtAAAA0CbfGfbWO4gjyJafrRl0F3R7rEAeur8f8Q7lW6Y5gK87V8Y7IKhcfe2XdEbk4v822UkSqVEvhZbzNJbRysK7qmxB8zS4JmOEfSzOKfQ1eWgV8kMnzDeXM8b8RrOnrN1mMW9uMLIO0bAo88SXiMBwoRIQJWr4PGvr1oxnZBWtulAX6BoUcPwXpjTlrSmiZLDPsqzrKRa-0tI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "jewelry_store",
+            "store",
+            "shopping_mall",
+            "establishment"
+         ],
+         "vicinity" : "568 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723033,
+               "lng" : -73.99741
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ea50675441b2417f2c6eb94893e19fe5d6083e77",
+         "name" : "Crosby Street Hotel",
+         "photos" : [
+            {
+               "height" : 550,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0IvWmB-Y7cwKZKPgxNissOaHQGELnC7wJldlA7mqLK2KqJKqE0G08mYdFWvBSxrmV34hQJBHZj66GdE1DdFYhOj-5Pg1gy4DTE0NG4pAYOuwaX6Nienw9pcL46JKweQDjAIEwQPVDjK48vYDEpmFdhIQI7eZyGI1hTHaK-p1U8mQ7hoUQjCMLjiI83YRCjM0dTk_QdvvokA",
+               "width" : 733
+            }
+         ],
+         "place_id" : "ChIJpYIgKY9ZwokRMt2wXGRZ1fg",
+         "rating" : 4.4,
+         "reference" : "CoQBdgAAAN4taShhKA4ZOzad6IA2jJ-aUGOv_tNll48lH85Dyac1cXiQBv2rlOOX-VQxsJh81q7LKXt7YWnJhQgolzAfFcHYzAnyT3OitaWun48RVHqtiASQxERDIfkkIQUhBS7McyFSE-0R1FCFFoEgffxeOhcWAhlQSlcYfXCUkT2SMdZJEhC2a4fu6rEONZjR6_3XmfNWGhTdljADmDPVrIrd57fyLec6fdkI_A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "79 Crosby Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723748,
+               "lng" : -73.999527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68ad254abdbf1540db7aa5366550b4cd7eb6569b",
+         "name" : "Georgetown Cupcake",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAAKOClo286D-WYbW23vqzMgvPYSkOr_efi9I-_6e4YFcoi3Ou3MwjVrMSA4IEhL0fDnhyDa4nEJHJftEyQErmkvx7ksMWoHQqpORSqD9CWze_vfQHDsiZuVIdvl19NgqyVEQk68r9PYob31URJu4p2RIQ0iCX-I53__COa0Na7puPJhoURKxvRObImzTYuUPY6mDeTgqGU2A",
+               "width" : 486
+            }
+         ],
+         "place_id" : "ChIJ1cArv45ZwokRat0jLRtNHRE",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAAEmPv2sZZNO_w5DjfviCTOqT3In1rPXiJGgXFl3nfRulaVkBnnyDAptxa5dyGCpSPDkUPSCLbhGjGbZHOq_6y_7Frhws9a1Sj9uFsoCM3jZhEOZGsdKCfahwdMQymBYqkmJNUPmhvGsYIxn0PgHOLnQkMJR9WiePpJF4jfBkcEJ_EhChuScGVEDxv6jwMoI7RSDiGhSdPFASxBv2sBR6oReGW-Xkln1APA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "111 Mercer Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724543,
+               "lng" : -73.99728500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b45876e1d84119aed2d76ade4547cccb74d4a1e6",
+         "name" : "Zara",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwSxTAY9ZwokRt4f8hlJylmI",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRmAAAA7BXOcxYG-dt0_Tu2SCQvprdzamNDgi9BX__vRDz90kY3WattN8Ty0CXF_EIy5z55mT2fc_wN14fLiywrgMpZDSqO0JS1-paN5vmZFE9guefOT8wUxGSSuATzdJMPfyQM0JBipD9hhx1g1Etiyr8zahIQd-WH4GlipeYZIR9So4kUMhoUVjkrajxHOiax-OW6b3abOuCrCuw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "580 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72213,
+               "lng" : -73.999229
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e948531122f0579010b5b8bc21a47ff4e71da6ef",
+         "name" : "Bloomingdale's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMTPJHY5ZwokR0rYezFC_JAY",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CnRwAAAAdg4O98Nnspqsk28V3rMELAdNeOeGeaMJZ_wPYbRz2G1_T_YvJFyg8ji8kL2KHfzuTTq-4KBnOLYsr0cg8hCK671PYBThwaADn5ocY0TE43SdiLOvTVxlse-BZMpQ23mCnhNZ42zdERKUPWLya01MWRIQ3XqKAtS55EYyXUrfMgLFnhoUW9n1rZev5pdstjcmRhwtl14KJOM",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "504 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725128,
+               "lng" : -73.996748
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9309b59f9871dbc19f6f777304f7f42bb0651600",
+         "name" : "Hollister Co.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAH7KwV7at8J16vcggW0WcuHzygorZr4delPtdAqByTb7nVyRyD_FLqnur5kG-21BmxIB75pZKmf_-p1HReyylARHyGyWgql-7Tw85dhhoRPAYO9_rorLD0wNXnktExrYAtn3u-MCTFTHrE5czc4pPxIQ579pVtewnKtCiww1OnTcrxoUHD92DxNtoqBtsTWn1mwZCHMe-hI",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJc5qyp49ZwokRgQ8K99DHt6I",
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAqZoFRbpLZjwKNzLtkxjzwih-wey7IJAvwapKkS_XPULo_Xgui87bmDCdE4Q6jE5d42G4hFxnNms2hoNuNnS2Pg59WMlShfMPIZn4eD6dknJA8QXzHARMBa7AUkP_EaUGWV9XtdRY4hsmYtj-TUqafhIQ2S1VlRChe1qzjBTD7Lk5hxoUd6ioFIXuxQZuIagsj1JMNuZ0Fys",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "600 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723022,
+               "lng" : -73.9986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "94169ae277cbd8cb355996628e4a5968ae91fc66",
+         "name" : "Eastern Mountain Sports",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA9dw2Vls6uevSuZAYc1kLOjpEL_bUBP-k-kvopakBef8I9K4rfK7Wbk0km-aHsHWvjlFn4vpBCigUOJ7Uk_pML1Y-q7kjOINbZfVELCAsr-oqBoVefRzdyufhVz2KpQUJJHMBgZwf-XSWz8MAOoqLGBIQl-UmI-KrUQwPvh0qiBQAzRoU3PDjMjYauzDoMI1-q_B9dEQh7X0",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJy1uIzo5ZwokRChQKIHjyf-M",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBegAAAJubyTBG5g_xQijxzMdy6HVAhPabDgwfJO249f-cfgTSbatI6On2VN2CWHMeoqWOeSiLYa0wj02N9osPyAs9fy7-8l5KweXtLFJEGOI_j55hnV1Z_VZgkbdiN7xz9F1fLXAP6dsGWrHL_niCpm8qY85g4_EOp1W7vKkee7Aj35FHEhDw8GWowMtBtur1JJTx3qZ9GhT_5cW8hvv2wWwxaN7O9KoEFGYagQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bicycle_store",
+            "shoe_store",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "530 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724665,
+               "lng" : -73.998261
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "909cf2febe4e9caf95421a1a7fc9e80b997a5638",
+         "name" : "Lure Fishbar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6ROQY4eeJ0tX3C3zrkkCRjCtWLs-mx5B86WfSG1LkLDErsnu7uQWAMNDgJNrEimHQ51cAzSFdQNO8Yi74NkEk_vqYx62r90K3j3_2ISxJQBRHDb_bCPkOqK5Xb9R5nZq3et7U4j1M3B-6P5zGiT2jxIQ46QnPakIcUFr89x3j2hbthoUa9jWhheA5rdERXuDf5IyV8KxgTE",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJgS2D-o5ZwokRgS5knl8ipzI",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CnRuAAAAN-IjiIWe3jmaSJxo-8Un_4naZqpDg3nVVA5qjuEvkH6xW8iXpTzpyrCol5Kj_XGMslblpCeM2nrwqzPLbtA3qPoxNz_Q7-IY9PsfH3_cN1qZox_e8J-xVbtkUMcag543nuHZsFaNK6FVltFutjg5lBIQP6XCC8w4Di7_wvY-HYnU9xoUzHmoUYQp7lWhceUDNKmrkyq1cp0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "142 Mercer Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724842,
+               "lng" : -73.998649
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9e7326194abe3295b83ab03b0e2e57757126c387",
+         "name" : "The Mercer Kitchen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 669,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdQAAALb4yuWb4nXQO_VCUsDQBVT9GQSu4AA3wGescBITcU5vFFtwm55EiadqosxWjBPRP2opXYRObciHup_IhtIHkNWfIxWIpUwDHsPfEcXLh8Sfy2gXCPMuVFNyKgo7OVtSQVR4df0UHnU6vYT1DVpRa8dAzpEzam5pduwjKsKyb4E8EhDMpxfDc0N1wRdx5xo0dQALGhTU6XfRE_Bo9LFy6b8Mf5Rd4kQGhQ",
+               "width" : 667
+            }
+         ],
+         "place_id" : "ChIJp4qv845ZwokRKt7UcBbEVnE",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CoQBdAAAAMcJGECJbLjAJNja48c3jaUCn1eUEbWTXkK84yA3oikdhY8xMA6f2X6ouePJESuYXaYEJt8jhNTjHQZSzGAT3lvzFg_T3dXVgoKtkm9ZPMe1WsG_HfpOkkWhS1l5JWqSfCIpJlc69h3jUSVWxGWch0WMpe8hs79uTojwv8Dw8CJ5EhCVzkGwlmRgvnkT56hjzQqVGhSsePnNwJKB-Re0AMQhcBHRKJPfaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "99 Prince Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7286587,
+               "lng" : -73.9925526
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7300598,
+                  "lng" : -73.9907527
+               },
+               "southwest" : {
+                  "lat" : 40.7241366,
+                  "lng" : -73.9967609
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1617e95d0f763c4f0d0f8f0c525b38c1943916f2",
+         "name" : "NoHo",
+         "place_id" : "ChIJedN1uJpZwokR0CiqQnqxPXo",
+         "reference" : "CpQBgwAAAFz9oIpktJ2FLmVgxZC0uWlkA3C-rnNMYrPa73ReqyEhiUuwHnDus_kMRQzcCajg0JJZ59r0R_FnyoxABUo7G3C8JKRy5-BQXVDZ42wnfYazKbaALaYFVADHuV3_bvNYO2IExV8lokWBty5RZEgPxLuTa00VFJT-rk8baBiMJA_LNfQ3aK2jCFrzuqQllPUafxIQ3oSVZUwZi4ff-uXP7XQCFhoUzKCg5-FyCGXC6Zck5FmNfPyv0Lg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

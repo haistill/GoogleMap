@@ -1,0 +1,464 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJxdt_B5DYkBxjSJOdiDdvVvA34_99VyCdywOY3hFtG20iwxtL_l_sARG2I1yTGm1x2axH5jT9B-s4vx8KI-xgO-ip16lmGdSi1HeTBYRr6aS5w1nZodreiUlh5B_qtthjD5wOnCBTZPuXzy08OpurpKHEKz-m3r_iEZiOQWy6tXDAo61EWUG1RQ7V8pUN9Eg2c6R153rsQCbnTsh3B41160l1YgN6fa1ZHOyR4jy86pa3hgoJvagz9pUGgC06kHLbJgSFyW1nua9DKRgltwmeyt2KJHA1wLYGKa7XYjcgPC8b9BNgHYyKskidw01OmB1hIQ1SHPwQyqBG5He-CCbsNYWRoUs9MBLycedUi8FWqrDe50PicDk6A",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhgAAAMRxA8-0virmodPUvfzNaCG0xC1PdZ_fVcwCa2mVzNFd-dfnlGYxALNoak1WpsadLk_lLhX7_1uxgnLevtN2kqz96FCA6XEAJezVuzPROxZbiwFzw8PT1NXAINRQ2RoiaNCJ58ZAoz-6cqz-FuArCmk3FerHrDDHcPI9iWNOGetq9sFhgmxb__tok-Blt8iamxIQKrn-P7iJljmBkgo0WHAAgRoUYRHS4e5mrsEEK52yelkyWgaDU00",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815604,
+               "lng" : -73.93037
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e194bba96708037ab308c49bc324439f39f86b26",
+         "name" : "Health Opportunities High School",
+         "place_id" : "ChIJNSyH9Nn1wokRKAaZ5NKiKPk",
+         "reference" : "CpQBgwAAAEW_G_1TQRbyRPFwb1JCt_Poje0KgHO4g-STnBWgnXKlKhfd0XGCnLXndIK6-NkPsjGSM57uYlsR8W12GUL-qtyjBZM0co2ITJ5s59K_zvQPNB-oKi6VuKuQ9jNQk7gl8WEyZV-O4KlfRcLe3tUYBCY0qv803wRVRHnbtUvYjLMOzDW88WSDhhjX9Ex9NRPthRIQeXX-QAYx35J9SOrdE6yjaBoUJ5ReXUKEg6134IPkC3hAIpDw6bc",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "350 Gerard Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813393,
+               "lng" : -73.929372
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "190f8dd24a4d1c3f2adf1bd0c8f20e302df7368d",
+         "name" : "Narco Freedom",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJA7XRxNv1wokRZpaoJg357Zc",
+         "reference" : "CnRwAAAApNck7azqUq3ltHl2tKCcTsEh_JkUhE-aNXuO0fo9c5ES6DRDNKOkedtRQFOgdPv6isGVIy-tv8Sqr2u3Mb3SSoiX9zDl2ld-0aiELeG9kXCVw-O0RKT640dCIvHD4RvOlgz3HwYxfj-omQDvt2-g4xIQ4PqkElP8EedYf8FBpZgWTxoUqYKbN-iZlD_RGbjuSC47Kw7OGAs",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "250 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815727,
+               "lng" : -73.928314
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f94df752014b49f5f6243fd724788d8fa2c76b47",
+         "name" : "BP",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASKwpMQrKu_SDfRzQHoOP4ha_wrybpuZpJtMnXQtY1sTB3XFueb25OHEW_6XwUp4fNYhLYOZuP7y0zxR_Ex-a_5vic3aZHmkK5G7CJDxU2Lk6W0znXD3mHtI-gR-u7vp5evrzNcKRFO5feD_4qm4yiBIQMPK01dXBqk-iqXF6T-iHehoUCvN2Y1PGI8HiXeHqp71xeZK9qYw",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJmR_IZdn1wokRcoXuynCeq1g",
+         "reference" : "CnRkAAAAnDKzzOdShD7Ctp16A0PsXJ4Yui21o3Kam1RU73pOxxZPNxIyewq8dvvLgcBJS-0Kc96Z604mjmz66yT27IZvEJETXdQjlPN2Q-kGFhQaP9ztsarGo_zW6CV23N-Otlx-_meOJN9YdnPtYNv7nS7gaxIQ7cURGEYO6le-IcLOTB5yaRoUPmbBxu2KGpm_dGIsNngp9orCHJc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "food",
+            "store",
+            "car_repair",
+            "finance",
+            "gas_station",
+            "establishment"
+         ],
+         "vicinity" : "350 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815659,
+               "lng" : -73.928213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "11480bddb51ce9794da092f8b4c7f2b0fc340670",
+         "name" : "BP Grand Concourse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJfWfzbtr1wokRITdatrhM_1s",
+         "reference" : "CoQBdAAAAJPtx6g2zerOd6-R75G3HvRZgOAQSR0L8MPDoEnfJK5ytpo8Gr6iLWKrxfnMFysVJW7NplQEF7znHxRXkPBsRcYx-GXuMsdPnBdjGKchf9rZ3Az8bgz3T9DodYkQQQie3kgrAN7qcuNubD-1-fPYPikNzaggu_IQ_2m0LB9lLcQYEhAR7fci5EXo3zZWVqJp39I0GhTq_GAQod4NT4GY4wV93egqO-9z5w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "store",
+            "car_repair",
+            "gas_station",
+            "establishment"
+         ],
+         "vicinity" : "350 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815803,
+               "lng" : -73.92999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ef52f0c1a41b13a32c6f73277c44c98e559ef3a2",
+         "name" : "Community School for Social Justice",
+         "place_id" : "ChIJNSyH9Nn1wokRezweuyIGemI",
+         "reference" : "CpQBhQAAAAYSnnO5h4AW0y69F7eJKnRDH3u1vxFdfLi-I_CIsOJpVFXPOOghFGEFJoEEPH7MS54GGnBM8UyeA_aQdqSmBxKTyl59SjKd-lIMeZKUe5nfFMdqiMT9xs13xK0fbFqJklxdsxmW4VJFCdqGLxgzJmDSDCVPXIsiFmjmr7jc9LNVRsfd_x7lTVzOGtoky36ClhIQx0B3XYWnAAOAju7_qwc7TxoUAZukpS4NflVp6QBnHRQUjiWkX-M",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "350 Gerard Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815104,
+               "lng" : -73.92913900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "643c19909a88890533173f14979717a8228b5caa",
+         "name" : "Eagle Auto Repair",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJG5wnPNr1wokRAPDi12tL80Y",
+         "reference" : "CoQBcwAAAB3BTN1JdiotUuqSHAEuH-Lcn9Ot-_KNNyq8ZB9JJTiD6jCM7SWXpazJFGWQjzQLwXu6_1-jWD3vRlx0EocVDrP_gXLEVCsWYq3i8DRcXrYGkDy7PeoXa9StaMJRh0JiBybgpMwEmzfJJvynIIDQ5v4-I8dJAuRTmaVvVhARAs5JEhDtXJBEFQQGDmG97Q_LT67tGhTq90sMkQjFfD3J2DJ4HYv8MsEfoA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "341 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812627,
+               "lng" : -73.928999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ebf2b54f516c19d50ac84e04bd3f75ad48164d2",
+         "name" : "Delbia Do Co",
+         "place_id" : "ChIJEdtx6dv1wokRByzolp1TVr0",
+         "reference" : "CnRvAAAAf6uE2g3-No9DrR8_7EgUQFqbHgcdUflalRwAYHxbwkFhSbgwBbIgaINNh_HimHp1WNrLsjJHlw8MH2jfyjObdY0y8gIUpj4g5WD7QQi6mULIptiXttw36I1Ep-iOSMWdwXafE91Uo6y3ah09oFLpaRIQL08_kvQR_nIbIisEb6sVsRoUTdR2V0pjLCyjWL3x8077G-sHPk8",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2550 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818738,
+               "lng" : -73.927164
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0d3d91f7da253c450be0f9d7936f0cd09a185b19",
+         "name" : "Shleppers Moving & Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 60,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAA9OerkHDcjptqzil4SJdyFy01Q81ks7NEDARux80Ht8JivhGMfa9kBSEXhgS4zWVbxKMnEJzbOsfGTIx-PVRhsEfmnnbPF6a8ZW4aFDL1ceBFtt1IrXubGvj8Jefvu-YxScOPc-0CHYa5kJzSaIfOOBIQeADssOO2iHccxoE3MjGkTBoUDNo3wlXNbgh2hzlmnz_HC6xr5y4",
+               "width" : 85
+            }
+         ],
+         "place_id" : "ChIJCak8Wu9YwokRrwHthfQnm7o",
+         "rating" : 5,
+         "reference" : "CoQBfQAAADKVggcFFmgFw0RjEwTwMDOHH_jwXpyh72Ww-UjyspOE6m0vhVVIWHWl5mPuvU8OKW7-MmtysbDnls8kNbtXmcofRSk_SdNcjcNmwwHUpCduKaxfOoeJ6KR8y1s6sJuKECv0LqfnH7GMSoyBbe-t7mcAP7IPunFBmx_HS2E83LPuEhBSmfESoNrJvPT5tiE_R-6tGhRFUu2oHOUpgoGuLqos0PQkm2j-bg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "moving_company",
+            "home_goods_store",
+            "store",
+            "storage",
+            "establishment"
+         ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8136,
+               "lng" : -73.931687
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "9b3b7e7a80a43ab6f3830bbaa271ddce471d9e99",
+         "name" : "Federal Auctioneers",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1021,
+               "html_attributions" : [],
+               "photo_reference" : "CnRrAAAA7TozwcgPui8YEy2iPM8CngNMyCTAOS_aXtJRIV3jZi-Hoo6fGJlrimwyLOft_RNr-TuwGkkzX52n59VV11bCd3bMAk2n79VD-KWQpFOcoJ7u9dsHZvKTOQbwsVMijqUv0HeMN4K9CmSq31rTvksqWhIQALn65XEcXdGmRvosHkU22RoUjkOFTVp7mnQdV1ZcHZCQRKs-D1o",
+               "width" : 1021
+            }
+         ],
+         "place_id" : "ChIJg5jGbNn1wokRxLnrqNWNGJI",
+         "rating" : 3.8,
+         "reference" : "CoQBdgAAAC2RB14bWBfW836He1En5AIow3qj0IoN1NRJpRVbRmjQv8MyIMzX7fKb9GsjY5m8A9L2lXTM9qhw0zf83Gn9uvdU3o4WQi-oMUice_G4eOCHO7vZP_C8wsHwJhBndQMkbz5SiQs9l-guhN8tCjOxkSLmg3s-gaCmMnw5rs3DfwOxEhCYzmvyWrgTUmtAYhvIPbiXGhRsj0sAj6TL94nciHeY83_WpTftVA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "establishment" ],
+         "vicinity" : "110 East 138th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812854,
+               "lng" : -73.92864899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f9bde8b9b41043359684e470ff36d4064cb741d",
+         "name" : "Roanwell Corporation",
+         "photos" : [
+            {
+               "height" : 183,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAASER0AeyzOP3waynvmkmA95GpTmid8Ezqbu-jtTCAPmovjp2p7c3mp0WMtgo7PYGniNOCbIHocQlCQqk61LrlagYqhF2sUUB66Jr4eVVIc0QzdjVMj1ncOCukLMFtC4JDsadue1O6MN-Wq0vnIkzZ-BIQfoHd10A9EyWiW1s5fkOBxxoUgw6jGyHAkeoiny4S4vzwt311kY4",
+               "width" : 127
+            }
+         ],
+         "place_id" : "ChIJAVXGwdv1wokRYIf8Ik4OvHg",
+         "reference" : "CoQBdgAAAFpnodE6DYjgGpW6qXnnh8j3R6qRYgXEnkmOW8RDaU33fsje_KyMq_mDdwt3SyMC0R3WobOrqWNoNTVZPeMwVrcdC2QXOOH8fDrJ5lvsDQojn66a4edRSjBwu00X4qTupGfMzeWMTR1J4orAoMb8S0mL7nAoBmjuDFDsajCQLl49EhAkWcDXf7yEZu-dPBLg5LJ2GhTgafqbDo3J29kzqpFX-HszIve-mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2564 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814409,
+               "lng" : -73.928642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "845d5cbe2846bba7f2a359930ab0359b2cb6b64f",
+         "name" : "Luciano Shipping",
+         "place_id" : "ChIJ50yDNtr1wokRky7BdS7hQ48",
+         "reference" : "CoQBcwAAANRTAi_-8395Q7HuywPnWDzGtEZs8Jc6-L_L1njuxFOXdxioy2sPn3VP988fMVFtQ3Q9SqDqaAKnlQDIRzpyquVYirGXF2d5a1aIyoQcUJMjRQ20LTjk2zd_5qdPk3dMPTO1926qsI4ejpRIX5rxaS1CM_bHQj-eMjDeZs52FWnNEhCmNFOJo7MGStdKWVevAYyOGhQ9RrAD0JDBSanO0deC_jwCPe0qfA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "310 Grand Concourse #1, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812872,
+               "lng" : -73.932171
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9c7c041b9ef40bec0e6e50f2bc764aa0a1f897c8",
+         "name" : "The Padded Wagon of New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyVsOPY-32XT9V9NsGFTJgNuY9sc8NvoYd6XdR0fhrxdTHYVtHWaBQmREaVPnXUumdNbC_wCqAUoD8k-o6KCMz3V-tuEi1-vDEmGNqlLwUIP-tNzIEUJ2OoOQUDCXMspNUB4A6bDiameMRHIwMEvZmxIQ3kqiS52wylC4HwBra-mLURoUm8sciWmXSel7OpW_RkHMHkym8xA",
+               "width" : 335
+            }
+         ],
+         "place_id" : "ChIJPZTl1db1wokRXXVP5lwAtXw",
+         "reference" : "CoQBfgAAAKeQbF5YhxeBgewMBX0hi91u2zgWTTWztZ4Ey3Zx5ORg2eyskaXJWCEuEFoc_Yv9hIu0RVgFR0WW0gmCfnho3zg30SfiqdS0_2sdLtltfFl0WD0-eVLj_yQl3n4Xw6lf0lds-LcKjsPPZMdq0_FvJOGkhMNk0HkMkB74FYN2wEHIEhC_xV4JU5CctGyBUIdA1jwfGhR-hs8TiyjQgy4A291eIORD6Mo38w",
+         "scope" : "GOOGLE",
+         "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+         "vicinity" : "163 Exterior Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81438,
+               "lng" : -73.931482
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b58ff8fd66d3a218a280c32442c3b758db5315c5",
+         "name" : "CubeSmart Self Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAANfhdGOY5Bve55TUv71DDuXXxJraP3NqV3if9gWYxrn3MHA-7lg4tIlfo2Dq-_8WRLPFJNSs_xSRxjqgD8_lvzw7SsVW8LWVPn6VTun_zQfgGh3_mk7YXL_GGMXj4WJFq47ejrJZdv8M3hYy1JgbEwhIQPfRKcbPWR7ctj1fCwZRdBBoUnnxdDZP8WnnskVEMXgRx_Yce0-M",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJyyJVdNn1wokR6O5WqFwUqDY",
+         "reference" : "CoQBeAAAAKOD-fWRMtDSkFr4ja1lLpwPLq5h_pjjFv4n6-oWbXsdI5KnW5VZUfKS5f1c-eZ0doOiYtSs7xT_vzvqwd5GxYSW5zqapu6kNsb5UuEywsbtI_XOeiGs3QnsCkkghKrVEM7EEFK8cyJtEqQ7909_itOtMRFug7gPeV_K_an6aRLQEhDiqrLHk9I9Jbasl842DGKwGhQoOJtbbHtEhdnWKaXIcVAFIoVw-w",
+         "scope" : "GOOGLE",
+         "types" : [ "storage", "establishment" ],
+         "vicinity" : "255 Exterior Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812791,
+               "lng" : -73.930058
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "090a8eaedfb7253e834974f15ef97234fb626578",
+         "name" : "La Finca del Sur Community Garden",
+         "place_id" : "ChIJp_HP4dv1wokR-0tgyLnk0r8",
+         "reference" : "CpQBhAAAAEZY0b4E4vzpAcoOD_3MMv8XTqYMJWwpl66Y2_-VAMQ2Uxm9V5QZ0zIQwSMCH7FoGpWH3H2owr2ESCJotD1Bwc1UzLyyowDZcfH6L1Vj0RxaO1kVOprrsNsb-n5osx8Pz8-NyqPGfA2X3HE8LOaZjeMkohYKPA2_x4bu_Iht-JKqfL4BNuEzSPMpVGd2kKl0mBIQkkWb5hGk7sa-6An1EK9ZhRoU2-jVeKjOcfWYHQHyyu9aj3LppMU",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "East 138th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815091,
+               "lng" : -73.92850799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "58456e3fa23399fbdfedb7e77e141c2c3bb696c7",
+         "name" : "Teddy's Place Auto Repair",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJMB6aeVS-KFuQxKGmHarwm0NTDOFHGVVcrzSW6qGVg6BiSUrLAoGUSUBkQ1nNAYxwgyGZTuTntHaQ3R-NIkrCn_As6jPiwRM-JRRLR1MUPjQp6WwG3w6Vva7N9eIM2w0ittPlPYfrqtovh1vGsGNdhIQuhT56_JZxvNq9aehY2PI5BoU9uYol2KUdHjGtfp7mY01TPvvJ6w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJi8wIQdr1wokR3pUbpwAbzHk",
+         "reference" : "CoQBewAAADkgjymlNLRp_UjsAFGhCoct4Mxv7IfgWy5lkuYHTdDSVFzaLKkdLz8rTB81GuVm1cfq1Ud09IrmHYCLhqQjCFWZhDS4M756aY6SXPCcx6A7CBjTrfnlJGr3CNRZZ6vWfYC4GlYVIj2CXtqB8a-MQsnf29ZK03GFa8EE5m9okGn4EhAYEgs4-dWXwzXvhHEtsZeJGhRZhCAgjzIFtSQX1-t3O5lvVK6nTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "car_repair", "establishment" ],
+         "vicinity" : "344 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814369,
+               "lng" : -73.931596
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bea0ec6f396eab055f33874339849905fd56f0ff",
+         "name" : "UOVO Fine Art Storage",
+         "place_id" : "ChIJX6IDc9n1wokRiYik2o37rmM",
+         "reference" : "CoQBdwAAAJQEnCroqJUS15MdSjXkdgU5395muYmWWXNcV0ldhMeUSg5he3ChuILev6fE1KtFiYATQSNwVpJOFPJdtbWYPoHgIh0t0mwnUfdUJz57RmFDUCEvyX0mvPfKSwNVCNe_9nVQ1tL0i6jGLmqWYSk2qI5N87hihmEmUZk5te7GPgDGEhBJhfIjzwmBh5PoAagZkWtpGhQJo9eCfBPImee96VJDvDMmxZHq7A",
+         "scope" : "GOOGLE",
+         "types" : [ "storage", "establishment" ],
+         "vicinity" : "255 Exterior Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814759,
+               "lng" : -73.930052
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "410700fa11e1761418212ae0c17962475a0c79b6",
+         "name" : "Stanley Ruth Co Inc",
+         "place_id" : "ChIJ6wQWKNr1wokR0LTkWAic4DQ",
+         "rating" : 2.4,
+         "reference" : "CoQBdQAAAPdC5TcHW6nJZiOeHLorqleIZYGu2qaUKVq1Q4q8zZf0jAECvdabDDGN0V5znm8XkFi-tk4OXs_inymixqMcexFKjmS00mzYG-pxO3M393yrAlHRewOYJPiq64vo-zpD7uwiYqeL0QnUosfz6HkBHVuPZSloRifbk8R3FvEQkANSEhAU5kAZVqPNdWWweQvIOfFsGhRRh7iwBGgs7S66ALu4zecNtEnh2w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "287 Walton Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81331,
+               "lng" : -73.92933499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f9c85fde3112208581d64cb6cae29c7f9c5adfe0",
+         "name" : "Neighborhood & Family",
+         "place_id" : "ChIJA7XRxNv1wokRZkjp4Gw-A-g",
+         "reference" : "CoQBeAAAAGTFOLPgMxj1yVVFD5lpXdd8Ld8nc0cNg-VyWdGGgMwWNUmrusUpc-PX6YYUOpswAEMoEGYWaxtl6zFW_NOUS8-YTQtrgYhBKuWkVNHGMINuNOSCfrdyrz23bofJkTWwOKvPNsRz8u3M7c5zpaV5PNBkojFY8V2KPnrnCX3zyV6OEhBXjfry-BZ5FWAY-MpsyMCVGhQC_HPcGwxqKr2uoOP4imuAVf5D-w",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "250 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8519547,
+               "lng" : -73.90070899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.91527809999999,
+                  "lng" : -73.86840409999999
+               },
+               "southwest" : {
+                  "lat" : 40.79678,
+                  "lng" : -73.9334059
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7b4d2ff64ed3cff0575a587ee852f87322b64e58",
+         "name" : "West Bronx",
+         "place_id" : "ChIJWdLZpnD0wokRgikpekRYd9o",
+         "reference" : "CpQBhgAAACbbvvMIYfE94bij2RhZ0wo5vLzAU-UYRvvO4ko4CF431vw2UK_U1UnLNfKv0Jf_4jIUNarKBcSUBaHttfNRUx_--waMKFWzaJiTMZ0I6h8MYoaSkkltcerNZ9N64ykpPx5BM1Ao4qErukeI1nEYYMd9lVvjAd1RBgL_mySQwS5zMvszh9llAUoZVNvdrJrq1hIQQ4rEM9Mkph1tpJuH7XO2XBoUaQYqAl85TKjk-9RYwT9XehP9e0U",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

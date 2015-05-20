@@ -1,0 +1,525 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAG18dLhrYgmF5_3v6GGMFfWXI21DuBLZW97a2_yv_npK97blgSJvbN6V1qXs1wvjzrtgAwPBtP2Q3WAyXYXNetLDUVkNLLfbiZYoTQPCAX8U1bnpoUTnEV7Tkh39XUWFFVzAj_vUsvd_pjRyo-ReQvyI7HCGCblGNNpI9XHe0GBM-osZ-7xqsEBJqG4-yn7Yj-M3-aNEjiIT6iw6wVbuUobGu2_oFQUfTbGIvjlDR0YrfHmMIgEbjn_CkXLnJp09251t2SOlSrfrA7C2xxb9PS7FJGuhZMWYsN19yzaBFHvouNjHeLGecXjuko28t2KFPBIQYqtmhgh_a5AGx1cEydH80xoUkLVu4yTY4HDaPXgVe0zbaOAMvhE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBiQAAAJaYA0V43fzI5gdES3ZyGLhhloRn2GwkmPHr-cdKHVfQyjW0PPzJ3D2CVdVxklFtyZU4cBXjVtN4kerY0IOIiHnbQmhvuFwYlLapgvOQh0XlYQKz4eMAutFlNrjv7_J145KajaK3Nz1Sp0EhIEAoKdZALzHX2R5a6A082p75NxHa0dSAFDi-ePnsy_TEoOle4xIQVgT96QWFYnra5FAooat7PhoUxYdY8Z3IIMG2feC1FNr1Tadp84M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706745,
+               "lng" : -74.002875
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd423448c5594d09b3e4282d6c02ef80eb243d44",
+         "name" : "South Street Seaport",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 920,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA4lMwLrerIQ8xmt74T33xhwtHqeHED8z33nriQOzK5fnExw4v8eY3JUH9LJK8eGXhfQl88lVp79M2J8t5c-4i1PrRs-GSlws21sjYbVA8aPuEaHyFaTpwDRuXcSEPVAJBMIP_F5SrK8TIdRw0nP4B5xIQ3h66PliF1sqEL80XmfJYNxoUuD9yiDK_YNd99N_hkk2n8HDkC0Q",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ48y8-TxawokROJTPwB3cxz8",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdQAAAFE21zVr-48vgniJw0dIUOQkonUY_bSZjFm6VM7TBQfyi8_zwgNFH47zfFD-P5zMGccuO9my9PTHYTh05f8fnr1wA6-UOJWfHP6uPimpdYQfHFj4XOZ0M-JLmTWiPMhoSmKXqH8tdmRKAtaZkGSc5I0-7XL26c7Uyqs1df1r0O5sEhCAK9_YdPvLxtbtUzKImRMYGhQzQG10osWY8flEvqWUVVa0e5kyYA",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "shopping_mall", "establishment" ],
+         "vicinity" : "89 South Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707241,
+               "lng" : -74.00331199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a767f66e6b9eb897dad53c8e85aa44cd7c378b95",
+         "name" : "South Street Seaport",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAALcxFkcghBCCroy9Ij89x6ZHgyr6h6PywjgTaY2J09VJKFt6IuXKi6YGLyjriVBtWSjkutE6P58L-ueHOzKNdPKSDjNX_zvJxCiMHuB4mzUbBlvFiFRGuX_JDBhuyRZ_vLD-y-BcRL9ClmtQm1NP8yVGFWpKMYWLhK-zw7V50lHREhDcZhVqu6E-LsOH1yMoh5zeGhR1pUqr5U1enX5-8DAExhKgllwOkQ",
+               "width" : 2432
+            }
+         ],
+         "place_id" : "ChIJyQScHT1awokRxd_fSCD5aWM",
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAABHBm5m-l_Vy-LXItkEs1Lw_UjzeoTL-723CbbyXZr8UOhRXugm15ZA9MZty2LBPtOOvhOtDReznwy1te-bXRQVXqcR2RSYWZV7LPpSLnDscgBIzo7obrX6q8Lvv4gkxupMauStVO7Ta4xDrBmEbrFzWjHL2Erc037LebCIjVkOmEhA5vM4KfyN-jelnB_aGkytQGhQRry_aoF8yPGkjnFNgn1_RsH05QA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "199 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707603,
+               "lng" : -74.003663
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fbfafa1c48b0a0ac5aa1614c6d6d517e764a20d9",
+         "name" : "Titanic Memorial Park",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA5PN8hAKFzOaY-lvZVGgexAYT2lepWm91G6osVJzwS8FkuoAnoifNU_Z6xmyhcyGtaj7bD5QtIuNqztZ_elxSjWnesvQ3GugrmDN9DXSYYQPh3pfYKqibiycQ9KnzRVrTbox3J7jwmvwSco36vfOqVBIQtqz6UROvH4blYgeVQkl2wxoUVX4aU2t7J2xW67OwC0UA_zP0gmY",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJMz1aID1awokRURWyeqgtAGU",
+         "rating" : 3.9,
+         "reference" : "CoQBdgAAAPU4FwuaWUq1I_kR5wWaf0xcXA__tr-V8FriEni5eqhw-eUwRfS83XZT-uEVIS1Ona-QWqWxwItIZ_NI8luRbrV_cozVhWR5jiQJ-eVK_hblb7DRFi4iW2kL6O2D3N7ol8zu-cGzDWwK1e7AOmEswM5SHw06iOy5l0hOxon2SmcmEhBwzhISGF6UXsbd6oyD1YEGGhQbTAR2LH0HTd2je4x-Kl_ilvsYGw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70777,
+               "lng" : -74.002573
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c45f6116e0e40b1aaa48c705e14c1740ef745ba0",
+         "name" : "Blue School",
+         "photos" : [
+            {
+               "height" : 671,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcDlkoZDawr_Vc07pIV5CyBFS1b1GoPoRwsFcAjG66FCN1PLgKIV_LD26f9Cb4LPe_btpXrYlu6i1U0jifC6DvkH0VM1mVA0gLNlm8VaqkQot-20jBjmEEy8keIvDb-r_kLn-xEcuT1vm8Qxcfd6H8hIQplA3yJCMpf9g4dJKzpXjRRoUZ67bMn9hfPctKsUMJshhBb0zjUY",
+               "width" : 934
+            }
+         ],
+         "place_id" : "ChIJ4RyiEYJZwokRfzFAGxjj_00",
+         "reference" : "CnRsAAAA5Ar65q1CCuKQKy_Elz2-Xs9-wgNYnDbobtjpOrVhTAwA24cyIxu-OUSGzQfuZfOhorU7uKknTKDQb1Wbu0sonWGwGS9AfLXtgdIM924ljn3lwkYLgshpRvtbHvrU2DxxEIRh8WRKjjY7s8hIWikuwRIQhzJz4brKcsC1SjBAywir6RoUc1hZbrelXaMhY5qPlFN7r_IejII",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "241 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708042,
+               "lng" : -74.00137599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "be58b7e5ec8d3d9dd2f494d65ed10d48a1529d05",
+         "name" : "Best Western Plus Seaport Inn Downtown",
+         "photos" : [
+            {
+               "height" : 138,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiUV5ushcsERcI7cernJ8VUtil8RepieHHYewIy8le8WoNgb2t2w64xncjKhe2AXFLetYEXM2x3YagTdWMOWkbjjfcGfJ7nEpblJfVLxUZvgzbUskjPnwRh30iJuVtEtFMcl8-tJk356x1Z7viLvnERIQaUaU5LZXSc-UjufHLLbAChoUe9g2jBCfhJHcRRauLweIBXhL0Wg",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJHVAgsjxawokRubPAV8hL_mk",
+         "rating" : 3.9,
+         "reference" : "CpQBhwAAAAvMjpfNynhjvg2WuVnExR8HZMiRmKInyH5TB-djefGEhaHpDjmOoQx0GXPr8SvJlZ6umad-h2DoG_Dn16Ssx0N_2Kptd3QnRTRA85ZfEOuDs_9SkhFFo2GVxT0JtiTg3v0nb89snYq-JgjWQV-jP0wgQ2dqqxCh4p8hfrOHYLcsnV_cFUejQS05uO3hANxqixIQzkqdSCmrQGSsNZyigA2CpBoUbBJz7fhm2zAfMJCUkGFXrB1ki2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "33 Peck Slip, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708883,
+               "lng" : -74.00203
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "cb123090321226d946f06cc777fa5b879bca4e0a",
+         "name" : "Hampton Inn Manhattan-Seaport-Financial District",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 851,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-XSE8cO5DUXx_A_kW5DaoawVePVS21vPvvrtpB-hqgGf6EtFd4A6fFMLuf0eXWc1mSDIb1qJBmTUygQTOf7I3hlW8KhMK3_XvfcvmtYb3l83H4SEX7O2z1-USgVOYCuor-J5FfAm5duBZJpEQL_ZfRIQmeXAYHObLAU1rC_raB4ReBoUKqEyQFVFFMIiUiZ5IWmoy772rEs",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJJe9tSCNawokRctegHjoZK-o",
+         "rating" : 3.8,
+         "reference" : "CqQBkwAAAGVUBe6L0NRvijn2kZX7rwmLZalTN0j5Vmv3qNpFiIQf2s8_pWIVNJkf40IQWnqgTgukKmEzwFldEGY0DRYtXYYHG4zRZzsgWQJ5cZdXhJzoQV7tzstLX-1ZS2XNbSbWnf091No6GqzABN9M8YhWLV2FuT-4Q4a60Z5RGzb_11tZ6a6ts8wQjA7V-_xmiAVWFYHxCj3KliSr6RZTrQz7CyUSEKVBKbrQLFf-GPJLfvdBOl4aFNfZdMfKjQb517KmNH4vI9xPhW4c",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "320 Pearl Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70763,
+               "lng" : -74.002487
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "5dcaf758fb4372c6c6ac3d0e48d1c1ebe943a754",
+         "name" : "Buka Bobby MD PC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 477,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-k4uCKx8XXbTiPJQu1bxHqDKI6SkC3Zmlp-ufStqMefc4wiUXoyWkXXu7uaPx7ZXBXkBEpVWax79xksmqJK5CsMW6HK3ZuG4GBAXJWpT-5QAqKp5MzhQDP4BAEXyILxqB6vydWg1KX3TEQ7ysTY5VRIQhynFCsW3GS07g810m953XhoUQ8cimqcL2OrIa55h-sRShzPvTBs",
+               "width" : 590
+            }
+         ],
+         "place_id" : "ChIJa0pawTxawokR8z9VQvdKgiU",
+         "rating" : 3.8,
+         "reference" : "CoQBcQAAAB9yn9W7aqpVi6WYbm5y7m-fECihAR4sSW50ubJ3QhyaLis9vgnCItgFIZB0U4EZwa0UDnopLqpvNPLAT-1rcMNxeBPDaJpNev7465U9TXCT644qPUmTUivvDoJ6DRn2XhjfdOXqRnWQfqAPF1Fh6_vVTH2aSqYcUcVOt_Gh371eEhB91Ii_Z8aO6Wo4M66pu43HGhQL9hdtcD9jEeOWYI5zYREXfIQI9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "220 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707655,
+               "lng" : -74.00403
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76a77d7ae9ca077e8f11115e218ac240b8dc6864",
+         "name" : "Pearl Street Playground",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAvZL3S77q90b0soU4MRRjOSOEL0m5aTqjcc833YRTWYYbNOlJ-aisWSDT0L3lIaLNs6IizUOoykkx_PvBq8ZJlNCGHf8AwDZzbqeEnGs-0Fu0Vf2ldbpdM7i9thE8lxjm9KP7uHp8EPR1S8KcIp4TqBIQa14QI-GbG-cCPYK_PXHLQhoU1AlxRIdt59UmwW6_-cfcaP29EwA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJRdlkIz1awokRTG4k1r6aIc8",
+         "reference" : "CoQBeQAAABYCFE1ctmcP2Af2tFVjobwht8TQZvGoq4-L4Ka-ITfePi3h0QP-ef4Ca5X-JdPch6NimQ-CeaQCXmqwgm_NqZBhz1MtvuoNnGJzmaPpPeZymcFO-XZG8OvhOZlcpxfoFWZCkUaPKi18xU94ok8w9xe8J0bDgKjOlY9L0ZaaqxgDEhBbPIV-IfhkP--Wsch1VW4uGhTFggsXGEa3OcBvl_6yQsjNFBUt8g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709292,
+               "lng" : -74.003794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e86128bf30d3d13c49317ccac0c5179d7900f601",
+         "name" : "Southbridge Towers",
+         "place_id" : "ChIJw3jXJyNawokR3AMLXyazZNs",
+         "reference" : "CoQBdAAAADV9fwDEwg7_pyGQQvCfQTmBwiIoGhmH0J8mFM1RDZOotyshJFNkzHQf5ueSK9niW2Gj6ruzi-dI50M_yFoNtp748Ho8xoGNs6WZNGxquu_KIVCiF3DAUDuhjMh3hztGfmvTCVygOzg1m8ICetrkJLylM7n459F7bIRANRgxuHf9EhDggsRDfmk5fkWlJ3TNyHjFGhRF1zUiOAXRxQ7PH3jJULWzt5q9DA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "90 Beekman Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708354,
+               "lng" : -74.001473
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "42a496bd971a3e6083e45516ff43ddfc14013da3",
+         "name" : "MarkJoseph Steakhouse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApgmlF_ry2bxHHRp_9jTiacXoZfhTMDp5ni_JUprd73VvDGIE8KJHE8Qt3PhNvSxVdolgjWUAzuDmNijxSg-hqlonoGnqKWzw4cDe8tyH_O7PBVzQPxeDoYtKO2YRRfTd_uYaNqRvUtZ056wSz7mvYBIQZ9UdiiYuXWc8AXCPfOTymRoUkPonbcnPiSZrltCYb786aqxqY64",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEx7kTCNawokRCpJ7Z5FMIHA",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CoQBdgAAAIXvat91Mi9oon-hU5WVTaryaCinZ_myyiyAH2aOuxwo_odFlCQCpOMsOUS0JLPxWRt0EtlV0ZCMmaHvj1WBm8hIKt6CFEg06GOR3is8R5T6vC6NH5HnwqJ8VtljdNhJv5ZgWS7kh4LtPKBZWXLBx25oScYgs2fS6b5Sjnax0k8DEhAQjOeYy0M9S6Nb1MsF6gv0GhQE2AADnRqrUWEjCiuCoHZdWNQ9hg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "261 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706982,
+               "lng" : -74.002989
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "1a421b33568223bd62055841ea7193211f68d333",
+         "name" : "New York Water Taxi",
+         "photos" : [
+            {
+               "height" : 981,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAG_T1OZSvdqKdrZSARZV2J6eKkAm_9DciG5S5DCMgoWkDWVABVRZrdydS7V-UGBiQ8AIDLbUTkrfeGCHntWWJ08Kv2DmXAWwenInXRj81fXysNDF1VPT75Ys28tU8TVRO24qqmIH-D1Ql9y4TXkFB9RIQpmC2YK-cLzYi10c7NMMvHRoUni4OOVFlW0p8WrzJQMmSquwf7G8",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJxW155jxawokR-ogxlsPvcKM",
+         "rating" : 4.2,
+         "reference" : "CoQBdQAAAGYGU9FC_XCq8P9vBtw74CjVGAoVMayrIoH1WIuYFb9oCR9tHyhh4Ctkz-lj0YWEkjYaIujUv1kF7pZPQnwiFHy-6f9gDN-sC2-907i5iJmE7HRd_qawn2wsI3rA6j2-6N-Nw2GL8bCtW2rU-Iua3p5jo9THFhk1-apPSsXUTIADEhDdlK6u41A_GJzRSnMYit6FGhS9-Dct1JOmgOTEp_QLE4ziJyQbYA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "89 South Street, Pier 17, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707772,
+               "lng" : -74.00215
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7d039e22fd3100074fbee2b7831d7f80268a89ca",
+         "name" : "Jeremy's Ale House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 920,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_6VNC6TlhafDqL7PvZtR7ab1ejl9tag0L6a7P6DxXJIYxfBH6wRDcGBdUYoz3rkNGbI1kSQhH5GamTx33Ie77jX_xaZ1s98ZHZPh3Fwht3p-8t6UOnr3eIyZQZBHMhMlq6AWPA-koAVdzfPUmPpXNRIQhAbkfo76pecIbxcacRQxVxoUWankI2Yu9y5RSQwP_d76oaZI8vE",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ8fd4uDxawokRcLenrYjJdbg",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAAItQLFgwiJ9GDSNW2mGK3aWOM0ml_pOH2pmvE0_rmh3FVVRicgSQu7uwUZKGXTtgvvokx203kIIOl_d1rEuf7y7Vm6sLNGR8kX8WYjckaceTGbMYYwMfYavSylqIKPJIrWxdqpKDL-0siDUEE7lknKOMBH1_qTEJ15HK-dnrvl6nEhAlkmRHZgyQ_i4zHNIpgz4BGhTE0JKZAz6-Cqh43_PGtdRdaQMFXg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "228 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707283,
+               "lng" : -74.001606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5b90b1e4f2ee5023c83d22858b027d4a1172b02e",
+         "name" : "The Paris Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAt1-LEL9YyZkwbARMUFA53coy56GzG9645U8xR65vmpu-eGtBzCJbd-ZlQ1PM4jU0UjEytvnUPTfC-at3x1lT4nTa-asZRBNol1YGJgGM2oSkgvzewi7zEMb9Maca2ZswPst_D4afgEsh-uCK--XhQRIQBFPw5pWdW3-hhUqkb0rHphoUccD0fFru2iRW9KPR_1-TvPX_cnU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJp1xmvDxawokR--2ZxQQ7NeM",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRwAAAAWh9b-5_sL_KjGxWcoZkvuP1EBqULoT6ztLu3P4d4IuB0SH2Or9JtvrLC9L99l9kvcHXaL4h4alExdnJtVnX9K8wOMdjEOX7fWrxA42Dta6KVq10jR5557ojSWalVs3DPIFvhYWx6YUbMCH7y030rbBIQRj_SjMErc4xrN90vXt2oIRoUW-jgYW44BnvUVciCcgStKjdziXg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "119 South Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708084,
+               "lng" : -74.00052700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1a287925c541adb5909ca49c47d8a2bb2991206a",
+         "name" : "COWGIRL Sea-Horse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAygbXb63dPo9TT0brsmqvncoPuMGHoJBYRXQg5U9yOcOzdRDh5-R8xQRvzKlnoBVH-CdFVZ5sAUDlEs-RuEZv8fx7_QLsMRoHZezJUJW6W8QgrjLsBHFSEYcLU04o_xT3P53bAr-QSKo9n62nwd8JwRIQk6j173p7VSL-e-35Zb47OxoUm5KfXSpC18hHw9SHpOwZkN3futQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ24YpVTtawokRsFPSkHjTWoA",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcwAAAPW4TEtp_hrZrw3IPFP5jmpBbjn9NTB-4uqIFKJorNCdO2brHhgRkE2dGiSfm4kliuqck5rbnzxP2gxcFXfrCmAcr_H6FDeK6P8y7W1McHrEL5_BJTjcVhBzKl_5MOEdSE8AcsBV6hARQQU3gCk_FSHlhsSew3W0SV_6culwxUVaEhCxoItuSom0cNDqF8lhgC13GhRBuODQ8LLoqxav7lDcSVmIneW9GA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "259 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706541,
+               "lng" : -74.003469
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "871c2af9da786331109c6ed8a5ac83a0de19c318",
+         "name" : "Schermerhorn & Row Corporation",
+         "place_id" : "ChIJU9sG_TxawokRPbYMVcp-_jc",
+         "reference" : "CoQBfwAAAH7uV-ZxN4DHGcK0sL_64EFAtGonSzxZodH_jlJqATxoUmG-Ohmn-iVzWjwaJZrnP9H_vrqyaqWX1QXbF6__g3ui-wAbktl9H6oJNLAI8N8e8ezkIDkPBXn-xIZFQIayORjoCRaQa7O7saqTTY_yrHlT1bG2G3rNOJttyynPo8xOEhCW26OjS8LaV9mZDU-PZPv4GhRDqiZoMHHSd4tWOTVF8Afj_OLDoA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "12 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70713,
+               "lng" : -74.00188799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0f732ada6108d9ca05da2f6db6144105eed07ce4",
+         "name" : "Fish Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ4_EelTxawokRIrVex08F1xQ",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRsAAAAtAnM4so4HCo2sXDF5ClUxmxjvUEAPt8TAVHUIrODX9MFJP63HO9BwkofSknNHBKH0TmQjHMbsr6AVD6KTupf072pp2S4kWNl8iqp7dovVXsmNi3gKkhEGhyyY-Tbyw2eGWjdaJOlDa-L3jn-K0NZLxIQ1dE8Nm4iqM-OFcVI3YEMLxoUpgdcBzYgqV_KYrMehdoC4kfyQi0",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "establishment" ],
+         "vicinity" : "111 South Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708271,
+               "lng" : -74.001701
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b77ada508cf46311189a98bfa4b819215284ba3",
+         "name" : "Acqua at Peck Slip",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1lxSuDCF6-pEYoJqTAsYl8lOgkhR920DDQc_v2miEtU4k7qw5GiLcNMW5cx43EehyzEaDdnZD3KFsCX7K76_yJWsosqX2i9aaM5KvPJMXHR7EatBDRrO7b4_NDBTyRyTsc9stmrU4Uibz0ocveiLlxIQCaqrSP6JO9-4jO-vI16yPRoUhr6zw8kpUsubrpyDVUHo8u-A668",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJY16WtDxawokRVTvT0q_ehTo",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAEN66UuqDL008mKrC7F21Y9v0GzZ3qBB4Mg12B88SxMAT3JOA63J5l5FCR4E5FAsz55aqTEx8k-uRmRwYeGbiPjOWQ_YD2eifbCwU9BnQ5Ux3t-0So1utNeofzLp4JEHF8mzeqsOz7aIKrUVza--Ni02s6QMZ9HUwMk_nq8CvzZ1EhCy-OV0E5JLafenhTZePn0uGhRWzbWHZSPpf8BrtyXh0lKc3KfbJw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "21 Peck Slip, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707096,
+               "lng" : -74.00248000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e1e14a6375f9475713520e10bf5a7d9655bfcf04",
+         "name" : "Fresh Salt",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN8ko6jxawokRh4mOVeF82dg",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRsAAAASWDYy7WWN68TH_z82Y8rwqdFT9-R0L1TcmQRSx9bnTOGHHf1jlOVpCAf7Nsb7-EBTbauLDPaLClL4laMD1EfaUVSDwJUdZXa48dOjeeCETyHB8jJxtBvDA2XDc55fOnMFy2wWA3cxohiiWL3OfyHPxIQ0ykgImMBapWlzGL_bUWHUhoUFn_0siNy5GEVzmnWdoxnJxDgwO4",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "146 Beekman Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAAaaKcZAzD4dP5e1QJ2CE9hus9kelzhd2n5JmMvOUow27fuTvhYNyz18a_X6QNe4Wp06caocGFK3jx-FGvjfxBgCrpsxNrv68q2zLCb5VZuetWawVyysUwYNUQhQMBk-FPCbPr4e8ctntfaPXKZEm3h9gQmeocsyjveOp_GG_2aL89kkD9DlquM2YCfv3mXOh1Nh2fDW3hUNcDCXKPkmgoQSEMenjPB3Py_Qx4PJ5LE1Ig0aFCekjAeG8ANQn6nVpcsXY1mjxIgN",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

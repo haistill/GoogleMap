@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhQAAAH5PNARD8XC_dLqrpI-vYX_4t8_BPOQoi651a3IlHUIQstqWNGXE-Xq9O5_ICdD4vqZOqY7aBgAOH-4ypI9A80oGU4lvwQIBLbMtsUiAhA1Sp1FcferEZG3UtvGpRa7cDFTEewrvAnA7oI--cF8vDb3HUMNVcJ9eaZBLOXpcN48c-Cy9Y3KSYNeIyUUO7hAUfxIQ0CJiQ74xTTfGKXXcLQK3qRoUBQhVIYIvP430Zxn7Upgh5NDK2iw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811469,
+               "lng" : -73.93516
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b30a99798ce8bb0c0721cef93e6931017c2b523",
+         "name" : "New York City Housing Authority's President Abraham Lincoln",
+         "place_id" : "ChIJbUUq83X2wokRH7Jq2sZ8IgM",
+         "reference" : "CqQBnQAAAI8b-rW_d027BTff74PSawZwocLLH6kgI5GIvB9Gh5NOuKbftEjG10rgkzSGxkTgVmhYpUULreNR-iovDftNntZR7YKtCKsX_6kAJO0w9qzVTfEYnzNZtsISOmszBBkvfc_ISfwR0pnn7JzbCPvFMz8vDiOrqsd-SCS4zZtJkItUIk9kLhrTEnZXGL6ghJy9SG3aUpJR80kzX8vGMd3b0hASECeqnhmJYfydlnbkMOk38VoaFI-J_7XRJ98F2nawKUxnT-F-T6q8",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "60 East 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80286419999999,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.813179,
+                  "lng" : -73.889105
+               },
+               "southwest" : {
+                  "lat" : 40.79678,
+                  "lng" : -73.9325059
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a7b371e0acc50df41cfca1cbd844e455fc82b697",
+         "name" : "Port Morris",
+         "place_id" : "ChIJ0ZHUw7_1wokRqlQmU8e9jbs",
+         "reference" : "CpQBhgAAACSSS1MWofNxbWsikhI_filJ7AnU4ib9sPP0U-_M7Ra4JpoCxiwVCflQu1J20TXvfBiiFmmzjPKehTOA_suddQafhmsqpUnp4wx4_bqaVw3WAUcwIkHOHpza-nGHhVJGI45gluGIIqFvabYGZjrxXHnE8sqL0SU5USDVQ10TJeJy_7pQ6IS07tjXOt2z7LesmBIQlhR6-_oqIVhpKqNUjzhcdRoUUHOyBT4R0BtixEdrTdW81qZhhFo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

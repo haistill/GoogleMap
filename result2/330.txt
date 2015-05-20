@@ -1,0 +1,526 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGRrlQxP26a58-EbgHoIsxV2hPy1y_eZmYkKabc17TtAZpW_r1hEeHTaeBIl5noz67bq4lFaadLFtlus74e7YWjL2O0gZZxNJBq6_abd3VFx4dy0Nx-mw_xKXkYSgRCV0e5D68373rXLlbgTyAeFKzPYnsnb44O9n5hKFlJOAJK80gvNdSM4yfN7ll20B03kfbhjq4SrWhHLj_czb_NVvNOQtgHiP7dcy5-f9Hgu0dROsU96JkcYgP6QG12S0DmdZuUMd8_TAOjp_4Q_5bM9OD-GPk-5s05MDIdMOPHACTAs_LCIqJATH4HQmJUkOhlRJBIQur2SyLYiYHEnk_qAk9hkWRoU-xC_TRLd4xVOi74t8oe1XaWt-4o",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkgAAAGzbjK-MyuIP9uzbsU6iS5QMEpwTEcNcHkRtq_sWpWBMeGawoZ8MBsassaL027K8H6tmU5164Hp57FEi1Si5q7i2gVze1v3HetDewkG75lWM_32cthSw1UK0jLub-7n9_TjjANV4xSYkRa8CxnB3t9CqMNrVcVUyxGgAM4Qj3UlNhLNvgsDst9Zrz809bgpfIII0oQmxetUFkWGBIOjxGW0SEPt-XrRMiU_jo2Ydm_vZ3yYaFB8wSz-twrZ5A9Pp3AwfN7GXxQu-",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803834,
+               "lng" : -73.96633799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "91388f5730efea691965a6744941efc4dc06ab1b",
+         "name" : "The School at Columbia University",
+         "place_id" : "ChIJ2x-SZTv2wokR_VzkB4rtEak",
+         "reference" : "CpQBhAAAAEQqMVPMGrEhAB-p-w70uiwUNpxagr2_Hlc0SbJqAKQUlB2eZAzBQPH72VYsKCG_7NGw2shYDyP4Bx8MrSdVmU9EksnZ2g_oMM3vODFs_ubzAgttP3YbChPN8rwjS3OikDzdtvJH1lJJd_e2wt6ppaJkPdwl8OfTYKLXy63BE3_PC0isStOMazPRe2ayUFRdYxIQsRXPEjHrdI_NsLDWW1AS8RoUByBT9klJJtPCWZ9a0pU8sOBNmFY",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "556 West 110th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801839,
+               "lng" : -73.966645
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "aeaf65e57afe7e9dbc1e76b1534b76331ca2ab72",
+         "name" : "Morningside Inn",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1295,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUAqJJPUT3q1xrzwgVVwIv7W1jqbF_56vUJ7sCkyM7t4gcjiO7ToCVR4m-p8zIiK3uH7iJ53vdEsJ73eKkIXBKBKCmdWSgpNaHwZtsyCeX2IT3uKZBipQwxef-2SVJvs0KG2KcnnPnO5WBS5o71uc_xIQCpNpBf70Lo_qnjHnv_DB4xoUf7Nx1bR0t0E7w-d3FQ7_lfXLthM",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJdcuBtiT2wokRlaX9jgeuwx4",
+         "rating" : 2.9,
+         "reference" : "CoQBcQAAANvYvt0-BOclw7O0b17nD_R6qktAEqXBmxTUwqSZUN9vUjZ8drdCBWfv13qBwh7d8hZwl2age7auzcMK3ImjglajX-mBOhOIlhQ3XSErq0h9jfPYA9R8Q66bR3otS8cIIBJpreqkaVZyL64NxIg7hOxxzVZQJPISt-42QHGhN4SwEhDG2yB9BRrRGAS9YMyhSyzQGhSzwX7so9DQt7FcBKyHGPZPB1NyGw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "235 West 107th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803683,
+               "lng" : -73.96605599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "dc257174577245f44a0ac8841969d1e428fad4ce",
+         "name" : "Congregation Ramath Orah",
+         "photos" : [
+            {
+               "height" : 368,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASzFhQofFmVxqDtRbGKoFtCOvoKjStTTELUaFPFN-Ifvvx4F71GcNNZGG4X-X-SpWVm2smIw7V00IH93KvJ3r8HOvWfsNCKzqFe_wBatfIU5LFgkVpgVcCs-tBsWd9LCWeeGi_a8V8h1gAFR6XjuOwxIQ5_-VmmyPfzsFWyem0-FfNxoU_ntPakk386S5PYY-TiZiXaKevoY",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJX154ZTv2wokRt5JDBlz9TXg",
+         "reference" : "CoQBegAAADkufa_fhusihbPosqVXflwa3lYfrBr6lUZegbqBw8Y6WO1uSRqROwuSsWDtcyvzW1uFu_Cm3D7MyhwCBRAulqZqqlTyqoseKOoNVpqKVvPJO6cYDzdHqqwNR5F9366l2M0TQJtupM3dEWfnProWz0ol8pCOOeN61F7L6q24-9B9EhBUo2OguUexhKdCuszcv5PaGhRdbopvG4g5SQW0gLmE3Jt-l10jfw",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "550 West 110th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804596,
+               "lng" : -73.96684399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ed2a69d9306eee32f7feb748a5383856051c098",
+         "name" : "Chipotle Mexican Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 113,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAi3PT-aAW3Sh-FXk6-bGwg0LeOzVCri6mP0QMdPy9jNbnbrGdVVaU9170muiqTfF9hCHT8nwxld5yGYBsnL5flq__nwQOyOCKPIh-lTnBrQt084-yHthBnA68K8dKzebF4lWQjERa06aGXrXfhdwwaxIQsSGPX5A0e3jWpdvjYRQonhoUEnhgjER1MHYAimU4h-VNiYUapjU",
+               "width" : 113
+            }
+         ],
+         "place_id" : "ChIJw2Rhczv2wokR3EcQiDiRHvc",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBeQAAADt1uXED9oU2qB8sEfpmaI-T-838eO3GZLM0DkobBz8LIWCpIaXy2cIDcbG2gB8QwfIPqdfMCFYwCZm1dn6HC29wS013ThhVMNmKsZ1V4vibRrPnpd9-pMsw6M5R5-AG-L5gyYKrU1tN4GLRjfD-h1T4_PzKQfnu697igBoLFxbhEhDOoQ338l0083I5yoStJX_2GhR0y7V4LtwJ3myDq-i1eLfTpKoV0A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2843 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802512,
+               "lng" : -73.96744099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d02868cb946f7bf6e0781e0ae117d60a5ae1e1e",
+         "name" : "Absolute Bagels",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEXGnpW7ag_M52YbaB7zqHdPlgTcsfy-AZEkWsKdCJXPAl8A94LJOItquQ-PC6YFn_E3Ks_1m1Zh3mwP1Z_jlfIgQevgYIwhKM5urAQEUzNXtOLQLHDDfgaKnCFTuB1C1kQz8iR7oWRS5IZz_2dqo8hIQQcgZXNHsm5XpfqVB8AcUZhoUn0P4YRDZkcZrH1VXZ1jSbNGPJWw",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJLW3vMzv2wokRGt6nI1lYw8A",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CoQBcgAAAB2M7A3aQA8dGAI0mMB_rA1M87OCvbcDhCNTS_OinseZVNlMJXmZ4-BOVRCQZXrHX7ATagkE1aXTyIPr04UUcmpuW_y4BwKdElgNVFjGwekiOAgjAneLa6PBqyYMXxjwE9sGdfFxUgp0RJJlEcfM43xGy75EZCJ-b2OM1LC1WziSEhDejTpG6Ralv5oWhULObFvpGhSrSMrvtzSq_kzrcNhu7-Jm1IYjvg",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "2788 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801787,
+               "lng" : -73.966374
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d1611eb02b9247553729e838ff5390c695b405c5",
+         "name" : "Church of the Ascension",
+         "place_id" : "ChIJB4WmtiT2wokRjs9_QH9-Hzg",
+         "reference" : "CoQBeQAAALGoqz7ZEkSbjnz9h7POW2bzxlA-otOEwH-ucMBgulIaBzTWKAU8CF9rhul4v8K0qetkM7NG61LTxW7YjkS_flE8454izhgNjJ9dYdPYo-MhcvNcwcIpDCsYcY2Xttspi5zkYGf05ZSqg6djT6GykHoXbklIldqaz48-Pfrp2_H3EhDvG62WYQumumRhuDm71XfaGhSBi5Dfi1kikCDmcNWTGZzYjwyn5g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "221,W 107th St,New York,NY,10025-3098"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804465,
+               "lng" : -73.96604499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "94da74fd70fd216d704af7e5206703c5903634fc",
+         "name" : "Mel's Burger Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3BJ5FLE-GGvwkcHKK7xeLoR-9DqUkx5acKJMgQeQI39iZVWgXnHKf5x16ukAtY16M_vjqoQA8gXRfh-edizBnrWQWtF3I6YlbbSCJJ7YLoDNQgfS9HmsZ1F4pfNwJGlgxhPxzi1MHnLxIWJ9ElypdhIQnavR-c9v8o5fppU5AOW2NRoUiF_3i7ntiNL0tTw5KFZKX2IJHjo",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ47x-nTv2wokR1ex6E_loTYs",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcwAAABbDfbAb8GEtrdHPDZYTmdSyM2yaZ3xIIe-QTZTa-b_IfG74_-Rrfvik3VyYAqmLK_CFdos2nKvl8NnUUWHXIBPFKaCdY_ovOL4S_mMhMWe19yn8p2qgb4q5_YPszvrcmxM55dhMQaZP0ci_YdtIrU5BdRkOxMmdjM9-wj-SpdIhEhAfBaY-XyCuJZJTis6-nwPsGhS46A2yCbAV_KFSS6Xl4itV15QQxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2850 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804965,
+               "lng" : -73.964873
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44ff0c27871e68cd7410780ea14f1be16190ed51",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJk5GmcDz2wokRz0ek-ETg7YA",
+         "rating" : 2.5,
+         "reference" : "CoQBcQAAAAKb4QToKwJHENS8tn9gicnTaiShSnrNH7OQ4ubxZ7_OxIWF4Ss9C5srnno7kS3PC3zHyuiHwzMNP4331dNP-9ztvdu4O1BDIEogu7S4Ca4GfLR2pnsMQ9vkHb8s2a-iC9fp7f3fs-KdPn1OkpYoBSzNEG6zMMYeNqB_Zp8Cy9S0EhCtr3-AaFcqs8rlntSbkZ0CGhTwU6fULuRgd0x_FclOkp6Y7FV3eA",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "534 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804991,
+               "lng" : -73.964975
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "96d80654454ee234747b04c75e2802029789b833",
+         "name" : "Book Culture",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAakrJQaHnLbUIvILOnaAfJ21RlWGeQGF0BSnogUdGDNxrxCDMDHdeofV1aUr9SzimQ2izWeLuHogV5pYAndcAThWAhglDjZNW2SS1_hLtfGuqRWAHPY-UwyB8kByQ17m57-WnTc-VvdJzaCmFJTc_TBIQjWfXup4cjmKoq161RB_7eRoUp9Yk239MtkSQArLOH2eSSPAl6ks",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJf-PweTz2wokRfJf5uNQCzrk",
+         "rating" : 4,
+         "reference" : "CnRvAAAAzjn-JjmyMeu-HNWisIW92kCwfwmhygq2K_xR-FtV7huYJYitlHhb9LGUmVNbu5tHCGajCQeCxESvwbhnOb4bLpu_j_Tc0FYhcN1bB7DALMeYAK_2_XxD4UVvVyTkrtiV9rvs3NUa4uIEw9P4A2pV_xIQc8U79LhGCYtdHN9nM4_KVRoUnMdgmOqF24oEtlk26BBWaTUFXSI",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "536 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802248,
+               "lng" : -73.96473899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a9fa27da34c9333a30781417e594e878dee8e1d4",
+         "name" : "Village Pourhouse Uptown",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4mjnBFiqn1Gjm6EyHDcLEy8Kmn8qOkxPbBx53uYDhJ4CFMq-6H8QRegjR1-G786WJk0FQIGNAfl7mhozNVVO_lpeH1ubgey2mqnJ-aewqK5IlseAN7sN8cVAOBS9aDX06hep3w72nPU0zF9Ige0d6BIQ_hypT8EL3SggoVFKaqs0dBoUKF9iXknSBj9D6X55DKYfNl8wCOg",
+               "width" : 736
+            }
+         ],
+         "place_id" : "ChIJjYHlrTz2wokRBhKptfgnaUI",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBegAAADURWRPn1pYr-7tF17PwiQnOT15isiQjAIGiCKKR-nkTdlVBldPNGeQ77VAca_PMDaFUyT8RXNjoZsEuJZJcVYM_B7gj-XnOInip3JCJSq37JW6hybX39_A8nPGnkyDnjgQgQ-soFGOpoeqaEFpcDdl-5NuKKXmesv2xz6RgtIL2EhAYge9RqTaovS3gISV4iqumGhTm6Iye63BnYonb1n0lx8uQR2944Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "982 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803866,
+               "lng" : -73.96748100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a725a4ad4e1950e34725cf27c2afaaa01d8a1246",
+         "name" : "TD Bank",
+         "place_id" : "ChIJ-fd9ETv2wokRtNtQxFgUYLM",
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAt_8erK6qON9lm64mPfkgcfwhmbhJ9u5Tx6RT5Hc7Mwe4oUGNOWpoZxNVhTFNFil7A1DcXw_3kNJyZzMOrcL6l7CrtomzcQrD7Q6usFRC_zWnKVgYoStQOuAEyFHla3BJ4grz8da6KaHq4fxCkKnlfBIQ0c3ywj1R5B1rx4tgluQq-xoU5cimOLFhXLZKy0jWdhjq6n7XnWc",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "2831 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803336,
+               "lng" : -73.96692299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17a8f587ea6e9b8631c47a0c7ad6845e510d9bbf",
+         "name" : "Verizon Wireless",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 432,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcA4GxSxvloGA7D8eLmdpUQDv-7F5SpgPoY1G8vPuQCGyMAzGTgXIybOFXkvZRC4mciPixv7J5OKrhsEEv8kV8aekxcEI_o8XsI7zUTyaJiDHrkIkjbcGIoygsIAi5QMJjjeLk61MeY8IcHcCfR06uBIQiL78Zst53ZzoQHC587e-shoUuOCmJf4BtcBJJSVhuMoGqlOZOqc",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJUdrePzv2wokRytxNHoJ-OJA",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcwAAAFYvkCgaxeqMqE1cBRGwswZfaBZ-eoqUmCsYzkgxuaiuDESPj9v9GIbMchCclsdLHIlBElEkEQYEL3hqIVi_jQLpqFd1T7aNGvW60Au_E6K9rqfqKPk9jZ-YUz2kW63FGSn8lQE8YC7dyzBgjoc0Vn2X4MnCpuKiLNtmbLN-XJNfEhCUmzZgWUS8G4R-7u1SfZRGGhSklKqP-gSkzrCYKIdrqJm24kWamw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2818 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805203,
+               "lng" : -73.96638799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d76ecdc8d70a2e1a82c5353a2b4f05c4d8a92aa4",
+         "name" : "The Heights Bar & Grill",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPMswNUy4ZZGArhFFaFr46EgY4NBM_ERF2sfmp9eQjYqCjW3vTQSJuC3tE8n5Xg6J_fUhkSwZWjwrrS3MRd2yjJsXPkPHDvNr_e6z-tf2aen9yePbWYD6cYc3F7TU3QoelZtxhIb708sjgeggPl-uDBIQVeJ49-B1tldvpqCoOyAv0xoUsdZMARghN0pD2bIWBZA0QqADHNg",
+               "width" : 3052
+            }
+         ],
+         "place_id" : "ChIJMS6bmjv2wokRgIfSoY9u1gw",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBeQAAAARuo4MxZ9dOARUuuhF7Xj9ZgWEWS3wHCCMsspClRfblBnKeBgluzEBu1nE1ReNkOaMSwiAD_E2FPd1GTPLlUknqoB8-V160BzQEVUG9CR79CTzNYwZsOYtzixU3OLxWzYTzfrdfVt0mzzNO27myDTdVSVS8n60kbRhqmOr9lQTIEhDir27a5Am6_CgryRe98X0WGhTZ2_zMH1_0SRrtCQmsN2xNvlV7Mw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2867 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804876,
+               "lng" : -73.966646
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf58c7141960307392f50d3c446a23fb315ab90c",
+         "name" : "Famous Famiglia Pizzeria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ21OMnjv2wokRiEWJcYe98nw",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CoQBegAAAE_c7Lfj-byfZPq1bZF3vBpAGdMGcDsFuKLqQ5NWy2wMXabZiqIC37lifhyeo6L5uPYxbpmsfcpi9uNgP7zRE4NzICq_5YVhg-HG8RiAZxzteQ6txCSU8FusKhwVjmtUKx5TcPGZb3qdbd7uF6CPfqq0rAtlAFWbp0eWd34kZfAZEhANfU34_EVUhbBH5TCFfecrGhRGrCCbASai9whPlV5PsKbJY635tg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2859 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804137,
+               "lng" : -73.967294
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bbab6cfe62a8c5b75e3f1bfbea583dea3dcae671",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAMf6lqrdlGD_3_yPV4KUMCSTtEBxe3qEkhEcR9SzG2Dgl8fTg8by9mXFfQrVgeFDmmCN0h8GSsKoYac6wRZycjmirLDBEoYxohR8UgUouIijTJpShBM_RGvQPbrSAf1EVLBMn5_U9p87Tb4wZrBohWRIQCLolwjMeeDJzJFEsoi-BCBoUw0DwvTElfBK4gXRP_a0XzJgwX6U",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJpUj_Ejv2wokRPdw75w2AgrQ",
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "CoQBdAAAAKfEuMZYRDeyCQ3-n3Kny0zRIW0HGxcr_m0-XaioQ2EbJb6OYcdI111ww3XbuSeJaXM93KBYOOaihX3bvSQnr6sB3elbSbVDejJpTXr5Yufly2ZG3L19JnhAF37GdcO8IPVli6FonYUeCY4MSBU2hjXbnD_APsdlhSnCQKHPEGEyEhDIpkdzvIax6FxI005KLrEsGhQfvQjpqlA0XL_3ZNNjB2AM74D3wg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2833 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80447,
+               "lng" : -73.96654700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6baf27b6c14bdb91ecceb56f99ec08e761b918fb",
+         "name" : "Five Guys Burgers and Fries",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEg5BbqXyMV5AXh9pEwC9hW1KBekSY1A9PxIuH-EAXG_iD4o2Ijn4KuY7EvEcXfC07szqI6godBfsWkKPdewc0FajdUL9txQundVLsvnyWe6oTZX6El2XoHii3h1-lKY6mpv5fqWpvpkNNaZ8Wo0uNhIQWkj6nyDlTY1BHqvpF3hVbRoUEF-SLUAli23oKEXvRsrS_We0TTQ",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJCZvtdTv2wokR3pXEDpENESU",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CoQBfQAAAOYPsUxGd1XtAW0NfFEX00CvOHl567KYGz-9DGsX7VaDQsUBvTmSdi_RV7HbFRgOyRprsQGqegQhBIGH56o30k4ressd5nE79qB4rcJFYbDo5T9GNBjRj3CcnIzvTq9XTeLgA7CRf0C5U3sCN-SWdp-Sc-3Cg9M02YCaAngfz3_AEhDZEhE-ImUlPy-Z8hvrTtQfGhS4KbQdPyBm_MZ-E1evyzO5Dd2pvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2847 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805224,
+               "lng" : -73.965524
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a722b6f9f5c1c54b3fbe71e5678c332615859210",
+         "name" : "Liberty House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJEY3qiDv2wokRI37IRm46SA0",
+         "price_level" : 2,
+         "reference" : "CnRvAAAAo10eSh2DMP1uDYK5WjuvqKBHCmXQYsUQxRzqIBpblhaOGGe8bcStLOAnSoG70Dq8kVIWr3NrifVwznpZxyT5RKdhqe8C3_h_TaymSkkA-qswO05zrzhnjn2XqF5mFrKt7NfoD29Z2rR8sxugsI3nsRIQyFvLJxAPukGlBBftvCYK7hoUHfqIkqQVyVqLccYnrJRv-Sq15Uc",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "2878A Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802561,
+               "lng" : -73.96704099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "431789d8e13f92ac0b077205f52bfd4202399444",
+         "name" : "Riverside Animal Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1461,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAc9xPVd9sB1_XfVlcRyzpe5Wg93ThbeKiPA708ZP3Agxu2iriEto4-UKMOzJoGKtAjaxXVqTliN1D6X_0F-xo4EBgzQgN7-KBNmN2oFTnhRmr8W8cB_YWUrhhnJV9w0zZxYT-qJ-zL2kk6wLBHIsIXhIQqt94PPg3e1k0I4ahEEdc8xoU2alwOgxFxXnyYcI4Kfc1fa64neM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJB1Q3NDv2wokRp0iBENjnSeM",
+         "rating" : 4.3,
+         "reference" : "CoQBfAAAAAGU9s90aoAjgQp6v6DrzPSyg8PfvV35JsyrUtHiPZvuLfTMiwsPK5gO46dhHNqoabbJbUsmIGOUQ2gsJhXMosiAMgntimCAwRkNlI9tyf5Xi2bjN27_n1I_Tghlg9yvwnQghWTA2oxH9YvZg5aoe0DrI4Juh7aeZWZVdgu4yC7eEhAnWNi8kPnuf_2ZoNyXSGAdGhQIcGduEGRFte-oVnodIO9XU5ONjA",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "250 West 108th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkwAAAKt2TqnbZdj-CgQdXgWBzu7YldtocXmqwpKKL5SdZv2-S0LdOemReP8nhxuia3J4OhNaPOiEkfhGKhvLuEjoDO9PQKPXeydTYNrQqziZKDGT1KLiyaIVrDd67Q9nTRUo0oZaIS5YohTQW7OWMRL0aJVk1NNUOFx0ohv8htDZ9wxUG271i2OMjitVrDA0tf4uTxPH5rbh2Iwim4JyYrlw-OASEDCYRtENTKflYoWG0D0pur4aFIn2OjKAr8Zu_vSOBLVWsifGSFtG",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

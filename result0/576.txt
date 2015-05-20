@@ -1,0 +1,553 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMbIgRyrVoN5nEy_Mk4JQy0evThIyuerjCeiesL--9NgOjRg7Zuxnwf6zALrN7304WOttnTCA0xztDKHFyxSoUp_C7wXLa-I9E1Nd0tpg5lCWEhmyVTKWzVGLA4pEHd2TNbP5lF8LsSVHBUEpSYbRnODM7dwPP96VAqzLhsr5PRfeI07uFrAtp2YDqecF2jy7CZ3v4-gXYCkC-jLXKSyPNAg-E1MWCQ4E7c8ygG_TAsbXeeMFbMsNxWwvrrJGEQQ7nd634AxkNq6SaoQvF8h8XPRQfJIMw3pgAiqRFfScoWf8eBZ0pvMhU6HMlpuJV_YrBIQWJTKElPjBZ1WcXGuujZGKRoUSmcJcIwXHz96trgCdeYCU7JL-ds",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7228971,
+               "lng" : -73.99549089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7250838,
+                  "lng" : -73.9926194
+               },
+               "southwest" : {
+                  "lat" : 40.719431,
+                  "lng" : -73.9982402
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d73963cebfe4e664256e59390485c780b0ae5b12",
+         "name" : "Nolita",
+         "place_id" : "ChIJd9PLRY9ZwokRk9g2ewaGdEI",
+         "reference" : "CpQBhAAAAKiWELQxEo_dbdukx7pjaimjVzIZ8pwrvHiVYq4w2hZQUpeS7qLCxzC_BVCWYlUhoh1Fco_OmkN02syuN5tognbxUrzBkkvxBslyR180Or8yChE_lgR3VzJ7wV1HoRtk7qTCF4b69chekJgpfybok264jqoJ3zNlU4iDtFiAes5y4brSgWGDT50d0oE6nZpHDRIQeU_u63GtrgWyobyp0lQR4BoUofKZB3jwlcltiJ8LN5bcKrV4Jfk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724649,
+               "lng" : -73.990135
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "51ad84c00487100553da6b484471ebe52b6aff98",
+         "name" : "Anthology Film Archives",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1497,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeXZOCtwlnkx1T8o3na8z_1n6FNR9ERf6LYLiHjkiqY_FAoH1jgo2ql3SpfWAPy0cRc2MctDhe4EYss7YDqNuthLV5ME7wmJWMQPjv2jsY7EOK0idxgn84cmkqvswDCmbCF0LwrG8sMSxRczKHUGHOBIQIXbwr6CF-Br-1Ll4VsVN-xoUt6wgbwoGaQis7wccuJ9T1cafS8A",
+               "width" : 983
+            }
+         ],
+         "place_id" : "ChIJk4BvkoRZwokRL7SRV3ZiUJw",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAJi5jzmzZ7CVRvFg2uteQl3r768z3Ll3okEOz1OtTdGni_7icYc7TUkw--jL9EqvTD7_MyZJnWy3KklS9HeMbHUFhHsCZ0ytrW4W_ckHK6kV5yJ5C5jbsC-WHC_u-RKCDF_qKWkc5SClRpKjlTuSbJFad6ZoGRFPDrLgX2HDtqmpEhAE-mzhmQeu5E5IdUjCCevxGhT6hf5I-pSCOddoDfN8IuX0w-WNyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "movie_theater", "establishment" ],
+         "vicinity" : "32 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726603,
+               "lng" : -73.990059
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "03a546ea536e33b0e0a636cfbe3e25494cdf5f5f",
+         "name" : "New York Theatre Workshop",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeUTLaGs0_75s5oSyCRjcDr4wsJt36rEwYO-cebxLp6Sp-sgghV7zQVuyzW3xh63PxiZcLrzQBQI8UaUq-Y7m5a_ZBAcPALGP5Bp9iUdlYcnwASckXpBoS-nEfhkmbpDxZYIA4j6GZegxPco3O8EWdxIQYkIKxJqoypw8JGayC665JhoUrnVGtgYNZRvuK4vC-_qmkWXkwK0",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJvyBHS5tZwokRPs4qcqJ2Mgw",
+         "rating" : 4.4,
+         "reference" : "CoQBegAAAO6QBiZsNAkIYmKCQYXLLWUcaQ_Yjkq4mKLsxXpN4F8CKBPHi-rzxeBJAxepe5vDowapfqXt5cJiB_cw4gOfEdANboPJKpHWMA9vFRMC_xRZKrtdjaO50_wA7ZUUCrJlFdbKe3yHXZ-io9SMEovCIviy-Eom4U83mdGmztwpqtbxEhANzexWhe6KmQEOr5wY2nfvGhSbMPVYHZQ1kKu8UMEaU8d6EdpL-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "79 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726625,
+               "lng" : -73.99081
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3acf6cc042ced3c0e5061a7c90212f7184fc8324",
+         "name" : "4th Street Food Co-Op",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 433,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMVHYS6o1O6XoySsLEUTBFXd75wMDY-mLyFG-i7-ur2p-uob8wzAZNt_8ygp3_0iy1XxRgdSR_H3tnAbcpgD2wflH-lQCjSj1_m5j_2ecnydnSMr0PCW7pOQA0iLxfYxhWN992ftfb8AxwzDg-0xlFBIQHnV4O9p-LXkG94NLUfnmKxoU8ZW8eBatWuFBOTP5EMfpa-ju3SM",
+               "width" : 302
+            }
+         ],
+         "place_id" : "ChIJW1phM5tZwokRyQokW1nFYF0",
+         "rating" : 4.2,
+         "reference" : "CoQBdgAAAEanb2FdECHv-nwOBu4kiPkiyP6Rqw0pvt99frCUhnhqNX-Q5zIbqEr0QpC85wkjtFdcuDWFWFA1OdDLkWdD30qt6DJjSRk55tPqBLxPGRnDagdQgfLpm4ivHl9Cf1he-Qslynw7fWXRHJPUJdGVzYw6TRFd6f3UYRcy-PySVIozEhC4xHsOrhYCtvIpV2hksLUMGhTnarRNUr-kyNrnllTKIopEaAc-gA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "health", "establishment" ],
+         "vicinity" : "58 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726519,
+               "lng" : -73.989851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0f9356223dcb942c4ec0dcd74cce856b40867937",
+         "name" : "Horse Trade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMbtTs4RZwokR6C4u-_86ABw",
+         "reference" : "CnRsAAAA43_RnZIj74uBn5RtuyQPcVTapBwOOE90HG408HPie1Y8XXBlwDoFBclk-57iPoyYW06u_u9WC4mEGe_ZyEL4oZx-cI-Lctl43ZIZ_ZENi9Fr0MY7CYYsJRIhhavDIaAzppFWJwpBZo-dlr2IS3L0SBIQDja50xme3CHnEjaC8_uiARoUt_g1R6EOxpFUjQCNDaZSHe2E_e4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "85 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725933,
+               "lng" : -73.99150899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a9af7c5b1ea5688dcd93f57530774f5dc045bc41",
+         "name" : "The Bowery Hotel",
+         "place_id" : "ChIJh6uNDIZZwokRE2ZVaJjqe5M",
+         "rating" : 4.4,
+         "reference" : "CoQBcgAAAHhi_64RbWTQu2KDcyc8a-InQvt6I0T-hTXGqirpkZx9HPP4cCxMm9VPvbzbsj6AjMKggy94yOTfHvFx_HQyemSnsHCfT3HkBbnKk2ZQQqJ3jC9cyK5IShCn9BZrlN8kUWPJ8GydzNPo9srHK8VgahNwIe6wBhyli1y4pB3oCb4oEhCLoa2p1YUbaqeleR4ruU6SGhS1nka5uIBL9F8zV5G8zpVc99yODg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "335 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724422,
+               "lng" : -73.992132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "f71df09ac1c4f2768af6770129dc3909ebc0c3ec",
+         "name" : "DBGB Kitchen and Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 807,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVpOLC2-HtXBnDwN5J1ynsKet9iKIcrC9vijM6i0iGEMU51lZFgVQ-p_6LSa8oCzRPxdcM6dRyFwoufDrf9WZO6Lbu3a_DlDKfffoHI0ZdEVnk6SJCTYHm0wKxevL3K4a4jOppxQpAf3rGyLGY7_53xIQHN49KnVQ7PyURdfbuwh1SxoUxERB1pleDf-WnuFznB084OHnawQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJxdY_B4VZwokR68CG9AgSLCE",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdQAAAJ7L2o0zStnHdrewLooJJZUND5HZjcAAbeUc7Ir2NX4hvMRu2z00ZAYXTGUwJpFDcZIwO1yTOU_z8njY-w5JqQD0zgDNzXhDLyOKqd1BqGSm-arAnQkmRAE_trpO9hQ-sm4Pj-R_JbiYZGm582wBxzS7GCfbKQ2RKeDPesR0swUyEhCRbn5FTFSUC5YgjQIPDsPGGhTX9BQxUQuBxmv8QJLvua_jgYuc8A",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "store", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "299 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72518,
+               "lng" : -73.992542
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f2ebe033cfc0588ede97f2cef2587874541bf386",
+         "name" : "Saxon + Parole",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 536,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBlAAAAIivIrZw95AbPXe5mg4tzjT0usUcX7B4ZlgVUm8RCgjDEoCx3j8wfCPcKqSq84f3yRPOZYHo1hZXdxxMRcqnFuCfFISv06XUddoh0SOAGkmz_K4q3B-SxCkKY7KVKS08SCFLx7ahmTpxfVv9fv9lC6G82A6hiuTTKw85wOElqzsdecArxqvYuwNbkPtIMrN3iDOSLUv2muPz8EHcnWdSI5ESEKiwtrq7q53nlxHLe6T4PZ4aFC-42WPHd1Nk-HBJQq9lBdfr6bw2",
+               "width" : 538
+            }
+         ],
+         "place_id" : "ChIJhbH6GYVZwokR_vGt6PKlsVo",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAAJb5b1t4mj71PiBDg-1xFNUS76nlxLy2zU-Oaswe2RQz-9DoW0g1QMiDN_PmEouJDMhnYgwwlmyRc9A4TbrF2dxDF3aMyVH1UnwCnGR1O6GbDXpNqW1by5KqLGExQliyJYmQLtD0Z-CBqxBr0QtFmxIQ1Tocl-w3iwMwxI2uXY7xExoUPMhdWlieba0z5k72oZl41amJXVg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "316 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726523,
+               "lng" : -73.992501
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c634cf12aff04314213e1ecb1bb9b9d11d7da56e",
+         "name" : "il Buco Alimentari & Vineria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 178,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArNFR_uXDfaiaoRpF3QQqfkDQohNp3763vxLeqNKhOTPOXn5Vw60rB5WUYEg4bYPQhmBAbeDr2ZQTo3HqIy2ABgpeUfApIkYnPbN51VB_NiwpyKy88mMCIRjHZjWTHn0VMm4t206UlFGkGqVTXIUS9hIQKB6POhlO9P76byTf3Snb7xoUk38Zt8z0SjsAhB-I6PRZWgcYoRA",
+               "width" : 178
+            }
+         ],
+         "place_id" : "ChIJYUQdLoVZwokRBjKzg6PAaa8",
+         "rating" : 4.3,
+         "reference" : "CoQBfgAAABd7MfN6NvVR3IYn9QAGjz_Use9COxpVkrThSkZV7QUFJ7SOkgEloz1tQKfT89uGDF-9Daw1IzKLKpcftydaTvypT-pmly7QgjkzsWzTJLdpRLLWQl3nEhJYpUdI-ZuURSwfcMGG3DDifpWQpCuseYzXk6v2YP4hHUnxBT5zxIZTEhDGvEUIkP0MNqP_eKpXXxt-GhQPVTJPAKoNmh-2CtY9O83o6n1H3g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "53 Great Jones Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726087,
+               "lng" : -73.992161
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "953aa5296a8a948045385dcb91d43e3359ebfda7",
+         "name" : "Bowery's Whitehouse Hotel of NY",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAABw5VVjRK8mlh_rR014rzONkvjYRcgd9_CPGOv32weoAbtXHLRAJBOD_pKRumV1M7lhKeDRCc4wXHsJ7kdTsyuVXB6f8M-eHwrDSwfPqJKtHyuFHULB_805l43pdfDuLWa9n_7L3oE85agxiDVMF1exZr7y46yAG0Cgi4moWsqtSEhD2AXEGdgL3EZexbIbmM3M0GhShk7rDmnZ-0IGd3RLp-bpowuDPsQ",
+               "width" : 1530
+            }
+         ],
+         "place_id" : "ChIJRehmL4VZwokRcHY9s1Kw7Vc",
+         "rating" : 2.8,
+         "reference" : "CoQBgAAAAP6JdYroaEPLWfvJGw0GSLC9tcYy6j4CxBR5cZ9rg3BuoRXPzzcT5klTxklZtLcR6O2iB0mT2FKZfDdokSGRhXX1EYqIU9rgP8y1Bm1-YVavdcgyTAk-jNxcG7ZRgfULftSyPxtOS2YdNo8vaUNyGyCReqonjC1isGvWaqpXoGz8EhBtUwFuieA6bINwmRL6LMduGhQhkgWWSUakckQ6ZGPDFh1isHDB5w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "340 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725834,
+               "lng" : -73.992966
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b5e04dfc6a9c91cd38d6fefcce26531029b2207",
+         "name" : "Il Buco",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMvycEOVLl6Xgd-laS5rQRpKKzxVB9LmdNOfBOa9m8BfgacIAnKn5s5Kj_4BHrLb1zv58VwRGzZsyl8GwpEBdv5nFx6DKt8S1-hh3QrAhBOqVHh3OVdnStYwyDamzQ0lLUd900SzKSYEyB8VzhrB47BIQOPrnzcbbYomy9AYdR3jH3hoUYJZJIXq62hq90j4PJRw4Mt1juVk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJrbkQPIVZwokRLZABuyqHmoc",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRpAAAA7DsIynDT99nzvcIXD5nLLXP6j_uTonuFeP-8Ht_wLoBVTVruX-ZuVqEui1HR6PxDeMlZJCDj861ka94uwMdo8LvcxyfGmr6o38-1NjJrjIBCKjO2NInDodkKI8kAIsATlsujhv70svtnqUNb-vFvjxIQk59NUqY9XyAGl15RniMxzxoUIRwJFsBzPYj-pTlpe7lTVBR7VWs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "47 Bond Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726635,
+               "lng" : -73.993551
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ccf04b0142669a23337ce7530a8c4619f1c7de37",
+         "name" : "The Smile",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRjAAAAodzjfo4Zat33Uz2rnf44n97Weloo2viCHA2NsJUwvtJf4HJDTk-m0QdwGF4yYhG9HK9kCzgwFEymN90iAe0QuTygPKkBY_gUl30E0laFbFGaVwjZ6Cy476MIwZBVrQBvs5f4obKE7mEJ3SOEaLGF_BIQ_jrqTRoOC9ibQylb8H989BoUCAwocn8nGef4xnCHAKI2inyfY6Q",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJEUdhSYVZwokR1CA-Unpou-o",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRrAAAAlvoKClvvRF3ZxSH1cNcGql23-QQuyU6P-bLATmcQO5vPlaiKG3kMC0O_L3t_MPpSZ441SxakCvKVCb0s978eDObuC5y1m-XpS2jdOx5ecoW569Nubyks7u4RulP74utT0owlyBZPXC7zyocBeMEJyRIQiSu0UZdRsEUMFFldOmfFyBoUSr2BEglUffJejZdh-nPKBfwPo6w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "26 Bond Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725461,
+               "lng" : -73.99270199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c3725f2c814ab1b3647808bb84228e32dc47e30f",
+         "name" : "Bianca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARZy_yaFDRy9GTumWLGdPk2fJVruiWhMwo_T6jZWB8qTrvknFT3SkY6MzcPN21I93yWRjTnIhycq8ON-Ws3B7pVkXbFJ5VB-UEDFo6RmfvBbV-u4hv88gfYhXnv4NJf8sYIYMG9_rkLSMqJOOVVu63BIQlp0FsKsNqif8LZBCurzxfhoUUbAZ2HRM4Yta1xLTCNdVGGJQVwo",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJg4hSFoVZwokRtMjVcp3ZCBk",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRnAAAAr8NCmFcM0MWl6c21YMCyMk6uZotOBH2Hj56-mx960N1gQ_1cWO2uYEvfr0tBUx9p2h-5gdv6lZsJQ8ftdkjtcBZNtfjXqxhZ0JazSQUCsH_YuLsj6ez2Gy5lr7aDZZaqonJjMEIbpEn5O1znZeLZDBIQ_HTCcsYFSSBVuqCS062NgBoUkEk6o257TgGavZHDJelFEWD1j-s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "5 Bleecker Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727072,
+               "lng" : -73.99193200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6dba51a561a080156922632dac2e75874cfee926",
+         "name" : "B Bar & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAympJZFNDnnqy63xc5Y3tIgMxQTlSVZgmx047UF5Q2SAcK0GEeXxuIjfnzKhHUeHvXEYiAOPiCOeVquKGVZQcnxim_2w0o145S_6_7EqokW72vY80TAAQa5QPUP4PVH9LUsef_h8uLM_qUHR8x3AEmhIQR2QSyBUhgtwsAK9EPoylKRoUYXVJCyOiWQeVg0S1W1YGM7dpYMc",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJn4ql15pZwokRnpLFJikcAMY",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CnRvAAAAtcVKElDcAb-I_2ljhAA0KD0aldxN7jG3IrvOP-tdgNW7kj2vEvToWmNz9Ee-iigg14LuLLawKdX2VfKSmJsl7Nb9wthDCJ_Erc9c-AibuoeCrMvjA5CtOGjREWMH8uAmWU_-3ymaejJTA_DG5RQhKRIQ0l2D4eqqkaGhTxA16Kju9RoUhCFEcBL1I9N1125dDgE0mH4tPeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "40 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726052,
+               "lng" : -73.99153800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ee0a1d7a0ce1c230e2ec2acf8b52b3a21ada0a68",
+         "name" : "Gemma",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 699,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAEOHx-NnppUz5cZY2bTzlAtB8Cvhb94SRYd1Be-uLbUfz-ElkGVH0ZgEngZ7S6wfufHkpuz9YYRe7snJ6f2OfUKuEyGRrlMsSpcNeTEdtR0zgr6T3Z4dqw0Qxy6rrs4SNzwrIcRfltxBuLAlk8YN1i_c2ahke09Bidvx6p4N6j_gEhBOK4HQKJjpplzCffjHzA92GhTGmApLGuN74hSDaUlUw3MiUdK7gw",
+               "width" : 1048
+            }
+         ],
+         "place_id" : "ChIJM1zN2YRZwokRqZiwEUrCAaQ",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRnAAAAlnrk-M_wpHyTF0B-_dkaF7QALVFUCSN-jzF41ygBEmlORW16DZtJP1wiTXWra9pTLYvGeaeyicb-pKm2XgrtUYqu_-Hr1mch8k2KFCyInmalERIL4dp38A3TNhEfRr5CX-Fz6eXhfpAmV3EucwcwvBIQkmW-DNp-pWmv2Ne1mbKgExoUR8YZuTJs41w2Vy13GD0fwd2-N_s",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "335 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726295,
+               "lng" : -73.992127
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1411925e34d6d47c36e005a8f8c38776a3825c4d",
+         "name" : "The Wren",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5Gm9z7xso5tPTuHNCmgCwcUpKfTWXyuzQYL6Gus6V_hLPVvHVHt-5jAONoR3bfB_16obIVm0CLSr5ytRGM6l041n1cb_4aq1HN06FyupRgOPQpacXz4CoECZvXLklXM7AQ9N7z58pTDggAo3UqbZWBIQhpLM1CeNvNGoC-HWIMN2nxoUMefTiotD7u4h1OWUlhR8RikknIk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJi6b8KIVZwokR0jaGWCEGugw",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRpAAAAFdMz2URYfpjHHnBxQRJt2K6qCyUWlC0XQ3rg9USl0_F9osWRzwG-YphkTzxZ9sjYkZnc00uwJma1bEkrB2XrZEYukFbRqaAWiSRXMG0xuvVDljCyhM_L6YYclg49fwFqhNBfgGZ_b82B_jSkn01iHxIQSKdyWeQ_nscXEnbHpCeopRoUoLFygqObz8PatEgG5qe_hVgF3fE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "344 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724835,
+               "lng" : -73.99167799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "21d129044853aac2dd7b2325999903cfb0f1387a",
+         "name" : "Momofuku Ko",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_cq0TgyHoxlRnTPWN1SR55tRxdgde0MlGumkZ0PdaRPddY2WRtRZJSyrE36yzulDwzeM6YCgIJOI5itzvo0e5mR0zeo_unQBDHoVfkR_lpWc39LMQox05CEq-6kNuI7OIfww0lWVtTueAQjFrQvBwBIQct8iRmfNHzdZ8NeDNAJb0hoU2ToNrFsRHVcTWb1jApmmrsNCQzU",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJkXQ3_INZwokRcJD47PFAGvQ",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CnRtAAAARLGQH2A4_-_t5RkXF5Yw1PGjFcBg2ZCJ6FbrUWlMISlNrORVIvGUn13EsrzdiTbJFYfFjQmUxNePnuqfNW_ONuBhd1vUb4-zswUX07jqgHQjdUb8Hj55azvAg65mDQXKeeyxGsOO0SbrFROnv3cCeRIQXDfzlo9lcJJoQUeueRckARoUkzDhQ5rq_mlhqU3iijhCKNFtgOM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "8 Extra Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725722,
+               "lng" : -73.99175
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "97d010087cb4f4f1c11cd94edaabbebaff716fca",
+         "name" : "The Bowery Electric",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAK_4gMs_UsnkSJjoLPwHzULgr_uPH90VL41HOHaTJLMHaQm7oVNrYi1mI8ohcrq9wuEPmONO3xZSvLpdXve9yC-Mt-gKaGI4MEGwtuzGsNWR1lL0ztw-GPG-VH1ytjfMJ0R4TE7U9vKQ-BHs24s3hAxIQBEdiwvHUsGsn9EnKZQuYOxoUAXoONmD-VaRmfyH8SvAJqYpz5h4",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJFf-pIIVZwokRPeulXUC6oqU",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdQAAAMXwdvCeM0abnUAIJyVluUjx_r0fRZzRYELN-6VtYsuAg6N1snqHavhBrAE4QJMGCFPu7PTrd9ALid3GTc0usdkCD5LMhKAQ6RtEnFtvz4J2f7WlcK5WCx7-L95QpVaC8eifVwthP8bLeE2GkYFKfDPQpQjyfGFYAfZvIcMPHg42EhAxfM1UibEH5v_QrnEiOmfXGhQBIHj6c7N5vWr7dHi95sTU2Ee6Ww",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "327 Bowery, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725206,
+               "lng" : -73.989786
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "20d2ced42f21fe5287bc607246e5e90ea4f69c3d",
+         "name" : "Church of the Nativity",
+         "place_id" : "ChIJf5yVvYRZwokRqWAk6AS-ja0",
+         "reference" : "CoQBeAAAAAxj2aaZv6RkmS5b5t-osdB-rV4YbSlnz7g4fRcHqtE6PLU4c8kppP7923t97yu9a1qZBBh8t12WMKph6dn7llcj5YdHMyqtZdFYq-cQOIL_F_if9p8yyr7jOlSV1Hym2ONiuGeb6GbDyMtpI0HF5Wc2RjMuylA9rwrIxSt7y4yaEhBDRhYFV6F_BPBPnJ6clfcGGhSgcOYxjttVEk1_6zRoZWdTaTmLqA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "44 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7286587,
+               "lng" : -73.9925526
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7300598,
+                  "lng" : -73.9907527
+               },
+               "southwest" : {
+                  "lat" : 40.7241366,
+                  "lng" : -73.9967609
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1617e95d0f763c4f0d0f8f0c525b38c1943916f2",
+         "name" : "NoHo",
+         "place_id" : "ChIJedN1uJpZwokR0CiqQnqxPXo",
+         "reference" : "CpQBggAAAMqrDY7iZekvH1XKU7Ri04_kkJMy2uHxiP8DI1FWO9DHm1DdPqIvDC5BlEUhW-Vtr4VWP8k3TaFGJUxKz7EhIYl9JzMYpAxPFcdU93QhugSz2HpU5GZn5wWbbHk-dhpAQCsn16a2E6nPXpb2YGWTGqcukPe1BLxVoZ_8CJ9fYRz3cgQfcMtYexBWELsct1aU3BIQf1nssBmtsf9LYMqYAS9AmxoUypiaQycDc3JgzVIDZIhPq9N6OXM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

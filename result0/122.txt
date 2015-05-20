@@ -1,0 +1,536 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAM4Bg4QfYnZ8XlnnJKr4LSqKa0rTgAC-UEgHWcRai8ZgXzt6wOdNL7CnAnSWvLik4UaaK5jI1SW4cgIOfTabISqynOtbhcwh1a3ygh73n63SAzvUmxQCICLlzBmlJw7nOW9Uz3psRSBHhH4HzksuLCaTQX5HCS0kRNLK7ddt9gA8MeUoNvmNLc9ogS0QNYTGcqZ5UGPI2uPZtnJFYj3YXYKkFYenhIlA9fdv0h57S1yZ8Y0ar3jxcLYRElE8butTw9UkE6TyY_fc9Y5cc4oH7mGfdfqEzvSg0HIQ-FWKOLQxW6yBFH2_tGHXxQXMIW0TDBIQ9sbYo-_YYI9ptoI81aGAtRoUKi_fsEJKF-kAbMiUf57n4vjMrBk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkgAAAC_PAFIOUpFG0VJRxTJTmJEkDk6_ZCkcbQJu2vnjWBQlC5XdrLDM-MgD3tfFqIm8TqihgnaLN6YBmGVIJvIBQ6HKhOvAElPTogsjZ41OvR9SZwLk4aPHUXyIv58lk-A8BlhzPaMBu_k0Fy0bb3_vJhQQyqo3YRzl2UnX5DtYFeVsK5_JrQFZtoBj3Si4fjZ82dQDq_P3Pe0jn4t1VVBfQYsSEHobKoeInkuZC3hgO-iTffwaFKbK6vaDvw5cOWPNcnT86-1wnho6",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705161,
+               "lng" : -74.008124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "34e6edbce252276b78ef7375be13864bead83ef9",
+         "name" : "Andaz Wall Street",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 414,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIYB8K49MbW0C5_spNvfR7C6Jgu2T6ARLRkda3E9nWV8YUAdZpbSxnOvx6YbM7_lFyNneXWoyCKU7ZELw1LI1QEzCqUIZlZumpYBgR6axacm260grW5PRYCoRXMgUjM1ltkak1_SaIvaFk70eLw1vaRIQytcdxa-3bJfrXTfKWwaIZBoUL_k4YsLyMTYguB9vTcMdAbOzOkc",
+               "width" : 737
+            }
+         ],
+         "place_id" : "ChIJbd_WExZawokRbBhzy1Hc4Ms",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CoQBdAAAAPPjEcnYFLVGoCz26iB8vKMTxCu89MIzXiLg825vPsP10oa_Hjc_CPxnA72oH7eJu2G0jBYqQUYUr5U01tM3Fz7UAPT28XTrR8VySSCsUXjcQMlskwJ-5kAY3H002JcwE9hM96ZoWN-kpnNfPdChR2VoIkUu787qs5j3sqOy_uV3EhCnOLDOqC8q6p6mYdCa6FwZGhRlLzdXe520GR5Lv8_gz7Jtd2VirQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "gym",
+            "lodging",
+            "health",
+            "spa",
+            "establishment"
+         ],
+         "vicinity" : "75 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707603,
+               "lng" : -74.003663
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fbfafa1c48b0a0ac5aa1614c6d6d517e764a20d9",
+         "name" : "Titanic Memorial Park",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA7xJZX-6ldjCMVSxdgFybI0f4Nwy_DI1CC9ZrBUrB7psK89Ul26wOPbeibe-VIKT6QKmLlypZonAdJCQOiToX51IcYdz0t21pd5jM8yV-OEzUjSm7XPBKzj5Kx72BzxuoEDOczwtS-Pwrh20CrpOjVBIQ_KusihFaYPVQwLFO2ukjRxoU6OIw4QYY3n4HSZUcSxQuy1apJzY",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJMz1aID1awokRURWyeqgtAGU",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAANkB6F5gAiEqEykx2xYBtRJRg5-SmnAuWMWVogHaWX69N63nOAq-kYaR_6VK8P4E1aqZyuA2q6AFVqajPU8iLTSOSEPD5O4t_PYMjKQ6DB6YlIprowdc-ZOPCN1ND5tm3768ydABsKR0j0tRL7rvBoKucUfpi_MhdnGncW4LbhDREhCxdjTDG38csFtf4TYY6BiCGhTVozhdMrNrCa8OtqK6MPOV13nIHg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70611,
+               "lng" : -74.00403
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f8124d27c53fedc7bf6815399ad660f6b95244a",
+         "name" : "Imagination Playground",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAoiqYtgmwVxMSqcJyE6w1QRjlWVxBL5WVVChNpL3u5NayrbEQMfrz--roPjaVN2bPH2eRpHwXt8lAQIHowsCUXc4PS9tS39FoO4wwWUFYaTGYqSWttkYp9P5MXEZBeI9Gm4uMgNEBupyq4AuD-YMzLBIQAepMIWCeWXQaH8XH4qLe9BoUpY5l2cDVBqhi53ZqOeSNhJy6jXw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJkdLZqT1awokRBMJ7hW78iDI",
+         "reference" : "CoQBeAAAACR5Nvufau0CK6bMufbzdIUJrhEcWFTGnI3hvzQjWbFYdGUCPFGPWJ9FeUc_RCsPl0wE_LejldnfGA8WDIfMnJTveTYADv8Zet1OP61x_iOnox9e-nj3m2Al2j_PywZz4EH6lU1PgIRg_89rrVd7aJpRqlcXjEURM_HsTR469hwGEhA7uw0eqD_AMCVzMxdpcnUkGhRquuCF9k82ZUhVx-FnxxQuAayFKg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "2 Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706922,
+               "lng" : -74.004414
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "01ae35cf6f62535dcf45b77fdbf3a9e2ff2c068e",
+         "name" : "Abercrombie & Fitch",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcXguED1awokRG4_X_t2P1B8",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAAAtFThnr1dGNxXV2PVHm0iL7QiWax8j7xVdj3UjXPdFjrl8Q7uOdNSwloBYxJpr4Azwqs4sRZlbsRveSeNZKNK79KYOsE4ZeHEm1wqJCZuaTjH8se7ILWPy0JMw-NXUMC3qFJ9PjnnuzKKUzRtlRj7noU-6-ZYLNpOGEy6F9IyDMEhB34AV8bvTjxaVTycXJJJOtGhQ9OQA5jy2AQ3nbzeWZVEGVjbC6Kg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "199 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707628,
+               "lng" : -74.007932
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17f2d0cfda820c467a45225c37757f5e8124173b",
+         "name" : "Louise Nevelson Plaza",
+         "photos" : [
+            {
+               "height" : 916,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA5wkHrYTi3FMCG-tl6IEBfiEOsXiQkM1Ao8scy7vj8I6QulN8ICbM68vKW1kxRDI10TsXxY4uEw1I3jwMRe-yoKcikN1ZePdfouxescfkyazEJ9HHV3tWU3PuDYqb-Iqg7vrLvN2eiy5D9GjknzCTqBIQOfxNk2SAtyaCqfIMHKjoDxoUZ_LqmIjfdCXa3V2L2YFCp48bWgE",
+               "width" : 916
+            }
+         ],
+         "place_id" : "ChIJn6CywBdawokRIxyW3uxdCsA",
+         "reference" : "CoQBeAAAALHNIvZPdkEishsZg7D-W2_m9H2GEMkUiXo9MQaNX7StnNbwhLNcUe2zZ1YQmbgUbSmkMyIiA3NJmNgdwweG0kW92TZFyYh-9evkcpG3P6JIN3U97WtCiFARMmy4gxdfN54MniTNvLuy9qavG_gT7AwvUdDKBnrmm-WVMNYzOAs-EhACAM3liU4DzvS2GECqr7tsGhT_7K2be2UGcFqno4qA_yeguzPzyg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707963,
+               "lng" : -74.00718000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b181dc437d1aa41b2c36d30016e9ea58add68d4a",
+         "name" : "Gild Hall",
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA9tyvGc-CAsMTOXSgtP3i2oEhsCVUwv01V7GIWOAT6-wlmswzX_B6XXV1znvKWbkV-RTQIl-nXCLP5sT0Ps5iWq0YMf9mmqvLonTO_mlQnnsz4AeZD9Zfqi2zDQNoHlK1gdpI9GnhQH4pz_oexfbTxIQCChxRjv8-zzEiXQAymBe4hoUArrjurhqJDXQ1ym2NRUPQqSYJNo",
+               "width" : 320
+            }
+         ],
+         "place_id" : "ChIJNfKP5xdawokRyCFSWap_ogE",
+         "rating" : 3.7,
+         "reference" : "CnRrAAAA7WF2SqiYzAYbOx4J8j7tCPYwfR-Hlyi9AF4BHhany9fQCIhOZBVw6fe7Le5304Mx0lCZQrfqT2OKoiMvMfg9N3EsadRVvQ6U0tGJtjrAHrie85pXgPHtbkKF7phbmKtlO3BCYjh4MHgN15Xo7wGP0hIQUCY_fsVnfNewicSJx9H79hoUJettMfkXJ7t6qSVWug8AYyWfGkY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "15 Gold Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705601,
+               "lng" : -74.007244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b6c1d3d4f2d2dc58cee54bd66a56e216c3dc7777",
+         "name" : "Holiday Inn Express New York City-Wall Street",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAwM68Kwcx02iA_rBvXulwLk8KEnrUV6IpNLL5UCCYAK6KUjpb1M9ZRubFMqs-fwmFfuD5CtUlfa_Ud-Ll-zDzdWSrpLwlQlrLCRUqKltGgW2C2Dj0amgS2o5jxWW11hvZWDVrswgVojLk3WXX2OhQxIQvu5EqwDkqOS6BpNMLEs3ZxoUYVV1Uz-saAzFnSiUq5bubW6lVIE",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJuydjIhZawokRG1-vnBMShEw",
+         "rating" : 4.3,
+         "reference" : "CpQBjwAAAJ9U3EVvfjWYyFE7iChetr7DlbTlDdzEtLnuOUrvWhii5PMUgAKIYkQAbCUEtUJf7vkRUg87OgF-YecTeQjxzt4wHNmFlQkGgCwEShdzgAiW06cKYFNLPalMLmTBCg_yc8Nz4aIcSRlV68JafOiMi-usR9IhMtt7s3BOIP9ONeo4t5NEK-wXi4x_8uDvn50u6BIQunD_Wi1n8BZ0-3AD8JoighoUbDpaDBNJ-2llp1-haLnI650JQA0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "126 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705114,
+               "lng" : -74.006193
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "312e60002fccaffd4d667f538b0b36ecea8dddcc",
+         "name" : "Hotel Eurostars Wall Street",
+         "photos" : [
+            {
+               "height" : 1939,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAY0Lz30VH-R220k4tBXdUMpkAvfGHzPs-FN3kAZN3znHjSFZDZirw-FSYFoGJCD_4ALqjZJifoVI4XBoIjlK9zaZ0QsdHiYDGU75E2ookfw1DS0ooOPlQFitWUOGHoiPqLXREF8FYqtxDm8ALKAsCsBIQJDhkuwQNRV36VMf9WunVJBoUIs_bDOtGSqdwg7hDoq1j2OhdTng",
+               "width" : 3105
+            }
+         ],
+         "place_id" : "ChIJ7xcL8z1awokRPFmLkB9tXHc",
+         "rating" : 3,
+         "reference" : "CoQBfQAAAM5bV70ssyovDl75iIrs9gqt1gOIAz_Owd4hjiVOpOD-BEHEeD5oAW6edSSKBO-eJ08CTJCNlB1AgVGdf7QBcCHlVYI8CohxQOyEUD5y1PyJjcWACYouVJZMgKtzIxlwmySYVzgu-J1IwgtQKblkiSRE1xq6X7PfhkL8M4HaSftHEhCt3e6XRfCi30THT_lCdzGnGhQjAnzsH2YEuOL_fbGr9urlvrRaWA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "129 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707268,
+               "lng" : -74.007077
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "36e2994a10f6a8006b67cbb50389f2cb2977dfcb",
+         "name" : "2 Gold Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABxZitcElAjb4Kyw35yIYla9mI9pUvW3oGNMGNNm9gLtgDG0Fmy-qjhLE9YqMDnHfDrpdEak_Cg1xODpvz-c-TDLKnkYY6_BzaPjRKcKBlB4jVcXK1D2Oca5_x-eos5lW-UQPKkoqnsRZ4XlS3-8TmRIQfLO6l8C0DrM2ZYCsyjtlcxoUpsQymfcBUsj12RA8HbQ6WbzhUL0",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJXyPH2hdawokRxtbulbIcnD8",
+         "rating" : 3.9,
+         "reference" : "CnRvAAAAiSSvvddi0xa5X0NSGilHnQHIND1m_y2XnHV0-YVNbN8F5rDlid-ynvtsW-66mwTfWhBrkUbqGoOSiNMGcSJY5jWvix6zfYO2CJRU4F2e84_leQAlJRbd3B-wn1dcBm-Q6_lRkEiAeejYkAFdEeRy9xIQY1MrxeHwQEhNhfJgQrBZRRoU9iBk23Pcot6yS-ZrgwV0r3ao248",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "real_estate_agency", "establishment" ],
+         "vicinity" : "2 Gold Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707809,
+               "lng" : -74.00634700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0b0cbfc33ca6d19272884b8881f76c05edf3e67b",
+         "name" : "Open Door Gastropub",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4W4-e2wRuClWIYGHUAPeNzxgPL2WSSeZkJMXYUPCsAGA_qB8ASKIgy1i5UFxcncW9UfLflp7TN3KjziVhJdCqGhyf10o6Lt9hJeIsRA6KZxzSJ-Pcbz-xGXeouStlqCxWsLrCRy_aEGfFkABq2oLmBIQDmAg2vBekH-wNt_xCcpTnhoUiz_jM5KLL1Kudehh7w1--_QxvnI",
+               "width" : 398
+            }
+         ],
+         "place_id" : "ChIJj1AuZz1awokRSBNrh2AXkIs",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdgAAANCkGn0yKAGyZLTy1hiL2L2hvZRMb1ynAI6vBtryCwvZqkHZBKLZ_nhqpEGnN5EpJHeR_awP0O9zJ94CCgqDwvdJhv1Z-j-83FuWT5LNVt06eZrTWvkxWUN8lkbmfdugtPyTpYDjeILObuFVXQeK6xmt5X7AlfXutqfWruqfNqXUEhAY7uT4r6kzu7EJbiiUAc60GhQzFLLeI_ZxxcyQbE7lfKs4wtMR_g",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "110 John Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707449,
+               "lng" : -74.006871
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "123ea3336b5907b41acfd32bbc297fd13235799d",
+         "name" : "Harry's Italian",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXtxkRHQ7Du9Bc-_J28YuVtJjUKOWNalFTOwq3tL50UqWnyHcoRn8-LJJZM9I0EBqjC6WI30kE3GXFmw6vu-r8nK_498pQnq57oIP3gB9zJucEnPxtMUesM8Dav5slJLXMmcHKPLBzsUxTEmh78whaRIQyKYTwDGNWKco6OBRHDwIShoUHuUFPXTUMJpWiOuMkRygoodM1xY",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJtfyA3hdawokRQ6bgjbSJN3o",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBcQAAAIYRBKJ8pBJrcm0jX1yq2ZRhgq0YSW7vGm6ig245UkHQOVy6_UICoX6Lbx5ayciERtHYoxposO6pHCgoPe6ukeGd2ihnfVA6BeZMGJk-rHBKvGy72PpRczTJdQpT6Wv2WRCVg-T4K2QCKDq-Dairr11jqjuwleNxi3Db9SOPKYrdEhC_J-MFWsgMP223tXqeDVytGhQH8r89FsGXzDk6HZuWp4nW1cYxbw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2 Gold Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706707,
+               "lng" : -74.006942
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e90b88822d7a909d4bc27c9918c6004df64de9e",
+         "name" : "Chipotle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 113,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAT1vLLlpQ8ELdSTS8vHTdM5o_69fOgdRMR45rQNsVkwS2qIDd3WL6Txa0PRuDJ1rMCu_8rvYGQqlJTtsZEouoxY94YHoUcSC9EgTClrRybyhRoaqFSRN5rZ82ctIiisH6MDKWO_8jshOJo0mpyb-vXRIQj8z3qw2rrdW_-UH-9JB1MRoU4lvy_gDfyI1K4deP95gBvEZTflE",
+               "width" : 113
+            }
+         ],
+         "place_id" : "ChIJ9xrD0xdawokRYFEJX6G7JC0",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAAefV0d80iYGQo2S8kwME-_az0dm97n3CvTk7GykhdWWXCdHj75qtTKSGfweZsT64HRkD3feHiyVHGzwDTMf0wWhof_xzClQjgzqp9MMb8A5cq9Z2NhS9DhAi1g4sXBBVyMK3Wiwdmg_x_C16Y7rPRrRIQCelELadUZkEp5WzukPxHmhoUAnCiAbZoUYG8RivCwvfzWkF7Yn8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "100 Maiden Lane, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707655,
+               "lng" : -74.00403
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76a77d7ae9ca077e8f11115e218ac240b8dc6864",
+         "name" : "Pearl Street Playground",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAApzmgg3rUwHY7PNVOBQ1PaaXluH9OXwp3W5tFNIz5MXCNyQjXvhIuBt80tuhukkcLvfw8CHurxQnIBjkIBYZYbXF7aRy4HRL320136A-47FO_McldS2I-9zjEKHbuu0st1RMt8z36u5s52XJOysgrxIQIOJITdgs5x6l_ID_ZvRSzRoUJ0KQ_fT8kZGYjfTFjbwMXhACZbc",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJRdlkIz1awokRTG4k1r6aIc8",
+         "reference" : "CoQBegAAAIbuoT1gVAD6v_T_TPWF-dUAWa0-ZlobLPU_pm9mjpAf8lG64lUNefEH_yZV0rSRze5Luk5q-Mn4vLnPo2I-A7-wuhOYtEN4xbedkYkdboQn4fw1wInDdyWM1L_Pg9c0n-CKe7WFpkqzXZLifr6yMs01-JV4fbgetMnjFIjHEqDHEhB6PDfJwSz3V2XnaFBqXCs7GhS5wgZBK1E64P0_d2h_kRxHJP0n5g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Fulton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706773,
+               "lng" : -74.00838400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9307b421f36def097ca8d69f8af017273cb63c34",
+         "name" : "ISE Japanese Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARtZIcv9fr3qJNq_1cTsrAN3QKuzzd-3EZBK8HjiaCnRAOZY0HIwM5Qe3nBFBnerxd-3YdCnnK5xxH1KRN7vDKODO31TvCAgp9UeZ3Mk4U8zLMTJlgW9UwBo16-Tkb071dsCIuBxSzpSehATkRyNRbhIQDEvDiyHRDpTbXpzKJ1XXYBoUTdedTMbFGMYogQsriVPdx5cMkTI",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJocxgsxdawokRc8Z-z8Bl6L0",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBegAAAG0RRn6J8DtFv9qFRRtLS262My5yclt7yFDXuKbB60wT9LcsqKqSEJxFzwdXiavvE_SbY_JDR2OhuR-s9bpxitMDcSWgrVJusSdWvg6YW4sYfAdppvUQSuYDvMnH7OYxEEDV8xZizlhEcqp3yYADRKPMQaXFwFbgOlRfHdZsfEzWEhDabBh-3R22DVDN32a27WPbGhSk5Sh8KXezaweafy3JMIFxyev2lQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "56 Pine Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705022,
+               "lng" : -74.006264
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "512d8c3d20a25580d7ee6ca61c791db00f07e533",
+         "name" : "WALL STREET BUSINESS CENTER - WSJ.US.COM",
+         "photos" : [
+            {
+               "height" : 495,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAM60tOyIf6Ew4xbUS6lqz8xhcLqaoDTHEISo7nf0n44p_gvtN8UpiVJCKBO9RFmgFDWyXphv_tZVFB4rOlbjlcldvMKTWkm0sGEejjCVPrSMRPPoK03c5liqpsevNqL6pbbz6TwIRjjYbVf9NAatVCBIQZGMWAvEEFe5xcAMOQmahaBoUzKMXb8MAy0JlF2p5CHBH8EbzYGY",
+               "width" : 991
+            }
+         ],
+         "place_id" : "ChIJnZhfHRZawokRlVTF5UoBaRc",
+         "reference" : "CpQBigAAAOP3Gw6I2hPsOVrASuTUOMNoPEKlyCDX9s7P5juU0MqUdCi3rWErGrvM6InXnIDrglwm0Xxgu2YCApdVs5pNrc573dMp5iFH9QpBvVDjSFLEneZu7hXrtNsC-CHpg2Ol6hA_vXYVqnkEPkPiDG_dkNp5dJpXj1VJnQuC2t50ZSM-ugp4t_MtrUMAJbM7iPbqcxIQ85DArK5h1uXdMbBcuo-BEBoUyZDE47IyXI8-SHNK90A5iM7SW64",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "110 Wall Street"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70544,
+               "lng" : -74.005298
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fe3f625d42dd9b48db5c3442fd395bc390e5c0ea",
+         "name" : "Goldman Sachs & Co",
+         "place_id" : "ChIJZa1zkz1awokR4kpPjABi77c",
+         "reference" : "CoQBdQAAAH8w_K41LV9Lz5Y5lR0eKbDqoD9bRYTzpICnlv3wtzzMVGY6ZHfO6xJky9MiJ6CCFFglVrZ85orq0oXgO5tmcA2285EuxxBB_sDYi6nuAhtVlWT_v05L4igxs6Z4o3vfBzxI9Cdd9l6n5q4KJO9z6X8vR2vDsp6oyD3LBFLCaJdIEhD8CHCZ5LcD24JCPmCIq4MzGhSNbTc-Q3w53mc5sJbmIseBrkajCA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "180 Maiden Lane, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704696,
+               "lng" : -74.007648
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1f83d54efe392e5d5ff680866ed91954fe9e1510",
+         "name" : "95 Wall Luxury Apartment Homes",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1790,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAAj2zjGawuLweMs9zGY_MYMzwWhVuS5SpQT4Dojfsl1vzqnoPlfD-fDPtgYen0N3AK0FmvqXIqusJliNoI9604G-SRNhBDSAULB7DUqB_VJnJfTj6foUbMGyM1vN6xRsSkgahaeRWn9UxyjGZEroFDzRIQSVyfZuUHz1Qf08uvRTEaBxoU6a5ZBcuKP2Yl-GmfpQ4hc1reOUQ",
+               "width" : 1790
+            }
+         ],
+         "place_id" : "ChIJYTwCEhZawokRuxUinCavbTI",
+         "reference" : "CoQBgAAAAL56Z_qGda5MfOnmAoqg7GAhq_4PrnFxuSGST0FsoifjGze_xV2Axn17G23eqFvaJVyInaNqg4Y5nItU9POP56VIIzQY--Cs-lyY7nxJjyRo5RMd96XbJfYe71CYGEPwIGfB5zUfItX3d3GcNJVZVs6VL0vjoorwzsJUL6FJYNptEhAAvUp2wrUN5tnRBFasdkbxGhQBRiK7WDbJ79ofvLtM8OU2sMxcCw",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "95 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706178,
+               "lng" : -74.00685
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7d1cd30a4edd6d9868829978f02d32b13dfc0fc6",
+         "name" : "Cahill Gordon & Reindel LLP",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRWYXMBZawokRevi2HDY9kRo",
+         "reference" : "CoQBfQAAAHvrFiv01F0f980vOTdneXGfiBIW7U_tVI90-eKAO-RqdvLGU6gwqdlIp-AYsdflOwLRIZmu4bYMi7vllDBP_9OO7TPVRAm84mVzr3k3leFTBk7xxuLwlF65PFZMGpGIYWzKw93jFjLYS4hvctXELV6j4WSQYB0Ux2GnvDXvCnA3EhCdhsCYzcaTBwlG7P7gjbpgGhTIG8pJK2NNj5zrTPk83x4QFT29TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "80 Pine Street #17, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAJLnwQwgrIRhObH2arm2tFgrhZP2JT-D8nqeylCPGFXSvET7EN0trL9yG9cqQBY5fuSrFRzJJwyoeRqXtLh9fAdEXjGC5lKBqUb0k7fMRdQoD6AcZbrylGIQL5kCIe51NFoium7VkAcHypRyto4Gh2ARV4dW4V_HPB6Ved7c4s1dbolDSmOLaZiep2wsnTnsDRIQHBopn8_S9T3DXjkedczfIhoUfGu_hd8-7fPSYOrm64ieTVnoWnY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

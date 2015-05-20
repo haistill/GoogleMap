@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBiwAAAHMJVpeflLl-4tc495MDWUmnwgykGWp-0A3-9KGAnmP-mhCkQr9j3-Ci9JjWLZjLme-Ddk9RlQak1uiJMa185pZlfoW98CT70fG6GJF8WUegk4ZVNgcHHoOHFkCvfgbcAYHrmkGYpyOslRUJifPSNoYGJf0iTHgkyuH_5RrsmTtsDjuikXS7SQ6o6HaSWDlm_xIQbm_m_zva2DW8ztEa5us2GhoUJih63MP0MuAI6z8dfWxmdXssnl0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722904,
+               "lng" : -73.97690900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "828ce39a6ec9bc00ac6dd993ef5b551ecd1010f1",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAA5hbUTS4WGb1yv_ZWOOro5JyXbLOlUuV9L-Y4OWQJJC-81A4BOWR0c9CfXNmKiezW5o8Y4xFXvCvu0ZFlFmF60NxBAzOX5LzrnzN-NmIS4p_mqtFk1H7SZn9slhgiKrVX99uPPbs4o0lKuB9E0Y283xIQYvIPYf5nRHmkRz2loTBmWRoUN4oPdDz4jUgABMuog7U2NP3akQI",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJFVQhKHRZwokR2Sx4Tt4J5Vs",
+         "price_level" : 2,
+         "reference" : "CoQBcgAAABPzBc6J-LLXUt-pFqNNnIwWNtcKEStf8HO7JekCh7MVm1R3ZJ1xnNoof4hukKQyfJNOhJ2dN-9FzwSK5UdOXhNXuCNcKdykrfJGxm6ZBl3RPrwcb9H6gi-btHQ0gTPBXbVuh4m2E_phw46_qrte9ACDM7Blwc79GYaFdAmGSh7NEhBoFO3tUm2boyfBFXQixdjbGhQK4_59CObRaMTvcK1k7Gga4l5pMA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "89 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722776,
+               "lng" : -73.97725800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "733acee344f9f1bbe24a2cf05bb54ff92ede042d",
+         "name" : "A Gathering of the Tribes",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGzDN3I3S9Gxk1TV7ZAldqywtXJTXkwbf3kTYvpkoSb9Ja1Klytpa_a4L5Oenbib03Q0Wm-A4K-gL8XI2SHNyod3dN1XMth168woPFJ25i6A3tDCdEX0mCW1McVNCTdp-KtNDqRDaamJLn-gdKDIa2BIQWtwYngO5UO2DJlGblcKIkhoUQwH6pbNO6jE4jPxv3e2K4q3556I",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJaVOCHnlZwokRlXfQPvdtWj8",
+         "reference" : "CoQBegAAAEclMELo2Je5gUm8RGJBVM0iCxB8P0sD1VU6B5oHfrYPet-g5of00PDPrftROpfUreySJ75Lxf_YdLZhKv7CsA5MUjAARJzLcu2rFZMMyN-GvHXOVidxSESMDq-6hgyiq9DEhGMUFr4CheMmxkoltHFFf-POotgeXx6nQxz-bra6EhDs1wa6JYqXM6iMyRvdzWcrGhROpE3mIZERr7Hub5nw5HIpe1E_yQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "745 E. 6th St Apt.1A, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720686,
+               "lng" : -73.97642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43674cef4189f5258a828f0eb1e159033a21fcee",
+         "name" : "New York City Housing Authority's Lillian Wald",
+         "place_id" : "ChIJm1YvfHlZwokR8_OhIlOOBYc",
+         "reference" : "CqQBkQAAAHpLQ-fODyQUJHcBICw6jM-QlAV_4Y0iXxaUdnKHHFQWhDI6O8y0hKdSh9ATuTbfi3qPeo8vI9DcB_UOOtRiw35F_LBp3ZTOs3HJZdpkufvmpWBmgiKHlTos2v_JBAB3MSM5oLEvKq23fnYRs_jUBIrv3W_rzazwGYYrf1o7aE9lKSzJwVd-JsupJFHZsXrar7nD-DSNqeeuX4l1vzF20PYSEKATKOey8QpyIYd4WixqES4aFHldVwpwEiAI-7hBu1bpSKKw8f4u",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "54 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721472,
+               "lng" : -73.97803999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9fa5624e76406491b9785af5dbb5056794d0a118",
+         "name" : "Jutta Neumann New York Inc",
+         "place_id" : "ChIJ046DZXlZwokRSGBowP8Mix8",
+         "reference" : "CoQBewAAADkPQ30UNy4SbPmUUDaRBsphE5cS_PuTfEfcZ2v2N-Efr4AhPXySoPKxuFGMifvrq3KaY5VL0hDpudcE2Cn2aJSUctNozOvBEKRf3OpPK_4_MwweoeyaVwVgc1A89JxVsT0lFEN8EzVa9irk1m7xoKlb8lURxjE9LovRJjxrECCIEhDwgFRgPcCqxycuaOiqlpyTGhSHDTEPfgBFCJxrvuqNpRxDA4Rgjw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "355 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBigAAAA41BVFzhkbyGQJvH3KJpltv22LCe3PapdGvkPPNe8RYnqLOFh61lyXS9dbVvWYzHio5Iksgm9ELZ9ZlPVjhXLzht5KtQBQnyNCku2vbUgEn22L-oGyyHwuQr6iWamCsTfMunTt8GVxkOSckj9YkVkCYXy0WZY6atluhGm7FUpW8OAGqhxA1BXCuNvTY_dIBMxIQ3j8tES3R2QvbHkgobjpx6hoUghxYDJxxnGgjdfIlUL4bN5XUUao",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,516 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALlmNhs2MtszFf_mLJauRPojtVA4jKs_8iB9aCFrOUSeLIFzPbIhTXqyy4lcEJ97TKJS3TnihEVxVApQnC5j9g3K3zT-LUgrB7uHk_wG1F2ILOSfFN8b9UHrjke_llOeeuIgVRSx6Wp872Q7r2F-p2MntbHZ1DRtjttw5pBSqAqsvGaZJwPOyJqLUeQnnxRK-3Djml3Lbrg9xkrcdyV658Ltdm61BdaTgzGGZLX_AbrbMgqwH2JQXE5lhacZFHCgrtNEwf636Ak874PoMvgI-EYUJtJBUjOwE95JLujs39vJjO5dYjnHmMbvWrfkqikS-BIQlAes0Hvn_VW5qO4QtoHoaxoUavZEofrC9Ur2f66Lpb_h7HBBFnY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAINKtuljKlq8ldnlKP1llFkmneQFj4DepgMhVLLleMMX-SMR4_FRmuSJA4caeWsu8rgG1HAVEY8QfsfgBHLbHFIjj2pJx2Ia0Ah1XdpxDCKd_Lmyl9tKpjTY0XJOqFvubiKNmqmjQ8LyATflH_osT7Xd8RxYvuqF_dU5qsMKBG6O6NQSjOUJ7QT3Hzu6HtmPXRIQPqEDUOoaPssfI_C3oRGYahoUrK3s5-dYpx9yUjMYbKh02_bKl8U",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810018,
+               "lng" : -73.950056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1b0f4d59c7f87d67086d61f10655a1970a2fbfce",
+         "name" : "Apollo Theater",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 772,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuLtP6wEQLclRR7yX8-y6y_6sT-cEJYsir7Z3PEPxfUz0QatpdnFc-wc6_CoO8YR8_t_9APiYS2zGMXmveUY0vg9UlWroW7ZqGtmdyQDLitAms3-AKxGjzFm5YQIzyFOJYHDeu3So0IyOinBgr1NxiBIQxHVtu3t2yyNTQvNibaaYdxoUmecXtRwQ6hD2A4luO4-dEiZu5Ik",
+               "width" : 1035
+            }
+         ],
+         "place_id" : "ChIJRaWCMm32wokRLdyc4zmYzRw",
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAlGGKxYp9_6sFLd1j1VB0z1dMWuB8SGRixAfUOa4u_fKwh6GxPjs_nhEK743GmPUwXN6orczajhzNe33fQxOVJyerJujino55Qo9k04ehNCoTzhiKa7H9gOGIq43jsd1lri2G6F9sD8otM0rGXoPlXBIQ4tKQmniO6AxsHan9aVAySxoUdKFKmL7NNjtSW1Q_IRR7AG3zY7I",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "253 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808435,
+               "lng" : -73.94765200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7ca58d25e94c29d1e51630a775fc319d5caa98a7",
+         "name" : "The Studio Museum In Harlem",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_ShwXw32wokRQJpaKAIcCOo",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBfQAAAPUqF-TRiz9CiMmvgTQu9TecqXGy1tphW0zsmI45lx_R8RKnYCh15vqNxySAlB1Kj2h_cfh4rweiJxHnU1FtIwzgacT5CnBmD76UAFkM7qtb3T5U1Cd6YZwWGUFH3KSbDF5ZTJxlEbqsdTag0nJzkbwfBTRT_kawuFHk253yb0K5EhC-DRGODAr9t_g9tvAUJ_dqGhRPhxsxOUNdfa6mRZQfHLF-FISyUg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "144 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809152,
+               "lng" : -73.94985200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "db51a9c8f6bffb0d853ad76d3fdad969401f0aca",
+         "name" : "Touro College of Osteopathic Medicine",
+         "place_id" : "ChIJt-9kyhL2wokR9my00d6v17A",
+         "reference" : "CpQBhwAAADOQEH9X5AAWu67H1I2QNB2NSUITzNi6HTxqokGY5hgmXDr1FYf8AkKtZ029A9tYeEReMh8FHXcpbaVg6bcnVBbCXRjzlW1_zliUPfepqNPCPkbmBkRTchsPfzN-tJ1_eC-kzHMJvY7qVG_ft1Gci6JZvVV7N0Lhh-GIkhDAiHwaAaotftro_D89jFPuFspivRIQD93QwBEo2lvjxx1bP0ubhBoUmn9d76Bg6oaJRynl8QDTjEG8Jac",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "health", "establishment" ],
+         "vicinity" : "230 West 125th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809078,
+               "lng" : -73.95147799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b74a2b29923ccd66a2221ac8b743b0d88cc91934",
+         "name" : "Aloft Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 230,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAs3PGieZdNnfARDDydbMRNhnvD_FRUIBIwVZQge34r1JPKN1bIoopssVmqNjTZo_6ncRxrSlwtVYOTjZAhlEOEbL0xHO2bg3DbSnELLHwsWhb1CjZqCEx_zMYbmqjThsD8zL64aYwDeY62T_hD1WSSRIQKGSvUL6ehmWkP8dLlajThBoUEzIE8iod0DktpKhUuNnvzmL52l8",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJ67XxORP2wokR_aG7N_4gWRw",
+         "rating" : 4.2,
+         "reference" : "CnRtAAAA66kOZYvfu8P7ELzy7YoXEkg_ASapMYXWIYqCXA9NVD2GxQCnJj1eJ1kWNTgZMBQvV66ruz_9okBlMBjF1d9WV7fDqRtRpUr-4fbpgfvn4KATmj8EvewUL5MZpabkVDAyZLdDuauTZdAHPVBz34uBrxIQf49_J6mMouFJCAf8yEOkDxoUhVMyVY_VMJjValV0-Rj-yqxQaho",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "2296 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810093,
+               "lng" : -73.951596
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6bb9e6fbae3f75b5947a66af6d0807da8ffaad0b",
+         "name" : "TD Bank",
+         "place_id" : "ChIJydt50Wz2wokRuvoup34uIto",
+         "rating" : 3.6,
+         "reference" : "CnRpAAAAvQ7qTI8yjL8_XlIOAUHHhpNPgnZFELx10k4qK-zel5ZXX_a1doE2JohI_mXfXmz9ISfCaHrZihMwanRw5TgThfSu4AZjfwQX4V20aAqWPutnjcXoY0OAzLmJgJjlHkA6XmKdortwekNRFBtx5J4S5BIQcyCQ6q3h_oL6CZjVbW7ShhoUed8fOF-NVFhhlwg27Cq1u0Y_GI4",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "300 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809724,
+               "lng" : -73.948926
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f61a0a8cc113cfccb710fd52318d4b6f4e08912",
+         "name" : "New York State Department of Labor",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJF26qyhL2wokRkP3SOxQ1rnA",
+         "rating" : 1.3,
+         "reference" : "CpQBgwAAALPrhXhA3MGvlAsTy54V3Oc1DYcoxqW4v1gNZNPe3Mz0yOHE1C841L257PSCs6ALzWdxVc9SMJVjcslMRo5tEd1SxNceOImob8KZHKdwMkaX_rE2Es6y_TznQ7tmU8nUQ-hEeN9jhwd1JoYyOmI8RvOmf8rSg2W16hv_ykHiS8azWvIzVhQZ_ND2F8eOprAiwRIQdzAd3QIpr3s-WN5xKErHvBoUCQ748sPDu5hfpcNjFGd2CHyUhQE",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "215 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809353,
+               "lng" : -73.948652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2edf1fc3bb84884ff0f6d7776019e1f80821fef",
+         "name" : "FedEx Office Print & Ship Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 412,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8KIO0hHchbULYnUE9aKCkRLQUbb0Qyv6_iTklLmN1Q9hZ9rx5CrKVDVF9y3tlklhHGpQVxlEDD1JRYPHVI__1syj4Tu1NapRIeKmAESC9UdatICvnIejVGObSFMk0UTEtEZkaj3K5c3rMmf4sjeiWBIQ1Q5GyeJbYz1PlU45lr8JhxoUDuvifytUhBH3sI46kj9dXtFim-s",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJ0fMEsxL2wokRhiiv24OzL7g",
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "CpQBggAAAM1OUrN6DTqQQAs4muTqCdy3CDqGs6aP4BEiCyZvpgLrkB_5yn5yZIVv0kBmpyvmt_cD5xpkNjmjpMg3rAiQl_-NBuodzmFVxiF8MMEOWKldP5mlKltHsQUzzG8mnB79lBOAdxhboBkpCpEqjvA9JiW4JRT5rdOE2JkgDT3MM5lVTDrEB7DmlRN3hUTo39N7ExIQmG24wo939InqLQ3z_DOhPRoUbpmXqO-IJtN-X3aAthIi_kYyu8w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "207 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810262,
+               "lng" : -73.951928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e0034872c334b61db028f33ba2d9c24faf81abad",
+         "name" : "Old Navy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAAK4o_gALGGsAWPwO-dUQsRwXrDnOAGlGD-OpEaNdx7m9N_9aYoCbnpCSdoDCFRg_IvAm6puCZIYIxjFndCOZrlifU3Ex7rQvwp0O8u3qOky22HPnPeEkFUj3f7f14OzB3mYsPaJjcoR4beJpg3XglXkQ70zn-_Vt0a4dQHo9BBfgEhARIR5rhRUyxXdX_r4NrdDnGhTWWeNJKAj2gbFQ8FcPZK97RhwS3Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJydt50Wz2wokRBCRo2ftp8G8",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRpAAAA-Zr3JaUx0n5nN--lmyYaUw9J9uU-ZUoLRarBcYigrweVIGk0PzZHMnLhO_9cJCCLBOo5jOAF96gp8zeaTegpPJ0BnY-iPZC66l3uYmdUfU6v_Ir3hq5Ar_XwxH0S_-DeTnp_U9OBcpkj73DoBoE-IBIQ9en1_VaHpRIjGpWjvn7IYhoUAG6L4kpLP9e2GnjxhzMwJwoX0tc",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "300 W125Th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80897,
+               "lng" : -73.94944099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5256e0008db8a33368d06928591d20cf5c11d533",
+         "name" : "Lane Bryant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 212,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_9OpjhsvMrj7a-80QOg6LlSMLNJpHkfzR7L2subRctFJkfvdkyrxOYAdBkI6iN3ZRHbA17WJxYy7lvne5QqPfHSJF8E7IMUve_7CVK9pG5-xcTQTV8uPySq6sW71XgURz6Lqpfw1rav9eighuaxm8BIQkTBDtAVSAiwuHDVgQdwZRxoUGSu2xj2fqGW85A9gOec1sieDeec",
+               "width" : 235
+            }
+         ],
+         "place_id" : "ChIJl3wByhL2wokRzKOHEZq9TKs",
+         "price_level" : 2,
+         "reference" : "CnRtAAAAEfkokQQ6z7SiTsXfzUgtg_dqNchr9b6mgTdUlqJTpusS0DyvnqLpeSCvBWrytVMxntg2G4p5_kkxnPnL5ZlkuRr4pRx7vccJQyelIN_971P3H_XKlbAXjfAs0Zxp7Ur3nds5Y-HoUDo4e0U42dmSxBIQH7zGOqLcEz6r0g2dlAiO7xoUDUdR7M20nKSN_cOQdeHwruY7GKE",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "222 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808168,
+               "lng" : -73.95098299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "365f291b13a3cd21f0906a5c9cae2b00c42f55ac",
+         "name" : "The Harlem Flophouse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJj7t6HBP2wokRINT5VLT1pss",
+         "reference" : "CoQBdgAAAAEA4bHJpv_e1kqRWMGrX8J3otm5-8BfsuGsOY5EVqha4_SUIn1leX1H1fgJ7rSPxB3mYvtwlevQG-QRyjqeby66Nw8z0tTt0E2tiUSFhZ5_LM1Yu1BNv6EsJLiyJO5sdNcsV-_U-Ofy6Dn8EJ6DygvkpFY_tS9Z7sEr3mLVbHz6EhARLUX43mmD9D5V0CZLuXivGhTfNgwzmxQKlLd0ge-iYsNJdGcMkA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "242 West 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809368,
+               "lng" : -73.948809
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "f765c1c6387360ebc6ce72a9bddaf504bbe01c6f",
+         "name" : "Sprint Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4edkybDiH8_g1cYHU_udEZkHwuesMOIW6saEFMZiKpV_THPBu0qmyLGDfHKG6Z2x4AaQ4j3C1q5j-EjpajLYAnLSmasLhGTSyJ7hcmf1qsFIRX0tyo49Lfw8H7qhnmaQBj11C8YAJEZi7lzw8_vdOxIQ0WH_bngkrwGHbcWL5PEHhRoUnk2fC4OdIkM4LjwGXrbrw58jZqQ",
+               "width" : 260
+            }
+         ],
+         "place_id" : "ChIJB2xssxL2wokRVw0w2ug6L48",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRuAAAAbVtHth5-Hqqew3U45b-2vu4CynWES0H1ixLlAb3igrAMl4FSrDMB4kNNzM7A_Ys0_ZPq5SU80VUzuaQN6q1wvfFVSRCNCriGTGM2RO1nAVb0Xf9yU4I8Ycdh-LzUAtE8Iuq-cJppPCo12k4LRqV-fRIQwZunVzVj70qeTjImamfXFhoUe5auUGBGzp1-BRMWbLytIYw35zY",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "209 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809305,
+               "lng" : -73.94865799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "99a97bd5330e345664ca2365463cbd63ae5ba307",
+         "name" : "atmos",
+         "place_id" : "ChIJC7X5shL2wokRjvWysSAi0lE",
+         "price_level" : 3,
+         "reference" : "CnRmAAAAOQ8llwxBdkmTmeppJKc0hv0xvEnsHFO5mU7DOCfgRrYrhA_0HtqJLSKFQgjzIgMSZSrep-FP7QxTfALY72UHfBqThKr_yPHojKnu9x86mn2x33almDR-HMgO5p95L9Rb_QERIwy2kLzsYJJaOAlOZhIQ2buBb1GL4srbexruliGn0BoUbYfEsRRedVcRHZkaz8NS3CoudNU",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "203 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810166,
+               "lng" : -73.951606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4ca0352d8047056d8902f2164b7468a652e41e6e",
+         "name" : "Modell's Sporting Goods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfQAAAClJJFTW-UUE17Gp4Z80EYGlVQyEkqvwEXvF1GiCsPt63u74VQhwYS6u5erCL33jVnXOHCi6FD1aXBe_1G6QecGMq76UfuWhlWz23cueyV5WBSChS0EnRNnZY5_z7pQou2eywouHisIhq2S2qiAQM0L3CbtDV3OQ7Ydaly4MO0c6EhBh1LaitOog2AyGdYiNMWbwGhS6Ne96PqiJcb8sA0i_LCrkXgJ__Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJydt50Wz2wokRpyFsRSqb9-Q",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAADsYYAoq4nldcklsjIAOK_2XFH5Ze0mc4vhCy7wkKvc8ep8kAaRbjjc7reDMBy68wGg-n2Aiwdzo5nXfWFpWGQttV0LP-XLZ5TBmliNm4-JmP0sM1IK7q1o7BzI0pX6PYFdJCDJ6aRMR3yBxb7depPUIr0pLbFinkE8xajlWDUAEhBo7hqc1eXh_2kTf-Dje4XoGhQ5sdI4vJ8-d0eucRNCW7aZvGSbmg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "300 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809902,
+               "lng" : -73.951627
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "93bc5eddb56c4b1e2139956267fbe68329b9cc3f",
+         "name" : "K&G Fashion Superstore",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 253,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQyZEzzvjBE3CBjV7sGUf2Qv48VjAEDZf_W8bQ93HH5ZiaU5NkS_c3T6HTGpxqZ7RYQvXyUNVJLhSKw2ke8ppSool5nneg0JlP2B7UKihYKx5qH-Q-jOsUd0v9gVeIYUT-lnxgkJKxNIXdDODHN_lQhIQ2DFcRc3hwoCNpQG35qR40hoUs2KkuEXArjrrp7-_g5tAGQPqC-0",
+               "width" : 252
+            }
+         ],
+         "place_id" : "ChIJd1YVzgNZwokRQ3-UUOhrthU",
+         "price_level" : 1,
+         "reference" : "CoQBdwAAAE77uHwGnKK3cNVQIDeaCeO7aOKWIVmkX1Q07Q1PpiHcJAjxQkWDAnag-FkzUWSkM5353GzdKR08_AApo8LuY9SbQaj25wN1rGuaRyUEiSwSDofR6e5dBWeUNW6LikU70vw_cWN035dRHnoy9U0PHP09YW1w1Pztywe4GeXoH8scEhC7FT_XPKcUolQkqgtJmO8SGhQUza-0QZ0SXnUOoOjZHtrwR6BE5g",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "2321 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809699,
+               "lng" : -73.94893500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc0827be78067239517e3c3f7b2dbca7288757d9",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmOZzv0-uU081apdMKZuRKwEaN_Eq7nueyR25cnGFPL3KKiu9UcV8rg2ShG_iVqxjF1utYh_SskM8bD-W--7_4lmqXwKtOk-42CnHT0TfvY10wzap4U3x3m0V440QtgsixeoMWmT7NpunlUNkqg6WPBIQa2-krOWfsmNIQJ4tnMha3hoUdQX1kw6Lb0Nqpxk-qRPdN2eMrV4",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJF26qyhL2wokRQz5siQNRFB4",
+         "reference" : "CnRwAAAAJMLO8uGF1oQ7Lz_H-FRbqF4FjdeQaP9z1Vr39GjhHv6Un02hHgKSr4lKQhZYP-lCn3y9Cw15zt-K-yv-zVX22t8Aa9zH8crLl8kdwpkhc1nRtuZneFKao0zlHOS4t_h6aSipcPf6NBTQUtJsN9LRABIQe3UTe14RaJZ6osdNlkf9bhoUcqmP7Stc29itChicP-YkzoJzxAk",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "215 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808736,
+               "lng" : -73.94862000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44fc0734e9948c1ea18c67679268b981cc418e7d",
+         "name" : "White Castle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 126,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAHKrBjvXYWnym5kfpgJ2LG-_4SarzXm0b_wG2M66VLlJSraDOQ0FgbMzOMo7X4jWRPWmIC0pqYbanbgOW-PLmEi-gUzqRHLVlE6uRKe1EdD6mVcPVwPdg6gCx0qWOSNddwgP9Xi8gH_29VDeC2ThW_BIQM_dZbevVtUCOpe8RMVA-8hoUGyzHKwQglNg1601P_FaiN3F9qJw",
+               "width" : 226
+            }
+         ],
+         "place_id" : "ChIJt-XwuhL2wokRbq9t3YhZZeU",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRuAAAAAsdiny5Y4BYlQxpuKeczMYskVTA3oKKw0iIjGb2g1lZDMk5mrap0ZiBmZBnemKSlmF9Oajy5wklNUBLm5xxVaWKdKlWlM3W3BNci487B0hw8taaWQX9-MslDUgNL3wqS3Pz5f3S9ScNyK8KcFnb3uRIQNMF8Ef0ieAkcICTNInLBshoUtiDP8_p8BvpHMyK_SuAKj_pUoLc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2094 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809796,
+               "lng" : -73.950705
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "640e2e25734cecf8f854ded59d33dc7f4659a0b8",
+         "name" : "House of Hoops",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAAeVbV9VE92EELbb5n5NwDr_J5-kUqw94gmaBCLHqwoJh_9XzARI8TaQMiKSe6I2pjZBx2MgT0oZxu4V3aeYQzFWZLzi0QyDUNHtJeJ5DSiUJetsPueQ8fN7fmFBZ6n1iRQ8Ma8tru1v1zTedgzuh0xIQ6iX-jde4RUuHwz7PJwNnBxoUnqb-XtcrmCZKDDq1-yw4IfqWCYE",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJ8wVv1Wz2wokRPN7tkJ1BBLk",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CnRwAAAAXR3eSdvy6XwmrVU8QbFA68NAjONUP4E-tONc5mCmzNVQ_gEtRgrhXrYBHfCNDuEh0YTc498q04OpagQzDMyid_3hIO8Uhgw3Egd-QQukOOVH8-niB6aWpc9cxnZmYk3TifP_-293e-nm0mhXdcs4AhIQMZITWBei4n2DyNh-46w08RoU1m8S06rtYAJZdhzPEEBZz-LKLf4",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "268 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809253,
+               "lng" : -73.94736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "345d81660d3970c8f29486e75784c52f4b0401e7",
+         "name" : "Breast Examination Center of Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyQP9Wg32wokRMLwpZt9ywYM",
+         "reference" : "CpQBhQAAABJCbiE3cCa8ek3p04lmDJp02lfJw3lwEJkUsknMoyePbBLbKrAZcNr5FJpchFmqWENaZYdSNihdsnzEN5o8vqm3VsmfW43Do9HDUV7gnCIMgX3tq-u-MPU3sNBqQxXJa0TGl1nIzPKqwYQo6rHesptQjN1YkPkBRomx0zaMStdkDsjuLpMhXCv7qPDCzlgY_xIQI3VxvYS50wt-TDQMbEmPehoUsUTQgIuelqkKvjFZZlP90w7B3hA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "163 W 125th St # 4th, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAF-TcNWPSEgt4RQFzcXWdcKKFgkFejdJguZ17dnNSCSNxeGgGyd37Y4TNPXt01Tx-aZjMZ0qb-2P6aHlzqFJXfEOb5FYaP-BgNStVj1zjKPa9jsB4-8CZWogYLDzCmP7ICCYCh7XBZAVZuG_uvh6bLTeud5gOt4yrPxcA6Pau3QYjuiNs5WLHTiPTY2gUywzjBIQf3_audAHFBuObWf_Ehdl3RoULyZdN8h7i__z8fof4x5dxpXsZZI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

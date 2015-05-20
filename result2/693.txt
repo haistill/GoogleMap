@@ -1,0 +1,431 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjgAAAIgkIh9Kx48dtf6w1jPZbrk_5tXvVz3h3w62Qcs74BWXzfLgQx5WWBsLcguu-lJdt6q9LI-k4wS1ubd6aAh-AnFNcwbutcBM2HP1CXugSTiER3go7-ajf5tnj-yZQwCfHuO1SKTfrsUziLkwNXC_V71RNXP7a8N4gsWN8cG0vv3pVU5CcW_H3T61ptaoehRiExIQKxc9dNhzzhmcq5239FE-8hoUJsdH2vN72cIabOD9yFgfvd8K004",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819731,
+               "lng" : -73.959423
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5e5612b9393ee7de1b3b6180a8450a685b368f57",
+         "name" : "Fairway Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtRnkH2j2wokR3bnS8Xx_xTY",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRvAAAAw3CC95DMYblYOiO1T4lsBGq6gug-UoQ_gSUdF50_g87RUJWYxQwwmH5F0HhiE5zLavU87oZX5a9ieUwEu_HHrfQr5pYUJSHeCMhKioTaxA_KpPfDZ8eWVA68nz1xAXNJ03eVaJsQunuaaBmkwLPfphIQ57-YCUdlK6KBjZTCQlUjnhoUHlWsGz2WiEABy8T-t7dT_UcKb7w",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2328 12th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820295,
+               "lng" : -73.95894699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6f44f0b58bf4cbf5c8c56ba9fdbdf282bc03dea6",
+         "name" : "Hudson River Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRpAAAAXg0KACmQE8n9j9hhUtABWAxdtyqliNa-5h4N77Zuw7l--iY4DN5p_wJ_mVPnduYn2ItEhslD8ybdAUMzWH8Tx7gD6NQz81AmOVReZkXM4vAWY9b3WZh0MnGb_GUmgAvnV0zeEo6XdyPnmYX5ghDYKRIQf7r-kqWx_y-IIeYRsDhY1BoUHaFB2nAYG6s_KzJD3sBOMX71cI8",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJD2vu8Wj2wokRGaqZQJD_vu4",
+         "price_level" : 3,
+         "rating" : 3.2,
+         "reference" : "CoQBcwAAAAbozXxScxpNfF5Aq7Aa74oEOn-064LJz1SVFBb3BN9VKQVU3k48XqZUOaBTAWVkreIoyXw5TJT3ovLT-nCi3wa_JJY5FnZJxYH4bwvhY6dAmnBlxIO9lGqsjL4zOnv499osi6_qNNjSt46y66pEwMwndqLawuebIymphiH7cogeEhAzjsJuSq7jYLVpvncFGXHBGhShhigepgBH6-IPCaw52__CzaUZSg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "697 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819603,
+               "lng" : -73.957352
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6a2f5ad6697638c1f9cb5cfc3b04e141c9d7748b",
+         "name" : "KIPP Infinity Charter School",
+         "place_id" : "ChIJH9A8Z2j2wokRWHVzhPCGtRU",
+         "rating" : 4.2,
+         "reference" : "CoQBfQAAANx7GtXMYHL-r6rH1YGoumtd10IVOHD26g2D7WLoR6BInWpnas13Nk-3PMfFlWVsA7m69GtkiXPVWyxRKKVzGr24DCiCrZMmD34dGbpluhrYf42XqxaVg9N8bXiahqJf6nB4qYNrY7rFBUCCMQKFAGSaWufZxcRvvXc-AnjgFKiXEhAa9vHYeLabR5SnDDTLMCLoGhSIz9t8iS6Nv7XlpTWxcethJ7as8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "625 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82039,
+               "lng" : -73.95527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f526ee7cbf5ad7efec770eaab236f0c3b106af9",
+         "name" : "Bus Stop Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAATBsmoITt2dD97HImNhoYnopeJ3MV4PII7yJbvpnRvBOuKjxQqj6B29POX6_ydpWqzfC5UcNC8f75ahgkVoMsSREKFtiuSxp2zWHuwYxlUB32nsaBVxJi87HmncFm5jBNV_Ci1BW6JFZLdVczrzFl1BIQQ_x9mL2X_GnlkbOc7U2NxRoUbWEAHJGzCuWOIS-2p6m5sctCNaU",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJ1-1nIGb2wokRGkbd6xcyibc",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CoQBdQAAABgEICzr9jDJnC5MytqjaqEEXH-UQ42WALF9tAAcbUbapoRPREpLJih8IAuC2A8cuiB9aondmAE1pgPZw29HPiKxfEgh16IuBKX-GsKZE0TUsNsgIcEeC55CoNC_bfjL2WpW7JmyiYjDJHOVEc_LNiAAGegN9ppKo3VdZCODIv2NEhBeTugAxfBN-owm9h-is8V0GhREbd8c9Huj3HlNljE-5PBOc3Jidg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3341 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819348,
+               "lng" : -73.955451
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43da2c5500e6c327ca74acb2132faa4082c12309",
+         "name" : "Tuck-It-Away Self-Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAn6xRPk39yqYRhU_r0ibGrov5Ue2C3-uk0qXQjTaYZWWyTswl1-Q9ZlfFknlECSgSLE7smZ1v0AHDgWo99_A69e1XSq2orLYxQs5IE0z09n1w4jx399KRWh_tgvk2DFp4Ola3Ah7iotP396bILCv5tBIQDx-93Osgi_dpHuN8ydaU6hoU14OByI3dMS3yOQzfqNdK-XwPrnQ",
+               "width" : 580
+            }
+         ],
+         "place_id" : "ChIJyw0Bomj2wokRB2G8vHK6RU8",
+         "reference" : "CoQBegAAABDuVHIYrXdUlgG1bml2xr7y_M3sdJLbBV4CcK9hkGYq8yHK6y4KVBGmulOlOaJeJgIeR26ZTKKYAqWvavIEMgjKQEKiMbjgjjjnRI40SeGfT1wNeaM34F2dUMs7C3eyTmOsr1-1z9eImXm_hM-_aLopb2QiuJyhzPmK1Oj6_CYiEhDXC_bBSZmU9xhSMhW1cYK7GhTiMHJqz17M_PUVBoah1-Nl7hYK9A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "storage", "establishment" ],
+         "vicinity" : "3318 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818299,
+               "lng" : -73.95571099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1887462ea1971fff33080660d897e2b745a53ed7",
+         "name" : "Newyork City Housing",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJgykQVCRMUWW35aDGD95HqxSA_7cJRiBgclE8x9wUfHva1Wi0jFkDVxsQ23IIa4x8n6Fg4L0K7nQzPAk83N4lRTz-hoyhkcUtUdSO9C5jI2QOlEb9Ift3yrzYW3uB_Wzlh6PHNtKwBDoJE-tJ0SpLRIQ8ui7qY-CwTOirQA_AuBsvBoUj5MTVm7iZNNi_iVjX-NGLAlKq_U",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJHU6h72j2wokRl-tInnQ2N74",
+         "reference" : "CoQBdgAAAFFB1qqdLR7TesjCB7fulbwRFsons-E-d-OZyxiAJyepKVvOYI3RkDQ0QiyvPypd85nVNgA0cxcaUPsrnB3K1AVfqF-AQlP7XAZUcZLOdXuwyDv3I7DbQM-XH__sfrW8LScEcPyX_r_fpXSXZeCKfVwNGzZynUdlLe4Y_lQJNVpJEhCTI8LSxi6-A1zLEVG_kayiGhRxA0sT9uOHubqcevKac5k1Haq2Dg",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "560 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819485,
+               "lng" : -73.95516000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "aabce1d58459a6090e3ceeb8aa2e1ecb286cb1cf",
+         "name" : "C-Town Supermarkets",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAAGmIHQuN4XiS4MlM9VA8jvas8c0sINKoBWHqiaKlEISti-yQV35FnVw0XNDdh4XnHNNF9J21qpDdP4F3VnxK9XX_G5zQxOh4c9NvDTaVANi-7v4t9eLRPKOsQa6F6FAXbtCOnpRNgZ9ZlnS9qNhQMkBIQU6ASLifKlKpXzYJ6jbYqexoU65N_lBtabGFGo-zpPP9kcLbAmbM",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJAT8wvWj2wokReKT8uGa_bYI",
+         "price_level" : 2,
+         "reference" : "CoQBdQAAAL1-l_t4tmJ372L7y025SDaRzjhzTjJMdcLTvGulB8z7lzT3nZ0q0KbekIgjjsZmeWhs2daBL0xUZHDr7VnkQtbc0b9myzyo9UoYM5AQKHnrQw_QHLEoLpuEiz4il8_YBn9M0jKUl81eOXt7g-QSfX623mhzHN9oWMtoPapclE5ZEhA_Fn47UrHFcmEodBi62IL6GhTVotBN9uUH3W-1zjny32enorq3Iw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "3320 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818456,
+               "lng" : -73.95935900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5cbb2d36971031dc70a972b39d21ec30f5d0f7a5",
+         "name" : "Moxnet Inc",
+         "place_id" : "ChIJWWTlKmj2wokRU9OY9MOGNjo",
+         "reference" : "CnRrAAAAECQ0B2slZ6BFI_evlfNljMWRsAJaU9jIzcIEZbOi8ic7L_8w6tZMHPv-HICNl28d3-Qnv0cE6dguYW-mhZ_Ght1V5dkNkMx-GlaIzgMlC2DgG5HsvCABGPVEEfoFjJRSjnjzod9jhLD_1U2qT8YfwhIQHtY_pDXdxh3PjZinX4MJARoUIwAloN5yXTbnhf9nlVcZoCjXyjs",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "646 West 131st Street #16, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820605,
+               "lng" : -73.958034
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cd346d7aa706a1a07ddd1c26c5eec36827f6ea6a",
+         "name" : "Manhattan Mini Storage",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAv6ad7W7dzqFHMYGpuerUcc5kS35_RhP1TKlIk53LkKs2gkfpGhbsq-puULq1B6rLptfzDEy2dNJ-j-QDhCVVuaRFwUDlsUi9EqUYKyB4zaLmNj-9JA9hV-hNvY3r8Pbd_hK_PqqwuWfDTJsrbxC_xhIQj68ae3GlmZJRUYGI8lN3fRoUD4GrhCcuPj0nwLm7YAcinEjpFyU",
+               "width" : 328
+            }
+         ],
+         "place_id" : "ChIJdYckibZZwokRckvdHru1-14",
+         "reference" : "CoQBdwAAANzP3qhKs5nyKKGZvYfF6VN3hvKQykkvOgoAxq3Md2CnQMXsWUwXkvAZWiiqm6JSGa29e807i00tbbPip6fdgvKk7HQDiuIaJwpaCKT6AJe29rLGDq-2eTaYIZSIyd3p9aPvyMqMFLxc3bbZIgXdfsLvCzbhely6CMwdatLE1CfJEhAZ9qD91RukKBswVy23ffPUGhTn209TS0L-NK5W6NAsNFXIjfXbwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "storage", "establishment" ],
+         "vicinity" : "571 Riverside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819966,
+               "lng" : -73.958429
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c1bd60c69c5b6381102836573786c0ba38d3fd08",
+         "name" : "9A Kitchen & Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABUPHpe4oxf2dPEOwq8uD79C-2Mgq3SlQipmHaQWnAtu95GlCxh3SkXfoT0XkeOR2uFImhXbCFOC2PJ1yyRMnOrPeU02FK_Ew1vEIewCe1QE2UkbLpSgPt3lx2TRgq3vHyAaJLcliE0zvlqS0VwTAehIQfxtUaUzB4qMKDRVeP4U7dhoUqQZs9uYRCdc8SF8Hykpkx2eYGC8",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJExKDEWj2wokRrgYlUW7Mn_M",
+         "reference" : "CoQBdQAAAGxlpIdv31B7ywH325fdmeGTEmGiCrHHBkftCNL-gh7G6pegmU-VDfGM7B4o-3LW9L457p1PPGZEx1altyiwGh44kRjp1cl_Uw2vNotAkArOPsbK86PgRhnYdlDD2fCiHhm2UjC3QYKodRN-t554L9iX9H04c52wFE-Zv-FSeceKEhBDrE-DJwP7mSxGvq0u0lRGGhSJeByGLNwieQoXQISpYOY6CRo6ZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2331 12th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819058,
+               "lng" : -73.95919600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c0804ffa7931ce51a6b595c9324d63f1e46433a",
+         "name" : "2000 Auto Electric Co",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ4S-0J2j2wokRqVy-JKxnhfI",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAK6CKzRPzrEgBs7HBmF0BI2mzD4JXM2VCC2Xh8dm5YGRV96A9LLQk9-vsTQp1LuVvzHAnlvOUpoLbMHUbHUUH8P1C3LHI0M6PO0z6MUBrTMUmuyhQ84LIS4Df3jX0eIPGhMFE9S9BepnqyJ8LTrOs_M4Q_JECO0Vz0Y_uM3mL6XJEhA7AKfrD-XCsCAqC3OvzdE-GhQa8KAILmnaUm9pna4j1Lc3sXe1WQ",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "2315 12th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821185,
+               "lng" : -73.957143
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fb46d8a5457d552a271f5a460bc007746fd65c97",
+         "name" : "Dorothy Day Early Childhood",
+         "place_id" : "ChIJG4oKzmf2wokRof0uJd71tic",
+         "reference" : "CoQBfAAAACgDEuhxY_FqTzPjj7vYY1v1e8Pl_kVcgVIdnDg-e5yO8cnFKPVNaqkPx1ec1o9bXj3NpRvOIAxqr75mALeX4TpCoRLfHMnNYOMHnDxyFL_MxO7-2iEHHn0hbDyLne8FgGsXevOgwvzK6l_AZ18zL8u-9Cam8aQRONYFx6fh1qNmEhAsWOvVsIIKDoMUhy7D_T1EGhSjzWGhEc-WqCy3p1sGTLQc5DU8Cw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "583 Riverside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818577,
+               "lng" : -73.955011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6ff177e69dbae3ffb467964f68f99a752ef35c2e",
+         "name" : "Prestige Automotive Corporation.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 519,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzSENPn2z_dw1xmW1vUAovOH268PCnMlLObtlB57R17rHZ-JzJwWdlCiF81pL0tZLYRNmnS_134F-qRbDUOVvnzqq7zV-WUgT2uJFs2CacP91urUN4GUpEA3Bw_QTX8vMHnGltRHGiDqtK5jDbpdnxxIQhFpePq_-h09vJsri-stM2BoUityJYByvJswwMDaYhyU45qV7NNQ",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJ9RA16Gj2wokR55taTWsEo78",
+         "rating" : 4.9,
+         "reference" : "CpQBggAAAJ25ktzSOCWzEjJN8i9GJjNfUnWlQiaK5cg96xFdzpeMGGjhnrbOxMzLBhH-zGjPyHXQHrEqaLwmACCA8juFUogsU6tojxxToKR-UJbJKtMvYIRJTsn0Yg3F75xuOYV1ULh40MDfTktoeiE41jBwKDb2MusnkzBaaLIxLy59yhvIEz17zZ61ZK7dfGgztiRBnRIQcJ2YSmJNqcJO0s1AVT1GyhoUzgzKWVJN7jBoQE4dNOhzSQ0TUgU",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "547 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818219,
+               "lng" : -73.955603
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2bea16bb0f8a92e3f59423534dd373f6c00388fc",
+         "name" : "New York City Housing Development",
+         "place_id" : "ChIJYQUl5mj2wokR2w3Q9AVrC_U",
+         "reference" : "CpQBgwAAABjpiDCZKekaUlFhcwnobkRGkOzpef6yo7lgbymSFj5_l9TiknkN1Bt0BM0K29hguTC_Yth-5IYooxVj8PgE5XjGNcKwwhD2w2SLj3PMGpBVQIiaEmQVxqTQJF4ll18NlT6Qknx1y_XlBtniOC7h-IbW2yO8c3yWL9SS1xIav12VUUmvOfkcgFDOO5srXPwDJBIQrcf3wM0ZyqYHDU1Px9lqMRoUd4z_G7AswxZwWY_bD9QEOFvtuXA",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "94 Old Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81833,
+               "lng" : -73.95735500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c845b493bd2f2dd3cace73f60a53d976b1ba3e56",
+         "name" : "E E Cruz & Co",
+         "place_id" : "ChIJR4-FsWn2wokRIhJpfjsHYLE",
+         "reference" : "CnRvAAAATUvdVj--wNzYSQriFyHcjHKocLpARVeIggP-y-x-J-hjAlXlaaLy6mB1LTZsHP1T07oiqCif-i2AoEhswmvpxG-OJkjcoJxYDXOl8O9BI5EDVOImKbiqOxJDzeEVe8eEFYsd_nYEhtyWnFmmN0vIWhIQtxK4_Jb5miJoPUvPRqu84xoU-CMei02VHXTta_QEk6XX0Z0uums",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "608 West 132nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820416,
+               "lng" : -73.955209
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "88ac112bac64123dbcb15d573ef7e274bffcd0df",
+         "name" : "Wallys Deli",
+         "place_id" : "ChIJpe5wH2b2wokRjzJ4fQjAyiQ",
+         "rating" : 4.2,
+         "reference" : "CnRsAAAA9TTFR6RXZt0S1p-Bh6WuFZ_0rFaZwEjpCNLpbbL3KyA-fvyMmOZ4kz4SIO7DGSUJvYt_uR-Q9ckvk8g1XEGofMQ7Vw7erZ1pP0oUbwZwkKxZ6t3_9mWZqR47AfL444SxGGbz4wbuByNReG6jMAFpNxIQEuanMH-1iz4ei4LtTDptGBoUvP_v_IIUJkzTsn2sM4qVUFKlIFA",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "3345 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAJaO6XswPyZ41p_gllfeYRamXa0AJRT3rUP-atdvfRiXAVF7j5-MiwEKnLeeRaQa5Tfd9brH4OmS30E-RNDMPQAp09E70MZGCCDtquWs5wswz7j53rjCz-HLwSxQikbu2I8i8W_hfmaR72FuOmQivJiPGdqm9DEVX6RfteXUiq7P7gBltgyayByhBuLhoEtmUhIQyrnCADVoKX0KDNTZoW_-sBoUQqDBCzrPj7o4FRMvSGrQnC8t1_g",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

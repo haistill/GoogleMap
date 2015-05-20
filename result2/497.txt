@@ -1,0 +1,469 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAANlQek8gyZ3pvYWAsJfKjNL0kLzG1Nwx0eVX-9LI3q9J9-iq_CXlA7eMejNqeOWydsjJq8wfptj-Sb0mZe1AP-McwjSRtlApOqOPXvFIV5AuZfYH3GKLCMlpDh5QOnOn-OYg2fx9GLFeI5Hf1R6yQEVvVCsvR82tswvo3X6ZItvZWe2yLoG0VX9bVqR8ccjLPOJMbncF_metnIHeTt5M4XN3HDSdnty3oDq4fg6ovfmWRQAOMFbc45GZetmtHP3yO6Patra8Iiuc-Qpr0w1-wU3m0KY7im7lMrhPXjYrgYNT_yd7b-1DXUYAMhDYViFHxxIQE9mTjtnk_qXgsqRXDacD8RoUVHHTak5lea8xi0W8SUSG8bSvhgI",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkgAAAMbYdePZa0VYyjYPDSizFhgk3ENoMpO2B-Uc-qfxH7vgQmnri5OedAsoQu_OIM_HeH-Huno7o8dwdu9uTyCV6hdSY0LEFnyvD7cp5wqXTCjS04O8CU0qUkNzTgPBJGi2XYa3FY2wfIMHey0Zgq3g-0m9dK-UxC02_diLWvn5hnWIo8jyi8aJNcJ3Iamt8UXOXkZlIOw9hRFVsLwJ1qti6zMSECY-VVzHaBPPNsh_wrbrajQaFPPswAsklVILMF-Nvjf-wrITLuRS",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811402,
+               "lng" : -73.96181
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "d7b280609ea9e6ff51e013c448dc259b7b2f6ed4",
+         "name" : "Union Theological Seminary",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 550,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkXzVJuuRTsX-F31G787StBBCDvQAbQPu9ONKvuMgSAjfiJ515wc8LeU90BN94jCX4tYBxpxPA3EpfykClQv-an9c3Vp9GHE4VZxAFI-BEeNeO6mGJ9WLpZl342j2gjFsuQ-XSKRTpyr62Iq4Fhv5fBIQDR_6YLK_xuSR_UbDWUEoChoU7Cr1MH3IV5zczEllZ7jgtzf0vP8",
+               "width" : 366
+            }
+         ],
+         "place_id" : "ChIJv4lyiD_2wokRd7N2ekLx6cw",
+         "rating" : 4.7,
+         "reference" : "CoQBfAAAAD6dEB5_fAWHALqTy_JLmVeuC-PUjdYCu4pwl7_Kt_cU5xxXHlBWw4Y-oeUKfrhY9TzuFNxIcDcCX3Yb0L2Z0MYEh6DFM1Nh4YrPXTIoPcmhJtBcMh9F2s-eLZ29pVWhPavuQFV8BBk21UwARwIyMhvzOTDYuCvPvSKt6d0xDO4VEhDBo9RxYlAGdSWHUs2UTtBHGhSa7FNroO4KgO9fcdktzdkMsLWRBw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "3041 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810327,
+               "lng" : -73.960391
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "4e1a0c53a231ddbea7891835bb1ff7e518fd2305",
+         "name" : "Teachers College Columbia University",
+         "place_id" : "ChIJH6IcYRX2wokRrejt9S1ri1s",
+         "rating" : 4.7,
+         "reference" : "CpQBhQAAACN4v6KVb1u3wJOIW7mNlo0JVFyyGpOC_mqzqkflOisSWxOQr88AHFl3PrIk0AI9oGEcujrKQmoMnHfeNPYC01QCAyzH0ISJW0mzpSffmmjcqrJeOD5AV9dVHmXhX61YdizncwW4i5slCP_iZazx2Dp_m1BwifwQxEXzCVVinhxJbQp0YpIIxEFP0xrXJ6TbJBIQRKx3iZ7TAC5vRoKoFBRgtRoUxgymgkIHyVju1ck22KVvhO_6xQg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "525 West 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811899,
+               "lng" : -73.960612
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3622f787be3c7f8d32a79a589f1e72cf4780b97a",
+         "name" : "The Jewish Theological Seminary",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjStpEkD2wokRyO530lzHo44",
+         "reference" : "CpQBgQAAAIhHqua5Zdw6GsUnASQ6fA8gZSnW-6NZZjugeXEG5XDiMuumuuV72TnpNYYj1GJMknpqElSWLnBoJmsogv-i0V9RD0jiVK45AW3TH9Wrf4xbmbdSEXKD8RONiUvG6MYefPSKbtbh6wQsSWw3FPbpJWhHrukMXPtXEvnkmSQYNAp-KZmc4S8A9ACqPcIOn7JftxIQ7A8Z2g7Er059Tcf2z7kIHBoUzqVJosv0g6kpNlampCu7Raq7Osc",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "3080 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809007,
+               "lng" : -73.96132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4bee7f74de1e1fe138cfe67ef55f69028acc5f54",
+         "name" : "Columbia Business School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJM3xttD_2wokRocgNJrBZT_g",
+         "reference" : "CoQBegAAALmqrgbc074hERl4ntpy1AXMDGsWMFbeTA2nK5dqCQzse5j7wNjJ_LyIQrSBi0Y_ThqNuVZX98J-JiiXwJ4jNgGHb9RvcUvBEzeT6DDtbatfx02I48Nz1pfdY4NWGcw9giGsoZOL_jGb7ioPRXhQGYWcGvqn1d3gCLMKcQfnSHVzEhAyOD5pU9H-p1L07R6hko2MGhStDI_7RV6nG7zQdKckZDPD4D6j6g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "3022 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811115,
+               "lng" : -73.96088
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f44233e87397553c09e5d10484b495c8697037e0",
+         "name" : "Corpus Christi Catholic Church",
+         "place_id" : "ChIJOYt39j_2wokRNdU0LC4hlT0",
+         "reference" : "CoQBfwAAAGPaTcaHodG4YNEA5cFQBghXpWKINt3tWHeboenjaWGxsV18w9QrPnvzJgIZ6iHmciz7T0JqwRetkY_p_ihgvTe5QVHMxKtQ1DDPOIPq4jAxkUhffWJG2tUWaypLvptP6G5Z5UsVt0-U9Ms4yqEX-BsDdQFt4X2CFhKY5UYoD6cIEhD3dPOtf4OijwIMBq74e0aUGhT8htaC43fHzSMDaGPWf8yCv8tyXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "529 West 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811348,
+               "lng" : -73.96187399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "ee0d273f86cb3d73e30a9887a515866382b987d3",
+         "name" : "The Burke Library",
+         "place_id" : "ChIJtStxhz_2wokRVTy0xVSCgWE",
+         "reference" : "CoQBcgAAAMcJz-HIWJRhgBXLq-jOUuAM65Y-iI4CTmz71VambH3dvec8XQx2WcarApKbkLS7KndVWs-7TTvceiLHTMomEZLoHc4wJCOkE7uMQwriXSG-gJ13YU62KvplCjy1SMhn-2X9_RHwkR2VJKV6eIb6et-5NRoP8OO_sAiXdhXgCzw9EhAh1vHfqkoY4btUhz-s4wdzGhTQCc6f8U1Z7GtYPIcQs-s9uZuaNg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "3041, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810171,
+               "lng" : -73.958179
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "699d89afa1905b0738ac684b6c3a540f8a4a5119",
+         "name" : "Columbia University School of Social Work",
+         "place_id" : "ChIJpyM4XbWXwokRmVk5CLj2mU8",
+         "reference" : "CpQBigAAAA64j2JLuMispawLwh60EJAUHoNDMdN4yXdzxxph8fsYg3qghU3HP2sSYMjoJ742TwwmxjxSykMm8e6aySCH9R19Nle2Z4Ot6vxC4SJxijbgXey4GTn1mPp6DFwYZbSN-V7c-a3Hx2L6jFuLT_j83Iet40ffEYPO1t1xDlS62Ec-_4HIbmvWCmarTekM_RkrJxIQIHQjUWft-DQaexgfU-pfhhoUjFqxvh8q4xLeU4QT1BKgDCHkSQk",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1255 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808811,
+               "lng" : -73.959306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4510cf580dbebde42b09a21e457ae1be1a32847b",
+         "name" : "Amsterdam",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJT_RtfRX2wokRy-4L-C6idqY",
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "CnRrAAAA8YrUv1MPovDS0DEbSd2ENFWWTyk1ikXTUFCDT0wDXSA1xOeRS0tXHDFoQo--ZNfKQgCxyqic3HxHEIcH8gxruxWtCniPC_PaKkP-M2WldEobbhSxo6fadOwdiCLyoME3SvuVasAo-DQHUu_wEBjXrRIQuwn18FFGLsO8-ejd2jvVJxoU0SMnJzLIXJROxOB04CY3Hf44-1I",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1207 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811267,
+               "lng" : -73.958247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f09d03330b70484bfdd14076db3bcae53bb66d61",
+         "name" : "Kitchenette",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1063,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAGUWuuRhbYKSi6wYQyphz44gBir-avU2ZxAUu9U4s2oglkTFxhvMqOjhPD-MAEEPUNa6JaYCpMF3tSY1uVXAcLq9imzwuzqUKPS3r3rr10Y2dgOxvJqKpjZGB5my35Vew-ScCqonZGibM9F_mJlGBMBIQQZra9rPl8AGqGSTQGb3ljRoUJNnelO8rcLQkuy9cPDDiRGtOmhQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJp1vRyWr2wokRryCc4slEuOU",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRtAAAAOaNB2NWmy3_1EBkDWoWnUOj5CT1zCZJR8AhyPOvFlBSVzQs8UwlXuqTXYpYFmifDSrdiu_EK7NEAPcDaSFzjkVRMiM1T2eb5bl48ducRsijLONqGWF-E2I9y-e3aMaXDtz5RNHXijtjbqbgwYukiHhIQDEV1xAWtKYQ3InrXpCcwRBoUdd3T5HwnPdaZwP-B-fR7uX6GAI8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "1272 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812054,
+               "lng" : -73.960522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "6bd3867a2d5ee3b6ed1a05445a9f2f8721f7bb17",
+         "name" : "Library of The Jewish Theological Seminary",
+         "place_id" : "ChIJbRogEkD2wokRkD6wneNDoKw",
+         "reference" : "CpQBjAAAABtVTImYIEDtzteMuYT9Y0Xib3sDU9iseilcoqpHnPJS8F2Yv77iZr7kRZIz9AKRSXG1PWyC9ZlZM9zC78-_YyEzVR7a3Cr6lqRTBZpiIxW-hn8JNrOWpLpCSVqD3g-Btrv-t_0qbtH9qYcKcECHFW-FcRZzZDxzh8cKWgqY6WemHqI5GXfH6AICP7UszypbNRIQ7M-T9dbGM1TnKRcwdfr9XhoUhk7xWoLDZA-Wj205dUxySQHkEow",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "3080, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811581,
+               "lng" : -73.957913
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "68097db05431b7f83855a982b9b62f1e9984883f",
+         "name" : "Nikko Asian Fusion Restaurant Hibachi Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUyUSwl1g9FJ83iK_38AxMYk7TELzs3ROSmc2KnOHswBwoJzRj8CzYC_lDOh0Ria5u9iDnADlF1CETFxwjdTH94wtyD0R0M9dvyT-o3oVrxDY7Y_CqQF8A2FUUyrye6NFtTbwXSIQ0IPG8654DSZqdxIQgg3hS8PDZGZW1-8hBGtOuhoU6yvrM86_xd3JDmzkbJ7hwHqc0J0",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJu3iXyGr2wokR29wWAqLfn8Q",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CpQBjQAAADKIUoEgGX-Am7stP9okWbhJ6cYWyFlxOXxeNEjW4MzWuXv0SMtpJ85Z8NS8l0xx7VEJjMZX4WGn4DAANabkOGSCuigF3jcpaIhUTLPtAcm_zj_N33iCFLjn0DE1vwKhT5-QP3nnmBg6zxKO09NYTrJNor_d6KM4hcSYhapmYQpUy0pI4XpWXgkMRaiD9IwsqxIQGktGqkDnWbgl3rvWJReF7BoUt_x5wODsxAqTnVbjKyax7mYsBTg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1280 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809743,
+               "lng" : -73.958477
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "91cc9ec4f0932cd15ca3fe58cb46b9829e5fe584",
+         "name" : "Massawa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIgi_fRw0aeiCTyeFih03IATFwX6UPn18dHqBaGXJxngJFzMGBcpiE6etZemZaxwQxDNdlpXsSTb8C_aZFHI61GXCcZnyWTPOsToJtmHbvVGfNgZ6Oq9eamvJ7HX9HAVOe6NIyX8X1zg433QxnpKuOhIQ_dBE0YMvFbQS3sBk64pn3xoU9DY9Bok3DhwyjvzgA9YIYGwnXP4",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJizsMQxX2wokRSD5_pzmhaYg",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAJsq-tVBwxc9H5XriA6W2uj2EX4JM-m7-nW-s932957LG1URi3JpugAh4J0cf9oTjWlCm-68cgMkxkgAKV2Gn6Hgg5btV5j0H8bySoW3gzD60pXmL92wWwqnPX1F7wyf0OnVCyw2dXrZQ_SccFAMHghIQzZyVSSKGGzM2eVrvtxgwwRoUykGzGGu3ZtN1SmqhkT9Utzrp5kE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1239 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81092,
+               "lng" : -73.958364
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4610a39c4341bf926caa941e3a5e8cec9441cb5d",
+         "name" : "Max Caffe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeQAAAPVouNG-I0oFcNlpRGAGXhapTdoB_v9QabsB-j5Ss0WJ9BLKEduRURTHniGJ5CbXRfz90ksavM7d69zJvev5EUMs52rLVqdjzGLVL-l2dPIdj9l54TTP2OSqG-Wz64soficDIdp0vVo2q2SMIha3B93AjHct5zMlQTfQaKuJ69W0EhD5EqlmaL-P7O5LuS2QiHWLGhSE4Qk566y5PUKLTLVoaAlc7NgXrg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5bu6tGr2wokRW8xshG2qBvs",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRrAAAAvGeOOtizSIt_ADs-kb9CvVkcah4c7rJ3iSl-sS5I76LQ3AjztBmIAPJyV7dnH1pZc_B2sEdfUtx4XFuVO58WdjuJJBvudbBk42cx-C6XkRmP6dPr5T-cRUnKV4Gz-FcYllvAxtKbtwpv0Wv3RT2SgRIQza06ZZtK1k_BLJsEGgXJwxoURdCF_R-6byP1r29tiyhmvCQNsDM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1262 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809437,
+               "lng" : -73.95993900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5671663c7b226f73a1254fcd4883e3050c6c6f29",
+         "name" : "Fu Foundation School of Engineering and Applied Science",
+         "place_id" : "ChIJzQ4W2z_2wokRvMpX4S8Jme0",
+         "rating" : 4.8,
+         "reference" : "CqQBmgAAAA-O4wIvlGCumsYuv0_tTpk3UkGRiuvvkHezHWy2sLCtN9HeDmPJtDhQ01LKTVePRK5stvV-Fff1DUCTEaXy2xYBEn-ICgWbVKVJuPMh5GAUcQLFUPbb4oopuFf_Z8f4ALtrM4lJmsJjZjQBMAI76vWuGZuca0u0DHWPKVNzXtG4Mtu8rreEIVot2YuavIR74aQni9nnxCp0GnKaSj8ksewSEJsMKAKs8ZwAGDF3CVU_Vm4aFC3nEOy3QIZWfuDGiHw_aW-_99W0",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "500 West 120th Street #510, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808977,
+               "lng" : -73.95926799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6eb99a760a792dd916d425da7ae38f758cbab8f",
+         "name" : "Subsconscious",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA36pfB2x6HsuBigQjiGPRW0lb4RJM-4SoKI1Qnu1PYcuXKY1u1-D9GAy8ynspdavohBUFcIiHz8doLTEVkOzx5o8oPgWw5vC1jnw5mlO8v7Hl0DCz26xSEQa6i5dx0JUutB82_-pZxsPOf48AUTP4thIQPlzlTlz9DxoemNbLhYWgQRoUxggv6KFtZa6GbuAzF4x5Dbf70q0",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJHfctfRX2wokRqV5AgKdsCKw",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CnRvAAAA_znVfGvZmnFhgl8p_KQgYSqPoirI7cru8t10hhx_amF1qMK5W7QfdwvEOz_xefcrIaHLmS0GQh3T7Kt0Pzy62HF6HtYPkYO3K6WGrXkQ_46noSOgxKjiiwSyjbIwDuPBLzVNI0nisz3zKHPNnDCsJBIQVdACOI6SfsKUVCnZpCS0fRoUmM7f7QBLxoCe1G2G2HmAhgTGY-c",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "1213 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812154,
+               "lng" : -73.96046200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "59f0bcfe537dd6f2a13fae27f2f4a16a19c41152",
+         "name" : "Camp Ramah",
+         "place_id" : "ChIJHaUdG0D2wokRZOEW472SC60",
+         "reference" : "CnRsAAAA0EndhZrF8-yzGED2HX7MLGquJWUJLhREU6-ueK8KIrNeHLJYq4vXNXQrm8AsFGFuE6hJB_bxckei9by8NnyMo65pwPzoFe4Ic5EnhItrm8yOeC7vvRbBzoakdR2OyRcBGZWX4o_LTer74RfQn0EL2hIQtMSfacUHYHXXDto98EzLpRoUWicO2zej5jxalpNagq-1bF8PAwg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3080 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809399,
+               "lng" : -73.958788
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2b7bf09c6aee649e104c9260c56e4dfea0c75750",
+         "name" : "Apple Tree Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ22pZZhX2wokR6_-XFNOPUiE",
+         "rating" : 3.6,
+         "reference" : "CoQBdwAAAF1KDQUbgk7cen2aFS_6IOYRIuRUKq5v4gAgfyamNqtEcinEzPR21QSg38Cg980mqzxsnq_TsmvpjxpHaifnA3IieIp_DlHkVMiMnpL7ZXvzqCGyy4mt5kvFoCB88oP275KAdHV-xzMm5JGawjNx-Bi3sVSKcuQrus2lel41m1TIEhBiIQ-JTrKKSTlxLQ564ewQGhRckgX88ijlLh8VwQEWNvXLtcBd3A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "atm",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "finance",
+            "establishment"
+         ],
+         "vicinity" : "1225 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81006,
+               "lng" : -73.96030500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "29e9ddc9fd8b8a698982651c82619b1d5e40be42",
+         "name" : "Dr. Karin B. Wexler, Ph.D.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJH6IcYRX2wokRVVDb3kzlB1E",
+         "reference" : "CoQBewAAAHQ2GTvdyTPPQWro06t4crgVg1Al8NGlUH6uQ1DXIaiZRuUX5vFNdXBbCZiQSlBw7N68sOSPIkb9NfOUv5qevTz1kjrXcxc5Ytoa1feOuy7KRUSOFGdD5QSgaUv957ylbGSewsgK7ewEGWGLgvxgGwB1rpzNur0gKHfmzll4GfyeEhCMrQIoJys7dmj16pu_i1goGhTVo9X0QUY3y51Kdc2Cotz-TLQEFA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "525 West 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAM5D6y4fW9VscBmbji18Xji_Th1Y2i1weirOT7BH0as-8kZNkz3RH9Q6oYytuu6RCh-AT7JpHO6EFsUVqXBSM2YN0cWpUQe8MwzsNU9u-nI8mMBnxUNOb5X3XmWqywyM1AiF6ZfsSwEtb05P2fmgFVCv69IJ_LDHlVk9bLsaYOoKYKPDodhbIIxHLNLjkopcABIQVhi29vKgEvmubbgutDyv7RoUvrCrOL3vOKk8aRbPLpVp7l269Nk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

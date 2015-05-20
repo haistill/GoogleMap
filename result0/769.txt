@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAAHXl-mPa2DabrPIYl500RpNDfnaSFZUNvWFheh0kOFZ0I-wOpa8X7z9azP5T_OG6PqbTztR2LdjSuqFYD-2M2Dz61aPIRd77Qq_tTSvxhihAk2V_aDkF4RVP2YaMNgTEdpehRblZtS7iDT7VWWnhwkZ8ABRY4_x6hzm4p52wE7OcVy_rknXMAKJQRVUVru2Q6RIQ0sEvZ5vMcrZwFL9gNJ1JDhoUtMcsexvC99FFiURqP7q3ODH90ZY",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7127837,
+               "lng" : -74.0059413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.91525559999999,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4959961,
+                  "lng" : -74.2590879
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+         "name" : "New York",
+         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "reference" : "CoQBfQAAAMWCOY2cSavHq1-zP9FgUBpu2AGQzfy_9iAIsQEzNN69DINIUcqSQkLO9IReRQQuabPl_cTZLw2eLFL_XdAjoX9ucQs-J0GlEiNdzBPHknFhMnZS8KrRfeH0WIbMNzC7vBrd37MdQQcji6EhjDESvoZz0-8_rI_E07iGFXKdc0WDEhDzBNO79rHxXXahX2pxTrgsGhRWJvuKp6Yvsi2QzSqi_NTolD4xAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "New York"
+      }
+   ],
+   "status" : "OK"
+}

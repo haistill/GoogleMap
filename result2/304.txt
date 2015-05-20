@@ -1,0 +1,541 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJIUKZYT16_7kcJtjGP5Ay_oRMNjLZFHkSgZKgjmOqGaCTE4mnMZiEEBd-43lzdvfn4fvgdq55m18Y83TIdq2zt1RrCx2LMrHHMo_uVbNWVfIvBggVOPhl8sflXRFGUM1qdA2O6KyKu8rCvbEKgU_azbweBKtYGxbigqdr191QVzZW8zwkoayfCKZUAQj5XLF9xK103R6egRHZpWUtR6_uTDd3Qq4gLfin5twcSnsaCVn501cOlKx_txRigeeWbGlZtKMEzidYyz7o15QPw3Lv1Mv3pptyhpJZNfrXGUS0-UOs33oHrggwSd6tYbe0ABhhIQB1NA0Hv6o40VUv4kImF4hhoU-A_SooS9pkPq_O9y_IRP3euUn70",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAD1Ul-1TM8R5hH8hw6GarZqhoWsE02cGkdG_xC9F_rTYnRifJIbL2WCi_uza7-sj8tgs0yQrSNZ2-P6RkHGRmwMP6iUFqgNznayaML1J4_3C5UdavCwnyU9cizdx8o7nWPAIYca-GgBCL4b03QU9XQaGjdHlWv6FlPchzgPaaQMfv85EZ3BNB13Wp7o3lWy0xRIQrEQVWLhaNR6PnXxqvQD-vxoUx-ivMAyeAHv_DHg0TXAZvtGSD84",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802504,
+               "lng" : -73.950309
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9908612b10048082412b4826e7e65f99cafa193d",
+         "name" : "Amy Ruth's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA0DZyE-T7PISth_1Afz9q-gF4zutS10yT2CxdiRRgYDLIy-Gy3uZAcd2pLgogFTmkSybLBr0BFgyD4bKKih5yYvE1_VZByNrleDLDiCDjTaNuObKHzTRAFS1enh8VkC6qn6YeILn-MpgolDcEFZAMkxIQW8aVedhJQtsSjfbbqFuxVhoUC9njQt1TmNoalqEnjjFZjK7rXrA",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJ7V-ZqxH2wokRwaES4IMqwQU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAAoN2xolpncD2hLph5NPhubopQhn5rG_T1GZk6NL4qYN1TVxBOCpylWwi-4_RwUQniotzkzbI8hvYNR9i-hWf8t2IPgLB7hbI1bOG8d6SR-n0PW7xrBod3em0TRdkmFDh0jaFqAJyEA1EFzVfZL9b-RBIQhXB2jMdxvtcylFFrQoQxexoUNoERQO1Ua1eM-qr7oo9rdmjLYZI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "113 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802951,
+               "lng" : -73.949406
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25a9315e8ac29af08ce5553202d6507b72cdc052",
+         "name" : "Wells Fargo Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAytSSS9W1OeT_d_JSlq7-kfT-nni_a0p26qlCSh7dqHM6dw_Cv0MvXRvy7rjaLlLJY5WItQmRsExmS_msfchKXCvD5thknqGtJ9ql6MD7ePzmMeA3lzgSF7HwTCz0HA53kHy8PciHjMqYdpN88Lz72xIQ9zQ1Hd7rgkw5XtwCyoP1xBoUWbtc_49S1oGdqawQIpvv2oCU4yI",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJa3OtuRH2wokRiZfT4cw3jnw",
+         "rating" : 3.3,
+         "reference" : "CoQBcQAAADZisYjYnDE36Ih-WC1bg9Dlsu9RT0fzUqIZd_-dXwR1gygMMkSWLDER68o8xxCfWz6N2OjkdZRbFtgdKD7vyyFv2gNRn6L917DCLAiWLExMFEY30auKfjecMMUZ6h-SvrtNBf2ii6PFIc5X1G7kKO7PPQcenC6B9luc9Vazmd2ZEhA5_n7CWAxA7jj47zXXhTiQGhQpsnTMO86A44iJDMbmG2qzTL3B9g",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "143 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801473,
+               "lng" : -73.94968799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "2b14891bcb069dc25b6fd7e1792855a6d4cec957",
+         "name" : "Harlem Heritage Tours",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 285,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA98999i2Fes8M1VekjycD36nnhRlD_7d1VO3smAxXI1PvK7mltaoLs9A5dANXdJaQ2EXF48Mv2Ok-RA5nmTS4uEbLVIjTa9UkPY2_LKZzMelAXyvxcefZyvDqQ1Z5yJ5o7oKUG261SWAfPSDSRQPLzRIQTNEcxtavY29TZuRsHJJoqBoUeKPOjzuF1YhEiXuso5SICeU1mKs",
+               "width" : 460
+            }
+         ],
+         "place_id" : "ChIJmSKXRRD2wokR8MEnxPDuGMA",
+         "rating" : 4.7,
+         "reference" : "CoQBdwAAAOowbT74r7Evv3ck0McmhsyPGdyaD5E6XQDKmi6pGBGT4E-TDb3HHMFuyZckRHssRNWvME3gwiz5FYtJkOcmy2KdtEOT92O51oeNNn6aHofbhfJMfJkoPwofyBioBQFY00BYQXngsfNSOcl2xDPTrkXUZy93w13d4AP33iQ_sYw_EhBZTlegzIDuYy5Vfy6HgNRAGhSMCesWloYS04Iznko5wFC3sfKkpw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "104 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802569,
+               "lng" : -73.951483
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "8bc99cb76e82bad77a04ee076b5f77e9e86fafa1",
+         "name" : "Canaan Baptist Church of Christ",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA-taHfFvvdon1v7xznnbUrmMbiCInxO2ly8mP3J3VeYKAEUGFQDdRwmmEwLBb7qbNxOxTnSCp3502tKQvBHcdn4aTF5hcbpwzQB0nUSTUbLucp4wa4NtIYoETPDweZGgty7CFD6M7g4z9gw27_A1vzBIQFHVDWqj_758IF3zgolJbXBoUuHtSj-G22sWhrLmx4t-bvnpe7Tc",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHUtN5RD2wokRfed8ihFv-Tc",
+         "reference" : "CoQBgAAAABAn3wS2kUAUQWM6OcNcNWxAIPm4ScYo2rkMzrNxdty6UNrcRvb4E_jzpP5driSPwvze-ieG7egsgCDTAdxMJcWacovOmaSEtNrxtEZPTU-EomguQl71iUKW2SirqTh9bZzR1vdgUlOg-sdTAUcfux5Reo4DH33K0p_t1TULh-hpEhBcJSc-RwSYLK0if5rX9NwkGhQqPC_JdXnlQeq_BlAKVpeHuuOShg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "132 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800071,
+               "lng" : -73.951527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1a67745ba2ffedbea62b886d6cd20a80f4dd9787",
+         "name" : "BLACK INK TATTOO STUDIO",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuxI0i5gaTu8SJHswBIO348f_W7xpJs-B5GAXUjJVDCaK7w1nSlj1hcZxSh9cJiXVLEHyo9Am9m-mmGdR0zCkvsicFqEuGb7_DqQTuHmqZrDLWvLqludPVdONykVePwIRPYjjuWvL1kqe-H8ZXtUcixIQRBRS7mUW_Hd3akRUo5PNRBoUVIS8VTsjnZGQAfiDFuZ5BxAIbAo",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJne6eghD2wokRxu_OKnBKjd8",
+         "rating" : 4.3,
+         "reference" : "CoQBeQAAAAj8SxhJRyjHztJqtrEKfAHzlgPJINqlQ4JItoQBdsFJC77bsHrgDm4ms59nxMHfkrGCQVz-YrnUwkrBFm50br_duD3T_nMbTkj08k1LapGBPyDsqg460XUP_z1RNQD_jC6H6qWphj05GvVvx7iOu_Enkq_1jlVC7tGsp68VkaYpEhBnQKdgzu_HXz-FEqNNzeJaGhRpsGOY0_zHimWgCFKA5cwOQn_0Aw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "55 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803431,
+               "lng" : -73.94930100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d1ad038cd15610238ac80ad4caa688ae12a930d8",
+         "name" : "102Brownstone",
+         "place_id" : "ChIJbXDMvxH2wokR_HZ0BIX-qiM",
+         "reference" : "CnRuAAAAkFWzmJRV1S7QlgSKjBOUPX6imVsBY-cL4OO90VG8Y3IMBmS0AygnUIJz1b8eQPfTqTuljjIyIg8R5AOB3wG1G4VljQjRqKzlIs6xXwaaOlcrFuybe_iEDpz6Jo4m0ieDR0qTKQyJ7IskdaWrXIZ0NxIQJz6iFp5oZmMvgCyUijrZPBoUnUhjNsMm7sQ_dhP54BsAj3DJzC4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "102 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80264,
+               "lng" : -73.949654
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb6c84b63c2f8a77a1dae841113614ba14cd880d",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEgnEAPX2DHOu78-NR2TKyC67Sgt4IGEgXpZqvSALqT6aCuAIovj9RTxzLUGbeqti7LMe02KLHsdA1YxiBtQh7diVAS5YzVlFHw9UmkKrtjT6B_KDL9dv63lZDwcPVc9e836xKBOg9DmVnVNZ97NL7hIQTTzziP2RzNaOc6KED13CaBoUFMrr1u1DWT-t1jKs0e3hn4BuXFU",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJJ_K8sRH2wokRMatltPrfUVA",
+         "reference" : "CnRwAAAAtEkb604gQcStA8TQ31zXemZ6bso-puRGULXhCnPrCaSPVFI6fCVwLzauC-rDoy5CpRXWL2wj7yCASJh60hdGbMveyaMVcP4gnr6J_CDeYg5LPvSG5vz4ff-CTRo5fieBUKRCxQAy4hqymtYwCKouchIQwUFJgD4VHMb8CdbihhGPSxoUMMEoxNzQpx_JUNZusdJ_vkm4fc4",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "106 West 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800114,
+               "lng" : -73.951458
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d65ba199a5567ae2d3563e424f99f20ad6b930e9",
+         "name" : "Lolita's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqWXkRTw6inGlfpKH5JIJGiSeKofuuBJBbRWqniLlXNrRpCpaGKDQd62WG2GQWTKr2H5k6LwEazMRwT9JnDOTSPotslC-knXswMNW4HqJN4xPnZ-2KU4thtrphS8xq1bBpLUv9U7cQDyHZg7Q-NTmdBIQSVh09m7OTCoBR_b0DAsGGRoUUdjI_eRuiy1--HDbMXF1JZNexTo",
+               "width" : 2091
+            }
+         ],
+         "place_id" : "ChIJH2XQghD2wokR6orpB9Ja_IE",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAARbarz9x8OBJnSyZemlGQZyj_ufM0L-vhB5VFltCIq-3AAfFSouJJ1rsqcMUYDxdNZU9CgW9258-O3rGA1ejFEBhvW1KhcuBjloU0SyoeLUyBSIG5ZaJi-TuXwCnfaZyPwxOESIIH2BaCVZ_6ZjKbsRIQa4_8XZIDW_BA0Py5HFfTuRoUw5yOGFZwihXU-16vVl9ozdemERk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "57 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802951,
+               "lng" : -73.94830399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "208a61258f34c02d5dab1b74a3b282becf460c44",
+         "name" : "Success Academy Harlem 1",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr3mbMA72wokR0LFnz9Gew9g",
+         "rating" : 4.2,
+         "reference" : "CoQBegAAALEp4m_3vaYrvsroyXEmPgoGO65TUcMfUtc70bhp0BfK1kUiCjl7n8zNc8UhnyURPVRX8NycJcV36MoifiJXeUZzzJ1mvfcdaB4Ylk9TdlfaKyHBYRAdCo7poXZJ9sfaJzie_C_MhSrziCcV0OJ-QsE0GXmSpWhfXKoyGrvOPpymEhA1K3OkOaHOVILsw-dImrW4GhQdRWWk9-Lb8rr6gWBVK8IbMXiwTw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "34 West 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802074,
+               "lng" : -73.94912600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "64f14ab418bb87f77ba62858d6a8a86ba9c91fe0",
+         "name" : "CVS Pharmacy - Photo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 86,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAcTNVY2YpSJRyQMpaOMHlFKCfesYBnLBRwlMxi_NL3bGIHXUU_UyEBCN5ltagl07J9gsj29MGe9N3VlU_0sjQFeL-pBBPkdZRNdkoWXTn7fbmApiY4ZlXwYLMi98Zfi7ziiXllTpo8tAH5Q3ddlCI9RIQOIdnmFjXu2Ha_Uw59PwwHxoUA-VfXPbkhT3x9LHjOdXswnXoBkM",
+               "width" : 87
+            }
+         ],
+         "place_id" : "ChIJCdBdzBH2wokRmDMJiMpGBb0",
+         "reference" : "CoQBdgAAAJOvE5qUngPqUUs2eLWAOwzgETTxyOMZ7Q6HXOOc9soHJlbsAUuTb0T_OtHqpB7ZjZS0dbmaDRIf__YMIaKjXg80-xwPceOTg_0JloY17J8fpL4PSKLesxLiCuchIHQvqrpOvOXale_PbRz6ta7d5lP2XQQ-udMqwImuLkaH2OqIEhDNzxiC56dfQFhBBS5WZ9exGhSCMLW21mkdilCwrB1eVRdEcBgXXA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "130 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802252,
+               "lng" : -73.948542
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "47decfcd2b5cc4fb9325e67418e870229f36232a",
+         "name" : "Fine Fare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAArHdO8y_oVAEayuJlRnxKNz_45EFfQby99Bzj6Ut0AjtfxDAuWueH-mWNOdFCO8BleddcO9Vw4uNr5GpXuIzlEq_DE0eCdMoIpHveHxGsHQ0attZDG3KFLmySzZkOugQWVH8ZDl9V5RVXdFyRuGVT6BIQZZ-9m98lwTUJXwQ72EdRJxoUrXpuaXWn_f89jsNt5rtxUrkv8s0",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJRV5jyhH2wokRuMhmzqHYtqc",
+         "reference" : "CoQBdwAAAJHPECqwJEgPn5Ce1Cf-B82MM0E_n5c-62crYCkJpiFxtfuvU3DWGhcKsXo-_OFy59oX2b0yFpK2nRD33YQn--Xx4HzLec_szjpTjG8fQEefdD76cuIzBRNGjTKAp9gyXvlMouvL---aIzUJbm5q0bd1iA9tcvuWRQh7_MiRoXiVEhBM-B92-F7sARQU3Hj1M915GhQnhGhsVL7HnPu_Wyb7hdxCHLi6ZA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "136 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802611,
+               "lng" : -73.948424
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6e7fc66982543d5603f703c64aba9c043ed78aad",
+         "name" : "P.S. 149 Sojourner Truth",
+         "photos" : [
+            {
+               "height" : 976,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAADJbWNRmrfJHgWXKuMHlXsHsdXBrUxGse9SNfXkFhg0Oqmc6wlFC3uQxlaHRB9iAHmHAJmwAZaDuv-zuzzLp4Upo37sW1wdA74pPnhJIrstHfMq304nlGM0V2emXu_tCEaFlMDU9Vky8hnXzEKuT_PRIQVhBHAflP9Tm8qfZU_tlICBoULB_U0WAplVZXxu6CPmQcabauJVg",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJI_A0zhH2wokR_fTzlhkXRk8",
+         "rating" : 4.2,
+         "reference" : "CoQBeQAAACmJkoAUhPTwY6BSImp13L3YJwvyVOsWn2LP0hBppAVne0vgjG2vZjy2_DN9QP41zNYxr9mj_2M_Ld69SSgzklKbjJKcguTpUOyi_luyHVvFy0lFST57uZwrr-lZhVhiC4fc_slqCyvzecEEYK1chcRouZVvXSFIfU1fp8EJkDSfEhAkgjhF2YJYUkWg1yBmiPJAGhRSada7kypZ8wUP-S4sL0aS_LqMuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "41 West 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801255,
+               "lng" : -73.949472
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5a3fab442dc10b3ba5ab0c90ad7205a1fa6d7e23",
+         "name" : "Community Healthcare Network Helen B Atkinson Health Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZV1pQRD2wokRLBES8T2Srq0",
+         "reference" : "CqQBngAAAMdXbQbs2a7n3TuhQDGItSq5sK6qTaHvA7h7s2Ae_xtQqBVmoGnm4p0uDE-gPvnZXmUTmjpG6gewSR1MYu8K6cvGoqU4UjNM--kGAf_xDTlCtjkPkkaPKf78emtnzlfyhiElmrcNJLV-Q-7u_kI7odO9WWgGdDfouvGfCuvwnOBQgnyofPyK-62lMAbnJtwMbV11D78UUfWONMAoJLhszoYSEN77GosC3NLW4uHekF9S_s4aFLRvvgaMEXjg-QCLP8pqqvg-oA_t",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "81 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801859,
+               "lng" : -73.94886099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f0216e98484ff1707ec6f1ecb07ae9cb0632d07e",
+         "name" : "The UPS Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3ybbrLE0F4K_ubbV03oPKIVypvrb3Bkhm8Vek0MGHQjV6ErDhxDtvBIpaX9VU7K_9udAwnFYqt6HkVMWOChQ7rg6KOLaYcceOhckPgBLc2jhX_7GmK8b7DrsgORY135HyXDNAXlDdHUC8IienO_59BIQUSSsEH9LI-RSnjqPlgR22xoUeBpnVMI1aOtnakM0Qg_Vj88QaWs",
+               "width" : 1672
+            }
+         ],
+         "place_id" : "ChIJnao2MRD2wokRO0uCBYPYpqU",
+         "price_level" : 2,
+         "reference" : "CnRvAAAATczdIE4f98FPgiVMAbR_yItmPv1Dq2KbLkjLqcnWWUtH88uxPweTljyrWZGLtUzu_qLzwc1HOUdoThVmsz0MtGhxJO9HHjUn9ROHlJjZdhlxbqG4hENHBy2JBoesvJ6eIu6eW7FtDBQ2VLsHhZ2nRhIQ_H4HkQfccvwfyEzX31V7xBoUbupurIw5Zi3bddRcgt8rttRgqSU",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "post_office", "finance", "establishment" ],
+         "vicinity" : "55 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801635,
+               "lng" : -73.949201
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a379f7fc046601467161f7f2008b031d05325cfb",
+         "name" : "Hair Design By Oumou",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-PPVJwBA5kexuxnEwcsv316_8J97sLqhVW62XWu48mpGNyO63owHvEUhaWFXwKcSUtC_65QhHnsBJzfYbaWVjncUja0dZCnl6ZW3n-eo92eynkBQVDn51ZAK5wZG_8bLzThHg5D5JFtkEX02B74lvhIQ_IyceV1f0kjbUtB_lV1OGxoUz-rGie6O61FXf80Zfgm2BlDmBtA",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJTxQGSBD2wokRwy9XC-QhKRU",
+         "rating" : 4,
+         "reference" : "CoQBdQAAANB52zsksk1_JC3wA4Ld4S5UNCZcnGFt6P_79Qcib5NpC2xTDyHImkHlk2ufXBRuRfbfDLw9iRuRjWDchRtgyLXQd9i8qMZaers6tnFNSzsn_j-MSUdtF3hq4czbLoxgbyp0oU7g-ef5_7nRtv7sgpVJWM3Sy96uuYoViq2p9mOjEhBECmP-XSL9qT2B-mZs3Ig_GhRLMgX0OYzxGl3p-evdRTaz-1ZgkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "hair_care", "establishment" ],
+         "vicinity" : "64 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802083,
+               "lng" : -73.94804999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "38714a073de1a817ed244dd37942dccb0312866b",
+         "name" : "Petland Discounts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJb0j11BH2wokR2SyuQIa-mRY",
+         "price_level" : 2,
+         "reference" : "CoQBcgAAAMVbCqBsActgo2oRuBcQmBrGNVctKLniOa4BTPyxx9yZqOFgrFvlh3gF-GsfHPb2bJL8GbMkgEQLpTpW63ErwGSWbYGJOFdaVcIts3PbufkKIW7utIFM3x73e2FR-2iFhhoLI5K6mva0E9fIhO9j38WkSShRoLGrr6PdqjFjbcgBEhDGkaVo3I_BUI293i60-MhjGhRM7kcaPRirMHqq90Vyw89S-XbHHw",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "56 West 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800043,
+               "lng" : -73.951486
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "508d4228f9c0f21e1441430570de5522b518897d",
+         "name" : "Black Ink Gallery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAACYgeIC8UyhzoJQ42mO1qH7iFMjJirh6VNweRNQsOIx5TlUm9H_OkfuBA7hVy0GmjQwOcUmUw59P5DDm2HaXG4wTzUqFebUb_soehiPB_LjNGj-814wQLEH8QD7Gi4Wn7qF_n2EyQldMfQ84buCIojaZYdAnVZ9V-AKVSgFiV3obEhDDDCumbHM740Uq9_g0CnzYGhRLtwTYM6JBCpu7mCRinbkUPCmQzw",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJZRpznRD2wokRpuvJsJX_jZg",
+         "rating" : 4.8,
+         "reference" : "CoQBcwAAAHOXwDI6j4o0pDMq6J_HHxm8k0x0Ic-ZGEC6Hrr2_XJoF7VA-H9-3okl33kKCdvaqIzOExypLcTartFAc5LxEEzxX6HOswft7T2Decx2_chY4iArUl3Su4vOYlxWU3hAKAyk-ZDaze8YHa2-5mfvxHTEaLD0tW9h2vZVa4KjBsDmEhCqkZwVPDcVbE7Hnoq3GbI8GhQXlrJr3rCKnXAcDbqTxXYqetfSIA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "art_gallery", "establishment" ],
+         "vicinity" : "55 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801446,
+               "lng" : -73.948851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "625c2b2027bdfd74dd96c33949c7cefaddeb01ff",
+         "name" : "Malcolm Shabazz Harlem Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1370,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CrQBoQAAALh82GuxtlzBGi9n9pkOJOITAU4kui07SXogVJnBtLOUt9NWS8jMPjR08Aze1kWzuugEXiqMMuYFxx9pKxNVYibAncr_F__Ta94z-OEaa6H4RtYQJPQz6_To-M1Lmw3krZ2jVSxSvr42IPJg-hxbtIq4fH-WQnEOwiv9ptgNSJtwYv0JTuH9Ec6YKJrjdv98oelVTaboThQOpv1qVPc6Wj03J-53Yx7DtP44doGUWe_uEhC7N_Uc3xmvwJVp3R4zMqavGhQy-IUx4wEDqW6cH0rdnGnUPeF3Ng",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJhdF9TRD2wokROv6jKsY9UDs",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBfgAAAOu2BIg4UXxYoWvaUbZVm9vyUDmONEqj2_Iormv-mk_uqRcY1WPjbcDJwv3dJVZ3y6h36N0bd8IraTM1eSIZGQh0TmvX9_zWOIRf4MkKXdl-O8RHICQ-Bz309Z-eE_sSGD8EGQtuPGn_oP_JaHCtU453DMhudA5k_QxG6J99c4NJEhBofNPZqFbpH71wayNnlBb2GhTpFuRCf3txqNbSGBpDEmdO3P5zKw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "52 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAKnmMib2EhIhWY6Pb88IVekRauBwt2P7AkET08fH8QHcxCEN922LG10e3SunNHuZ048rLl7NqEAmHXRWYRHVdfuQe6NCaNdAv62EMt2Eeco8JBysFlCQ5w5ogoYtWHpc9UMzSztpYgy7MBPWm8c4WQdcAxqdFPBDkEHYqJlfXG0jehdG06243_kG025t6avOExIQj3QY1Asj5xbZCtrqRcB4PxoUuFIZWiCAlxDdDIAa62hcUpNoGhI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

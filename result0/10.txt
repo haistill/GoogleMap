@@ -1,0 +1,232 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAII_aEU1AwiRASe67gTgnkpSEk-mC0BQflfDDQ8LAeXqkFvSF-23pNhoBhbjl-82l79iV0OCeOqOiYutXy6n1KfBEZO40ngprTFzpq7PVBEvehgf7eMaKycgpYqAHTOkqLgFX79XVE_Jf91zIv9UAl74jIu_p7_JHzKbLCTotuXIgJyIEMK0lOeBpo4Q7JLwsvykYe4KTLHYoyF8KI78iT4SEBUNyYcSPyaH3Hv_4TG--wYaFBNGocHlltXfH_-g3Oqbqn8lAF7P",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70157,
+               "lng" : -74.009131
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "a1614a73607f8c206f3b7ef97ff2cf7aff967b0b",
+         "name" : "Downtown Manhattan Heliport",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 573,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAAdfqVD1IZThWwgeWHeFut_jzg0ZmCgfE0nqlyjMdNmbdZYpe5wMTs53NNhxEoafPQGRTC-Och3zqbU95xWh0Sz-quyk5cL7ITo8ItstAHvlbgSuO915LIKQJA9xFdOkO3mBmBf9TzCyH2eE7tZ0Kmt2j3Mi7L8MQENt0t3hwleVEhDrsSyiJvOu8LkyEcRzGvOQGhQYQgNnwRg4s4L6BcvSZtuehzEFQQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRRAAfmSM9BIc",
+         "rating" : 4.9,
+         "reference" : "CoQBfQAAAKUGu4YYZHvRiFtN930lTiSXAlUWfFDpWPJfA_dqKugLZv6ZAE22s1R6coHw2CQmy00rmFgDHZsNKfue4SrswbyI4132xJ0hkEb20AUc3FM6eh5OdvQVAgf_tGyBKnjJoM8ELOnhE3M9_Ktt3O4VdfMDzuRHtqeWRctLI4HEI9RqEhDllVLN2H-f17axgS9kHgzJGhTOGraLg2lkMZCbY5WqOsQHEXXfag",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "transit_station", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701374,
+               "lng" : -74.009109
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "b70630b970789ab95464677b36343eb8b83fa15b",
+         "name" : "New York Helicopter Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 591,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAM0_Hs6v3CRuT_hUdao0IKAxONJh2ellyyfohDKLXmDzBhS0e6SWADG2a4yl6l8Rd8XojSYR1-ja0pPqVDqNx4qj4z0egq5z89f9vK7ldgdR2ZGnWXNIK97k5Fq3Q4pUpCkE2-mzkxlP69NXg5ibTkw5SrH9apzU9OsPKtD2p9iAEhCg5RgBwysV1Lo-oZoSNPIzGhRc7HEDuA5sgedp-eD1Cm96DUVrPQ",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokR2ktT5HTvGDI",
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAEJRyKHRFwGCh6vxauUoFax0GPWgasX2o49Y6UALnHhTXQ0IspoMirS2wv5yPrch9jxN2ylDkB21-b9S2FbtP_DrDurCyEzky3psDOxgquXugsze3qgGqA9rkgNCpnwmn6HLMXo-1apgvowET129vyZbAIJNinvGOXZ3F-m5nmwGEhBCkVriKkghnGiZtzhQhH_pGhSN-T7X33wX6BbhkWC8Z_fJsoKQRA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701479,
+               "lng" : -74.009147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "543692887d21a68c30b8ed446b403eb9cb64464e",
+         "name" : "Liberty Helicopters",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhwAAAEmZlCushVq0U6l6Ed1h5WbeP2JnvmbXugTERQ2jt8Pfw1YRLmqNQgxPyHn7O87e63vkVZBBzRe06riY3TJJc0OxdRdcg0UM84lIIRVOUksze9QWNulfzBVVbtM6kSfcgWWnmL0kV7aJg7Q8FI0N-z8YwdKz_jIOkKpJ1CwEg15sGw0RHEzQHe1zc9HXDhaUARIQ4aQwOM1U5F8W5cbNNSoUbxoUghIJTBJI6dMxIu6LJj9Wk1jtKLk",
+               "width" : 1201
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokRYaWmXhDkl_Q",
+         "rating" : 4.6,
+         "reference" : "CoQBdQAAAPY89oWMDdT5PXRmvcYXSdKgCcU9-tn-1Ux0BWjKbH8NuG8a_u5HxdaO7tWLkYHl5Zg7l298xEUruvnO_O4toqTc4T74WqKtgJTANdLLXBFNJX_8mgyIVoXPlNG6wuRiGAHLKusDCECWpnBz0QrdGtLDX2FtCwzo-Z9MXKfzthYVEhBELwmqaeyxOdElfG4F__r8GhQyARqTsUEu60rHQ0oz1h7pHHX8mw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers #212, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701834,
+               "lng" : -74.009305
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "37540c44f4dff7582a1feee2d6929f8c4e1d5902",
+         "name" : "Helicopter Flight Services Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 565,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA9adtbNFiAeAxwhpWKO7jsw1Km7i58JfGsqC89vdpQcZYOObeOFqjnn2KZayj97swVX5lKK8rKQzGLG-2QpCFWr4qQwt18V6nrjczJSBqZlpGbOLqyruMH8BKveheih4Li7gJsDXBG3qEOGjzBGuVNhIQJLSNSL1pio7H_0tNgiHjGxoU4K6EXrPBsCwPtJGpLcBsySFq200",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRaXWPLYrJcfs",
+         "rating" : 3.8,
+         "reference" : "CoQBgAAAABJU16eKQD7cSqNVtyoVJOPQ-eHo7fA2HzH2sCV0LxpOnHG2oUJc7jJnGcJjSNUlVWPG2eZFUtcP3dRPnFz9FhOmjmWCK8PiY_HSfZQVsOFZsJj8YkXmbCUYixa03ludtwFWGl8Kr5wE4Yef4yslU861I9X7QBUG2mdaBAaBDRg-EhBtQsOIeZJq4gfFLG3bOpd7GhQxlmcz1cVnIDEDr41b64CU9GrCPA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "Pier 6-Downtown Manhattan Heliport East River, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701496,
+               "lng" : -74.009068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "0ceef4ade2fc4765d7af7dafcb2f4207398db270",
+         "name" : "Manhattan Helicopters Sightseeing Tours",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAPNY9nCwIOEnAHxh5gl1Dpo-eElIycFL7gVLN3QaS5a3ZoG61gij6CnJnveYVRbSgEEwsVNq9u99oFPHNZKPtL9wACuW6iIMfOquY3kEEYbPzWHGGktDRhkXkmCzQzd54IyPOR2R7s4qZDCB0cZdELRIQtzV2X2_ZUDeu_3NRq-JxvhoUH-6fVlgiZgpwyYNHfhgXEkHW1Fk",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRmnCYG6DA1LE",
+         "rating" : 4.5,
+         "reference" : "CpQBiQAAAAn6249NXJF1SFo5pAStmlKyF5pBgSnbLvSW-5rcHF0ASXt409kFtuVuoxX5jhqogxdDnorVrcZLq6FswoOL5iTcVA_uuogVC-o1LcBd1_2cjU9RpnrpyZuXDfbzuz6V55FDam5_sREpvaIoXUFUT4E8H66gx74dne__xR5f6b9V2Nw23c4uWGQOwfowg4b2BRIQxF2UelpcCyLflZ291fjqrhoUaZfbjXfK0TsMK0E9o1nyFvV_TJo",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701563,
+               "lng" : -74.00923400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "e499252f4975a7f24c09ab22d1134a1c531f273b",
+         "name" : "Zip Aviation",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 264,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcVgjYuSuSAjcNdCuniJMb1Hz_QXrz6QneobVE_NzQ5iRtTDH4kOReF_uhm6hHFReTsBkufZoGWoLnScgzxF5fbkVn6rrjvSQ_hDuKLgQ5EO9yz2ZviKLYhTn2UJuKXir2cwrFckdUKJYmaEVFYcBUBIQkkrcG1PqAEVVGYhR7GrjsBoUZqzvem865PQswdT1qajXdLQloCA",
+               "width" : 372
+            }
+         ],
+         "place_id" : "ChIJ56onCspZwokRAyhPpjPfo7k",
+         "rating" : 4.4,
+         "reference" : "CnRuAAAAfLb8scGDGEfbPmqOG9xos5IFmTLDKZBKqxn5ARpah0wEV6mITlhH0El0lWRH3QovYRP1nMftgmXNR7MT9dtALY9AAGp43J1N2dhDXR0xGxpSolSv8XyeinBN37Y1frkQBLAx_LHG9KQsUxBCJRbM9RIQJDitOHci0w9UdRD6nraptRoUQPu8fqdUlsoxGZugf-oQNqlxjZE",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAABJmV4MXo6ONbVJmiKqSyqWwnZneJ3TykcV025lwRCd2xRrqkIpduJsReiivINrrPWTZ86Qypt6ulhGG2rXW2bBY64S8sPI__2Ckn9y2oP0lxft8c_MccyHp1AXoOM7iaLrXl09YVJhe4qMyqeBY2D108VWgxXM43KWnkKc2GjzKOZsqcsyCxSSQIYbf_Xc3SxIQSZaiHOBanoigzhkWi6_54BoUROZESGG38an4-Wht9DAt6b7tvho",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

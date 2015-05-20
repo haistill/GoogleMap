@@ -1,0 +1,431 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAC4HAmTnt1xqarnpue0PERNbGCmlExhTgQBGmcXtWCxfhCPedFwxSJ3O-uZx2rcrhZUposS124DMFTjW7woBpKgvqfAkuXGsZi2l1vRmT5nDkr9w8-rDviA3QjRPxIbJYC21TeFJ2Rsegqii6-8_Oud8QatvzgyFndhbueO_806fB45LwjZIbjybPMx2MeIiQnfmajNfRN0QrGtFOpKpbU5lz26z0XE3Ouf8tFhu6zlCJ2sx-O1PO4BKqWeECzTv8BMZOYn_prsZc1SaQ4qjahBIH2dR1uwWpXO3mZXKeZtTKPucJTPIVctHScDoKfg6qRIQi_3afI6uQ8OaNRzsNh96TxoUHYXTPbdvM47H2wB7kWHw_VrjndM",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAAK9hxAAw2wukXEbyvTeqatQKRUMOm40-JGJDwd0_mexBOJMnlAFs2uJPujB7V-VZX6oESsqVkiKy_oA-HTGWsKkCSxpK54Kltl_gw8o0JW1ZDMf6jXH37PNtXLRQUKTo7A0QQauXTjNQZ7fg3ceBH_Mxvcg6QyZoIG4qg1amprs_IWS2Cn3OSu7KJ_dH_tOO-hIQUmUZgaEob66V2sV8diwj9RoU8tkudLwGSzoiKw_MwXOGX4q83_o",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822785,
+               "lng" : -73.942317
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d62ae198632d5fbb31ffb67346e21ddbc7308bb2",
+         "name" : "Pathmark",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_YOV-nv2wokRo304i8dQh2w",
+         "rating" : 3.2,
+         "reference" : "CnRqAAAA9BtUYezvktUNtHnE1yfBArOFX_TcTmzCaNOJcc1MNXolZPZlUgeSxYbXGLa0ri0H2Y6TNYn9rbXHvfbA_BM97aR7sAZTK0qm581sL2VPSf1nusbzgDO06g--hVPS7DfKPKynMj91eI5JXo3eHHsIuxIQo6XaW083bh7L24ACLgbgQhoU0nfy2Hj2AxV6kiuWMBfGEi72fPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "300 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819402,
+               "lng" : -73.94415600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "05b3d6b46612c3a04f26e491998efdaf44f242e1",
+         "name" : "Londel's Supper Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJs_TsZXr2wokRdBl8ZcKroXs",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAJ5Co2_Ic8XbtVZIeV-04OJ5OX9QbYUklVoiNbbctT7jMoSNaotxalVgBS19Xi2nXmvtFRl9PqJTWItDGfY_n8Nx9wntDhsRGAqydV4za0H1xNCcSL6NH46pBjwyg-82eMq-VzuT3xYebKyax0cpRO5xC8rgUWIR1PYzPcPIZLK5EhBcUOaO8WR54wAwaIJrb_iVGhQzcQJK9hrF-sJU1D0CkyJRc5DAiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2620 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821742,
+               "lng" : -73.942992
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "37e8ca7c8c286cb81d20bf86df443f51c3393617",
+         "name" : "Jacob",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAduKhwDJatGR7xrcPFIx39RQj5ZJ4GW94YESZzIEVfgH3_AZP3SdiV7C2ZvRI7uAIqAhSVe-Bl_cjJFp27gbecneTItiPSTJBxyVJquffwBzkCo6hHdN4KTDpW0BrLXs2LWEXwEEpX1WilLRIJsPnYhIQ072IoJ8dOBa8-TbXAn2aexoUnKY9hFoiQvfl2NT2Dvs2R_aUnqo",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJXeZWxnv2wokRMvI-T-8vSx4",
+         "rating" : 4.4,
+         "reference" : "CnRnAAAAtV7WClDs4MyFP_tv4AI63dQR6i62VEoqpPSM6qlOvSudx3ODzsVvrMeFSH-kmJjjeGQ94xY_pG2ajQkU3fdV0PxcClCBBpkBA6OKASc1Um1SygXHSwIHj3TH9bbKfiUejb_nGeCbrVbwyhd12b10-RIQ3fYLdGBjO5I1t5hzKTueDRoUqoUXoNCXQjUD8ydTO_atjcxQ0X0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2695 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822568,
+               "lng" : -73.944568
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "64eab21884004bff92fe097c52e2975ab3be06e9",
+         "name" : "SANFERMIN BED AND BREAKFAST",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3HUGp5d-gIW0Pzvu4q1-kUN4ofJDLDTSkOqJy9NcsiMq0Qv3Jdzwa3fdeXGQZqXaW1puLVCaJHpbrsrsaF5fbXGKzoWyhljUjrdJNqjumOsXgCt8Y7O6mzDN_JoS5SIffwNARRmcO22tu7iZalDO0BIQ_Ev8xALw2XN_a4Vx3yguChoUUlfpQliiSX_QglxblFCiaDJkYJ0",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJCy4Wn3v2wokRjHU_2qz2Dmg",
+         "reference" : "CoQBfQAAAJTJS8LiKl7erVwcrsUoz8VoSIvmEn3mcLndCKt3eOaPfSjbXndhBmCZ2WAupRkISH48m0hGqF9gwO-B4YcDpFvtIUN98kVJtknjHIAShCKZTaRME8d9i8RRJ_0CeAVOtRsIn405bT1DRv1Mvspk93xL_tAf3lCQ3CJesf_B1PmGEhAJYi3SYl-4hfbta1Fot760GhSZJIEzr5THqLzxG7xqvJ7reQC1jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "195 Edgecombe Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822135,
+               "lng" : -73.941942
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fe285776ce673fc833fabe119c0caa9353567c1d",
+         "name" : "Margie's Red Rose Diner LLC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 976,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBggAAALE_9YvocFQlqVqMQZgUlCp0FL25OhiIcESTSiZfhw7RjEKdHGaNNKyW5HTcEW-Feva4QM0lfnZP7DTPICAYWsteem82hCEH8P6fqiKf_7bsdQXyk7y1N1zrNUhOzo0YrBZuGAqLFIsyZc3PFaYo_Dq1QNdb3GppQWcSl08nkNTK8SxGVz5wberYFGK_7M_20RIQL7-JNckB2n1IHGyJ9VtebhoUNUNFG1v_Enb_Gcw_Yl3j0UNklXU",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJuT3f33v2wokRaKKXgpCz1Ws",
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "CoQBfQAAABPaQPc_PqNbjH6aAOK5GAoJ9m4GkVTLYkw_GaUP-dRWEERcPSQJCc5bOHBHN2Y6vaztv47LISsefPi7zpdwd-AVHicvGSq3dpvnnJWX8vji2nOwUt9RonXqz88CVdMYQyxSJngH9XdOEkvCkHMKUYn1yVPyesVmz1YJWaTFNNWwEhCkkT59l-bTOUeMGf4tBaAeGhQmzz2A-gNGfoQDOHdJqkDwIYCoSg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "275 West 144th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819924,
+               "lng" : -73.944436
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a0166c3e105efd8b1a91a4c5f4079efa96daeaab",
+         "name" : "Public School 123",
+         "place_id" : "ChIJLXaSYHr2wokRYsB3eE7NC8k",
+         "rating" : 3.6,
+         "reference" : "CoQBdAAAAFF6p5r8QD3WZXLC_R_hMCyNfkc1m3L-troOp7-HfAmZmF2oA-fP8Blh6PRKe_O1QCXZuhw2ncnUwByB6Gtz3vk-2sO93kGvsKT3LHTpc8gsx12ptjOKBTx6SXTk8TNV6Hww6_IYqssoa1pXWKhpRNbNypw54AeNawhMjquYF3_tEhAXiAqynHB_DkXcDPaGUtq_GhRUWrw9sCNXjeHYpXkuV1YGf6jAyg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "301 West 140th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82,
+               "lng" : -73.941667
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6da52d48469d873549b464606ff7b3816d271fe4",
+         "name" : "Saint Charles Borromeo School",
+         "place_id" : "ChIJb4pniHn2wokRN967zOtVWfI",
+         "reference" : "CoQBgAAAABKc0GFmSo8SkoYKxUDyfM0K8k2b5GePEYq413qb8wauynT6eFkfwLV8b583-M18y1E9kOHRQ8VAgMWAna-AjZoupLw3U20DIqnAxJcQ0Uy-6aC850EtBkhpa80qVsCbDowWiVld4cfPsHXb-olPoVgdWfcrcTaFWvbCPgKBTm0EEhDTGC5xJNDk5LcS2nL10TAkGhQdskpZznBSjTUiKHXs1TSzJXjO_w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "214 West 142nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819565,
+               "lng" : -73.94168500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "35ba081cb188092035ff6ea56e069dcdd1314beb",
+         "name" : "St Charles Borromeo Church",
+         "place_id" : "ChIJfeAF9Xn2wokRUV378beO4Ik",
+         "reference" : "CoQBfQAAAEukYwlySwrRF6Evl1KdFj-dLRPr2QxTbOz7HpWwulioVU2p2EE34WEIQlZG1MoHoeF24ZziQREzsSwS2fbRem2Y_kvt0veeb-02n24LXYnFjG7x88NceYOjv4M5t0fTHJE_MLiC6doIwJEVQ0tJl0oNd0AJSd9Sc7JRanhZ5r1_EhDGPipUX7jGC3br3nuAQbUrGhTz-C02fHZAZz12h9SSqdKjUIIl7w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "211 West 141st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822871,
+               "lng" : -73.94150399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9ac2270cdd8527c95d80a07f05ca48e299ac0d3",
+         "name" : "Popeyes",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEbNFFtevA_C1AT3vxjt_4PL3rFXD7UoCiV9-ofOzsReaz3R-FcoRI89BHsKDUnjUjZcl4-5ikNC7P_PRhhtPRTs_2JyE7wQwD7qT7HUpnjglN07D0f4tN_Xoi3Kj7FcfpfBt8uRGRm9a6z8OTUB3uRIQPNPsc7zS9GnZAaqt5Uxs6hoUVIX1TfImVDosVUjNWjrgi2Dh57g",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJuSlLUXn2wokRp3U5IpAt2Ng",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CnRqAAAAhopxpCGSinSLL7wIt4FgQh2xL8j5aLHUY0bgp2v4w-yNe3vZntdfZ9IO0q2jl2nFyLBYZNGxzOHUAmBRHIDDKyLLKnFaWyiDjcC5A-vnZUQ38ZNwbs9fVlJREICSXSJ1EPwp3U29AZeku-Il0CqV6BIQ3RuRXNA7xWJCrI-Yiob4WxoUIF1WHb5CX9uHM03qjGg4aw_-Tc4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2730 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821077,
+               "lng" : -73.942823
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "41a4d214ed21165d64f88173802c3fe8c2928f8b",
+         "name" : "Drew Hamilton Learning Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgXvbynv2wokRTYlmrmqDG2E",
+         "reference" : "CoQBfwAAAMxtzy2SbE2z6xHppCKqjHqDv3_mwLSp4bB3hxB80Eux4dCJx9uv7NQIyoI4ByTTKzzKm1oHWjk8lFrw7Qr4_VhxRlLPlSB3_KPjdPm_AB40sjjYooG5dg5UUL8aCkzl3-8rlR6HpbuxozBUSy5IawHc6pPumCJExe3jwbqjIuz8EhCqw-7CKDlbkQLLXzopYwpYGhQ63OQQi-wBD941DQc7WbFioEz-bQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2672 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820004,
+               "lng" : -73.944598
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5c5f2713408c8018213198ac3463f0fe51a56249",
+         "name" : "Success Academy Harlem 5",
+         "place_id" : "ChIJLXaSYHr2wokROx6Mq1FzC9A",
+         "reference" : "CoQBewAAAOU3qbL6t__zOn91ZoqyT6l19EJ6C2YeDcpXvLQiHA-ycPkfTJZl97D7R_0YO10wI4XiclrO5K7CSMofK8PN3fwsZjfyUZYXWSP6YqNlHB8jQ1LL2gDh27zLQA1WHqNvMxt6RVCwfEyul5SEOMVS3_yi0aEzbw56F6U-vzvBYoDNEhBuno3n-ePE9noww7AtAnEjGhQg_E0-REfysCdK8GhFfySrwbbNIg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "301 West 140th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819734,
+               "lng" : -73.94101499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f1b4b2144d6821de0a4ac0c8ae57fb8ce66b987b",
+         "name" : "New York City Housing Authority's Cornelius J. Drew - Alexander Hamilton",
+         "place_id" : "ChIJ_RPukXn2wokRO4fHiKVRBhg",
+         "reference" : "CrQBqwAAACqrq1wKm619QHsD67UuDQjFhhKSPCI1NphCikRE4fkTXLSaXXwOacHZl5Kxz_Uig8RbEuEC3RGGpfITroxzST-a5o3k1_r-h5uh_lPVZ7Ct4m4PssXt2LJtKBiOKCHQ9gdXyr_As4oMgGa929JzXZcR9QSLTme8Ejb6JQvFi1fyzqffT--Oc36mx7J7z-aTupbBtEhi21oLZfZybjjSDRfUDkZnbwse7eL0cMZTjpeTEhBy-AtK7aRVz_c6dGfl9AT-GhQ8IdfDu8GDi-QvEPjXGnDK7RJDNg",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "210 West 142nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820047,
+               "lng" : -73.94553999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7f25ae81a75ded897560e9d2ebc702d46b41628",
+         "name" : "Fight Back MMA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 650,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAT-_cT8dCrn11bwCE30waoiqyXV85XmoN6W1cslM926WkSAsnrmtm2TULPzkrl8Fwryh27TWKn5U2VBTNv2o93naQY3iI0gDtGuLljD4aTTHTwh-6HQVVTGJ1-x84A0ohA7RsYYzoo4SzRK4Hu3cRhIQi11OJ6moTUheAA5VyPUOtBoU9smqLbx8fIwgbRP70CNXt-6hht4",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJpahxjXr2wokRlfVtjjohxK4",
+         "rating" : 4.8,
+         "reference" : "CoQBcQAAAHCXssd_QYFRqj2FNutSRZiWheey-2CS8zxZK78DVP-qfKoRCXdYxhea5rSaFJct-nHbD4URj-Gbe2Q1KvUmii3N5sP6Ogj5TyB7KOfbJ9Kqlvyqyw_Wuyn78ybBp0lCrCSPBJl-lMYXprYJUn3-tL8SfA8gVrTDy5M1YyFe84rpEhA3-KVgzluCadravz_IoAJqGhQa09nSglkVVGhzi1RDIkMu7-Jtrw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "116 Edgecombe Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821471,
+               "lng" : -73.945055
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4635950a2938b3680ba6db7d56676c1c8123a94a",
+         "name" : "Heritage Health & Housing Inc",
+         "place_id" : "ChIJlcHFA3v2wokRGDY8jWprCZc",
+         "reference" : "CoQBgAAAALAuO1uhgGOEdD0mtBnGHlGYiuffd6FAtPqN3_lAu6BVS9fs41OwqAgMTYdKK-zu8OzHKAKXCadLIjUqBixRDBjy8PUIXFGZbx-yzDnAFlHjlCLS0F5pKvsuJLQDFstAUPAxEpaCmIHHl-R_33i96C7mzt3Lwou2GHhWbQ0ls0D_EhAGuQdS0nKywSlr6RYntia4GhQw2dssupcyvC74Gu-uSBKnl7v1aQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "137 Edgecombe Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82012,
+               "lng" : -73.94555699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ff0c175d08966a73acdfe87f7fc4544660f0e446",
+         "name" : "Mt Calvary Methodist Church",
+         "place_id" : "ChIJm4RS7Xr2wokREyHPO_v_eWc",
+         "reference" : "CoQBfQAAAKq5P-3ZtYaYg0DXychIOOIVtpOPMOKe9LFILDhRHzulltFWToGoJ2mXkGdzvG8TRBqJTXi3-YSRliLQSsezxkl-mEPpO1n-gowZEemFmZM3HsDwCwAZ15TlvGmqfu-UNgN9-L9XjzWi8fQOPNZqQAcSLIGn4AcEdv--WWOPBbzKEhCFhQx4xya9bG-oyYIFo6Z6GhSInsAYNmI-nhDXCC_DWBV4NFbGqg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "116 Edgecombe Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820826,
+               "lng" : -73.94471
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b692813da5d1af102e1dd2ebb25e66e51cfd37a8",
+         "name" : "Queen Sheeba",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWd6c-Hr2wokR4vI501SmApU",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CnRvAAAAGTaBaBCrVj9xmYYbh4fV6HcF_7DwI3wayLRi5UrQrDeHWQsxopMEo2dusKFcycKhoPvNJZA2RK-MKnJHcYEodZCNpmr7JP8z6Katb-ONdoAzPwnbTzyVkacAfSGFqF1-Or01BruH0NmNyz1KJGdsrRIQ1OoPovHWWDs6zVRjM2VWkBoU751ahHKhPzQIW6c_uz_TNu1nKts",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "317 West 141st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82216,
+               "lng" : -73.942677
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56dd8a4d754a9d05a5ad8c28ea6820aee906423c",
+         "name" : "Flash Cleaners",
+         "place_id" : "ChIJbz55wnv2wokRUoFoOYSb9LM",
+         "reference" : "CoQBcQAAAFVXbN_dpEH-4nE9HkawXNMYss2ZG0unNWYt8gxZJ5lvpDVoWJZzr4KXSi4pvrHThm4CxcebrxmFvpA_KnfEd9UPwqYKRs5V6rivobo3A4QTA5RfWBLcAYmiuA4MTaE0D-FR1F3lSMIyjgsoEj2dPexaYhdPJOdYDHysAnkwRAZZEhBmC_jkWN1--n9sBueYoxr1GhROqXeWxSUxk8HQkZ9Plr1lwPIeHA",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "2709 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.820855,
+               "lng" : -73.945329
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8b280d026ac26640f8ba2d4951bae992ff46a6a0",
+         "name" : "Corner House",
+         "place_id" : "ChIJtUrY-3r2wokRj81xiR8E73U",
+         "reference" : "CnRuAAAAs-NAawIGFB_U1-t_kNA4yEVbIni9DgAJ2agPWafPWoyHAf_q2OCyWr1zpqpPyEfpBBMhLL7LHLhgcFfmsdxrO4e4HJ2EXvVngcycNrEbNNHrxJQHQNyKtMzqwRYHMK_TBhcCtc2U--gvZwQukeb87hIQEabWttSvEN0sC1oDt5oQ7hoUN2e5E6HEMsSMtTEGYFwl7PeNUyA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "131 Edgecombe Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAN3f6rqTYCHs3BQRrHYxUxPbq6PSNoTJ0UHDOvNDQyJYNkVfNVM6msd5sB1dYGzwQ1VKUqBA-JxhH6gc0yLjCBwxJzNi2PH0wjFr7xK_4sCE59Ztp7fBI31g7dSAyiFfTMLGiiYkwcDncImQ5mvRKDJLkMaQ-cg9gnPfC1lUwqfsbjIgGuVCSW1_sjUItaRVXRIQWG6xYdQ5yA13wW_x0ybGBRoUioUi8v3ceAnOkBSOGaXmYsEHch8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

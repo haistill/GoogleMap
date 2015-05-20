@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704224,
+               "lng" : -73.9933767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7046402,
+                  "lng" : -73.9907532
+               },
+               "southwest" : {
+                  "lat" : 40.7038973,
+                  "lng" : -73.9936967
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "deb5edbc991de2d20cb3930eb0456ff217ce34b0",
+         "name" : "Empire Fulton Ferry",
+         "place_id" : "ChIJgd20_jBawokRVhO1eBK6QgM",
+         "reference" : "CoQBfgAAABQiGR2vU1dTjizMHQMMuZ6SEgN64icS7MQlkgkr4vRtvilyAcJyEMPDREYH46Ul2OTZnIEFqTHY2lNtkffqSpcmJZXSG_tb_aAmZOHqW-_erA2obx9t9CKzXV7GGknzUxQi20As-sVkfthEfFDBfuHZ4PTfjhZkMGjXiSBHZCY7EhApN7Qk7vlNl4BvjwCxXtANGhTXlTgY1LN7Uu8zzp7pc70IPWtGgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7035805,
+               "lng" : -73.9921853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7046113,
+                  "lng" : -73.9895619
+               },
+               "southwest" : {
+                  "lat" : 40.7018052,
+                  "lng" : -73.99543059999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "aa38e4f3f9ddc9181105343c1b211372279c1cc5",
+         "name" : "Fulton Ferry District",
+         "place_id" : "ChIJdTz-5zBawokR__i8kbBkR88",
+         "reference" : "CqQBlAAAABgXh0inQmmbCbgVT-nw8Ze9VXwcmdaoGreRcRsAvthlzfv_ssQoudI-Gxh4eXM7aOerjy5cYrD8xx5gW03IurFtNeGRv2p-IQQqtdFhzhINiPjtXo8MCQOf43TSLuYFCQF068YNBTYo-p8oFNJtXM2v_1GHTEt-IInltSuoSYHWaU5oMU6pBkUIsVEMpzQ_U_ZTyFlak_D7o1z6sI0HXX8SEOOF3Y1Q28PyzlyIPQg_zDEaFDUZqZv_WIV8bA22GUZZqqgusjB9",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703056,
+               "lng" : -73.98944399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70556690000001,
+                  "lng" : -73.98450849999999
+               },
+               "southwest" : {
+                  "lat" : 40.7014434,
+                  "lng" : -73.99457750000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0c7cde3493a081a8adcf05dbc9cc9b036714ec03",
+         "name" : "Dumbo",
+         "place_id" : "ChIJ-7A-bzFawokRw8mvHCzZsc4",
+         "reference" : "CpQBgwAAAI-eZCpLIGlO6mS00Mx5YLNgTc94qUBHgSSqBG6pkD_LbHLJuq5IJna-tn5jK-PytxS_ZRC31l1XlFaYuvnDnuXDn4HB--QCrCxyadwVgaxIkkf7Zo-xUS_wJuXx9AT4wGmyKWZ1nxRFXT0VpXGbbS54wNQOf6gfpCFRq6VyDbt-RcxUKen60qJv6-pz7zPACRIQJYlJrAW-aHI-V7y9xNGmHBoUDNpAgmYzufx33Xj_Y1lZlvhwn70",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

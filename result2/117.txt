@@ -1,0 +1,255 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7933657,
+               "lng" : -73.9352473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946934,
+                  "lng" : -73.93310869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7917813,
+                  "lng" : -73.93770789999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ca72f226f30406f3893512d8ffa898fecc2de37",
+         "name" : "Thomas Jefferson Park",
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "reference" : "CpQBgQAAAMc6_xlWT8y8dzSLRwHfJlyntDjk9CkpMBwT5FbbCZOzW-QC1Wzokakb9w-7XeeD9vaSrYwiazQ_kOnsE-tm3BBQx5ffYwzXIufugN81xxXY9AhStE0lwOWCYKEAt5WvYKS9eDWPpVeWFQWC5cN0kckyi5MxF9Dcr3diYrgROiS1KNTfZY826rqHzkDn_ejtQhIQl1qpFbKtQmKFM6F0R2EUKhoUqQ9Xn4DavaZVHsoGLfd_wyo9zOY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAAAB00HAc1MGTArUck2V7QUeHLfKEuSKGDxXfCRBAgI0nbZIZ_334Wmp8N9T_hZYYkae4_nx7TczkK1tL6lMdywQPEoPCqXMy4GZd1EI_hDD_Ucw6Vpi70GSGwuj_X33aGvESQkIY7MMJH9rQE8G1jJULIsR8CBT3xkQAdpHlmwNQPwXzN7-I4fdMtOJmUJXbxhIQrXFO_Jtr7PfsgSLrh7LH7BoUH-7e3Xc4Qgy1cg29CknaqhNftUc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794241,
+               "lng" : -73.93325900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a0fd141e52b754fff7245b20c1f0fda94aa7733e",
+         "name" : "Manhattan Center For Science and Mathematics",
+         "place_id" : "ChIJlwXSr_31wokRoMgLiTC6B4U",
+         "rating" : 4.1,
+         "reference" : "CpQBjwAAAC1HSZzqwZxMYUKZGBHFiPQhRq6wTLB79Sd1Dlnhvddkbg99aBEW6npPgsE-1X4wQPV8UzCBQNZcTGBn_NSUvsLXa1thLSlXJP-jbvQagLxFqBwKQALf65WwmJ8RvGNEPBIjT84DPfn7DLgx5fwqDRcXd-DzBGeHhXkWn8Pq2UpjqhTNDHOlDoioVEeF5peSZBIQSRVLIVvtKt8tS-WD5f0VWRoUB-pZYBWCSavpVrqU8-QjMJoduAg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "280 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793944,
+               "lng" : -73.93422
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6015be89122c3e8121d97027f00643cb387d3626",
+         "name" : "Rao's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJs21Av_31wokRz_hcbeRuZ0E",
+         "price_level" : 4,
+         "rating" : 3.8,
+         "reference" : "CnRnAAAAajC2UIpd8hSU000dUbMgYOSdOoO4V2lNxKg8qXNZMdcCD4p_oXn_ToOKD1LTz6_jl5-SxlVCUcMp-VdcavxtJn_kILhEdqJymcS_Q1u7QvNkjOgbmFFR70lvmoX21iL5pDDpLTJuFv4en4ZHebPt8hIQ2ZoSuW88KA5EbYWxUlqkSBoU4wzolaayqr4u9SpPs0xEc_Uf55M",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "455 East 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794281,
+               "lng" : -73.933334
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "71ad9b891b4d99657d7a3a6e97ad8ce694da668a",
+         "name" : "Isaac Newton Middle School for Math and Science",
+         "place_id" : "ChIJlwXSr_31wokRBpebLRqrvOg",
+         "reference" : "CqQBkwAAADlPVicgc9koqakzHZ2FdgkE5v2z1mZ_grmvPAebch25oz_8pQijpTpVp0cHalRkY9zeQHaI21WsjX8XcHHnU3qK7CGgZF4xlzqDtvEoOQgrD6Kis-O9oyibE4hf2ED_1CrSVDSbADyzlBhK47RASeh4okzi7vZD8HczIOzdz9LW3rkrwOpbwtLpSHlbC5ptR57xOuyPDFzxG8XjbdcSPiUSELiv4WfemfZjkCx_w2KxSHYaFGBSNsCaCn8X2f9kxdBI_EtpQ24l",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "280 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794597,
+               "lng" : -73.933724
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f116818aa05b67b6c1d4372f65905d079d4d50bd",
+         "name" : "Love Cafe",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAA18DbMHm-iGTx-wUrO-USuT5YCNWUSdpjoMXHQ_H4BHRA3k9jYZlxf_meYaZi8JGDGQrtiW2YW59CCGSjIO9gymZOuqH6EQ_MZ0EMJndhvCDDBMgBraPOBUZpj59a9X8JTPO9KkMXANvnLL6-wqy87xIQeqUpu6xSQZaoIVOTu2CsoBoUjcbLI1hrgXoJY9ESNor4UUGoSW4",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJ24V7r_31wokR-S71l2zqrwc",
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "CnRrAAAAXURDWfk2WPznI2kYpb8xzPtGLjhcDh6UU5u72IpFc695WRuJfQTu7OawXb7xomPkAmyYaI1b-E2L-JGvL1UThEMCRv9dGo2Y0rCvWGdSIf7Wk1Dmusx2M5bgJqNnoQGNGQhEAcDYy3onqneh6nBfshIQEOsh7c8IwfeFkJ5FGh73VhoUPP2gjFrnuk4vUf4QWOU9muTQJFc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "283 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79364,
+               "lng" : -73.936781
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ec547ee5090310759a4da86d510ec4fe352a39e1",
+         "name" : "Thomas Jefferson Recreation Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_e0JSQf2wokR9PTy0YpnuEg",
+         "reference" : "CpQBhAAAAJvRDV4mQldsQbQTyjm-tUYx8wNGFak6CRGGpHp81wY6l-Kary7218rbZEf5mcbbGYnPHyFnJyWiCeZUkgkr8Il21qJm8UOj3PFZ1YqM_47zVyPB7VAQRoPzJVlhaCHyaxHsvYWFs7tRhDrlSEzID3M4mmsbtNPONiLCFbfpnPdcZuN2PBtvEPll8LJrIQtjBxIQ-p2i26bKvVfDfZbXHlkjvBoUOAhieWa7MnpdB1TnXgBdSiReqYs",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2180 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793366,
+               "lng" : -73.935247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b07a828b4afab7e554e01b43fb9d66314d4640fb",
+         "name" : "Thomas Jefferson Park",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAu_UfeeLPUwOeQ4gHYR4XAiajtTUiJLg_G9RSESjHQsu_ufUgEkw_ttiaQ6kH_dGRjLKu_k6M9BOaI5lRRNYJdLhlHYrgz3cLsCMuTwiHZAd0mzdjiFKjylFhlirFaildjjyXZWl98S1d2tnQBQFTABIQKgnnDIe--hPZdOK0nAW7FRoUx4n6TqokUTGVUZjuBxKzG8r7VHU",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "rating" : 4.4,
+         "reference" : "CoQBeAAAALwNW5xbwMzxOwPnDd0AmZwN7jLfcGd58434mfnksempltA7FIogO_cyZTZVC1krjLcfkve16rVrKiR-hoq4za0CCr-8d7DmVa8yd7zySr85viXHOzNyNXzhmRNAcGt5P5zIhmAR7nxdx-QpGZdA_mHtqmJJjsdjW8sWwAo8vxLuEhAa9GrY1ULUFncvVcEpyj9PGhSVpLLnoJwtcNPOJrgBqPx97anueg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794606,
+               "lng" : -73.93571
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ce78969fe281ce8575e928b29f8bb6935afc263b",
+         "name" : "Holy Tabernacle Church",
+         "place_id" : "ChIJLR_7iP31wokR1x_7uLRCc74",
+         "reference" : "CoQBeQAAAFu5rL2KwjIn3IlZ0gtTnGWxLn2rKMk1UbOm5JO35Qiwk-VuJQhJRvagwuQR_KE191apME_Isff5Y0uaPcKkzKK00n_cjWIF8iRRFG_DXL7tHZ7J9mK29727l_ExS7srykZKkSbHRPbW7JrKMvb8lr8zi-RLpbPyGfMb_Sm5Wil5EhCoeCZk0MZMZlCjPsXP5nnfGhRflGB6Aq20vSPawprAZw_IVi7COw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "407 East 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793457,
+               "lng" : -73.936796
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "02b0c679738882aa9163afd9b3c3e4b1cf7b8a37",
+         "name" : "Thomas Jefferson Pool",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAApACDib_-4CJSHnQri6T_fYaVwX0Pp_XeejnO51CwLxiP0bqSZqFfuWnxlOP65xl0qMbnK6OGcSatQlfn_2onftKO382wtiNK-hPTK5gRxyixUWu9C1u8B6W9Nxa0zasuiA8AZ9UAvnB_4umWeoTBzhIQQb6OPuUcWrO1kmjUXxgY7hoUytiekwtqNMfx4KKqiqOzcTu4lvo",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ_e0JSQf2wokRLxQQ-EYCXrQ",
+         "rating" : 4.2,
+         "reference" : "CoQBeAAAAKzbSImFCG8i3Q7uIxFqbeH748jvMB_glrrRnOHfRMPXDbmdVu7e57Yn21AYzxaiPjPNiCv3a5xc42Oj4mpt4doCMuI49PCIXZK1sMBC7P-pqNC7m9MxZZELhsVjjDvazSxovgGwm2edtPAHDlPtKggu-BTDneUgATRQkTZEcR1GEhCOCrjS7wHe8QkU6DI7BZhKGhT_jIU4NPNF5bOw7VHgPMHxq52aNg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2180 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAJIN1McaVgIjkvVznW-6lQxGoe6AVCqXUwojP1ovrQnilx41V-F-nmOOwUZnjSWFRZaBFeBDrh7tr3dwl72_RjVjnEhxpT9CdFAdpUXTX1HK4FndTnCFwaVKglHkPLNKjwwTGzpEHOlX_EgRYXENd_HjyEhK-e-fYyRc5EtLncTkryFGnX_knNYplKDqGmzrMRIQyssGPxvQD8mSgPxcJgDp_hoUNu6RVPmDnOxVmPoVNsC33SyNo5k",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

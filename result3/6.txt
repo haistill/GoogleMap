@@ -1,0 +1,481 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALZJ-tPZAO53zxyEf2ThM7Ry7IEeWN6JqLWXfWL5rED8xtIZ0qZv8KgdQyCTqnKd8za6QZCGFuh7QdY-4fX3LVr8HOgwDvpovfezGlV2IhW29dQY_paGafKU-ftSMcbtH9MBWRTprNk7JbnCVdjnN5lgLUv7IwGXvRnlYUdC8EcOoyFNnF9kyz6GyBcj9w7SdMC2jE-9HhCHJY3n19kTUwJh_Xhdh95A-ZPplwXAgnNNujixn9DfgrD3B7et5MkLSWO6WrwWQlrB54QIhCyBEunS8s_LKW4X3Z_fu-HUFpwoUhqZ-PDJwLvIdcI2cFqB1xIQYWSeWl8bigM7GKN5C1Mm0hoUmxb2ERgZmhh7l9D3R8uOEtf6fco",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjgAAAA2XRo4AlDefRXQDtVuUax4xjWvY9P3JqcLE2p2YtSf7i6iAPyNpUZmQK032w2Pk5YuUZkg2HgZF2VovkImbRwKf5HEnYy8S9m2Uw2y-sqxOA8wVibLzKzMBPjeQ_6OMHo7bTcLX62KmeS4Ni8Cwz2iFF8Es-9Xih2Tk0qbHq6qafo6b3t5Sqee2XkyMUldDeRIQTsuAO5bjuihssx38jsJXjxoU-Dq7v3c7q6TmTbbDSSV_OTeWd3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832216,
+               "lng" : -73.94512
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5d5ba61bcc9ab8017ffad00b3adbf02e781b203e",
+         "name" : "Church of the Intercession",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 432,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAILLfGbs8MTxeCSFnD53pxxOXcAfZIwhMBjaQxe6XqU6x8wakV6ZNDX6Gi3vcurSFtbyeEy9xMmEKn3OXVH6K5TxR_u82wy-_IAGe_2ymaMzhcDtagpEhp2c0yJtdgSp4Kzdis1wVx6oUKNbtZYzCRRIQJolLJQNtB0EjWaWqUF0V5xoUjg7hZT_X72pPPvWkWjnoyOeoFpo",
+               "width" : 650
+            }
+         ],
+         "place_id" : "ChIJJ4-KXIb2wokR0L9jbeWru6Q",
+         "reference" : "CoQBfAAAAK-owXi3qYw8N20WcHZsXEvTM-WbJSA4qEaWaJR2QcC6a_6DlnWzs7hZiFt1-hau-1Ki2qOFTDOrPbZJYCqiO2_5vkfz4hGVhTe6B-SVIkTEtMYvx-etlCF5DkqVYeUsAH4kOnH-taohnzf76gcjQ8Dnoyaprewf8nXzCz5ySk9oEhBY58dkhIR8TgNk8NiawztqGhT5LdXr-e6NzLGyX-JRLfzWSXakug",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "550 West 155th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834941,
+               "lng" : -73.944642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d82389bc6f611007d1833ef61ed5808ae8c00ac9",
+         "name" : "Coral Diner",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJzwP1SoT2wokRv8aMglC0zgc",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CnRsAAAAxS50yxiJlmDmJiw6c2wzdhAoAE6KwNfWUJPbIHz4gSEa4HTF36IWm1rElZVAe7JnzJtCoOwm4G7gkBqspmFAz532NtNiYZd4KdNXUFxeLj3Ou91Lu6yut4peSKBC5FGwv7MxvF2_UVY-fxPnBObCfBIQ3E2ii8huKNb6lMnB81mgHhoUVlVhzXcwGENVXlPubio1ZgPZJcU",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3801 Broadway #3, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834662,
+               "lng" : -73.944886
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "fc2e9dc2537aef58fef0a17005425130b56d6542",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBbShzIX2wokRlWY1NelGWGU",
+         "rating" : 4.4,
+         "reference" : "CnRvAAAA1tRVFjc1cYO5BnjJ1PWRjN8i4dg-UzM_xjB5e_7KqPw3T4Xo2TlsGEnrLrNGp8FGOmo-ZY8XDU9KPMw1RcMgSEybH4vTS70C-Gpa6PxO6wgou9PzNRtK-DI5plTmpXBEuII6QUHTRXnuBufypfnHKRIQWaO3zqV9jrHxj1WzoapBExoUWfKH3iNBw3G4go4TooO10wYnc0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "3799 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.83537,
+               "lng" : -73.94444300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45a150593f1cfdb64fa3f11bea62132fb9f6064a",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5BZBMpse1iyKsgcGdIeqqVXrAkhgBAOKiXCLE9XHVyRYmTYRsy0myUzJB4uRs802ZMXh6oqoBKMo_09KEuzkeznom_Ey6ZAibrjKwETrO0KaH8PyM9DoaEUmzp7dbZDHgF837IqTs75CBqDiKNo8LxIQxzNiC7FiwHSwKuFq9QJfnBoURZfgMb6M8Dx_PhXWGexjHm5QSGA",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ2xcENIT2wokREhSL0jDFSns",
+         "price_level" : 1,
+         "rating" : 2.7,
+         "reference" : "CnRrAAAA18qY4Lu6lzz_tKeSnGP8ypBK8za_mOlBsx8DY_pieDOWgMhjgJMkO_vI41jiBAv8ujtSFPzn9_Nm8iGt2AeiJ9ILNDzw30c84FUainciiSw4_m_KNdgatUi5GtyZpwMZx97GOtvLjn0963b9T_WdTxIQr2X7bqv_Y3zD6_xIq9ayChoUdn2Dknl3znGq6fvo7uh2d8jp-Yo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3809 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.833048,
+               "lng" : -73.945188
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2f47167bd8c672824a1123577e60362b74d48a6f",
+         "name" : "Tommy's Grill & Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJrdYyy4X2wokR8AWLcUl4usA",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CoQBegAAAFhswxKMM-K58sXwk-2QjE5wfm1CU_6A7EZxhZHYBkycIqiXFb7DIMDsWNk4lFTUxVQY4lFVpz_cPogZ84gTvGVnI8e6p9237RwjipLvd16Vct6jlnAViR5qBfsPZmnI32c8_3BTrxbGOWbgO6qPDh_l8DDxv_Dy14pMgix9qDYNEhA-pecMY_S1Y-gXrP9syyM7GhSTJ5ZH4Ptnb2KykIaJFqz2oFMCPw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3750 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832937,
+               "lng" : -73.945216
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "58df71b447e54f292b14c231097879d511f47ada",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRjAAAANyYzJCHkew-a6V2yrHM4FBnOnhTZRJVgSqjys--e7H_5XMsPsG-0S_2gw2Adaj1VoZaUZC_ASvu9Lf17SvtujEfbedzR1W146moaHXjuT6tQruvJUaoJwv6fDeZK87pAgpXJOk-OXzZFKyN9KSgp9RIQ0b3-Sq6vfSpx325H-AFXzhoUWCGoIQqb18EtsA3f4WMlJ7DFpl8",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJDb9nZIb2wokR3Up5iNU1ARY",
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAfjsSCHnqT7Mv4v-_w7hOQnOUoV__08fyn9HkY1a0OfY5lomP7beYeGGyRRxTHXCos46rWnPTNgAgK2JftNtHNiuAv5dnZx3_2tK2O4RVMzw-aedE4JIfvoD8Ocpu-Nn52nqzbfDOE-jdh2kI_6cpUxIQlz8fF0eVouqw89fAx5Na5BoU8S0ATfqgraJxSdlaep6-A18awcI",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "3740 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834109,
+               "lng" : -73.94448199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "ca55a02696b6c0e62e8cbdc1346c7eeb50741386",
+         "name" : "T-Mobile New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 155,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA8OGtit2_O6IShbDkJs1V-bWWAZjRblZi01Lg_H44wU9KzrwYOBBg5TKf_sAALSUwZM-bmxpbrJeF3TAH6icrTBIAS1vymCjp4U1_B2rWsrkQt-ALLMwx87GTK8w-ZC98uFxiUkZKlO3Uh5cQkp_UhIQvk3UWOpdiDpbEBcpVhBFBBoUa7dpBfHjwYG2fcGQVAh4hvtXQyc",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJl4JRMoT2wokRkHnPgl3GIsI",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAAJiXj4JQdzI4OJpVmRnrNOBhCZpTBeOxsxfSoxn2PGhw_v35LwsLJfF4VYh7X6ZlUEfIrTJCH47iovr-M8isBmtCmiNHHwD87NI9_xPBwNQDFlj3O-ohMehd0hybmKHwaLKm8_95A7yKRTTmolS08uwZ3WwZjf3TOp6s4iOPOd0tEhDNYOajnCnOCuVL3vS0mkJeGhRtCzyZnPfR4ueEpYn_gaWso6SkEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3780 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832455,
+               "lng" : -73.942622
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b9f1cbf34b1c3720adc88ea569ae49d9ff7b4f1e",
+         "name" : "Sister's Uptown Bookstore",
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAWarKVBwTaX1triLBiwa2RunCISRrqOz-G4GglxJsg5UKKqwTiMwnuiTJuzsv8v8ANxGnGc4RYrecNORwbT8gLwJG-qhx4bYQkhU3oQGeJNRWDI-pZGaIP8Q9ALj-ZQQOzUbCsiWsITJRuRkdSSqSqhIQ3J3V6v7BuLJYVn-9rcChCBoUFwZSd8oS-K9mdG8SQvctw_6OXus",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJM5OHsIb2wokRRszdhqvxJmY",
+         "reference" : "CoQBegAAAJDki0ae0jzisWjQnhIE6Be1HA7GtY2P7Jc1quf0b3kk87aj3NT-amA0rLdvCShN75DIWEQjFtxNDka-c3_ua5ADlJ-jdnZGgjOQuZomlTyEpZKvD9fuHXNgty7li4aqQadGMcQDtoWwCru16Cl4RbDyPlhUFBh4Ma2hSfcG603wEhBP5pgaMQOL2nOaA0YBaI1AGhSHNQyprP4gToDM4Nx6_3sNqe0VpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "1942 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834537,
+               "lng" : -73.94528200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ad27cf08997d6143a5b5b6c53c57501e8ab1ef73",
+         "name" : "Taszo Espresso Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 673,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBegAAAPDBEyExtMuRGURyvZgFLnnLTqMnZ7Qeb243qKaaAOFv_KNEcFEDYC9CGBKg0tL2p67_b06PnHUR3jgnWRfuOQJIZ4S0GNWcbK6JeR2M5_szexXgYWvkUue2XHfyGcNa-4tRXDyAIr4lNxbJ-Ta4PrmBt_ia2gtu7aC5wqGy9OGEEhBeT6IdHFu2rOggH67y_r_KGhQKHl64u6KoJ6s3Mstrwsr4CRPpEA",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJT6TbxYX2wokR17y5knj-EHI",
+         "rating" : 4.3,
+         "reference" : "CoQBcwAAAOGft7_q9lSKFzdyZ0Xv_R5Fv4i17QAFMdCbPp44Gh3qPa7jk9JuO0aqgiWelP8iF9-pd7BoIdo2-s1DdPBCwu7tl9A5uZX3oEHAjPK3cISJoTjfxBhOFuN54tRiJ3G64aWKF8rJF19VGeN7GCZkrE_wTSTRLqh6FlwdHsCmmpx_EhAwXmmuBepVkF6aDCOCvetuGhSb_crj0eHL5F0Ctr5_SJSkHdA7Sw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "5 Edward M Morgan Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.835113,
+               "lng" : -73.944524
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8d3b7f972b0033e50c5aefc34045f4c01cf5e3d8",
+         "name" : "Payless ShoeSource",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAcD3TkOoXd0gWsBIlSaYa2AbXQe5zrGqDKVvGD4ek8misUjdQDx0USZDxHyJvRav2mvXv-UkVM8i3hi6Kp-OLqeDor5l9hGy-59tDsDzz1XBJY9EZZc_F8YRmDMcJdMyExceU0evsROAoa4zYPlMuFhIQoy17HESJJ24nQqSNM298mRoUh_i7pYuQr9kj79JQclOJ7YuGmpw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJYV74S4T2wokRXCy0gL5xTzs",
+         "price_level" : 1,
+         "reference" : "CoQBcwAAAGYIbS8d1UAqiIrAR-89MoQnFg5YbJshuu-iYu_1Fj2MecW7cMQ8T5sfLo9tZs8kkQIOJYkfr3wYWbswndnrzvsEBzjYv1TXTA6nEv4jBhj4amx9Aqwv-7boMmCorcqu10kdyaTbm1AKKeieTuim-6kB9sjD5ZYAxoRQN7eCPfgQEhC6KcUJC7Ji0jgalh6uOMHyGhQ66wHj5LmtikiK3u8n8p3ntsFL8w",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "3805 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.833379,
+               "lng" : -73.94249499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ed873576bf957a4b5f9c593467b146d7c123aa63",
+         "name" : "Community League Health Center",
+         "place_id" : "ChIJ1a4T8oP2wokRgufPfACUJMQ",
+         "reference" : "CoQBgAAAAFygnjrcS4mKKdlmmNyH9NsxX_ktaVIZ_7YJ--wzVITLOIM1oTvChuCNE2ZJmKT9vgRPXBxJgOA4JDabZr8wb5ZXR04Ixz4gT2wyl1IbgIK5cSNuNte_RWIqfhbhGP9HAaLOksoycZ-jV-vGI4jpFimEyww633uio7c44U5lKenuEhAkoMkLG0Csa4XQ5TMCxDwPGhRGG6U3T8OYkSCfQbf6fLZc_qdTaA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "health", "establishment" ],
+         "vicinity" : "511 West 157th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834974,
+               "lng" : -73.94471799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b786e5ea1b74031d45e95357f193303c56e9086d",
+         "name" : "Express Cleaners",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5YagPzHFaf96Jtf_TXTCWYmRyj8i5XGBoPjLlbxKVi-t7zS0OH0jnb5ibBgrSjIvzh7_iSPt0Cuclnak0LWoZJWp1fusSw2BG_kM6r1Q7oJFiEQf4kAy7pWqgb_DxIJvw-M8lsRtLXWzhkfhzNWMSBIQ_OcURRbVD6XuKM1WBuOmsxoU8_A9n01Z4r6gODNl_vfnAsMM4tE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ7QovtYX2wokRm3mxLxFcHpI",
+         "reference" : "CoQBcgAAALPqsLjvyld2zYUIwbkgCtXHCvkvpR7ELq2UlaXd_9BJEwUTOmir140fULA_1l0ZQRsoOLnnY345QU2I01YwjEVGobnU_Ifu_2nIQ9JPH9e5R6aX5uNgSdsDYBj9u9Wpa4AKsvv5-XJAt-lOlt6i1IWjzOVmY4jLA9Yhbm3mqH8YEhCak8Q_BG0aY-yBfw_jvc0GGhQN-Agy2TBesxE4TOsNbreb6_Z-Cg",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "605 West 158th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834154,
+               "lng" : -73.944436
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "407f8394a7c2eae46dce576e8bc2d2eb4a76a0c0",
+         "name" : "Delgado Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJj80LMoT2wokR3dZG2DqXno0",
+         "reference" : "CnRwAAAACYuGOUPJ-u8Ip_yiJWvsVEYb5hzuL9vZpQhXjF8ZN0yf79p9SWSC4V-TTBAYXXFL9xzXNPGpQRU43AaMEICV5iHfwZivextEFp-UfXRcwHNNIa7V_osTGg2P7TDo_Qoep-b5-amqp8itn4JCUotJbxIQOHwGGDRe1wFqYAkyR3oApxoUeumdLew3hU0i0Y30bd3OYPHL4JE",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "3786 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834133,
+               "lng" : -73.94553500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e4636c1d39587985405f66a83131cabcdd07ee1e",
+         "name" : "Buena Vista Vision Center",
+         "place_id" : "ChIJ99Sw04X2wokRn9ULoNc-YHg",
+         "reference" : "CoQBegAAANX_rjOoZimGB6OvGLWABaBaf7HgxqXxMFPhJiRvh-7lwZtjxsGcr0FZjBXWP1tMuwInzrozPxDHkevt_LAsGIzo1jD8nc8K3sADqWPaLhi7TdOCoiEtuT5GYhjdl7FhSel7lTB8Lfu0zbuhhpDfzPgrh_EoRZWjSn91tROXIhS8EhAEHhRtlufO1NbYDgQJ9idOGhR9dFTvZaqjkjpL0ukUnjpSlsJAPA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "3777 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834794,
+               "lng" : -73.941295
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6cbdd7db457018b37f17b6aa087d7c0c56a7dad7",
+         "name" : "Public School 4 - Duke Ellington",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBiQAAADrEEqQJKZCsbnSOvkYdBCc9pMJlFib5Whdve7FnYan081GlU6UZHlfnbq3BjMq50riPC3FLDGHfKuSHLni9nsIV27_NKU1G7q6c0oGE8VPRatbPl6mbDUvSt76RYcJdNq6sMYbHZ8hxxVepSvmEo8opLEXCcSZtHTzZzYlHCMtMwzoq50S6fhTMhiwiZt2nJBIQ5QIQo-1KYHP4rYwpwOxEBxoUye21uZLlh66LWBJOaZSovu5UdaI",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJu0A6l4P2wokRWQ7V95zICd4",
+         "reference" : "CpQBggAAAPfA5-Hx1-REEuOnrVlSSwbDkRYXOgQ8Oj_0fKn53Oll3GYSpvfiaAQXP9C_n-YHXCNWjRvBen0LvhBUdwLXHncDM7dy4gFLkvEDYRSYIsb2fY5eyKqZ3mV_jpZKVrv761I9tx4nSrexeMEJKlIi5M5UqTahwU0dv0k5OL15aUzsqyZ5u7aCl9-3NVLg7JertRIQvK-X3NhE0tWbIxCmoNaZORoUpODMcssIWl9tzLW2xitB4P6w258",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "500 West 160 Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.833838,
+               "lng" : -73.944714
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e85da99fdb365c50cfa2be16627e140e2fbd911b",
+         "name" : "Empanadas Monumental",
+         "place_id" : "ChIJMfGz1IX2wokRfiOm3uH2IJ0",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAAI4xgW_45zoSCM22qS8pdjr45szHBmyCEYq_CrxDAbk85cN4y4kYl47FNKdqFkZSjTlm0VL9mYxJs73nJclQLdvgukv_PAUEcLMRSuyhQkZ3imU6qTUPpaV6VjuodrRIpl119inQyZojMEl83NjR8w58tqVrsHfL1RAGfHt7c4zrEhDkb9EFfX22L9adt0MK-njiGhRO4I3MdMwrI5flnvmfoJodOm5Hgw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3772 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.835355,
+               "lng" : -73.94357599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7c6aa3aaa069b5dd5e8ca79d77e372016d3da2c",
+         "name" : "Margot",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJiwcLXIT2wokR44HelCbBin4",
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "CnRnAAAAf5hksBurnY22uZ6nkiX9q_QInUCpyBC1R5PL4toH0Ip3J2mSkRXv52OQe6r2HpXf4ahN5pQkfLmyi7o7G7Tzja27HtPfY-7WNKvaYSywXQ7gV4EHIaYZsysG_z_x9Dd2lFB8n7p0PumurxklaoC46xIQugu3X-TSCaCz10VqGxzjWhoUFrbaLSsEEkRXr05CRnQcxEM3al8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3822 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.834952,
+               "lng" : -73.944554
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "33b7623a1651b16fff4b27d2e4e276c21d25d814",
+         "name" : "24-7 Discount Center",
+         "place_id" : "ChIJzwP1SoT2wokR5b5x_VuVXG8",
+         "reference" : "CoQBdQAAANm3V2ed2R11FUa5HERM5fIBMVMU3EpW4uc6c-64caBN_UIYVzinVx-82ckbivb4c_RClV0-vRHduF_FlS891cGw1cHsWuKhrFvFEjAOf0Rz5mkjeFOmmKub15xei_GA0_lHhsxaT0_cUcLS9_34UA0blHhU8J5rLp8hQUamx87EEhBfXf1MDyHjZiaR9mMC5ltwGhScNOk20_JQNOB3TjIjLMWLnDh4hg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3801 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8417082,
+               "lng" : -73.9393554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8595902,
+                  "lng" : -73.9224529
+               },
+               "southwest" : {
+                  "lat" : 40.8281291,
+                  "lng" : -73.9505678
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e30d86dac324190bdb532fa02192a66c8f309138",
+         "name" : "Washington Heights",
+         "place_id" : "ChIJyzs3Vpz2wokRBAVKClFzdR4",
+         "reference" : "CqQBkQAAAA_bPMgD3nlJCl3qefNS-_V0tmS3m50ryXklrV_jSmqmUNoYmoGMt0MpggWlesNu_a3IOE6BFOmgnhTKVJZ6GlXJF9Y7rnvffKXp4HBIlNzd6LwwWgKGWrpvM6dblEUun9coImENOwdGVto0N4M_uZfrKVeZwPjAM8LBzaxxzTp1j49fAqGor6m-EMOPtd3TyO6puw2SJGTVsICRjMZNyD0SEI18TmizCDHS5iz1lEPLiVYaFFXCLkVw552CUL7oBFP6SHKLN8uS",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

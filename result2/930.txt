@@ -1,0 +1,527 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAFX7rWjp9dobusvHmwdqQnAcZ_4NksWOad8tWNBCsEtK-jCj49nPUhwpFJ5E37SHEn2rWiMLqEPCsH1mYckAXyknY_dm3_jNNh3KSIcGKYvz0NwDIvWw59hiEf-dM4pHe_H4JY7_labjS1Ee4FMtusQiZIhR-k0uMvcsBOx1OIAuTj5fCz18aNQnHdBgdxcMLMVsomo9GKr7VWe5oIwcK_6lFmDlYky58RAnOXbSjyWpf7w9NmrOldAcUNQU8Fmy10IQ7E_ntowPZ2dyAJ5OtoCv6cn51KqkxDm-pLu265-emLSCKSdND4S0_4YgVs7L8RIQ6umEq3ZqxDEGaBjcZ1IP4hoUH4xZ5jUyGLeAlqrvKZTSH6f6JqQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAAFQeyvh3Bpsu8HEaPhqfTixLCAzWzN8E78E2jY_il9IgOD19tcz8IXN-4Jmp_3aFM6O7lJr9jz5kTHIX5drkIvXrbU1wShCFkpHxcEX5lZ4cvaFtSWpeC6-1gktU8ghKNrvQJKe1eLKx9q5yMtoRyy5Ms0dLqsxM54on5N33kVxo6Dlq8xYJQcIrkzvDKQ7joxIQWY659vWgvDgVPofeUZvQCRoUTU5xx5srpYq7AHQV_Q_V5S-idig",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828726,
+               "lng" : -73.948415
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "837ca4610f0fc2731efeb7d59f168ec12f08727b",
+         "name" : "Harlem Public",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 341,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlSon8lRS5Eo5Abx0UuADum4SzJz9tmK6YqSB5a1s9nhI3U0By_T0tKvu6j1tOfA1xf8tpYfN0nGeysOVFTh1V3yeUEFmnkcFLYRAaoALc2tz2gcYzmG5E-kBG6Ac9k9CIMr0owKYmkC14BLnh3LmexIQAyHyYJBY0gA9nTBcmcB-rhoUsVNk3f0F6oxHqvfsjCeC42hKIZQ",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ1bpep2L2wokRjaoBxorAv1Q",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAhCZD7AM8i1dHWXrQgDV9Hn-4No0rv49dfuRlUXPHWNxwTWqXJxiPV7lqqXCt41dHAmT1AH4v15Uz0bOrzBX6V1DXIRUnQstP2IMUtlZm7vrqq7xwmH2vB3X2LjdjH70YKo4XGzgtD3thOWDIezMNYxIQi_fKDgw1HeeQ6AlG7H7CiBoUh4HQLoeRZ95iSmNaYZ41kMjvNY0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3612 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829845,
+               "lng" : -73.948294
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81b62c1c4cf3bab1636413a09ffdfaee2c6fd69c",
+         "name" : "Taco Bell",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYp-CLlcXfY5ig2K7vyvcz5AyrQrZVSkFyrDQrjIqGOzyotZVHEcY0736iM8Bk0cgwqz4APoRIuG1faQ4UK0-9FO0C_mKQL7eVrMWKmBWSdrIK5Xks_PugwHepifys_nrQdlP6mgYwZ6nip8iX62nehIQOE0JW-Pfy2PN-fgZ-H3xMBoUYjax3EAVxPwAR-Buo8RuDnXViAw",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJPbNhBYj2wokRWajHkH1h4XA",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CnRrAAAAtQV9xfCF-vcgLm_8DRylHwCOo_vl46Oy8Xm3d51Jg0NP-ONfAe2jZN7VG5GQ72IrVgkOkBM_-7DkXeAXTZUKYIG1-X-z2vOoKN0T3PXQAoXbHOVQ28nkd65-58hKgU2u9wyc1Op35LjpAh7WmJqiVxIQVTb-oZBjA-vdkb3idY963RoU0CdMqNM8p9zKXcjKm7vOfeeK2Is",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3645 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829103,
+               "lng" : -73.948108
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fdd29803ce500651b48841c400edc3d03eb6564d",
+         "name" : "Union E Restaurant and Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcgAAAIX0xVaTq98Oq01sMLcl0tlpRES7Lo0C1UkJew4__2j2IH-Kkz9eVSx5Z8cu-ntm7u_oLTufz6UUn5NyYMtGvhSjg8zd5_QJ7ozG7QzPYGaz-JAKXPZ1O1S06QTRtesgZnz7PUF0mxt6kaSQT6dW2khvDMtoh4vxKmnD5NPIRUXFEhDXMqRUjv3t5a-2jSXHgpXQGhQ6c0tsAkTxPckH9NkHqZ5SIBZzFg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJlYFcAoj2wokRvf7cZFym3ts",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBfQAAACbK_d5eM8yVwpT29kEEgTcNVbqThJaWEZXJP6LrtBdDWLv5k393iggAvOTf_uGqVru98qLcwXM8HHg7-n4qiSKBGq55mO_-S_2D4tBfGzYUaIkfW00nus1mGrYXJ7LTMVnPrmdlhlu5IvrNKhPNh_C0XEykJGtHExmr55COl-DPEhB05lZ-oDtgyVMBG6bCIgapGhT_lvU9Mv4C4xu6-slBpKsaOKa3cA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "3628 Broadway #149, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830146,
+               "lng" : -73.948106
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9bec5a70a4284fcda3c5573562602a31d54657e",
+         "name" : "Kirsten Palacios - State Farm Insurance Agent",
+         "photos" : [
+            {
+               "height" : 396,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAN-RKFSGhTkMp_I1cF5cvgCPde5VXLzySOWoPpvrQ-FivdbmOb06L8iorlaTFTyPfmkhj-YbKhlp0Ow90sFJMndPF7fcVO3IBEUrfmK91NIqdotykHYtSlhDCKha6I6v43DDpjMbgS289Nc2QqDxgYqDvU4tkLVqTmVRDnSYWaHxEhDg6i7ksbRWYDxakeJrRchpGhSEpm4dV9x0FQpuiDdYsNTM-75Wpw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ4Z-PC4j2wokR9Rnghk2q_7s",
+         "rating" : 4.3,
+         "reference" : "CpQBkAAAAPX4isvKKp0S2C-fsX6_h8Gr-eC1OW-q9W7HW_P51gazKoRt-Q9TTNuyXCiyxxqM9xO1zTaEAH6DnbNooQwy6Rsb718FnuX4AbAkIzk5Vpn9yCieWX8hH3pkaANSCeFcWeXsnZHcMt3ZRPsO0u9qe-p5VAZD0GXftP-tpLdtnVqhGEQ2HYe9PK4Q5R7shCb4eBIQL7kuN_jjAoEGlbwHaZ3aZhoUPgPPCOyTEZdBQ4Bei8qHidMEbco",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "finance", "establishment" ],
+         "vicinity" : "8222 North Belt Line Road #200, Irving"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828601,
+               "lng" : -73.948525
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3e4ab77f3adb98e95c039068bc49fc37aade8d1a",
+         "name" : "The Chipped Cup",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2vblb5R8iO-jUq91Eu6Kh9IaN2fGSNmNAhpQt7ZHB_t4HmyS4Q59IdhfNvqK2Bbju0dh3eeG7pFujnVOvfqYYYP5t-5xvEj5XVFsZgWfoPXttGBau4pvZcU9btqTQTUIirNleWdC9HV-m4wJfXteOxIQPKtnPtCGjnXNxBjK1hqNsxoUNbgwYz_QKa5b-UURtTSLTTozQM0",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJBWDRs4pYwokRTZSRfygDjhc",
+         "rating" : 4.4,
+         "reference" : "CoQBcQAAAG_0dRoqMzOrRrvpH-Ytxfhdk03usbq4xRrbq_14gRUqjtU4wCu6PEFDSl4UtPj7NqJZfqa5g2HEF-1yVholXkzNXeUqImFsjsUcPYpujENSOirl6mpCZkBs-js38yA8rZnBsGTg9pVuk_yKR_Ep_gq_NfgQCCZoP84jJAvbvBXTEhAIAoXJNjmnbHuM-nMtteEfGhT4NG8JrhCzSwtBxW7AVa-Of5W82w",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "3610 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828372,
+               "lng" : -73.948722
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebca2dca2d30c88e58cc9a93f2ff650634acc8ba",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 792,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMHe04IdjOuVQWNspDJ3bv0VhSZLRBZhnpCtcz0tZfIMMAh02m2kiEsqZrZ8_y_3feRGIuGXmvxRcU19wV5rrhc1DNMK-OlPrdSRtkCL2H_4L2BMFCAZBPMqXn2L6RWlhCw6URcmVV8NxyboNkD3rPBIQBkYXbvWcqc3WXyip9sU7DhoUGJ4WLxD_fBAVheKZ-_KTQLaf5SY",
+               "width" : 792
+            }
+         ],
+         "place_id" : "ChIJ11ziu2L2wokRZl5kdtdj_ZY",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CoQBcQAAAHAx9-Yrls77aFtMsLKURqCtVP1662hdcojD8bav9mERi2T_gCDa4rHclJre_ZvKGOIM93O6GIu3iB3xcHEMn42_CH3Q90E6ZfIWw-9uhBXtKUNEOdq9Cm2kbyQCQH8ZjcgoIWhWuYH-LeHIWUQACoizsNFFn_1x9__0KkSq-tr-EhApQ9Cd6BGuTm7kKdPj9JFkGhQpKihQO_vEKz_EWN8pEd9utH0gNA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "3600 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82882,
+               "lng" : -73.949022
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "141ff25d8f13cf18baf0d356367ad086cf1ceb45",
+         "name" : "Best Taste",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtx32o2L2wokRkMnjFWZTaSo",
+         "reference" : "CnRsAAAAyi4xVe2QUORgNiGLUuUwAyKGL62KgIrJT8JWc3cESWCZeM6pEmWqmdMECgl-jA9qYNREzKNnBSa-gY9y8kEBf0ZURtIFMAoN2YCCeo5VJ8-oX3EMCAODAn7svEWQGolwzhDab5dPIsFSHfs7GcHbthIQEITRyBah-Hxvp6gKo1NIMhoU1W4VF8Ya4EWn9rIwVCM_h77Yv6Y",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3609 Broadway #5, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828957,
+               "lng" : -73.948168
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6cf4ad6177279869e856b9ccc33deb9abdd60f9d",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1pNlreDfiGdTctR96FA1K6l5QDJWTpbg0FCikeAjFWHs6477cy0WHMxKmliUEs66wSBvOmxyZRlyl7HBOz9ov-rz4G_ob9YUhtfYA_W6J5-ODExELRQ4jeBVgxboWEdwzIm3rFejPi-UpS4gkh4uPRIQLiUDMo_Oi7wsFSLRGGQbvBoUEnuIiNIwj1JsOQB1j31ddYxsa4A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJu1-n7GL2wokR7eHIIlfiPk4",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CnRwAAAAkxDmIQ5ZC4Vcb2kXwVsmlVve0kDh1tr2MRBL7j0JDlKT5rm3SORJYRCRqNmSqoNBXxpsJadeTqRIjTfWA8vYA5IzvLtxP9e8Du7lrI8qW8AzoK49QPoXRAQb-vHBl96c580iVCdrADNUSXIbTZhImRIQItqjS7F0gpP8AD4HE5rumxoUvMaDLO0zNCjmeBwuPOBjOgELBrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "3624 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828275,
+               "lng" : -73.94860199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c96aed8e22948df688dc3611dbc5ea4ebe4003b",
+         "name" : "Baskin-Robbins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ11ziu2L2wokRDaeqnsgqoFw",
+         "price_level" : 2,
+         "reference" : "CnRwAAAADP0jYX9-xeqyTx0NtJ3HjwEX3kHhwY9YHWx7bqCxfdL-bOXebwmXYU7pzNXhDEaN-XDDPgYYRDLcGD3gJvhb1toxZEYWI3wnduK9YHdyV7EXGnQPYJ9bbxr2ipfCadiBFTf4Ae-ePeRrb4MuZxtxHxIQc1ACILg1qA14nnGWarnFHBoUwu5YihOPRWpzyxX_aRgTVDkmUsk",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "3600 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828601,
+               "lng" : -73.948525
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "5274c3ff1eaa87dd5612d3909f9a1d1d16212e01",
+         "name" : "Healthy Smile Dental Arts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 107,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAzPyqRYwOKcap4xCrBHnkY_r-Z51DcKjoCTS87Sckr13AuhJbe3zhEMdOj06idCWwr2OOIzaYEIhDkTggwLbypgaCFLQPMfO6YQxVmmwyxcHSXHjtH9HQXbsU0WgHuJOiJc0G3ONA-XvV4Cw-drYKDxIQeIA1SoU-tjFlRBq_k1xushoUxoX-KzPJL9H5skwAs6Zc-smvkZY",
+               "width" : 160
+            }
+         ],
+         "place_id" : "ChIJ1ZYCpWL2wokRqmXD5zW7uPs",
+         "reference" : "CoQBfAAAAHX_P4gWUsW7ULMNNQ0zWDcrjnlcQqbvJTOrvFjiNV0Bq4IGpd8pxT00JWCpH9ErtAzd909s4OpG0KYYW-j2SuX2usSRIdbf5LD6xru963BLxTkdcfrNOMkLNkM1oC_gnvcDx8drTl29MZfl5Je_UIssKP1e--dwhJNl7rKd36ITEhAEPFAcKftZsxExVzRYAMViGhQX1lp_LNEaoRNeHgJSnydAjinQgA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "3610 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829683,
+               "lng" : -73.947756
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "156532d5f574e03171ccc2e9f957ec54d3fb05a4",
+         "name" : "Delta Room Rentals",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 556,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfQAAAJh9JUFcFm6wJD8Ly6BpSl0XqL1uKqBweQwmVCa6OmJxp7girxCTNTAiTlmZaxTXo6PC5TvxpBcFRFcxZ-3nvaSSMoynjHDEi2FS9bM4K9ie54SRUzQc2RVmLjZR7boNRTeUjPqrgPnjBudhJLykRJT3WBb-IDK2Hj-HcP59G7ZMEhBnDbMwArgI8-0K5IwSQKaEGhRTc7TtoBUhH7qmgU5CReR49syfSQ",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJg8N7CIj2wokRU47-_9zct18",
+         "rating" : 2.5,
+         "reference" : "CoQBdAAAABbXp3g-cmtv3ZVmESDpNdYo1n9LA1ZnWX0IcGC2x0AFmZ00fm5atOnn1XRePEt3MalxznyBw9ZVsFu1_4vGA77rmrkEdk9_ZNGxWPHRYpvT-PYj-skl__ajYtEHL-bpEuQXzb_h2z1gZ3lVt0LZ-0dxPZaYLDx37JozeOl9nXIpEhBS-ZDlGHYHyRKq8GKwxzytGhS323p2aGxQFACCgcLK9OOSOf9AEA",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "3644 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830327,
+               "lng" : -73.947199
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a92744138c49e720d31e990a48fa29d6c4d667b5",
+         "name" : "Taqueria San Pedro",
+         "photos" : [
+            {
+               "height" : 1426,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAANCikTOnxvgPvey1wF4ocBpFgJmNb8hTTVHYcbuTwqXYCN5iuqj5jBpKvd-p5vqI93j9iOokXU045DNsZU9cjXNoryQUJqK7FRhxmr8fxpAorhri1I3c_QzFlFomI59SZkku-K5Ya0YbQR9P6YoJgHQywYfHGN8vryPGFdoEZweDEhCOpq7NX9FXUnmFzBelJai-GhSx3bq6GEQsHn62yAjukTG5VTJr5w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJoTl93of2wokRf4XC1i8RlL8",
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAANTQlHjrYObquV7MDW_4cOlIO7-t2K9ij6WfCRY0tDUHiL_1OIVh3oFO3vcGLMUJ9GwUHJGGfmmh6oWo0d7osawYljO5Mtford0n2jVeCRX2RzLNeW8wkz4WNzlUGhRB_dsS_4AUONIWq3m66uSwiwm1TkR_tNyFtJOed01yzeqeEhB_9QYGf1rT4ikb-1_e96mFGhQ3rd57teGZK_AiELWfp9ZUN0ElhA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3662 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828621,
+               "lng" : -73.948543
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "16ac89a32ba61fd364c83354fa9a850036ca845f",
+         "name" : "Healthy Smile Dental Arts: Martinez Grecy R DDS",
+         "place_id" : "ChIJ1ZYCpWL2wokRKqQD2gZZ6vg",
+         "reference" : "CqQBkwAAACNtGGvQx4Ti-Ane3t2ni5RKDb4zXa8YVjpDOFW9mcOQZSRmj3q5JVCfcnE8N4z24hikjzj37Xf6rnh0QLBTjGJl23E5s8AWfIDypt1aq6-hdgKOm70Rnz5cvbtwVlhw_CprYfWwQtR1KQAFt9K2iLh-iyt-FsCDATgoBcJcRg4CoEtsYgYIvefxiJnrM4qjpxwBfqriGyzbNXjSqGJS-UQSEJCqbRIjWrvjRZpS2IZPTzwaFCtIzEID4Ijd503-1d3HxN4kYL3O",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "3610 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828768,
+               "lng" : -73.94838900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "863754e5b0b9c9ef8d47c55b98e13f7d3ef5f2fd",
+         "name" : "Washington Heights Pediatrics",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 572,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAM4_KSXKGNRoR7tmt_1jHcSwvac1AfpxfzBFiKwGnRJbJSQwZarac6SzqTJrY7NgdLX5R6xHLkmzd_6-Vs2fkmpt04SjbPpk_G7qTWNo8O3nhpkwT7TZG6AgxTkbkWQ0z8m69XJu-YhNyeit9S1BeahIQeNSR0p-qDOZP7if3FDKFNBoUOj6vVveWME8G9Mb397_jxc206sA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJC4OooWL2wokRk6r1GVR3ER0",
+         "reference" : "CoQBfwAAAORa3MgLub4CAKPkBf2RtRErxvzoYX5Tdu6Ys7U4foDpou7O6Kijbeu5AMEVbppPyKMfsIUKWgihRD4VBvK9PwEyGy65JChMRCXXfQe52AkoC4iVowVnE5NLfyxroinwEX1_JO6uBszevGRTntZgZfVfylkr_bS2uzRVhc2jcKrrEhAzg2dZugGUshKEYIHMhDt5GhSI7bwC1qAwRX1UgLMhvuajW4roJg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "3612-18 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82884,
+               "lng" : -73.94906
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "f7c306d6b5223d6d278c58caf2710bfa2e1bf226",
+         "name" : "Photo Walk-abouts",
+         "photos" : [
+            {
+               "height" : 144,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArsli6gYaY0eCP58ktPGGsD6yt4-bEWyICrAAaiuFsXe9eVKbExbtZpxKvS0tZ90ToDE6B1mbPCF6YOnl1OmgsqmxLvApKSuA1NPrjzfVG8chk3ar-flv4FlRjwiWyYXl6tRZEIg3PAmfKYAS3gwsVhIQuFpq3N3m_yuQi4e-1NRqARoURR9B2WL7haPvY6v3f7rWaa_w6c0",
+               "width" : 216
+            }
+         ],
+         "place_id" : "ChIJtx32o2L2wokRjD1PsU3LV2A",
+         "reference" : "CoQBcwAAACqtI9VzqOxP642OKfibLoIyk2Dv9DCYZBz3XN9HMhxEIIRrTcigbbd1auM-59433aRmVoOKM_YPJGuWpwPjDe3OiND3Co3g-LN1E586ePRYCRAFuDd8LZRTS7b-A3ui9U-RrVqVfEeOwsUMNItdMeTSWnjWajlGIv7tOq55_jy8EhBq0em5otdOIXNLNYYAqp4IGhQXW0pJU0ygeEfpYabcjSSqMfY3Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "3609 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829356,
+               "lng" : -73.948206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "a5bdd07119f217df8aa4bbdac0c4289b4a5396c8",
+         "name" : "C-Town Supermarkets",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAA6g5mAgB8bSGeCvLNb-fSNpY8A1YxUgX_nbldljozEOxCoNKPQmf2ga9GU3j_tf9ZaDExr8hpdw8r0BoCQ3W_B1Sl2QKRWUkkqMTR7pPaQDfB723FcCffoyZ4xc-FeZhXwhLaH2yKmAFSJzaiHU-2DxIQgjyBr__0FBH3XMfJLKRK5xoUp1iiZhfZyvwIFcTooRINjJZFQ_Y",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJRQ-_A4j2wokReuz7vVTk4Lc",
+         "price_level" : 2,
+         "reference" : "CoQBdgAAABtuQObGAtGndv9UsEAoF5k0GUaYIzQfF0O2w5kmTL5qkos9B_7wqxurUPEwGEQmBeFijLQ9POZ-1B4R348_7l8mpWvfe_lwT34E2H0SNRmhGKBbq6GmyucFgQiYQB4v33fgmIR8t4t3l6rudUD5ZVGW9_bCY6rHP_1HYguXkNgwEhDdclaQ2VSqZ7tKIWPobgc6GhRLF_a_a9pJj6iqIWEYbxjd8ih15Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "3632 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830179,
+               "lng" : -73.94807
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44f8759d63b2065699bfefcee9709be76d4cfa9c",
+         "name" : "Pay-O-Matic",
+         "place_id" : "ChIJ4Z-PC4j2wokRQzSHSfgOdIc",
+         "reference" : "CnRuAAAA8ZqoYMQhn6Vv-ig8i5fIPzwOQaRaYHTRQ-p49lApHK3rMo8AWeY4ky2YvlZLqxIQgdN2VhzlohEHlRoEamwgPVwzLJFHmpNWHeczXH3rZHeV9kd-RFNfW2ucHT1BpM0Rr_XDo9P2DAeZIVay3hY8WRIQN_cXsph7DEVB7MWfdN-cdxoUxQrUhPmXZfpiLtRFmWHxVvBQ5T8",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "3657 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829166,
+               "lng" : -73.94744799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b8cef90e4b7108743ef167f9e3e20690621b53ae",
+         "name" : "Seventh-Day Adventist Church",
+         "place_id" : "ChIJY_Y--Yf2wokRm0DqT4O190M",
+         "reference" : "CoQBfgAAAAeZaJUhvJZkrWDUc52FCd3SX4fn0RCWc7o4ig8zkIeSFd1k24AL1X4uEMvn3hDsfLlLFlTJHrRX3jdYQI8h6w-Gib72DD26ZcJNujVNw58EKJLTgnO2GL81QV_uAJeSxYIHV3mXb5qy9H9YYjA-lOlnG0xmdjmWHDHl9Wy04IbCEhDpiKz7UJ-9V_HxeCxhb14sGhS7EkzO6DV3qFTd5XHtRdrzRw9Xdg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "562 West 150th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAKiz8k33uavIetHO2ECY2CRYlNNfqbQ2-IFtlPtp87AfyooK4FbPu71oZv0_hUP3fD1Izb2zrVpkBvXvLL45XYuTNo2oA9suOuvChoKlrba4TTqGf-EikX7oLwgq-eXr9P808tZJy6hDXLRdNMbnVUHqxrZX0hjgfuGApOZxuXQv6bdHPzdrg9GS1pSgwhlt7RIQUg_08WXBxMI5r_-dAx6uFhoUVjQVSUtOFPTaaerxK11-Zg2nQVA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

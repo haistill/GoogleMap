@@ -1,0 +1,513 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGrlnsJDgWixKsye84fRHppC-JQsaLYKWhiCZgAikiadXdFb1pupE1Tn1DzkV_1GuYbuciSLyZzZX0evh1tUR7MyFWQra0-PMxMm_CdNUzrCpwObElShFiRZqsj5YYRhB3vkzCEKGVOoe6Ry2fJQYqCDWWM0_gD66GHVHXqM67bnXXr5p6uha_B52j1SZA8aPflha6xTOQzl_5OWbniaI1rm5q-qmhnIf28S0ISvOu_k7R45iZ5LuIV6X_yJmbwIainlc5MS3Ce0BYZJon15sUGVObgD6s5i2FENF_mIBpjIQ2XjS7XmflS4Uy-pPycG7BIQ-jRiaolKBFseL5zVufKBXxoUQkeu8ryDBQ_YFsp3qolo7uFbd3U",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAOHb3atSVnov03LehD6o_RmXfhmPXl0Dt21JYJsubuDoML8bQ9CivioGrHr2Xj--cGGFqWqyUKtk-ubYn8hbLddfc1ryxSKlIfGYTqsIJnbQQeCcaSj61Jn3n-sqevj8WerWxt3g0q4onu5C4DhLonPP7bb31L5bs2XP45XlpRKYW-FkXYnY0_HNTkBMM06sRSmDsEBahp-Pvw3-ikt0CHESEOnnOidq8EtZ66gsipo1-qIaFE5TzcSFVsrvnGF0A33ogCKofmzk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70157,
+               "lng" : -74.009131
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "a1614a73607f8c206f3b7ef97ff2cf7aff967b0b",
+         "name" : "Downtown Manhattan Heliport",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 573,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAKKUQUa-98XkpfmoVjbODLGZ4IKxOUfRKt5r62uUBXnWKLQrjA1oYpw0LOUVpDEXmuVkBp8bw0H6ynIm1aIDC8Bg6eGzbw9CzD5jmxpZAeNMg3T12_QyKvDJgpxoG5WEjguQoSk4HQUrY3fQPPk5y9cDeRD3FRwu_vJLuonVgDqdEhACU8vxIgyxfwCJsSVlbQeFGhS9fdSeWo8a4YfdVBZ1pol1QgVWbA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRRAAfmSM9BIc",
+         "rating" : 4.9,
+         "reference" : "CoQBfQAAAHS0qH-DM8ZmV0AXQETHoBMe-N9FOnYX-WS7UE7H1fK4QE8p43WAJJFsmG8mrJRmCu62LqYOA4KnKxbbblozMN0l8YoHpkup2RNdGrb-tGGcD_H1ejgkBQwWRvY1a95cFp_k32z4SHAW7H-dZTn8AeHMkBATsjL877-JuoklS_FoEhAnlg8ABr2kcUQp86meoOqSGhSFySF_mU4Pu5WJlKJviJpB1b8pEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "transit_station", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703315,
+               "lng" : -74.009834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "42003dc0e3323729e023d7786cabad1dd47e4502",
+         "name" : "Standard & Poor's",
+         "place_id" : "ChIJF5SAShRawokR276EBkCosj8",
+         "rating" : 2.6,
+         "reference" : "CoQBcgAAAKVU5XpP16yznN6b-lTn-WhZfCWQKOz4zOZPoBgcvRxSMnWNznNAYMD9_ISmNrrRAeUKSlaTrFdyzsoKYTz4dbld9-mb_XPmWLyV-mWYdKvBsmfv5rCKtztl1qojuvaUKbHVFgO8VS7EQdGjeNNTakSU1s-1k5ji47v7ZzEam3icEhCnhLmOM88x0AQXPdsERaqOGhRff6JBReldcknbx2aVxdo_OwpH2g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702616,
+               "lng" : -74.009906
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f37af8a995f15b95c6ac6cc8bd7ec5ee6a19d397",
+         "name" : "New York Vietnam Veterans Memorial Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJ-XWIDPaB5WplTE92lbNWkpx8usLEti1pXYSEYgcVApgtwh6mN-aEdgt74LqcLhL4H0tPRYL80wUYqF49lcBwZf4MSOVX7cc9eHK0NKN_CO-9FA0wQJYTX3EHoUO9tAVjAf20AjFOYLqhJQ10wSxzhIQFK1nJ7xmTAhJPXd7E5DdYhoUslp-XM8H3uqk33Hl_NBCfLcbKDs",
+               "width" : 225
+            }
+         ],
+         "place_id" : "ChIJ6UIVsxVawokR3eZJUCIPr3E",
+         "rating" : 4.6,
+         "reference" : "CpQBiQAAAA-q7oCHmhxNVTIcawnvj_M4OIUfACMC8TTqWhKSgvT8LFbAmXlrI8IAmpz6LG9RgZvR7UKOmoygXKuydFZT3FckkBLxd7W9hZL4QkFoOWdQZsLZHrnN-cIXrWTD9bA3-IDy2G1JtVD8rtWJyAMPu6E3-7gtS2OOQYna8Le_bWIWERCEY_dAQu_XJpjNo-h_-hIQGS9TBMXzpOE_qkZP1zNrGxoUvQFtRRPTgFYDJG6vbH8BxdHkkNc",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70419,
+               "lng" : -74.010161
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "227e2d32409239241341546b92fab404ae9cd62b",
+         "name" : "Stone Street Tavern",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAepKqXrkTHC4pMR2vIC6GfOfg_Yn8-MH-5W2-xLTK-5NGWRse5C2hQGmIT2NHoflbkZHs_kDTq_1Az1cfW8QZS-BDD20k7U-yb4hUq_dU3xM49MmCr8ZPzhOMBJY04dusehnSxLfylkl3cVVvX92frRIQ7WrHXrRor-AJJxP6DVnPVRoUzE5LcjsPSbzoxGySk-1eQyDpZRk",
+               "width" : 416
+            }
+         ],
+         "place_id" : "ChIJRXAoKBRawokR8U8kqAMMwSU",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdAAAAAavqo1aggnnR2tbpSh1Q9KczmDtqoIDPgWlLnXgvvvue7qtJL74KOQRmR_X9uLwt3Dj69vxH6Xm-GzMfbe891COWjl7yfyzEjSx5QL_BVN5M-neEIuND7wCQ76bAu81tM3J9QyfIuMMQ_s5K_PItceDML8CeW2GXNnEryRryHkmEhAKtFnwLI-tnjrDjW9_VZ-KGhTqNy_GoW9yo1_XKG3uH0NEkWn0-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "52 Stone Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704002,
+               "lng" : -74.009698
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "46c95539bb82e97abe3a7b2407a996dbf447add5",
+         "name" : "Optical Insight",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFRmrLRRawokRGfxULKSdOGk",
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAcwJ8A0URPoyK9DVJ41gKrVl61m1yEdB9l3YYBx7Wj56Ipzmvx7Lb8XgLBba4cD3w6-sVZDW9rdpXCslVZVOCaAqLpRVgbM9lHT-jwikfPDIb2wIvY6DiNwRgdaeWix0zNvX-Gfp0Q3bDYLTk-alH_hIQq9OFmmRN7HBiCS1hXUG9ahoUdk_85pNRZI5jGqVFyiw99_WVHpU",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "7 Hanover Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704332,
+               "lng" : -74.00996000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "619c331e00c4f1888726e802e43e132ed6088feb",
+         "name" : "Ulysses A Folk House",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvwDi-K6QWGGgIYZuruwwM0xKdQkB1te5KvQEKD-8As21akYpIWocndVRyDjjFjSn2wvtVzXUMHeEq48-FkC9BlIOdCgrdWxm-89lomsAJ6EBn6cqO0yOmzUtmuj-3dCSMaf2bA53WqKcekN_0yKlABIQ2mGraJnbGHFo3HPRPq0pXhoUs5TH-eGL1hbcvLxpjWWye56ph00",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJV_vNLhRawokRt36u5nIPaVw",
+         "rating" : 3.6,
+         "reference" : "CoQBdQAAAMt8HNiThjPuH5tHvBQ5aUMb4x9x9NdSAAwA1jCszCXrgWyJTF1oPUDVxuVQi-Ccmhr1zPGUsWBwEbWyLBIyFyP_DcikCTeCqzMrrC-TdzYJ6CGHOYZjgA7wnpLMzfcOFa4r-haXsU2q2FgC13JWSUz4ot8fJEMPvSK5QItpdhMpEhCmuHYcjKEOmJ6o06kzA12gGhSI4PkE2Z_F7Hy6vkyFPsImeHJIjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "95 Pearl Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704009,
+               "lng" : -74.009685
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4565cf44453826d76067a9ad7ba5a8281b9ab1dd",
+         "name" : "The Guardian Life Insurance Company of America",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFRmrLRRawokRlvDPZjwjx_U",
+         "reference" : "CqQBkQAAAJxRlbUR71CLfwlGU4IXoXBh75gsTU136bZ-NuOEPo6YCAIzDJfiFJD0lcdoOcB2_cBWoEdurb5rls25UTbnmbYAJc4kiB6PVhEOSEhwSzGXCFk01_zh1ogPEWQrQ2Tkocc2Gu1nPLiwSVyalTdL0i1SXg00XzCRfscwFJFvPLqSjpFxIIMmZfQoKs_wBdCeFlBANKg8dgPFTBm7cEen8m4SEPHAoJfFcEmM-OxpLwRWTTUaFOzOdrixp8yHLmlFp7GhU4MYHmDH",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "7 Hanover Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704265,
+               "lng" : -74.00700000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7c69235a04fec10f60c6f9b2562b312ed5fc2ff2",
+         "name" : "Citibank",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAA1Wko6NBR3JI0lg-z-BiA-LwdAjXfnZXLoYmSbeSc8En85NApF34SKt3-ok5S0YAZxbPIa8nFpI-TTKgmWG8HDF0zdbwsN_G4ujdSdmUPXGxxwfkuBwRgtQALmFlm0PcSaqOmrk3pZ9kxRGifeRCAfBIQw12hh56yGseEPc_yS7d-BxoUsivfuz_FTNWG59KmAa4MWBDI0QI",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ85kbBxZawokRO2CSUVXxgKA",
+         "rating" : 2.2,
+         "reference" : "CnRqAAAA9Qs3Wsa-66Q-Ay40BZ2kMQ9uXioZnJUIbJkU0BiHLa3MnYgzV0cU5u9Ou5KxMCZ7c_KHxOvw4GVaTpTemiR6EuhfwS-6c_kxinNzbG_2-fz6wlfjYeoMktFkIt7sO9O8EeKQPClgTMOWgh8OSXteIxIQdet1FqTaFuxIuu6bevRAmBoUrgAhnzsICIaLuD1Y9oDN8em-ZWw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "111 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701374,
+               "lng" : -74.009109
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "b70630b970789ab95464677b36343eb8b83fa15b",
+         "name" : "New York Helicopter Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 591,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAA-vQlEAaL8mACxD5u4WbQzgjomfksEOjR8GpmdmIIx04cP5nzb-zYsfO5sk7gVlEnO-8DwpCmXbGasnob9pZ8sK12MsU36en_u4PLhxXlNiQF9QxJXeiEKsBATSxD3eDDHtI5zFMgEbyA_QeSitqk2n1OrSh4hiFgPtAgSYr1AlEhBUrm-ifMEoxAq04oIX-M1FGhT6i1BPT8t7zOquuWUq2VQcf8Pq7g",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokR2ktT5HTvGDI",
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAAP2qC7ifaqiAfUcOfODA-VeahiOfElOuJJ1LDuX5AadqvyFiGJpiyfgLwDXmOUAFgH3QsF2jbh9CD1dx1m6C7Mrm3u3QEj6wlJSwsxXTZU3GDRJHUC5uCHoFbYBhImYL8HKzEqx3n9AAyK1_Eqqd8RAxaKKir6w2vM0FyOSgiJjHEhAEwoCNIpp5iglDM4YgqfSvGhTzAa9LtPW3Vdc2vQLCZV7mSLvRBA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701479,
+               "lng" : -74.009147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "543692887d21a68c30b8ed446b403eb9cb64464e",
+         "name" : "Liberty Helicopters",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhwAAADUP1fF-W6H2gooHSNrHFqq0l0LoG2s7GzF8MQUvH4JcLDkuR40laWaC_A2QE3L4ckegVdp34YuonCRGhPZEXwAwRkfruANPhGGqjhCV62qxVEVj8f6QfoFuXEYqhh8IvNa1fWuGedudIqiHnYkQE4T3_l3H3ebGusoUAa1NE-kjNs3PsG5OlY_vzLd--BQ3axIQyjBVOD3KXTPo07R-4QcAchoUISXIVE5mn-v9L8L41XI_pD2R4kg",
+               "width" : 1201
+            }
+         ],
+         "place_id" : "ChIJ7_hfzLNZwokRYaWmXhDkl_Q",
+         "rating" : 4.6,
+         "reference" : "CoQBdQAAAKwFqGR6a1bAgQp_AJVIlKB5b7KAOdL-qEkVjhtk0miqcF1e41zdXryKR5uxRuM0a248T-rBo9R_xnQ-sp0b7USWYaZTH63pSwqBQP6wRYxNtw945k6-R8sALBQBPAg7CYY8SaXTXp-yh1DicBWSlZn06tAB6Q2o1CA1IV0GEX68EhA7fxX2TaS3SgZxKmF4aIIbGhRQuWGelSV1PzuY1WS2Ec3j4UGbgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers #212, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701834,
+               "lng" : -74.009305
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "37540c44f4dff7582a1feee2d6929f8c4e1d5902",
+         "name" : "Helicopter Flight Services Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 565,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA7suJmwaJsm11HES1M7Fy7GO4eLzr_a3gzb_yk8wTDi5Yzhc4nh-vj219EYmxvT1PyX-5NcgQwbjeroF7XzqyZp5_In5HecaZfw2FFtxitEz2WX1f2u4o9zlHDuFjDYHCSziFEy7dDaTtgcs62DmTKBIQHJcK4INVDUKgjhpFVUdG5xoULMisPfbvyUWoNJZ9lLHmzIzcQJs",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRaXWPLYrJcfs",
+         "rating" : 3.8,
+         "reference" : "CoQBgAAAAIIowhKdIHmlMxnb7kmSxT6UB4Qk5dDevY6pMRmYNLbSURKtFtPbEuVvYMk1DRlA1N_2ktUJRsVU6BlgZum3fbtIHooidXceC_H5HFQZm_NiO-NrozPW1QFtqYM4Dv_Jq5F-fKYuCnnSSM-PDIDvvBi0lUthMBtEzmKuAwAPolR3EhDmXgd-RKsLCVIErZMvdhhKGhSdPHztr9zsadpgr_PuRf7bHJ-rdg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "Pier 6-Downtown Manhattan Heliport East River, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704128,
+               "lng" : -74.008222
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51c17b0ad01828b69c719e8b783de85355ff8384",
+         "name" : "Thurgood Marshall College Fund",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ65ZWzxdawokRfB4mC7wLvZ4",
+         "reference" : "CoQBgAAAAIHv3AX4SCndAwPUpLG1DA8Sg7ofYQv86Q36AAIIXBPXucobZUQ8aiyXffIIe-We7SoReaVJ398kIcyip_cCgR52khBRoekQ4VxctMWwPTfxrRmDZGEcmIjq6JQqjJ-iiAC6iEgDs9OhxV34ALd3a8Mzsal4Ht44Vj2pTaG_O0w1EhBSVkhSjzuZcMYHd40TPpNnGhTDBApxfxm2DK4h6H77gXYPyveRrw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "77 Water Street #8, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70291,
+               "lng" : -74.00935
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f118175c47954cec7a3bc52ce24c61e0846863bf",
+         "name" : "Warehouse Trust Co LLC",
+         "place_id" : "ChIJF5SAShRawokRhA7tBBffYFo",
+         "reference" : "CoQBdwAAAE8wKP71LmGrTQ8G5RSCtO5Ay1SlbucXrSSuNd7qTWisar_30mRkEs9JEDyLnlMqq3kWfKWtIi1yAd6v3_keS6OfhARWvDzn-IpHB2YYnn9yPyGENa2qQnZMgTulTBB3jKcNaP3iNIgC2VqwkBE9FX6mhYfzC7Q-xTTcSqs0KBNMEhDobW-VI4MpuQgwgN14stxhGhRjd9tB_4x2ZOU-KOUnbBdxHE0yhA",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "finance", "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704451,
+               "lng" : -74.009792
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3b2d55f4fcd668809921819f721fb18c04594a4",
+         "name" : "Financier Patisserie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA7-x4YM7qtf6qb6Pt3E5bRbpDViTdDyFohHW_WF7Jk3Y-etxiFdJnRWGpRQDk9rXPYD9vF5XVxlQn_XyAQKN4hSINuq09DXmqcaSMcwqL1iYUUyS4aypls76xRVYNfyhZnG8M28SdCJqu7p2H2rH79BIQnb4D3WT151AglvbTecSrIxoUAZ8A0IqU6i9fmc3lxwh2iPVAGBA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJhWwoKBRawokR6KcaaYiOM64",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdgAAAGnrkXaXvUwFtLkqaF59N4cnTYW_uAbfcpDwEPGjUdAr3IFKRQHJoi2NYngAgBrGcikdeL6HHctGtuqLM4PPpQaopXAnOiNmqnA4jxLGTmeRRnSjZcMLJ42jDheiem4Pz0ysYSVVFWa35PIKQ5Wss5KFL2KAWegmVdl8uzaP00FdEhClWmjEJouxBE5ajMvJiKHEGhT21F_csv4f5wcLgsnT8L13uoaLyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "62 Stone Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701496,
+               "lng" : -74.009068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "0ceef4ade2fc4765d7af7dafcb2f4207398db270",
+         "name" : "Manhattan Helicopters Sightseeing Tours",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAA2zVCJtRkhejacHE-0cnZHgJYwGSb4fAqQdE_VKEfYl1vzBFoLnlZR-hWVpum_muJ6S2O_H7t_d8QQ7ewWZ0oFqsc0CG2p7dV_p5IJ94fSF4ZBmkWf-MuPLLy6Kc1_6AiCgdwxdx96O9LT-C4dbGLLxIQeQLehZjOni6Ga2Smg9B91xoUG5gdqOl4hPpvV0UM-kzDkYfsB3o",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ1XWeAxVawokRmnCYG6DA1LE",
+         "rating" : 4.5,
+         "reference" : "CpQBiQAAANMP57a1fHBIXgXlA3LgraLf7cyAAGTX61yV6Vs5YijcE0rIxZcnVlK4zvoi7k-Oo6uA7-oEs-bMUROiycaLM3MZmZsp3h67ks_02BZRiWM3NRKOu6xqTS3SdNsMGvM2qio6YB8GGUb19UmgQhVcwzCbRsPT3DY-xdCFqrLW8NzecMA19mSzzgZrf6W2C46_aRIQ2Waz0TVnjdUh3QmGszccuxoUp4HYMVUkFhb3-dEjcdwVIcCQRkU",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "6 East River Piers, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70399,
+               "lng" : -74.009716
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c5e1f29e3c55856016c6d92ea29ccc6527951bf",
+         "name" : "Myoptics",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFRmrLRRawokRElgm8srpBlg",
+         "reference" : "CnRpAAAAE9JvLVA8wDSKXdcJVuX2henb5SRwcagoqx54VIqO7-XsG9yTzgNAKXpAHlAt1Ijv_qTvsCk3VwQ8r7tiQx54nK8xj6jLnzwB7j09Yak64-jQlQLvCimWhDUkpV3iSUkWmCxqU4cYy9RpqxWfo2HiRxIQgJNgbwtMbVIVHZ36eyfh5xoUi9cSKx6PBr54OpfrgvziXA1pqgw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "7 Hanover Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703773,
+               "lng" : -74.008008
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9182f979e0ffbd824927f2e21898efdd39b37116",
+         "name" : "Brownstone Agency, Inc.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 181,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZT5Nj_EovE8di3Lyf435t2TANisdmjq6fjbVf-9tNEvk4TDojDxfn-oRU_11S833JwZBE75D0IcPPqKjzCXxF2kn9obZL7sFK4ArpGbpfy8g93yJjdzrAZC1fotvdt62STL8X8BYCrTPhKSed4qcQxIQcA3_PkdvuYVHltbY5U6JgRoUcYIg63hI3leGwyOV0T5Ltrvk8Cs",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJy4x92xVawokRchaADfvErJs",
+         "reference" : "CoQBeQAAAEPEN23WqxseQtZq-hi2qPPOegRkSWhUT_039GpPfHZL4giZvolI-1OG6AO0e35ckJ9RIuY2R9CvYWl3hi18AR08GdxFeBKqmado9rovD85N9_ixbL4_ePSu6vj4rumxQ9F7yEc9Qz7smRBdNdq4XJJ2mDTZWvIOkHxMj01wT0lrEhDpIK7ekVVrcJ4s2x95jnKJGhT3z4N4x65-GdC0uwak3MXrtZ8ALA",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "establishment" ],
+         "vicinity" : "32 Old Slip, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70285,
+               "lng" : -74.009333
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e92fe2ef52c982cb41d6bc607580ddd7f9914ad2",
+         "name" : "MetTel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI3aq-BZawokRuwby1XABMjc",
+         "reference" : "CnRnAAAACrZubB1IsAkcAoWT2BJaVI02_CzR3g21_xKWa0_aA6ql5FceqRbzGQKKZqQqWrmPrJpNNcVMdfUgzP8o1WuzcsIJchP6TLabg4CL8iN0fBi7E9kf0iHW4EDOx_OXlZAwzuwILivN3d8QnpWOjfiqgxIQQbjug48yOMPZOjMpycYGyxoUX-__OKFJHbLlY_DhtbII2vD99WI",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAITh-ua5XeRV-gnoG_D8fmGjelEZn2sCdIHCpClzXkepRYwz3ebI0TOSuHjXEnuA4R0JUbfciLMyyUmYm5LDYJxtndtPNTzxs-6vifOop1ISDHbvj6uGvs22KopjjDGOGcpeVrdF2EVKkzvTikLF8xYasiyHGGAIYU2eQPU29fuKAlPzZtCRYdEbPBoHDFiE0hIQlNEGwkaDCfqse5C-hnn1mBoUAmb0O9MwJAAe4r2wa66K2BUyaGo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

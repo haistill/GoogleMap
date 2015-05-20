@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAIFjwOTIgRO1Kz1xkFL8B0R2_rwZZ-wsUMNqF3tOfmked9BuOny_XMVcKTtGx4JFHAYbrYvJ5O4kP7-bJi1XVbkbP2gCol-wGh5uodnU6u3LOawwDgsZFRCxPWj0vax9CxC8kZ1b9Oj8bdoB9JmdJicgIIMl9L1ihgP2y2lc4YeQ_oBjdfz02UTHjamZDmdbXBIQLxzJg_qm6LHg7NyyZfPEwhoUtrK7pPjaRBj_hXq0rxh8xbJ61dw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721697,
+               "lng" : -73.97343600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "34045e30d4b935713c4cfdc30b33e1acf1851630",
+         "name" : "New York East River Park Track",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdAAAAFFdY0N8DclGcXNRy0Z8ZNmyaVxIDMGT7zgyjD_AtS-IsPQpbhZvfhd_7lnWX6VGK4ePbFlhPXlYOuU4tRkXOd0Nygi-9wWfmbuG2A1ifCaKNILSakwJplD0oVNTgBx9Q3XgD4lV49gbYcyRjhioF7X_OzfOUi4KypQbRSZ__UkLEhA_xcggetFmkQSOeDtbVZizGhQmp7X1r4CNuVYSvH3U9mZLoTyxHw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ3Z6yJiJawokR_NZVoJM3X7U",
+         "rating" : 4,
+         "reference" : "CpQBgQAAAMJ_2g0nUGi4Rmrgx9oDdC7YlkdI-Tw0Ig0P1CehR8UprxAwANaYQYjKPQbRy6UvqVKcOY7SD1gl5QVptE1NJVe0aPY6riM1Uv3niNMrBD4uEH-di1PjIvK8WNgCdbjwff2MIrqLaFnQOQc9msEWkNnlY1msKGqUq2KpK7Y0joKu7Z0mrYtld9aIuvqWyQOeDBIQqeaWvh0cKAgsojFb7MjbuxoUqxPhYpxMZgdzYqtfWD-Vae3RJuo",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "East 6th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjgAAANaGDCxVOuZLyFOgW8ed4vNs0c6nHfniZCjU62qr8LHqjusYh4ry6oGwYKCFLLhbphuatyz6FJHvImLCKFSgkLN-qwJG7rCzZcvh70rzU7voMV5_xORdX_XI7_ymotivnNXChtuDVk25kJDawSMbGYbrSE614C_OQqIqKHwjJKKt-1P-0XMft7Stp2neseMoYRIQry7unU5ihGuDmDid8myj2hoUuWpqdBFx4n7cm2Rk_yGk7A9yvA8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

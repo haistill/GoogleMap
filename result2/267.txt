@@ -1,0 +1,506 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAKYu1pb3sOuyoGrIKkIlJfS6c2nQqB5IAnbgUUdDTUzAC8XWQEq1_k7SDuj5ByK3ca9HV0XuTwtTV4Nsw6ae0dDXumZ2MQAKIC4Ro_Q32HQMQYqr78L4glfXNn9TlG_6nhXQ3_aQlBSWRxVuOeB-7v3nVYrEV3WVXpwptieiZE6aYYmt6n4JBbZKVU6iXlTCUYf4t0mJQu9Z0xBn9zFS7zWfYcDTq86gVP8RHj-WPu-ml0B2TS87l9idsblMGWjiD4LZrLffyxmjj2ANIjNuvjd4zOLkPMkis6BH7C6quF-VlCC_46cBd9-vzyxDg2cTJxIQOtuqz9psS2HYseHOiszTFBoU8iMj_Ddn1NC5yX6yDUlN-KyF-ok",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAAJq8Awr7w9N2wvaCrVlyzDeJg2Y2V_5ublz-wBmcUQIYEh90LvEB-_wfTwHWW12uuCbhJDX5n2x90A19X1Hh17uq1QudtBAEEmCtyeZHt2X7o2qRgwwUkpxZG1D4weFxv6SCx8dHZACn_mOA1HPAhyrJ16aIlbfwhSEHc7oGPMPxDymYec_x7XDAxFbNEA_pZRIQZhGlBOLR31mLb1BmwpvloRoUqvRP4G8p-JAWXaWgRCVNeauCotU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799293,
+               "lng" : -73.943758
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "17bbe9da10f8450d9093c6a7947d196855e9c173",
+         "name" : "The Kiosk",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3TF-B3SLff1mOmKkdyByVoZpJy4kvrjNjNHHEAbQTxWvdJTT5ixFE3sp88cPxctLwMkMrWdtri2QDobsLXdK3RDX82WkYMuKxo6gtAZk8d3vmInALWyDwbWuNkVFbemEexdPpe1A82G6m6MHzCOuVBIQQW9UHXumD4h_-qOkTre2jRoURsiqvuThHy3Pb-V3fX40OG8wA4U",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJ4-XSZQ_2wokR2VZKlzfz3tI",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRsAAAAAInRFFBWwRAc6_SzIlUF6l3CJXySNXj1NjeG6wk8MKBEqtNXmRi89Z515FL3LZBXW40zYGuujl3p-oLiKmy2xRyLUOjIxs7VRHcvGb5gkwXClNYTOwSrSbphFdAcEq0fAOHxD84drP6VAo8-BO7SpRIQxTVKzdMLDHfazVhszjFrKxoUhcE68XbvQICkhj6YmxEPmygdszw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "80 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800775,
+               "lng" : -73.94104
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "7bb25a2fa9548f2512794d2bc2333847ac1aa636",
+         "name" : "New York City Police Department: 25th Precinct",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAAGCcbSK2tBieGhdadFbOjU48H5ss9ef-4cTLQcLaMFyefgMxe4tRJEiUtWMpfTkLLYJcjlSKq71L38r37NYDibjc7iRmh5V2oVmuJABjSEcD3HKh8q2dECgU6HmYi03jx4hHs_3cv6m8Ug5Z0-R8zJRIQy0wmGjLO5TS3mM-gYQr3uxoUIq7fuF_lmLDf7fKV3JfhSNqp760",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJZ3pS2Aj2wokRosvTxcpCdx4",
+         "rating" : 2.9,
+         "reference" : "CpQBkAAAAF81ZY9yTaDQNfqALId7iV4DUgjhQsnOvWzqNunPO0mAxcYokXu4MkS9FYkmjzEIvKWGOCPR_71OFSspWmU93BXLjh9kXEPFrJKes2AV3EoChPH-Qr3nIcAoo8J8mS3lczGc7PucRImtYAbxZrMz-alXk-zIpRPLPdzJBylonW3JhXJTb0kbFmyI82pkTAPeCRIQxl4uy_nOOaxKujvHUJ0NnBoUgDD56-tOBeLxgQhSj1y8IycNcOA",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "120 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798353,
+               "lng" : -73.94143099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f00a67df056544befdda82f3e81050878baadbb7",
+         "name" : "Burger King",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANFupTYSqEOeR0Fxu7CcgjxlvEHuk-b6w7hulDIwzpBgQwyLOOk8qTkcUOK_Ya6eB2xchnUORH1Xu3cWiN3L9HAqQAbXLmet2YKAomo3Zmde4ynxkK4vwwtC46tTmDDkog5VfDS-6J4uXZG4iNYeAwhIQJqRiivHExPLrYvJxmWMcQBoUMcvp9pmthUAZHj_AjAnYgXl6E1U",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJjcDOAwb2wokRFpBCJd9Zgso",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CnRuAAAAOpTpFL_TCdjMkI_0nfFh__k6FEl-e_-dixecFn7LAYDFmK9Eq506w8fLtNFpyfQz4RLNzquWnncjWJPfETUQuDJ1SzTAfrLyhiqf9ZheauFbDqJVSKuBakeMgSthHqPqSCLce3EImGCoeToulLPcMBIQUqWuVWVkQEmhUfock9KK3RoUXK8DnOCqjGUpVBqkI5fgZVAlMsU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "154 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798826,
+               "lng" : -73.94163500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72eb5e61b49cc4ebd75acaf4b3adb795b354236d",
+         "name" : "El Aguila",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAA_64R1FEPX8udxYwwIgDY-ojOs5di9Qi7s877w2uEskPpOKUEfK04J-ueRStr916BVxxeG7dsFRTkIlTlugTJhqcXOZDRReI7Frb8-4ykAtTWeKQU0GUWyZC29Bwj7R-p66NrvCoS7cypzrZcMWQCRIQgF8U2eDQ4kl_yCKr83ByexoUMaippQyYGmw2QQtC9lafXpMN3AE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJxQURqwj2wokRTTkoc34BtBM",
+         "rating" : 3.8,
+         "reference" : "CnRrAAAAGc1dJU-jhS_VXd95XSCZTyE1QvVQenpqLzP0C30vbhUtofphIjkjbK3RbC3lcoaF8N16iG1Cm2Lr3Q-r0IUqoQFn6bWJyimVD0Vyt9TlDCUIAHuTIzxN7mU3ZLOvX9lp5MG5bbbXKjwvSd0fEXE0NhIQBHfge0lvBpsGA8yQ7wh__xoU0eOJ0ZeX3etAUhBaWdvrBMXebDs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "137 East 116th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799362,
+               "lng" : -73.943202
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c25f3a2c4c8d0026ece1dd5f0b84ce360aff0e94",
+         "name" : "Urban Garden Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACYP-xg3fyhkmpNNBz6dEBK7eew9EkFifB4GksDqZsgSTOdSi6ENzB1XMznugwL_bVFksTrwYOCKMvCbRllW_u1ZbWO6SLgtJMTOTalsJj1wQ7IED0sFDMiUYULg0Oq2tIyS6rtLcpRshfitKtcihAhIQaq0Cn4nc2W9uQ8sVNW7YZxoU7ooj_gsGhlIrZxgjaFjUABpEFbs",
+               "width" : 635
+            }
+         ],
+         "place_id" : "ChIJDTVRaA_2wokRu88a-Nt1YjM",
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAANN1xg_qNhCTqgNbkeG_tGx-RR1--GJhdtx36l5wOX6aHCTDyKDQ_6gTx3rAcm-0FcwGAO7RZYhAU6WoHrK2dq1_pQVxVENhobc7aVRuFYUu9QWZ1aNsXQ05K4IAvp-LFk9RwG-URGm2VNcyunNTZ4IwQeeM79FKf_AMH0pANT14EhCG8memsqg9sPJeOxO_aVdxGhQmw0GgIPCikgnxrmhv0yz3_orkXw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "1640 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801481,
+               "lng" : -73.94341799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "8db5202c525c4225420ce48704b69f101c0f4e15",
+         "name" : "Madison Avenue Dental Associates",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3SDHegdZwokR7Kdk61mrcAI",
+         "reference" : "CpQBggAAABpL9xshsodO4MdflVTRthRAPwr-RDL_QrauzcF3zIZdEGpHc3rx2Qs7z2pEq2JvpoKMQ99jzX-HndcnfnRw929DFddvudmNvKZ-KOkzY_4lVkcHn7FX0yRlBoVcATFU-5k_bDClpZyvJlAzPfk_Ch8OeEF7v9-NqupNiKJttY12K5qFaIVMjKqv4sDS0_sshBIQlOiDBaQTriplqnfuBTmEFxoUBuChrrb-b4TZ2PkGaidn7ckyPFo",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "1825 Madison Avenue #4, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798642,
+               "lng" : -73.941211
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12cb54c2aebe9a674215a5bf34e4fc9da26b3780",
+         "name" : "Casa Latina Music Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJn6kwqAj2wokROCmyI0WmpPw",
+         "price_level" : 3,
+         "reference" : "CoQBeQAAAIUVCqpns6RXehMtbKQZssKzD_pBWWbmo8vznzOex49AJ9fS7M-qVV1qDOo4PUqXiKgsH-T6yOio5_MLF_paWlAnbeYno-g0USyZoP6JbOskuQA1QBur9RuwKfZvIFKyERIZQPRELmsAnt1bANdEDSTzjowsfm7zgwd7Pv0O7KsuEhDB76-y9QDrfb87Lgm2Gx4yGhQc892U_71qb6gy_DSjpwJMpHnXrg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "151 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799022,
+               "lng" : -73.94178599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d1d362779174b72d14db59563088699eeba2a45d",
+         "name" : "Associated Supermarkets",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJuUacVA_2wokRrvwzSF80-MI",
+         "reference" : "CoQBegAAALq2ygHs5NDfz0iWQUQgD959Y4XhCBmkEI_TmiIdJHo1UVLZ2K3WtslmVYflk3To0qGsw6j9tdJO-ARcYGysfOj-DaTY2NmKT-oihecjZNz_h6bw7cZ4c4attrzIM1bkxSBtmUMod8fULFzwOtEAwYAYys4fWORTw1TxfVYVXky8EhA4bXZjsWOh3J-eldumx-KfGhRZBkAxrvl4D4U2-qB2DWkIE9426A",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "125 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79926,
+               "lng" : -73.944794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31fe64d5d8e4c74a4970151db1f18c0d119d8552",
+         "name" : "Assembly Member Robert J Rodriguez",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDS0wbA_2wokR_e6GTAOZPuo",
+         "reference" : "CpQBhQAAAE7Vy_FonYjFEmgMPV__09pEjA0Pzqbq0MeNaEiltmfhtoDO9qtJ2yzlcnIoaJvkW6kZ159Pyu7Oq3oPHMvCjrieEOEH-H6b3T01arYijJ0r2PPr9RkCxH8TBgRPFH6TMjwixzybhx0mNVNyoAHtBhP1BJLVygp6ffU--2v0wfhsdUH6m91M2GegRrWRkzwJEhIQOoywX4a4hrSZgJ7suZ5vxhoU-cTemOjfgglvPB9ZGl7EBm8XuuM",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798552,
+               "lng" : -73.94099199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1507a652f0cdb8fe8bd344271019d5f009dd92ea",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAt-Jop7jBR8Fxh_VAH-8JmB82qXmSRVS01nUgkvCaoEmzsLU6lEsnezqq9qpTnktzwIddpddXpDZ3nXnu6z8C4v7EG_FjyUg86AGNEa75q9D4J82DVA4eGcRJ_kJjxKfUguhqiOUijhrcv0JE0qCYThIQBVZPqtiEPCWsPzuzKSggsBoUIYsQjVPqqqnyn_Cruk_Gmnvb2o0",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ56GeZAT2wokRa9zmXw6GThY",
+         "price_level" : 1,
+         "reference" : "CnRwAAAAJW1wYtspOOyvgAdUPmwVF-E_Lr32PmOL6FSmXHA-bzGK0M-PN6DNejz2kM-TE9XzdKXvtFIIuvl1uxh9iILdcyQpiTf-_a_YNPpeMPjEGhNfhjo52vq60gpIhYmgE-x2o0U9NJcbet-aZ1RPGe1EoRIQzlzjKDyLJ8qgxCE7-yusFhoUjWne6K7hqajTtNSC_F3SEcAC1ZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "159 E.116th St, (Lexington and 116th St), New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798588,
+               "lng" : -73.940986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba44ab0c859790cecc0c347ffd455eec001b9189",
+         "name" : "Baskin-Robbins",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhU_1pwj2wokReBzvwkj2Ycw",
+         "price_level" : 2,
+         "reference" : "CoQBcQAAAPHVaIf40tyn-xtCJPsi7nyE3twgTfftDoCcurYthYzhpMuicKnP4Ni0VFARX794ApyoXOmvXs9KvZEtbynRER0D8GuCf41U8-hUfeGDKtB2PWiqIiz2LQgQBAMbL76WfyK6LP7OKfDkFZodum6D4xReRpbmX76du01HFKJJaDB-EhDd5ZU7fAROWnkdQO_UvfcVGhR4c7LGMY-RW4u0pmJ2NyP8_VBa9A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "159 E.116th St, (Lexington and 116th St), New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798479,
+               "lng" : -73.94073899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "a2cb143b40e50fbc2fa848a28d09d9e4014a32b0",
+         "name" : "RadioShack",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAHxBoPBouZMWFDJ93bboyHr9MRvNXt2HcYhbJiBBeduopMmQW55eW2LLnLbP4tQZlET7dFwB9C85El33DQD6-RrwtttWyod3n3uc0T6fDsgOUnAeuV1rKw5fT9o4uH5-ky_CfMQqKanx7_iHp4WDDNhIQBUqyw5o4RtYSFUSPPXCnqRoUMF4QSVOqBoo-L4uV28fgi4MvAnU",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJy_ADcwr2wokRJRZUWZ1Jn0A",
+         "reference" : "CnRsAAAAJ_LATvMLnoyHizFbyu8sGajHBCzwKhMOeLuSjreiQTkgZ9Ocrh-tLCOirMJCwLHBdtFvHkw8Mb7P9_3B5SknneLh-qTv0YhTOZ3kHHHz-OwBDQ3wFSFx7C8oQHOOiar2VbAJsTNQ8uN9QLNc2M0xMRIQQ5LRa5n9L0kUIbY32gvM9BoUTZulQ4AQEtPxctLWbgd6xmJ_zTs",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "167 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799791,
+               "lng" : -73.94207
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d41972fb2065e96fc27fd1977011d2cbbc5856c0",
+         "name" : "Casa Mexico Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS-5bSg_2wokRHxl6cMq053U",
+         "reference" : "CoQBcQAAAPkCiOofBpropV1mgd2_zo_b6AZ2J2eU8eDq5XJHRuI9LTrlsPkIkNwaYnrUuMGXyJYGsRWbwzPv-MxqS0ZDLJ9e2gK89P_rMZZbKkukFBNbOQ6qKnzFPO4m0sV99vfGmOOM_xQHjMYCLFziNmK7SqQCgl0gsqIxVc7IYa8EILD9EhBt1aGF1PtC_pnxZKj4iaA3GhRFTBaRoaJJ76hL8wOL-6IIJjhC_w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "113 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801752,
+               "lng" : -73.94331
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1d701b9ba637953437356bdf2948dcf26733822",
+         "name" : "Microecologies Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 136,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAOTYB80rSShckA7lSPNf2gbo80o2trcBQ3jEDirH7_JKZ9g86ezH9ek9FWewVhOkq7rEN0DBRhXpxzdSdkb1IwLZQAt-2-y4KlyF1e3_W-vtsR5j9JPE40olzSXMDP-xbwES5dVq5aRSSCO20TfVOuxIQ7AKWAEsPoJwFe7UnmMDksxoUWOftxBptjUTeHvEyqwp7Y24MLzo",
+               "width" : 187
+            }
+         ],
+         "place_id" : "ChIJvZ5NaO9YwokRbYzO2n8gGiI",
+         "reference" : "CoQBdAAAAN3KBpkNgVsKTfQ4EN6hUM4nELzQ2tZi5fhBej-PDailueUepvQE2hqXdfK5pQ0bzNxbcLxgj569giwdG02Oc085ObOEoOv3gPsulUQUdnEFIgFASautYwX6McFs3Txv1u3wGkfmINdxEu4PSfCKxxuKagECOlFPYADDbNd7I_ulEhDiKrpgPrOXCCqqUVMmgk77GhSsMJ3Q1_fMMlNtZaJjsdhMJFnClA",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "1829 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799832,
+               "lng" : -73.942048
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "6bff0a4f88a79b9a6c3961472b26555292dd94c0",
+         "name" : "St. Paul's Church",
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMOl-vh00pZnwAmxECa6C_6P_5iuYDJPDISPXNrgvfStDblSo4z-EqJ7M4vd45EPn939qYHeIcgVgj0yXojjFQquvkJtrrWMFwSDq0IFUQsp3helal9evve0CUENKuE2Y6PKCi4TDgDhYUik2cVHCCRIQOvEDG5Ec4ZLAJsRhISkyzxoUCa29cUy3wlDZzrdLhyVXz_iKuF0",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJS-5bSg_2wokRMxmt7TSEEuE",
+         "reference" : "CoQBdAAAAHm79ElNnlyEiYDlFmc-neLZoU2fsoaslkFWnBC6e1xEKCe4_TpJsXseh8hcP6BdwHRXHhFd6p9Tg_h-jpkj3kf0V1IzWCPSolkEFg-NgVAfJxSA9XJA_mUfC66ZK2Uvr3hpVcQcA-uu5sN8s9Gj2z1AP1qYW-4xq5S6dsH1g-qCEhDMrIU1K2tAklUniByzD3d5GhTSarMKODeQ7JOT0D3c8sgsjvjhGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "113 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800154,
+               "lng" : -73.941652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27d9d1984fd8e987014988a2255398f1ef2bd31d",
+         "name" : "St Paul's School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 135,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAo5tBjWqPgni5fBNyXNTHpNYbr1EY0hyYksJLnDHRI_EBH3QtHQQuTxKuC49h-GCBk51moI88P-yMgq9ZBl15QGq3XuTpnt93nLta1-eVrtWiEua15R4QT57RhFMRFa1Gi00uNuUYXp_jza8Kfb968xIQ0OlyUx8E5szkvEoQYY7lshoUg-P8sJZFzKLWXmL_Bv6sCk6av18",
+               "width" : 124
+            }
+         ],
+         "place_id" : "ChIJQ8upzAj2wokRdQNOgCZIOis",
+         "reference" : "CoQBcgAAACCTNqJS9u0pfWsmLTSTw_VPZQJ1-_009i7Z1xQBg_SZlVx6jacmAJHs6UR7MI0CbkJyw2YCiTvT1oxCc_Qq1aQwOMoszJSndyz9CclLvp2k9mMSUs8vOK99yOZql3x1sbpmkSMPCC7OB3BMiNsB9iPuf2u_Qx4JLm34S5sgbgzjEhDSQxaPK63B1Fkw11GvA2vMGhTUCeC3ofNSj1ZO3F1XeT0slilODQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "114 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798593,
+               "lng" : -73.941016
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1122e87b3f9f715c0c291db636b8855b3f1bb9c5",
+         "name" : "La Voz Hispana",
+         "photos" : [
+            {
+               "height" : 1120,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRwAAAAUvvt1_nUb2PRocAW05Hc-MT5B7Htgd9fWbiFBXy0iDhnHLBrWj06LCQbhxkQTjfWs6kE_MzuzgaiuSRXRuru6LzEJm6XooTNqffKq_9NSbD0RZnsvPPNzEITLMyNl46jy8hfQhtlvhrOPSXl4vlKUxIQSmvWyFlLiWB7J3DUiIPGFxoUuVYuEHZXGu7Wu1MbzbcLH-5K4ck",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJN8VhHQb2wokRIHvVulyi7BQ",
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAidojLlMoPNrZvpPQA0cjUFEOxpg_a9fETyZMayaFC2z2A5lLJABsINXUQ58KeeD88H4HLWoVTNJOYu7mU4AIGW6vrhOiATG8HtSFoBADnZ-HdbuuOjZoD8J9E0WuJVm_1ZFBAKI1MFNewQ_KSxIo2hIQJza5uWkinAuKHhHB54rOLxoUZNQRV80nEuUnf1PYYEeZ2GInsxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "159 East 116th Street # 2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799733,
+               "lng" : -73.943691
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "64f7266bf877a43db1156f077d67d58c358570e9",
+         "name" : "Getting Out & Staying Out",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAW_nbg_2wokREDYXQsyl9AM",
+         "reference" : "CoQBewAAAA6qyClaTpRPZhk-LUnYSf6TY1wGEmDdqdo5Ne0_9RGi4-kghp95KEuQUWf6SuMUJv_9FwXCcPybpH0WXVsD63ZiTmJb2CAu6JF7PVZ4p86KsBDeHjKjozt0fph6DoX5ujqQ2oNcUTNXHj86iwTwyzXEIWm8wEQaDJtzalPFIC6sEhC86IyMQ9TLAD-NV-Wt5dLdGhSrAOTRI9Sjfxd5TcTzJI8mjb-Hvw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "91 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAACcpiiY8fQCvZPwvMeOlhqcr9PwEZ5sg-MpxcokrffqeUn6aPmpMlyhFYFapL06Eb7rxbtdya1ibX3bmRHjjsC3oK4vn-L2hGWkQopQDk8-rI-i2Kn3I486nXNcITLIpLWwxbePNbWQfrdPFfiGrniyyycxJe3d9D0NYyrGrQJ-LrFuMKDLEXmdHfyAQ4sRiMxIQ6iAtAXThEk1CPtjjvAd8XRoUqyHrVWD5yDxElSoLdgjlD8tkM0o",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

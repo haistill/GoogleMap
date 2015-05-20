@@ -1,0 +1,378 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhgAAAB3bMNEfZ7H-xq-a0e-m6hdcCT2TWW4QXq-7CWEn0a4PrnNUZVUHFtrafvFkaGFXx5PNZOUS9v7u_AmdEWUhK2n9H1ELD7Kf0aHVZopvGPgK5MGSGVkAD6XeGoaAHgqKmXFQ8iBhg_Uvt7bdA3_n6E34dJhg7gcIqxnOPMKpPdH1-XodnU0DOLmSkHekEVmRYxIQ29f4ZcjqIEgTYaSVAcoJtRoU_q3MndkpnL_roFQBhEAjwnlEw5s",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828178,
+               "lng" : -73.917558
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "27a59181c7ba5c15f632602f7c39018897b42cfd",
+         "name" : "Bronx Early College Academy",
+         "place_id" : "ChIJcyy2DTT0wokRmaZi8XngEOA",
+         "reference" : "CoQBfQAAALTBMe4d7WaCw0xy57fXYr3UfhDPkww9aNPfgiXXWifSBte88yyXGNOZ1DPpHpvVzqEjom6L1tCGAnjoCZhN6rSFP0G6bMv8ylWz3ULEiR3hdY7XDzaL3aygVB09kvAVOIkP1h4s2E_Q5THvhmwgBFXqfy5-B2JRrzywQPAVEOvfEhCAEtazj_q5G0BjIYImNyElGhQj-LWmJh1G3WQF7-0ey9vIo5SyiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825361,
+               "lng" : -73.91696899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "2f0c4e71bae51b58ce4e2abf78ebd8d2bb39fdbb",
+         "name" : "Montefiore Dental",
+         "place_id" : "ChIJnRTttzT0wokRAxaxJbAo-uY",
+         "reference" : "CoQBcwAAAE6PEmzNBmU-ZlfnTeEI-eiE3BkRtbqhFW_krdnWSRmZRIIURSTL7ZwYCVHfAyDgbKHzaocRFmvzXLRxUBKWLbPcbqmJ7MoO6KxMy48lrQ0uHMWDyjMuXW_pE49pKuOgfuJm0jeMWLCcx8SEl4PzhD9ujX8Lyhl6bQwJX7Nw1cEAEhCaup5fBWs7hBkER1TbbrB6GhSJ1vwIrb5_cNxNfJ9x-iOHLR05ig",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826592,
+               "lng" : -73.91759
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "921f9b63e9c9c195185253642aa0181844b2520a",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgd07mzT0wokRbj7SHJcF5d4",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAANdx9rHa-CMbl6DQfLQlqd6e12jOW4y8X7x9iENQUXRJINCVaH3cI59yjLm3Izj-i0okv37b8Zp6cvtfAhtEyGr8NlQcP2Bf8CZMiMLTBfsGsuzlnptv0QjTiUyTPlOj1nbZ8eqxoY7MLF9g9vcDTgha6JNrkF7rHSnBFOGf7h1LEhAo5xPIc4nU5hLS9z8XWxq8GhQnuqPPLNefT-cRBTxnKn4OLt3AKw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "910 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827662,
+               "lng" : -73.913831
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f3d175006fae16dfc37b873c2ea22c37065400b3",
+         "name" : "Arturo Toscanini Junior High School 145",
+         "place_id" : "ChIJP5llGEj0wokRBNZaqCOIRf8",
+         "rating" : 4.2,
+         "reference" : "CpQBiQAAAPqwd41U_0bZYRu-jZM14JqJqdzwrjmO8UgHVffaG6C_3c400TkhBCj138zp7LHzqBm9i6OPECLNYJ65eMnUGOctk2HjcwJoEAkaFcU017BR3AWrO4abY5kZCk2O8jnvf84bzK5Sb5hP--EYtbnXqTn7REPMQHMGBO5I1FoIKON1N2DDPD0-UlhvBTmCC0-ouBIQSnfhaoz1GrxO9R7ugzacLhoUnn5wY2cg_D5ZxMveWXV5Ib99Q20",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1000 Teller Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825496,
+               "lng" : -73.916858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4f3e68374352ed1e65391ea8abd27879c0cc0d12",
+         "name" : "Comprehensive Health Care Center",
+         "place_id" : "ChIJnRTttzT0wokRH3aghDpX4kY",
+         "reference" : "CpQBgQAAAMx32004VmfBk-Kb-JXylKZXUjqGsVYTaZaUW3nXzr_VI28ciNPlSAFv8zI_wKEfyg4s4E81LGHhZx9mAUbdy9LvqAQE5oHc2IDf1n0HrFZaGK8Cpjq-L0x1JNtxTwATQKFo5OwAm5UcldcBnGz7N0Za0SaTJoFlXcKpQb9FV_7KyrgHfrwQ52Qmfl_Q0A-JZhIQf4IWC3aykHx1cu_7LgfPuxoUFHwilQeoqi-7GuuI5j9WWqSsCCY",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826282,
+               "lng" : -73.914812
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f57985561c2c88c5037c4b8e2525c32a6a1880b",
+         "name" : "Animal Feeds Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 143,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm2QlILYb9af4zZyM5h_nG9fZg3_-5-3c9ye7e4MdtazQHJ9DPYJSXUjjsOiO6lqlz59VwWf1qjq5_JfinIkSrNIamnUqtx7AtL_26qKXEDWlH_BeexA-cAQQG4p2qe7IXASJFyYu8xf6Qp8XTrk4xhIQ7ZDSq9i7DYM1IRhbNz_I3BoUKDuA1ygjPkFVyDP-3Wi-roGlAfE",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJi0NKBTX0wokRDQ0V1vvCSxY",
+         "rating" : 4.9,
+         "reference" : "CoQBcQAAAJlHdeNGQQuhx8LAdzf7OX1YDXWIV0xTShj2_rCJN4D-7uB_eGW6PZcsIdyzK7Da9wS4Q1NfzQeDstIDLpyEYoeMxZtDrWhLCRj0efjEtjaTDm8ErAYAnCbQLPPdCJ1rVpegF9_VroDOFrVP3IXB3iEYQtan93ePR5u2TXVxiz2CEhDvLYpMnV5vPnWyxrZSYbngGhQLFjRRW5iLgUz8rFsQqbiZ_SOXQA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3255 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828242,
+               "lng" : -73.917242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5dcd54ee0a2afc8122d7429aa9c303866eb00fa",
+         "name" : "Intermediate School 166 Roberto Clemente",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcyy2DTT0wokRPwwomIBZsug",
+         "reference" : "CpQBigAAAL3m4peLyEf9F3gd8wVEUtUCOZpkI7Aj39lRuJuQo1hclYs8GzT6F0tv5TLClBb4HjuUCyhTYNJJOt2Fgrbf77pFzkImIIDc6VfM8ensz07WRuHpv_HiegDl3rV_mMO04XujDO8WzAgyMQrSg9aOG_o543RMwRb593uCsATJCiGZiPZTMDBwu7t1Gbt_G1XQwRIQiLRIPwAg0aecz5c1VgGZ7RoU7GSE2EtzOE2WMDbG3D8jT6jeknk",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828276,
+               "lng" : -73.91726300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e9a220eba3065d035b87744ac0c1ca2a34618977",
+         "name" : "Grant Avenue Elementary School",
+         "place_id" : "ChIJcyy2DTT0wokRHvVoEIt5eG0",
+         "reference" : "CoQBfwAAALotjrCqlTXAH_Jz7i6MVFu6Hx0gLJBpvbB5UitoS90U2FPNa52nwXLmKPxtU5n_mwXvVwZDBDVvfFfil3LnIbxOac7HAYLQdni1VmNwvo-CnJ_-JeFnqJcYpFFE-aGIv9eptlPB_lYSmHzAZDUfG10bsftnotlLkeJJCZ52MmRYEhDpmxRFGMZyVopgzBIByvUSGhQHkTVH2eWXtN4blQxzN4sy_pDoTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82697,
+               "lng" : -73.917951
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1e94276c0692d490983a8b81b4bdd10f55e2aeeb",
+         "name" : "St Angela Merici Church",
+         "place_id" : "ChIJA2YbhDT0wokRVVBgyBWQ4Rg",
+         "reference" : "CoQBeAAAAJSGKJnr2rIQMUQAnzd8DRyVsX8Sm_0WHqwjaTQk4RhB6zJRwLFvR54fkPofEmk66GFwaie64Sl9vaJrbANSOQ42ABaG9in8ooa_r38rh43pikJ_EnKySNV83abZLgA8ZwbBh5YhuE8XZqOCK8J1paUy1O4Ay1xcANZQPjHqwu8OEhC8bCBm1177rcKmSnelHk4PGhT-GZ8Ed45faqTkMDQRZHCy5QPk6g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "917 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82565,
+               "lng" : -73.917935
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7a3d93bb40fea3e8011be4ef2780396113245ff2",
+         "name" : "161st Street Pharmacy",
+         "photos" : [
+            {
+               "height" : 359,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBkQAAAA0SxsnXj4TTfH4KfTxhQuYBeH-yXQo7oW4HVjGSsMMQ9R8IxlEa_orB0B_Se8XmXDGriY_8EiH0IX9Ch1w9U6UPGE5Qhk5uhBOVNQFFGj2REFgbldZMxCt0nJAjGZ-lysveuEu8sCm4VePOekEGT-TDaMEVpeBDDtZWyo3Yy-HLP3Ju26xF0OYC6fxGSvQbQEx0QFOo8I3N6lJZ0CXicMkSED9FKxbIdrRLofr4Cnb_ga8aFMQel_aaXqtTklfsE8R8tOoaPL3t",
+               "width" : 468
+            }
+         ],
+         "place_id" : "ChIJFc9ipjT0wokRjYeA9Td02Z4",
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAALwQkik0_W9D0A1jA1muaYSsGniDLREvhnbvzc0TiXmdCYGlkTodflbHjRNYvs0Kcrw4tSD6WGH2qKVeUpe4GdlHZEuXrAlpUwkMP6tuOn2K3-MjCb6RdvHZQaE97sO4JsKMZzoT-7Z_3qHT7ydu2B27YtOH9cWoUQ3sco8uLqkNEhBK5mLacQh9c2TjaDEjX-HsGhQIDTB21OBmxLOQzfp2xqrnuwfg0w",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "275 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827686,
+               "lng" : -73.913988
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9bccd5177b6538a4a2c9548e79ead6cf98fd4372",
+         "name" : "Urban Science Academy",
+         "place_id" : "ChIJP5llGEj0wokRxY2ejDLvK9c",
+         "reference" : "CoQBdwAAANLibs6phnLUesEYAwdvfvU5HCWNlrm7DJxHHvDUDaRyLmujF0K8DvfeXOFbQOvMc-tQnr3y6QTfxuzYG1a44hyssLe6S7oJMWXGG9U8N4fgx2e3wQIaHER-a94dS-6G3p8CABMacnLIUBLWrk6s8-5VSrw5qKsb_2TGREmmvIQlEhC2XGnPolyMD7tFQEr5tLFQGhSCETjAhe4ta2vwmpNG0uaBApOeXA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1000 Teller Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825477,
+               "lng" : -73.916928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e00cb7663287657240e8da30d6e11fc96e1737c1",
+         "name" : "Hmb Pharmacy Management Medcare Rx",
+         "place_id" : "ChIJnRTttzT0wokRQYVrSWC6F8s",
+         "reference" : "CpQBhAAAABB5O-OGJeB_XVA7xOxF-ec8Fulp19bjq8pAicQqlZxCOV3pUax6PSLDLA1344QjDo7z70GYRuwFWFTkKL2B_n1pAxp7s9YsgqWXrLS_g8260TIFE5sjVm84oaDuxXoTjMoVX-iHLlxFY8P6gbWFKVFb19UFEP2ohEYqE9ZTWAqcNUtV7lljt1h_9uNQxgXGwhIQZ2RBVVgEPSesmDvUTpywEhoUcfi04fk-4eRHwj3s1haO4pGWttg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825477,
+               "lng" : -73.916928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a9dff097c69873f9025f920992cf0568f0b63389",
+         "name" : "Albert Einstein-Jack D Weiler: Beil Robert MD",
+         "place_id" : "ChIJnRTttzT0wokRGQx5I8GWSqM",
+         "reference" : "CpQBjwAAAFXcdQT5Vvl1Bi6wPRsanA5aloU3sA8XAc-1jxsybO3mqiaSIficA4U2MKvO_apLr6H1-fO_oYCUIiiFYczk99Jgt79j0ZA9-cY5I0Gak8IByHkCnH7X85nhmBQAAmCLUNbqNgzAnEed2Hs7MYg-xPTX-KqhDUEZy1EpBH58kPAkjXfMnQQvMOyDkSvVFX0MUxIQmtv2XwIgexjxM4t4SHJpGRoUVyIob8eRpldYwY2ExUeNzKRa0jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825885,
+               "lng" : -73.91811300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cf4584eda218a6197613aee59f7913bc3c61dafd",
+         "name" : "Concourse Medical",
+         "place_id" : "ChIJF4XzoDT0wokRv_p1D1A3bPE",
+         "reference" : "CoQBcwAAABk6IghyU3gMIs8AYZRRB9KDKxDL2A26epFe_VIK2_wsBuazjCOqt4b3EHiLu_8gVqn9f1n0Nt2iSS1FGW7jwPYfnvN88kz5K23pV6azK0Q9rHZ2dlgy1JKmPBdQZvlijSstU-BP1MzsPDEqGfiLivPNvMAa1GpMeZ7zBeIf0cMEEhA6HOdw1PpvCJX1cxCiBNgaGhSrWPDcq1apBck1LXbXbIR2oJA4jA",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "880 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827723,
+               "lng" : -73.913825
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4e640a89e7580f7b838ec6f1eafb525e3436e95",
+         "name" : "New Millennium Business Academy Middle School",
+         "place_id" : "ChIJP5llGEj0wokRJ1Bo01wp2D4",
+         "reference" : "CpQBjgAAANhvcnMYLRlnEJphhGTTy3V9Yqxk2pRwmtpIZFoTvz6f3uZv-bKaoEC86rDZUxY2MUz9n7SWTtiprxkSbyYGqooR-qQyNgJQDM0XW3sx0TBPvPA8gp5c3_VSryLCe4_uxoHgCpY1_qIwnmqdyjJbbFAlOkP5EXO5kPYyjfrk3hwxbEnPhwfrkbx9uVqpWNLOQRIQIfVzj33UjTCUW8lPDtoo0BoUBHoywc0WryGBW2ObAGhWZ_GUcTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1000 Teller Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82522,
+               "lng" : -73.916798
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0c3b42cf29822709b0d5dd3ef91f80ff34b2a527",
+         "name" : "Care Pharmacy",
+         "place_id" : "ChIJ2-IVyDT0wokRVD4g--p-YBM",
+         "reference" : "CnRuAAAATd6BqAJuKjxWwGU7Lq8tgC2huUB__VfqK50JD_pG4iK3Y9u7ZegsCUZh9dA2VB1qz6FnbdoY83HaPKVCQnd-DsGd4-LpfxlRNJseAqr7v0vXqWEgfYrBcA3eWfghUS_VAhZ4t5rnAE1vmbthoX_FzRIQ-5GY2pf8ij2wrEvuXCFLahoU9f4d4lFU8A5-5q9xYJlm2K2rAOM",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "313 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825477,
+               "lng" : -73.916928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea8af38a7ea884669b3bf1c5fd84520d5036d54d",
+         "name" : "Dr. Chinazo O. Cunningham, MD",
+         "place_id" : "ChIJnRTttzT0wokRKmur9XD6sa4",
+         "reference" : "CoQBfwAAADjbOhxKFZ_KiqNCjGate-7YrJiWjAhp4jgAj-aqlHL1RQ0iJ4qFfHBKUkRcQUYTWZkLMCQ86LyfGwH4ehIINualA-K0iYp3c_Ymytt1YSkliRgVdXVQJtFTqMnK4zMtgEMnLYOjBgMhU-JQbj-DpeBxndNYOreNVHXo6q6ZJ2PkEhCy6sZi65cEzs3sTJ1XcIX0GhTxqlBPWsf0bMH-dNHxEOZq2KW33w",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827144,
+               "lng" : -73.914213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21b9bd659e47e5aea64ccfed00c333b3744a189d",
+         "name" : "Arcilla Playground",
+         "place_id" : "ChIJnXHlozX0wokRcB-hofrRRZs",
+         "reference" : "CoQBdAAAAIMOoDeqtXNFLTlLA29kWVYH-I5vKMpbCypTeqMxkqclnWhbTmnoOxhWjO2zXdceZ5YqI2su2jP5Ka6Dprlojkc9ScSmtt3pQPDj1Lxq7y7K4nl_A13CP6HrRp0jw7NlltUA9fgVYp43gjexGhEqW0cfYf0S_fvxDG9lc-y57ojyEhCVxvcBXqk4NyTUgiiOQr2sGhQSYNDnt9mUZdOI6yNiwQqGVEn-ow",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8250663,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8340087,
+                  "lng" : -73.89756199999999
+               },
+               "southwest" : {
+                  "lat" : 40.8204754,
+                  "lng" : -73.9166379
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "afb454c03658a9ced34c55f4910acc3a003ea7e9",
+         "name" : "Morrisania",
+         "place_id" : "ChIJHQQOLEr0wokRxLXs9U77hhQ",
+         "reference" : "CpQBhQAAAMMEjTR4uyWcYdx341eH_u79sG6mz-yXRnwpN4X-EFwJtz51PNKpJPx6hc8N69Q60DWsZskqfdq78UMgrdd1R4JnwJjyMOMQI0HdvDyTklz6S_9SsZF81s3VVsJSAa_meW0l5MIVaHZmPfjsz5Ix56DH7CUyjPmIOc5eXYgj5MwjM7vV31SF23Sf167PKQ1_ZBIQNMzRBizkWSP_-zhnfPHIKRoUqcJx2Ab1mwY0Jvz4mpMJVN74vn4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,559 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAACYTFeaijug9Bfdr_SC9fkeXe1DpAw9L6_c5LSOmOS5spfmXFcRDoSyodnk59YucKEXSdcGFjqy4ua57xypoLEfBGubMu-Y_0wvBSdbBPeA_2rt78ypvTyYEwbwAfono5PeDlGM1zERGbH8oB3wJNx6m1Kx6o8l73eN9Aw4NAvup0TV6V2LhYoPp1jELArN_ZUjSDKON3O2GJBODAWVFsrqnizhspNE5zsf9IfhhsAVU0tJChmhzs3kO5AZCZgRHOQazAWz6X0_nU2_nQYDuUIrDTUQe0rfFu7t5hiQ8Fko7I10-a5lujsaClfQuC5Z6rhIQC5xZbXnwGvJFFeIB118-TBoUVNbEz0dbNOFJd6yZxv6_q73VYww",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkgAAAHjIu4sJ-P-6WoU2oVVUrvgsfZ6dL5FB44xmOnK09N4qRt4ZC7Hp1eoj61SBO90haRGnI0a5jU3ApE3RnZSnNICfaGQohp8X-EA-dpDH9QGQrzkGPAAz9hzsYTc2dIAmVlQ_Z9U_HpkZ-8qM4WqjFDWqQ_JDTPkznlJQWRKDfG8qpXTtMZv95zsWcQI1EwM0xFrHXi9gzGC-YLzhCrlVu1ESEF9KJC1eFX5LnQvpWlgq9PgaFNSHWRDrD1-_BDbsdihduxMrqxRa",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801138,
+               "lng" : -73.968169
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9f68c62d4e2ad489f45f64f761801f28d463ec4a",
+         "name" : "Smoke Jazz & Supper Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 494,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAn92dKSWgKGgaVpLafi0idgepO7U2I5XNXqFYLU6CJuQynV6Euw8Y57fzOFHMqCFjDtNsnc6Uh_S0-yWx77gF4TD_2efnUOKCrp7ztU1W5Cr6dR9qB7STTSybMseI1JMjOwgmbsZEiRrm0RQtjoOgzxIQ0LOQcZrX1BwukTxx4wFfDBoUS1IdgAr8aH0qEzAyZE8VhuqlQP4",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJS_7f3yT2wokR4dsAb0bTwDo",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBegAAAE3QJGwMO4CFYPu_BOyAjuT8rWlvFtzeN59JOAuSVS07VwKn1o7gBl11S_cXOL7kQsTMORGFi_Iqsv4vP6iDFWy2_oZQH67vz_jxegjOdwVnjrAROzqYAAZnx3aRNZQz6ok8p74NLI_h3RU4ZemeEpuBWFOI0QNsWSGxUgapGzeiEhAYQLOBy49tJOFMa8mMcOCJGhRAf2CrU74zvcYBmMplCEd5ZIYFbw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2751 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801693,
+               "lng" : -73.968244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "22ab66d2192789d0fcbd811cce44bd18515825ff",
+         "name" : "Straus Park",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CtQB0AAAAMXZ2tovhTrUwXzghA6NjRTo3IfiCPWe0tV0LXdJVwkgIq35kw5C8XX4bC_UJCCdS7FvWOVjhjk932yXGoA9aKylXF1J7UL40j2Ne28xAttUYPeqYu6VING_M_UMJmzhqmay76Hc5Z22mQNw03npJfGLHkxwbunXxS5MnBMY55cK-oW2xsjCkE5Hl2E5pQCrD16UwZDUod1C5zw99zUo0brJh0GPPOFReEefe2wpztEudMTgVolPqm-SdOXpWadXR78eXB8QbDW5kfY2MT0vziESEHmn1lSgg1aHDxXX7cqn9qsaFD9Hq_vnsmI3BI3vXjpQl-mCras2",
+               "width" : 1357
+            }
+         ],
+         "place_id" : "ChIJ4zvA1yT2wokRncwNUazVWQw",
+         "rating" : 4.2,
+         "reference" : "CnRtAAAAgLytcJnJV-RNRZxeV5vgB2BKdWE_m6GMeOoKZ4D7-XJSvfGVTqk6yAmcRj_V6UVe2pfCXxP5LiAIKVPtQjQ3VuJaTRuc6JlF4GtohyFlzObnz5pcJxAC2fhJmIcsOqSYeNdScREhLGv4StyzeuGqghIQzZHoz5h3H3cEiiR0PjPikRoUSfogtNTteMEVB6dRdXJYjBaMC7k",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801839,
+               "lng" : -73.966645
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "aeaf65e57afe7e9dbc1e76b1534b76331ca2ab72",
+         "name" : "Morningside Inn",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1295,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5fv8dRlLkXbHE4SUNH5zUhlGo7cZCenMGeVdkEI5XIZGL8azibDuqx_KWu9sr5KtDPtzp47r6Q7CoK834b2Q4ssTrCBDEpIxbnM6RZp2tlwhyBFnrJF3YpT4mfk1AAagVTB5lvwDdTj7KASJQu7-VBIQhN9S-UCToFSaprEdecm66xoU34V-m9WxqTs17DJzLT3St0A4b2Y",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJdcuBtiT2wokRlaX9jgeuwx4",
+         "rating" : 2.9,
+         "reference" : "CoQBcQAAAN0dRcRcMPCMQc7AO3IOye_r4CNmpbpPLn0FlOLuF3zmerAY1Ns1UPCtY8Jm37qowZ-ckiVDoRbpati3IY2mEoDKjABqhmnoyJSA-d1yqu0VvO6Cv1NhoFO8RT2nrYNUvnh2Kqe8GerzXFC9rzPUTxgOjR3gpaM_pVklkDsR68OWEhCroLgSsrtpucy4wlPOY48mGhRZICzQcn52Z9kAl4wiG7sM7N_CfA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "235 West 107th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80337,
+               "lng" : -73.96827399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5ab429bcc5a69ebfbddf1c30a760320a9df53e64",
+         "name" : "Bloomingdale School of Music",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJnzz1IDv2wokRdM_4Po1WyRk",
+         "reference" : "CoQBfgAAAJ6ixaDRm1aHX1XaE_gmPl-xuySCSZGDz7DnuHeLykKNUd-Do-97D1ztR1tjARXDgF6ZSQb342_2EBP0lsP0e5vgcaHqzjWbk_jnCpdWaoz-KnfqY3vpr3B9CPg2quYSdL49YHQM4_fjaNEOTA8uU0SfG20SFPPXOYSeVylPnKIlEhDWmfaC9_IqlY-lLDqafBe_GhSjBtKWwye1mNePk8JnuP66_0E9uw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "323 West 108th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802512,
+               "lng" : -73.96744099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d02868cb946f7bf6e0781e0ae117d60a5ae1e1e",
+         "name" : "Absolute Bagels",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcKXXSWKzrY3Go1S8x7eIZC40va1UyA9CNbwIchc3cB0tUWqdvxpT6sZnPWNu3B8BH44IBwb7jSwals_4HiLMOlAopMagjpd7KscCfWlIQyXEwtPGFloanBQfLolXUsWVXvczDmDQ0i-4CTnxkVlGYBIQyZYEOm2b9_6pDdg_w5dAgBoUuWmyd42-_hqrEOmXO3Ay4sSG6P4",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJLW3vMzv2wokRGt6nI1lYw8A",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CoQBcgAAAGrcOm9se2V91CncO2DSmqWvoA4CWQe93LTlk4Gk6QYEdp_OVYKWsTknxbQ73UPa-58r1kLdYE0f3jPsu0jeC-wutDnRnECMnAvuNpqlX83P70Nr41-Kl4qHFZarG4plfmwFkMYhGjey6AOeep_zv6gdvvJqqyjmGDvn98ZRiYOsEhDkDgJyuOp-esnlOEzY6Bs6GhSYfnNVfmELMRO33fJ_1sgGAFaL7w",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "2788 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801358,
+               "lng" : -73.96531400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3c417f885bc56728a261fa8f957f5d0aeb5e3c96",
+         "name" : "Thai Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAd2_bn4xFEbiT22wvS7SY7uV2aoAVU0WG-PCnVhTwJrTjJOcsEHArJIzg4fgi33HecicdmbAbH7TibXPBfWICCU4JigGfS0FTxD-Epk65UuRx71RSYstmax9ddAAc-gxuc3pUSRE154MrB6bTCfT4sxIQctu-pqnuNjMYTz_w1cv60xoULFn8ykCpPiQK2yOMPNL90rYKJL0",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ8yYSWCP2wokRym-2HUHMJuI",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRuAAAA5AlUK2dUWp8nIxddWMy_gjDnktiGONpz9KzxLeB0utKT10sYI1cpE4Vn57DkE4RQ2lTxFbS-lHmBecYAokHbUKdN8xx11CVmZ3Y5msNolV9nCaN6i4y2YMOYWPju62rQzcHAUx8VViNyjO85BpUX9BIQSPybVXVJ7IKIl3SeSpM8JBoUkm4JW3i_3d54uSk7VpuFxDK8P8M",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "960 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800712,
+               "lng" : -73.965273
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a2b74883e4955cea21e5afae588a82c1634f97d7",
+         "name" : "Awash",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAWZnNWB19SSGPhZMjYbYBVbFhGzB9c7kjBgcJ3nJ1RdGFHa0Xc_tQMjrRvXnpRV-LUxeOWaYNjbTz4Q3xUyl213-arppTsNM-ygoNLPe08hcQpeOabyPzL9puXAzjqqRyw8vHPbyRc1wk2Xo0DKjQIBIQKl9iGMFgHd7VYsAnqKdipRoUyF0RKmZ9_3TJzfq9MQHHfbAAvhE",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJTxiNYCP2wokRz8bUSToPz-k",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRoAAAA1CmxMK36JLR0ttI2X20LDtiu8cBs2xszFe2ZTGr-HsbCA32sQhaXcnK0O69lMsIjz5GDODpJfZHEWzDwVj5TuHLIXQCwkx7RN6HCYKCZTDF19YUB_zn50oo2ldvjvTXM4vJTiDPjMdqJJgL5IqRVDxIQSXTMf1vRpub-299crFwmohoUFnO0pay9MWKbnzsgWX0bvvXb3WU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "947 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800151,
+               "lng" : -73.968395
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "e7f970c180c42051852aa80b355e2ad33457bf4b",
+         "name" : "AT&T Authorized Retailer",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5OGt5Q80DWSl2sIn4bHrUYjaPZsS1pczcNRvI0BeNyH26m1qAp0KlmdO3xcxUs_WesjWu4kzlm4y8mYW3-hFVRE2P5Kaz-q6pwYbUz9XuUo8M8z3K6vLtLC5w8NU6n1iBIZKmC2bgvqoxOGKRVcZFhIQpONmYw44wPo-30m5bEFuYxoU9dw8x8W4Yv51w0AB1YzsttpmS00",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJfaz7ASX2wokRWp1xJXvRlpk",
+         "price_level" : 2,
+         "rating" : 2.4,
+         "reference" : "CoQBewAAAFoiChqSjNMKdOlkhAfl8HDIHU4ZOY9dI6y8uSiyLz5DKLgjxupcNX2FIrW9blgcv5h4a-3V_Q3GhGOUx6N7LlkNf2oDT8Q7ARb_jxs7bvF0G3I4mGjKNH20Q2sdgyROO3k3THMVTImmtNczVndZi8Py1ngQ5-xUzAelhz-pRqkyEhCWzIZ4D3Dxl5PUQssYXTJ5GhTsPzVO_2JN-39we4Yfs0tn8G0mWw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "2727 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801209,
+               "lng" : -73.968187
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d47dafadda595bcd84c0160d0d6c47c388419022",
+         "name" : "The UPS Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJYSC43yT2wokRFDStUDn1Aq8",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRwAAAA1NwspCBPl7AJBRK30JYEz8Uwe2w_zaws0qEp7_ypOGl_gAr_8gMrdEDi1B_1eRA-GqOEGPiQiabGIGZ7wYFKAMCTtbsDYhyZWYCf9DT0kk2M6poD3bCh2vCNT8FRxnxRmobZlZTHU64bx-fcKMusmBIQudEFxkrhInWuoGcHtEcYERoUSyPwBJfRsCOvYU9r8tjLC4uJxNo",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2753 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801787,
+               "lng" : -73.966374
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "d1611eb02b9247553729e838ff5390c695b405c5",
+         "name" : "Church of the Ascension",
+         "place_id" : "ChIJB4WmtiT2wokRjs9_QH9-Hzg",
+         "reference" : "CoQBeQAAAIrKTR4eqayvhT1BH2U_qwP1RHi8wk_b2UiZIlT71c47eZQBTmjo3dy2ngqUyX6HeCYowx9yoqWtXDoDHJeCRGxiA6Yb4sTR2fINr5EAmQ7IbBRcUJrESKU4sbk1NEyzTbneHl6oG4HErpnnwGoV0903yLKuKWU9KL_5t0Hoyj8pEhC5IEOKq_zhpO29zQsvEnymGhT-KTCBUKXemHkykFVu4802dvc8qA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "221,W 107th St,New York,NY,10025-3098"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802294,
+               "lng" : -73.968306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0662767a36c1944e877c82a8b231774470a4914c",
+         "name" : "The West End Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 288,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAAsTBnAMY_C7pNQk9Gu3sIEdQrK3sOd7N_v6v11jgeiBXGzZFW4-CLeTVqFVdzocxmF1x-SoBxFC2gKKLOxfiPPsklpPNXfjoTqoUrBydBDPjgyzzhlQv_A0hfUke2Tg5WKUUQoEqFvM9cRYRziAc6eBIQ42oui7-TDRNfOeQCB6VLyhoU00se4JdlwwypYgLtjtaYVBXGXLY",
+               "width" : 288
+            }
+         ],
+         "place_id" : "ChIJBbFa1ST2wokRUOm-6Uua0Rg",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdQAAAOL2B4uqYV3i5f0z0chH4MQPaA2jGrTHDcdDd8dwa53lClcOqOCOCNvcHxIndTr1iyqfJpsbvKltjWe9c26FFqs209QloRmqeBoEb36TkKUfkNDse2zHNuvzV-r537Dy1veF4tXVmPPNuB5DE9CbPc8Tm0a5hijhHXMdauYqum5pEhDLpnpmgM1jjDczoRI6EWfiGhR6whBbcS4-9lfk6BVgkrvaPZpfUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "955 West End Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800844,
+               "lng" : -73.965192
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "68fa0f758937ad48fab80ac8b7120eea5ddd8160",
+         "name" : "Blockheads Burritos",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7uOAXOD1spyERvmR5T8oeJ_cpmxk3IwE4cSUHQkFfAGrXHXx2PjxzOEU3aRXA70ZdFlRNVP0CmeLCUixJJNx9egTJdwyfMAQftCYxaxXookgLYxfiZjNQj-8GsqVN4FxGHIiPR8_W98CodyNPBRZlxIQt3k7IJEiYlj-k1bhvIqi1RoUw11mjvmpKtKpeEvEG5WlsteiQ_U",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJd84TXiP2wokRM04hRN6XM-0",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAK_i0DBcTvN7IRgTZzRkXYZ6qu92l8NI4tWpjlASt0huwuVy0SZBosKYo-ynd_F3m0XxqIjbvcecfJ0-ewcRxq9sx5WaSjF1b8F2-mbTw-CiZvNXGPsgpFSFO7Fj8zQE44_3w1Vn4W4HEzfxrZHG9eam3TJEiLh2KFe_JgYSDj_GEhDsbZ16Uuv58YooCP9GVsJrGhQ2Zl2vMm0JgDkWJ-LcIvk0ABUhBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "951 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800079,
+               "lng" : -73.96834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2c26c49fc2d435befc96da57e1ca70d66407aa69",
+         "name" : "Cafe du Soleil",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 583,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAf_WXXbFdjajc7nu3xJGTsxl6I_FZh-eGM4YzUOrNlK_vU4iuBpAeaqZKSYHFMtRJlC_7dhe5nKxMqKNs_DLnXxKWJeIHnCA1cJBk-gi8fvbKdVdWsP6O0vPMozRQmBl8oLADZ1silu3hW0Fu8ptuFRIQa9fO2JDJL12Zg48ehCKFSxoUTRAmsirUZ0tIlLGqOO0q6ogZmA8",
+               "width" : 871
+            }
+         ],
+         "place_id" : "ChIJdSjF_yT2wokRGIi9gbkjZPw",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcQAAAM_wT6snC7zondmXGbpW2UcKfUjpuLdNJdYzkrhKxTAmQdNt4nT0-7B_-B2MankE2pQepfwQIpnzJpGmJmhoF-wi90Gh5cHYJFurBWho2PaNK_4Q2qnz3fAXOJynp1bkflsFhKA6nsVEaT7z1E3fg1lsBJX_Ta66Chlfq9l6GCrrEhDLdTIUE4x4wEqGowitcJceGhRMvN21722ZpkMhrXYjiXMGqpKgDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2723 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802248,
+               "lng" : -73.96473899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a9fa27da34c9333a30781417e594e878dee8e1d4",
+         "name" : "Village Pourhouse Uptown",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4-IM1A7pp4cr5ZCU3ioWJzP0BPp_s3gEm2hZpHwoFlPrViM8aeTZFOgzki5zflNVhpBzgGwu_P8XSj9o1zWTc5nJHIDiyK-ChsR19fx1ErOc0PScEcXZRb-xlU7KBTfl1zXX-629s2DDmxvG2rDpdRIQKQhdmJGRKeyvCizh7jnvtxoUK9YKl7Eh4v4WSzgIObxTUd5Rc4o",
+               "width" : 736
+            }
+         ],
+         "place_id" : "ChIJjYHlrTz2wokRBhKptfgnaUI",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBegAAACZ_5UEorx_5p1L4sfQpfE6QaWfGEoDV8MTL0sB1NGs65QpX7c7DdlHaa5iyeAzosV1upJE3-UrQASGdFIWgg-jvz_pDGvVUSv25DtLHu39Lh5s68mpnDhNQ-8Q2RngbXH4ryqpRAssdI9oNEmDOtwSSUC7TyJsXbU54jkY33tgyEhDi3GkzeQz3NhhwbRQ4Ga1OGhRCu-TQrbPqteecZNK1L4KNQLux6w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "982 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800989,
+               "lng" : -73.96736900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "b04d7a5fb273d3c76fedf3d55cae5067529c3468",
+         "name" : "BodyStrength Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 605,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdwAAANobIM07uIpETnKGrTX-oh8J1cCMDB1nan-pyV_f-__RywReQjACICDnHZjOQwLy-3S-6yIHqfU05jlOfALhwMSGD5dKUm3Tqbjr6n3OO3prYYFzptyc9zTuoCut35thzk89OcQcwIZFgZx72hvfIrD3XnofWHtErH7Oaw8AlXb7EhBLGkKfy7BfGydmMNeYdKwjGhQUq84gg3OtaINnvEAgAmV2ywkgrA",
+               "width" : 606
+            }
+         ],
+         "place_id" : "ChIJpaxpwiT2wokRdCB3JyiTxh0",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAAKfPbQtjrGU-gvolUd1WrWBhWy7Uiwnw_6r4oy4Wg6r4zMJp5ekZJA-y3XtCNyBdPRkjuizF-hwmhOC-apv1vRZwj1nCBTq9CaVlivvE9tow2zHXB_N1LuUY8C9WggRqJLLGTUdT1xckeJvwyEgezpAzPb8fhQKjL61tYFnlqNv0EhCjfIaiTKRljPq1VJxzWiaUGhSI-poWZolHHrw8_VT8DSLRJ8JZaw",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "250 West 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80076,
+               "lng" : -73.968259
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9bea1a1767a3e3bf98536ac9a703b36b4369cd12",
+         "name" : "Henry's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRpAAAA5raiJK6gnih7yqf3KDvfTHwTXWDhaNneLNKwhLtuEgyovXlZE4Z7TNuNtkW1Q8FmyN4rK8b49h-pfYMZJcsd_8U79-C80NK-H0dyIK0Lt2kfa_6mzTd138g4-zW0No2QYCz-SUCDShfbmDnb-6BDIBIQUt80HKX8CeOMN9FeKhfqbRoUmeipqS9oPzsGrhPXirsLrVW_bz8",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJH733HiX2wokRKmWhqBB1DPk",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRqAAAAN4RzGwZrQnoI7HEw4TuBceb8u77M9kLsluWN4MPPHMSEij0zTHHZakqqKhtmkeiQvDSInc2ar3bywOQFJTEZPFgFT4Vzmk17TvC8XoM8HTwKYK-Ql02Df9dhaA0opcCzrJ8A2TTIoWgmldoSJREbKRIQlzq2BAUnk84oNK3M_xbmKBoUJeNP7nlPFKj8z6ufPwiNTDL05sM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2745 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800597,
+               "lng" : -73.96768400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "f7ea9b76b55eb34f9c839807016c8578c05a3ec9",
+         "name" : "Blondi's Hair Salon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAYwkMypf9e6MlIRilGzSgbiLUo3aKoz_cNkUpfEHmh6NTxaNUUbnFlRUras2-pJVB4vfVqV7eqZW7Jattb9H0umwoZ9PDNYQCNWDqtJrA7myeqVfRt2oEmAaR5a_NLg06L6tpDuYwJJJe9gY4eG_aCBIQrLpKVWn1uRwCLGWCoUUlahoUX2x72FON0Yj_UC4iZQ222YN4tPg",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJYRuf5ST2wokRW_lkfTACmFg",
+         "rating" : 4,
+         "reference" : "CoQBdQAAAGG1oyrRU2NVuSICWOvGmj-c5WHJNg3Z7Cndo1DNA0p4AHqC6VLTRF_KZNcblrAy26E1AYRUS8a1Ba7xgW8Pp5hhQPhQmaV-U1FDyQvFKlGrH_uE3Yq5vCAJaOYiB6KyJNe_fZSi33fxPZDEXlIBXO1X_L3BhhRx5Nct11tL_9H4EhBESJMdsn_UKzQEV4QPdSijGhTpp8FFv437HFxVO-OpCi0V8RyhBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "establishment" ],
+         "vicinity" : "2742 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803336,
+               "lng" : -73.96692299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17a8f587ea6e9b8631c47a0c7ad6845e510d9bbf",
+         "name" : "Verizon Wireless",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 432,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvMwfet2SThkhqFpuS1AMvT96pkh_XWGQeQSkrCrTJSIAjuOnxBU7mavZTvLWoKZnxZUdfxHVnWCowsdOfYy_ZDmqeu6gGV9XQWQuEjAtOYCweo6AGglFO03HQtEvPwTmDzSA3WUhwUWolAagzAPc9xIQWuvbOoTVV7cQ74ZMj3nijRoUA_OcS116lbVuWZKR__sYVN5HV6c",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJUdrePzv2wokRytxNHoJ-OJA",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcwAAAGcEEHgwrG9P1T6YekSyjRMuYnZSciTEFeg0VwqFnnWkJX6Wg9J_IjVbJdrf6DrKoova1ux29R_a2m2mrQp_9W0Zw_sgNTotNTELdSlm4ZkcmhL-On7UIk_B80ztmnvGcQ2mQB8uMr3pJm1t9TWmQeWOE-TshBCfkLCPimDDObQzEhCMD0bMETqWizZWuSH39MIHGhTMFykQh2HtSsPXffXsmZmZgjyu6A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2818 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkwAAAKN9rcE-TTeF4S6b2KvUe0pV-8CHZYDk9mZHOeYbeOjdS5DMg5oGgryMMqszpjG-as8C_G-HDh38MPPBHCo9yXc11RzCSaGwdgc8eqwGGApKQx6JJTqm8i7Y11VtGyzh8nE4GC7pSOmvLE83gnaiH4YCr52_pdpbRbfEHJDUvjA4fhWPq8_ToRozINa_WiX8a3Z1_wlH92SLXUTJ1xhnDuQSEA6iTo8OYrfEnbE6sYnzHBUaFPZtrIhi_bVh70whEYtVFYUz6aR9",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

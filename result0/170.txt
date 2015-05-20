@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7099692,
+               "lng" : -73.99365449999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7107842,
+                  "lng" : -73.99217949999999
+               },
+               "southwest" : {
+                  "lat" : 40.7094952,
+                  "lng" : -73.99413749999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1fd79a52130b127a4af3f8d1d9b6bc4574a8233d",
+         "name" : "Murry Bergtraum Softball Field",
+         "place_id" : "ChIJswdtDS9awokRMnmzxC7Fz-s",
+         "reference" : "CpQBigAAACLeXoYKo6Cyh1aK1q0-g3YaL5H9vlPTcYF3GucxwAOFHU5EXAQbrlIQ_yl3qVa7JTDM7oiCEbz8iWuPajtszA9FzJrJWq6hU7FPV-7C5S_l44YYQ2Je-dOG3jgZnZg0TEBUlIJ3mobedtQKGQatkxKlDfE5-Zx6LDJhGnTuBMaM31vzGIyDdil1ez_rjAmHchIQM45BTieIGBa9QxT5F5k5MBoU_tTGk-LGe-kmyatM2nkcPriYSaY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBigAAAPjGSStIpa0Qc4I24htjLy1s0WZLkeQTeid0cK4hfA-hdrc12Ca7mOzX2zv0-uXq62GlX-CzH3ji3oQ2icFDfgqNCq-8qJq1ERxrnOHhZ9-KtgLyfogA3cC5GMTCtsJIZdxjmkqdxWn1kiOskC39xIaNjEMSPnODWb3dUp_6hZiTVE0bNpSoJLDIXIA3Jgf_4BIQpKxq4s_o2Tke8pnSDbP2zhoUae8hIAlTHdTwd-GTeWgKB0cjmp0",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAALj0e_083tci3dQ5EbTWtyB-0TPm5vICd97rOLbAvQPIQe6YSFekNHnjJd_cmUIW1o4kyRVTxdCIOWFBckgPd0Y7EQsYS7ScxTd5lnbMq0jXz9V94-ZxzYE8eaadEPdze8w9UzQlbR2cxJxkuTFYo2d6dQNAZW25gt4N8UgV5an1p95CXc-P49y6nAqb5S2_hIQwYMgLi1uFnoBFvgWyC81XxoUxMVoDlNyso9ZAC-K-0H_SQK5TRI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

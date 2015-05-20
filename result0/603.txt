@@ -1,0 +1,562 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABRhPbrYQ26iiZVNIFaqn9b4oLpQDXRVWolCADbDJkCW7fOnEptwK4bgDJFv9sFpdPZh93nVp1FkBEMhmJtsSDiqSSXk4ad07EQo-hOkwDrgUr9uDSA2ugmA_epdyHbbbNJvjJlwyZNIyguHHJeaSi0j0rORqBLdSdRKJ5JT9C51td5grIobqt8ENTHf6EAXkJ2VnCOUDIbdwV2Q2UQ-yRZoQYANz3A4BnsFVXc2ZIWxFBfxmT3zW0Pfy8Yv5EJxew5sta2eIdKsF82Lf_oKYoFtjeEmEJQD2rDpkRMsrkn7KJH_Jo52SDwpeM4JG3PxQxIQsrebf4nKcmNdZvEAwEZV8xoU7J4-Mz4Y0HBo4gCAVQxVq9quw_4",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7265834,
+               "lng" : -74.0074731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7291125,
+                  "lng" : -74.00285079999999
+               },
+               "southwest" : {
+                  "lat" : 40.7219578,
+                  "lng" : -74.0109551
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "68b75b55c051ff1ec32157d10bd67074f5ed09a9",
+         "name" : "Hudson Square",
+         "place_id" : "ChIJ4QOWMPNZwokRzQfATkrLxa8",
+         "reference" : "CpQBjAAAAKvQ7zQX8G9APHChgLEMEKG4xNS8x9tOJqPsaIvUNsGOb3RAwKDifSS4QGY4C5SLKPmCJQf2EMUaO3Zgb8g0ZqY3DcFF_a4pve7FCGkqEuiXXi7MOcHEo__ujbSr4OEyvOmk6YqlqEqH7K0KQM72YA0zWwKDFE44xwdbpH-B8js_onGuGhY0dc2akxrquS4RnRIQIues5zj-smkISYowZVT1bRoU5RCwrnCh-8_grbME9Sc7c-IGHMU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728318,
+               "lng" : -74.004513
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "a9c0ba585c7d4279468d66e0f36fb6436e60e583",
+         "name" : "Film Forum",
+         "photos" : [
+            {
+               "height" : 237,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxa_EKiDrRRPXzH0Atru0rCx563szDf39dSVTL0tqlE7okPCRvbG02fsuI69_tntCYEngDZu9meoUAJ6-5PhqltuPFq5g6_BDieGRGm1PBhLAjd7vq9WjGXoNJ4xEkN0pNvyOokOtxvR6EJKCsoxCYRIQLvGzsEVSDVPLO24xRqyzPBoU6RnV7i4eyQxgduamf3Eg6lgAit0",
+               "width" : 299
+            }
+         ],
+         "place_id" : "ChIJW3q6Yo1ZwokRwnpMeNyWLFs",
+         "rating" : 4.3,
+         "reference" : "CnRsAAAAMB7y7l6bXJbap176WjOx3jz0vD2Xy69N70u4wW6fZ2rWERqi0TnXEFOdWPDmrTtVGGU2tPEyDruahTnTzF2h4DY2EbExhMF-nlbUFBclpDVviAOOtsrnIrFWc2veHE3RDFmneUP1DBGiyO0JslPMOBIQIRP0N-kvLVvVI2ptuCu7ERoUAxJjqj6OvLkf_Kyz9vgU70vVRKc",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "209 West Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727154,
+               "lng" : -74.003118
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "317289d595440e1fd77861ed29611b66d4d82a26",
+         "name" : "Souen Soho",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQQE-2mc0g1E4XnloO-un7FQkpLPx4pvqvYzRrqlzL358gaRpfprNBtEsz-a_mmeEFLMQYvbiS0d7ij-NCuGEz7Nm7hvzVUtHZ3U6W7X60eQKlLZfus4tF7NDgd5-x3EWBpg1hBrEim5SxiFSoQcU3BIQmOErWPlXPdjtlEFTLQvHjhoUHsSRs_IE3envHRqYHpZm7K44l4o",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJq5QWn41ZwokRI5vVE9Mx5aw",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRtAAAAbNI6Kg7dNZLKe36pJvhtyur9uN5N5mEPAEW6-C8Wjf0gWUR6-4wF6Wfmu2Fr_Ps0aZMdHp4UkaVa7RmGQ3dFGMiFcSDoSoX61I6YTuiJlQpHN0zBkZ8Ozln2diqIAljsJCPO4FKeHFX66Bayb8yIwhIQFZfgP5HWkGiIQlwpcKtAJRoUIM5fvos99q7NnjIW6XMkJySxfbE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "210 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729205,
+               "lng" : -74.00202400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "030467574c9c9fc6e5d83542f29af539f77b514d",
+         "name" : "Little Red School House & Elisabeth Irwin High School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 247,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA7wxap37eVR5U6M_atgicb6tvSYjyAKw_qEy6M2ANd7nWeitHZtOw2LdSC0UHUuw-YR6yMiXEoNZqq37r4V_dAIpRK6kf7tAJQub7cdfCFROzLQoHWDXlTW8l3-VSi1pHpyPcrb9dnJqTpE0CLAXPHBIQLwvT3_fsjirEUd42LeHabxoUUKN9qDs_IyV3IEnS2N2ZpDGHyt0",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ49ksQJJZwokRm_PXXCNgU40",
+         "reference" : "CqQBmQAAAOp6n-F8Olg9qD0JQf9RdYKjAOHzr4RpO03fKGVYX65BKaxv7mbVCa8FS0gdVBZsSUHCETaeFIHPmlzDY2ocqHi5xGcV2KnRoHWaEV7MjVwdaex6nSlse7G7I4KfhCxt7F-Vhkceh2EJIMV0CDKtV6K58mqK5yMVHCtZ2PY2kZbkC97IDIM_TeTJMPNPCltvWwmYQt5e7_3LUZKoGeUb_30SELfMKCK5cOmxl4sp6pho3sMaFHJvG2qG7EKgOGmZ9Pv8GhgvvY_U",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "272 6th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728799,
+               "lng" : -74.00569299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f8a05c33b614507b47b917168cf7a66475d82623",
+         "name" : "National Audubon Society",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW7tRoZJZwokRrLHHjbvQhHQ",
+         "reference" : "CoQBegAAACTigamSeB6hJip9jpw2qVloNoLq503sHk_io8C4tIh_7UBx-31BW2AZ982lv5xb_2sNYm-0qFAmixqXPvT8OutFospMlqpu2H4-jAN121_zAVlNQNKn8bIaPOU1dWuZIv0K9rQX-uKBelQIfo-_SYWWxllJ8ITtVtI5_1haLJA8EhBSXVmrOEX6yOkKeeCX8aqDGhQQloGHc5GZMdN8wjfaJgWrQ-XbRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "225 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729116,
+               "lng" : -74.006162
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8b5a6eacd4d42664f5702fdd2d391c091b522bb7",
+         "name" : "City-As-School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 240,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKLnNeSPYFIz7padukpKbXXMza6r9f5AVwXiBkxxc6iwEEy6z2s5N_kwkKq5RYeSP2xPn-wvS4PBXAJqu1NRIhTIgnbl2dALCNT9yP0Esmg6f2l_Vf0axy7-d-pQtYkzyvotJ470Efcu8cfdQMvYDCxIQcKd6UXNwPIHz0PTWIMrIURoUa9jlB3LmiwPfVGenx7qC9lPlknQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJByUArJJZwokRkg5kLprPd9c",
+         "rating" : 4.4,
+         "reference" : "CoQBcQAAAKXXxTZo_VrWFdEONm0qRdMLYPzFa4MkDUPHgq6G-Qc7fPS-2OClOGiJ7A-mMSk9aQapoEOMHZlXd4rJ3Ob6RAcuOUfpWudfntARReDKxkeWaDUiBDh_UKrwLTcdQYXwk0dp-6i3Lv7i3BSDOUQpTWrEfqF-01kfh2fqmzsEtPmbEhC4iddmLb_hmC-Li0Y7s0JZGhSsw_jgEqU0sk11q86ubCJtmL0Vkw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "16 Clarkson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728433,
+               "lng" : -74.005094
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b47da1516d0ad5a28d8533c7398bf98d7410b5eb",
+         "name" : "SOB's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWwyOgitXgh7VVXjHws8_Z0ydlrm3_6ZX2kLGK3LRcxfVx-nCZ0Dpx7CNpSAlGpeW6NnW8FRi0sdRiqpEoARyollyMC1S46naWXtG2SkiK48VBwUusyGEaCcyqdxNSgHHKh37GmBRGZZYea6T2cNLFBIQRN0RhtV1M1xg4H96pqm9rxoUQvElLH2Jbffh-bCb8bvKQjFrciI",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJu7MZX41ZwokRpsbniK99K68",
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "CnRoAAAA-rHykAEJqKzZjEbg5tRjz3tuCGrIh6fA8HCt0MLrZFIYQuGu6yXz699P4ESdLJcGE-lAoXYlgkokV9GxA1_oWZh-kt5YuDgwL5Nfo5sr0RXUe_WSo-ogPRQtS3tWcVxstwdudNH_RwOKS7EHk7tfTRIQOsGfi629BQdoWgWs2IIXIRoUU3Ym7tjUVNLZYXaGQCnVHeUO6gg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "restaurant", "food", "establishment" ],
+         "vicinity" : "204 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726286,
+               "lng" : -74.006024
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7117f55412f4405aeb0fa5aae2557de72a0f20c7",
+         "name" : "City Winery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAM7Je_5gkfkWLBhBaln4GzPaCC416C7jlpJbcl3QAqQOMYOUy2NoJexXQfQjrhl1f7k_W__eO84OeMFBJRlXwiEj9lpbjidc5PomrZMB_GEfUBjGzPWuVcDscT4Bj2nsjOBC_NnF-bGKF_HYGqMbEdNj8_uM3ct1atWQF4KYrW_XEhAAX5UypNlIvvbAfijvVM7yGhRTFM-A3HNeWchXHhi0oK42a709pQ",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJiextKI1ZwokRKTNKS2BGVRs",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAAwU7z45Lm-iSGpNPgRTem-bV2LzgK6kRPJziGiaMeVJ6IG9t4nKjY_XMAOghIEQbaB2eWQmWWllSmnDPi7elv1B1yaBGlLZ7OCRGqg2HhzWT2SevAcfD2LXZyfsQZiE85GWSzj8LJKdtlZEguFZcoQhIQz702UeAZXqP_BneqB4-VohoUGInDHU8o6974rUBw0Y_9UILJnrg",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "establishment" ],
+         "vicinity" : "155 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727562,
+               "lng" : -74.005775
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d8413553f0c096bec4f56f6190b600aa4f9f33df",
+         "name" : "Courtyard New York Manhattan/SoHo",
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAA7GDmza5AFK7bZzTj1IIp4SFDoDgtYWm3yKn-XGkX8vGHq4UMpCkqRgyK2dU5fPNi2iRZfT8lmfSpdcCex97DvSLmsscJgCc_-XJ8NMKHqzSsRZ2aPPxERUCxDksXiCn6VujLVOu5BEt5JIe6YxmidBIQ_DS88q-ZlCpiQUB4ZuwJExoUtXag0_7tvlEDRrGL-mIyXnVMb-A",
+               "width" : 370
+            }
+         ],
+         "place_id" : "ChIJT0DdRo1ZwokRkufwSD-TdGM",
+         "rating" : 4.3,
+         "reference" : "CpQBgwAAAAX-tCfpa5tsgkjvIb5QweYlWpNwLNwLzdARPMuYlmywvz8YqVqHUHT81DJ90IxLGDwHOcpx_bspY1rajevz9ZCY0A8exChUEBjzJszASZx9aSiLXWby7LPfO__2NU0Q-9-WRF0Xd6TujDRbroUMHiibICiL_1Fei22QgvpdO_5iMwI_7tG5na4FJbRsh-Y4lxIQ2sCSzux7Mwy-pctOVPTKtRoUhRbQK4o7dcuEQaLf0dHwS2O2l9w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "181 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726504,
+               "lng" : -74.00219199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f91d4f3c33f0cb773066614d78be838f6ed5eeb9",
+         "name" : "The Dutch",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRjAAAApRiflC_qoPiYhvrvk1ywxjWQO2VA-UEMGJzUi9MDtUBU9fUofheZ8-Pa6BNwPKc-sS5EQNGWmHNHBQIKxftBLLph5DJvymcZ-mxh0exyf6ac19HBDgsJ_tfbTnTmKj5aSt2VGwNnTiH2xBvszddcqBIQx4cE1awQLNQ-FU7O3r627BoUvrHQAZZd17v93Dc98bIhalYytoA",
+               "width" : 486
+            }
+         ],
+         "place_id" : "ChIJ3RB9uI1ZwokRxCJXW-HpYZI",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRsAAAA3nD423oi8oju8blS4PyMnGom8Sv8nBpfvtItxhC0d0flmLPCiDQ0PjW08Tl3DYijxOnYMmbFli9lG1VOkoB4h8ZqdKOOUqNojkhlk24THEprMIFxKXqDuZY0RdRKRnfPLSihoBmr8uostm0PPJmtkhIQcP8IQSo4xQltuWaQz19j9RoU8zYyZJ24CoRBSjI3t_Pi7YrRuIk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "131 Sullivan Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727054,
+               "lng" : -74.00612599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "42ed37b9eaef09ab41bf3b322435be56ab8883a5",
+         "name" : "Four Points by Sheraton Manhattan SoHo Village",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 230,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBnAAAAGHgrC099G7YdzG3Jv_ZTUN7X8pfJfqEQF9oqv2TjgG4FgCC5bd74cLs4i3ZOrajyR_UAczkeucLomgyFWQsMQr4GruiYSFloFfWB-gqnQsvNeE6pjA3VgQrrMRL3BI3UCCkzBXoyNusguWlqQlQ39EEi0sf-vEXy2UW0dS0WTWO7E7ZjV_o5frx1ufk42wzMBZJW280ynICVP6vD9lzPvISENSoioZiEuj1MBx4H3W77-waFKckvmPkXP_Q9qQkjLPa2eGpGjpS",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJ0f8UMY1ZwokRb9wR5codn2g",
+         "rating" : 4,
+         "reference" : "CpQBkAAAAPxUQFmiC7z3fifSWU3bkcWPXAGxR0vvJp_kC8EPp_eYF31LXTRyMBwXqYDSBM5hkjXBGv5IJ_nQ9qYXDPw3bd-jcCr85XKJcYmjhf7rOZDcyeRckFcCR4S6xE8bXvg4Dsqbsh4ytM2HeVe5xE7_9J8pLWyb2oU0LoHqRED95Yz3JiyYq-vl_7C9Nn3BBVBuhBIQGovMu3Rty6GDeMWifZwwrRoUSZR5ZfFsf7-93y3G00y8RlbhY4w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "66 Charlton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726126,
+               "lng" : -74.00206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "d6585cd768f7db0dffc7337212dd259878ee9e83",
+         "name" : "Ward-Nasse Gallery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAy60YRQ4so118vD5MqbMQIcwOlnkLgnDW82xcP-H4LeE6K8IBML1TzHD5NC-wRtRBlerbbT3HC4FzdtblhrSmpg34qpODOvgql96uYL8lKiqq-09GjHnhxbDVOzsCG4sf650elpKF4seWOWxsiQmDfhIQ1L2cf6mVUum641sQLvJX-RoU0-hJDGQQ0LvbJKB4ZUGK9ttV6yk",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_SMSyI1ZwokRYMUmMBcDfp0",
+         "reference" : "CoQBdQAAAHKJYCKpki3rPz3UMv0m3bqB5u0l6L7WPacPzZlOlcUaFw-ci_lyixLWjjE4XgYRaqRAQPvWDSqv6RLktk8x6L0uT2aNB3yVO4t2uf9DpOs4byxj7xVhPoZhJUiH1MlNtxteQ-inwBQ4zo6hfcIFuHPZpxsOy8rpsX06ZzKVbpk8EhAtVXwkl6JbqEe-RNaEQ7nbGhQPqMn5PjmsDCyxQ2DlxPaa5aHuRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "178 Prince Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727045,
+               "lng" : -74.002847
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b83528298aae273a062861d32180fb2ee564372",
+         "name" : "Hundred Acres",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzEAOg0TchvF4w4fdJvZDm35s6K9RUhldH7yeM30TPy1AgF40bIuYDMtn_gyigXQE0WPgJkCHz4YwWkMhfjUaWry9LzDvBXn8kJkF9tEAk9eo8X9ZAUP5HGgX7IyCAdlDNOF9yd_YQc4rfaSyJKPXYBIQ44PTYedOBYC7lc7HNhAXjBoUMY0y8clMeSWq0bM0XTxRcMtrfxg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3dbcl41ZwokRouIrXtQ5erk",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAANAv7ajIf0RG8X1DD9NyrBtLLtOWymtBIvg7DW6OFcIfd5JORmtU3zCiZRv3-68yGJtX8IYuceYH1oVTOb7TNhssRMsjLIVPHduuL8fRT8-kabiRJdqOT_GdOy7D1GytO10V3pp2x5KVy7_mVTYK3-xIQ6vusz3DMalS7iU3T6_TNrBoU9ccHe7cy8PD0R2xrOBRiGZbCqM4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "38 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728695,
+               "lng" : -74.004745
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5fbb9e7ff48d16d98d5dff6d88bff8706b823197",
+         "name" : "Houston Hall",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAVVqa4aFluZc6hC6i8740B0hir5LnLDHhO0xSQM5nJKrcgZJqcEQu7VoYphxNztFDdHnpU48-ggGa5NVvym4xgtykFtaynXZyuRc3ZyuR6G_gdwOB3YaY1qLcVHr3rDi7Put7zI8vn2TIuNTK75QIThIQA0qt5v_WuY4q_hWnhWx8pxoU3GXI5XxouUkGfgl9mU2iFB1fBXY",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJkYlCnpJZwokRuQzFWh0dgRE",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRuAAAAJ34usRcKk0PpDAm_MONlXn3G_NrPUd9d8OMM_RE8NFSC4ZRwkGP5yYdMNSGLrw6xujdTlFLvqc_ztczirq6we1x1uQsVXOzNrXYagBek1ej8z0mRNLlDMpnMDBYOkMJIHgBSVFGUaDNjwKPlxTJuGxIQY34kqhLOY0hHxd3XHSQzJxoUJHCbUrPQ5avK2llyUfs0xHH2_fc",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "222 West Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726081,
+               "lng" : -74.002438
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6d838bd8fde108acc672eae8524f3cbb0a015cc4",
+         "name" : "Blue Ribbon Sushi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAX_A_ThPNxgIUklsuVAdVwuapfaanIctJOw05VkAno1Jk_99iERw4q7-Wx77yMzJJf0GWurHtZXJXnVxeq4QH01RFPAcqwXN-DKLxWj5hWxRDNoAyngVds_hW5Oj8GrQA75gruphqC-3wiPtBtVtTMBIQxEhqViRABbYSWLtI8INtfhoUICz94HyOYCKLF_ycawsCST-LC60",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJQSjQsI1ZwokRu19O824YdH4",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAABDTmv7CP5v6RiHZsrownp2xVelbROgjujOEC-4moXmEtiLoNCs7MvUpfTS8Q9CqejKB6MrAx-SH8yBTfSeCZByMuifrjQhbGX7ldnQelUhbHe69p-e3dJyqoz75qUELxlS7H-wH83WrsEHcuhAStR4mfitOqOOgfh_I520BFr3FEhBF7vworNl1wRsPMTFRwpLcGhRAbKhdK_G1ptL637QARnZwNpYrfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "119 Sullivan Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728189,
+               "lng" : -74.005044
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ce86b331e755328118a43fa905a6df391f99d524",
+         "name" : "Chipotle Mexican Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 113,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAvF0FemTU335a5L6lK11hTREJ_aHW5NR79V1LH9DBYBW-mrFhvALONGCwaBlVYbkg-srQ7lHjywDo9nktku3cTpTFXiNHy76K592I_l6GW-iXByEOu4DA2C5-BeXVlly_L6sK246fqi6x_yIOpa_cJRIQjPZCx779XG4H6_M_ixx94BoU1xzoijiT_Uu5lQxGq3v1v_RfbxI",
+               "width" : 113
+            }
+         ],
+         "place_id" : "ChIJq6JWQ41ZwokRAsIKyN8KrgU",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CoQBeAAAAGOCnhQl31fpRE6IW8pVofNU9GuYaH70wXzLrVMbi2nEG8QB7qGd9O5A-qWVJ_SG9rJa2i4NweY9zS9-izYGZ6-Or6hkzDDNu5ne76rW8BrC6A7Y_y2KUwPJUXZiz7EMqxczSjCM9CP7VPXGrT2flp3xk8uEilkRC_33SUi0YOusEhBywAEaDg8O7XXkcFhgQH0SGhSuaL_bgWBc8oaOmGC4nIiIS6uFiA",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "200 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726026,
+               "lng" : -74.004284
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "87bfd50d2531afeff0c128b190afcbcdb5bf6a94",
+         "name" : "Warby Parker",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1242,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlhDDja2wS-gzIcICviXGAqoVvqdzpSjtTptjbx3PPf69FJaMdAA2RLHO0rsGOR-53ADA97WSZcGL9pugGXHqAFYyoAcHkPJuqlSOtICEHwjhfic1_LIxgzdRg6XLh5PobVEDAwByyrWZVRHqEtFu3xIQNpfL3MBZ7WKotVB5VnAZ0BoUypnuJiIhbWpc1l5UOorXSuCtN7s",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ7yH6_IxZwokRDLylYik087E",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAkRdKbVzdgHOGh_pglQ3fq1mjhuPpIsq78ZLbIBlw-Z1EbnOIu57a5ahLLK2QzAZmfxEqFlW5miRS9mmx-dmKiYmcrJ2o-cTcwUxQBDj3qy4erN-LDcpQRGFH6z5I9LGydcr55tJ8GKjzeULHgplxzhIQOB3JBSUGY4rBaBnmNYgiThoUC_0FIDMMU_0SKKmkg0BEBfAwfdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "161 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725851,
+               "lng" : -74.004339
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "d88dc17f67d566fa1089f0224207477f48e8b274",
+         "name" : "Physique 57",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGix6en3bIjF0wirBsJvpXOEim4GK8bt-CwP1OqiKKP50XJ3iLCILt15bkCnhOwHjTk_SZdd4Hju7K6XOWns4xLk_vXEfSv-ZOlqmcvp9v-337-tNWcEbW5h-m1FHip23AhCEmqnqElTt47piYjOqaRIQhHYlMfzYUeWHTfyl1-fQABoUVzdO2hOwJCzp6M-oOlab2-RTYXI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJYzd3_YxZwokRP_JqqpyHKRs",
+         "reference" : "CnRtAAAAhtR5dbwTGMFfZvP7JURz-TJQCdW0xNIuP_iqcpBrROXhKdXglEv4Lso9SvT-zzZDhFOrG_qdWtBn-bnX54rEFeT_JOEJXNYGNJeLGOojo-JoCcCJ33DEIYRhRSLhL5yE9eTesjXSjQn39OCPWEIFAhIQXGt--wqAGofoEM7RtSyalBoUQb1kXgDaYh2PeFVVYmopF8oqWls",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "161 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728158,
+               "lng" : -74.005796
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "302e7097a41d9d5976a94b917d53b7e6b986bed5",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_19xUY1ZwokRgsrU4LYr_AM",
+         "rating" : 2.5,
+         "reference" : "CnRwAAAAKYyKKnFmPYMS53c_9PVHzQ8aIJaTlabxVarEB4Of3ZNx1_43YzsvB4ExjZ6NI3Wnze9No3H3_NR-RhPVfk5mKOOeBPu-XnjHhSvIa-3qo62W9S18h4PuOhIZXfs0ZZ7mdbB2HLtfRkjTvU01GPRiQBIQPvYw6bSa2VhQfs8DrUM9vBoUd5tlX3viLMrab5sZD62dFIg43Kg",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "201 Varick Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723301,
+               "lng" : -74.0029883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7283442,
+                  "lng" : -73.9958967
+               },
+               "southwest" : {
+                  "lat" : 40.7189454,
+                  "lng" : -74.0054619
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "adfeb648ea9edccec8a59567ee123bc7ffd59b56",
+         "name" : "SoHo",
+         "place_id" : "ChIJ8-JRXoxZwokRGPiQ9Ek0L84",
+         "reference" : "CpQBgwAAAAQ8NujeVBYViytbM3McdbDMF0Um2I5Pvgk1nkI9D8Ot2he4u5Ya9jHjrV-b65Rg4731KyXPWCIDON58XNLNqnAvPVfSkMqdxJaOtIGqrg86Emnao_UsI9o0VvhsSProi5QILn44JOWstcJW4L7iqVlw4N-fa5mH-RUkNlpA_YICa6m_RzzorfhA6HsloNIx5RIQLfeiabhNkxnhnVyVcRNZ3BoUkgZS2so051YlzL3xKXe3p_xeDf8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

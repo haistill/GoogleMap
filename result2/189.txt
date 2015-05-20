@@ -1,0 +1,540 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABw3AbSoZ3p8BFBvUvW7mPgvyw5WPZqnMsTeR8_knQ9sLDx-jAFghGlvQFkkwjr8WvEsXycobavi5hpAYLaP0tuBaVfXcgw-pBm7WhOcTkt-XtmRG8eodcQj8c_3B9vADGhXLRnep-S88yyO4Nusxxx0PWB8wb_yjmQnHm7VwheN8S9LUKJxD5u5B4iLUVNUNYrru6mfUmpBvI9ZO3VERcX-d0fqgGbKchmAav3_4RHRpFCoBlb13NhauUDOgGLVJejxdm5keiwhBPbYxIN7ckVw0OGZJFH62z2zw9gWsvD2rEcU3pKJG2td1Yo4nXNd5RIQ6UPPVLYdMgaMb6sTEZ4GXBoU3bnhQQlwsq0ng6rBWkmxSMrm4os",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAADWHWTV6EBUYbzWMs2cF-zxDdnu2q38JBXMUPb-8t9bhetClg2av8pMbIARhpNs4cbyC5P_p5nT1gzkwIu0TU1wdRwx1wIvyleu9HLyg-tZ-W155vU_of8WFNcwEuC2u_WHhkFsVUD57KE9vt_CYsjj2bJGNLrnlyLysvMzSs45oXbTbKiVcRzkZ6-KQ8mFKYxIQIyy7NkLQmFvHvdbECi654xoU0-qxwGnJk73qj1BADER4S4j_9bs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796211,
+               "lng" : -73.937556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1a4c3a4a5873a2b83c86d54b0935097af39d1ef",
+         "name" : "Compare Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbXbRogf2wokRs7ZDB7BdpCE",
+         "rating" : 2.8,
+         "reference" : "CnRuAAAAXwy3UYLmq2B21cqHdFZX6PMZtCGoEzjRgfDhSA-TJiyUvf_r6LGrmOVRQnr6iXbOzqC-bDvqePf3IRYALLM7UWPt9BE06g_XSqI39SaaGS800FbaVKMBvDL7_Q-N5e2aC82uSQ_n48k7kFnMd54zqRIQUBdaWEmDLmzfTFA3y2BEVhoUxKFJolf8cVzR2qMy6X6gvyP9Saw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "309 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79772,
+               "lng" : -73.939936
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d79a2250f063f1bc02c003bbe0ecae0c0b72bf8c",
+         "name" : "Wendy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADn9XYAtXCVucxGcwglysSeP4E0PeQMU4pWX7hUPvv6dghEQOaImUOdoPmTa9wvlXB6JgxM45suilHLb2f4JlfJ466oUoU9KAor78CMhTP-3D4dtZUAOjTjYweamwjM46WmEvrfai6fTaUu3Mf_TS0RIQQzpfXDFgNxYrL6pMHLxqCRoUHpuzXH3Ic6Jh3xiwe81T1ef0v2I",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJx_YyOwb2wokRo2sijoA9fLI",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CnRpAAAASRiVqCulRwWiMRd20h_q2cww5-k84iEz4UmAuVK3VdJXYu6-r7VCdaO9MRlVzJ8SrMDBRundFw3ie-8h2HMerOv67wmU9Co7hFvW2Dz5GMfbgkdYbSwH4g9kLik7JMUcKqJAwmmF2qjpJXO7gRDrlhIQOHN2J8WYYUiB5tHO9KB2gBoUQWRYwnyqIq3zurgKT6TsKuyH2O8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2121-2123 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796673,
+               "lng" : -73.937748
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d448263d6e2a19250a26403e4fde5b344f737a84",
+         "name" : "Eagle Home Center Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqwDSjPMMU1KSpB3Aj1tXEPZThCfcU2sONidXF8-WWWTVA_q9JDWoR0-B_Tb1yAyhddDBVWQut3x5pWXpYnJ157DSj7BmlAAbOb4clCYoVjUjQTG-7JOvZeQjgroxUL7bprU62UBucIj_S9QGHw0XIhIQhwweYklm03fKjMkT6uZPtxoU_5umtTo2OxKL5ZZqSv1NPDVDYC8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJH5n9vgf2wokRx4NsIImXbcg",
+         "reference" : "CoQBdwAAAC4RSH6wGCTyHuLbfAZgbD8j1uQDeyCEMDO73ZvrCTCoQCsD3YexRBx1B5vHH8CQKNo4O3NC5x7lz-0iyX9fkuon1mBEu3uokTAQdzXS4go5ys9hGYGeARO9Tv0FbjJKyRCcdQEnUBWAWgn164q2HDh4tnIh7N2ttnOoOk48ga4rEhDLBvYbTUyPpQy9DiQEWRarGhRf1eKmTq9e3m_iXMHoKLKIs1DT4A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "general_contractor",
+            "home_goods_store",
+            "hardware_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2254 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797317,
+               "lng" : -73.937275
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a57a0fd09999783de0b9d148965cbdbe6dae4fe5",
+         "name" : "Mi Abuelita",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcW6_KhRU_gK9IRv2WFRTKJkF7YQecSS0WMVk6q7aP9A9dansoP1LIMlXsU1-M6mpM1HifNH5eWcFomxDKVlx8CTgPoUj3jgjeLNx3j1yDFb8m2_pkb7bFy5xj6tZKa6MF9qYVntzC_dn9eE3_43cgRIQAy2_2fd63zXXBsAu6_elEBoUdgVUYrnsE9NFmUtl7eVwx7jjomY",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ0TJ46Af2wokRbEEVkM79144",
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "CnRtAAAAV4CeaZrD2vGpTLVtcjtvpe80v9h6Hq8-UuZiOHHB7U0W4LLjCMU_XKHQqWarF9YsM1p1dMqXJZvE9cSsfDTXartaJ153lDuUMUjeQqGG8hIudD5VeubpgxO584NhcV3CWR-IT-u6ulzc7B3YSYHQgBIQ2m15spZVhFsTDLzuQkaOdhoUYVtXaipXqhSQb3Qldstj17C7PD8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2270 2nd Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797906,
+               "lng" : -73.93917999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c0bd3379076813507a8f0401bfc48ab957fd2ab",
+         "name" : "El Tapatio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-pwvObljo_JrOJN5kqPFDXRb5OR4C2mCXQFVLhzmxUnbrZYoD4nJdcwBSThWAkyaYtLC-O_NSQJQo7AavJxGXlBJuPAmWpMvUxEFundFZAes68XHKLW27jp-DxqFVjmi090XHv_CRkAQ0SkpB8o8AxIQqbOLG23DpdaPwJsxOBAMqBoU8Pq025wi69_LvGjuY5NYpjJ6_UQ",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJb9V9Lgb2wokRhGyhWdbs9Fk",
+         "price_level" : 2,
+         "reference" : "CnRrAAAAB9oIyt2pbGEKri8nMHxeNI2PZX3316Knbjl1m-Jr8JRLKOG__q377wWlDywSWAfVXcUASx3xIjCAe1SfqFKNPTqeBeneZ3Vmy3EM2-DWB27tBmJDU9JYOFddT7DZNnsf8K6RjH0sTAAwca6xKQxuVxIQCq3GWRTsw2Y_KkkYlKXH0xoUULVyT36F2UDfNGxQPVMcxwEwi04",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "209 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795831,
+               "lng" : -73.936699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15e9ef4802b0fba81adb742f9fabd925f5088e90",
+         "name" : "Little Sisters of the Assumption Family Health Service",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvXqihAf2wokRmRImf1yNSHI",
+         "reference" : "CqQBmAAAAACbMGahB8Q7FAz5P5idkZnIvwghdTiVnV6R_f2GY3ZKUt9JaqcUuIWqy9waZ4_-VyuR8n-LhYtwwclh_MTSwTESiP00OjHJHSb1H6WvI3dipBCH6dK5FEuAqEeKDIYZxsMf4_0QqKnndNz_C1-Hho-_9eOWazhx4XKTnsAVrZNiIh2G9tZRctPObqNSN8xzDAKzraFfkqhIcwaIbmR5GSQSECZqtp48M07wR7WeTZBwpa8aFG2arJX5TIxyrFqGxGe8PocCCqxh",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "333 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798087,
+               "lng" : -73.938687
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d81bb857d446e37909f0313f642606a257fc7a55",
+         "name" : "Budget Truck Rental - New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 111,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAj-_sut-UO7JgCWKyIaZtDUdvhLg_audXn4v8Z4sqzWH9VQ7HaurBBnEXGOyogSCfZ4ESzZzkcDHSnwsdYpWDVCLbFrhj7h0BWUGWl5-e-JswgZnxaRde6fF7f6qPCjiw-YSg2utm1C2JwKFVsEJ3MBIQE9u6CccjexDQXvIDa-iQ8hoUXffTIWy8fZewHh1rrL8sVFMM3wE",
+               "width" : 167
+            }
+         ],
+         "place_id" : "ChIJb2KleAj2wokRn1-47Fzgm0s",
+         "reference" : "CoQBfwAAALKyvd_YlhEvNXUnQCiLpxem8Ug4qbUbw9FblxD9bbepq63Akh6clM9XozNN3TXxf3xpqRpeP0ZJAROkysm0_1_hCbkcgmA5ejWqE7ITs9VM3Wk2U4Dx0sucrGl-wGNSuxhNl0Ir_wH-J3qKDwNhqY5NuAL8PJX8eZxVwa3BoQnNEhBouqphWf9w6WQuUn-GPGnQGhRa-cC0B2Eyy6N0szkXbF029W-3Dw",
+         "scope" : "GOOGLE",
+         "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+         "vicinity" : "220 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797402,
+               "lng" : -73.938171
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f677232f9e30891db1ffb2043af7f7bfca666e9",
+         "name" : "MEJ Personal Business Services Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQ1AS4ygHoP3M60-gCJEQcwzpILC2kpISqmefdtbZDPCZJ39NC1hb1VFcL85P7kDEaIsYY-OGtGWtFhThnw683_ozog6TdfLBmgJ1WT9V0uqinNWGU0OPJTgMGU-44iUrHRnfGyw9tXOZHustqh72yhIQ68dyc0b-VC2dnO2TkpPCpBoUu0I5iVxz_d0YKxYJrxzufmG-tUc",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJm5J1zwf2wokRfJcAYCyrp4A",
+         "reference" : "CpQBhAAAAAfmyMV8ZTW0fRxoMdnx7ksC6u0LcYPKNnl0DAn-XReY-TD9nqy3cPhOL_gJX2O38fRLGKkcosVD5UJW8xZ-p2xtZLNxKliFAvAIBnFZC_SwyZ1oOs2s7veGGl6n72ohZ8vLH-jXHf0dQoS1-kte5SIlJy0AQX4-WTASFG1s2Vg4H6Eyff5GfAX5bFqYPDWWTBIQ3zk3KygT2rxEYTjw0_Lx8BoU9kUTIIaUzfhgzxf86S4wxz7hSFo",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "establishment" ],
+         "vicinity" : "245 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797715,
+               "lng" : -73.94042399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ff22f83abf12a9efc0cb8f42b36fb0027bba4b72",
+         "name" : "Duane Reade Store New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWUecFwb2wokR_va-lQzODF0",
+         "price_level" : 2,
+         "reference" : "CoQBewAAAOT_qUuY4XBqU-SNOcX9WMKIqjl7qG4jRi0IebvXogrl_nKvBhCAhxQH-EnDsoEIQnqbTz0j0fc3AjEArhvdfBKg54UJauGBnd97JhwAASvBycCP5-Usg5R6lCqRqF9d9SkWMZhGnGJL6CDBa__ltGNcHMK4crRCV6SDxPHvWZvHEhD47i4Yu_E0zJhvplQOa1sgGhTiPce1bBep7R7q4RWirEqQG-vfNA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2108 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7965,
+               "lng" : -73.936082
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c40f8799c71d0978d09bbde0aef1eec8422b040",
+         "name" : "George H Weldon Funeral Home",
+         "place_id" : "ChIJfcoeiwf2wokRH6J4E0jp7AQ",
+         "reference" : "CoQBfQAAAHnNvlr80lrSrM0fRnjVm5uZ6mjjOEk9IxOc3mjlhaGkTY_OrV-_fkIjwZpBY3YXAB_f-3BSZhSHhojtMNDxA9rQlErPqEWCSRYJUk10rX2RMJtL2_FxgVh7QlgjpFwYVY6Ww9C_8lyDHTlqge2SyuJx9yLPFgDJKu4kjA841EMEEhDe7c49T2UfG8hr_cHRTH_cGhRaAfgYxi8YQgyndIHEztdD8Lk4qg",
+         "scope" : "GOOGLE",
+         "types" : [ "funeral_home", "establishment" ],
+         "vicinity" : "343 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797138,
+               "lng" : -73.936376
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4b336ec2956254ff6a6bdad866496454cc7ff489",
+         "name" : "Harlem Florist Loft",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 331,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARvDx2Zc5hm1Mwwi2XfFkV2QCTYaceglHA3Z88lVQVIyYSOHUw-xSWZGf-ljNKn2c5aA7LHEl-tOAuDoXxC76wtAVgzJTxFxw92DTo-nBDNAa0_Hk1Hisd-JKNC7QnssVhTV5cg2B0zkQbxW2B6JSlhIQXRhjIVn16yCdl7SoNeal7BoU_oKucXs1fMfQXaIATHDiRlx-kEs",
+               "width" : 350
+            }
+         ],
+         "place_id" : "ChIJa70YVKJYwokRoh8kttB8V1k",
+         "reference" : "CoQBdAAAADEGaaUSDExBM8DPNe2pluOhLXEE3_M-4pDdTZ9ssJLcFjVAsia6QS7T6qAIheECJdbZm96WcUThYQnELNuffsnUcPxNrhakx5inYWWFQq8K_aPXozTMXe4GITqnKQXWKyKyJ-zjn8XLsReWFzo52BqZaKxUxJsyUZ6V3I-C34XKEhCfwqeKY8Dd7k3cEZpPxvgmGhTRBMgzDHGGJofkb0oOqk7D1_e5Xw",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "establishment" ],
+         "vicinity" : "442 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797977,
+               "lng" : -73.939629
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c48d733607b801ecc0d97ec02595a96d33b9c844",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8Jx7YhOqY1KEzQtd-LS40wvpdr3OIZ-53Uqwv4y9sVxLDtuGHBd5qb5LLJIJCCocDk4pHNgmBrpBmq_qXLjh2pwCEgJHuo9dhEQ2_sdMO2xIRv9JT5LHnilJIMMjcFFVqwXTXCiapzzP7frHQ8IhoBIQ_KHbrbQkrGt2AQkD-MeArRoUn9B9JGgNjJFMwANJG8jPQDHpA9g",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ12_gJQb2wokRLVw2EvNCsus",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAkjEM5e7gqhQxQPBwyebkPwVRd7PUtxLa2OF96hFDGNIE_A37mcGdYl4cbN7h1W8trnem4TMQyHCXlZ26cjnCUBoOh7LBC-qse7SRE9j8bPqa20n2z_ABXcYkez21XSSr3YJYJ5AHRanty14JtUcuCxIQvtpP6-jDlMobuD1R9XJ3ExoUmY2YhmyIbr4f091Q36WBKS6R-Tk",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "201 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795115,
+               "lng" : -73.94064
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "00441aa1a8cc19b76937f47d0543db9a852bab4a",
+         "name" : "Our Lady Queen of Angels School",
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAsHF7JavfVn4JYEK7jpfgUtT4o8GRbbBOkVQmkYVSdWoeuh1MdHjR3j-3dRyJgJY5Njr77_bg4vX-0i4KWASz4OupunpemUa61aqgMReq5HVJ2NfjaOMI1E5XWQ9Pgq2VhCa1i1WyV_bziO8_6_S3khIQxK8-phenfbCgAyvKlvSRshoUL09y6XBi-e-FrUrlyW2n4585VoE",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJTTCxlAb2wokRrD73wv_-Usg",
+         "reference" : "CpQBgQAAAA2p3f_yQeG4Bm8eav_K-2_U4jC6TaEPgOVjcbriK35KmUR54NNWLC97ee6YNTKXKkCyto2267ierM_x7zW6ZdQNcTAHckpbzr5xo0S5EsPrbj1j-fXpoAqABH2o7RLxJIPK5EtMwv7mbnr8wonjJpmp3tIJXbwuPxr33uSkNCQwSUetmoiWutnX7EaNdZsY0hIQPtec4TKi6E7tf6F11g3P9BoU-g46aMNEuzjfoUuy9HVQgf8IDJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "229 East 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796772,
+               "lng" : -73.93857300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "328010581ca5c9053becfb2c6f3029b2bdbbaeef",
+         "name" : "Vedovato Brothers Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJU-j8yAf2wokRmZL9EYU3M8A",
+         "reference" : "CoQBdwAAADkBDiCXWgMkxEK0zu8ksenq2FtRr9YgzE_z3zMmym4BG-EP1e1BWkD8_Z_pJA7oV2DKo5stvNGfpngH4FHG8GSeqZb_JD1HiOXNu5odHvl_K9ZMMlOOx1dyy4KuMuhBmVUeBt9flH5u7GyxBgG8t25ity-WnL7RUwUGh73lTA9mEhDE4JbZ8dJdjWC13aZpn1KWGhSmzqd3GNoWb-cyrlAZSQuNhCHQdA",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "245 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796956,
+               "lng" : -73.93810499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "582ac03b48c2dfee059c33d503d4d23bff3b275b",
+         "name" : "El Nuevo Caridad Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqjAyL-m3beTQHws6jFaE6COgvYqwEMi_Auhvf2yLfix3yVJ2Llt4Y_bcfuHBpbVqtG4haecUz7R2IpUM-ongLsc-FY1X220mjpeT8YD2HOXEtUIFTpq1D8juPiO3OyrCQtkZmj5vHIp4j0GqYq0tMBIQ2YcmPu5YDR81LyHAzTauORoU7G_KEd3cHEuLc0jgwDDLXYXWU3w",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJx2a7xwf2wokRUP1l79z4rnQ",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CoQBfAAAAKFXxVXp618A7ZQZL3_e-6XgHyP2y8io2jk2ZAia24O89zSa-5C9_JmNoNdde5jIG_9ucI_q9-Wm0NWnXP_QxdZr1MJkTpAzQGOGChhIj8yY-yTGEDCZMqrru9kQsrDNWnAaZrb_nfcRFPuPaP9oU92dp3LDoKKMYvEPl_Np1jZ3EhCtAYiiKtMRgwy5z4UmgGZIGhRwm0GcP60BVhHV2T15ib6Eq1nwQA",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2257 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797622,
+               "lng" : -73.93876299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0fb4d5569f67ccf0352216689496c763d790696c",
+         "name" : "Mojitos Bar & Grill",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAeWFIG7NcANGsXEQ3IDjsKL_Qk6mFfn03ySwoHQpZTw2GvQZJxIxOaof55ljB2NO_-BokrtuolvP30R-9pDncyscqoioI5lmA3dvARiJp8SFz5MpS85MS6W68MUPKanK5HVqO6LMX7Gc--EXF-wosaxIQuNHg0wJwYwOPsmjO_x2qlBoUvDhB9hH2hibIN71q3JuAGu2FaGY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgRdT0gf2wokREDAJBiiXXs0",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAGCuIeeuBQkFgK9-7eQhPiq5EYHlI-qDGmt7eefrYKcObFloJrCMwxRWfiF-mFpOyqQVzfBerpiQ-mRwobwVFxKNRLt8NBMtOFwXSUBINlt75MyiNPuuswBhkIUPOKFrZMLlrNpoO7s5-Y3I276Ybt5gjYl9SGFBSHF8H5XRJyYwEhDJEGR6N7vqSYRniG9Mddu2GhRsSil1a9fJGAA2p3RrihOyxKP4gA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "227 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797383,
+               "lng" : -73.94015400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0589fe53d80e211b3a5d3e7e458f3cf185551d1e",
+         "name" : "Las Delicias Mexicanas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAusxCUsk6ifRsSepsazfxcdxLvIQSeV5hY5lpwjchjqPoQ0FHSLNmLT9JvCsjwSFn5QsaorgfTdWUmgs9jwj1e1_pXNTD0ltq8h138NjTG_ttB5Uj7tUZSODiftCKdTLULcZUAlX-6d3x5BnLh9PAfBIQ0HNDCwcHh06CdbVOxy2duhoUNKCG3UBpqVlcUAVoILAegRnnAGo",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ085jPgb2wokRws4N0D1KUo8",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBeAAAANDpqzL5XhBGxFozu6vk23I5FRwlK98TVF5wyJb4JAH0DzmMa3ekyr2bpGoVJkeZv2XGiHwcIMB63X0Mj5CuCPfT548oOza0Ut7jPi0jbBjnvbOc-DHkFia7wIz3djaWT5R8ll4hqqzf1vTCO8lMSGGVsZ5sxCKMRDoCftsqTIheEhCSpdu8f_CILJ8eKsiMnvGjGhT2UD3eo7I9RvqqoG5MkX47SsM8TA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2109 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.797984,
+               "lng" : -73.940541
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b5809c6a39deba75385a5de6ed365cd098088e6",
+         "name" : "Capri",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAV8DSWcRe31TgB5LHhABMuoFJ1g0iYQud5wX60FOLsiUnShFHJlxRd8L5LKW5zomnDFhRolRhN71kpd7fspsljPJ9hcbsSEQuKeSknZa_18hP3ke8gyo2G2YPiZ68-lyIF-9ddUfcPPc9fHPLYxvm3hIQzfr_KHJ-gKzGVdf1jRFCJxoUigsyQZ7z6ewIVSKgOoyZpqf7NTU",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJ5Q9gGAb2wokR4ImEyD_EVYY",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRnAAAAoZbPXATTrtxK3Dy42ascj7EFAzj4UTK-o-eWwGfwNgk3K2GjzKGWVzU1c2fRAMBXUg_0Jq3rvqSneCeqOb-VfJWKZNUAwe4fPz2SUQXX480iSZjnFFcZA-U8uwuxBDUJF7ozQChJ8V-5raDMwYtmyhIQWiVuo8NkrzIveFpib0jDuBoUkwZAV4i4xT-MN2DNn0dLZSP4bE4",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "186 Luis Munoz Marin Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAC8sgp6Iob-Am4LFBLoV86lPoOUDtrci1DTAKXVsrdHEx5LgG3RiZevFv3DS_y-9aLEhISWLto46WJ9SQkOlPBvyxuRnaZX91pO2sig_l0WUmLNMI-oZSKhaOQXY1Q4B4hy5gDPir2ajbVeCn4sAiVUmyzXpOh4kicVjIdls7qEpzxkRqSSSJvYPHQtGgkfD8BIQb7dHYNG8eF4FfP5IKW6sVRoUPfrgkCD0cGzm8zEV7gvpgwVX9os",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

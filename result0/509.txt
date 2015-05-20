@@ -1,0 +1,228 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBjAAAAKgEPMyRmGqObPmfFKDGnBF7rEhBWPeKLfeuxnDOnL-xZr2uKtrQzllmtIULWZ7WZR1vkfSgvv0vqaRQV8MKA1720MUAFfI8BY6b8tiS4-Fe3PzrQrblvPaMzJ0MLakDHfs847EXGeOny0uk6Msuk-fluwAoM-sIZjHPVErDu9omqRoKVQZlqsvw-4zTLtmYVhIQAlCRolZdKCVqGQNc4eijERoUHRsfDuMJI51s_JA7taizjAXO4OY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722904,
+               "lng" : -73.97690900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "828ce39a6ec9bc00ac6dd993ef5b551ecd1010f1",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAABOaAoFByS8l7qBUQkFVfZTzu4fAFiQG19EpR5hgLdTcOum24DbKLouqJwzcCiNYV-IMI_OmzfA1wkksejrRyfauqIjs6-n23jduuCnnLTlNJX2dr1Nn98yFTXOl6Q_Ubmij8sqcUBl5NSisOcQjpfhIQIpH6iVVkSfdeugN7gizQZBoUUYsN9Ly4tQGbKC_v3ME41aYRYpU",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJFVQhKHRZwokR2Sx4Tt4J5Vs",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAAAwAap0nU91zjEsTMS-FC8l56a4H-Rp_WLIgKkC2kv6kx51RLG7DIqXMIkDAk11Ssc-nyJp2eYKVxj84R0xTlDLgSS2atFcDT8vaozs5rL1MuSqhbbHtBSeYwyHcjlZPwTwnF-wX6dI4lNUYpAt8ht9wQ6orj3N1lsedPVckOFv5EhA3lb8JUChR7YuvtjODLL5hGhT5hm4MXQ8cbVktemXelgk3UjLMNg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "89 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721697,
+               "lng" : -73.97343600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "34045e30d4b935713c4cfdc30b33e1acf1851630",
+         "name" : "New York East River Park Track",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdAAAAHUa2DGiqjy9NjiS_k9qpqaUWbt9hSwnFLX1iQYwcY8U-bBtZU65vkmZNwPWijff2u9XWln0b4gl4iWuSX5bCOAPIYenA_XDCqDERznRS0WTNXxnNRbnCZYVkeinu1kxgeFzWFaU3NAaPDELy5v9xs_A7W7Ozzb17zDJN9v8BTxYEhD9uALCbB47ztf0iTZufqbLGhRjaz73zsH88Ls3sjvyom5gYwAm6Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ3Z6yJiJawokR_NZVoJM3X7U",
+         "rating" : 4,
+         "reference" : "CpQBgQAAAINdoOlHa_glRm_jaCWhZzS13i-EM8BRaVt_KL90LRp8KG4Q-hyHwkynF4ACEpxxJ93ZSOqki_K_H_T7pOCajgevEuqoRKM4uVkv08kZhw9lRRMRxuPnaxiLVO0lQfGVWs-V3BRxllxnKmTbrbMBjaFYwUJNJKE4ei75olSrQYZUYwTVgA3xL3B7R_1Jo-ZijBIQ7-il1P3B1XnMEZVBheLFIhoUTE_Cr-8_7Uu-_PSukPfTVHcjwrg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "East 6th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720686,
+               "lng" : -73.97642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43674cef4189f5258a828f0eb1e159033a21fcee",
+         "name" : "New York City Housing Authority's Lillian Wald",
+         "place_id" : "ChIJm1YvfHlZwokR8_OhIlOOBYc",
+         "reference" : "CqQBkgAAADYcsgdImlUJzO6huZ_paV-gP9jw4xKwm_ONQ0GIWrc44KwPdI8c_qn0gbdxagilrJ-IQVdJBZXM4fa-o9ivoOqOncEDX_yRVlOXXxyFcBGun3YiiE-OF01rXOP3BTTYw4gqafMcF_RgpGiN_2b2m__2k1Q6Iicrbb2OrNh_UUTuaxntg8Vb3wQPeASEceRxl0273IdC6Ak1RNRFjRx41mgSEDQX5JHCVpvHBlrztHQ3s9YaFMZiGVKq9AZaZUiMyzD--Xolacu6",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "54 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723958,
+               "lng" : -73.976021
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6b40745d8a29337e63e17fcccf80abbb773c67ed",
+         "name" : "Stanley Cohen Law Office: Cohen Stanley",
+         "place_id" : "ChIJx1XzDnpZwokRywjmIkGpy-g",
+         "reference" : "CpQBigAAAB9vdvr0wqeaDG-Eb_jICzwDb8AQJ91GsAz0PEO8wKwPz_TLRvSVYCwAnBc-a-ychHQ552CSZ27PgcxCmqeK8NWWQwcxs-7fpvd9iaSi3O2Jxk9ocGE614ihWHl4-tvorzSXGmwX5nMvFvRqo_KJQla8op6B1pZl8gTDypZktOk6R9mKQecY8nhQXdUA2O88IhIQhsy01J9YgJWrHFh8opWmgxoU7ragoF9R9__A-lz4GQ4Kg-uhhDw",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "119 Avenue D #300, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723379,
+               "lng" : -73.97639100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b264df3939bf1db47026c1c3230d2c6828a3b66e",
+         "name" : "Lower Eastside Girls Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2328,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA44cyTZEr7QfMtKe_Eua8-rO5iteHBiJNJtBY0EC7aaB0p7ZnFtNuqpiCz8WUYs5fCj-9kX7_bXfOdoJX8_edR71I0blb4N7AEOt6HJtRKw-3B8ke1a7hIEXr3ngLgASRDY_wAsIexDTAmHoLlfB8ABIQdvaTQQxImc4YpyhzLJzPKhoU7UAIuBU3szCSA2c0TTOJ44zL40A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJLYyQPIFZwokR-dQVPVNQ2Ro",
+         "reference" : "CoQBewAAAHnY5mWx7Q8WSmrS3YVxp8N8mIWG0DI0C8YpQagnT0VQ7soj9t7DlBYMtoquX3K51S0QztbaeDP7k1ZugeL6d9Tfo5U66lvyYynk08ne95T1EoyWZZZ9u1EVgY-RLP0g3MwJnCOMy7Or4yTQgn6zNR15cWWiNz8o027xU5I9xeqLEhASLLmxqLn0UB0JXWbDczAKGhT1dsLjk0DvCiGCjMokinXivf1W5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "402 East 8th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723875,
+               "lng" : -73.976051
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0238c6e622bf47855a82bf98a58889192ae82dd4",
+         "name" : "Crown Fried Chicken",
+         "place_id" : "ChIJWwALDnpZwokRKIuoMd9W55M",
+         "price_level" : 1,
+         "reference" : "CoQBdgAAAPkbZch4rwlj22az53yybAupoJ5E4YJwbaQd8wAxQN4SiD4yTPvdjsClis4xsyhIOhBs1Wj6vVPFgKG5oOpGOFjFTDy4YRULLW5YdXgZk_U0UEDuTKs3XH-Mc4Zv8lyhsiwyjtEh_liIIGMoq2BCdIyG9VkHsgkCdbhMAra2K3LZEhDhPGO6dPkDws29s-xSLBCxGhQAtLV96orz1N1eRkXOzGFUJgVBQA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "117 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723175,
+               "lng" : -73.975787
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4c8ac2225d622df097929d185352542ed3865c96",
+         "name" : "CPC Jacbos Riis Child Care",
+         "place_id" : "ChIJkW4lI3pZwokRxnVxflFwglI",
+         "reference" : "CoQBfAAAAAZ4KMFg1K-u_C-V6v4wkqnKwnHiUizeSflKAB9198Li1Pc49FndmyEJYXpjkvoY69JuSlYxdqIl3cyKoxeTNpCooRIOl5SjltFUSWQIeu9K8RwsWTb76_EAZdG3Pt_Et8JRs86LE4ea93mR6zspAyPg3tZZqa8CRCZ4jqonrAFiEhCQbkVa3F93vndbjIIRGxRhGhTvWwHaiu4D5XI0uoVJBms0D6jDNA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "108 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.722632,
+               "lng" : -73.97698200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a4d7d773a75575292a5afd58b3efb4983fbf97de",
+         "name" : "Rosa Deli & Grocery",
+         "place_id" : "ChIJ3SFcKHpZwokRtB4WtzRRArY",
+         "reference" : "CoQBdgAAAGChZk_MsIKsFBk4MVgoayPzGSa0zGQ8yuiaRxpTjN6e8mEwZ7ciT4sLVc1cHoerOBJC65en8xWOsPJgEZJyht21qSRKANPXRrnh8t7StI_76T_8eWPqQsUhAr7S4-G0XN7h79v6bQcUl-ctomV4CksLlBnaLx31LNyog6-4aNxKEhC6QhKs4NQ5jedKLV6kSBxSGhQdyOuiSTUxYKPWRvp5DvJpRkebXg",
+         "scope" : "GOOGLE",
+         "types" : [ "convenience_store", "food", "store", "establishment" ],
+         "vicinity" : "77 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAA_ZruRVU8gyRCneRWmO8iYMaYxq2ZZZO_vtPQPovloSOaxRrIRSkGwAEQHi-OOQtVja_cMvN7vr-iEhRXMf2qwm7dWXIbVUGuj7b3jd4LJPK053LEXJRjdVfcdh5MNFBPbruYBFDT7W38QpuIEV8t8GXqsi4xqqjciXTUmrCp2KBtOPLDyePp6spRUUEPBPxRIQ-CnT3ATd4Hdk6z1-vPaUARoUpRztkJfFP6iUaprGpJE6mc9bNKw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

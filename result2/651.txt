@@ -1,0 +1,543 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMwxsxuQfmi8MQ80O5SQpwnZCzB31nqITEGwuSGWdsisnqE8iBnKQq9MEb36Y7Il09FKFzj-XKc-cTBK8RHyCoQq7eiNtz-EKETq40uYxUXKAv1LwFmzqPAknUAKS5Wcm3PvOZNMZ-raiU7_6g5U7Myd5jbqOU8dZpgSS_93JrObQ0LfE7SHBaScIC8ceh64RATzPNQq2j0o6sITJqLj5bXGi2y_7SxN9rZ-AKFI3ABn0kcCCfwUlEYWFSjZ0-1AKNiLC-5X46yFMhH6cjYHnY4YnMFfwqYAQHxCN_UigXKmFNcXkPPzP__jdH2tGylHfxIQ41JcsMHTQbtoxXbzxwKhbRoUofkKs5UOkC-n3SQkxpN-YZtiIuI",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8157189,
+               "lng" : -73.92220429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8163893,
+                  "lng" : -73.92122839999999
+               },
+               "southwest" : {
+                  "lat" : 40.81522210000001,
+                  "lng" : -73.9237351
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a74577476b9c1f3f06f7bfd049ead2c8be3050a4",
+         "name" : "Patterson Playground",
+         "place_id" : "ChIJh-rEYcX1wokRunCeA3Z0B38",
+         "reference" : "CoQBfwAAADfW3Hgtt3OrFgSb2aTYoroDcFJGnf0rm-1yuT55AKMxukfAJwOGdjwiYW7RvXBsuIA7UVGLjQ5uoNbKQiaxzTntM3W2tzlzbWWtgvwNh0dEwTYeyxZcvpq3hFtCZ2yaVoa9DQZloke7P0SEuBRNZk04bbJmDcJf3QKRFbFM9XjzEhDhuGohgXOepOEfF3YGNDU2GhRod12AhGGZbFw4IQVzxyX-H08FlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhgAAAJ2oz4crmlpSD0ADZiXf5T1pemcRKYTS9h6u_GAbCMjo086pqCkMNniCSYLmhqVAR_riJjh9LOmRqoQzY14sU9msXNqFwlzEq2pYMpYKBL5jcomQpaH7A80qUTGqHwQE5S00B3gOvkubV5bKL1SZJKQjWXnxuKnQnORA34dNodClOK30dQTyop9aQuyy4NbE-BIQUkE1swkDp-d5AGl-wD9vPxoUxR29vmgJGqN229JUPWFT9qVm2qU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816872,
+               "lng" : -73.919697
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7483b359ef5191ccbf177516b6e74e112bb825ec",
+         "name" : "Cardinal Mc Closkey Children",
+         "place_id" : "ChIJjWSlPc_1wokRZDmSlT8ZaVQ",
+         "reference" : "CoQBfQAAAJxtySjyD0uBK2AwsCsvKOcndNKTIoZfwsB-QpJK5hazP5ZzWnFuONQJACw1sxBxXQ6MQ4hQquUw12gMG0t_DX3b1VZrUDlQsBz8W-FV6qc5JIgLcLIQTfLVIWFBLjdD6NExdWXmd7U4auo18y9BQtKydAuYwyR0rZpfDW1kbu6HEhDpvG4mYgicqriY7RMMjPAbGhSe7Ob2ZLenLlcemRx3z1d5B8vyyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "349 East 149th Street #8, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816872,
+               "lng" : -73.919563
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "407bcad2d881ef3748e1a75e6c211aa5cd21eef0",
+         "name" : "Citibank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 403,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAPgQexNOFwz_iUEN_1DzO6N1S7rzjVczXFsPOzGmzn4eFKVbGF5q9YSpmd6dJlE9r3ooRxYhc8QbZRAFb8AQTZJvVu63Lrloo8JOc9OqogqJNvDQQdNeOzZObQDW3Rr5S-tT6RcrYpsy-OSBwVNwnBhIQUWpJiAX7smE_WRkPQ5jPgxoUGjlOSnLcmYE6Dl-II_eiEIPJ__Q",
+               "width" : 402
+            }
+         ],
+         "place_id" : "ChIJjWSlPc_1wokRc-glKaXfXiU",
+         "rating" : 4.1,
+         "reference" : "CnRpAAAAUr9EP4qOwKGlH3Bku_AxpwaYgjEDOdjeb04EBG6QAEuhgpbAIc33ivH339URFyFuuKQNEuOPZAGhSNCfTcQdaEXXzc_444zWg8RCikEqZxwmkwEFwUDw_UT_a7wpUZXJNH7onourW1du0zpdtMpMbhIQxdLFt0j2I-zWqbgwAX2DfhoUJqGvC6Z2xooSu-Z2qJSp3i86daQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "349 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814447,
+               "lng" : -73.91937900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "02843d0def30c896558eaf64baffe6df989dec9e",
+         "name" : "Papa John's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 97,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAASnlY755sd27e7hKVD4SS0LM4cfZsVyVSQbn7FyYDkoec_PZ4I35YlZgkR7tGbKdT51aRFVlgh08011vaNc0lWcLyvPlP5tiIIdHhH0AEn0-PU5rVZ5lBb56PO9K61DRFaFmITc4Xfn0gRqam1xu4hBIQvA049BkJgvGNSpPc1ljhMxoUkBI_BIUvqtwey099FOMdAAtEsjM",
+               "width" : 145
+            }
+         ],
+         "place_id" : "ChIJqVNp7sX1wokR8fqArldlt4I",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CoQBcwAAAGTVJK6fBc4ZzBI0Mhx0t6a-2TsxBuVW71p-lny3qdx_AVIqNZNWWl05SlxO0vDiF5meqweN35B62DvCwwG7TMtTVK8M4ZcpH9-ri2xbRRyQXyHlRqL1Qct4-wP3fk_CNCG7fFgMYd6Tt9YjrEp0T0YA9Kpsrq8vXpUwOfD3KKykEhAdka1o1T_3v-o9lEX1u-I2GhSBmkhPsVO6Yc7nR9tNBQR_PCvcZA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "475 Willis Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816611,
+               "lng" : -73.91768999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6c24a12be29152d3ce44734f9e250df4de579fa8",
+         "name" : "Cookie's the Kids Department Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAo8YtFfzD0cfj_8RZcuz4Rx2jbo3Gub-tIZ74ELbhd-h2zSNbuMcY3TGg4rEtzBKwb0fcueIR6xRMREk2xl-tSo1B0hO0ewkqrqqk5_FrBPPVczHGk1DvILlwDUTpHBdPkgjmgEXLHpcibRUV-HMvpxIQDuli1hZrbXVHf8Yi4O4t3RoUw5Nooixfk_aAJ7F6ySt1NW61QBQ",
+               "width" : 207
+            }
+         ],
+         "place_id" : "ChIJP9Lrt8j1wokR9Ng7_Kh1yk4",
+         "rating" : 4.1,
+         "reference" : "CpQBgwAAAG6P03KiMgJOrGT1DA6AnFNbU4DTX4ct4yFRVqVB107YmS_osWU6HuUEXw5PONgAMH2voUMtK69E279unorhi0xwmZwBQrFRWhbxGbWDiXywu4XhuVxRuSFjCUo6vowYEY2zouBb82YFcLU0acsbfVX4luFjgTT3AV7hLMUdrcse9ebmIEOlpnEH6V2F5vG1wRIQ5tkoAcdb9YYLoN1Ynvj3NhoUPL9V7d1-PvIjIOj3kQeR7Jl2Zio",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "furniture_store",
+            "department_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "567 Melrose Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81684,
+               "lng" : -73.91987
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "603b7b4243b1a5fd10a503cf8be781cb1d94e4b3",
+         "name" : "Planned Parenthood: The Bronx Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALjkIqQageJnBln5LCoThLU2lJ8yIDxBXzL5N3xS9Hl1BmvgnNczehgcpmpirZ9Dqyl-RPRQDILEUCenJ2Ur2u5u2AwYbymEaEogEFrznK_NOIERo8jdV4J58kjXggM95ZLPCLB4KVZDLfZUBrCvDeBIQKzK5MwYgZ1FAYHqyFdS9SxoUFvGvjjOdJy_QQb8rNR4sjg7x82I",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJjWSlPc_1wokRsYwioThBIEc",
+         "reference" : "CpQBhQAAAMp8Wmj_sZ3yWdEoqBb_X5mT-e-XxZu1mrFF85r4ViDfS7419DAQ1pozq1ZXJYcHW9wnCjzcARjXxYtocaJzY_HCsIjEgOlEcG8gVgQ4zh2I2urc5WdFi9pclqIS7Ljb-PUbkLSdPo2NDfWe-WQVhiH57e38-5Tlu_R3QwdU_L4jCn9QnyieY61E1qIgOjQ7CBIQm-NPuh9fJ9bhCC7Njlv94xoUxEjDps70iz_tuuJhB54gLrd69L8",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "349 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816647,
+               "lng" : -73.91927200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e497490982df2b05d291d7f4863247d7e7864087",
+         "name" : "Municipal Credit Union",
+         "place_id" : "ChIJL_12MM_1wokRxVRFmSCJjb0",
+         "reference" : "CoQBeAAAAFH73Gfgv8nDlHAK2ZfHj1XkeBqmtqVjt-DnGGWIJkan4jDxG158Sk85UYKm9gVlSFWQvZVPHYfDunz8NTJfasqftdrnXZvq8tY4wUmE1-HVGBCEkXozN_SHM21YlGTrzOX4zoo9o8PW5CKXrGF0NPyDqw5YcdrVURRrDUUzaQo7EhCOe5BBkKCLy4B7D84g3MXlGhRojJFae98t3KbG6t2UR9jSJpT2tw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "establishment" ],
+         "vicinity" : "355 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816171,
+               "lng" : -73.919056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5aed50912bfe0360f8b5d3219178cfb891e2918f",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQbYFSM_1wokRIoLdNeXoTb4",
+         "rating" : 4,
+         "reference" : "CnRsAAAAqNO6TXeGBfpPllz9vNUOjZJBwDGEcxeDVUYlb2E-DMAzscAuqYsJ5otLm3Jr-ke1BtuyRrqM7SWTnS6-G9PvUFHFJmnaUjnKqKhhrk1cTadMG3UKUrJqHSoJ-Vk43FFhFFApAnLSyRcLFRXRvMmdghIQAHtC7VcTuwwM1bCIpVe1wRoUoGcT2xj2r9pAOKgVndKChDSJtLE",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "360 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817589,
+               "lng" : -73.917923
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0195f472874d3f7aeea7f6744187f93d1fa94426",
+         "name" : "Immaculate Conception School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 864,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0hAIrk3uyRKjcE_2PEyIkT68ihyuYgaYRAy46zOfRIO1zYjArfZsYGobDxT5VvopHuqr6grLhDh0ZVCsPopSvlPp8fXKE5cwF4b7qtJJucstqKky5qj4efjpzh58Q_VXNRqvWrbpNopUW0-BedUopxIQ5ETDofDCr2IC8C9if17o5xoUYQwEEr3cgL4UUfN7fDpoWLRklhI",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJD3viKMn1wokRpfVEzFoCxDM",
+         "reference" : "CoQBfQAAAIV9sFevTVqeUibcgOqKLLHWr-89M6xYPioRSYRzMxtnRb6YqWrQnixXqdn7Svb-Sc1JDlRbsuRTFQoq-dcTg692y8UM4T6yDwpJPMzOWMDDWBaBwhtpIs-DOXvHJdCCf38e2MvPDmgSqAtEVcK89ShlLorvY1HZ8_R_auOJvARlEhDcUZR3H-ynAu9rctt0-DUFGhQwepEdDka6IjHqOnhYAmrCtIoZUg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "378 East 151st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815787,
+               "lng" : -73.918498
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5238109be414396e52d3704f284da7f85ab75a32",
+         "name" : "Sleepy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ6-7YTM_1wokR2QdlPOz0qG8",
+         "price_level" : 2,
+         "reference" : "CnRpAAAAWdgrnHIQwwuPWAvkfY8SKrvpjxnhOrrPOwtkjvBQkqBz4qJnGHPVlGVZ9azTQCVMqs1PJxARE4gX27StqfkB0oTYVDT0fGH58smL-ziEZ-fEnOAc7aPjWyoaEhfpQs29B1twfG7o0GRAhSH9xwZVthIQ3kUZzco-ZI834RbixW3B3BoU6sevJST2XesG1FqFbaQCuomA6Gc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2825 3rd Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816869,
+               "lng" : -73.91968
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3fdb68228291b754d9098b08ce6bd92b14de532d",
+         "name" : "Irom, Wittels, Freund, Berne & Serra, P.C.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 252,
+               "html_attributions" : [],
+               "photo_reference" : "CrQBrwAAADJ23piGjwlWCKHwYmCQPqgsU3OMKIAOFD0e8Rl6cCej3blq4g2fRyaYnoG_WIdXcVgU_7WxRT2xQUBmmXgj0sMFTXpJN_7Yl-ZoC23glAyjZW-KsEylZyQFBvSpR2x6evNscK3rafBnbkWv_edvUBC6UC_VFvblDqApO3zvr27cZfFguX5VUffpnRc9Jtt3MEW_T6_XUrX8QmUaEYLFEQNDw9A5OMJrSRzKf0wWtCgnEhA1Wv7qUAtSxZBBCrBTT0EoGhSfbeSIRgykI_9A9yLNq7tNV49_cg",
+               "width" : 252
+            }
+         ],
+         "place_id" : "ChIJjWSlPc_1wokRSbEzaWmgLls",
+         "reference" : "CpQBiwAAAAM19cfQJ0oZDxvmZQZmdTUbvJwi-FI-8HP43PMALXgerLLCsr2vIiEIKx16-IOu_vTZ_uA67gYoTd442QE6s6mkCeLD8duSgbWc1kOb8gIen5Ia5mgFqsFo0wljl07-DjHAfV9i66SIpvANJiHRj1Z42mhCLWcIiDj-G51LRRMH8Lwlc_S9wlOv0tZ1wmwasRIQvrh13YEorlry6USoza-AFhoUbI4yadWY0CqyO_D-KswWkI3v95I",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "349 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816531,
+               "lng" : -73.918409
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6bb51e103ab2dc35cfa1e1843ae568e0fe92366",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 615,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADaxRc4VEID7u9Rh6R5-lpGOIn4wIGWYKnVEkZ70byI9xDZ-pa3OPNyVPpGoDfUj_SsJxaeRlT3C3IFcaxxjLe7qW6oHql9bGWGHCbm2-ByiY32RuObr3FpUjpyw434kiuxGGycZNpHEYeCPeW_rVBBIQi5iftGVfZ8PC1fO3wsAsyxoU7vru4oHRY0Vp0hPljX5NxxS9KvM",
+               "width" : 615
+            }
+         ],
+         "place_id" : "ChIJKTrnNM_1wokRUJHFW_A2AaI",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CnRlAAAA95bNA6ZkfLp_k4m2eaeMahmImZPAFx9GjY7IGv43XYsoEmOk82WxpEygbN9UizzreNM-zP9eMg1YBY7_FAAOoAxaruQpmLfvh4JTJnatdb3A23YyyIWI-A2C7LMhloCL_cvUvGQfMLK3JDV-yY0J2RIQCRjqOGytgPpPaZVhx6DiHBoUR66bYtfXi-1bG_3ICUzQD6depCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "375 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816985,
+               "lng" : -73.921893
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ee1fc7975938713e2032494106ae630b071d1b2",
+         "name" : "Yolanda's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDReJo8_1wokRkPr7hiOFzP0",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRrAAAAw0zF55ZXm3DYLWQV7CD_P808OyGmGNX-6s3p8ZIgpVpWxYLQhxzKVusEirDVai3TbpE5bFxeFTcDiokRA7_DkNBFAz4iCX7q1uvqVz3X7nLES0q0gPeglDcKkXJVbFk_fDHwZWc0pKWIJyjAwNVGrhIQ_GjcAezdIicY1eBOHWDihBoUrPHRxyt2JupNH5_dBA9N_0V3L0g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "292 East 149th Street #1, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816972,
+               "lng" : -73.921988
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0cff4dea50468bd72467564319154eccdbc7bfae",
+         "name" : "HubSurgical.com",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 105,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAArOeRlG8HvnEXhnDimKqz3XRF4ZhiGTZwxeNivVD4_RPrPZqzbxGRrUoSKsrSXcPOnr28UG2RZ-5gWqReuhwe14m1PJ6aVzs-rvd4nj6IgQ78_rGFLL604ENJafGMKTkIufl2LZPCwCddkQquxANvzhIQRFi5eJQ1tdhncCpwhr64eBoUVHdGEwYoV5PxJfldjdaNP-ROiTA",
+               "width" : 299
+            }
+         ],
+         "place_id" : "ChIJ0xeqpM_1wokRGG_4sNjVTLg",
+         "reference" : "CoQBcQAAAEbO3qACkU7aXh2FpG86kflaqEe-_lNXschiZ_HRNMF5LcT6HG1nINB_iNv51mTCDXwjUR2zfRQZYzyob47bTW8aRdUlixhYgoeXQp1yTL5SvssPCSleH9fympxb0gQMLxfh8SigKnX3TrAi4L_1WkTMman3CPVXiYFNvgSUiKHVEhBXh5gQOei54WZHWmmtacARGhSIzZuLKk147HNd32KCt4TmyZj-yA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "establishment" ],
+         "vicinity" : "288 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817583,
+               "lng" : -73.920056
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eb2660e5747ec2ec0b7905e6095fda0bbba82ec2",
+         "name" : "Brightside Academy",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcgAAAFEN58prwmnaWI04juUUOjYNTXVsM72VKES2OpZZE2v18QJNPPSTxKv8CdxT8lpfQuZA1NhUInc-3CmOoiFCuBVMUFbd9_uku69DF5w2cde4q7ezkajok9WQNd79vudeIynVIbELZcO44ABMpGVEu5eyUO2tf_jDbTBMuRvIjXUNEhCdHxeQKYmxsHEta04Ug6k_GhT7pzqNSJt2lBsIbECfyZAVohjMCQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJVcLzHs_1wokRH1iOy_FGDtU",
+         "reference" : "CoQBdAAAAERJ5_r-PvUfWEp-Md52nvtTHNJBip5Si9140kyxfML0eGwLG9iYQNgmByAhwdMjYy-WOVE3FCD-MQ0NwTQPUdwbMMVH_NzBMPNhYgxizFxoE7jRc7W3Y2buPPaLquyDgyQ_oEJ43D6S4pL1CIKpyXE0Is3TErYjEW37Ues76N87EhBRP7a7WHI4MBHYxeSQh21rGhRme27cIc72ChsjR416Z-swUe-F7w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "331 East 150th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816969,
+               "lng" : -73.92033499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7893246910fc89033d4a2befb2b76625df7fe699",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiWWlMCkMZYaSh62uTMCglETbES3jZTJYKfQMLuIRazX2q_YMDLHrb3vY3t9mWjg4jJglNQ2xQGS2pMA8-EBuAsxqHYcs3n5CUqOHLMJCStFO0qyZLlOYfDxgnEMoJsbw3cUyA8b2gf9s-hfuI-PWHRIQYSZqT7bdC1slVggritQ1lxoUJAOgTRgaV8fHiEmJhUsWC-re6TE",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJfbc-WDP0wokR3_mDSMeAvVA",
+         "reference" : "CnRwAAAAXLF4Ysy_hTgfJAypBJIWAXrVdr3Gox1WkETburCWV4NLnDAaDIDS6U7dy04hhqV7P7BLwCdhIEvwwsTLQ4SEf20q2CjDIrFYP_cm9IYHwCe-y1VMZi-Z5DB1dRFUI0XFLZZDpE7E7DCVDyKSXwNcfRIQoJkvfoe3M6owk6hq4VfkFhoUHxix0iGdNMUbbCi_sGmVe7TUjcg",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "329-A E 149th St, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815546,
+               "lng" : -73.91896800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a37ecfc829dd61105c262b319377b757f4ea802",
+         "name" : "Blimpie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXqqXomV_pK8GJGafMwVBqF0Bu5ezPrhAX19xyoEHk725KPy3xAILS2xoZwEXIlBxf7BNa0umNt6UrzY7MGace6IkkmPMP1c9CQgeTKubVzZkrqiLRIK7OhHSTSWi6HwQUinhxSA7TvWkhzy2QTkyAxIQUNzRKYXtHRGasvdhS_BAvBoUXhe8TOmke_TTf1uLtXM7fUsfHgI",
+               "width" : 520
+            }
+         ],
+         "place_id" : "ChIJY61YUM_1wokRdAYX4Qt2Klg",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAkzt2YCQyzWWTOlIIomANPYi5Y3QLv1bBEZt4vml4jnIhx2n3gvnnEn5UgdiiNT9FG38_6CNon-FUiW6kusfNRN9r4lmyevPbVQNV6tVZvMcZueDdavLTHkoPwN460fdypFrxZPf2FOWC8ub5XDMshhIQkd0_apvSjpo-n652NvosCxoUA9-Zsh9jIXh0nVKrlnVX5y5cFSc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2809 3rd Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817543,
+               "lng" : -73.91777500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc472e1edef5b0fd6efc5c8cdb1e8ea961a098e2",
+         "name" : "Grace Outreach",
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAATlpRVzME46U6pH93Av6S4AR9caEU5-tee07FPVdjN0HFOzECjFDPg8HNqoemQZQ-D7Dri31SuY0Zeda63nSczqH1wBqc-jaZP1dewSe3IlkjLMsgJ3djVj3JhvLRQTYVAw4kqRpi66URZTcExfGVnxIQSR2SyILKCYlJChQlx3_ezRoUq4r8v8LzNI4JSwRX9OByLkHVREY",
+               "width" : 240
+            }
+         ],
+         "place_id" : "ChIJD3viKMn1wokRLtfTOIfEKPU",
+         "reference" : "CnRwAAAApA9w5bXYy8iKbY0IGmbI10QkQHjebtZnVxhWyZvosoBmo_dFGxq_z82Qi8UXgVv6XkV833FklKRh1YG-1zzrfUjTuKFONVliMBfGHA0fiAIYciPFGg8Y3i0-q_KaVseRJ0mr0nCSOchrtS8W1Y2LPxIQxafTYmEUT0L02i_zOV0yFBoUirUldN3LIjeDlGm1T8KKppWwS5o",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "378 East 151st Street #5, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhQAAAAAUI7BQydYORvyYMfvRLfnk92ApqP23SK7fAPWXb8-be8aZ11cyebMiQSeASs-D1LiueBfdfu7wlUOkU_W-lloCEQPTLJMK8SSTF7xvTkE7H9_hABx8SdHYfNbDzMsBHkBuCM3-Tk9IBmBDimHNMB4VjDFGZyvSwHj34JLWluVj4Hg_GV3gK7THkBNg0XurCBIQRaaELZ_w6e8R_mvdczp5NxoUKpbLNs8LNUBrvrZTWWi6LlOdTyc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,354 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhgAAABVfvC_zPVhJzF-ib4j2fWUStmMCDrIuKr9dqgRPj8gSAC4EayR0R5Xl_26Cej_3bk6gc_Ia09XXppDpJnWUEEM1oi0tOnIS8i5R2QlMrtlGsMSNWHI8dc8BSUZlJh07yg6z2_Lkln_-fiNtB7cyAcDqDaS3H2SEhpII8-5aCbYVlwvgVDSjJPfw9BOMPc05xBIQzdbhZrzA98m0iW0B5G-17BoU3HN7zLcu2MCr814YfvWnpqZSayE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812004,
+               "lng" : -73.930193
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f98aa829f4e229ad563611a3fe25b3afc2198f30",
+         "name" : "Sin City Cabaret",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 917,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKL-hHdT8fnWDQBLn_GuexOpu057s2wiYOpgpuPO5eVP9uZ9YOLxYuOvJOWzsitXEQC1iFVQNvQQ8Qe9JOAa7XLrFWnm2UV6Jx_rPKX6QNcb0wZYHM7ZSNSn1Gq4ZUZz3-Ewp7Hib_6cIlGv_HPaj4xIQKmBpVgucmO2f7m8iCKu86xoU7Esnkv9fI8-jw_sClsrzTT8ME4U",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJzQk9VNn1wokR6T1u2DBYQQY",
+         "rating" : 3.7,
+         "reference" : "CoQBcgAAACNiJe-vSEYkxePP3aCr2aSDm7y13hMNTaZtM7k77GRT2eeGGZOLX9kc_msVea-ygSRePoHnkVt9K9VjgF2p10coCrqohBzzKTY8P5m9s0uB5Sn_UM2z_wG687sfEwZ131Uz6YTCgdF41lWJikJa9NrePEqCp-D0QE3kTqf4D4FWEhDBUiVr6DThrKUEqykJjjVEGhSATsEOl4pB6XZAP-DS9Kcfk1jyxA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2520 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812707,
+               "lng" : -73.92639
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "891d46e78155c99df50ca2258e2553ab590d4b20",
+         "name" : "Western Beef Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 225,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlBGRkbXBCdyFdVKaoGHua3mxIvDJNgJTMwB7i-UEOe9dlw4KLZ9V0oEbDC233Eec3fpDrVNJ25GKSNjFE0qjEOLasB6TQo3IccM9VDNB7OwEdKDCQZH6Qha0tvUiR4dXpwOCskJCVxbi-53FO6sf_hIQYvrvurLwCQ0Ssx0f-N6PRxoUQLEicfpD8iSQLY17btvv1XOk-Ho",
+               "width" : 435
+            }
+         ],
+         "place_id" : "ChIJsaT1Edv1wokRafk7Q_xeJbM",
+         "reference" : "CoQBewAAANLczDMVIbvWtcB_Hb_XCbE4VIiYrk1BQvzc0_ILPWUt3FNjNL87-WHxOEb2PeT_-2SUdA1JE4zJwoLEski1459dTFxF7W6pzydAPnihDVA4UTBZ-beInw6LCGBs-0hO9-_3SXPTMQUn6pCqAg0_h4t7LUMIP1BEjqRSPuV4T_i3EhBF-jpa-yvJHqZdDzEyfKblGhSO49TMhDNgSQFwXT04aHy_n-HcXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "301 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813393,
+               "lng" : -73.929372
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "190f8dd24a4d1c3f2adf1bd0c8f20e302df7368d",
+         "name" : "Narco Freedom",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJA7XRxNv1wokRZpaoJg357Zc",
+         "reference" : "CnRwAAAA3GeZayg9IXXqKF_vOH64bsJcLKTEsEclyvcnvUWs43rn-Iv5qg-2Pe5aoCeupcQB6sFCbGo9sLxx6Cw-s1tBTTJOSHgi6aAEW08sWwaeAACB7CHso8-QATklOq4dW4qOKSeTa9UrOJksopgvnilgsRIQ6Np2cigZKT2oxu7fODMNlxoUb1JT9IOzviVEWEtjAljrxiRSTqE",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "250 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811739,
+               "lng" : -73.92931299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c6edf1736cf84b49a41a3655dbc7324c247c8523",
+         "name" : "Skyline Windows",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjdBA8tv1wokRCiVFXjbP33E",
+         "reference" : "CoQBcQAAANctg5oZyF0qBmo1Vt8Zawtzeb50LFGIVmd5qKSyywc_e8i3kKwh6XI-fvHMIpp0u1udglh1qdwNUNpEF3hmavtXKuMqmGPE6A1_Dk4-gkYUnS4attJ09rt-6xpPRZo78QXb07oJ35R8HOE5NfLxS5CdJ14Aho1CZp7Gc3nB-PklEhC1e4NPvT4VHks8zlZ-mpk2GhTKlygV0PumaJ3o-ERZT64Js80qQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "220 East 138th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813442,
+               "lng" : -73.927971
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "30cf9eb6de51339e8f37c941a4b09199d5d53c4e",
+         "name" : "Streamline Plastics Co Inc",
+         "place_id" : "ChIJVai8ttv1wokRzatDPmxq0hc",
+         "reference" : "CoQBfAAAAHnbx23ywhOVeRGYAlNOIf52XMLpnTrd-WIPhe8UtXb02eI-FUP8DpuW4s3ELXD2ftm29d3g6U54KV43QZVgnQHqGdhqAaF1Vhx-Hd02raP3RxEm1viqBgwMAhjkDqXUcap8TY-Zx-8wntZmPg3nnojXlTMTpXEtPAXIE4IGbmTVEhC0dh5jjwQCftxQk_gItjKPGhQElhJFfTgqRoMhbjvl24PWyDaQAA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2590 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811594,
+               "lng" : -73.927065
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f8f2002f1cdc4713da6d8d0b6f5ed1188ab85cc7",
+         "name" : "Angie's Cafe & Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm2TUMqzTJrr6sgXbS27eII9LGCF22USr4hHrVL91w0PUYc7vT65RV068wRelRzOz_vElDJKhrrjd3sOVhCSAGb_hGs2osHWyqZtOvAKtlLxuaYcyCs-o1mwhSggAsdvGAb_fK7O21er7_kClfoEDixIQFCczLcmQd9TbG05rVg2gOBoUAdqRGYWhz-zJcUpKV3oVGipdKyk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJa4QXf9v1wokRBkH_7sHrnZ8",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "CoQBdwAAAJnhzmogLPJrWXSlGmTyzsWpYKl3QM98pagXGEuDY2boxRWNBn2nQdqD1gFL9iNFr1wsM40oteQ6pCj_oaG-ih0qVhDK8xjDSeim3JYMGKjEEUF6oNQiHdpkaRgFv3MzgMWeLh5H9D4tyvR_iJylLWvYCfLnzZhUki81878hyDEMEhCLeSm9uMgI64B4PiYgkPMlGhQC8TjBX4Z3JPtgQmd5PuJWKXlS0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2559 3rd Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812627,
+               "lng" : -73.928999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ebf2b54f516c19d50ac84e04bd3f75ad48164d2",
+         "name" : "Delbia Do Co",
+         "place_id" : "ChIJEdtx6dv1wokRByzolp1TVr0",
+         "reference" : "CnRvAAAA5XUfNLggu9GeB-Ypk40Zm5DIoYxA8cRix2v5hcChrLruQgH1Sl9MEHehi5MINhOOSGEpGyudGJ_Sbg0QFKKuNrKoom8muUAG6iTrPJ85ZSwZpIzLnR_w_5SC6DEPFBxSSTZp9BOQKS-TbgqXyw9SahIQwkg7zLEnH4J8SCNahDem5xoU2Pdos6NaunhFu4HPInbKVAj2GOI",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2550 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813611,
+               "lng" : -73.92611100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b25d44066bd82d4be24d9daaf1b6401fc212c572",
+         "name" : "Middle School 203",
+         "place_id" : "ChIJPSD_INv1wokReY1_3ZGJMB0",
+         "reference" : "CoQBcwAAAK61jG_XA4h4a4mmjQXjuYwZNDMdjKDE3iEyIrpYjWxmpEOUvX5KowQfc1AhGwiakLjfMGzL1Z10K8uzeEKJ8846Z7rCrLhXLHgioSlONuvPimukVNd-y57wbEBQK-C94Y9pESxxh_XJy_gd9uEVXlGn8FoKzc0tn-p0dUFwTpoNEhDECQjBWo1zUSk_wI6SlJidGhQHRbPO0BYDxrW3VRF_PReJoHW-Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "339 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812854,
+               "lng" : -73.92864899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f9bde8b9b41043359684e470ff36d4064cb741d",
+         "name" : "Roanwell Corporation",
+         "photos" : [
+            {
+               "height" : 183,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAf9pEIWGk7VXKwW3-BuWAXp0yvLczopInhm3y7QGA-ctcbeW7YoFUpDDCFA4rJCFh6jitIyaE8IzJ0d0eLcjBSZhFzfZuggRvW18J0TUcuJIVNJFQqakZVy8rtac35Ft_jv6fbVHtxWdbIU6CDR2WrRIQSwP0q6ckYgX8EeQXwH1LzxoUSYiHF3kV9WkDTkN5Tgxeq-zRPBA",
+               "width" : 127
+            }
+         ],
+         "place_id" : "ChIJAVXGwdv1wokRYIf8Ik4OvHg",
+         "reference" : "CoQBdgAAAE5U8I1XnbnyX4EeSYvNCvnEC2JakDBtqlU2Gm97z9kkXqpofvm_zBo3DNnb0TsmJIZ0LA_Np-0m6JVA55yl6WiVXxTK474Rkudd3lo2JDaS8ZRoL0siNDa9bvlOrP2eyuzeuHDfdMecv3BVj15ruj7yn_ukgsnydgH_Z8sxLyyOEhB8DJJdQtKNDr2ObY2yV-mCGhT3hRBnUudsPBhp3CCDAOApHxWCNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2564 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810948,
+               "lng" : -73.929075
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dc34737b29b4d7ca3110d2aa51f44a79799e16bf",
+         "name" : "Scenyc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVhUlHVvvbKCtyPQ2VtY0mHwHV6Nyzp1ZYigOxVf7bOoF8qz1Pwhts8doGfynQGq_PLCgsN6w1eZ5f9x1XM_TxzJrFC8J6MAxStrsUsWQAtjNyyVwxu8TA2o9hG-Ftei0dmHeGlr0KentMGkl7sFn4RIQPA06GhyDI16qNOaT1xCjcRoUfsO6A8DsQcd2zXpMLmQ5TkKTSg4",
+               "width" : 402
+            }
+         ],
+         "place_id" : "ChIJucPoEdz1wokRYa5rHR8Qr7M",
+         "reference" : "CnRpAAAAVTgCCj3Z7QwBK0Gc9eio7_hfKbWDfBOYBchrTsRJFWb2RFefvgDLcWL7kXKbzsWaeDJn_P19F8fTl_Wzv-2pzGc2_1EQY5bHW-TLab7szs3AxxFTfKNeApko-E8eVehRFRO0ii3txWx0qUh-873AhhIQ1wQidoHkhdLlUb6k4U97GRoUpITIN0Jg95HQvUdjS5rQjdZy4Es",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "208 Rider Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81402,
+               "lng" : -73.927981
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd8cbf01b33921240833831e3001d367a63393ae",
+         "name" : "IESI",
+         "place_id" : "ChIJedjBVtr1wokR72mRVFJAISg",
+         "reference" : "CnRmAAAA0yIVONZ3DFsFiZRq2lwdgpxFDm3SxJmHNX3-vy5RrEmMrz6kYy7yKhHUssBRLX2ZnioULwufW6T-5fr1s-mMMh_yJIpFkeFXP6ErEquA2upaWe2x3vhBJUfDNLcsbgaXI9pUsSRMQKVHEvy2_ZCUMhIQuX6SLdleBiAVhpo2NaO65BoUdrJX2CH6lHZtPtf83GRkeWHgme4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2630 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811258,
+               "lng" : -73.927801
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6bb0d3df7302046458e339c55841c3f593464a8f",
+         "name" : "Oze Tavern",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 662,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjDwoYQ_WkFv2Jmi3msJScphxkNoEUnC4piJ2WiN8nMMgBlaWCNn7muY1TrLrncOtFI82sF--qP-xCXioOl_x7lEVunJlKyfpj3RKiB6kVR-w8bPVKJhHmlH7CZKiZU1QnDU_qZcWyFdIT3AGlp5DdBIQRgQO4iMmAXpKQjbEl7wBDhoU45EJwHXGglXZ2MBTQMkixLk4RNk",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ-WdNeNz1wokRaVEAtbLmP6k",
+         "rating" : 3.6,
+         "reference" : "CnRtAAAAhTRnvtx13Yl0GjViDwgBD6KDz86gq48CL3Td20MGFEzM7EL7zkYqbng7KpJ5sZeazGa-LVAa0qJJBDnkQkpupaf613UHl0YknJQUqcz8fEug8Gp-K7mMwg1VXYsYz4lcngCOAOPKVr5q3uhTDBOinhIQB1JbZTYR9N9Ey1QAuyzhUBoUfHQo54EAMYZbbTsqdAelIy9bhnA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "256 East 138th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812288,
+               "lng" : -73.928529
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91c86a10c119ace4c18292f24db92d33fa865a4d",
+         "name" : "Blue Diner",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1nqQ9EN8H81AQox8mnP_IJIhjU8ucUtTb3KlTxU9Mct_MFK09McbLd_0AxwsDPBmj4Bak-uGGPwKchA4-NKpVupF6en2OTLTpobgAzsXSjAYYgOSjYPGE1CoYp9RUEWFcNuCnnDPEfX7FIJGIDkCyRIQz0gADrQ7uUEAFgvZ4gaxwBoU0WT07dVSMVD81F8JGqq24KfekiE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJQ1_Nktv1wokRtSjZC7FdHAM",
+         "reference" : "CnRsAAAAd0xdrYXPNFo9Vl1uSWDa1hbXH-_obCh3C0DtL6cgwu9BSFNs5pqYqSQ_iTAbM7-d8_sZFdkHrFGnMSXOPhlEk848XAjCZ2Z-Z8UguJqekZhz4psr7vTuqRZ1IqnGWHhAg4KEohiJKlyzyvG9FiD8pBIQCpgfGbOJx4yuLxtcV_gjABoULqa8_9_upSanXkH8yODSAYrnRQI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "217 East 138th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80286419999999,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.813179,
+                  "lng" : -73.889105
+               },
+               "southwest" : {
+                  "lat" : 40.79678,
+                  "lng" : -73.9325059
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a7b371e0acc50df41cfca1cbd844e455fc82b697",
+         "name" : "Port Morris",
+         "place_id" : "ChIJ0ZHUw7_1wokRqlQmU8e9jbs",
+         "reference" : "CpQBhwAAAFTsa8NpIdFfTQ_5L8dAQGfMq1V-J-se8w31FZbQwcO4ZOgopB3wcYi6M-ae9fK92aHF3f5IGVCl8GqC2xRrHCgpcWl3wNo-RkZjEscaLzUfWEuKFwfVJQlghPtvIqLIZL0NZWvFiZZ_kaUv5H8yVxNhucl2Wr-nODFdaQjiPB1y3LsB_vO8yjqdfdWeLCsqghIQdehsk8kdc_6ViYDjfQnDxRoUaYa8YYdYtBYrAeNZeOWM4b-wBCY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

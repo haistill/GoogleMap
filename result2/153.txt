@@ -1,0 +1,508 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAACbfYdMHq8A0tIq34c7ShMgHZ8oI3TZjMAGa_bYcdbEAwPQcT-MBLzvpA-5v8nz8Jc07KFHwS2ewPZtuAvsTG4av5PaF-0iDKJnINzcYPaICOn2fs6gf5_9LFiQDW_8FHMBjhj-413r9l-iQa07lC-aME3qskSca7X_hLKbakr1XrT5fD377EavukROtaB_GB5mo6EB1dcYG2xhwh_vruoIC17dc5C9unH1xeSAGGfo3aFy-Cysb8aQddm6QFf2HJqe-ipLGfYuGv65Ngbg5vrYCm9GirLOzfN1chVSGunMeg-bfrWCladaaAuldcNOe9RIQIu7yDFnCDiq3yadrQxO2SxoUPL5UZahgZYtB3frVVU8R6hXTMcU",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7933657,
+               "lng" : -73.9352473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946934,
+                  "lng" : -73.93310869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7917813,
+                  "lng" : -73.93770789999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ca72f226f30406f3893512d8ffa898fecc2de37",
+         "name" : "Thomas Jefferson Park",
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "reference" : "CoQBgAAAAEnRRUqZ46W5kWcqeW4XRmmawWNGHZPh2WPD_zTfvmO2JzN3fdD_TZiSmYL_OSxgLAsTCeU8U52sLx0OWzVdNG2ZorOaWLC4ALKZ_N7XobmvUusngld9-B1TJ7K7BmfAGw-QkWLh9hhpj4saPBGAepWSXimSLHmRsB4x_V26_4mLEhAFHKEu0SXpRh_d8QiAfxj3GhREkI6wJIS-dcQEy_6bpLwmpUPTbw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAADLj6JdEotdS_vlhZTIW5budG_2hqXlpLdb3nfckZxhTlLvwv5MGeYu_Wh6cpQRnwd1w4TCMaK6FotSmCo6G5SgJy8qsET2HmRSinCyla567BwDvFyu6mSq1Yg9-_nPeeyZChUWFm21J4PRm3lAYMX98fmXFN4PAi5DxgssKe-9q--GbT0hXqD9eaxiQ_hvrgRIQOwNoIdKw4NgJ_6k7O8m3iBoUdSzEuVLve-gCc620--DHTBfE4BQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793944,
+               "lng" : -73.93422
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6015be89122c3e8121d97027f00643cb387d3626",
+         "name" : "Rao's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJs21Av_31wokRz_hcbeRuZ0E",
+         "price_level" : 4,
+         "rating" : 3.8,
+         "reference" : "CnRmAAAAHsqBxhN0TFk_84koqMR5_JSJAsRPqae6inFKCzsMKGE8M4L78-yJIQjKiikTcUrrhkyUV86nEmQ2cfwxDMw55Einr8qHrwxjxLYyZPLK8nbEfcpYwpnE2aNsO-tY_BZXYzy6_RqYEFO2vLP0MkpohhIQ_4iqlKclAlqL6s74HTPGfxoUkicknzWp5sknsI14-lf5eixiqpo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "455 East 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795564,
+               "lng" : -73.93596599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0ae34a0d5ea9953f1348b74ad2ec17156ad4670d",
+         "name" : "Camaradas El Barrio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 555,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABTDvV1T41Nwpxn6Wst7e_wxWVZMdfsrYAbpx56-VK9p8znaVRJFZu8QDUXy5T1U61F6V3aAZhH7kPf_ejhamjPeuQCoDDQSGlEw6mw28Iw575R-jeRIEWHjUrj0Pf7N1JfyagzVMC4te9U2Fh2vShxIQiXs76cmDv0FV_0IGiYhyMRoUGgh20YrNUNOivyr5x6w4105ZrU0",
+               "width" : 740
+            }
+         ],
+         "place_id" : "ChIJxakffv31wokR7L5GmJnB-kA",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBdAAAADelziwXx-UNHalx-ALouRGG9uBl3o4dQzZi_EGmvrnxEb7-wIyoxr3Zt5BHKV4XoUUw0Fbv73KnBXXaUBt-Osr07rYzr04hoTsKWr7-MkcMUoXpM9r_qT43BwN7qmpU8mNGKUOUGvuY1zeSwx2c5GebMOm4gXhJVQ-JHXIvIJgCEhBem40KPlq5DMySN7Y8xfCvGhSVOXKc_GQOyJRTMyAm5tpsU0jYuw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2241 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796211,
+               "lng" : -73.937556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1a4c3a4a5873a2b83c86d54b0935097af39d1ef",
+         "name" : "Compare Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbXbRogf2wokRs7ZDB7BdpCE",
+         "rating" : 2.8,
+         "reference" : "CnRuAAAAwIdaSQZLQjL71UZ9xs7AOIX9d-jsdTTYFatZpqbcfCB7a16FbmiCOJ6IqxjwBJcBO3WcNN2xS-u3AOi9PNu_cXyyGlDasDf6OUFD7428hFmzzixXd8ukugGWrsSZDI5sg5HUdRTpwdhfwsRd_vgX2hIQ0yUbLT6vwiZVr4fGwZXAWhoUjMbZ1INggL9SiDTRpYIzmr-3-i8",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "309 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795398,
+               "lng" : -73.935579
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8060e0bd1206f533164ef7f5cb27dfc1c0f8c092",
+         "name" : "First Avenue Funeral Services",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAL8pacWYXs69tvtyFRyLTG7ECdipt0YxQ413LWwGlkks845vP_8z8I-PM-wE_dBmIHzVVRcE1Z34c7MmHfXfWebUOh_ogdDnhtuaC6-J42_3-jmxtN5v69cnNcu0xqD5yyU9F9aBqxWG3qOoR8HSy6BIQqM2uTh6Yxr6T1bG43SLMixoUr3-kmaqqxVgzrh7MSylvfIL8PgE",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJRXPXfv31wokRlnHQLFJHb04",
+         "reference" : "CoQBfgAAAJOEIw7ltwYvok9Z5MqpKPl_VbbhVYJiTy_l_vVSPIcliCVEEgdsfTJMm2aAw-PIy5UR2QLalirwR49QjqCqNoWRfBZ98RceJ1th9UVDcD4mPylD3Dr5pWvEr05sUs-nJEqf9XIhvBy7W_eDiPJfrwUShGlCyZH241kRjfzh_p6hEhAUgTTMRz_6Ab8wmGsSBYT_GhQJBSDCjjLbSoXNDmRW-5cLHl2jRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "funeral_home", "establishment" ],
+         "vicinity" : "2242 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795645,
+               "lng" : -73.935901
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17bb60d55fe2e44c3d7a4398d51e84abd5034d67",
+         "name" : "MAKANA",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 166,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-XyaXiHE9zoObBqjxx1PyQGBVsBhFsxDYCqLJL4rtDIcoYzj2C5rcANjCxq96-BmLnhDLjv7q9kbm8OCv2MPRBQcIC6x2xmW0BUWJP0p_jDWNbW0KorcNdgKV6I3e8EGTdJ5LTO8wdQ8cB_meslUABIQ7JpLij173Vt39hAuE4uHSxoUZLmwyeOINWbIAcUeHHRHRkZL2GY",
+               "width" : 221
+            }
+         ],
+         "place_id" : "ChIJu1fmff31wokR7BSBUoNKOQo",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CnRnAAAAdOoCHn1WNrIuTa6fLX6fed4q-H1bzc6C3fdAg7Tw9VT2VGUhxgBP-ur3kmzrAeZVtfTWMazMbDmoGfEVZDr4tkXYhgDSA0n5B0fyDNJNIp9cv0kpf39NOUhO0R-aJZG4oPW6cj4C4QB7vv1No5jcbBIQytHJHuLq51-v0tsbKrkkhRoUXAhFyoXPWgqM6rTB7NKMChZZeHg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2245 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795035,
+               "lng" : -73.935834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5aef209473d3e76314a1fa3971e43712d8f61aba",
+         "name" : "Oliver's Dog & Cat Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 654,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZLWllPlWin1us2p1Xy1EEyw3C6olJ1KdnPoGmVl5CaFRcwf-eD38HETlsUBk2MKHoqb24hSVApVtkwjHC7CGkurn_Nb8verKS8x-62ovgQ6M7kfP5ThpbNZr1ksrUTCbmuUPtB0ot-IF5HyrpTEn7hIQYgZmwQa-fzijUmoDtfzzghoUyoAvZRrpMMwaUp2-Bsq_R-dkJQ0",
+               "width" : 654
+            }
+         ],
+         "place_id" : "ChIJGwPGgP31wokRa4b4OjS0HdY",
+         "rating" : 4.2,
+         "reference" : "CoQBewAAAFooZWRRQjh97DNlkukpCCy3hLGfEsDbMhiwQDRjACRfS2N3zRAsIqqGxvh-MVoS8gsAawAFIFAokQvIEq5b0M-l0ZfWTfBsmsaUKu84LH7IqPEgv4cY9d-CnAtbxLwbleEMakWN_v_7cR0LwTm6cRR05IGZqOtqg2ZNTc2rMlH5EhDbUVWTIbP2WprU2u6_28adGhSUzzQy13GaM9eUgInNmpX-rqV2vA",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "2232 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796274,
+               "lng" : -73.93550399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "678c8655e4f2ecdb015ab57b37148de2880a86a6",
+         "name" : "Citibank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 403,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeDAW_VmUQOo_wr-XvaIc4htulZIFBO4Kt5hUyC_OJn_pA5tJGfgIUmtId_mCA16ofq5_smvzhjzRXlxH5W2HPluzJhOtZB4bAJc73GsbOih3JRkU1goeICLIHgkQQC3iV5oiI1k5NG9rUdx-4CKosBIQevGE0oJgXRWPKRnqXyWRQhoUER2c51SrSkPY2TFbMhVK6aflhJ8",
+               "width" : 402
+            }
+         ],
+         "place_id" : "ChIJd_LFZv31wokRJH7Cahh1Yes",
+         "reference" : "CnRqAAAA_d6n4lY4mUmeZ2T17MrjWOro_sEv8Pb_t-iPMloNm_X_CAFSUR_dFqhPNRJTUfHmSV6S8GL67Xn53pxFyKNzxS0rikQox2P70_IjSPErtvxEicwSLZASraT7W6kjP1Ws6aW8FsMCzTCwjf-kbHtHqxIQfa42LnkLzC3FjCz0g_lKrBoUDrA_WGv3OAWDjir99zxtke95Sok",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "2261 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796374,
+               "lng" : -73.935705
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "096afdcb4bfdbd4443b607ca78b0359fedcf9dea",
+         "name" : "East Harlem Smokehouse Inc",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-052xHsSu44eXA_0gJZvW4XnJl8rRKPiorju1rrMNnhZV1hc17sbT7f81DFZ9LfXFg6ZYhgA18euQiDSSEb7GlIm-l3WwFPKgCsVfD3n5ahoAvm2-s6p2fXCH6frdsAzLjsc1JCf6dEfG_dmi7xeuhIQrzGbbVY8i_fxo8gjxPO61hoUI5R1sda4NxOAc0g3UKTqQP-wBqg",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJQyUvYv31wokR8E7li90RNt8",
+         "reference" : "CoQBfAAAAIpcfHFE3X6wjBRQBCFk8hXSXdJuH7xLRQpzFK0vuWIeWt1u4S8kWGV4WI6u97oY1fP6fkMQPSMnkd0HzR0uT0yaznqFEEvJGSQDCZ2ImNopQ1pXDZykZeVeig-_YuiB0phOfJoHBkWPYnRE1V8U_VYZd_bT_ygKrkZgzZeu8aYWEhBSvT2uiWkHeyW0mSAzKvlWGhRgaX7ESBlXKWw-SiYa6re5YSwPzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "355 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795831,
+               "lng" : -73.936699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15e9ef4802b0fba81adb742f9fabd925f5088e90",
+         "name" : "Little Sisters of the Assumption Family Health Service",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvXqihAf2wokRmRImf1yNSHI",
+         "reference" : "CqQBmAAAAJGOrQ9ZIj8njXHLjE7FuL5ppYWl3K4Tp81UgOo3poIpwNUynp4qQdg1D227YwCPeHI-MO9RLLhOS_80OfZY5qx_St3ORqO5Dkm3TmrLakT-widGqoTpQ7VvsIXJfp5m7xOuRsKMl5vRgnWhZnfLYUASq5UxcubSOssb2QmG9SoZjIXSQbNcqdHm3ks3ZliQHgneCpp5eU7oJxWGk72RSSYSEGdpWZH4r0bS_SlLZoH_g8kaFEYgOIF3sAWK2oVtUX8Qmc20kwib",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "333 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794597,
+               "lng" : -73.933724
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f116818aa05b67b6c1d4372f65905d079d4d50bd",
+         "name" : "Love Cafe",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAATJ9d6NP_xtTX_aT8ey2nbLsoLmD3SYeMPMam2TwfGDraeIH1Bst7z0U88TyD_Jx2FjNhgCO7W9kCGmaWBvtmo0VBf1ThLWucn8287hRxgGRsviuhNju4hVFmhq9rCJQxalTjjOB1RxOU5R0rfBOUahIQ1JiTL-FefwWG23P89zBXQRoUsrd40Eopn4-TwAA319bgb-X7kak",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJ24V7r_31wokR-S71l2zqrwc",
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "CnRqAAAAjfB53jLR1fVd2Hds4yjKcMLhfmZ14ci0gSF9rrYoiDrDhM8xqH4Cv8yb2lxsuiYx2Mj2f-fLe5HywbaK3ibM1UfHq5mNfx9xJRKnY0FHglyYB1D-jIyu6bsWulUHmTwY5TnDPBxhcK-kGEsXTXmtwhIQ7jmuf7m76tJIM_vf0S3FVhoUmGnkp_I8S4wH0bextFHWmgLcL5s",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "283 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79364,
+               "lng" : -73.936781
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ec547ee5090310759a4da86d510ec4fe352a39e1",
+         "name" : "Thomas Jefferson Recreation Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_e0JSQf2wokR9PTy0YpnuEg",
+         "reference" : "CpQBgwAAAFAXVpya85Np_8JsyL6SzYSJqr71a0th690hhFpr-mV2oiw89d0ONw9XfaYCLCaHxGJXw0rCjuWAO6yEkuH-RuQvhY1DmI7WTg9e9FvFZPvMtGVsXfBQdoUsdbTA5Gha0QOF4bPF2la6sZtw5MJKnQRbr4sjgnf7g8CWJWOAT4L3pOyy19uvHtgMCG-IAauQehIQ4ymrmWADty8_2QyC6R08sxoUJnxOk0YbNay4gDahfIq06W-Hc3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2180 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796055,
+               "lng" : -73.935057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6f319476f9b6bdea5a6d34131e370f6b290b3bf",
+         "name" : "Dunkin' Donuts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 594,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4IC7yk7nphiVZQqU-UDaYqHYVKRQPRh_L7X0ozeysuU8DnhmSooWN8Y6iXru96XI6Ln6ODwBLpjtTNS-7f1oml2mThAMFU25h2GsLi8uyN7PGbTSRAS17kTIGkFDwJYIG6n-tV89MJsDt4HXK47c5BIQIj2HKWaos57yDwB8NjjCixoUAf2Y1qgOzv6wuZWHw9JMfM73s1k",
+               "width" : 792
+            }
+         ],
+         "place_id" : "ChIJ56GeZAT2wokRF5uC0nJu4OM",
+         "price_level" : 1,
+         "reference" : "CnRwAAAAKj8V5K5kQ_OtVmXBNd_Z2PK-rQrH7VhVbowgcHYkunE7mS-nNgaR0oSNcipmdG9imuBbDl5kO5dxmlYt_EYVdDg4EfVAzbpf4Ld2_X3QNuOFGs4f2M4VXmhpGkUVF4CGJQFamup60pLzPLSKpfld4hIQ_4vGjiR80LjPgKUyUebdFBoU6pVvLXUpfhX1wh3I72AprteTVCo",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "403 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7965,
+               "lng" : -73.936082
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c40f8799c71d0978d09bbde0aef1eec8422b040",
+         "name" : "George H Weldon Funeral Home",
+         "place_id" : "ChIJfcoeiwf2wokRH6J4E0jp7AQ",
+         "reference" : "CoQBfQAAAEO6echyKguN3l8tZA7TPYnaLsq5RgNb_pyvdq8fXcEE0mySXSx8oW1Z2MPHemD8oRE-gkMsNIsvZkmlGXrckmfFWtdf_xqCP1GZdqix6ExYnQMIMpBPMFJAxR4iA7z2nGQTiAT0rhoRm7r9LJAv-j0mjNg_hxtHUCq2vTmsqH3HEhDJ5h0wKGZdhsL0U-AbwWqgGhSEeK0EGmBjboL06F5htyxFl-fpMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "funeral_home", "establishment" ],
+         "vicinity" : "343 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793366,
+               "lng" : -73.935247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b07a828b4afab7e554e01b43fb9d66314d4640fb",
+         "name" : "Thomas Jefferson Park",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAcpx_JTutfvkNdCYF8NmM-8dEQherkwpz_DrfoovxvhffStNzHKXV7s5n95utRH31xp3EPz1cw2TwUj3G-PrtcuM9t5kpwzGvdfHEzNZeby_4L5TaIdwgBuwj-0_0gJdR_MRqmyZjEUwqd2MeBnSVLBIQx87UT251JTJJQ8ep3hv9jhoUEI9S7RYBJQs5w-AZ9t819mVp71c",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "rating" : 4.4,
+         "reference" : "CoQBdwAAAI14OM1rOzekFXbaCvgnAxmjUByr68wmB7E7nEgHXeJk5m7E0K_YNC-cHJUK99uacGXqzE6JN4d1Uda9g5lxgzz4WPhZeCu6ILfdndeFw_t8-5laP_Eu3zNWEt-rHBQ9kWbQ8pZ5qDR8ujvqzdxltJU3IpADG4XHWjXOn86AHM1gEhBUffF9ddla0ffLtWeNJtBnGhShG_AWENTUqebPeVnAp_-IGxzLBg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796341,
+               "lng" : -73.935714
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9496e54dcd3f411f4d17442d08456fa60f1fa281",
+         "name" : "Harley's Smokeshack",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACfEIqlAn_4sQFtm7vDJqheEZ78fE5QhQeHGW6wsZi37UqlTBgCWbGpOeTNa8z-tywhRNhHQQu3r0SsqyNkZjJNHVjukwQcNc6pZ9CDHtwuEPEdP5nBzSuAv5X6pjiKZJ-lnFQUBKm9Mx7VzBRLPvPRIQawIKVS1YFMqRJWb1uGmbRBoUO4Ax11QO0b2OyaXixkoT5PuwynM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ3-_GYP31wokRiNI5wzBJK-8",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBdQAAAHHvlkyayDRbCDtDAx-ZR9en-GQpii28tAOjGRyPKFmRLOw5Ewleu15YzOOpoV1fwYHRxtnJX8NmeE1BBYshyP3v4LCAOrgvq-hcfzQx08ks19na-iuLVe4ibs2ff08rvO8RD3VVw0FYOy90kWFc0_K4_SiPphE_1EnkJeriDKq9EhBEO7sYiShzspTQrafViolIGhROiKonzZFjWBvUp07vs6SYxbf7-w",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "355 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794606,
+               "lng" : -73.93571
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ce78969fe281ce8575e928b29f8bb6935afc263b",
+         "name" : "Holy Tabernacle Church",
+         "place_id" : "ChIJLR_7iP31wokR1x_7uLRCc74",
+         "reference" : "CoQBeAAAAEUByMqbsvn5BwRuZJIJM_lILWv7StzasoiA_VHCVLJq35nM2FWbOrK8ylw8ATxRA6ogl76fiwUarjXrW_WcEdZTLpuZIs6q5EKzsI3po6NDSmqzguxyawbXDFD9XbvZlqOEOQklPECsKra2sCiRhXcp3EtVpHrGhUh3lqREmVhaEhAd1b3ilLfSUst5NMdaePx5GhSbfuX1noykes4mjh4VlGNd3CU0Ig",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "407 East 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793457,
+               "lng" : -73.936796
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "02b0c679738882aa9163afd9b3c3e4b1cf7b8a37",
+         "name" : "Thomas Jefferson Pool",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAADG18KV4VH_AyQhA3aKhW6XtIYNuvgYjYZvnRSlVwpD3mTcn31XFfkdHnfsgsYBNzlIiZ0jpuVHT2lD0n-Tru4Bmi_B2P556-NH5XTMiVmFWZJwXT4ck2t7v4j5Zkr4j1s_mvx3J1TV2VXVIZYImXZBIQrESvDZsYGqDAc2XOrd79DBoUMW32G8dpD3e8-PcT_sGLS1nor6I",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ_e0JSQf2wokRLxQQ-EYCXrQ",
+         "rating" : 4.2,
+         "reference" : "CoQBdwAAACzZJbnkps3ASecC4tfJZcFuBptjM2bJuI0LSrKkmuj8rxyocQy2vmlb2MleC5x0A7qwcXpf8lhAF13gUFOI1_G869W7XCUMXLgjAgOZ1IioMbo84X6ja86PcchovtEDrAzLHL_Hx6YD98P7IctmlGj5ggHiFf7SLRhnKoBekX4aEhDJA9NrszCSUkuRsZIQJU2ZGhQDVHzBMCKKJ47ZKwaWdN9mNQ348w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2180 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAACagfNtX2PDTfXVzFnMSsCusUUNWsfjUpXJV7yPy4kpamT2rBUyt1PcDu01oUoNcsBcSf2LB23IohBJwlQmSCpkhpPwr7qUUemYyqRXNUF9rSWarBdO2aslRl760gB2wQZRXUQweG7E9xBl6PhA3gtR8-nPhrYvI3divTP023Q9L90I8RfF27ZfGJd-TIadwKRIQqSM0iOwnDrCw5kL-7sBsCxoU9nu8rAfHK6YVyyKrMBLVGzFCUJU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

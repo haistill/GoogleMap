@@ -1,0 +1,292 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7032775,
+               "lng" : -74.0170279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.704894,
+                  "lng" : -74.0136024
+               },
+               "southwest" : {
+                  "lat" : 40.7000801,
+                  "lng" : -74.01873929999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a8f7cd5fb125ff557ce926c7da8920215eb10dea",
+         "name" : "Battery Park",
+         "place_id" : "ChIJraKL-BJawokREpxDmF5GcL4",
+         "reference" : "CoQBdwAAAK4QcRN34Cy6emZhDSHXdphWqNKJjPyz51jwNUl-RG943j5YKqok9g1TW6fJWYrUXQH0CFDhV5cJYpUag1HaBm21ZSNOgyW6jRdFXrMOX4oaykkR0V0zK0IpcGv0nu02oUuko7xcwibIp4XU23W4yDbqwUTAAqC4kxOfNRc0QlG7EhCmKGSP1NntKpPpL1r4eOwhGhSKZGdsS_JuUm6NHIgQCwNjBOazuA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAIYSc7DqxQQ2tbzNCDW4S3lMgx6V43p7KEwv3Qe9fd6RwAGKtvMXrXtPaEaZWimNqKURbcVOdI7qm8WemdPwPQ4DPTzD3X2f_UW1wHQb4m9ojitdJQ1Qxw-N8QMiyLh_f0y8sw1PJVAv9HG8KcVorJMrkXYkMXjq-IzIVdOvUM_ctmjjJNDN17hTrzBWyegJ6YyJP5qdZtvKDlXu8ZQRk-QSEEMHXLu2OSn56Pd6diA6REYaFDa2G1BpgiqVrarDimOZ3hZrynsj",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701441,
+               "lng" : -74.01514
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3e9cb71a5dbf0a65855fa29bcbd547f390f1f473",
+         "name" : "Battery Gardens",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA61k9lr4FCNeyHX5-ZTgCpoF9zQa68I2ca7KMBipzuTp5ZLKiWXbWxLyXR3XFyRfj2Tx1SHAhBlhh-v9jdm0NIkcgCffBx2o-_KeKypDWihyOZcfPbNQbhyVWItbiQJjt5aFdgm7ZyG0K61Fd0-sbQxIQdgWaVdrZ9hMnwtoshCcOuxoULd-eZmJh-tujZNFcTLvFotDFC5s",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJTc4_WBJawokRzxgAciUDTwQ",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CnRwAAAAj12yeqHSpfIEzBhzIJ-7vGLA8ekpBflG04S_I0j5HD9AgRpcHAUIwj0Yq2jO7ZwyZ8zJhwM8kMXwgGJU46B623UVhPR5qs0Sehl8O_eP2QMQMHORDy_zB-o6FQ-PvZUZT10q5owrMTCvHAOizdOa5BIQNvGGmdxmVwwD8mKiRvzw1BoUe11DjNxENMmi80Gi6L88fpea98Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Battery Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702563,
+               "lng" : -74.013696
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7f8d793c1dbd1a86415129d392d573244d3e93ed",
+         "name" : "Church of Our Lady of the Rosary",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAVliIgFOljujDRjS5cNctPoh9HEoQaRC2Ry2ueYhNWQuF4SaoXhNO8uPdwWgD6CTQtPmF9LHgDcxTcGoSRqxFlZxwUZubjK_iAvyZfQ8_QkaukSVzLgOirMGPX6Mo4JMiiIm_XIfZUNOaF7bhkjw_rxIQ7QtQVhIQFYYevRjrW71ilRoUNf_qXcOCDnHI6w9EXeVdAeaNQ0o",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJy--QdBNawokRNHYekFfb5z4",
+         "reference" : "CpQBgQAAAPNG_dzvDlxhPOBU3nYIsF3tj8YOjgzPX7jWsJkG7lIU0DLimLcmw3WJiVM3f5wOIE3UlolJTVlhFnYIHDWlJ9BztAqn3vpqMlGXqPCLIEq9-y-igFC656DqUvEGpbfybf6mEqJ9ooltLCZ1dHOskZmeBfJnmc-_0WwoC6r56YRxTqURv99dKc50mN656wP0yBIQgHgycoCsuBiLIT25z2mtNhoUdzizZk0qRBAUKGfzVxDJFEo7oAU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "7 State Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702151,
+               "lng" : -74.015845
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "75bdd4f3e0fe776a84bd0f8b619efca6d356c41c",
+         "name" : "East Coast Memorial",
+         "photos" : [
+            {
+               "height" : 1135,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJEyWNN6kh9yQC-q9cbaPTwt7yvtzV4YN6tRhmQ8oad5ywvBRtD9GKiKguUpjd7mNLbou7gevejz-swAROZMK19yGLDxQcZ5WgMhZ4momf9upyN_ng5sb-YCM1ikILkxMB_oxLNp0WC9qBT63WKdr4RIQwjQe_7cc-gCD_NNYEBJaKBoU6Yq7bEfAM3YmDEexUzlpv2nOMvg",
+               "width" : 1058
+            }
+         ],
+         "place_id" : "ChIJxef45BJawokRX8SLfYZaDnE",
+         "reference" : "CoQBdAAAAEZlWnNoVHsDgoFpGzHtbzeM7YyKmC35egZ_GwxrvMIXLZG8OEpAyXQGEx0K5ZFzk1Wswd_g7TJQgWUATlmTdS3QMnAJegyQK5T5WGlNUYTNhHa4KwAVzVXMdhaKacWA65KsdxmdwYAwgJf2ZxmzauD3WwEzImMCyF_K8NLk0vLEEhCN85Ytj2R9JGIgig9kkGYzGhQ2ZqqWoi2z-BN_hX4oCPp1B-R7rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "establishment" ],
+         "vicinity" : "Battery Park Underpass, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70133,
+               "lng" : -74.01308
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bab8687ededa9e58bb0f4accb51732b7ea607605",
+         "name" : "Central Market Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ6zRHnBRawokRXl6oLZGMSDE",
+         "price_level" : 1,
+         "reference" : "CoQBdQAAAO2dAEHI4o01D8IxBbmxJ8hR8Mv2oWfkP0Oqjs7IScJLjCN-jJ6D2WIm9ZiGwYhp9yBOQjTk2cxqbJubdP5Sn3mu-tmx8nOGo2EkoPoa_iskN0MKz329Z6EcQUbzlrjd6BMe_gTeg_a7tfrQeGoX9tgDsKV7hLEEKYGaYAPiBQ2nEhAvhXENg9gqHz0N_3tYhCOSGhTk_G5V9563isbiCh9428Q3Am42zw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "4 South Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702589,
+               "lng" : -74.013282
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7f5e8b5fdfabbc6a544b5fb3b136411f51752972",
+         "name" : "Source Media Inc",
+         "place_id" : "ChIJ5eULChNawokRrL7cg37jiog",
+         "reference" : "CoQBcgAAAAQE_4CVTD02kApDXUoZ2cOFKcq2EFB1snSSxbZYaCoGdBks_BpUlC7L5BiS7ScqW1BpM5g_KLFCOU5ijRRVMGNcJGALW0O-38vLITIffnw1FxbUgdgrbVpT1eK3CfZk0DM0iOyBMMVGEZGPY-kW6WgIIeZFWR5Rx-SaYXQkIAu9EhCjcro07kH5rnKW5t-9IdDIGhR3DAySU_gIuT4hYipFeX-WNRbtAA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1 State Street Plaza, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702644,
+               "lng" : -74.013616
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9f34235cf87b79670cbd359337e8e20831da66b8",
+         "name" : "St Elizabeth Ann Seton Shrine",
+         "photos" : [
+            {
+               "height" : 797,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAPhHqo8Dh-44IMc_YIOtKRAa3nPjCy7GkYFd3iRukVW1N-FbGPX34bumcfyjH-kz12NvUnKBEHjNStqw0v2mM3a7RQxqN8QPf48bAeQ-xZL1bcsMKJnM2-2-_l3rZ1C9EE_ZLIHrg_K65Vb_I0CunLRIQixLs6wXRJEeN8lQD1RhBURoUIV10PSkntxfLBMYUtuETIFAsjM8",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJT3KodRNawokRyl98mTrFgT0",
+         "reference" : "CoQBfgAAAOtWyw5gU4WvhCcgThnHWI06CFGNuioG0oZClmKf3gBY4biuTInrpuv3hub9qsCk07eNA7xq3yUL025vwpamwhPd45XhLm4g0TtnEfeqFHrj35bJpuuuqHnUpdgBb_VGYpoahm6tr4uAy4z-SAXMlbUMbvWgqRDkf5ex8TNGfNoYEhAc__h5DIqAj4gt5mOwk8iiGhRtP_qCG1f_L_utfNYoAhBgxmNVkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "7 State Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702657,
+               "lng" : -74.013364
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f3cbf81b4508ac46128a9cb3c37bb60ada83e67",
+         "name" : "New York State Banking Department",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAVg6um5-EVxYh_Kl_GCXcQTUc3M5riYUbVwBZWotNkZ1hcy7PUajuO_hGloER0yss8UEjhAAWxYPmifb4I4ICZxl3ozMm-BKOkR1fBY1esYfMXzZQldeR8IZC1DLFlNd20a2yQZnF3OIBAvxJOVbeuxIQlAey9JnhDFMwOZI8KgVu7hoUI2RLjElg1FitX4odPqkd9UDgO6c",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJE9abeBNawokR-5hSAE88J84",
+         "reference" : "CpQBgwAAAL9TrsjJlVJJVaSE7F0UfuJt6c4wyYFyXjrksvuWav43WIFaw3cZLzWyMVXOsEaqSYKaznrZ78uQCZWMlsdHyP5sGGK0rw7K3NVfVi5v4x9kJP2qzww6mLAyCe2aNGweSraUZsX74ovu9DzyBRmBa74Y7m-gWwscyrM_iLTxUTkGd2Q1iWHK1dG9Vfk7ePt6JBIQ625YUXHct60uJ3zW22diaxoUBcNGWf_koHaBcM4a2ymSK2Ds5bI",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1 State Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.702605,
+               "lng" : -74.013355
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba19efb4a707ea405c7fa2fc57b68644875dc4f2",
+         "name" : "Global Knowledge",
+         "place_id" : "ChIJzR_udxNawokRe6EtRnXrKkc",
+         "reference" : "CoQBcQAAAB_Xin3Zf4OcCtJLbkPoaMpmdtxufPgWFeZJGnectwI4eRVaVF5S3NEs-zlsgRjSa1LidQgM-J7zC6ONt_hXAU0GIKRrkuiUExJ-tQt40x6-I3Oot1f8GVBIkh2dST9M1u6u08gieSIB9U-QKzEXYddZ-6zGLpSXBrTPw3RGHcfYEhBrGiWz436cbjXPh70FPbM2GhTXmwB1y0Q0T7mbi8_A0SWXj7iC2w",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "1 State Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.701114,
+               "lng" : -74.015488
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "d252601e375151629be27982ec7ae561dba76a77",
+         "name" : "Clipper City Tall Ship - Operated by Manhattan by Sail",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 330,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArVkRLjkE0Trz2U5bPw83EBEFpsuLhAH_ISWMVvxFs39P3FzznJ70CO7ywK046Ga4qbUT5Q1hrFMm3MB0SUNnLDtRTz6y7T6X-y7qEC27IYPgQ1-_qz31qMFU-HT26dKugOGvfbGF3ha7IaLfRHadDRIQGOkbfMcGYylE4hxbznk4LxoUDQ_Jp4jVvRcesWfU33l1VSGUruo",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ11ryYjxawokRCeyhGc71_rg",
+         "rating" : 4.1,
+         "reference" : "CqQBmQAAAJlje5AwdPGlszPUDnrDO8crn720-_zQJnM_ts5exTQT7cNIRkLVzcUmx-382kmxzlncPdTt3LBLHV_ohAbn-Pjw7m9hAophcXMRvc2eVVBzddt6RNfUnFaqS9dAUY45DtdJiH9MLSOCjpWYo4TY9GrbH0xqq8l_4YkOduCzg3he4JGv7E07cWSZFg59a5NUtloLve4gJ2sUNk0zdBO5Hc0SELvgY8pi5b9Pu0XWJ2YKf8waFLG3RaeG7BcWP2Al8ZHne0C4-ihQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "Battery Park, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAMy6Y8lIxBn_7-O1AQigm4_5hIh63UGcpbefd8FpU1zUhxa4S0tppJolbxJHaM7jgIv-MryNA6QV5jnGcvCdQ2_C5AmhHjTwLMrvtXrmXlZjJAoJ52LS3LWbehn89BPWL58WpShFkfzmOagmpE4qr_qnGk50EDlM3VlLyLcK8-nGEBGpiYxPMDrtvXv-jeP91BIQWiLUHIGLiKypggYjNBHuJxoUgXeKSRNZKhTlpcht3snaruC_bMk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

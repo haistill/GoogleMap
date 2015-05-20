@@ -1,0 +1,556 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAD9oQGus9KSLXAfVMzegnuYow6bqJwxlqTbEItql9neJt0E27QUXSvNLutOzraP_BtN9ObdN6_C7BqIuaGDndn6SYJTt7OuVcIZTJXVmc_Cs9eBVsgGZAdMCJi157arHasbBHerE3P830JABzt7soRuPr7Zjfx0cTfW75ALIYR6qN8NI8wg--4qA1w2-OMlVmz_5k1-NCXEfD_GA2nHDvyLiQf63prkO5f7Iz4IfrQHHcx3eQAx_dYDunGICmK-DwboT0eNOaU-05J6_lXeQmhXJqHEi3uE39kGeFUfyKnqLYEWMe8-iDQnHCJtvnJ3F3BIQF9Z6mCqCmfChIoZQ6Tp2wRoUvGIW3d_6YhSIFuFlBFO4q3Dczfg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAKKroGF3_njl4Q71YWUiACrc_zyc2ADJBTh1YJdkh1RhDteQP6p4xs437ex5gG4TI3qbVl-qQJ3Sh2EMZbYHyv9G5RfcVAWQOovANuhA14WEX-RN-YDp8fD9XKcoeOuh-pe2Vtsg9VuORul694co_qvyxZIJC_2CqlrnS77VdXWOCxLCoO5BtQp51PHaJ8hz2BIQ7azwpxMYowSrNbdWA1jjYRoUGYUx-PfXQrpfoMRydPfo33ycPqA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802946,
+               "lng" : -73.953575
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b92de5b27ced1c4e5a152c5512ee4cca3a30d504",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvxA01Rb2wokRIXK23B8IEN0",
+         "reference" : "CoQBegAAACOiLD1ws0TLLnMrDQNM8US7VSXImGxUNFzUiWjW8kR0yP1W1l69sjHLtninSfcq5Y3mxyBc-wiONT9f6qBmAjIDbEsaVFQQdcM0r5BgwivTl64VOBbybPDOUFbBZJALkOnKuT-fHW-eiuj9Q0zieB7jpe_BUb28-kaQ6z80_jLHEhDqHno4Clx1Z78W8ol6RBs8GhRpnQZt8dq_T5GtmxPhSnf46hSpzA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "203 West 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804723,
+               "lng" : -73.955382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2a14bbabc5727256ef92f9e90ea893b3b611a0ec",
+         "name" : "Harlem Tavern",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 467,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAoh3HZ7wmMU_kw8QmfpAIvnNah7pcr8z-KwabO0zwP4KiodA_gMuT8JDTa27m_LD_GmIbsSZzoIEUl15vXGJIzk5LBtviW1c_DUvuo6wu-oRPrq9P_xtCnUncVDa7cOLYlC4wied7Egb--iF4S4W7sRIQBcFDLvkPD5LDWENtAg-k2BoUPb_d5_OrtYp-irDOqA_bV3QYh7E",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJZ-Drlhb2wokREuV4YeyyZcc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRwAAAAoevWczrng1mfoIcT1q2unw8mG1zpdxD41AVjdzh1NaGKSWJ-EOiKCd_-map8pqAOnxvGdKxvpQIt-g9HPFfkue15wza4A39KZvOcV9ZVOltqw4cipqDVoh9FWNSxicqdtHBRY-3xpY0557adIHwjPBIQlaomw9TPTw2iqosFdm373BoUTwSMEBHqTHBhCkG1Em3H_A9eSLA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2153 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80231,
+               "lng" : -73.95665
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0c989f8313c96b15be56f42f089f16e8a611ac32",
+         "name" : "Zoma",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4wfmVvtJlvoIgnWDSzgiBPcXQ-bkysRxeOpwwLIIjopDB6bv0Oie57jE6NNmz3yxMgdZRGEiPoHh0Xk9kk32QXen_DeWGnCOrw-9Ld8h5jDeJ4JXSS25xb-uLSr3CfH1Pr7BO5WzqG2CDJ6wM4dIhxIQWMKTt99rx6JK02iJGOogtBoUB1VG2Jdytm5mZoOKVxuSZ01VMuE",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJg4kAChf2wokRT6WHbvCsW0g",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRmAAAARa8ycEB_asb-zrhGcmDr9ZLTw2l6_7FAbQxHjdSKjpevkBGhhV4hIEqONDVzK7-TV7nSubMwDJdwf0ctKAf_OYiTCFre_GRTNC0owE9b4A7tx0S11n0VO1QAfUx2EgfBAA9isEDR4eN6ywPy1UKYzxIQfMXB-FXvFXzlzlM1fXSzCBoU8CPgJbaP_hgWUSvgJeICxx9g2Xk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2084 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804915,
+               "lng" : -73.95474900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8d6b1030b8d173748d6f1606550428b2fb029a8f",
+         "name" : "Lido",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAL28kaghK3AAUd85Iw-Bl749KBH937pCFDUsP8zAwXa_dz_FIIumbEhVRnU__4Z96OE92TurQOB0DbB2jrN9J-syrijf0XqJi132gNT2xfXnDgwaWOUkUcfu1PgfrmYNSshhVWXXnaDJEhpSlKMOE8xIQsg-fRAsQ0YRnNiSy6S-JQRoUrPuItKQzuAvoL_o2sB4rDIk8Klg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ2yTMoxb2wokRixfwCY3ltok",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRnAAAA-rFAQfxfBj_tqIqdYNO7OkQDr3Z4XgZeSvUNNIMV9tI5LD--L-hJGZ9S-IKfcSNmOB02yNKAzO09w2vGJmcMe9Bo4fjX5_IlVJdIjYSO2ZgQl-ue3IqSEUbnopydDimBJ7EKTp9jBv3OPCieoHvAnxIQFYHnyBUuFagc4xVfrPxOLhoUN-wJ6028NgIBrZIIDCtN5ueItMg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2168 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805117,
+               "lng" : -73.95459700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "26dcd387accb7faf2c09a17854954dbf4f164f18",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAArcwMOCnLMRLJKhLbrethla_SxVHiZlYwSi496RDd18q2EiskZcEkbwirJv_12WHsOm7PSelZVH3kCsnsX_E9AEFf2xBNCMKo578UYOXeIS1bpncxwEd2YoVb_6zXlZKq5TjUKCh8euUkIGlTvEYvhIQXZSNAxk_t91aoYcOBquxhBoUrCk80Q8qp6rPMOpTqCMJ4SqvF_g",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJM2fbqBb2wokRTfcOBat_JYg",
+         "price_level" : 2,
+         "rating" : 1.9,
+         "reference" : "CoQBdAAAAHKYWinPcTdV1J9AUXK8jMUR89Y0NvCdHjPpNVkKR4y51bRhkVB5wd2WM7P52N2ePh0JEAOV4FYwdf3z_ZibWY6I0otidh0Hit6NA5OhqA2zkl-HWsJvx0cxldOMDucIMZ5zfswpf5qor9Ci8MFL-hKXXM_oIh91zqPT-5o_udaBEhB2TCtf-LN6Vez1TwO-IrVPGhQIThM4OiODZSmCNxsUWDbc6lCe4A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "2170 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805041,
+               "lng" : -73.95518300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "917ab644428cd37ce9652048c87e77825cf545a5",
+         "name" : "Levain Bakery,LLC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeHe4jujWvt30M1yYXXD8ZpOEHEr2iJoJLKd8ADsHPh4cMZFtc5tO-XPNinUSRiaDygDJh54-6QT9B99ssh0zhycPfzyuvf7FfQvvAA3Xl3WhY7u9HFGRPx81UY67KxbbQn38FaPfBySbz25SW2u_CBIQESapaalFSk07JU5ip2u-FhoU1XAFKR-3zKVkpK2SJeFdOfCl_gY",
+               "width" : 573
+            }
+         ],
+         "place_id" : "ChIJY7miohb2wokRnAnnGGFikog",
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "CoQBdAAAANIf6FSAO8U2Hw2zLvcYGTpaTCDlQhGTz5bp0iutjLOuu6-3kQcdXHkxmv2rExqkvzfT_6P_LvyS6LhxKQAt8z7gcYrzeZfqr4Y_gh2bx3W792NiTyYsdB07wS7jLaaMqLBzrhAw5ga-fJGPeN6NtHurxzI0WoXiuEHoMdZ87HtgEhDK6kY2DLq23WXQoWkU_TuNGhQlwmdKtW3j3VS1WdbCV9evE3rADg",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "2167 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80251,
+               "lng" : -73.956504
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "20b6304ed0577c54b483385ebb762a604a8a74cf",
+         "name" : "Atomic Wings",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk8FE3RUgN2FanFHbrEQrZBUkHdYZGpeL-J3s3wkOpn-qiwizCdHYK4RrIMfv0XIoAh1WQniS630-R4ZsnkgQoREmMp6U-PIy3Etk-NXbC591KL2CywveQ_dlK6LbI7MnMpOUyO8dwJww1oZAMVaQPBIQnDYsqJ4RD0uN1X8PW5xw_BoUkwedJu-GGVtMk8YwPb0YJ-6997w",
+               "width" : 920
+            }
+         ],
+         "place_id" : "ChIJxyaJpxf2wokRPtYwPYIkTo8",
+         "price_level" : 1,
+         "rating" : 3.3,
+         "reference" : "CnRvAAAAWIbCO3tENNL_1-stx1s_XNxhEfsjLeed56LDt086gsRoyle74Lj9Q-W4s0Pfg_hnXZa4O0rpnxCiupJVMy5Wesgc7xTPX23Q061Gz3LrI-DiZe-XgASR9icM0IMqkZ3o3cgMHUEOMewFyf4cVg4XkxIQ07AWGY4jUkeM3nhUYw59ShoULoqCv5o65NgjB4wi9vvOHeUn-Vg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2090 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803112,
+               "lng" : -73.956598
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "be0e6b29998306e0c856247f263df0f0e1201614",
+         "name" : "Melba's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBegAAANcI223kXkQw7fAPOiL-FR7YBsxLRJGSi6ueQoivcxvqFuXkYPpr2QBIs8SDfgS4g6egrpzlwbjhUG3Fwd5Ufha69uuxnA68CqSfROe7p7uYZnLCyxi6cBKr7kfcgmX8SJPPKBF3oY1e3Xgo-bRN1uffcnqugQJD0c_qKIR1ZzDYEhB_VR1x1yNVIca1qutFrkA-GhTrUev7eeTGR07W_wOX11AMqwUVkw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-bhM6yL2wokRAtIoWi_TL2k",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRpAAAAXQaSWvu_sdsKiFnGjcTmywFA_mw1Y64DBUH6Nmn0EDj_8ZJpmXVOHtnD-1wbeQekc4SBthef83Nl7uIX5_oifacFsJm7lHagoqIki8iYYNVOl2Bg_-HekVwjlV6PbDoKPEcDoRcAjSyKBoHgc4L54xIQ5ubyd-Tq0IRexTdZeRuY5xoUZi9DBKFdJEOP2gb6U17OYl98fqk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "300 West 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803563,
+               "lng" : -73.956248
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "23ce4bd5dedab2ecd949eba76d502391c793a199",
+         "name" : "MODSquad Cycles (CLOSED)",
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2MdKKtx4tzD_PAqpRqjQzitfUGN3KzjTlJKs7t18T_96pbA5IDXCuD-gGsdK8ImJJQcjK_jB2MavI4oWOrvKT5oAmWLoHRUHXJQBdxyUKvV7se3KP-HCe0rQRHfiOakKQVrSJ458DcjJDJx9brIDXBIQK1mnO1KoiGGG-6hSrW5SXxoUqR5xzQqbeO2bzMP1JLn-M_xTY2Q",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJR8X8-Bb2wokRL3VGAz8IklE",
+         "rating" : 4.8,
+         "reference" : "CoQBegAAACnoDN_ff4QYG3HVVUYmOpNomFDe84hbu_TyV7Zk40JyhiGLs-d8V07S6bvjlbTHhMVKUqQySi3DAA9czmL_aWjRlY6hKcycAOrAIWpUbhY-aI2IZLgcSZ5TdIOi3z9G9-Y-E3hHkEoJLqYC811zMNmwXdBakrQPHc6cqGFl6mOAEhCePADJeDzsZmJGSue5YAxJGhTryY4-Rc-uZ3yo7DSxiyxC_t5cfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bicycle_store", "store", "establishment" ],
+         "vicinity" : "2119 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802245,
+               "lng" : -73.956695
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "34417cceac50e3f40f8d6bdc26f67a042743a91a",
+         "name" : "67 Orange Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 666,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAclwl43vDZ_IGvGdF_BGr4qia4hKeftEjW5NE-i02kcy9uvKgcPQF9BjcQe3W5Y6JFhc78TasmgSU5WFnsnsO1_M2CEajIPl6VjaSMvdwlUPdCvAzywxQCIAQtkDYy-UoE4GKSv3rqABmwOS5Esd7tRIQI8iwonjCB06Xmhdr8xdbhRoUoZ2mPLYD-Kj4h-ObGZIHfqHQ3Sw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJAZWfphf2wokRVNXHDA5l0gs",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CoQBcgAAACceIHVyP4OotjxGsEsSrfmFm16T0osmUjOOf4HuBDoALIburz6WPO0ytbnm5E7p4xHt162u4Dp-WjIU4IO8AImokoVd0PBYeYCxrfv5SlKWybrMU-IrDE1jzSB6TIe5cyQ5TYCM5MLA84AtD2jGvcthXoA6XiJQzIiHAuJhBEEdEhA-B59ea0GjAtxvXlGVlRM3GhSComiIY7HQwXEF4dDZ3u9IVMV9Rw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2082 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803144,
+               "lng" : -73.95601600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "f4a9bb607fd0409de3ae3e1eef57733803b42535",
+         "name" : "Harlem Skin Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 371,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeeSHGsrJzArs-p1-rkpyDWxONHZ0CVcoOPWZ1YDTiFzsxTgaF--ZzM4Ma93uh8QRhwtGGcJC_TrbCpMdfI6kR0uy3px7N8e-TAV8FqY7mhmqQfRQQAzrEk1HPtzhrpV5vXTVkDtn5xIRKoGNMCLRbhIQd4OymXWVl4eblQDtH2yLIxoUz_tEVBqJsUVYyPyUIrKrwXQCVak",
+               "width" : 854
+            }
+         ],
+         "place_id" : "ChIJm_Yo_Rb2wokRR9RkpekYUkI",
+         "rating" : 4.7,
+         "reference" : "CoQBdAAAABEJU6wMB9qhKGd0QpLeuXPDPFE0AvssuBNJ-9-fkQvYP9FIFwv_juKr7GS6Mgd5vvIJ7KPMJeLWGTZFsGPQIy688Iyu16wJfZAcZ3l89gx9xeUQqco9EiulY4ZNaRyR2pVr3__g-T3nP-YI56Ek_tirpBUpioJ_zYyur3UriSPcEhChQ21WcHVXLFAerzMNMrpUGhT4kugpkTdjeIi7JuI-uq4nJzVWnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "health", "spa", "establishment" ],
+         "vicinity" : "2116 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802523,
+               "lng" : -73.954559
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17ad36aa40abcdffdbb8e3ce6106f65fbfabc784",
+         "name" : "Wadleigh Secondary School for the Performing And Visual Arts",
+         "place_id" : "ChIJ1X89JRf2wokRLXHRDVnj1eY",
+         "reference" : "CqQBoAAAANYV9AJL3r3ro9BVbLzJajlqAqMUyxZI3jCjBMkR6WYnprOUzEXmrK9fYzUUPvPpSVPZsv3-4IYMP-2ErKfxckKi5Q-IZCSVax515M5jPaWrl__YZ6krkRXfGM249f3E5_eW17XmL6HpniO1ENTC9TsjxhLCKQAHs0UpHxllScXCCCL8p_Yat8fDB519DjxxYoXgRa5m12q7LKF5OunEFtMSEB7mbi-OU3Hsffp_wOouKIsaFLCTcX8ezsnveha8lERhdAMFxgox",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "215 West 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804028,
+               "lng" : -73.95498600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c4a698935c64591c720dfc99c65b6fb42a01338f",
+         "name" : "Food Bank",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGUOTwRb2wokRJNzJJfqZC5k",
+         "reference" : "CnRsAAAA6y_qAIzc4TNDlOedYCjCVyQ63EnpnXTrfn4emkxcQ5x_O8dzHLBNYa4XpHamg9OGXU4tbCWOqL7tdWOxxyB-meqCM2ptjjKRkXuh5fIhxZFnCJABolXa48sv4LFDDLuxCpz9Phs0T1xJsG-xqyFSBhIQp2--TC1UrMwV5qaSD-aipRoU3V_3bAFS3uNk9Df17aD--XtPt5E",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "health", "establishment" ],
+         "vicinity" : "252 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804453,
+               "lng" : -73.954847
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "816b334e50e2bd49e6f4cfb04a5e35bcfb0506f9",
+         "name" : "The Winery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJ48g__Yz-w0pWRJvQ9THQN1AKw7EmCSRWJAprIy1P8xUIx9kPwCdTNb78iCpvLcxsmhal-I9QbJ76GN_O5WEGxYNh1Fxgc51AdsurVJ8xqSslDwlfOYgD0olRb71fj1Xuido04joDGDo2rzz2VtImhIQy0M2hwf0hBJuxjsSYeQeWhoUKjadbwUffodf7-Cwr6AYTPQQBpg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJRXbNvxb2wokRNFOnQpkknEQ",
+         "rating" : 4.5,
+         "reference" : "CnRsAAAAN7hNq_3tjlRbOW707dc0e3cbEW5PeAkbSt4haT_j-OispGpY-sBVQ8_XhvceYwxpfZdbi7VXtAyhT56lVyq1ywRaRku8YKGhe_Py71CjWM_ImTY4dIqJhtQOAWbv1TawgNoCOOQtmYejXuckO6utbhIQplEA7okoQk3B1jalf5fwdBoUxziS5xbRakee4OkWEQUtVFkqTlw",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "establishment" ],
+         "vicinity" : "257 West 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801941,
+               "lng" : -73.95691100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c358d0d1133ebc746365dcc2de347252b1ae19d0",
+         "name" : "The 5 and Diamond",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3Vw8nxf2wokRb-XJ3_vSQtc",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdAAAAI4bVWH2znwZWKECb4izGBE2dJjYJxVG2_rL5nne_EH6qdVpi9dkDpgB67KSeknP-buGY9YA6MHHIIB8CCDJFv_dfsjyNqVhWzzbW25W2fU9MnzEJVfnLRRATRsHmJ1TOmCbMj46Npyhzvu8z8AZUmBfF9mIZ4J5iNt-ynvcq-C1EhD5XFJ7b52T0cHbjqaUBuR3GhRpfDRZTKUKasvDHx1fa2d4X5HhYA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2072 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802691,
+               "lng" : -73.956594
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6ca755e96fa79581975370f9335026d6ee2a1de5",
+         "name" : "Bier International",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaMitHNw-JY_gkOgYqhYgRvKuTCSYN8gD-AkHIWSJzMi41Pf_tDzuwhlJptgmDys0nKh6QdcLtCS6IxbTMVo4WxyTj2Gp4jIOEkfgaNGLXIv5xmT3qgGv0xRYDSRM7uP0rg1Lgi5-JHH7PhamZLhCKBIQXDJfktW5bSnUet9HDiRcuBoUS66wqLtmPKV4T3vpn_kzCfXii5M",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJZ4fnqBf2wokRA4eVq-IocCQ",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAANRYLajoan7qJxUGdoEDCeeesGyPeQ_amrDjYFVj6ikzm0oJ7JrgSnr-G7lHFF3aZmAwZDpOeU91AILYcdpK5AqscnGHnaYXO-3kXq1rm0gM3npS8NlG2UVIQq6YTshgRAehkV2rv20iIszIsR1VJtb-Z4QunUU0VoKdu8_xox5oEhCuHM7-CIFNQC7Eu_aNccUBGhRHb54pU0aCNmpFinV2Ywzgsj-LkA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2099 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80179,
+               "lng" : -73.95674
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2ecb65bd9b9499f9c358a15b2e8ee8c7c62e1eec",
+         "name" : "Uptown Veterinary Associates",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1015,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk9l5C13vsWNLg4_l-Scr-90OXWRoOyiZrJXO7v5TXDi93_l97fn-EZFCYxGJdH-OwBEmV_Tgxw-sgIcDkqm02Ny7T_r0k5-oN2DFyn5elZD7PGOhgTwsSTbe4Byb3JPd9ChdEWV1K9Y7kdQvWS47eRIQXgYTZuDPVV0ybXbCg4TpaRoUJnG8o2F6t8DLHuWmf0RXH0t9zaQ",
+               "width" : 716
+            }
+         ],
+         "place_id" : "ChIJQejpnhf2wokRfpHZaRJl7fI",
+         "rating" : 4.3,
+         "reference" : "CoQBfwAAAFgOB8BijyVOTQ2a_iRKVk3FqJiNcSiOSa5Qw2HAZfUQcUKf7JkyoNmw552UgdvdfU6E19_AqQGT8rHDAdxEuhzVuJJJAEpl4dbpCpHr2GcTpaXMG4vsObbFFa4TAjjPeqnTy7hx153PqmmWl0m8sAoHdJFBKq5PrKaxnkBZmLIFEhAEuEQP38d9cPnsvC_1JMOUGhT2CWZhsQP7qYmikXrsZgj4rK_zJg",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "295 West 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803313,
+               "lng" : -73.955899
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e24eac2c13305827f78ca44a75e1a24f7bd675c0",
+         "name" : "Jado Sushi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAE3RuYnlwxigZoZdMI8XqBEBQ5f3FNTmw15nKdLp3HpLuRPawudDUmm3TzTDWmwOuX8Jj776ReQmxoFFEgcoG-Kryx0rxAgpK6qigUpThV-YKY9FqaVFduBIs0P1QGcR9z3rb-LBcO8r67gw6WQNUQxIQJzy8yDw8_8EyMrU8kgNBBhoUACx64iGNKjFOhyj8O1KXrxlyZAo",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJgTnN_Bb2wokRsdtJucDCNUw",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAA8UhBVju4A_DXK2aJnGjlVX6LmHm9Uuli6Js9E0XVu2jaulUhc8UIhj-SIl1urOBNf9v12SJRv_W9X5zMvcQUFxW-wtr5m5bufUXo2siexu3YB4Nm3ZFXjfTDxJOUa0wgbVSAWFAM6Xt-xAQT5KNR-xIQa0nWd5e7Mb2E0nYqaFWCAxoUMUcR9v4csviGRYmB6TB_M1YGu_4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2118 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAMgTcW91MYC6Kx3jhOJMjNnlJiPhODtM8xbBR51hQwRZ1ZUI1sTCMJPTBjQAJkfAiTNyuhkoUmXCe9lieSPl8TNVx7a_0VCNMNgUHjL8Y-A4pUTCou3un8BAv-JYhL9Brhm3P5f-UZqt4-37o-c5L4fN6RiT5NsmI379V7-KeEzFO-VEHA36cE9h26ZPqsbgPxIQJUsE8pYDRfObwuCxFr4BqhoUwRl4CtTgBv_1sWm-AFU94DpgMeI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

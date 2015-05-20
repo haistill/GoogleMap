@@ -1,0 +1,503 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAACXChj8J-7O9FnaGzPFnC2ff2vvncvz-Sd1MegUK0a4mk1prgv9WBOI4csTL_KKx0gWlOdl6lQCayuCdKWWF0_9Zs_C843HMEtNuTXSvty_HJN2_ToEw841Xkd4-CSNfaK-STif1KwZPOr7VTRMkIvixEhzEDIZaFZex7aQ_a14tMKL_IGS2BXMYbwGtTeziEvH9bfMGQnvynNqpNXJdKEeyva6_cNfKGU_tksZzMdiLzv6cdAiWSNuqR5hv1KITLtTio-PFfLOkGvrYqpcv1gS4G8ph3I86-p09lMOtRZ-5oqkvbZBdXqs57JdRL0qrFxIQeEXdmCPtbmqLSqWb4mQBXhoUDeLL3NmltwA1UVLXL2pSjU_iQyc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAAtXOE5APDUs7iyI20uQ2KZkUlII1Mx_6_dycTOLBgys09QC5qJZI4mdRbJ9Ax334qZnShO0VDhh4pVGQ4UMaU8SIWJxch6GRNnhLFm01QMPa_o6oTokqfexQSonaSp-3F9yV4sbSIsofv55649_G2D7xeN9WyvV3ztRPo2dpvaOZhnUb7Tu8SZtJ-G_FmMM2RIQAIcOhDEWAC89Gz-LSb2VMRoUTFbufcpvRImmp_JrDsurW0oJKf8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805293,
+               "lng" : -73.93803800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "e6ae46899126debc2a16fb218f20a7226413abe3",
+         "name" : "The National Jazz Museum In Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 797,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBiwAAAIoofrSPa9IGPODiinbm9fDaXvDFzTU9gbPwwvkInqY_okoL-FZPM7W_O5aVpHgEWY9JyDVQydypyqykPwZf6xjoHdHAesqX1Da22dho3bHrEAbMP2sMrvAZwEE_54i7fwCT5ieFkmUzixe3-KkQDywc2kmNJviVYo2RivNrurwMsZRZOK33CcJCFxqjFRd3mRIQwKND6c4lxy_nuL9wMQWVShoUUHHwnHzwMvNJMjxIXUlTiRRIK_E",
+               "width" : 959
+            }
+         ],
+         "place_id" : "ChIJpWy7WQr2wokRu9pDW9ZVPTg",
+         "rating" : 4.7,
+         "reference" : "CpQBgwAAADK92iH6HOGBq_zz8x9BLTMfPIemAeSEPJIjCfFSxsrkTwFE4HjHG-tDbXZl2Rnafr2Z55rXYvauS1uITfK8Bkfrpa6deA9doMw2STrUI0k1HHGHAYUVXLtDTDBV98Ll9CnqupffdynATcaIrqEti9s7OPxBdn6PAG7vpQIT2d2L_AaUOlC5Pm_fUNRXlJjE1xIQTuHC19u8cGPwesxhNAVItxoUWIfmFIleGcbXge6i9qcmTDSY5lo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "104 East 126th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804331,
+               "lng" : -73.936567
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "72ef3ea0c87093c4d0c56fc84e666949c3caf865",
+         "name" : "Department of Motor Vehicles: Traffic Violations Bureau",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAALXi046uikW4qDtu88TGFXDbQ4Nlb9jOkYOzjP-eoezyxRETYNMsJW-X4k3Ga7kNIkwOtgB8928rQdnhF_s7Tn5jiIzSlm3gRoDYuImsDaRZpPg-tSdqiV82VCdSmwmponwa5eMK3TXWimk7BhtRkURIQ1oqQN-9tUQAxB55bTX61DRoUj5-nMSI8O15Gu231o9WgIJKe7kw",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJaQlYcgr2wokRndKb1d4AU7U",
+         "rating" : 3.1,
+         "reference" : "CqQBmgAAAJIqEmTHNEOqGOMANoYyrLu3pwGIGi9NTMj8GVRzY6bA0dqDbW1wlVNep0cJOT3vU61JqOXrT47MbLByxGvlAyLy3-E7UwVx1m6fOja1TJyT-VyhwVnGJKJJg9-R51amkDbIwEfuTYzXcLGDCOJNcmNUIGMR_o9NUCXOECCna7zn9G-3tR4pwV4U2kE2BoSF51WMiEisdKqW_B1Ho9vBN9ASEIV9iHHx1PRI2eeCH_AtUZ4aFCFR8akdAos9Q4YNHHg7oTIttaQS",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "159 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804993,
+               "lng" : -73.93737400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7abbd7a635074d4629890f5fd4ab4f19bed90c19",
+         "name" : "IHOP",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdrK_Mu3AKnh3oFs8bMopkP-hMKT3jzsGO0gbbk6YKF6b_T4d-M6PYdetiMCprQwi1SGRzYHbmpsg5SAmb96grdtSpTZC9vBfBQqTf_TvJpinJtv-VrCAPhc1OtX6BC57BTy1Exv4F6WvJxClVJmNQBIQj61zRn1SOlOBpjMAw4-DshoUTiTvrycYqlNDo0_1C-IaBhmFOmw",
+               "width" : 256
+            }
+         ],
+         "place_id" : "ChIJEToXZgr2wokRll0fmZb5nXk",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CnRlAAAAZVoMcoDiTFkL83B4UWvd7XYP5RhCNqtMrxivjFNIT34cSt3vRhGAvSLDqVjlKrakJQl6o9Ty6StEPIHOvySbOX6NEJmRDpI8gKOmWybMdrc75p1_iHpHPSL8K0Bq1xAy0F66eMU-o1d0BZfDtvYE6hIQ7yb6iPPv_ya1gqfGLaWsoBoUvKyzfMCLOoFyPeRXMaOn-Z6yTn8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2082 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804165,
+               "lng" : -73.937318
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3455adb068925a6742043dae49a02ea036416a70",
+         "name" : "Pathmark",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMzQkFQr2wokR4mCHhILH_RU",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAArLfL6m37TLhJn2QzDvBYB7weZ3vwcvRxZbgF1ZDCF-HWHz2UjB7uwEoXvbYJ3j314KXsyt5SEemJz2XgXPvq5excelc3LmoKczaU0LaY7_5d_M1FbKUDWAoyIIKaMfZMKwGt9PwaeaLb-9JcNyOxbhIQY3WF2iahVui1hLIO0JP12BoU-xbSe0D3u9rsWoczzEPx3zoV1EY",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "160 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80401,
+               "lng" : -73.935931
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd63626682dc5ff992ea323b5a9bb04cdfa87fc9",
+         "name" : "The Salvation Army Corps Commuinty Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJIwRcgwv2wokRHA_ZO4VwaSU",
+         "price_level" : 1,
+         "reference" : "CpQBigAAAOHqg53pKrVl39AJpDUGUeWCK6sH9oYJNiYTofyhV_7lHrhiYtSOvWTfaB58-l2taSxdxzayoN3X4ehB2ybxbeO8RnQnpU9egPyqt4xYCISRNI3ymAqxdacyqh5_-bPphizsB1mh8Cmq_5eCUm6GWCBziZ9PgGGJCC8ZloJeZxSFsEIfDGvXEAiblq-yqhjwgRIQ9mCxV7cq3JcUDO2GddYoxRoUguHZ-fRCwzHYixDUohyJYtvAZjw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "175 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804733,
+               "lng" : -73.93753599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6a5f1bfb5e71158685c8ef5dba0a586b5157e523",
+         "name" : "Raymour & Flanigan Furniture",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-37YQwr2wokRW_eT-AWb5hk",
+         "price_level" : 2,
+         "reference" : "CoQBfQAAAOmAtQCigXDJCEpycgjh0tByvP0y0bvasHGHnm8qvVmOIBbDvPI9PM97PpqFp9gQr0nFRq5QLrdtFr5EM2Vs-uq2NtvmrdWJf77JtlwCEz7WHuEfM_GdfeJi3vOLcfBryZgvXoDCCj2E60YKg_ShiNoJw3V56AddK1WWc7xiR9cJEhCzw-ZQWBhMlx-3OZDPAIU1GhQFlUzEvjZ_UlB4UwmU1seFRaQEDw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "135 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804453,
+               "lng" : -73.93711
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c7f2c38e66935a04236958a4558df0f113e2d69",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeCXdbv23S5EEc_EdJ4yPOxufyGD0ZwymGBkEuWjGHrjuZS6vZzBEWFZOPTGN9Xb1MxNVJWzl1KWCursVltYhlJRbzlJfT0nfEvFH3wNj5_tBpRRukX1oRieKDRlFUczexObDnkqi3Sn-1pcDM2FcQxIQRGuap4yXOmH4VlEPfIXyPBoU9nlgWf20eWi30McwhRzmjw0IcSs",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJZyfFbgr2wokRzgFQkptpjQM",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRrAAAA4hf-BYZriuDa1TDnkyp1HHKEsMNJS0CDAjs9tY5ubL_aSdr2MMS9cLTfzdxNU1ItPyHUV3gteQvXGMmgqFSY9xqGJGmvwNNxTXKU0xLNGAmuxXb17pqL8eJW97hOqlL_JbLtuvWj1XnV15cmd9F0RRIQc6BB5HNcUvKlu1FL5W6j8xoUy2wqnRHz0yyZMx6UkP1i3umTbsk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "145 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803544,
+               "lng" : -73.93704700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fa3bd4aff24cf675def645a53303b5bf6917367d",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1ykdGgr2wokR-FfIKZ2uTK0",
+         "rating" : 2.3,
+         "reference" : "CnRwAAAAjcgZbkxEijLh4lPzHD255BCiQOlQChmX-wBsXIMjfVHqPOLuKt9gHI6d8yjurAQq3TrMLJH4L2cJkOTGnpT25ZrJ0WRuU7FVD5WAV6Iv-58h0PZODITEMOgM9pkPkhijqOsJ_B6spI5tDJjN-Jt8OhIQaY1uZI2PzsKiYB1PPqbVsxoUgIR25wjY9LKFGfqBMCPNWPW-Bhw",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "167 East 124th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802217,
+               "lng" : -73.936886
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "382b1bf71e351f3c55ce9240991690b83a24aa72",
+         "name" : "Pizza Plus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiY3TAgaXBLDlH7klYgSI9PFCi5lhDNpFyhR6YNscqsJmKdH1Ai4dELJsLNjVXVIK3UwG_JlS6MsmUiBZcDdZ-vRVDGdb5kp1m3UyXXcuNcpO-DWSeTC8lA3QjXq5GiFKy-Ei5UcspEBe9MaHVFqf8RIQbxitQRl6FBs_IySQ5Z61UxoUcgG7dYzoqMKsWni0n2oiaAgh0Jg",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ2_bT7wn2wokR8bOp3bCUrEU",
+         "rating" : 3.9,
+         "reference" : "CnRrAAAAWzjfMUIXPEf0JRRdjJh7qg0-KTXOM46Lgv7nODlmS_65iZM7d5mlyR2aAtIy3bAXrwm3N39P2E6NIWxD8kUL7wSlw5TOgrK6YnAiXlibfmQKKRI9KVxPylUccuHc3B25s24gBO8gos9xazLC1MCjuRIQvdiT3ijtfYgmbJ5aLhtP9BoUoMdrPD-KSgB9_QO9Bw1iXJlJBSM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2253 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803218,
+               "lng" : -73.934404
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1d4bac810b6d44e812e1edcb1ffa93c9f77f5ff",
+         "name" : "East-End Parking Corporation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-dsn7eH1wokRz3I_XadflAA",
+         "reference" : "CoQBfAAAAMK4xIAqEKwMG3AHs7PFBw7SKCIJroB890s9SrIA-D2JJhxxhUkADaQzyUVyJZ4yveiI6duuvAflTgcGAPfLBY5m_G_MqUSWEzoELRUEXXykm1RAQ-m-ZKXTBx0hhpMiA3CN_F7_p8J4ukkMJaiRKQ36yxfm7p14iHDh3VsFCuFgEhAk-dNBHNVQsjhHzqFt259JGhTlEUl57kaAuPQiPGLnw4s3P4LSMw",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "227 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804093,
+               "lng" : -73.93624800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "5649ec462ad82dc5193688c07c3663a770bf5c7d",
+         "name" : "Petland Discounts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS8qbdAr2wokRcfQKgM5Ltsw",
+         "reference" : "CoQBcwAAAG05Kfr6LtbQ0E8Os1mrgGTcCkDLYXxv0ReDwRjvjaoqcqoC0g-sYpywbhT--bh3eYLNjMip-1QN6IC7lFApM0ydMGGvHdISN_fl89xRFn5dLzGWQ_4RsOa4oKPvFSLG6nh09-qgqkraRtanNEaUTN3HlgJ0IMhtPZ155el2PozLEhC6rcPEXJkO978QRUJIxJeUGhTh9e8drvTNKUmJCwlq4WyDsn_7jA",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "167 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804123,
+               "lng" : -73.936172
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5f7d0ed2feaaa1c30338dd09e458a73e484ec854",
+         "name" : "Sleepy's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_YujDAr2wokRoPkx49MLFlA",
+         "price_level" : 2,
+         "reference" : "CnRpAAAA_ca9y8eVuoZ8qLkDxToEo-PrR7nabTL_Wvbf4BY9Tfzk8oXia2RQd69bU1VoNOYkt2yJrszXh-BTPuCU34b6GepqLZ3G-036R-cNQtRhJVWTrXUi_DlyUgOBmrO4Ht0d0zWyFP6mSKWQwxLGroXYURIQkAFn1PAKE2Y3lKHqWfvGOhoUapF812BTv4hiLYncO5OU-NuQ_xI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "169 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804235,
+               "lng" : -73.93657
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "fe06a118d457d86313ee7be9ffacee83544fa583",
+         "name" : "Lifespire",
+         "place_id" : "ChIJMUzXcwr2wokRlur5SagOYtc",
+         "reference" : "CnRrAAAAJZYCAYSsuDZxBP2WQtiEhzzTc_RdqF9D1QFIRXnZ9mJTZ1MNG2BRxeKDF21m0C9PEgY6PRM-K5VBTbd6kjvLioJGZh_bTbZvvkJ_NfZUzQjDjoenHHTLt9Zc5WDXvFhcqYIz9f0n-RnxiplMp5dVuRIQ-DjLyXDzFMTZ210lPySSLRoUl9lYW_wlLHO50BO0t4WhGY_R4aY",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "159 East 125th Street #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803245,
+               "lng" : -73.935222
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f0f53ffefff18b3628a7c14538bf6e15fc23150",
+         "name" : "Demolition Depot and Irreplaceable Artifacts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 671,
+               "html_attributions" : [],
+               "photo_reference" : "CnRpAAAAXdQ8IOvXG5Ak-5VZ7QkLDCjyN9jf_wIdPxHs5gIauxG7obDwydKHFuspNvV91CsqTxMqflxpYRt61vzgjhgvDtWGuJc1_Eco-mNP0W6vQzD16FxInzSPhBXApjN3hW7Xxwt7Z6AeroKORa5TvaGMiRIQSG42pXbhxAfWiU7_CUI4LxoUvZgJMp4diakITz_ASnHf862-gpU",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJpTlW7uH1wokR7x_adG_ER6s",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CpQBjgAAAOfgrp0EMWyxMSTnKugANqBb5oSxHbD00BrD5F4TUiB8NAk61otKHf8__-mzi9Vm2pRbgxcBi2nvSZzLLhyXtnf4EQ_hsEtooH5A3s4LZsfaVY-1xacD65Q83Imx3vsQW2rMLYWB2mQNX9w2dv4cbAo4ZBwYc6XKzyrFmzMGpY1vM_tlgZ6_oNT5nOTg_mVtwRIQf8tk2G9I8FsmTa_6Y47uLxoUgMiNALaCZ-tg2DOX2UoNGnqkXpg",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "216 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803125,
+               "lng" : -73.934952
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2c134424d6f18f3bcdda825d7346641c975f3b34",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA4FB5txFk57p0b6K1GWikGNNYgexj6OGNjxBcgLzeNMM_JxkZlfu55lz_FMDyQkuf6mIkAEG7fzh2ZvA6oe1NOL7GO3FL2Cfux2QungQJ1kqJqAPfWtVNCKQJJEMg-8OmmZt1EaQTC-V_iLVhsHJsGBIQ1h6d2ZLvPSlEOBplklCFJRoUqdQnb6ChZ4fsLh0ISo7eeQZuaRQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJh5SX7eH1wokRz2nCDg-KzfI",
+         "reference" : "CoQBeQAAAK6tMQ8QSIxrPph5Z-Siw2YfbW9F3LKt_wrHtyh5vpvhB0AUkPFrYpvLHicDw8LV5OTtrREW0_kpYFavMOtPpoP2ADsEXvBzcuE4IPJECD2xLfWWSm0u63SPdrjUk0J-lvG8cxJm4XpOf_wmTz8sPVp_xS11SjFXgwWaNw8RSHELEhAzq9PPj2a1l5DxG9cSMuwoGhSTmDS77-ew9bim_LeN0qKr-QSY4w",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "224 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804392,
+               "lng" : -73.938457
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "668093a1a19ed0dda21f1a18171b1794d061a7d2",
+         "name" : "Northern Manhattan Nursing",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJm6ohRgr2wokRgZKQluWjva8",
+         "reference" : "CoQBfAAAAPKU2zo5WU5ZIL78M-vquQw3rlMa-S-YPpc7Dz_BA-zE5ayXjjFcrUhdRmrx12YgPrVPkJFx0F82rHjhuxnOfF0SlY2liA9yDwinQM4w9SYEoZxti7tWWMA35vthw0A2w0C0O5HjPf4tgSoM6ihliFT0ubGoyvpI9PRjVb9qU6JgEhB2zIkq77lOikEDGhn905-EGhRLTNN0yiwaA2cPZmSm7IEjI8aggg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "116 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804796,
+               "lng" : -73.936826
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f87e5586ed922327f72037c2c7d20d4eab9043c",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAc8KC8Duq7vVauH_tqZ2RyJvqGieqOhehJefjVqDmhZ8_JiavgaHmZB3mkSq9lROxvKsb6t1Iqv1Ay8UUihsGDwZThDF9Rps1dAplDalVaR982o51xUIF_TP9JdVySk3jxctBgJS0b6DdEx6j_pWn_RIQ6r4ARHzoYgeRhZQLnSztgBoUVFkJblEjmQ7L2FbE3U9AklUB06s",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJXcvTZQr2wokRMFsEDJ5TcLo",
+         "price_level" : 1,
+         "reference" : "CnRoAAAA4D9K9rUOD2S12cwSJmqPQV_x5dSjwZId0xWJ9mHsI-gbCJYcQ5WPyka5yh6fBZDR2kZIruCxvhWR0mMWs6x_oB5hLSO-K_PmW5tXWPUEUHxsVns6sk61kduSCP0ST1WrdszELyy0G7kcm84--4sAoxIQfVtg_92jWSM6L_quPZTkZRoUbPgoI36XAAykGKkQnk3TmSgGawE",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2085 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803019,
+               "lng" : -73.935827
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "24270260fcbb0b8196fbc06496c71d0f3475a003",
+         "name" : "Internal Revenue Service",
+         "place_id" : "ChIJqbjd_eH1wokR5deTY2o85fY",
+         "rating" : 4.6,
+         "reference" : "CoQBegAAAIDRItZC6ZsUh7gaZv2dBGEsYjPCNauSBj8CxTNl_7-aQhJgBS91xFb9SnpAsFdDGg0FZVSd5-krru5KYoR1wFihkyuOX1XPJjkKb-EPBzpV2dsPXjUIKIISAEI0-4wt8asnw7yD48d4keoWcMTmEHR4VHoPU7tSndaUwFs_D37nEhDuyY3L-n0jwSyLRigBmNpnGhSVXL0z9Wqg6BflLFtH-cnUQcZe9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "local_government_office", "establishment" ],
+         "vicinity" : "2283 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAHDsePFpBnYppZ3G8UK68U0zDSYby_ZZyX4fUhpTUYdNr8JHgewZcxaylNGcKY5zH8B2i1UVz5J7GCQq9w246RBMYjMiDSoU3bzxdgTjAoUnRGFANHpzGdVe1z9Oj1uEA8HLGb2fommKW3gz9mQEbUzga3D0KVKEbEGa--Un1ZZ3PtfrnxR7VX9qX7NLamUAGRIQ38oU0BO5_d4RkGtpjGK6ZhoULpc32eaL6RiUFBySSjHMXer6tXY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,405 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7828647,
+               "lng" : -73.9653551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8005207,
+                  "lng" : -73.9493995
+               },
+               "southwest" : {
+                  "lat" : 40.7645841,
+                  "lng" : -73.9815758
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a170f23a94b2c6e63c6e429bef9e7c6669974c8d",
+         "name" : "Central Park",
+         "place_id" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+         "reference" : "CoQBeAAAAN9hQwCsqsyIR-umt-8o5MFQiVLyXiKhoaQx1CmdQiO9DsYv98ZS_tPWggwHItwj_9cOglmJKWqDQdHevhVtn8jO7EBne5-sOgu8DsAZH4cyoajuK1kJHWoXlLgG2wyY9mmbH-dvCq24q667NZpltX0U8_cck5Yoi_9cr5Hw5-Z3EhAIVZAuib7aIbQURxWhxSMQGhR7uDkVMkIWkt4TVmBxYZY4-r9YOA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77382799999999,
+               "lng" : -73.9844722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.781822,
+                  "lng" : -73.97608989999999
+               },
+               "southwest" : {
+                  "lat" : 40.768483,
+                  "lng" : -73.9963789
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f133d346940fc63c5b1b089d0951568f3d951fb5",
+         "name" : "Lincoln Square",
+         "place_id" : "ChIJYWvLK15YwokR9nuSX-MHTZA",
+         "reference" : "CpQBjQAAAMhoBSwLHGFz6W1PwlUWtADKHwNs6ZvBVulatNvLnakyzB1agp9CI3iRPF96qjlHKdP77VctFDhFMwQzPFWp1RPBbPnoX3RzSjEPIRFX5fhjiN_IJOzVkZAVPWF-UrXHyfrs1kn0hRhXnaqUGhAtEkY4mb1xBPJVCkAPUTEiN3Sa6YqCyn-tjJ1EidEZrKidGRIQ79W2jxswRVMla4_Ewg4LQRoU3TWkZScjdTpieVCFWcRW-5PLNDg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772392,
+               "lng" : -73.978618
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9a695ba469a84b6cb723f55de8a6c1d90fad60ad",
+         "name" : "Tavern On the Green",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPxUtJmnSjlHUawMBBfaBACqEK-EnAiFbmhkuO4jzws3eub0Nd-3l42IEMk3zdfvDOQeKIooxcRWLYR9KOVYG_CKLXVdS8Zn_1_d9FFgdlj6VGUk11WWvtuNtccIA9YBsQc1b6ale__VEdSvwe9baURIQSNGMda3cjBXTf1L4NUwZUhoUYB0_jNKLqKoTkQNOEHLrPPp-vUc",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJKy5pv_RYwokRBaqWbokKqOc",
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "CoQBdgAAANlgMThanl6SCIK6PudLFnt-rG10_HKH8Qkf2snPXtakGx5cnvaaeHrT0sdf2guAjFUMZ0etXbs_2WyDqzM8IJYHB-7L7vhwkFoQjw8v4sxBGCwJL6YPd0qUzoZIZ6ZXkD9GdpIMcELamZB6VEaTmqCP0Ucx7lZ7welLNekYr2_AEhB_im6k8SAtEiHWzfsDaqZBGhT0ryruI5e7bn2cySF-sDMJ8J_C5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "Central Park West & W 67th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769933,
+               "lng" : -73.97524900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ffafdb493878c9de99df744c1bd9e489a5ec67fa",
+         "name" : "Central Park Carousel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAXHLsyNlt37t7JdXp3eLuf-Ae29U02inXRaqKYyOuBpJ8wQBmGJcfwsb56WVxoctfKumxPtVyGE2eftxZ-4gusF03ZmzfBMMffetcaS5-yOmtGlf5t0AJophqT_DiOmuwMYMPlxQUdy-RldWNDIxJsRIQwDKle5xqTNtjI4Uijh9qmxoUq6cTnCMz60dqR8GJTKWYfCu32jk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJIdk7x_NYwokRRgO874PEfuk",
+         "rating" : 4.1,
+         "reference" : "CoQBeAAAAFYt6dx34M402QDWBiUrcpfIxz7sPGf159qXwSkK6MHHwsWhVxGUNrGiw5JusF99Jk1FCf6TNEAWquGAo2gJ8cKMoh9cloBQBPvLI_aA-pGBnu6AD-KdEUWCHYJ33-F4zwTQVkO8j3zWyQwowzeNfYUhNC7o9mw3dHt0Mlo4jiUnEhB1zHgPYtYmcW3hnwj2K0OPGhS4uFQiKDeGkYLbxPth4TLgkNjw2g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "65th Street Transverse, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773456,
+               "lng" : -73.978853
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2b8ec1bd0b73c5407484cfaa1b493d7ff90e7c3d",
+         "name" : "The Leopard at des Artistes",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1197,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAe8USTQ_PnNbXUuOpv55al9lHi_WqRFuqIvSkFTzPVmDRhgCV4ZTRdUYmyHK6XBVHhkZhFPyhNxjNryxOYsqcPbulUYW0XSzcS3UCGnqazxkp2KVRGCKy1A8Z_gfeK6CGtnNTk4x601BwQT8w0_TcQRIQrNEJfZUm1kzCo85RgWCkKhoUgP0b8luLH0r_uWTdAdIQnounS3g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKy5pv_RYwokRtJvlzJ4oBJE",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CoQBfgAAADp5mdqCPbhuuOXa4BhOn5NIc9QUZhDjZIYUfJfJda1NCGhj0qH29uiHXRBErqBtyxkSsuU_rAJxO9PUPVVMK2m6Ttzw2QWqzQ57ciGgVrHbpgS-caH0ZwoOehYmY1osqQqXXiTfscuvPnGjMQfYffN2aFwdO30v9S5RGDlI43u9EhCrb9dnHC9nuvqPL3oywoSlGhQK8MtHEZ8R7JDdYQl5GVoGc97ybw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 West 67th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771889,
+               "lng" : -73.974852
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "219be91cfab2d58d4ef0ceb0da3c293c0e39967a",
+         "name" : "Sheep Meadow",
+         "photos" : [
+            {
+               "height" : 416,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAARzGX08mdle1QoQhQMMUD6FqQx7dObzrwI9ZJd6NJipICPf8SPc_T_I5l5VkS9Sax_69Qug8fdVx9fIe9cpST_7ucL0w4nM8JDf1LYvtL3pIk1KY8w9QtpY7GZC_4uZQwHJK2KbiqHHftl3oOf8Dk8RIQrcnTlKViEWE_Y9yDa0DhAhoULmWMCh6NeLdK-EBzNxxDaO1OPDw",
+               "width" : 832
+            }
+         ],
+         "place_id" : "ChIJGWNlKPNYwokRkJ_G1FQBRGQ",
+         "rating" : 4.7,
+         "reference" : "CnRuAAAAwuoqYf90y9W1dx_F5j5sSiv-3hpNiQwaImKEeSa3t9sf9DtRMBkXomkiDLk1pb4uIaC2eCUKeoV14JYGT0Qokpp9tyuAG0Lu9pqdDa2phk4x1t4NrHazfpAGljOk5NCGyzqR9t10OYhwXtf4kBTBQxIQuFJ3m-DTX0_rzKjOIVojDhoUeuZpjq0piHi2cmbbKLwp0WptwJM",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "65th Street Transverse, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772236,
+               "lng" : -73.979061
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png",
+         "id" : "e2c5997bfb56a9c02fd7332591a43c4348c25236",
+         "name" : "BioSkinergy",
+         "place_id" : "ChIJFfdy8fRYwokRebr0l9TpC-k",
+         "rating" : 3.6,
+         "reference" : "CnRuAAAAt7SPLKgcKtYx_hrou_jsIF-0TVvC-brfQoFeFLvEMiIZ0G-pA5lGuuyUnqJyUbk5lMKI_UuKyX23SehToeXVKy5YkuznYWr4iRRXrLxtnhvAeOAh-lIKKZSmDn6AjQgUd6NOmxLqUuOIGeNiYrpC3xIQGrDpFXfaPNjFm7RNhsfQrhoUshr_DbZtU9cS09bKAVXTNDPD-KY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "doctor",
+            "health",
+            "spa",
+            "hair_care",
+            "establishment"
+         ],
+         "vicinity" : "55 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772516,
+               "lng" : -73.977159
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43486fa7f85b70c99fc67e9139467d63d1a7166d",
+         "name" : "Bike and Roll NYC - Tavern on the Green",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjycOvvRYwokRyKCD5V6ftFw",
+         "rating" : 4.8,
+         "reference" : "CpQBiQAAAGqrjoh6jxmkTRtk3q8AXwv4SVLrBmMJ_AVhP9hFNOe8HTzRoa0evW4fxhLxvL62VLbHDfopQnjrc_WJY39k4IbUoWECY2iY1IgOVeFm4atl6YF3il13qplp0I8_y4hSBGCkKbvkiEpDHApWaftF-lUCLqoMiTXp-uSQC3_j0Axca5PnEW6UjVj9aAQ4ADSa-xIQpAshd6OMVNsErD5-duvRRRoUDS4vVgOxvSmZ-zUjYpcusAWF0r0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "West 67th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773346,
+               "lng" : -73.97844499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "be6900abb8a4d438099375c2d356d1818f468be2",
+         "name" : "Scott J Zevon, MD, FACS",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdwAAAObLa-x1wRnqzucZLa3btipPH8XZGC1jzx97OsBEXDWSU6iITsjG-7XtSWUcLRQz74k96Bk8YuQ6LS1UfafNRQC9ZZIFh5tOxdLGRwH7SJ6ySJhjC4eL2Cd13Nt-tYyuXzhpCW5vfBLgketohtNnjuIzSSBm_kVeqMv3yT74U4CWEhCVAHiYWFW64pfnQSpUwmtvGhTvXEVKA1l36vnnR9dlsd8M7wrPLA",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJvVbcuPRYwokRJV9-sx1UCNM",
+         "reference" : "CoQBegAAAMtTP-ORMRE9Jd8qtefEZivACVfdXxlSZLPpMj2XjbUmSGrIVqGLZPSyhOMbEOtp_4NYhZ0QiJTr7u7vJbOW2-nSql0aLMdH20VHVQefSPFVSasqF0jpWsmDRc4K8Qq9osjjmYtuv-FOZesVvHdBKT4dlr9Y0tydyFpyZeF4JlMJEhB15_FMilGt27K2Wf97zW-1GhQYh8-v3ZzcuB9QyOpV2plMpbLzzA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "75 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770306,
+               "lng" : -73.975889
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1210715240394bd2b8c6a3aebe71b7bba18c84dd",
+         "name" : "Ballfields Café",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAADZAIVJ1azBIllXkNhhhjTQSsVlti15XtlGOk1qS7N11UJjB93nvEPN5EZmiWADkQFr3KTqlC-YnDzVtYy7NXKbF8k5mwsZehNxP0CTKImdNx50ku8VgeVaXCq9GV3MB57LSfMkBPZWCVP1ujaNDjXBIQjIS-QRNF8uzbeXPCmbWMhRoUVhPb8LNUOLr3zpjIW1f4BBwVf9w",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJvwUJ8PNYwokR_wSKBxWcjHo",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcgAAAFGiF41RLQlXwWEIJH_w7WpEK4IwJs5mhUS1DgcQJc7srEhjhxRrj03zuk3_CTE8IcGchTCLKGOR10dxNzqbXJH4rUYLTbngNd-mnQW1wOaRLMSRd358_muPmasiJwldkC_D_4j6CnCL_nZchWbuU8YlN1hIfnWjxdjCtHeBM8YyEhB2to1d-Pn9NKWTYvDi8UgFGhRvp24Gpik6ihWVgjATs0ZmpszwcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772843,
+               "lng" : -73.97890700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "108b5fe53845de44aecfe9f81ceb02c0a16a323e",
+         "name" : "Foodtrainers",
+         "place_id" : "ChIJ2VaU6_RYwokRxadLIkYJz0k",
+         "reference" : "CnRuAAAAtLvruz-wh6ZMt5_xO_-wVvY4v24X2IrbhR0lpQEvK6jxoIZcXQCPupwbkrqgbKo_eKZ9gClXg38Z0EqVGWw5fXf85c9PnW6VbfTl72zhgG6HtYe-4Z2KEFKYrqpR4OMMMP1VoXFbjUUn9ePbkzi2mRIQI3Q0T6s4RBrpzrJnDaNdrRoUnBPXqLGLiODZOXkIY-A3HRyAOA4",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "65 Central Park West #1D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773346,
+               "lng" : -73.97844499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "5dd80564766e08aa19042c30e927c17bcef5ac5b",
+         "name" : "Elizabeth Almeyda, MD, FACS",
+         "photos" : [
+            {
+               "height" : 241,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGcfK7ZCQmdtCU3wOvNpmMvBgOHqakn9SS-cQKdAFVppcD4cQZ07jQ5nRXJnlKl9yJrhnQkzTTfBT0uXZtb4OAsOxRsxQGaC70rPFWzS6FRIXQLk6nZsEAgCRUJYZSkFklAhn9ZbCe9BCRP0bBxbJrRIQojx50DRbSpoCmzdRQMvdgxoUG4pqLO6jcO6RUhpYx7b0JEr39A8",
+               "width" : 241
+            }
+         ],
+         "place_id" : "ChIJvVbcuPRYwokRHHkd2JQ045I",
+         "reference" : "CoQBfgAAAI5ir1E9Z9Y3QnSUgPLC7X-TLbwrqIhf8U85yNKIVA9Z1LLcObGNhl715PeY6hapJKGlEgmxvCV-jRLKkyz9DeM8u2EipkCnt_OIoQoLKjLPSCKMn9djRR6FjGFnkK9ZdfyHGXpxaO0XJ6sSt4R_-rPKgGv-SfeGCzCx4Gd4wtUHEhAruGqzv4qZwtUQ_YoxcLMDGhSROQTL7B9J0wGZrqMd2s5qitjOiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "75 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.773346,
+               "lng" : -73.97844499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e28aa82c4cdcf76f4f76414ef70b3140840eb731",
+         "name" : "Central Park Plastic Surgery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk56AW_sN4gvZsGCEguJF9cAq4fTWy0_wM9Fu3iV-iQritlJzUpb5Q19qD_TsERKSjyp_iCboa_AuzJLfz-JZ53irrW7idD9oLMDu5I1K6wFNESAz7gl2BqmnDuZTM1IaqbRyXCP4SxgxzF0COuU5XBIQBD4ar5O9YXXr4nxDFoEB3hoUjX2ydIfCBIQVLaNTkTLwBQ4Ho2w",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJvVbcuPRYwokRhEJKh0cK2Tw",
+         "reference" : "CoQBfgAAAPVnH4vTojJwCG3Uga6Xum89Lfm0IRDr9AyoYoVG2mEUlGBEDWMjmn6Mk7pBTFtKFqjLKVcXZQewZWpbhQkNirm3t_K21h4Sp68z-pcT7st-8TU81K0sq8_h-iZLFY9uJqN-Cgan_XeZu3tF4r7Y4Rlk9QvqIb-MDLm5v0xHDv5gEhDrDe6J4pGxrCZrKAqnGt2cGhRcSkZo6jourwquexBa5p0xLBLDPw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "75 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772444,
+               "lng" : -73.979206
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6016a8087a4472054fa3f88887ddb6dd3867a0d9",
+         "name" : "Brooklyn Fertility Center: Goldstein Dov B MD",
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKA6tUPPeigH5oTTpeyCkPayUA37Sl7Q9SuvMd2f8DYfYDxwxreGNRbuSlOQ0nX4I8B44GuWi97KofqGTPsDSzTwwBWN9iz3-PTX4aynhe6CEayrC6KgqfVNZpL857YJXMMU6hSMJVZTylPgN4APyVBIQujXo8jaHMFYQOWZcygkx9xoUidsd-rbBHikse3mTqoQQ19F73pA",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJFfdy8fRYwokRl5h-fMb64xk",
+         "reference" : "CpQBjwAAAPoF1j1NSRQlvWiQxP3zgACYYMb_FNvwqTxQWrKXMmTFUZL8YhdcBA3jWI6S7WHsyWmUVjqFmFCN986aHnOr_U_M2A7eugbZwzoYLl3_RhDifBW8gUHACRb8kkj-nP6C86qsLE11Cxm8RtdXHe8jGvEh9axIlanofHAcf2zOTNBzXJtvb_Fuml9bVkeAzpTHVBIQmUfoItjPsJM6zK1V_oTOqxoUu6mxe31ecGTP8KOtv_KBLx0rLbA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "55 Central Park West #1f, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772255,
+               "lng" : -73.979045
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "5a71aebaafec2cd29dd49b6ce08772c2b6a172db",
+         "name" : "Hoskin Eileen R DDS",
+         "place_id" : "ChIJFfdy8fRYwokRDAfxq7WxMaI",
+         "reference" : "CoQBdgAAAE6qUmhlxT8KQzjNmOGI5QFUbbvix6y4jQ66li7N09fDCgM_yHzveFyGkHS52hmM4fS7gU25DDQLWvVjlk8Y1gErsRLDnTk617DH-V2LC3RCV3L1hy5JCZM_2_sqDmsNahicNVN2X5Ph-ShVPCrQSqABPy6D7wsn4GV2yiRp-xVyEhC4d3PqIjhD9RhDYp1nvAKVGhSjm3RmWSdbi1U99AdYn62LO-R4-A",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "55 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7711329,
+               "lng" : -73.97418739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.800704,
+                  "lng" : -73.94928080000001
+               },
+               "southwest" : {
+                  "lat" : 40.764389,
+                  "lng" : -73.98163409999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f5591502ff1180bca0ece2a855628f9b1f6dc149",
+         "name" : "Central Park",
+         "place_id" : "ChIJ9ccLAZpYwokRthkg_S-WWcE",
+         "reference" : "CpQBiwAAAORa60XAt1zE4BQBwOF8Gv1qI2qzY69FFhFgrx4PbxuXJc9pTY6nWnD0s5CNYeJtKTcRgJfDmuP3IBD75NH-pcV1O_mFlEEXQ7pkk8VVY0hg7a2s-vJNMUJFx7oUubISymixFtiGRigyXuEwMIF4JFUwUPKXBKY2RQo1G_SuDN3EOtsti0b9IGC69m7nsftTPxIQDa3wem0NxZZObuBVHpjk0RoUnyd4XGf9BVkhu-OZfYtBWaQYUUo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,269 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8250663,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8340087,
+                  "lng" : -73.89756199999999
+               },
+               "southwest" : {
+                  "lat" : 40.8204754,
+                  "lng" : -73.9166379
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "afb454c03658a9ced34c55f4910acc3a003ea7e9",
+         "name" : "Morrisania",
+         "place_id" : "ChIJHQQOLEr0wokRxLXs9U77hhQ",
+         "reference" : "CpQBhgAAAMYyS7e9fJbOUXIacPvwvEMlgwXFI85BBFSo_vEMTNiKM5rZBNBIegRZsBGujZl0eS_YA12vD79C6dPVztrSFlYjYtmmhpF8PxmFgApjAX6OCYXHBwSdedTmFVEdPnCgp3Ap04y0duJaEPrU8OCIRtzYuKvK8OwqnVCE8zjq7KWjtKGaAk9uB0idPdbeUxu88RIQrNO2AtMh-VSHbX-1RYakaxoUq6KhO0TBtnIA-1nUD5R3vrxe7FY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828178,
+               "lng" : -73.917558
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "27a59181c7ba5c15f632602f7c39018897b42cfd",
+         "name" : "Bronx Early College Academy",
+         "place_id" : "ChIJcyy2DTT0wokRmaZi8XngEOA",
+         "reference" : "CoQBfgAAAHmfh7iRt6QLvulpMoFzWvfRru8xqhE92wGPle5BeQwsbwuOGB8C5ZVEcRSquxPEbbF8Yrn4qc3BQ6mhbaqRy7Y3x6wS9KVM4zdEAFbQyXRQK_n9grYgAwXDhUjYy77_75NHgga59vAspqIaymGbEenxMDGVGWn5b_zH_dru6gSYEhABl9l4kidvMXGqr3Qw6CESGhR-vH1hUVKhTjdiiISeuEokc3KfsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826592,
+               "lng" : -73.91759
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "921f9b63e9c9c195185253642aa0181844b2520a",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJgd07mzT0wokRbj7SHJcF5d4",
+         "rating" : 3.8,
+         "reference" : "CoQBegAAACnGe2_SKzZ9qgIaqXN3-M-MmYAAp3LM5yMt7qx7izwAf5OuABYEdEMGgM-WSpE_uZrDGjFV8B9AL650lyiYumM9OfTnjxSqACbA5xdoPVGFzmSGU2DlW4Kj4GQKbVZ4mUZIYbSJRUuZrXbhIwX2IWhqJ6waErP6qhiK5xGfWS0OEhBw415MkAhxVdjXT8SahNqjGhTsxf-ranpOuUPDanZwypqD28M3cg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "910 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827349,
+               "lng" : -73.91824
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "659a0722fff14f1ac0f5116e033e824894b0dbe7",
+         "name" : "St. Angela Merici School",
+         "place_id" : "ChIJA2YbhDT0wokRD4R7Froq-Xg",
+         "reference" : "CoQBegAAAPTJuqk17BPg7CYgKf8rw7DL2fNaCaROrd9MyOffUduuz2ty1mTHiCQKpNaY1kKOpUI18ODLf4r1EkoXuhe3Kd3o3_-WvX8qhLSNe4RAFGdmsA9b2BeE9WRAtksCIybexO-sLlsFwhVviBHMOyjfCBUMobkw3sE9NFxJgC68mrH8EhDxaa8nwPyBx0Sv_jImhykEGhT7eBaV8CUGycj3rYVwXBnn49k65w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "266 East 163rd Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828643,
+               "lng" : -73.91700899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8406d393fbce7ff5fd2ac515b8e6acb2e8b8f077",
+         "name" : "Bamboo Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJiypKFDT0wokR8lKVufuWwHI",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBcwAAAHSyyuRSygY7UtdCU7EkO29hapVlNaI-zZXecegUJi6_5NyzGnudkPRJfSp_QdJCPuO1FJjP9qjc_SQXkpMQBCYFAOH2NsEs1Ff8UQKyvVg198gYeji38TBHcW33X6Yck2IMTX2fot5CAI-32P8YbMIo6zWSuNUnnLs4Vb8qMANnEhAzH4FbDhjEQMngxJxMwj1YGhQnCIH1lRClmVs5TfTwbtNazcrc4g",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "985 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828242,
+               "lng" : -73.917242
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5dcd54ee0a2afc8122d7429aa9c303866eb00fa",
+         "name" : "Intermediate School 166 Roberto Clemente",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcyy2DTT0wokRPwwomIBZsug",
+         "reference" : "CpQBiwAAAOCmKIZeeBrZKkU3fhDxR6sq5_DagDEABUxlJxliFcCgghGz6kidU4bC8FV8xq9EUEn4sKZ6KR3IePR6W1ohIEKt23hDCWKRJ9cYVD_boR8be9CFKZyMbxMoSAM1dFqAtZBjsRThVsaaTOKLuzWfShOKo-ilLwUqWXn34GwxVYdUcBRMgLC3mp5T_FntzOv0ghIQ837yZ003FFKo9qErMrlzQRoUdYjjvAxvzsxIx_lH2vaj1ZLxw0E",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828303,
+               "lng" : -73.917276
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0bad71dcad9a722ddfa9a4b6d4b492b47a0573bd",
+         "name" : "Science and Technology Academy: A Mott Hall School",
+         "place_id" : "ChIJcyy2DTT0wokRTeQbZADtewM",
+         "reference" : "CqQBlQAAAP6kQNrVnFfnIU_gXnHTZ9VOftHZHvtBsBQht0BnjM8CwNUgQP9F32QF2BHh4do9SDFrI_XO58yQ_djm5ydN0EP1vvItCMWB2oof9Px9NEvFkkNdtFIuVDKrHDI4_2Zwv3m6Odr866KAo9iOpKY6LUgHb7bMKhBgBn9a8xA1OaY38mHWPAVxrajDsJghBN5S5DPLAH-c20pJdZDO0E6Dl14SEKnoxum1O687EKrWLMko9BQaFGzVGyzHODV4crQb6BS7hCfCoAX8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street #3, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.828276,
+               "lng" : -73.91726300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e9a220eba3065d035b87744ac0c1ca2a34618977",
+         "name" : "Grant Avenue Elementary School",
+         "place_id" : "ChIJcyy2DTT0wokRHvVoEIt5eG0",
+         "reference" : "CoQBgAAAAHbSaX39qlxXjEnUOK-sF28i_KHChw2w4kT_2H3fvOO432onhVaqsHdZp6VETT834KD61ZaFjusufOpbAuGNix1nM2QlFhXfkopxZ9fSUiKLFGQGNhMHQii3TqLESXZ-q7_bOvp3np9HK73iHF9sPRRvh_k8UWUK1QIQ-QXBmv4pEhBO-E7WPGYDDm-9OoMsU4hDGhSdSSLWLil9QWpC07pCPk6uy8FdCw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "250 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82697,
+               "lng" : -73.917951
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "1e94276c0692d490983a8b81b4bdd10f55e2aeeb",
+         "name" : "St Angela Merici Church",
+         "place_id" : "ChIJA2YbhDT0wokRVVBgyBWQ4Rg",
+         "reference" : "CoQBeQAAAK2DtrOwyopTzYMs6KIKiUbmTzoUMzYxN3W3EdsJINj9FS3CrbZwgVMiGjbkBXfKkLtfl_Peg_dBSeGdam6PFV7aS9ZVvsCaoKK2NWsofTlSDrJ6cG3ar7W2rjNYdDVVs-EP8X5lLG2acBqgZQeIfBUucFzGRI-rY2f1CVX3fbQZEhBWZKUMPjl5GrEs4uOaM6j0GhSV9AEujFGoZLhhURD1QzMQouftOg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "917 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829026,
+               "lng" : -73.916776
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "9482ee4f7503f82b968585000ecec7548ab15030",
+         "name" : "Redeem Christian Church of God",
+         "place_id" : "ChIJb5AHGDT0wokR7eVFzlZf2Co",
+         "reference" : "CoQBgAAAAJ4H_P3KbCqMHQtoABEQR9Lkm6fKKFM-NgFQLP6PLCS0gXd5RStfRMpBzjEQerFPrdbWE0WE5IH1Qy9ioxRf8xbCqF0Q9ycEFy6cJgIayiDksm1n3aXlZuGtPGcq0AXY35aqhlUe9N5C_P-UrQL4MwAtLj_6CO9jSbhKT-LMmqi1EhD10Q3GvsJJTnZPT544q6FRGhQBSQ9gyOOhuxJz3_FeqYjx_V7dUw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1001 Morris Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829662,
+               "lng" : -73.917045
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9d75d3742418d9126d86850ae05656f160a5ca0c",
+         "name" : "Bilcenia Multiservice Corporation",
+         "place_id" : "ChIJZaGuKDT0wokR7FXcOpUmfGc",
+         "reference" : "CpQBgwAAAPsPfpovja8HPeDgtsV6zGJFYXyF88eq2_fDThXnn9wGOQLDnEulaLKogHxCdmNGhPNbb2amJKeAoH65S5PdX9FjshJfKH9_hJmXaiG9ybDaLYdMvWcVFk089zcqto7u6dnpdRqTkmXNNABCiaBLZj57nv4KopPGeMxD5-p_cIwaZkGWY7sHYF_UbZoUnx0ltxIQzTe7ZcBNgfCnrg2DdVI99BoUq5oC6CK2ReAcKrAJPkQB0nbY0Mc",
+         "scope" : "GOOGLE",
+         "types" : [ "insurance_agency", "establishment" ],
+         "vicinity" : "251 East 165th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.829926,
+               "lng" : -73.918436
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed7c14acc419e917add03045c9f2588d20aebb2c",
+         "name" : "Kennedy Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNQBvVTH0wokR6KbGZMCZkMY",
+         "reference" : "CoQBeAAAAB1V0BSazAM7ImHCN6ucspnne55rWLA3P4REhfPCPIImCpFOR_uQCjyXSF56K6LMde_C4HusatPjia-lkamOJ75lpf2eq5Y7pwAIR9SweCQMkMJ266nDgjkdl5zKIyghxQsmQp62cZn6UKuQzFb56p5WLN4IZVaOtsaWbw6uVxBaEhDCKTxxrQjUs652azvTc-DiGhQpJDINUKJTIW-Hk0aUku5F61Jpkg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "218 East 165th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827144,
+               "lng" : -73.914213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21b9bd659e47e5aea64ccfed00c333b3744a189d",
+         "name" : "Arcilla Playground",
+         "place_id" : "ChIJnXHlozX0wokRcB-hofrRRZs",
+         "reference" : "CoQBdQAAADX6_lxGpowLqmtPkkB7hlcOdWAHcrdFIITJN7oRtRc7r3Bqxxfcrrt_33f6AYwETnunZaNQyhuGXUrKWesQVpBJ_hvE-e327DyK-nZP6SR8g4w3DY9OorLoFMNhzcFR-5FoPwjGrtEO2f7eHg3MK_yMXdAArQM6NXN4y4J1g3SLEhAoidGrFNNhDnKW2CJNxWJ2GhSatskztg9ppEdXLu4qo14UO6EM_w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82837139999999,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8364789,
+                  "lng" : -73.90722889999999
+               },
+               "southwest" : {
+                  "lat" : 40.818436,
+                  "lng" : -73.92658399999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "20a6d9a979b2218620905a6af5f17b789875ca99",
+         "name" : "Fleetwood - Concourse Village",
+         "place_id" : "ChIJSRJTZzT0wokRRFm1FJrnjCE",
+         "reference" : "CqQBngAAAAisDgQq14gAzZkzas-IPYKsyrnezDK_pQkAuwvYhEAIGgY3_ajiBhxavqQHe_3wakKe8YnY9NyHozdBvlvnR7-r0W4jqr74EwtKtOwxIxVBZEXoMevGBVwNX46GLtrYnKaiZmK9eXZQAgY5gob2w3GrOILvaElvbFx61G5FvvxcMns6KeseRWUKWpfyO6NibCSFG-0D9cGUvpDEeA91MnYSEJSvVxqoeYHittuPgpfM6eYaFEvRGaBDcZ2OBYgXvaeV-mcdESUR",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

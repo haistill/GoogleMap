@@ -1,0 +1,515 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7891291,
+               "lng" : -73.9271644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.802083,
+                  "lng" : -73.9134835
+               },
+               "southwest" : {
+                  "lat" : 40.78086630000001,
+                  "lng" : -73.9363146
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "15bb2271d73ba63ae870ee7bbd53a1ef01d00e37",
+         "name" : "Randalls Island",
+         "place_id" : "ChIJtw87A_r1wokR1tzYitCZdKk",
+         "reference" : "CpQBjgAAAGEltbEoxY7QfbpfoK8vFH6mqxcft2n3zrDrIgQEssG022Skz9_AqmiGh7KuzA3jE_MG5Mo0vL46bqiDtWrkk85GNPmT0X74WgPV5p7jzViQTCZiJN_4t_havcCGjaoSR1tSbItqyJkNBKdIYrKzPUZCsfwAhxY4310nuyDpijxsG_P5oQUAgKYBvPsVgHJbYhIQwkgux1LlTFgO7roSMaiTfRoUUuFEh5Tu4dKpznc3BSoMfY9Hh-g",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794241,
+               "lng" : -73.93325900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a0fd141e52b754fff7245b20c1f0fda94aa7733e",
+         "name" : "Manhattan Center For Science and Mathematics",
+         "place_id" : "ChIJlwXSr_31wokRoMgLiTC6B4U",
+         "rating" : 4.1,
+         "reference" : "CpQBjwAAAO4S6v0AzU_PrEsKqvLlPu4JXC_CID3dsOuCf1XXJwTLMxOzs7D2Atgt01LYJTw-0dOnKm0mlDnEeNw1YpwAq-7pUfVQgYlytWBBWHX48w6G6icHXMqOJ57C8SImMmUmUhYx3lagqLZwiAHXXs_E3ILQIajm2-o50kPuufN3__ZMZ0AhEzfJSjcFSttM67u2dxIQqJoI7rNxe3EnEnLZsDLVOhoUQvGgnVbDzVQBqPymi1FfLGVWK_s",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "280 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795354,
+               "lng" : -73.931178
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ee4513840e2d9709f4a13a94f88492ce54f5156b",
+         "name" : "Target",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 357,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApWeq6ZQym1ENZmVCDQW3vZV8GMGvgo6njvFtkmDnNwdGDVl-ni4i-x3-NO1hgPuVC76f51u0KJLg3RMvUAkSnfpsa6I7SYr0a3O8IOvMrCN8cGd4ppw-QVTKeJ5viCiZmRnM71maLFMd7QVtbrGYZhIQLkdAHoGePJlw4z4Xe0jsZhoUcq9bq7VlHJcPF5th7NOAa5ZAh2k",
+               "width" : 655
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokR_j9Sp_7Qw7k",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CnRpAAAAeNYWtJ_YvmDF6lFJ10tjqrkrKWrOkXHhP2rWiw_3RgTBqbeuVAobnoKWwQS7t5NEvvVkcBlm4KhuQgHeKY6ujXatjfbvpKBeapUi6KEf78kKHdFiINHZKVxtReSC0fTOs4bUpoeei-VJcdnBYTApTRIQdAHlyaLCGPJ-fi0y31cp5xoUZygN5n-9uJWn9xGyuQ3mM1bh0hw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "furniture_store",
+            "electronics_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "517 East 117th Street #201, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795676,
+               "lng" : -73.93050700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8f37381edd26f544b0f7f8ff6b6f1c52e2a4f81f",
+         "name" : "Costco Optical Department",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBcwAAAJDshrhEGy1xlat5kpqlxHTt2il4PbFpz4kyaEK6ipSILTclohb5NSZffLvFRUBBxr5Xv2F5rkXJKaJYEjypLSMHSRW8pRmXKSw4LwhB0mr0KaSOy47sKHCtw0eHF0hiQgeThrfJg5jHaAhr1kXX4ftAaBnBw-WGQYR9gErgNogBEhAGEMD9R02hud9X7QzuJcOdGhQOA2K4mpA8m0TT6IDVnq3-Iz0fUg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokREcQQ7oplMrI",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBfAAAANcU0bItmfWXTq6bzbgTQVyc_EInO_PWtj8eut7_KXCgQ2Nrf5wJ5DLIrtjFh9l4mPcNnm20d9JYSuRizBQ8qeDvWJHG38biWPdPv2PTIzZF3jZtU3f2TJJGd-mFEnyo2mhlWxW_ZlbjEYiZzOvF3FgDlbnFMxxKAUu_XjryM00TEhBJzXfTtno0JvtsTfdZU7q7GhQp1fiQq2UXAYstc3MlwiZ9QqMGMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "517 E 117th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795409,
+               "lng" : -73.930453
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "39713219c7c608f2915b1e827540f1450abee527",
+         "name" : "Bob's Discount Furniture",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 416,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8McoXil2OGNZs82DbURHUHabMGTAsygmybLyM-dU8O61LE9gHGIvNgvGYT7wejYCIEvEg4eUkTmhHSsicDzAud8TQ0R-G1hfuc05w2UIbtG1boY1WmpziAF_4bj4yQnNSM-_fxyOmJy1Lz0OcaxUlBIQWiWdg6p0O1hJ3ahV9orY1BoUpwnXfSkIoXwug2kz7auct6ja0P4",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokRyPyyGBAS1Ag",
+         "rating" : 2.3,
+         "reference" : "CoQBegAAAEXydsHagSubG1o5aUJE--i3SHUh4lFhJyr4eyU534MlIKKfUqiHv0uQ39zMCNauvGZVzoU6Mg4Tx8O9JwRgCc0tkpGFTH3iMxA98q6SmWk5LdZozMXL00vJOZ460tHZ2O2GojILM9XN5PX6DacrD85CuNMuBOx2NHtDwyUfjKhGEhD5ddJrswrrRpOY2fFUseF_GhR4h4TRel8C_vBr9V8_N9FXiXLNXA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795257,
+               "lng" : -73.93061400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "159ded9fe5b3c0cd71aa736947ae90e00cb317c8",
+         "name" : "PetSmart East Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJPwmU7Pz1wokRK9evYmes2vM",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAAFz4yy-a7xrYEnuA5Lh52-eKwMrt957JjHdPfPX74PZOlZAU6hiGdB-PnnOdFx025G63kDE4qU3GQ7VKOcIksFhWiyRNBxZ7fB4emQQ21TmMqfthz5GqeAb49GvvVnz_ervZS3lW3zpHWqT8OgVjdAotyeiyCtQtJIwJ_ZO6fP1HEhBXBPbrZw9ihG7xo7aJPAAAGhR7tqm_xmkrQqoOqlVqkrAJkWNI4g",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795581,
+               "lng" : -73.93141799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "147ba6fd63c6b9ee557b8a091465068f5208c3cf",
+         "name" : "Marshalls",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 410,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA115UbcaySVMFuzJuaMiBbm7nBLD-El0-kvREdcXNyEPQKTlu_CWVV4rYdSw0kubw9J7_CGfvOPa4RT-vRYOMy5kjjcjG7UZtT9R6FjjT1lfxYeqrR-2Sem96iury3eMiEIQVDaYRJvC-29_kaykcAhIQWcmECfW4iwZUMdYB8LDsrxoU22NzIgE0eU5tCozHwqef5V5Lqe8",
+               "width" : 525
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokRAalf4sekBO4",
+         "price_level" : 1,
+         "reference" : "CnRsAAAAPchkgN8rz9KKlaPvEjdcxMs3lJ2FOLZI1fOSq4E0H7gvTxGYAzYvzeMOtRilCzxdCYWy-JIgQnwk-KClzqXzCtDzMIDO6foXbJJa3uRFp-XdWmxrCCrAPMM2zGqJSnwGCP-kTybMJDcZm3ZZiG-ccRIQHIAoPPS1o-SXRH3P_z33oxoU7iKwKYsPnN2jOcuNKIbXsvLVHh8",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "department_store", "store", "establishment" ],
+         "vicinity" : "517 East 117th Street #401, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795646,
+               "lng" : -73.931444
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2a6d94d86f446c615ebcfd353d6a0c6f0308f140",
+         "name" : "Banfield Pet Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 633,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKsZDeX98Fv0ueV-6ak4vqxBZdjRDAihCyoHewHbw4hdl1zNiAsRqV0qkQQzwsn3xv94hiWJP_xyQZ58RSRTwWVECGrZbASMd8-e9TwJ94L5soyZ3OGE6DjmoxdKAHMot3QJuhZOsqZj-dhXcviTeJBIQ74tAdY0TWbeOJYou3nEp9BoUdw1fFVEXZ3w3Bu1aAYrvs1qgck0",
+               "width" : 635
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokRQTnNc97jaBw",
+         "rating" : 4.2,
+         "reference" : "CoQBdwAAAM0RnQE8O6LT1WYLb9KTuv1sQwM_XaMVU1X1BO1g6bIq34t4cmCWHIhGExRoCmTPJWBbKr1rW22U43vOf8KNJF0wCsffKm2qkM7E1e5LKWzRKlq8G4tDrh6HqFzQukpMXaVsa3PUO4JCFBzz7uxbwFFVBok5JxGZ7JxwPGIt3tk7EhAx65LuXSuWzMpRR7lFfoxaGhQ8eus8-aOB2IaP3IqFgb_EFiUDlw",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795036,
+               "lng" : -73.93131700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "73f58ba7bb8c10a69f4691b6ea697d143fc4420a",
+         "name" : "East River Plaza",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA5Do1hn2XIAKBqTlfxdw4Yt_BM3whVab1PEvrRbgoYci_rgubGHikuQV6vXtlOVnePF9OkxJ5V6oA7rFPdMdN4_92FrYjMjhrst7FBkBc41C2CO8bC6GSullrktKPZ5S1n4ugVUMDIsLSiQaQrI6PjBIQa4Z4ehTjrxaYHeU9x2UTtRoUuFV9MoKWjthYBS9JOkPAFqB-vNg",
+               "width" : 1530
+            }
+         ],
+         "place_id" : "ChIJz-7UGAj2wokRtU5cdwYeoxg",
+         "rating" : 4,
+         "reference" : "CoQBcgAAAAwUCw9nSzl4d5OdWQ95x8lz3snuSDEEwGUes3-Jx5rxbPGVJgtj8SSV38kn-pbjYkXKTje9RgUqa6L2Tn7xE-j53znL_Rv1eLJldQzoUuLWnGIgtDloLQD4TAy4AyWq18OX-6kOlptgMmmiza1C0c2yzfPJeFKOQffoA-Nt0K41EhBGsyK0AtwoQ1dingUCWj4AGhTlLmkLuu1_yu4koYGXhAPYMUn0YA",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "520 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795626,
+               "lng" : -73.93213299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b1065ec36687ebe7dfa18002e3d7226233c704c2",
+         "name" : "Applebee's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWZVXdNS71qlplRB9FHSnmFVpkDIMrG9uZGaHI8a-t05V-mcdR059xY6BHAtiXaxaCXrtj1HMSyrd03_1D9F5KMAEXIO4wKAOoeARrZoYi5ux2YRALAKI981qNeYEldASNmPwAshQcLP8tr5IdqN22BIQl5oheOgTnWc-HNUA3FYbYRoUGuXE9SDmrjhyh69zPwH8ogaIJlU",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJXd107Pz1wokRI-HdgzX4Pvs",
+         "rating" : 3.6,
+         "reference" : "CnRtAAAARSAfsBCGG1dR9eQq_MIdakmI0Mi9mE_qGmMpFAOLq9Z1CmFPKQh1p2t0epDkQYihIpxXU8Oj_3vYwjvccn9MGD9DEiCV2zqOQtIP-7vjQH7qdbJ7W4zJzFJhvaZEadMrFQDnqlDwPxyYMQEva_FpkhIQDLFxGusKl67BKOoVZ1h6kxoUiAheJuyo4iaR9pHwixoj3YtLHFs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "509 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795715,
+               "lng" : -73.93146
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f56e32b52ce1252d6bfe710eefbc6aa272a2b20",
+         "name" : "Old Navy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 308,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA20OGZKrqlVaXL9t4GivleU7fY6ojH4cVch-gbK4t_V8DgajIW1Fx8LgdELsRJTAS01j5QO8v85iokmJ4FWHxuwpZ1YB8TtUSrkvNN14J_MYrOY3ekFESVXa6dpdjfpPT_jhCZ_Xwn-hQ_rhYM1tw5hIQljXKc5dZtVwDtXwP8lYR8xoUOsVAspqZtBJJILkEkRQDtqSjTLM",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokRFjN1HgOZv5o",
+         "price_level" : 1,
+         "reference" : "CnRrAAAA_EoBOhSxPXmYhwfbm2bVSJ-FZTZq1mm0rjK4u9ewP64WtXUD-SiQv_h31cwdg47Yvj1vJL1CWLamPIIoeehXrWDR2E16GGPh4biGaN2v-hL7gCb3d17jy7KwjnlWipRzsyDblq6by5G0j7V8ckUHpxIQ5aJOtIgk9F8dhAnTK9jGjRoU67-g5dcx98p0-NVva6WYlp9a63A",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794281,
+               "lng" : -73.933334
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "71ad9b891b4d99657d7a3a6e97ad8ce694da668a",
+         "name" : "Isaac Newton Middle School for Math and Science",
+         "place_id" : "ChIJlwXSr_31wokRBpebLRqrvOg",
+         "reference" : "CqQBkwAAAMYylGC1RSKAPOTsdImuPC_7_XhtfQrP3U-wPOT9bGmcC8kDtaptPXagmrGSAN7R0CahXUL1clBjcrIyOS63EZp-Lwe-KTquLmIvbaR2Dl_rEJw_9QBhMzvpv3gXVOEiPvoVnlNlGs86IUd6TxhL38nwM-RdL_VFfxLewP8j_Oq_mjJ_shn_dn6jZwvjpS8c-wf0UGkHezy2qNZiguyYXOESEEpZ0dxwC76KoNI3WQch3UMaFKz_TfhaegVCsTj9c8tiohx1P9Y3",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "280 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79532,
+               "lng" : -73.933341
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5e988360dc665e7289dd5715bbed102239d316f",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZ1_SiMRlSuM5I1rXROdDMy9pc0mOAVJvQmCDmA3uJd3ifakGscKLY_qUGx_jCXxQcY-J8effYVKEaNQgC2i13rLkXIzhoxequ6Lkak4xRfTtvJRa9eW3g8YmSEvSolVo2JjkNdVTtt1s2VHIp7GXXBIQjLL19jaDE5GhqhAPIgqnZBoU-_wphDLJfWjQT_Go7cK2A6cHvIA",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJF4nTA_31wokRis_mrS3xgSY",
+         "price_level" : 1,
+         "reference" : "CnRoAAAANNR9ZY8BsNUKcCgHhtZh0lyISvDg_C-IWsJ_ZQcBBZehlhDWA6moj1ZeBAK9UKkqmlGZTozF0SKg3RN1oVsOga6HL13YRdLZSChq3z0oT90pimkflgipYdkMmlolst-rcyMXsLdrChQZ_jkmhTWXXxIQS3sjgkzKPbxBCGV5Qb1CyRoUejsRtjETqPlSyXuKZudZc4fKNRE",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "455 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795523,
+               "lng" : -73.930639
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "28cdfeec43eabdddd74584336dd089ce1df626ac",
+         "name" : "Burlington Coat Factory",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 180,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFmiQ5DFx7m5w_q_n0YMT1XYokmmF2OfW-kCJZVocFZXVTsGoUmqWiVGuZzMMVG5ce-wfM33nCRMPFV-RcfLUoE7kuQiiwD1Bdy6VFVQ-QyM91VIjMtVBo75RkYBeSOn96WPXdFDF9qzT1zC6EvNwHRIQ5pTiWilf058Urc8wR2slHBoUbL6JKA9a6aPhzqTeuGEWaJ3Bwb4",
+               "width" : 180
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokR7zUQ2oGSmF8",
+         "price_level" : 1,
+         "reference" : "CoQBeQAAAMA-bf2B-cCVobykI4PErENuzF4UgQaYiMGCVjaoOslpikytZGoeTVBsOUDQ-QMgTV9azI6tDijap_NZJN7yDCkzmKMcAl0ZabCoF6q3Hb1b1OmaW2TiwOdb3CwGtdLSACgFGLahz07Hn6qlNh8Z6AU-qJsMVgciUQjqjoJjU1GqEhBjsxmcNxk4B_UsxudUGNyRGhRRg2xSdgigJVdTdIvtYEWfHOzh0w",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796389,
+               "lng" : -73.93000000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "abba6e6d36c5bbe0c7bec9632c78b0a4735a52af",
+         "name" : "P.S. 112 Jose Celso Barbosa",
+         "place_id" : "ChIJVenuV_v1wokR-bkF5dGjAKc",
+         "reference" : "CoQBfgAAAJM7FkvKjffT9CJxCbbjLNvDfk6qSq1B61qap-AZ1RjVeDxe5x_3Ahf0EjMT4q6TgWZi8rzqWIB4v_L_MM8Ry5lxOunivRSCZ8njClzVjdqgbVF82RPbxNIjERE-FEjDQbj5aK6oJ5VfezxnzRji_YbRIhaV8YNisj3Ly29AP7gWEhDuYiOM-CgkA3s6C36RH9cNGhSvTKUSInBqL459JeFYwq8DkJs5xg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795488,
+               "lng" : -73.931016
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0a5b468f3a0b4049821874090df40862ac41fa05",
+         "name" : "Game Stop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAOrbZy7YCZqYUUqe3S_Hm5fK2sVMkcbPOqt7sPxjFbbcEpc0zwlC2TshhnxhP3YKOkstUOFcbOaBoZAz6tDXxVIHf059KCISWoMxKanE-53rnW1vDharWUBGj5V53qxcuySTczzz525MOEph6ZCfCaRIQ0slr_VZzCdx9TV5Yn-wAGBoUletEanuIEC_VOyQ1y_2waAlZ7so",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJPwmU7Pz1wokRhZZvwmNuiy0",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAYMaLr6F9PQIomOr2TVSWIXIzMPB0cJS10H1m7DPeqIByFsKDAJ56rxjqPsbLQTkDYCRoQ6qIA1YJG3k9NPSSGnpe6aP5l5Z-UYsjYc9ifvzbFh2E2zM4ogPMSJPqIoKmQEv4i4n1x4AGMUBzEnMgvxIQfHgoQCp_r3FFwHl53Yt7fRoUBylgYP4A1AEGI0i-rR08iLSW9zc",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "517 E 117th St, Suite 202, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795363,
+               "lng" : -73.9307
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc95442dfdd20074cb492ac0ce8004e932f0d14d",
+         "name" : "Costco Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJPwmU7Pz1wokRZ-v80y-kMhc",
+         "price_level" : 2,
+         "reference" : "CoQBcQAAAEGf0yF2NX52G8Xd3NYoh8Nog7_IGuJr-MYqXHQiPxspU2_7_G9AAlrqJSL3YOcDf8sgCl7wdgbz9OaKhZXP26nMoYvZ-L_lTEIUcx_wTkag-jB5R5fNBBHEg83cK0nQnTmxumQvmdkISzl6BPsegkY8i686qPLrh5o5F2wuovq-EhD-G9-n4aPx4ww09ovynfTWGhTbuOaXOhfIOLlF8eRLer3vSU5Bhg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795578,
+               "lng" : -73.93143000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "010947cd1a60310561005f63737bcf54361f5950",
+         "name" : "Verizon Wireless",
+         "place_id" : "ChIJPwmU7Pz1wokRq60-qDESjKU",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAAGGr6FwuSQ8Zw_JsuWOzK7fcPXFcsoVfWfIify7t8GwmsZY_DT3ZapMoq9jfeXtqM09BScLwpGqF_JK-m6F1idwz6UpMB9xa8g4_U5lH0ZNSZSpOij-mSmhrAcEl-8bBFqOsJsUvAfEjJf_4NcUQfC7z-CJ-wY23-_B8mckGZNoqEhCn-r1RvNLNXDomBka4Bqo6GhR5MEYDrRXiB4v2Fg5WoscKc0pA6w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "517 East 117th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796379,
+               "lng" : -73.93191299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d9bd28fddce0713a8959d8272e6fc07706412ea",
+         "name" : "Urban Green Equities LLC",
+         "place_id" : "ChIJ1Rxaxvz1wokRGcSebW0YAKk",
+         "reference" : "CoQBewAAAHIzTy5bEmDQD7ddsv8jKEu54EPBtJDFI2bj0ZbZZOY95U5qHeVy6fmlarBgItAs2nicwCkEMKaPddsT7YdKM5lpw75iMZrjYh9yVPyo4ng2Wc47uAlQCd6uHOxfaVLhNq3exYfA5DkJAwEfTkqP6n3vly9uxry98iivqqOyYrFZEhDOwotVYWjK0SVHukRSEnhEGhTy6Lz2KfRfNJVgUTz-iOm4WRAVjA",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "340 Pleasant Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAABnO6iUi1e_3hLa9Z4N4xfnLecL1HpXmPdu4V5Fg0s0uOx7gaUtOyMWbSSATkuOaAK7rnjhAkC5MZQZoq1ZQrL3jZqin_wsontj_VOOMw4VgqoizwqIhDxCvOPQwZySGgmZRLzN8se6_BBTWEdoMK7oNAD8Kc61h-HAUfUxqgVDmuuvc-I15fFvFRSdzQlS5IhIQLH-NKjgOormHBPVyq0zYEBoU3kldJn9aqtJEEd_cDVjPgzucQtE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

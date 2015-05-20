@@ -1,0 +1,512 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGypPuHZsaebGfdQXTlj7bosPsYBSWRM1FgLTtMvEIe6xCiuDq0ePaXwJyE2qfVtnIeV33xm3NU8Gs2C6KlNMlA93x8_IBBwyN2vW6gy7plLFr_B_7MeFFeNRpNzCfv09BEXbtrMuiItyG932qAI7XfcPkAyAQjJ1mDdxb5SULHwCdtbzUDuwBnjMjl1UhuA4JdLyfmk5gVjXhrxCLB4P9L8o7Y3fUIyiql8eyyNFIjrbSxfhOaH2zJM3inmqtlmrT0Wc8fsHUtcWhbjWjYgvav4XUjzkAHlgsbvHGsUH4kQlPi980JziyJOprR2AIPWdBIQEqSjaXz_HUfpBjtEEKETFBoUOnUywD5mQpRDDC5YOkJG28-arDM",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7762231,
+               "lng" : -73.94920789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7852441,
+                  "lng" : -73.94221689999999
+               },
+               "southwest" : {
+                  "lat" : 40.770222,
+                  "lng" : -73.95753499999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "6316e9cc37ceb8dabaf03112a55b558c931ca8a2",
+         "name" : "Yorkville",
+         "place_id" : "ChIJH2Vx97pYwokReJuLV_O-lfA",
+         "reference" : "CpQBiAAAACYdwBfHlzlL-WzMaWA4XfU86FYIQEPdBrK8opQtfR3awqF_lcgW5ESRIdUEka2Wwgjcgehd3TikDCBAR668GTViWNVyw24X5JPbCK89n7QrUVn8FZIZZIHjcxMXB7wcNrFWdQ7sE_j92FEaEufnlIc4Uu6HAX1gIFCa-5SXO4UZE_vVRms-wObAnoSDysi5XRIQ9LqjDhOhOTpMqAFROXwanhoUTQkGIo81B_A6sEEdiPjNg2p0esU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770273,
+               "lng" : -73.953281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1e3591193a31643aa198d0ef98403bb3ffaed4bb",
+         "name" : "Eleanor Roosevelt High School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVQcCU8dYwokRK3hodKagvf0",
+         "rating" : 4,
+         "reference" : "CoQBgAAAAOvqobJcxR_aFS5q2igFN31lTI8YaU3nn7w_MELv94ePk74x4FuYYKwoysUDfdG0VmN_69m8wpzlrB5pGXV0CC43Pl6PeNZauIEDQDDCESaZhjOP9nthjwh6987rik7vdEraIdZ6o_4GUEcksBgrcc34wgYgjgmFK4TdImSjSPq3EhBRNDE_W3h9PJFwle4erGsTGhRuIdvTVXk1qwPDzuUV4SoCcCmg8g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "411 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771286,
+               "lng" : -73.952823
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77e466b5e34a63a109c9c71e058a4683cb720db2",
+         "name" : "Sushi of Gari",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAW50E8jg668stCHR7tI59lUERPMC009D_D16oraargX6BxUb5_JzlFQ-CDILLrqmOgweStGvMTeOl7jcFQEwXz1JwBKdgFsTz8JIbvR3nsQlIDWJ77L6j9OTT4SrnnRI4L7yJv-wFIVgY78JbWzUf-BIQ_gQ_l01Cqi6Smsm1pvL7gBoUuMaoAeOQIGq6mGL-tRod7nQ9qjA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJs9JDurhYwokRSjnRF8h3US8",
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAAhTfdIuhlSsnyZ7ShAFLqr5zNXaHcOlWlRSfI_Z_fsNR54VNgexJeKRogDhEyx4LnuFk4HsHmDPBVGE5rGiLyBtaZsFMo3m-81HJw0wZjHYeX44M_3XDtnUtO09tuKsnDr9FbCC6kwgncrt93OLRixIQbhKkMmD2dVPOfveWivKdJxoUUTbLdLC-rnSlZENesG073DmFzu8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "402 East 78th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77226,
+               "lng" : -73.95499700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e83b94d0fd6eef0cb8b151ab23f482975dce727f",
+         "name" : "Orwasher's Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmczwCQR8dDn9JkIGnudgDvBTNACK_tN2doUqwbu82srI_t1a09RxIUzIG-NvU4-Gl10RgCdLZJNc7xCAocsPZiJDJkeV7kazSRAZWbtoqjNMvjwI-6QJDfQqsU_T9KEwqitqn9nZWbHX0I5B_tIZ3RIQ4v5rSNoYnDdvh8Eev8d5FxoUiVlMPR7AInqUz-NznfBk2_VgmWQ",
+               "width" : 491
+            }
+         ],
+         "place_id" : "ChIJE9I-Pr9YwokReow27sEgdLU",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBdAAAABAaTowECeEgAQLzC_tguZCI9mZHZ5wOV-28zCXsy32_JbmY39mWrYZ39AQeRa_AWRCB7JubpKNs2PltuzhPL4wUTfZ7YpLF4H_8Zk0cOlcnTPqsDgjn8-jbbmpce7G4vPxWUK9GgS4dahlU8OXz7SbHq_IFDHRwFEp0tIf9znqdEhCdGtvSiHKa6oMvBZwayA3pGhSiAI7x6RREF5lyqThi2BtpqogT1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "308 East 78th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77329,
+               "lng" : -73.955415
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_jewish-71.png",
+         "id" : "8c02f405461a22bbde099a3a9a813fc88a1b77b8",
+         "name" : "Temple Shaaray Tefila",
+         "place_id" : "ChIJFTJrHr9YwokRIT_DnBlc8Jc",
+         "reference" : "CoQBeAAAAAYP44a7YUDtPSGLdHcjveml4QsZm2PTaGcLkkqVYvtULghwaN4NYEdYp2gfemGTrXj8lXeazeWkht9m4TO4uKK9BbNd2fP0AqBqBw69fWqKdVu42qCNyCrVu88FMVrxj_SGJWyOOFMP9gT0BA4mxs1eEnDU1sQwz1y3XvnBcTDxEhBMQFO-ClGqgsni0xElocu_GhSoH1KK85OxA69dzR8YHtygHI1b4A",
+         "scope" : "GOOGLE",
+         "types" : [ "synagogue", "place_of_worship", "establishment" ],
+         "vicinity" : "250 East 79th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772526,
+               "lng" : -73.951368
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9eb11443055f11bbf04fe66a3403f51320c4aa5",
+         "name" : "The Caedmon School",
+         "place_id" : "ChIJe9mZ_LhYwokRPRd66fE1dgU",
+         "reference" : "CoQBdAAAAEdDnspvSaa1V9dfcoDsu5Pbroy6cwPRubZGWjDHmMpMQ5DauoxHCJEFfiUu_wQqeqOkNIIiS5PbgvXfLqQKBvglaMrGbBaqCK-3gtuC4CLChJiqYrMHu6TqPzkZosVK10f7yOZNhkHGw-uIrwuaVKZUZlLWVMIn2MMruVlK7ix4EhByL19NU6ODJMRgp7eerPJeGhT2ysa-znJKscrMokdYRdlzCI6pPw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "416 East 80th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771032,
+               "lng" : -73.95508100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "535af47da1984b22013b981a5ba1ef125cf68453",
+         "name" : "New York Sports Clubs",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ70vDn8BYwokR4HmfR6-HBOg",
+         "rating" : 2.7,
+         "reference" : "CoQBeAAAAGICrnfKzinVujH7iM3j0_XC2-g5EfKnJk58gUlSst9X0-nbZTybQgjossuh2Nltvzyq3fekZ4TsnBO92STnN5B3AMxDZihRAlj2WWeNevVuKYThVnkWCIlbjAd2uhsKz967_UMEFaLatFEZtV9lKTvamtSGXjSs7zSmbgh17yEzEhAhaC3IJYnv6Vhb1LLXpVZyGhSUa4JImuSR45_mr3C2T-tqcptwVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "349 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770368,
+               "lng" : -73.95356200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f69a28a0529fe9bc1ad52a08def879258502069c",
+         "name" : "Jones Wood Foundry",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 499,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfgAAADAjInTr-mEtQ7m-Odk8pFyS2bCEkQzb9XtDGJnjwevUId4pUKnCeiqSWa27VmNf6IWW2KenBPp6GG82lSPzC3acI6Bw9KAimy2r5vcvBpM4-DnIz5Rl7Ylwb2E-tjtb7248rR1KcaxTMQBYkJY2YwUpH05at_xdplGbdTamFPaiEhCWPehLXvfpM_vFayOJpfuAGhQACr0SV9kbKp9NKV5k-F-xHgL97Q",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJAbAvU8dYwokRwAvBDqWmDMo",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAJMoJjcWiheGxhd7c5wnQ3gfalr8FcwldFLNfnS1FvHQ-dm4DkzHlffhcGeGGOV4_4P2drM5V4SoshPZlyJzBihqiiX_IjWHzQZyZuyweottXl01xXFhALX20wnWzjP-IF-BseCKKBuQnmjcYberzEPa0dpeugHAirCFmTCDN4YTEhBJEFYnOPr17peSd-3HC-ZNGhQi4cKen7HFnv2ZFJf99N2xg5Vxeg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "401 East 76th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772628,
+               "lng" : -73.952151
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "429de8cb74bc5eb7170e32eb194aff2d87be7722",
+         "name" : "V-Note",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEg-m8D_pMK1Nod8KDhMBdjQmbIfFUgsz6VcDyQGszD1tI83hiE-FugSfohIV_FHe3K9v5RGVHI6eUzMbXRe9su3ADjjhquE00VKE1LUdnDQ0qR6jBX_ugiyhN6Egzbp6E7GnudJLcR07SgO9fwd_LBIQNeUm0P1zN_49_kc0prUrKxoUAmyRDFNEYchWTpsT5g-lQNmGZOc",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJtRFT57hYwokRRzG-0bQhV3Q",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRoAAAAYv5-hiaqnCQEmT-oZRzT9RQmouiwU_ydlH-YmKwrQ8KiOD22BAGEUqGMflFguNtQUfbFRV4FdWuXZ1a-4qroczwq5vwmfiGHh98YhLAxkd872aC3iZE1-HTGvApA2BsGIvStqNLs21uZwEL_bNuaJhIQR_iERf2bb5LhAF2Kt1GVGxoUeuGXnrX0_bWbpUgUXRXhsoLqyZ4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1522 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771875,
+               "lng" : -73.95338599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e2f41c061a849e07a9902c3239d94a4e19e3957d",
+         "name" : "Bar-Coastal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdhb74HcE9wdavCq_2os8HLA-pW1eQa_ISdRlm-cCzaHoWsh0PksV_o6pRS25Pek8DjTSpKQxpmaUIn2jKJGoiDpfMiqIL2hyIDAxpbptOSUbtGhBVDtodbK9Q6PbhjnXmixgLFAoggpGAGoFa7QTORIQSEtPJALYH98fZ6xJ6c4-BBoUYItQM5W-L4PFPqZ8TqLugT3SH3E",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJRVSUtbhYwokRwcVssBW_UJU",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAAzD4V80ZvcZBiVQZfd9yoq1MY42915iYvntrQfT4Om207PZZ7-AKmZU_Fl4ZiJmbI6bhoqSIJDzpa8tZDlPvcZxflANW0wyEKkqslitwsRWoUUTjRRlfKOs3I61MDV7P-GG2sgatKUEFhbp4vZPaHthIQVztju3TaElUAD6iV3oZGsBoUyKyk1lWerBGrzK7Nt2rbv3G3pFI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1495 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770886,
+               "lng" : -73.954037
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "af7fdc3409551a37d52fee55d8af0e40422b2400",
+         "name" : "American Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAz7bVb9YwokRgt7Z10RABCE",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRuAAAA1YG_wCnzgz6uoLSQubDjjvLAhW9OFP4QxEXAotXCcefsKtqqOCEFpxD5Z_NP1HY87X-34bptGdJATwSjL68BEnczL62kGGF4BMDq1ZX7mdtwxuomxRHXqDCj2Tzov6uIUIQt7It8qGr2I3N44PsLvRIQ8g6ulbWZl-l7XzsAqcJ0NhoUF3SJlxkmHg1N2ep4PRzChVONTQ0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "1471 1st Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771131,
+               "lng" : -73.95088
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba4d239c69d81f6821c28369f3d5a805ffda7eee",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZdmCnLtYwokRxFQlQqhlzeg",
+         "rating" : 2,
+         "reference" : "CoQBcQAAAPKaWfpr8KTpsuML3_XOwGKa-ObV5H5R1-9X9IRnSqo5rxuQqdRdzJq_7Q2VLrDIkl6sysdj6INboLbXl90l_9Z9Hm1EXUcRlw8UuPPWK2ulYleRLBaq-Xr3aaC_QWQI6VBrGfrFEsj2lxY1Nm5Lf9iAaU0LLkHDuyEokN5itJuFEhDcEK3fVyuWSpQEn_lPswl_GhSEyQLbMG9nZbgXAzN_0vRWckfaug",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "1483 York Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772376,
+               "lng" : -73.950963
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8f79ffbbce8fd11624a20ad2b9ba8793ea15e3c8",
+         "name" : "420 East 80th Street Apartments",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 484,
+               "html_attributions" : [],
+               "photo_reference" : "CnRsAAAAlN0AWbDvOTn6eLke4ll57Nv_ydE71VkRGsLoZrIxlgcWJlVSBr3ZcHkbB1n77-vrkpxs700P6dWL3N9Bz3F8KNqfzfva6UUh4TUTri4-DGJw1Is5DeMmiL-d78m_aB1ctT76C7qhq26FasQDPBjG_BIQFXbWyAzPU3kKPu0fHvxTKRoUQwOLZW-wFyt3mYNtVTWwWDiIbb8",
+               "width" : 486
+            }
+         ],
+         "place_id" : "ChIJ4cmH-bhYwokR2NmaAv5Qeow",
+         "reference" : "CpQBggAAAGifB_EW_oU_elNF-DwGFZsbk6w186TZi1Conb6qptQCs1q0c6CSIDxnTTKb6JQgwKCeCJ4pNLM_bwmMuJnlS2M8kd1yflP-oB3sjo5l-R29-l7Bktz1KZ10zsgEk_IBgU2wd8Me2nt1GBsc4riaDW6-erWz-9M_ABFJnj1x8mOnjKsjpZApfOR7NkfQ92miJBIQ4qqYN7Gt3oGJI7qs8Cf3fhoUaAVTeAqPxPp-I_3JIE7KTGM6jcY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "420 East 80th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.771218,
+               "lng" : -73.953751
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a71592621fea8add83be9e6d9396afe6196b56ba",
+         "name" : "Spice Upper East Side",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-Ksh5bWAqydDUA4kWikOHU_JueKZF5Nb482VYihWV4ysTJC9QVsfjrhHSnIAJLJzDyKi67ihKoHFo5Ar80w5Le_Hssto_rQEl7EbXYcbO68o6DYK8YjnECIT3Ik08zEnfVvnCZAl-GQSe-4FywUIDxIQAGyUUJHiRLb5spJp44N4TBoUmYA3d0Dbk0IVE7GaJYU7ZlqCyAc",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJxQ2jQcBYwokRtL2f9u71A0E",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdwAAANFTKA2vCA1ZaziEXxNYJRiW57fAXLYRHsUO_ft4Ai6XWAqPfVPBJZtO5LoWWWbkZ_rU4UdNcrgzLYfMkt3-ibSCeqJvzDNZX3m2JUNaawv0gcq0wx2vV-o3zOS0vKMGme9NKj1iqHYYP0x-w6mdhe31dB_yYid3TtX-OZ5FOHELEhBVAWa6sdjfYXlbZHLfm5gMGhT2bfF6x7-bvuLOdByX23VCP8ry_A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1479 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770125,
+               "lng" : -73.955004
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6d93a658b724de236aad811c4d4a242a0663770a",
+         "name" : "Jbird Cocktails",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAADfY1ILdVtuwb5f04G_EHRzYyRPCtEY-ISjA9mhdpHYGh3RDR48zIcoR39lUd7eJadiB26NVyg_vlUgMr0qZeJC-G8OzJk7ljOdl1x5HzBRThafiKb2rE0MVxy8XZxC3Sx0G3BQPakikBvxOsTTVUsr3a8aQFNlrBiuA3xWt0YxiEhBHxhDJaWrsHV8BNISRFyb2GhTTu-FG28AmpD1wo6SHx17pMky37Q",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJreyLvcBYwokRn5pYraSwbsw",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CoQBcgAAAJtPXJTmBMNQlgV4r-gT7Pkqz5wSBk5d6BGhJNJ5G-sESzRYlbF8NsLD0A5c6hf6g_MovyAJNffxoZypHFPB8Fil0EOfgaEuonn0F07KWPU2GT3FgBxmMDHNuw1zGs09fJFn5wQnxJaMtvSWDTrrvDSTGUUX2f2yy4ZePuqQ1R_TEhBfOxnqO3P993k5uRAXkbELGhTvrigiaNz5MeB4-ZpupbnaOg4sNw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "339 East 75th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.77075,
+               "lng" : -73.95347
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "121f2f32d432657d3c636a2a65b36bc120e08ccf",
+         "name" : "A Matter of Health Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJmS0Nq7hYwokR_R2tLPYq4FQ",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CoQBeAAAAK2Lw1sZNhIl5xkazKTJORXsozzLHIX-HxNKckG6MZnK17shkn27MORAYtzHz9txNNdCxCQw6SwoMKHCbPAUuLxLQe4h_z4sy9wAuePzUPL-ijJOmn8MWnN6_eWDhvbVa--ob8RF7xR-mW01suRo5gARtb1c89X9dUbNnA2anKa8EhCqd0Q8KGxHqFmdyaa1FZFLGhQIHEArB4HYUyxus30rsaYJmy-0Ug",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "health", "establishment" ],
+         "vicinity" : "1478 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770362,
+               "lng" : -73.950954
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0c2ede45e7db45e082ded70ba8ecffa14a93c67f",
+         "name" : "P.S. 158 Bayard Taylor School",
+         "place_id" : "ChIJV0En5MNYwokRr2IFcMeg7Zs",
+         "reference" : "CoQBgAAAABLbv6Gex4PIfthp67qf_nFk58Go52A6rWeaEM7RnmISVRi9KRTC519l1knCOcArgT2LGRqhdinqOEFSpSXTmEpDhRjkhX19t5y7r9Y6Sya0Va5IAAa_v6fFU1vNphgW7E3jPAt_bxtCPeWpf0p1RBi-6vPygezgM8NR-yh23PRdEhBh1x7pPgKRzRm-66e_AXNjGhRgDGyfXiDtfnauN5ZMcJQBOQJiFQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1458 York Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.772067,
+               "lng" : -73.953153
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "60a111e5a3233607d4d0801ddaec5e4119d9d78c",
+         "name" : "Agata & Valentina",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_pFMpXqpFs1B4UfpuzRRxkyWMotc9VrC_6-Zr7hxxc5NFo9u-7_raX4Zaxs8M-boOfdEHeXVqepnKB2JSfz8pThBtUGtHkGDLS3SlsKU7piDrpdcdSijtp-XxCRNA4xYlPjOtE8QzBb5RRohtOMOWxIQs5Yu2J5tExe-Nw3SBHjbpRoUsorlpxqSW5gRR4-xnwWX2LwUpj0",
+               "width" : 972
+            }
+         ],
+         "place_id" : "ChIJtW2myLhYwokRS6qs9B8iDI8",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAAOM6vmiUhJI7d-CaEPWTPMV6y6BBdnyOfg5WzkUyo2WaBjiJeyogMTVnTjN9nflPZUVfb6WILIoQLOeUPxe0X3bKBU0xfOrZPongsaXhlVQngmRLkkFrciInMuoCBoM3U3TD-bpoFT1qN2iNujUpQ9qL9yotAjB5sM5axOxmF29TEhCm_3n-xS-BpOkwpoy92MrKGhQg49wo2nD-AoxmIEz3m7ZzztugCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1505 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.770366,
+               "lng" : -73.95156
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80855be5269bc1662dedb7f748300bb3ff825c3f",
+         "name" : "Barking Dog",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0y2BGr4rnbuEls5p-aRDQdM9EimRa8kta9FS-06UPRJwSfvuK4Y_kBkOvVEqaXd71uuGpQjYftVPhtjmdA1MxJi8Vq2CRJQaOqarbZyGj3srrG-EFWAY5CDr8TzpsZ-FlrkCafF1969rSo2cYr-bxhIQpW1aJ_TrkY2wzNStEaLj1RoUr3uRxgNqEC9r96OKt1FFMAhTHgQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJFbyh5sNYwokRij1jcWbZ2D0",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRtAAAA18MSVbKuaflS8pYJayyLVlgO9NI_zvUH6Qn1-swIOlREuG5xkfv508xLqE0i3uKPXJYzKALiNcbUdwJk4hn4-UCPNqvX1K7VrH7mdUj92bHbLSsV86ltWxtAXx8ZTg4VHMqhhe4zS6KwLzUhoWJCMhIQH4lG6WkGz0-ycYxrZAaNaRoU30EWH6U0qw1Mdasi9-de3zXjDQo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1453 York Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7735649,
+               "lng" : -73.9565551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7879499,
+                  "lng" : -73.94221689999999
+               },
+               "southwest" : {
+                  "lat" : 40.7583091,
+                  "lng" : -73.9732511
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "c05550b4b3b86c58916714a3f960403754ca40bb",
+         "name" : "Upper East Side",
+         "place_id" : "ChIJa49ICL9YwokRDaotFKkGh2E",
+         "reference" : "CpQBjgAAAPKctczkyZjnC8jFao_TSzKINDav0imCDFXM0i2Ie3WkP0gH_Hzp8o8c2cOAEUuH4_6SNUUqWSWbLIDodZ_5YC19UhF7ev65UPVGfjSX7WPOdgpH8KTwVeU8YB_iCKINh6zbQ-WBx2M_g5APHdAbQA5-dziLtznSPMtd6F7lH931Gq9SmcgQhOWGQ-0cV_GJjhIQwsl61vrzsG3req9C4gxquBoUK3-7H8CwoesHK5XUce5Qzky0Cqo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

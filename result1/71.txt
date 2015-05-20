@@ -1,0 +1,520 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAKQRdyG07XUg9wdFNwJsiOR3SVYpRv47kaaG3TE2ovEHr_r27w-doLyH9XWbK_AZWVzyDYYNc55B00NW6DitXFp8bSgEXDYqyKUdpMqBdAxJvdWJnku1EXVA6EMEhPRMGlh_igmODCUvU_DGk3J9GMSzUlq8H6sZcIfwnyagNhw1IYvndZK7zWIzodAsTY2a_Rtu8vCjGsfK4PAsuwIyda4bt_wLZBW-Rs-KfG7rkOc1iUP0FdYDPKvF1D3eX9Ypvf_zVyjnEPmIN5UVG1_juyhXVuz7sUUJJXKKu_fzf1-gN6rSJsztdXLNXNhRCktwlBIQOv1io22xN0tb6nsBSrmFChoUYmflmGwDAG6CV9kDkZxoTXNRsKc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7477385,
+               "lng" : -73.98689379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.749029,
+                  "lng" : -73.98506640000001
+               },
+               "southwest" : {
+                  "lat" : 40.7465661,
+                  "lng" : -73.9883493
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e175a5f113997bf0b6515718a67ce6cabc821bf4",
+         "name" : "Korea Town",
+         "place_id" : "ChIJ_f1FDqlZwokRqCItRNuQIKs",
+         "reference" : "CpQBiAAAAIoHriH7k5t5qr2KHkRoNJunE_Ajo5y5lVJERXaWGSxcmXs2JBQlweSSWCLMQU10Oqpc5R_ARgLeTuzS3PYaCxurmPJwpXLWT2PTDi9vuRMVIYKGvOdnxy3PyNbFP5ZXL29CJPcFzW2kmnrzrlLMssnVsZZPXTpsmGpjHpYsXZo4mZF8wcuuikU1BDPnGaXinhIQfRM2Et5I-MKbHYWQHdaV6RoU-7Fpl-4xVA5cQX7ep0X9FHKcd8I",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.749062,
+               "lng" : -73.989428
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c9135f5a551204ca6a67d4aed2d39586a1763c32",
+         "name" : "Manhattan Mall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAAjURpxMsXT6xJW2Zkc-2eZNMZbuZSHU0PXOntVd8A-S9GLNFCafIE1x_ia_SPWhP0UtHgL8s_djWOkBYMO9Wyy6er30hIT3pLBxMKEAzNK0dl2d7pTYoxuKdTvc90Sl7IzzhJV_Y9NmLS7jTGeEq-HRIQ4svSsZ9ffm7zIb5ZbwK-OhoUZKqvvJ-V9y4rOPBzEm8qR5UNe-Y",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJ6-70LKlZwokRzdXlGpoA_so",
+         "rating" : 3.6,
+         "reference" : "CnRwAAAAPytiplqU6lQS26xEAnzYaInHPoOOV07ZHtAosYe75fBJjVB9BNI5rxcrxTrq6BGzBfMdmvbQ0MHxHdhYOnzfhP-uTbWPqZKT1NgOBGuofI-Lkq58JWq9VXJQRyf4M-cdyl7fVfiyjqsVVVuVkhD0rRIQcAM9yjK9pCNsd-szlLPnDxoU_chcMysot5ss8kI2i2PHjI7rirc",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "100 West 33rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.750382,
+               "lng" : -73.98759800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "61b3c0e0240a93b7fe63dd3de03045956bdaaaae",
+         "name" : "Herald Square",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAT0W9UDy9puucoXhQg07Q6BpeiWbyi0CW4cCbFAPqchbEM1QTUrbqCd8Ru-DgbUevOmTAMSVcwEvWzWe_a77LsIZNNmFJ4Sm6sGEePa6eOTug8Psu54uHTAV6c3okIfC9fBdxnqcXiUapOnIsD3LR2BIQCmxFgUzk8nfQhb1BwfyN2RoU1BmulgRyhwqyEZDypR9vmO3XSeM",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJr3_8XKlZwokRcXIKk8iTh1Q",
+         "rating" : 3.9,
+         "reference" : "CnRuAAAAPYhlTdIUzVP9JfyeEr5QrMVP5u2uxR4QURpCghT_mzKrv1a-j4trVa-woEN9nIC5Cz-5gXNgZ_YOAJsRELd6naXL5WMOC_M2e89XlW1i8BzDdfcrYzWgOw5r_Nu6w2z-QJ5qbtpblpelI5Zjh8KCKRIQpbfHOTWILtHw3K1aAgzcDxoUxVq_z7OAaTH_2A6-JO1hUG1yQ8s",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "1 Herald Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74928,
+               "lng" : -73.987448
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fc0e1df583d09f6bb1807113b03fe2c3766a5571",
+         "name" : "Herald Towers LLC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1zoFPqlZwokRdiIKwu9HEDY",
+         "rating" : 3.4,
+         "reference" : "CoQBcgAAAMzbRH7PzXKvt_zKMlcg0XY42MUCgEIZmwZEFl7uuyFXqqTeKkIwcFT5UqF5GYpsTFXLvoVRfh5AQANr1RcBZ6mjrKVLcrjBY0PZwFwupT5Q4-ThXPg2ggH7FznzkhUdS5kVVKimdeYTcTRdyUsed7jdrAdsjJX-PeH2JC20DGjlEhAC6tjc2g2tp9hk8TO0jqcFGhSW1pw_Kg5eGTLeASY85Nc2OVqnfw",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "real_estate_agency", "establishment" ],
+         "vicinity" : "50 West 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748406,
+               "lng" : -73.985186
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d794401b7e0f195351b6ff9e19497e1bcc5acbad",
+         "name" : "Wnju",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAhqEqszs7ZCK4IeA1BBdy-NC8ITJ4keqUEUeR9IO_IjZZ5IJ-FQG5FYCxaHOPijMJHsgDZUob92kSZjCa-PxACt6EPJGSG2jCkydstJr839W0t--eQpxr_TuCURSQm2UHWi8B6EvnDF8O2RMmsaYjRxIQ5JzD3hKEbUfpw9uZJ4BQXRoUqbBJlpFx3xOQ16qVEhCWWYNysKg",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJaXQRs6lZwokRLUTar1ohBPs",
+         "reference" : "CnRmAAAAsabV5uks6q0aOiif_dSVYm5gE2yPsNelBwUCoAIiV5CQ5ctziPV5y6NN3ebmclecNz-QWSIghaLaWDZwxvLbV1xx1DpI0oUOkzgEjDBFygPFc-59Yz-Qy17MJH4svEzen1d8pmDrDq8fAlcIpULXshIQIOIP9LQcMUl1TkqfLD37ZhoUWE9JNUqOs4n4sC6WPg14CQ3hLI8",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "350 5th Avenue #7700, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74844,
+               "lng" : -73.985664
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc232d2422e7068b2a2ffb314f02e3733dd47796",
+         "name" : "Empire State Building",
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA6n65Rz7ZDT5tIIi_UwXYIWNefKvlw31DEjMShW5rCYbAztJHKN5WIXuuh2PNAkLlU2Q12SLjHQRcGs1h_pJmH6158CYF_xdMOjs1kVy8Pub7wCDubTOx-C2LDpyiGWG91I9yZHSKeWNQ7vwt_d65vxIQLtlsDelurSPIY4eAO4rw-xoUHcFDn2IUtscuxZLbuCOTyI8gMEQ",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJaXQRs6lZwokRY6EFpJnhNNE",
+         "rating" : 4.5,
+         "reference" : "CoQBdwAAAOl6UcMZShB8sbJxIk8JWNQI50E-pSr63Su8VpZMMTKDNb-5lium7h2aeU5CSVANaN_ms1N2s70-MEZLa7-zQy46d-lx9TgxpUGKOu4uPU2_nXWHFCxSq8NbdjzmrvRtW5xP4d4xV6v9Cg5yIG3D2_PLGDasDp-iyWs5KKmPE_o2EhDJT-38UXspVMa5FVTAP_oDGhRhtQPOSi2596duoIijWLgMFdKD8w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "350 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.747218,
+               "lng" : -73.986338
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "09e53d60014b04acaa0e439fbd96cb6f13b2e370",
+         "name" : "nyma",
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARTFN-G_R2U2hOfRgoakQ0D7uIc79V4l4IInvAsVgu1DYWl5XxUJWVv3PXWDpKj9vkxgVQM0VMjJ1trYgCt6ZhZ0bNAbe7xZhg8wlnTOpmIMtXY0YHULax7UD6E51rggEBHo56wB5y-dPht_qnbcOixIQ34xAckrBWOA5NcIFSc9laxoUiZFB5XTf7lW0L1i9xt7LCEd4oRQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJA34-5ahZwokRtVmPqibesEw",
+         "rating" : 3.8,
+         "reference" : "CnRlAAAA_3D2YGIaygxpHu0N0q00vr_-7yitim5vKCTuk42fPnBFraVgJdt39p9v3S1_4h7Tij7J51opJ4U-nhljV7WPQGJhTs-XJFPwi3pGfWe4h1FpIo7HUmDOry5tDkUh2g8lbRZJRTOgxLiDhheOD9YGRxIQoSD98fFt4yBQHSiN1-PjnhoUy0mC7ySnDVJGOruB0SSFAY2UJm0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "6 West 32nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.750441,
+               "lng" : -73.98656699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "31d6bac27afbd05fd2ef4547d2e6a8909e02d0ce",
+         "name" : "Hilton Garden Inn New York/West 35th Street",
+         "photos" : [
+            {
+               "height" : 1260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJ7xSqsUqA6KSTAc_j2XMgEppXRH6A8W9mwL5-ErGiP-JEkjVKeHn01ya8aG0gxtNSC3kKh7rNNkKe7QOKgah-uis65ZrO8hFO8zoHV6V7YaibYTpKCIocslYiO3pIgjKFO_ozg1v5du_3VebTSOCnBIQpV5A4N37O5uTpkg7cD9P7xoUAl2hImXHl-ET9W6J09XSJ5wSbRk",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJq0GzZKlZwokRKu6tu8pJ6Cg",
+         "rating" : 4,
+         "reference" : "CpQBjAAAACmlVhVDMsRserHEvovm-sX3eQ8ZE1z1ma0Q9l5aVpie-Jn-nEcISP1wREAx_4xmptgbbQ_rCmvCvYGs4RL-PF2sEwPdYij-e8bhfDnlWz6dHHaL3kWy0OyqRsroKEJR771KrUB4rbeFBjLKtgM3biz7o1kTFB0i8KqhxpXKiyWvOSMBj0ljSh-qAXdnpJdF8RIQFJ8peJt5a9yrEAVL00U4KBoUWPFJ1v5FVyFhIFcgYyfly-wV7YI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "63 West 35th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74831,
+               "lng" : -73.987829
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0bb363881d14a5c3a44e02b409e5652652f1ebd4",
+         "name" : "Radisson Martinique on Broadway",
+         "photos" : [
+            {
+               "height" : 310,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXMpHL9IL1A697RG5Wg11syhSYsSDJpTARA0AaMWK4alljbQ91-m-v7oR-NGkSYoh-hkDCxy5TCz8a7ynk5OoBiMRVlwJx9eq6JqGee38wTSan-p7k5i2ypod07dSNcxAeYf4fHei2WnP4S5bydI4OxIQ62Kp2rGFlOwRF3-gcHnfmRoUcYgjPHsOgian2l5xd_yJbleqYTc",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJk5Yr2KhZwokRXH_ZR7btGdI",
+         "rating" : 3.6,
+         "reference" : "CpQBgQAAACXvpcSVtgDTg_o3oQVNQlM0flNnWPISSn3doU0TEtTvrMJcWZVhSvkrvE4OSlowVAobKKe1svCX-Hgm9PHN6cTgktLZResNamvh3veeeMXEc-w_XEs4tqpWbWDQAZdv6JqkNGZ6FR6dbzjc-ALx3RS5x4n00ReQ29xSeNidQszgXt5dtzVF7QklgwjTlFGUDBIQokU7efFv9DAeWczVeOa1rhoUqKoHZk2qpdW9xaYQB3BBXm-ZmdU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "49 West 32nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.747832,
+               "lng" : -73.986512
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "31a9c4c3fd2abbdc998ee0ea0d6c949f870575ed",
+         "name" : "La Quinta Inn Manhattan",
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA3W3cKMU6vwoX6ATAzY0eVJE2fVvN5lSjWtgz7llxGFqgA_o_dG6Ka3jTah6KTRvuEnOx_f9Pl5817-NJKkOx2KA-bocI6iABzkeYLlrsw8C1Hf1PKzq7S07ttf5niIQOrha1QYye948ueZOXB3tdHBIQkV8VsZ9DuLC9fFUjIRGz-BoULk59uvlaWx3FPcSz9CvBS5Xud-Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3fZz-6hZwokRul77rQFZXo0",
+         "rating" : 3.7,
+         "reference" : "CoQBeQAAAAKmjY9ui5CNcrt1FLHDuraJMQkX5nHPSEer3kO0LFSCLgOMKVQkO3t9mUda4hY0kV-DETlpQfuNAgIg0wzHuHUvqCoddQ2OSw-ILkXbWHT490QFJtfnutmasfyBVEo2FozwOHRXC8bXQ-l4IRKBpEbXuUFKoFkIJaVHy0puz4mMEhC_AZaqOeXgm6jCzUsryRh2GhRz2TSn9TYhXo-PjYvUAPoAQvdD2A",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "17 West 32nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.750414,
+               "lng" : -73.986312
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e6e5ebc8c2c15f675c1ab1a649439dd54e02ef7c",
+         "name" : "Hampton Inn Manhattan-35th St/Empire State Bldg",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1268,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA6UOwsxGa5AveTZ1eo6S3D8c81DPWJQxkiMghBSsc6i2bK643UvAv5YLMgXkl9GV2n9CXRmHUbJq8RSCZMnLzE47qszp0t8e6VJcocyRb1kZpSySGF7PkZOouJ8ufWMD2ATlnfz_1nxH-FOF2G2ocUhIQ-UjUDuJlSYteh4AEEBad5hoUBrvMsoPTUfiY9BXJpoZAUBiFPII",
+               "width" : 947
+            }
+         ],
+         "place_id" : "ChIJj3HneqlZwokRSLaBk4rvMcw",
+         "rating" : 4.4,
+         "reference" : "CqQBkgAAAGytx2QCGGwiJ3cUmaThu71YtlhbyKLZg65mbordtnHCqPlK2arz5IMgeUvtfzQXHZ06A9cxNotc_hINVG6Ewh-CDQmMXAVyhBgM98WKQ186FBsVP43yV7xdTThwsNX79AOrcjwbww8Bq5APPXU00TMByhL1K_Y1EJJVsCoNmknQdvYG6NV59nZFGLdGkozWUXECbe0nDuQrZGy34ZLkALcSENDoPRH6Mo7I02km9ROdxegaFF0pLtDNNwulhcWI7VfDlm3VZ5J7",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "59 West 35th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748234,
+               "lng" : -73.987454
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "647f3ea3dcb8bc15b96e444e20ba61a988a76ab5",
+         "name" : "Hotel Stanford New York",
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAr77AohlajBf3BTRSh4PynrerwhzbElrJO2cS4qutb3Lv2dgFbiehLIM7mz1wweBzOHsDaH5CM3QsTI9TERR7uXjeVAANlL6m6eb6h3YpdHFaajXi8AvPblIF-qbSu8tGXYRL6ybwySp44nRwEFdHVxIQjYQQnLQtbxwb8AyoIrszNxoUtXbIElSQ_Cd6VDN87_8OOoJq2nE",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJoS_d36hZwokRtJmqzJNEsrs",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAAn9qTE5wbLD8yjMdreR-8_9_AJo9KF3fzttPG4B8Ql1wEkBp5SYWqf0iASTVPXAKCiN__ycfBFGw6uh3aMgavAcuxj-2XaZ8rpN8WSYAr6R1bJH_x0pyRtaUU3WBu1C2TYnxcyon6-63krUGMtOa4PAwu9nobTHXs3Mwcohb0WLEhACROaFNte3p2SaTrt2Gf04GhQCm98kMwDa-_WUFiwfRWVQsAeiFw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "43 West 32nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.749384,
+               "lng" : -73.987244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b7dd7113ac37bd738db4f518219f9a8832239ace",
+         "name" : "Forever 21",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAXZrFlZcAOI3yW1hMlY2c91gg95E89-0-WPxa9VBdujcY9dyGgSixb5IT_I7ShxAW_ZIN5e1OLBefj_Bg9TyXtjvew56hWK8ioPCLXaAjVTuq2AZwHAGEYW__1UmivnrI1JvptlJ51ibjxGdRyjH_0xIQbNtWbghfWYe7H4DZV9kkKBoUd5yxjuqwR8utmHa4tKuSkS2JjGg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJA5o7FalZwokRFVOgDj5VHf4",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CnRsAAAAjgGMLajhL5E7pJmyT-mHOn27PPec-ehwsXJO7CssAyqnFiEc08TkOeV9zTpsMluGF5CmOaFUaDK3TWbjglzEvJy47gbq6hkueDFC-Y-v1V0OJENNoDxwgT-ReKJZ8oNhQ1LBLRxa3aZRQElUv-xUjRIQoiFx97bPfDo_CZtzRAmrDRoU8JMC6Ir0BXoulo_-KviGlVsqrxE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "jewelry_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "50 West 34th Street, 160, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.750474,
+               "lng" : -73.986068
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "80f014119ff6ceaa68c42e9d5d8f7e9476c3b460",
+         "name" : "Holiday Inn Express Manhattan Times Square South",
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArWI7xYgL3UryIENBF7o8IK-ivGjpU5fQOCYSQWYkZP7sVHuZBKTU3avN2P7hfZwCZ418Rc6F8xUda6T8lUVmg0FGUbqFZqTcojM-EBMW-JbDoYCfN8Zg8n0lWfVH7GkdfkpUyErlX_BWnss5-naTHBIQoT2mPlLbqWcv1enXunjziBoUZBtaiFnBWbIEoLLLn67w1FdSOGU",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJNz28f6lZwokRG7XqHzfM0Us",
+         "rating" : 4.3,
+         "reference" : "CqQBkgAAAIH_KyhVX8_HGc0IIJohTywEr5w9bQ0vg1Ho6bk5FD_hGYyG9jqNOk_V4L8WLmPLwroH9kdbX6ne0t4rI2-xumfo6IKWprGDqOx5JAUHN_hm09sUFVheAo9QZyBL7v7Z1g242-w3RKmyA3Gm_kXeUINc0_GakohQs4tZoRuWbyruhrPClAaZ2-hRP0NnvbHq8NqgCQDUelUuHlquBzYMaw8SEGPWsjw2j_D1AB2BCeJHd9MaFAG66cUClgINjWtJUWEAOZG4KHrO",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "60 West 36th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.749558,
+               "lng" : -73.986616
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "714d5328ee5e6a86c43fa9b5d1e67a78640d4b2a",
+         "name" : "Zara",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAANO1-4brCCOiyk7y_kDw15N8Psxa8L8ODfC2u0ME123Xgr6Mi9sY3FwiQYVPKRX-Z0bonozpbNEmAkH2bb8nK7G5LxqbeJ8B9C17NseQBIXkyzKQUC63pkunf2BAw0DCDzS8XwUKdq8V9mGcE8uCxvBIQWnJTdSLAs5F4GiVMCokqAxoUfZKPLfvieTbNmNDd3K3V6oWhEYA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ4QozbalZwokR88tFRSL5lC8",
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "CnRlAAAACpQxD3WNpsA5NCSV3zWUYuZwX9LNUm55YeAMAcTQ9-A3valRjjB-koFN2UimY97gJ4N3kkB68iQwtETudtYVj8Ap2TxhGKBlvDl3Ff6ntSoq2hSjPD7ENyx-0xHJUSjQ4JkmTWbIZe6sHd92iGRvFhIQZGGAlh0QxTpRSFF-_b9wYBoUjirwh_jQF48nP4VGVjaHpLvqbkw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "39 West 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74723,
+               "lng" : -73.987004
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2e08da61c17362270847d99eb4ce6e5b9e4c6c90",
+         "name" : "Herald Square Hotel",
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlLgMC7heMDBvxY-oZi76qdLmIiqfDhdnUu0GnFa7m0B0UidlZD8rOPF7nFjYeyg_Fi8s4EnHgeLUPxGHx-Ol_61BNrhIRj4DCK4ModPtstlcFgqGRCMZwnuSDZ8KEsu52WKZL1y7KaUzvME3M3ss0BIQQe33XUxoZVnQFhRfXBX1ixoU_0Wwg93xAv1rHeI0bPjFoGnhzK0",
+               "width" : 282
+            }
+         ],
+         "place_id" : "ChIJ5_uwwKhZwokRykJmdId_ffw",
+         "rating" : 4,
+         "reference" : "CoQBdQAAAM7_LDk4RXTtVwswZBTYsKFyfO8sjLX_PknZNcydiX3gl38cJoyS27O16nUPNswHTt6l3Vx95w7C-_y5rfVjNxL1kv0iaF73ZaefModY_aJSM6-sabaA_DHXZeO2bgyKTD6DHA7ZLL54mLmE5z0QaiiNM58NxsasXgN4rGZBsqpNEhDliJzw-A7vmdnPxbgHV1aWGhTGAw-xECeEnbkoC12w5A51idXjqA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "19 West 31st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748374,
+               "lng" : -73.98542500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f866a22779221edbfd1bb6c12197b2aa2292a5b7",
+         "name" : "WNBC TV",
+         "place_id" : "ChIJaXQRs6lZwokRZZFcQAvcxdU",
+         "reference" : "CnRpAAAAUdazucAz_m6rBzXmmEuJsm3YtC8tX8vsjcXmxk7zRkRIcWNAR3yOtmxye6YsDA1gWhB-_YlsU47sk5t6hK3fGcNfAV8dHO9j0zFc_00dRkizA3kycInol-qkV9Cun3p69H6X4YDlXv5JMpkzUAXqdhIQjjwXaEBNaASu8Yy9Oy224RoU4v7mjZpZ6HkkzynR_Ze3jCoiX3A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "350 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748424,
+               "lng" : -73.985713
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "60650be04462c854710b0cfcecd96ca226fb828b",
+         "name" : "Empire State Building - Virgo Business Centers",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 398,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAAFGl0XOiXgNJBGShjxRdA3j5oKAeSObDc4j58GK-_yeYgnx11GS9I1KOLL1Z8Tlk8yaPAMPtQ5hxS_kKAYYieIzWxNs0qYUBcmnDEm0LouxKn-CC-L8FE8FyvqiIMwOqOvX7xHbSqUGMkXTJ92ugMKRIQfRWNEdyoMZYef50pd0IJFxoUF0l6nxvQBL9yretJmeZjHdUExKE",
+               "width" : 398
+            }
+         ],
+         "place_id" : "ChIJaXQRs6lZwokRpaB3LkArI2k",
+         "rating" : 4.4,
+         "reference" : "CpQBjwAAAFoHecVTIBJ8Qik-9hiTANDhMgH0QbHVV0aknVkn9vxIX7Uq0Shb6TL3uqavNttVaF7mQJ0jBg0AJKJ7zbSKSj25TqCiGTSvu6TLUjWVjc5MSs6SA-noCCPHYna3LhuHOEY_d4aYVvEuDJGEvYAKhT3A2UplfGPDFucurZeL_cVzyQsUj_t994xQxK4zBodLyxIQnPlkmavScc1jZezIsDAaoxoU5xGYtVh2kDxvUDsv-w6OIReNPx4",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "350 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.749167,
+               "lng" : -73.989113
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "22ae1f727d2ddbdee96cfa8abf021011f7ba3611",
+         "name" : "TOYS\"R\"US",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhWDFBFVYwokRTxyvg45Zcwc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAbgL4xo1Cm706HNbnrMm8oLcix0hrrV7pa0Zi3rGFlwrh5bGP-9SBXruWAo7C6N4nt42rrwJRNSruHvw1gqqt6R_0cCgLrz8It3N6GfNh-kGxeQV6bh2XfSA49YmBGwdKS6saMiwZowptGl53SpeZqhIQ6_uYr1n8pz4cdj2FwUBVRRoUWhQPegfSzOsQvW1LODoWbv4GW2I",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "901 Ave of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7442,
+               "lng" : -73.9883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7472713,
+                  "lng" : -73.98156609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7407795,
+                  "lng" : -73.99187909999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b9a01e4ad8e6c63982349bbd91f85f46cb4d5ad5",
+         "name" : "NoMad",
+         "place_id" : "ChIJ5QsfX6ZZwokRMLraO-At8_U",
+         "reference" : "CpQBgwAAANb70XB3HpJZvqg0WTrtNsv5Agt2bnQlV2SEm3CSZ_ktTbmJWKDuGi7JnA99xGGXipvZxBkKkrD9q1zXnLakRCd3CkuNgWTtZSofk-Y14NZ4MRxkRFq7LcJngmLSt80P6jIUJHMMq98Yc8ZNTweAAMcFWpngfNb0iwuJyvSr_9ASQcUtfmHCEoxOiHPsMRHAphIQAXnCenl3MHHhCSmpO06RcRoUu4EmsMsRgqW1t1T9oU7KATXUXOg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

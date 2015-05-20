@@ -1,0 +1,593 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIODj9wv9aZWv-gYlrLQHX3Jqu6S_fShIle3Kz1hnngDXXdMTA94IH-qOtPQxjvoaCRrDXTBU8jwK5Ifk6BriT1uy0eYl_vkHN70hRS2rn3jB7budCI-eDr8Zp3meBajsIEQpjSdAYEbNrKWku75RNY674vDXh1hL-X0ecY2UhuSKr-FjKcIb3cNxVvhu-EdjTPMHxXFKbl6SXwOte8f6uHAwHMfTcaJVi5I6JEPcDx81wDztacVtlhZjQL90d_1qrT_sQL2BgUpvF6WfD0eP3iADUOWLuOeg1v0POlcZ2O0u0iyVS6w85_19CgZ3vx_dBIQPLFl5lZTcREi0oQuoJHuLxoUZ1XacSFgbG-jNdbK1GLyOvDQqIY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkQAAAHF55Xr5mW_Ftl69R4RUv3Ahx7RdEib25J4My8dt9kAph_rS_qBAkn00jzE5KK-Dq3BpxnVgUrPui_r-bcahe-ujQr2vBgVHkviIBB2oxWf4iqXIH_1KWiZk2kD3elqscLmF0N6QauN_4bVrHmuK5JmsZyeg5_F3Eeepbvl3fRcewkMlYEvTD_pAQgkQM4YAorKtIskpY-pioy-HjBgiKVsSEKacouhKWCbMUCOsZq9dPq4aFCdekDFbKMsV9Unt8p4MFRhrE_6s",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793946,
+               "lng" : -73.967089
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "06f4d06e637ef777c3c6a4cef0472041a1759420",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA1V4eVM-ZtWnHwuNXaohOGW5G9KeYQlYEqyS5vv7od2lG3d6T_1uwwXsPUtHyqKsv4hWdgu-OJpUXaOCTbEJ-Sdz4rE4uWMQgC9FrP5pA_gL1MVIFed4pAq7bgFg5aM-WAl0faA9GPgGDzZiAt1ithRIQkyE0HK7m5zA-yn9_hiE5JBoUNrG6Uu9vlYNt-TCHAT4GWri44a0",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ-6ZxFif2wokRaRaETTJc_9Q",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CoQBdAAAAIH9KvRF1GbGbyX2GdnMWwoVxAHhNBKgMGEsfqAIpRyMhmFKkTHtFW83e9GaJuk-8Ez2sj-8Yv3X3cSLJ1KaBbeOKZq4yj5Xu7YVBAZ0224aoDPn5xboI8G0wEkKEbljheFIKj3Y3FvkVhRSnK2IZxprjMDOlS9QiopPO6s9FvgmEhDi6Q3Jlg33Y-4QWe7Q0NZBGhQB009CH6MgKUfuBLnsWWphbgRYZw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "bakery",
+            "convenience_store",
+            "restaurant",
+            "grocery_or_supermarket",
+            "health",
+            "florist",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "808 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793259,
+               "lng" : -73.967619
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1c0283d25289809ac4161496268c97078412fa1a",
+         "name" : "West 96th Apartments",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 268,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6gVRuAdG_qppshuLSBl36y2yY3BaRP5FS8xdBzNe7HPQ5M4f5L_L5-KIr20mTjtpXObDsM3YGMnFfMcfCrrkxX97l9rDTNpHjIYiqlAe2byDdwCpW7yKYTsXI4cVDpBs20_RgtxUSxTNPd4NS1bxERIQ5ALq0WprsIe83ZIphwiT2xoU9ZIkTt2sy_jdzxZnENwlmC8WEdE",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJq8owcif2wokRsY8wNSIBaH0",
+         "reference" : "CoQBdQAAAJtvXCf9ZHnvrlKpTObDnaDVVkJ-IYuuJj5qnq4eBkExXdC1DyTDYKeu0UO5QIdUHlmG99cS4JI7wPE-LINqIgdMWRJldxzvpMIOZU2XepY12kv8-y1_9_EevEo-cYbVZqvp2icF0kzNzkOQLUfEPDCddw1aGBlAm5sneGS6mls8EhAFNg2Uiiq31kKgTMyiPLcCGhT5iWCkXyPPlCnMFBOjzbdG1Fb38Q",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "750 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792497,
+               "lng" : -73.971231
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44bf75ca9a2f70e6c85a67fabf851dbed040987f",
+         "name" : "UPPER 90",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 821,
+               "html_attributions" : [],
+               "photo_reference" : "CnRrAAAAUzvFQ7MANBXMqmQbhy7slUC2A1OsYPqpp1axfonKJ8gY8LP-71SVQ_3d_JR-I4PqWlc4lrOzH0TjrT3EeEjBEAmzviI2KcYAwM_t4yw5Oc1-iE97JsJDIx35TtRcVJ7JQ7-Vwqri-6DoFqgAhvJ83RIQSoMrajBKiJyUVGdFYSSESxoUy_Cz7hdXMv75wJY3DYoEWabdc00",
+               "width" : 821
+            }
+         ],
+         "place_id" : "ChIJg4KdrIJYwokRa-Tu07gsa2k",
+         "rating" : 4.7,
+         "reference" : "CnRpAAAA6TtpRNHOv0s1roxl8hrECTFytu8wM2dY1T9gNjFpiqUvTooL9GvVjQBwpV2Q8E2-WGTivGNYdFq9IHTt4c1CZDB76uD7f8F687_om_h2MPMa4RvBeKunJGbgSG2WzN9aU0qobA5fEpgGPatt3qA78hIQXWbI38rr9B_7ln8iINzwixoUCAitAqKOop5uqAzYgjB0pjDrAko",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "697 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792948,
+               "lng" : -73.971436
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bcbfee4501dcc4a7550f7acef0387664c5cde698",
+         "name" : "Pio Pio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAABjPmLxcZv4TuZL0EaZsZsct1b3LLvykyj5oqOKsdfyM1xqDTylspp7vg5xuEidUNu45n8Qg-2iIdiaci9RUsEvgc2Z0jfx9Q_aZAxz6GTWIxbbjHStXyu9NKfVty5YLtcI-0YfmJ82h5BW9wn2gOpizt2JesX80f_4vk9pwKRM9EhDJ2jBhGQ7A5Ooz1yGNHDA1GhSN0TjPfqjXwE_cYBsXFu7u7WYtvg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY7nnASj2wokRHg9ymgou4dQ",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRpAAAAIxulz3zI1SlFC7EluSLg_7eqTTiNsu04MZ11JXnZPsSG-3lWkDoqfPSP2W6VcJEuFXJlu2XfoMr2PxqYOS1KSOCsgD4eTKdj0D68oD_heQZOuuUqblGYuqe1OF-VPRTXG-m_KIrMtOUuu14DpOlR2xIQIjJMEgcRNNLO926nihDBSRoUWrzMcT2bxGRS6si3zJswL8DxrQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "702 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793984,
+               "lng" : -73.970817
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9cb4e3d31a05ec24e189a1ab53afb0da771cfab7",
+         "name" : "Dive Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAcDmYCPflTqnaDePfLIKAQ75c9vCYGh5Mmc5wLBTKZEmd5-21_rLoNmZBNiHvQTgJ612p5K9pEOItTQ0T6yLv68Wf6tezkz5TubNch8D7Fyi6RMQCkQpfpHlkLT_KWKciBzvrnTQbKB1yviGX1gLmNBIQjCW82BeoFYE6f9OzzhwZkxoUMuQHfWiMwX10HaYmN6mHWEOm2ew",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJK8wm5yf2wokR9QqGu_Lodr0",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRqAAAABG5n3B5yS7oLWkliBVu8I54RxbHQ9QhqlwloJWXWhGcYzkuZijhzw33vzBSGoOrMda8ZAkY0kMu9MR5YkcWUKUn-Mz4oiqJ2F1VIvQGB827IdTygCCm4hMLIBP18RfxrUzA42lsBx4gd3PHjPXFgJxIQheMK6_Obbm-qWGX9o6CWghoURvQictknGFL1g1-7LtbHfL99u08",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "732 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792836,
+               "lng" : -73.97087999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "952cd4578c59af97b5641a204b18354c53fc957a",
+         "name" : "Little Shop of Crafts",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIlHjn_HajSCULMLce2P-_v1IglPaXY9QlNZ3ByJw_xQaNwHbJMZldlNuqOmVKpUlRyd2nKbEOypgT8G5ienh4ourBwocFqy7E_tgsxB0ysvIY_L2kCMCPZwXGucR6yDLs4Pf0ovD2mc47b6fiz4W6RIQQ7EEnwPTBpBhKTjmh3um5RoU2oVX4xHXmdHxH7eSaeU72tNpQv4",
+               "width" : 511
+            }
+         ],
+         "place_id" : "ChIJMyhr_yf2wokRGf4laFLTHxI",
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAACF6RTXDLA86u7hPAlULHFSAb3-G4sHOecOhcED3u2_K4odMnstIixlsZ-dn0tVVtCgjgigZneghhvvJqHezPAEIda43IG6s5ZAkjNc3kf67KioYzMmY1i40oFkG6dSsy-Vbvid_6NHROC_YgRaw3_gm0tI0CJGn5CAO-1AetWNtEhDDOJqNU49gbscxeXJ8N-OPGhTbaI3lCjqUWhfiwIvxvUpWbgtCBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "711 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793574,
+               "lng" : -73.971081
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1fe2b373a0e0a9915966d1f5a6cdfed936cc5aa5",
+         "name" : "Buceo 95",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABbzNM61aDchhhplz84Ff1WiaFhlpa-oyQxoSQdRDUZOenoqSsoqadvpZhOb_zma_EER6F7FuPU6zmXAV1-keROyKIysWvgyxq164MEabRgP_EynI-Ys_tteBNM72ncVoCVyAqilbquregAqoRYMA9BIQi_0ercodbVeF6ygGHEYmNRoUt-5GSn9QQ8ZxJMI8VyHUNNf6XAs",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJI2zQ4if2wokRRGvvx2mUd9I",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CnRqAAAAtPqWWuIOK_WFOYitdJmrLNm_0wItYA-6GJOXHjNsmr8o5lOXGZSs4EnKsA4opmJLhHbQcMSr0MUBQdXZC33Z6rx0Z2rLOGT5x1feCxm3espdDyYJtnC0kz-dr3lehYmDXJbVYYGZG7qQm2pxXoJXRxIQKiltU-Jg-cmtZgls8MXKphoUCRxN34_FZBlH-rrKJEsKdmMvUvo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "201 West 95th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793121,
+               "lng" : -73.970786
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "35b8ff69f08f23cd34e63d792d0e5dad5e541ca6",
+         "name" : "Albee Baby",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJZo4-Sf2wokRPmcPJGN3H7U",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CnRsAAAAxzWhjZlKCLvBUkNEOu6trxExUzqp6fMRQv6ao2aeaX51a_Eg7Tbs9ozhkg6J6sM4eK7i-_L5aerPWMemAFz7uv4nYBWJuzr5QNmqEdatc_QK_sdq6QxEAlXWBjaFXh3MxLCX8uObhTHPbz3pE3ZRRBIQ3vI6qY5fwYnugdEPtko1gxoUPJMDQmffDqrpR84P_DCNdzL3VUU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "715 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793849,
+               "lng" : -73.970725
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b7ec3cb99e8659afa7bcf476ae73fc8f494639e2",
+         "name" : "Futonland",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1333,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdAAAAH_ef8dS2Jx_NK0RQMylcOjxDdBf6i28iarQh8SWwiT265YhsHsPiQYFpQ1wWHr1WChyZjIrEPF9yzKS2LqotbkdQldezO1VCX74B_Fh4n_6_j8fZKixULC-mFKRIJtIAH0hOFyycoh1mPd_O82Xe7O_c5rc8XCRypirjbtnn57REhBlf_yEanXQ2ZPy3fGYgARqGhQDYXOzsVLnruLkVAH6-biodkbtRQ",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJszaT5if2wokRUIhgIVEcVP8",
+         "rating" : 3.3,
+         "reference" : "CnRrAAAAelncNR4MbthDSZglZoinpdh7NyfRptJZ06TaUCtn91oveD0AELZFSDnxsAVPiOpIVuO2z9tvad_V8yaEZ_rXIjE5wjMWZxVnDtGp9U48LS1ThpCFAbNYIHxt3kLOs2XKOGej5ELEuBw_iwh2dukPyxIQ3KyR8rhUfcCzUivL87Xl2RoUlLascmG1mqodJLOUPqhJx4Hcscs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "730 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793328,
+               "lng" : -73.96747499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8e7c8b3a1a27d5f9f6049960fdbdf6a5a806eded",
+         "name" : "Birch Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAUNl1cxOI25nMoYFCvOyzYBtqiMaf82n-8VzOP8NvUgDJChjoKKuL4ALH3hs7nggsu1oNujbqhnJY3CX3rGQAMwuRyiM--morKfkkBW5DN0mTcP-Io238eMb-Ha_lq8blRS63rIiR5RljoXflVsRGeBIQVNTzR8JK--kLf90jgksS0BoUAfC5kHwLjSYaspgjzx7GKrRqgxY",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJVQZ5bif2wokRdOKgFt-pfL4",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAs_X-HY2Now0VTsIbAX7S5iayupPCeu9I6XZ2rcvQmHCWMpuW9-KGEjiMx17Xr-8jXKggRRsBdd23xVb3Y_F7u1QOPI5Y8Ib0C5C7gPjvTAC8e2EYrSth-5XoXOXENriiNPi3H_GETyfM6dHhH4k-zRIQgHEWV1VJ1G9JwUpvU2Re4hoU7TCOhltfBXotggtsZhmlQYfzgSE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "750 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792033,
+               "lng" : -73.96844900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "70986a069381c2cbb5044a4c1fe37ede3bd7cd5b",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBzRbzANZwokR_otmB0YBI9E",
+         "rating" : 3.4,
+         "reference" : "CnRwAAAARMTSHNsn0URrPwRQyCKgvjN-Xm8pPEGhbS_-nZzUVWF2XKjCAwdSC8Pxkp3Q9wRnT06RxNXi1VmTL-rOESTA4tfMqGs8jDMTEP0btObgGO7o1IWExpcfP_8zUQgLrXnrHmo-ylTPWs-Wt_bCrrKeDBIQ1cthP8qX8lU1V3PW5F3__xoU_9-Py_moGSa1yNXF46-RsFLzjwo",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "700 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791103,
+               "lng" : -73.96907299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "665c55b391412e75ac7b8cba4653cd8ef63de3fe",
+         "name" : "Elizabeth's Neighborhood Table",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1263,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAFdrluWZ6n_CnylJxAcEzoRpJ170Cr-y1w2YVa84FYNElDk3SWItE7N--HpPd3dUzlLAqFQH4tv88Xxw4kGSA4MEDkddPddtLrqpIJ7E47yO61XtCyoaDDh672jSFUhMAXftIzl8pT3Pse85RIiQsgBIQgOikDe1kLF5SrY2ssp0LMxoUeipb3b5RZIziT7eudwaZ1f6X01g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ32QHEp1YwokRBKvOa_lI1g4",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBfwAAAEDeFlpSnySr9XJuJKJhSr6SXSAQ__w5wnyo3oPwttJlYxiZjAAqnvzo6g5nLl3rDEWIC_GOjBqBxykJWutJUnPLs_AsVEpbsHv-D0AMRcBUnWKRazA-ih7CQ5hqGF2KUXpTKbxxl0AV9wixlxeoIIxnCi6ZnFh9xcUd-Bw-AC3oEhATxJO4tlJ8ozihd9OLsHyVGhTrvET73cWv6pu-BbIq30nYuepvOw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "680 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793226,
+               "lng" : -73.966813
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "debf90a19402dd27ed350221b056d4d2816d364a",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAArG_A72AC26SP-fU9Id0rpSvWv1FGnHd6C950oV035eV_9s5JUxWfoMcmpMwLysCGdT5u5CFVUol-cbAYNjPW5vBm7cl00h41IZGLd96AYfAW0oQ19Q4kDLpSvQ-LLqfR1boOis6dMkAs-NNM2CZ2wRIQ3WGimepXZGNMNRMZSug7pxoU1TVogGCo4tSrlTZVSgGQxK2mY-Y",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJLcZIFSf2wokRTB6lYpC50Ng",
+         "price_level" : 2,
+         "reference" : "CoQBcwAAAGuTwAilIkDlMjs4nHPOonB9oaCHPJSJZmQAv8eV-0Ye5bFMZdUlCv-UXYulBbqAJ9t2cVUOKqiGqOSZyGUFe6DbO1PuQtQNeYE5b16gb5C9X-7DLJ4Yp1zkbBTUTPeSW8VmafGReF0yCZhks6mYbJUZNzBmZtMNTkVtGDbhW3a9EhBlBkvsEgrPt_V0ooKTuA9CGhQ_DQ8fzNyA7_Mz76PNEj_isP3EcQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "741 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79417,
+               "lng" : -73.967606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "aad904b4bce207a61d735ab0d1986378923a209f",
+         "name" : "New-Closet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAXYXyPY8BvBcGym_WRedxxHcNbCt0_PrvDPrjYH9nhNuP9jOqoU2WP28bvArvDhgK9d2Sf95KjhUqAw1-yFn1dFEBkesVhMC7G_JLxbnci3-aCpyKdg7WX1KSBQyCh7N81wH13Up1_5p0_5u0oJ_7ghIQKhjWzRj_wi06I75UHS1ZvBoU_vRaZOnuF4ubylON8Br8_9G0olo",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJaSkvBSf2wokRdZ2j3iAn-pg",
+         "rating" : 5,
+         "reference" : "CnRsAAAACvJZ-x-EArppJbAyhYW4Nn7vljG3etM-mRNUXVWzF8-HR_xx9btVONjBHeGzHFdyqmdi5Nd-iXPAEiwyVNqFFLrGHMyUmqrdrJmrdZpjVgExYRuHERmbqo_8Li7FHykwxcFh47oxaqoAHPwugfCzcBIQOv27WO3pGg9q3sTzYEYLaxoU7-XdkoT7zK-PwoMd0EHGThRkWx8",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793329,
+               "lng" : -73.97114500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cd891bfa94cef31731387f6b4534fd2702f860c2",
+         "name" : "Acqua",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANsKYAHh-lgY-CcUFpXuGlHmh7vCBTkmOk8wp6AiiE26I3L9luxhEylbjYckCdPweqwtbRzJywXLUN9DtOJvX6jyxRGdq_llgvscp3zjOiRExnBZoUQJVrgNNVy_f152yhDLPiPQrvzlcMgVBntmkoBIQo0wc-h5dFNNEL3sU-VzDCBoUVlurpEuOKRUm-SUCo0IMH3ppECA",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJix72q19YwokRLjgC9jkQGQ0",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRmAAAAGwXHAvzP5QI7jXBdPXDk-9dYCqfIZg7pI3XTsZUat2oSEB17Xvg9_dwfur_yP0cTEJ5kdriK0WB6SZF812kDH_uPQSgekJ_NBQGQWgkMyffZrMoccrySzceGg3tPyjf3lXlpeElSFcOVOWQ4wvC0oxIQC6pg-6Y_O1Mn6Pjywms27BoUMfRwNdSLFtdXzRoLFtAsjPcMbqg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "718 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79136,
+               "lng" : -73.96895600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ccc66e093a56fc3b9215e13ca83baa80f49dc707",
+         "name" : "Gabriela's Restaurant and Tequila Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 663,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAy7NCMwuLj0ZjYH12Ql8_6Ze8oWD-EmVKjIUBANV_9IHEFMWv4iCcQUZAo_fNeOx2b1OI_6wMebBMHNLRFuTlFD7MWoiRFM2EcGKLKb9wT2Ouz2-8W8fkUqOKw5FJv_WBL0juDw--Oq5uuarFRqhMwBIQVFts9AxT1iNJlcZFZtE4-BoUYWDACksFIXkxxeWrGlrtLwUDrKA",
+               "width" : 884
+            }
+         ],
+         "place_id" : "ChIJ-0-dRqqzQIYRDQZUV3ePQzs",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CpQBhgAAAHcC0vMYVt8b3jEzT41VJCgzoTsOYEK1VGZ8uXqHr3DY6q521bClSh7l2yRPAfQGVwVtB2jHKQzxotOMChElfpHKH52Yq7Qu7oeuptb_ISG759-_GYGU90teKz7nVHu5Vx0WoFPf1exHUol0-vwaJJaHh-U7lDcRpBoCoKm-wIX-V57o9g3DyDKpMMqHEsiyURIQFVWVXPL8ChF2PvBkNfVTchoUwp909IhBodouzk_dxmv59uqbK4I",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "688 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793047,
+               "lng" : -73.971296
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4235a9163db7a57557054250bb4d6f69afaaa127",
+         "name" : "Ayurveda Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 165,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAI4NNmLbseqKhaWTnBdqHWLIvx5DqSv-SQJZD_MEEVwuJZUJyf1cV_L4LgnUYoznos-lsw2Oca32cJroQdWJ9e_Y6ouuEyl7c7ApLkFPsQHVk8WekvAwcz3fDXoyL9SkOS2XiK1DfeqTBZsxxNRAgfxIQPsIMc-cINTwIA5TGgAE0uRoUYrnTDA-SV6w0v2WOBEuBtfvsq54",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJLzmpASj2wokR-2G1YKuALno",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRuAAAALkWSqKmT2BBGChPXZb9-0YTnTWTpTugR8PKVcI0eF8XkE61XbjerJQgsFA1K55AqrsX28WyaXUjnj_iPHke8HlAa4jS_w6Wev-k_e7SRLCB6EqMC0VK04Jykc533mP9GZA_Pj7FvvsO4Nvr4YS1vWBIQfvcHdqcKQRnvVV8kmKY40xoU6sUVPCGUTg5yh6thW89_9Cf8MZE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "706 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791542,
+               "lng" : -73.970952
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e886adcd25bb37cbcf22d55d36f72f6fa2091952",
+         "name" : "P.S. 333 Manhattan School for Children",
+         "place_id" : "ChIJA6S2nl5YwokR26k0LXOQyus",
+         "rating" : 4.1,
+         "reference" : "CpQBiAAAAIOxfWjQJSoL4StrhMGh6V4h-NVt_Er_XXCIUEi98kyejbri7skg-VT4gSaADdIQga2DsJT8v7beuWxofKizGoalStqxtLiWujYhfd7kCn-qNykhX4yNUKwykgWqeI87Iq761kxEvEWrH0FiD2Q8TR0D8Ql_uO-unuNceo1gkvywJVx1ht3bqFis8ebAmr0C3hIQhoSmfZ8Z2Ro4x0o6JSMeJRoUw01MoOc0SNfAHmUY-Wi5fnMqHJI",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "154 West 93rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7870106,
+               "lng" : -73.9753676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.806098,
+                  "lng" : -73.9582099
+               },
+               "southwest" : {
+                  "lat" : 40.768483,
+                  "lng" : -73.9963789
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e1b498aa40f4503f70b3eea86ee84db9b2e7b3fc",
+         "name" : "Upper West Side",
+         "place_id" : "ChIJ1bsw-4JYwokRbMTfRoskJl4",
+         "reference" : "CpQBjQAAACIroiRUKazTfu7j71DxV_vvT-j-cisELgwuOvVHO4VcB2hn5ZVimE3abG0cSC63h0FDVt5yWHXWAFAEyjJHtn1Jn18iM-XoIYmdCBSu_VczhtFWq9FYFINdgi-DWbPMY3M7R7hh2rFCZF0IBv_xMpVb-HoeqNlgMwMIDjlsm2jpua5j7E_psnLWtFVPSzYaURIQ3_Nsgh6l4DxKUGfnumDPxhoUZzwzxFNn-0H7O9J9J2ORMQhMR6o",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

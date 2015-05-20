@@ -1,0 +1,538 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIwxMhkMV5TnmTQPsY6dHCbpHwN82CiAC49nOzcauERPlpbuvxx0BFB0gLCTo2Nq5l6rlZUHTBJXBjLgD7cfkf6pzdU7Ps_k7lhOdGzLuVgtjkojya1lRjG1R2LSpK_gnGs6YyJlsxZH3G7xvz2V-wnYKyH78FtEowotzlpQqceQQI5567e1QFDtEwyAQyYHk-8fanJmzD3-OmvxSMUC9cmctjnO5cbBzM7zx8pa4nwX3butYdG8pRQ-CTJlZDBZqgZdGkLOicVhWozagOMdRii7lGFPEOiu8oT0bWEyksip7hzwVs98xGVTp3Xa4RuBtRIQ2QIuUPP603r1mI-VuEBowBoUoWDla_jtk2ZBPrlMcq2hFZ_0kYg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkQAAAE9caSSSXjk7TPJZmT3auADfIOMBCVGdmuKievJXWP2JjYwKxBd1LSE3f5hswo0Xw8agsyc0Gy2EWnVfPlfb0KeExW1Bew0mcOms7ZKKPv2whW8Eq8yldBdRNUmeG3WVdAwOW9eAFxr4XfTHz-eUfSujf4htXo03Qh3_jI1alIoyag1YnooQNcAPI2U8NcSvDfcbI3k4--hQu8zGspNSn50SEKJME0QjuPjGhh1lgfWr4YUaFNIFcCquxPjbmNxf7kRYepVVPBJ4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705161,
+               "lng" : -74.008124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "34e6edbce252276b78ef7375be13864bead83ef9",
+         "name" : "Andaz Wall Street",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 414,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGsJ9C95LECpmT14GMybvf1nOYyqSj9lB3sLBr5ZjpeW6P49JsGY-O6OvH-PC72dKSdKsjgA4RKXZQEbPZpCJBJgs79DQH30mek0Mol7RhJutU1Qj7AL16t6MepHBQN3W7MVxUnwzp52T1dIU0WN7PBIQgeoOMGXtpWaTMZgx6SrorBoUoHqKTVgBqjnyq_cTEduMgDush3g",
+               "width" : 737
+            }
+         ],
+         "place_id" : "ChIJbd_WExZawokRbBhzy1Hc4Ms",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CoQBcwAAAC0kGHva4WbzOcnT1rdreCCpoz_pRCDGlTEO66biRblZ7NfU6h1nlbmsAafh0l3YO6Xb0PBv4RfDleUW-PuoxfQDCw_1AjGJYxDdAV2-fXohuPJwGch4DG_WNbDC4aXbK-eLh7a7YVbjKO7fNEcN9PWSsaKTbBvNMlK1iqVrLcvKEhCrAnRZePx2NSKDOG-H9LONGhRRuiO7Go_2oHPKpfN6RqkRiooKOQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "gym",
+            "lodging",
+            "health",
+            "spa",
+            "establishment"
+         ],
+         "vicinity" : "75 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704981,
+               "lng" : -74.010293
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "25ecc4e16fce9d9da229cf735ff819f6796fdf71",
+         "name" : "Delmonico's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAuD8FloWB5xiUecivompx2lYd2m10hksfxLoKP5GQ_MC7m6v1jd7sTLYWnmmrfq_By0v2_9qbrUSMVu_KMZwikv1r72wn7QB3YfD9NDDGCWE1fWsAn9e5GbLvPEZU-z4LN6tK8PpLJT5LlTnD5XwkEBIQcu7ckFi264S4wOSJVHv4QRoUmlz5YV7Bp80EGymwfutxygb6SgE",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJwy8lmxZawokRtWUTg5wuv6I",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRtAAAAoOm2-8z91s5IDHEX9otG7lgZNqWsW6dC2FckE7VMTlySzMriFplvG4rEln7ntmMR5hZseG64f2iJ2n6VfKAPHQx_Jc765vsPlxweo5psIk1PYwy3QRsc8oc_dQtvYswfwSSA6EMKMB9DFtvyt3ulfRIQWdEG0H9oK0c4N81BwWxZPhoUXW81AwgYhmnfmfW8DARxS5adnSE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "56 Beaver Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706252,
+               "lng" : -74.010694
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "a4cd1a705c73966eb5499d88556dc0b11515648c",
+         "name" : "The Wall Street Experience",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 898,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAAtD3eAtzfGZBr2g1RVcd2JD5O0bUJDByZQhnGo73OKtAGl5_dX0KPAhsvQsYcITTLzRH7s35_-RBPSuO75GmwQbIJlRR5RuJaxK6yk0_z8zCd15rJDQwPriLyHpJ79hGHjJ5FfOsZlJaE54KNfGzL4RIQi2JttoD43W4IG55TEX5n_xoUo-_SGnbizUpAVuVbZJBAUNj3u1U",
+               "width" : 898
+            }
+         ],
+         "place_id" : "ChIJx_966RZawokRplfBP4xGt7E",
+         "reference" : "CoQBfAAAAEfOrzmxgkW_A0DjDd-KpJNvQMmDLvd--FWHwdyq91F9-XSHPsgA6MWfQZCrrl1xvGKwbyHANDhTLMOOt56M8X4psd0fqrA2LVJarSbfwUzMDJWSoo3rffbXI79ZRql33BgdkV1WT9okNqwkss2WsIDiKRFQFX5c1JSVGxK86daeEhDdEJsaZzjfHnOtB-C396-MGhRRmcb7-jVyO4_wg8YvlXTnIs9vag",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "15 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706066,
+               "lng" : -74.009191
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76d927cc25737212412b46bb31baca4b133efcf9",
+         "name" : "55 Wall Street LLC",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAGTAES73Zqmw4frT7uhmTdhomK2vJSZaqFnpFJvaLRVlsgcYU-Aeq6JuUbUimqorY9HObbTQUCI5xsQbaPYeJEvZA8LWVSbEmpL8UnBUMr7N9MgMpblBfH0CJoqQsUNPMR6JjC2c_uueQ43N36S-9oxIQr9daYdyXOvN4dzUxcIWucRoUTWl8v78EXCnkLM2p0-rwjemUX0I",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJsW4-WBZawokRWoX2suxv4Mg",
+         "rating" : 4.5,
+         "reference" : "CoQBdAAAAHLL1FNJRj-LBjHgZv9JDa-69-rkaJmSIXODCq2kitkesf47UU38HWleOV80LFuscuB8MDXvvtHvK1tZbIjorPsjjIAZZNAiB1fCK-MJCETguIG1479hdvLVu1sdddN7r3OVHB6sUXXh5Dep4eq3DRA9Vn_2sC9p6xQczigBktyKEhCXZPwLxzAJ_vfM5Gj_R_AyGhToCRbVXh_Dbe9O26Xlln2_hcZhrw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704685,
+               "lng" : -74.011213
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ac788416c34e5c57d9e7b42b44586dd415c60b2f",
+         "name" : "Millennium High School",
+         "place_id" : "ChIJvc_fHBRawokRyDLY4fFex1Y",
+         "reference" : "CoQBdwAAAIG73GZWjRkFWRRnDJ71j68ftnVgyy7pvoFNJmnPz9IlNyGCS9V2sF2ZMRukrnBMXIwUuOxA83oUo2k9a-5-5Ytu0BqQ_084-vvyRS3hVMjaZ0eGTdP4mei_doNf4_d4shJb01qESkKCPUSQpcTaUZOXnfP-FawpbFBdaSKKyNOxEhBHAfMA9tbMyNzJqRKNJMqwGhQ8LJbTk5JM3YY3-_nC_i35sHiI0w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "75 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703433,
+               "lng" : -74.011289
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "4219ceb57c4ff15ba49ee80e231205617bc049fe",
+         "name" : "Fraunces Tavern Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1493,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwPqxE4T4ysAzscF9yZqlYkAPJD_Kk59InfAzGP3CxNqAlbnLcphApY3EUYATYqeNCGWrvDR4WctdzS7FkxfVNURYGGvxiG4_ZsOvWROFW52pU7eAzTVuHbrwgURDOKL8_nPj0WTX6LSApngsaFvCaBIQZbfFfSPt5uiFFtOql5FpIxoU7JT6pMECCGCleBws7s9ktSxwqIE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJn-PPbBRawokRG_eHiyuOIis",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAALi6lyCYCZT7MNGCN8sO5eTkhFn8ngRqZgINmjnXqr8rHzUz3qBNglHc16N3H5DmtwJHNU1dXXSz4ct-CtWpMEYxyyidNqnjpbiH2pVbwEM02SmKoGMPQmOnybx5azyplguAkjjBR_Em0gSYlAKTNRelQ2fN8cEhI_-zuWi48zuDEhBg9dDwD5KRB5-RqaVFxxJLGhRpTJmLuSqgxyl36TuCmK7O_lM45A",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "54 Pearl Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703315,
+               "lng" : -74.009834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "42003dc0e3323729e023d7786cabad1dd47e4502",
+         "name" : "Standard & Poor's",
+         "place_id" : "ChIJF5SAShRawokR276EBkCosj8",
+         "rating" : 2.6,
+         "reference" : "CoQBcgAAAEIp2HsAf7RIuOSx6dy5Y12tXMMbFNSRggXCKpB6YOuu5UmtVQCOfnNIpIYWd2_V2MgW1ELof9JCW1QwkOd0OlYrLvRPVDDIvqJRVzs44ISOWafDE11mbdnZ4A36Jhm8WvuR5uo17QcKtSZQXRMXrvqziTXpvB2YR8-pIFeStcOwEhD29TT8GeJqPbOzLFzqi_W0GhRYvZquf35r-PTIeX0P911yPUriPg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705216,
+               "lng" : -74.008518
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4acccd66756e4706505258c29ef7ae73267434c3",
+         "name" : "The Cocoa Exchange",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 761,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAhwEl7C-jX_HhExBH0zYOcQGfGdSUyq-7PI3oZ5p0GEPWfY3_cEA11G64TOf7lx5Juva001I0FIyXM8F8ER4UUceCGNwHluL42_AHFZMu0qvPVAOeLRsiryVW6cMDbXBxzDTXFXle43V9kDE86j7FcBIQMfB8wmp1mqm9TjlRr_c4ohoUksPLic3rU-9g0uSiE35ProqfrOk",
+               "width" : 767
+            }
+         ],
+         "place_id" : "ChIJe561bxZawokRjm-uxx_T0RE",
+         "reference" : "CoQBcwAAADzqKOTWus8okemjzWy70m3kVPsh3MyKnLv2mXUji3Lp8_cNubScTJab07xD8G87npmiJ5ksX1nCxb5I6XRpRbde8VXAAJVgKIwecNvsHVG5J7KmUGnAob-m8rveBYLxA_aJFZ4sRSfRiDf2atucO_tLwY_Z9xXP3eaj6kVEV5BWEhDkAKeXufU6toQRWtR538FUGhSEkkiuPq4UmvJhkT5lLV72_9PnDw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703442,
+               "lng" : -74.011385
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "73d5d7c06a40c1faa9a0b432d39d24e7d314f25f",
+         "name" : "The Porterhouse at Fraunces Tavern",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 363,
+               "html_attributions" : [],
+               "photo_reference" : "CrQBsAAAAL6f1wlqwqKXaio5NON_a_3bfcmyymWaKNOJGRoljeNMvifhCVL8POldsveiBuxBKAjRI16Bx-ga2Bxp9QnwEydsE8diLyAJpcrIdOlDLzcamYvhFsiEqf9azknMUacyDYpXfJahgkYVLvTFtoZge4PXfNM4lQ8VnPGTg_0W8NekgavlKObEJnHyvpUNrhd67E_r2azYfh-EkZVLPNS0PFyJS_avWugDmHAp2jYk44saEhB1PA07xf9EohRiTYWJMKmKGhT7FIEUHr21vLYBWaEKfM04LyymnQ",
+               "width" : 363
+            }
+         ],
+         "place_id" : "ChIJn-PPbBRawokR3o5lQeBaB_w",
+         "rating" : 4,
+         "reference" : "CpQBhAAAAPyOfBixBDalcyDuj4FFwObqVrOVVUQo8Odm1POa4GLKcaohipghx3jVdTPYDh0vWuvWlqIFzdbLbxSsUXWjDms2ntAJrAB-sAy72xcosxQ6IBJU-FNNMNCC4hghM6suaqddYzop7WYfcJTxtxSdBGPw478weaWyDC8_7hBZMwSnBBPfDfj5lLgKxN3_iWq0fBIQKWbQBEwwqI_3irxcyv8kSxoUjJTG937Bd3WW3pGtZPzuILxTvZE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "museum", "food", "establishment" ],
+         "vicinity" : "54 Pearl Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703923,
+               "lng" : -74.012249
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "af9d5dc49388df5f5ca02d3e8ea54940cab47e43",
+         "name" : "DoubleTree by Hilton New York City Financial District",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdgAAAAX-8YeRQnJl-ak_0hfqdFn_v-yhJq-bW_LofGZMWsdQOF2kUi_y2oKE5Tl2MuDH9G_hr6X3tDvW8MuIWK0xRue2He4trFoCkAaeAQW9dgHA7NiHNP-KHI669UUp0ARS0xAmc9GIncqdLLpDyM_Bwy3fhEcFkkxEPoTGKbagjMOREhCkeyXAbYc_BgU5hIXaUPNJGhSgXdOe-1BpptLGFnQZaVgIzyqMTg",
+               "width" : 1366
+            }
+         ],
+         "place_id" : "ChIJ0fci9hNawokRJVR9hdTAt80",
+         "rating" : 3.2,
+         "reference" : "CqQBmAAAAEK9ke4eKGFUo-QruKpzM60VArUC_e8x3dOgySSKyILPyuwFCgce-BDIhu8b1_mcbOi1yyyk3Q8mmnsDZpGELoAMZijLx-6A9S9Iv5OdjVcPnMUnpMKuBW6pc7QPYmGbxqWI9AmczDJocaviDEywwuucQO_VD7IxmRUH6Qsz_qR4bJKH8AGN6_YXcEH3yQw_xXfM-dw0SaViYAvYnrBlgj4SENRQh1Ksu2hF1qJL_vwWKGEaFPvdRbNFrFNIL85gK6ETr1TdWLh4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "8 Stone Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705584,
+               "lng" : -74.00891799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3b7cabd113e7dc25eb84d60939c080b05a401f68",
+         "name" : "John Street Parking Corporation",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjd14QRZawokR8d-TZZm2pHE",
+         "reference" : "CoQBgAAAAC1TjODHm2j6bl0Ng1ARWhf-4WqFh037K37T2gwT509YLrbNFflBj56l9CQ1O753Wdj-6N46lCKQ2dcBUIbpEDQGt-UUXsYxnYz48WPZOK0tHnZYcfeBWNbc5olF1SuY1jz6Mc61yD2t1J6sq51zX5fkl-nVktv_NUCncstcT-1ZEhCJlakbegkBrFJyOUpx-zwiGhSA0whzMsr5tDrZJyKWEFXL7Q47ww",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "63 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.703256,
+               "lng" : -74.01100599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "20edb2f4eb8247da4f886a72c193f8655c822191",
+         "name" : "The Dead Rabbit Grocery and Grog",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJmOtxFxFrGnZxi6yMSxOplVIXWadbRE5e3OEYWr5-_M16vxKT8d-RAT9Lik0XwJzCkHWtyHfchuDkRbVMrcgRZDRyMEdugFG19nXE2Yf_vdXZpXfhGSWxKCqMbvbUQsx8WrlJfqh3koJAXWsiapF0RIQo9BYGUw1yHoiJcI8sVKiqhoUsT3UnV8SAQ_5dd6Ll9FGZLnr8i4",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJIRiJaRRawokR2KyQ984qa-o",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CpQBggAAAHlIHMAbgxI-RrkXBhd7fN8foVfYNFwr_jl1g8OgMyx4JVxzhM6Ld5cHLFQnUvtHJCryV9MnWP-v6Lxe4pM6brn0zjQwbNGvHF-JboRqnOSSCRz5h7cduOHu8_6xsznuvZhmh4qi7vDEbUjmqkxCkBlGfiPUlIST-XlyTUBnfvqfy1t-wNj-oaKJbWVTQIShcBIQAVCCGjsqeF-kBBNHtKbiSxoUi_GdtBOlo7a4DNjE0sWIvPDKuEU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "30 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.705531,
+               "lng" : -74.00907599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "08507ca65ec211648e5b54cec3444cee5e4ace54",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQcwuLhZawokReiLCrZQr05s",
+         "rating" : 2.6,
+         "reference" : "CnRwAAAA_jnF-2DqQVjqAws1R-V_NHu562XZpm4G1506AZrBADYow-Hj0C-OueaVZ8qR8HdR2bqcb3BW-V_lQI5sDiaBhULWRG65riMbO67lBoF0oJgeqU02LqxPZtxZauK0uTCLHTtSfIqq9lEzRv393itvcxIQnYcSpYqjbEebroaKYEDHFBoUhjUsDoX2VhzWddwkXYenybWqc84",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "1 Hanover Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704642,
+               "lng" : -74.010322
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1be591e19fcca3322f19249416210a6f66f53dca",
+         "name" : "The Wall Street Inn",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcgAAAOZvNMGda_vVojPnAp55TMA8goUFEMKPeLWCXL_7dAkTKzOku7MJqU8hYOwy9XT7VFpfOIRtMVSdopQrtXBpxi5ABvfeVWKxAwEBVYR1qu1nL0KJcZLwuKDPNP2EF549bhHaJne_qA0tR9sWsX_KiL2_hX7XJrnVPzrHmbAApOe4EhAUxxTVA7-irBM7UYYUlJK8GhQ-MOSx1ptaw-C_-9Qq9tczxOG2pQ",
+               "width" : 682
+            }
+         ],
+         "place_id" : "ChIJ_7B6nRZawokRRg3UBR5XohI",
+         "rating" : 4.1,
+         "reference" : "CoQBdAAAAKzigbMqRZb0dB6A-HYvzNuPc6KYLFa0-rRJBHP-Yi8_7OGBTFxDXcQ9xL7LRm3EWOIQQzcCeVHaKOSpyad041COo3RBNmVI03rbI-VkfzVQ-ZRwUQzpjRbbw7JassAkMXIF_JzJGyXaCbaxlBobZFooPZS9X50O9JF5nr4LucvVEhBx9nz08oHQntaQVnGD2HHMGhRY47vB400BIYTF9-6XhTP6rAzClw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "9 South William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704613,
+               "lng" : -74.00977399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "86da98ccf70768de51358d0749c1dbcaa74610d1",
+         "name" : "Harry's Cafe & Steak",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8-IIuan336AzQdrbebcfOTfsLocp_no4bY6h3WjqhmtZPsSXBA2osXJcGzmfdxComqym-622HI5l5Q9yemmMxLv0Muj5RNDSUMDJC6vBuuC_U-Gti1QJchA4iGI46YVRrHbuvX18HLZyckO-uBtJSBIQ0xfdEfCUUZTmFoKBU5ELthoUTK0rbTcBNN78h7vegrlI0WALcyY",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJoSqkgRZawokR_ZAqr3pOMO8",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CoQBdgAAADIc_LDqZgmo_lWk5ypay0nxeKs5BrWXEadfHI0QOrDWxG2If9AJidIVcshqIeHXAGN3IKjSp01DT8VJLEL9-PEp0Qsv6pryR_6Kf_rDU-WATzuDIgZiMo-WiG68hHmQesIYJ2hKkB6_zRGcCE4M4qQuBw4wMIeX5aBNC5rGweX3EhCTXGU3t6adM4ccsSU85a1yGhQA5OGOKPXnglcyuq0e0FoIZOkrjA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1 Hanover Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706148,
+               "lng" : -74.008478
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "862bd98ce82d7b49fe62ef12dbd32664c3d13510",
+         "name" : "Deutsche Bank",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJq6KTRhZawokR8q_3yIgWGPg",
+         "rating" : 4.4,
+         "reference" : "CnRvAAAAMhleyaq4ih_uPctwHkJ7q7KYSj4YhohkDUPPOCmmi6GE33xcPgCV4QVgq4rJQEanaqqKhnuAP7vo9IovIax9JEYeHudtkLgvBbMTPsYTVuwyjipQ7K2qM3ClRZHPekd9Fr2MmgjFbs64S59sv6YtHBIQzDrVD4VL8cz_rmej-D6mdBoUj_jEASj9ir5R4jwpZ8sd1YHoFjs",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "60 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706172,
+               "lng" : -74.009184
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "c9383b8e55634b912f622cc3c7be4442fb47ebdd",
+         "name" : "Wall Street Walks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 144,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAdeyVEEb8qG5Gx9LA-oFaw6ZEva8v96LOsjAiZKl1KwRSAa0vriQ2m1DXmmRsBzeR3GtduIMN0-9ptopU7nVE2CKC_y_qkL1TViKBKypr3-YZFxUvc-nslNnlNQBP3izUeRdE5L3t57cP2Z6Wg0IRzhIQR_dxUnfqwkPSOftmvT8TYhoU-qIZXI6W95ehIDBzXxtyZZut5UU",
+               "width" : 216
+            }
+         ],
+         "place_id" : "ChIJx_966RZawokRLkZ3kOPUGL8",
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAAG6YPQU5iIPMQ78HIPOfbAMXjPlgFGUGnx-Ha0l3czANH4fvDQBElbLh48TBQQ8jsQjF_5829IOY5dXKyuoaQmvwTZu11SmwFZqfIwiX57qLlOLazJHfJaKLvN9x8OvCTO5YhrHLC_3Ka-B1AA5zt_rnkkLvSO-ojuxRJze7d2YlEhDl0Q6g-fWlZ0ArArvESnTlGhRlztFL1gQYOHqFMrw0RMU0sBO5UA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "55 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.704562,
+               "lng" : -74.008949
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2d66561dbbde17230c6392dbd3eb7cfac91753e5",
+         "name" : "10 Hanover Square Luxury Apartment Homes",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeAAAAEiB16_fW1d_VLuckzEq6nvuz10PzlJgO-EN4Mzlcqtb5xsYM0ySoIu901jaitBM9dUU92nVP71AmI3TN7cvGvyGRfZqUBl7AFbEfv24XuklMsZDeNhCtwwY3AGl_cIGDRH0BzfIAPi41OsoNKz06a0e_qqXKJi1LZKcpKYKCyemEhAGyhEF46vVquDsHzhheOqaGhSVM4NPKS4wUdXQ2f3G_ittkRDFyg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJsxFVfxZawokRFvFa_yneIIo",
+         "rating" : 3.7,
+         "reference" : "CpQBigAAAMKpQJLTUQMuBGF2ARyzFDMYsZPNdmhHoOmDPE6MIDfHhFAid6v04jLEn6ePv44CLqqoihGx9lHnN5wDctUqEdiQ4D6X0A3YJBaPW-c3GIz0MaCdzKKA8kA_m6LakquxBl0jnb6fI9jPm_Zfxz_AZaqYVNnVx06BwEdHIYN6NTXkj3BAZ758nKk8B7HbGLUIdxIQIQgXvk3IOBS8DUgZu7lmKhoUscKhW6GKv1f867DvDazHn1D9yL8",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "10 Hanover Square, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAEKmEDmI9UceQXkMicC8bH5uQEy-EN5q2nsr8PLLO1vi11jm9NY63up6_f7EbGtvY_mntheI1AIbvvRNGGBAc5NpY9T_EGNKLqPe2I0DwYbm2JFznhgh1Bfb2-zjC3d0jcxhcFDE3r5XwxfE2Pp0NLq4MV6of4nmdEFEDrdcexM4r6wFHcSALrgs2kCDLDLFNxIQmpIPwmEoalcRf8CXNkJa1xoUv4lKFZFx_aowgim-SLwmECnosxM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

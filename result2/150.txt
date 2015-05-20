@@ -1,0 +1,410 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7933657,
+               "lng" : -73.9352473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946934,
+                  "lng" : -73.93310869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7917813,
+                  "lng" : -73.93770789999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ca72f226f30406f3893512d8ffa898fecc2de37",
+         "name" : "Thomas Jefferson Park",
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "reference" : "CpQBgQAAAGheV-VByLVuvbERw5Gft5K-2R0t94VQFtwTbwaLgO2ZDjnV1IJtCNTqoKh6mpLtUqxzBsLFkg8b6zKwMbVRaZGuLAT7VPoRhx639l5FbY-rDchUJqnq1luvkyw1rHMhnJv_G6LRG0Hzt29QTL08jbNDaZfi2D25_AkRmC5T1EFXW5dvmNS1r6hQ_74MPUG1TBIQYDPkks4cPeUApuShmtYuoBoUu139PY8Rq2ymMkjO4ZiCyCV1aeE",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAAJvOYk3prVQm883pC6JWqQXl2S5C2Y82Hm5W4ACrYhZl1Sg5MMQpB_XAOBRSw8-wwkyzsVHe4MxIn4aJUw-AXqYHp-Pp1nt32g6eZzO_5YbmcFEau1Tg-1hpIi7z8YRJmf4HBEu0Rph07wJKl_GpscjsKKeVIQEjGzKyWChLEv5icrq47aLRCnGYD1YbXg0CthIQZcCi8fSdMwON0znb9OtgABoUC5fSa2l5lWDGWX5mKgsEvWnYd0s",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793502,
+               "lng" : -73.940606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bf7fa8adf7a494c874f52b09605795b9eb9d1e51",
+         "name" : "Ricardo Steak House",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 739,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAne_Jfp-IEdSm1j4boveNhP8hVhmHBz-P5tVJxH3yw80s_JI2TI8a_SLpgoKqv9FSKyIo0K_rm3dLFmMQPUGNFGwtgzg-RvSL9LBXTHWP2WpNG-Vnfp6kwdbSWNrm5UEBckk39viMd-Vbvopukr6hiRIQYviFedUxieE1M3Q1R7ReoRoUW6Mjnf2J0nL8kLhMakbPY22kLOE",
+               "width" : 1107
+            }
+         ],
+         "place_id" : "ChIJNT3RSgH2wokR2ZqvHjeklRk",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CoQBdQAAAKgJE-DlUEdZJs0GzV6n5N7otVR8N4wKFFP2YMPU69lFRY0kFkW47RoZZ5Xlx8EjawIFHfAtafszi0HJkIPPvV0Uny5PQRUT23ixaFZsIJb2gh24sCt12YIajmMyRErvbcC4nQvpQ229V0jxBAugApoVf51hHskkmlClievHbYTDEhCo7azfB4GgheOcllJLg1CiGhR0HnlUn5ia3SOwIE7JnzDHC2K0RA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "2145 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.796211,
+               "lng" : -73.937556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1a4c3a4a5873a2b83c86d54b0935097af39d1ef",
+         "name" : "Compare Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbXbRogf2wokRs7ZDB7BdpCE",
+         "rating" : 2.8,
+         "reference" : "CnRvAAAA_-MmGplU2MlIM25voU8ttrG0ohm9kU7iIfxsOLAnrev7nxw8WfYqFBbBCnD4qVBPAh8FY3EX0WA-rMbMt6taPJaIc1XBawIQDGbb7_CIhWCixK_-6-av48ZECe_obPVAO7kqUzNMnMTmWj0ei0dUTBIQiJywySuVCY2pXue7sK6zZBoUSuN2eygOI9MjALIRVdbsboiWpws",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "309 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794287,
+               "lng" : -73.93999100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c1c76bf19e5a19d7c2eff562eda541192bb134ef",
+         "name" : "Indo Pak Halal Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASr0bc6Fz25YhZR4uWJyi20slmDnLEQPxBvO7qO6O3VxbtAyvtQbgv4MWyw_s1KOIyqIxVlkFk66EelDuDpVbmRPIKcN7ejT4L4nj6vYZtGSLHRjhM-lDSyxq5kp_Qim4cuYvyKbp90btnYA3c2QV0BIQL6pCLv0hKVtmW4McrCJZRxoUF8O9WDQFaZwtB3CfeyGycLgjUaI",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ_XoD_a9YwokREyZXLoIK844",
+         "price_level" : 1,
+         "reference" : "CoQBfAAAAJk7G_vfDxk4Kqxj-2T0uYGUAtGpkfCGODtneEcFvFn4MtWNLw4eyYDMBHu3tKYi8z1zX4S98FU2IdQwzQc6Dyg59MTXP6UXmIPqRgy4V51udcis1v4yJcSPb1OmFgmA-pY5wVOHvn2iPqA-CMn_3CmJ29mAN0CHFkXdCM41KX1SEhBvSqf2gx3lun5K3dWwnkPJGhQLLZV0HaYDV0MOFnbSqw7bkCsgVg",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2173 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793131,
+               "lng" : -73.94089099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fdb7a48d641db86efb4343919d2a561710007b7d",
+         "name" : "Halal Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAvjZbrUpxw7DD1vxXJZIvuZod0dd5hVGSbpULBwCeoRLYfygr6UW1ASbYufNkqtUODZLJqR7eH7vi10ZO7hxapFo_KJTOSlqOOTpR4Xw4OL3mjyEDCy0lkFxkjjZ0aujk8ojYm6NIzQz_qeXVwWGzUBIQay6P-5V-mhLOWFQevfutqhoUIQY2cY6DQx3PMAuKNisiv3g2oc8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJJ5tYTgH2wokRwfkMj7rWnvU",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CoQBcwAAAC3ZZGgLbT6cye04gLaMkx4qzalga-EzWiZLaPP4ZbEEv7QPZ0AyJykscluzetoIYZvV3sbu-_a6RuADh16pS9DX0APY0e2ksUTbAHy02uR8RLjMpao9KN7CqNfQju_SLIf-s3mxYIM9WaxZUelhjblzqlYas8EgYfJU1LA2xKbiEhCLQCZ56Ai2gvOH0lh-iWBkGhQi75aNRNJkpRhBUSc-rtijVG05Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2135 2nd Avenue #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795115,
+               "lng" : -73.94064
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "00441aa1a8cc19b76937f47d0543db9a852bab4a",
+         "name" : "Our Lady Queen of Angels School",
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhBJH7ViiQ9NJDBwHwfLyddOcgO9zCWCkmcz00CJRF5GGGFt-rZYoYcxrdQPg8hzWFNA7RgWf4kwZY0Efvmcn4RlWnXaFaeiR-fXbunh6c4j7JdtQiOj1b_JoBbaRda54bS7sE3hSxLHR2F6ndarsLhIQLN5T-0_tVXEd9lsaOu7jYhoUCHbioy7ep6hbH2Y2_zeSzwee4MU",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJTTCxlAb2wokRrD73wv_-Usg",
+         "reference" : "CpQBggAAAM79fUha8ReMZx2WlhXeEhBTeLs5f-HMLT0PKbeF6wiIsVjTqSRaTUFmfbcMiiD8hvgXs3hGrauyKa9HioMG96cRm8xWT1ka5y5ZVMZAreNlo1hXSU-ZwzBKeEDEgj9r7BkfJvwYhUROycxq4EeQuV2jIyZ31anF4MbOXzjaPqMLiGCYxl406rmt9NOCSBEcXBIQmgO5brV_GrntLdrwZEpoHRoUyoaD5nXIwWsJRs8Mtuqe_O3Z65I",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "229 East 112th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792993,
+               "lng" : -73.94161099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3cdf3e18abfd18523da2c8ee4358fda76cba981f",
+         "name" : "Luis Munoz Rivera School",
+         "place_id" : "ChIJZwvDVwH2wokRBDpw5W3L58I",
+         "reference" : "CoQBewAAALxxBv0UVIjhMA40GUkc6ZW6r0UxTnCtL7vrz2niyA-6nOZ0xrVdPD6-qKP8B6teDdjrkgUYfdSVZ_pDBW0099EPV_aoW87yj5wk4M5XAgcISDckPhEC-Zw9N86OhPm7q2_9wRIv6jB5NB2_irwauTBSnVMxqmgj0LKLAyK4v07XEhCrDSH7Cyo2sRO_i7Cp0UKlGhRUU0Bb24j5xfwg5uc_oPnA33eC0g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "219 East 109th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79585,
+               "lng" : -73.93807
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e75dc9d543b7cad021e20065e5b3032dd2a0e1ec",
+         "name" : "New York City Housing Authority President Thomas Jefferson",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZxYfsAf2wokRbGQqDjWIIIc",
+         "reference" : "CqQBngAAAIDHRMjUqvGnjw6t-p-JT-n7l5a0wxYppdMjfzUudnNmbhc0Uz3U5SWNtkCOreMt2xP9yCsf0U3INTa7OC8vsRt74qcsR0RE3x_BjV9PqtF2afHs8FQ1xbTly1J08GDMD_Q5aHlHspNwBNf9Uknz4LLozZwaSTuOV3UtppW3KkNJiVx7LZOv5_svPfhi3E_oO6_Tc403KgvyKCvgCP3i8h8SEMoxgnuQHM7j9NRkNCNEgOsaFKdsXMaBhR1vcGUwhxkaa9D5aTvb",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "310 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792903,
+               "lng" : -73.94040800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "53dee578c44b2f37fbfe8bdc65a851f1db651536",
+         "name" : "Crown Condominium",
+         "place_id" : "ChIJ4zcDSAH2wokR5N99zzrtLds",
+         "reference" : "CoQBdAAAAMH03BX_j56thiWIgjct1vRXH9KPQd7XDj0ZHKXDUTa12_-emeFP_v8ApsCit0rFqoi9KFgqhAH2LpOl1IeR5GIrVvnSuoXwpMGIjjuf6XjJQ7HiKO6Px1hITyle1HT_BqhiUFyy2lFPhWJPh5sYadajYfmSrCvFYGuhk7mxDvo7EhByJh9KzJjGQa2P-oOat4tqGhS5nY1nJjqFgohFyfr0CsoY5YYI7A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2132 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793245,
+               "lng" : -73.94023300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8e307081130660e6a180a94a37738adc22e70b8",
+         "name" : "La Nostra Pizzeria",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjQEFDQVnIZ6y8iz4810LCIOVt97josi_kF8dhDJXH7FA5D70IT-wUpZnuJMmEosHMPTq4oohHWB8m-RgSkbWmyssqrZXoRRndix8AKgRB8uadJSvkS1BMkySfK_z5CIE5VPc-lQz20K_apduVIdBFhIQpieoeHJ_P3aCaczeIisXdxoUbLjz0OmeAvAw8L2e0jWXpE9saQs",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJd1UoNAH2wokRkQ7Bl9Q5lgE",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBdAAAAC08VS2GGXoNpmX0HUGjJnzn94wRB3XriG4kaiBo49HrmiPHLqBmpOIkHnFqegjP5mRfsMnsmEFGeBfl0OgZZ--qXjB7Sa7MbaokRo9_fkv2F2FHdbLs6NZ8-xI56yy5l_JmdewG1iZASwkj8drTlycwWB5fr_Qvxshw3oQaqGRVEhBkmqnWJ32X1UlzOppjPuQdGhSpwXWJHEViR6snRYdqw2P7VaQNcA",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2146 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793593,
+               "lng" : -73.93987
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5813e1c1b59024bd0a0e78b81857866c4177d1c3",
+         "name" : "Jehovah's Witness Kingdom Hall",
+         "photos" : [
+            {
+               "height" : 240,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAqUVy98XzfnacfCiuv5ENmyQpkT4TK56aKZPQGHUp4rIVIkAJeaqefaPl063ZOwUoeHldkRkbonGXR6iySKRMT7UX8ozDI-AHuU3iZNv_iRp296bstyDRI1exE8bGmEjdB0fmpGznzn0KeaDVsgMR3hIQfGAAY69XS9gVbCgPaAwLxRoU-edecBTpx76j-Df7d7cBtbn_ff8",
+               "width" : 320
+            }
+         ],
+         "place_id" : "ChIJtV57zAb2wokRTZ6oxkK4Wls",
+         "reference" : "CoQBgAAAAICzYsr-g9E3NWkzpiXWkRnYkDmlEwJs4LNzyVvAm_Jf8Kf6Cuv9TkLJUCKjymaW_CY2QJmJA8IbR7VUozwHJlMv4Ow-UHMPAXVtSzFn-ZSqR-MGZkShhSHpc9aHNSUfWtUnT_dvn1q-nrLeWM8RC_Bf0pd3qMGjyGMDfsoksz38EhCG8T-yKVdDcrnFf-kO7KfaGhTaJ7MYcP45U6zhtYHaZyAJjfZpsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2160 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793424,
+               "lng" : -73.93875199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "582b2b5428a5053090ae97af31be8cdb334b35e5",
+         "name" : "The Boys' Club of New York",
+         "place_id" : "ChIJRa3jKgf2wokRzJuMCH0acs4",
+         "reference" : "CoQBfQAAALnRuoLkOvctn06Wq78fFnrizaHLWQbI8Pk9Lds8sAgx4N5kmokh-9mozxZGMIz2huPfycVExWosAEFIAN3QiFiTDjR3b9M74qskJNoph0GmJ_lua4C2NwQLUiX8s6kTqmb8y6cRlXTfeOq8ukpRaOfThCTnHe-Z3T1_aStHd4sDEhAJF32qndH34FeVK3DviCpWGhQGRl8XHHv1W971eqyxv95DUiO3Tg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "321 East 111th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794204,
+               "lng" : -73.94010299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "38ad5ea6482b15ff4490baf8f3a3bee78f670e05",
+         "name" : "Rise & Grind",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfttpmHFdd56QDDVcXUi3iuvr6ghLKH7mCwNIeuUiXzccbAcq4FaRV69okr9eVk1tsOWiGilLqbRswAELTkD4qEDyOy9TK1q9DPbyfjIv7ZtWHRgUJOg7mA0TDmewhRV3spgFgLDPj57ZAIbKYTPgRBIQU6VYBKOgbi6x0-YbO4A84xoUke0ZY6S6pHwq_F2OmvnCq9A4Qkc",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJNXQAxwb2wokRzDuNVZpZv7E",
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAePcENpKWjHpJ_6ndBUn-K4CPuOtapJ2nTQDXhW5ut5r0f5YHe_1Vz9gf6eSjflvDT1AXr3lkq5lyFlFpKoY9M9PdC-VJofEYfNnokPl8qMmzMkqeqh6edZnDgqGW58ltYqGcPJ4EHI03gZSgPH3OwRIQ94Fiy009r4oxhDvLtJtl2BoUtP9LCeseJ86Ahwp4jPQgKGjQsUk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "2167 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794243,
+               "lng" : -73.940061
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "80b8173a99ae929aa047ca52190e2eb16a517e1f",
+         "name" : "The Duck",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAACVP3BAi0mgYLpCEHcqRzWEmmz87l7P_4YpVLB8BqCxEfh8ozl8uM5m0CLrNPGxBLszSTG1xoednUd_Hw7mnz1n-t0oNk3cAH3CzST2QXS6ZIr-Lrc2cpLwXIq6SyWOj9CyBMbpVfRwOoP7xtoUKDiKAfbJq9XRHIOxgnkP--twlEhBqwtJ72dobv2kdadOilqEXGhT8O5iZrc3e4uUzK3-rnzvlUk7qzg",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJgxFWxAb2wokRSJwOoFX3Y0U",
+         "rating" : 4.1,
+         "reference" : "CnRqAAAAL9ryOSS8XjvE-Rn_AoSZ4mbD2qQk0UtSOrEkG2NDTED1Ok_4HAU9Hl8bi0LAT44Ph43N7GNP0-BsQ9XGcVFEFD-6UehrULugDaNq_SDa7JZie5UDTMAp8pNzWTln6t-1znBlkNJyeJk0kL2EaECINxIQ5zqS87-YbncQBGJ32uXSnxoUKPLdV45ArWwuZrbN8y8M4aJfH64",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "2171 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795893,
+               "lng" : -73.936977
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4842d03a3b9a80b12b1ba4e00d89b60391d27d5d",
+         "name" : "Palladia, Inc - Dreitzer House",
+         "place_id" : "ChIJZ5-omwf2wokRK1rsiI6dx30",
+         "reference" : "CoQBgAAAACCJdIH-8NQulWPXnSIB--1PuGNdDM3JxQhkw2kh2bi-pTPcq4vL41UPQKc4P4Z5Svc0sgRoFQFa8rwaIsq7AhGHAzg7SXMIY50HR7L2qpHRdPysGsCk9tSBHmRY89xIKLy921lZ1W_GHwPtLonNQPXrBORROfSqmbCQ5rBwNveCEhBpr60uRskFhoADvRPR4qEqGhS0a8eOQ1gwPxvUyWq0YtlMvl8-3A",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "325 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAOttsej314c6Fl54952N5Xo6Xh6EhTIiL6nHM7sNH5QHl-49egPqb8ff5Fjn34oqSO3aMJ25VmZhSlYVIgwkLCldgKizeAMOO-gZ3EDpwMCmCuw0XuNrDNyN8j1Au94OV02VWz8wdwN2fYvhK-hoGHNZh-OmBTyqlYmsqc_AMlKe2TUSR3LvrQGeEM68SOB8hRIQ-RUbJP-oGANQo_6EhXtFFRoU3JkeVhCfPjDk40y4YU0KVhqtsSc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

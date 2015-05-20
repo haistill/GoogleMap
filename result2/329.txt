@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.795813,
+               "lng" : -73.922517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.802087,
+                  "lng" : -73.91367099999999
+               },
+               "southwest" : {
+                  "lat" : 40.7905126,
+                  "lng" : -73.9284167
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ea6b0536476270aaa0807644f3e3d109d101a296",
+         "name" : "Randall’s Island Park",
+         "place_id" : "ChIJZ4XQ0Pr1wokR4y3zFhkY2ko",
+         "reference" : "CpQBgwAAAIY1Bn0OrZGqqLRtAn2CFAwcX8kOpvFm_B-MpqXk9jewTbJZqxves7YbCvrNQB2O5I6WpRNRhKYk-pe7oZUHJOPxyve58PPsUzGWMSOx_bctr5H2crsN4gVvhqj80y8HW7ZLE3iILyUCqsaRuvN0G8IjNKEGXxyUvJR5bkWb56geHJnmyXQId9S6Qi8X9QBPWRIQx5-_NJy0pB2JF2RhCvbVWhoU4IHMz_dS1995PONfMOLIKc274KI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7891291,
+               "lng" : -73.9271644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.802083,
+                  "lng" : -73.9134835
+               },
+               "southwest" : {
+                  "lat" : 40.78086630000001,
+                  "lng" : -73.9363146
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "15bb2271d73ba63ae870ee7bbd53a1ef01d00e37",
+         "name" : "Randalls Island",
+         "place_id" : "ChIJtw87A_r1wokR1tzYitCZdKk",
+         "reference" : "CpQBjgAAALv6-RDVkBxCBlKKGFMCq0b7TkhL5c8Sv6euau3LY2GfQVtrbaSX671lTY88oCYwdEz74aHEED3A4BnA02ZaMP3aSyCXpe98du1RMaR7bMdmzKbYPOLOV1bdllrkZSKptTGOJOdt-hqYwgOvzIitzT5qeyDneWYgpJbAgix7myGM7KPrcZ4ykXYg-wB1dxT8KxIQipiNTOV0th19zpStJlGp1RoUEqqHpRcQo_BU6lqt6_u1x0s3A0M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8091068,
+               "lng" : -73.92288809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8194526,
+                  "lng" : -73.90298559999999
+               },
+               "southwest" : {
+                  "lat" : 40.7990266,
+                  "lng" : -73.9325985
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f20b96db265a57c7b0d4a60d29b907d1df1bb32",
+         "name" : "Mott Haven",
+         "place_id" : "ChIJyQ7eO9D1wokRSJ4kzElx5AY",
+         "reference" : "CpQBhgAAAOQV9XLEnHJnNXkKCR03DnIEaEM4pJXGmopDCv1EDcdowQmSbJRm11-loT7N3Wr4l4VzZjRIYqwfJsXxHADh9BWvt-pjlmVD93-m99TrBQYpLntP1YWYf_2nCM4nnmkDZKqYm0pnhByPggYrFmcPDkfDUO4DygAWvoo60dV35QViZxfbxZ-tURquF2bNsr5myhIQygJn369rVTDJF5D8rQXVvBoUxjJOr1ZTIjD-xeMdrvA39tBkJvA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

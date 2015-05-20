@@ -1,0 +1,428 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAADRLXCNjW5M5J4HLd2GzejSiXhu1DA-k8wB04JUzUYfcB_6m7GcQuZ3mQdMNAMubOnFwcCae0o8aTFZE6z2DUg9juayTQEGLz_fHXdRCWdo1KwjO4Gx7B8OgsrRzGzhJ_ARw7U7Cv_jvkMsud9Rnragi9VFweJGM3S_U7QtPZ2KIIZnvAWEo4iytMJHcs9xS_hIQKOZsG8sd4fZ-fvKL_5WxiBoUXCUFi05fHMHVjG8MxljDDfR2_6s",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81008,
+               "lng" : -73.943319
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8e5d4c482c209a260ffd3d84091a5f3ce8dd4bf0",
+         "name" : "Lenox Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 818,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfaWg1WCcC8Wic9Ew14sXhziwtyTKOOGoFU89smLJHq_y2l3GFAJhqFtNsGIqu7B37uxGafgPwr0xTkavkth757hMv6ktCyA89S8YNn-WtYcLjMTQ_3WEI5Fvtr80pE7h9uWkooo6PEDFgc5z0sCaxBIQoHWyXBa-pdSE6OWp1f-BgBoUuo27-vMLaRyXasYlUy_tqxXW7wQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJuYQea3P2wokR6BS0wqwqnXc",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRuAAAAWEIiAJthhKyFzy6WAbbw5RpMsF02NMXt-JiK9QXaf9t2sO2mknH1k4cQn7PpCMLjYlFrLj2qvX8A2aMA2s5UwLLuhqmIeXbR5jbb2Aany0_syxdf2CJm0s6VZbLvUMuSrHQw8W707ggIHvsmObqPNBIQXRkotxg9bvCqw5nXNqPFrxoUUqh640YvSW5vf2BUwXxQLVMH_EY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "60 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8103,
+               "lng" : -73.94159999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d0e0d5f43fd5c0d2ee242e5cfee331327b601484",
+         "name" : "Astor Row Houses",
+         "place_id" : "ChIJD6fLnHT2wokRBSG1zzPBLkc",
+         "reference" : "CoQBcgAAACcz4reqpxzTNivhXbCiCoGWHeKTRVie6wHXw2Fin7vrZZCnxSECih7gNj5d-W3vl9dvaGyeQKXJq4nJukMaiHhQF-tj1mcHGxrAKJ0ODr5jLSbRZ26ROLt8-7mzf7qbvLGdBqDNvxzkPLy1uZdx_lND9lr3ViJMlrzMsrxkt5JuEhCNJ-ONcWfnVXFs8J9qEhQbGhS9LTOtLpzySS2flvL3cnGa7H4jUA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807709,
+               "lng" : -73.940721
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a05ab464075455e9e00490d3f0d2d4c28a8d0bf8",
+         "name" : "St Andrew's Episcopal Church",
+         "place_id" : "ChIJHYYYTgv2wokRRxSk_tvovzY",
+         "reference" : "CoQBfgAAAGW3PPh7QVxzLtMmw75Vz75jCJQgimDjVdXiuep8q_w3WOOPVct9-JI_kJJPCJekeYnjE6Lvsq6aJgeJYyvrWBSEtP6E-0V4jfDo7SwCNNiirr8T8L3iPZo2shAebeIe0BoaKJmxW98NmphS8hEXhM3guL_7m0kAUH5axJIBFTxlEhB_wZl-pJNqFPy_LVBiiIj8GhSuN8CL242FPf7JiiSgQeTHZKcfeA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "2067 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807595,
+               "lng" : -73.93957899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d2fd3ac1342a8804f2c36912d0b86a16dca7d7a",
+         "name" : "Palladia Inc - Main Offices",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxzA9Lwv2wokRLTea7fK6UII",
+         "reference" : "CoQBfgAAAPYgNFm0Ld5ECd-nXrT2QGqajepVHSomVyEeEGg2kzMQWBa4ywVnskIbQ-4VbnS8nQggCEMlabjbDw1zxv4LaDUI1KpAXD_BZvMXq4G08n3KXuLlxEjSq-kjdylT2LCW61MSY7mG1madlvzTOnnuzFZiOdP23muzYdnZh55EO4AUEhCriW_ycptSP2zGrfSrTOGfGhS-dXWU53p3KVCP8mZdWra_iEF6hg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "2006 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80939,
+               "lng" : -73.94385800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d524b4d70ca5fc0f04d6d14147932ca73b08b8bb",
+         "name" : "Black Star Music and Video",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAVyx_7qGlQrvj0qRy-RErJyD27vbLqB-tH3cV3tghbBh3Ldlmb4YeAUHhvzmGrEYgEdWlinMgTr_SFKy495WdhIdmNBM1khDCQECR_YDTKgGDRcwACT6anJjp-c8e20afMB1Z77xsaaIA6tEiNaj87hIQA1ubG2dnqXp-nDe9SRGl6hoU0e52apudmaqr5TMZ3YYf0cOV2YU",
+               "width" : 486
+            }
+         ],
+         "place_id" : "ChIJw2wIMHP2wokR_JUIEf47148",
+         "reference" : "CoQBfQAAALRjD8SqmT1rmxvku6K_YC3K5I9qS1_EVOMOtnDnm3hrmcN4rPxlmjW1J__5Pe2g7WxJTvoDjf5U2Z-r59n5cKAJuANKba16DdjPEavovxYsgkv4IDvPYTq_FYGOqAZiJ2GLdq_M0MzVOJqQejlSwsygHBOQAhh6zy69nGegeEaaEhBb7LaO3xwcavnlIC5wpLm8GhQAl5OYoBpQTdynqgvDRh5aRcj12Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "352 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807141,
+               "lng" : -73.943506
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e950e17c5d7cb7ae57da33c4aeec76e20103b7d6",
+         "name" : "Mushtari Hardware and Home",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqvH8PgKQ87mK9TvB7g56wjGqpJIXpIxaPvwHIqv7QymGvW5OHV-tBqAXw8oLdz5CuYfBuKISl2OhIOkrS7bQiMupLzRt5v0V2lc49KHiV9Y9-g8H5qLhsk9cDZFvJQJENvFhy7nM-JGwwWRzupFmBBIQNcydB3i0pAH33nGEmsSK5RoUlte6LOQdqJUDa7s8IHYBQypeZZw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJIX9q7Az2wokRulgv0a8Kh_4",
+         "reference" : "CoQBfQAAAJf2rmINC5e6sZa-bRAHCUT3e0KyCnHWknZb_ZeAmqxy9TnVEf1HqbDeNWcMAptVeNtbRQCmmJmcx2fgaJWy2BXr-cOtg_TxceafYM2B-KP1vChl9cHGUPBfbAzreEX_0T5Eket6LB45b_lHzsgGtUjL6o7Je_IBhJMq2L8U8pKjEhCM-AvPbh0SaGJO26HZw3tXGhToMi1oSFZ-aaAKtpD6ofedlLA6KQ",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+         "vicinity" : "31 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807763,
+               "lng" : -73.93995700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f86e61998b5a81bece4e8dab6894eb6e935623ed",
+         "name" : "Harlem Renaissance High School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 324,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYfZEAsGzKmWiTMK2V88QuMVHF7sjtIPCpNovjMOJ7b_LQ5vqlZv_RQeuSGNZnUZj81aqWv8uc5USy6zjx9YlS7bRmWRNqh5R8ZeEI_jAhY9OpENz7zMEPHIehN5lMgeMAyDEXQJENgfiOPe08dlm3hIQGNRiKr9rRDpfs6qXcXQtDhoUQ_e8fgfjbpvbJwXzqtVM4LmTrks",
+               "width" : 541
+            }
+         ],
+         "place_id" : "ChIJm7RvMQv2wokRBme6YdSA_cQ",
+         "reference" : "CpQBgQAAALuCzHsfqezI2iRdvrg6WCKYwOsxs4E_rPHL8J7IHFL1I7g2KNAfQAS3KQv6BNWBJn-G6rfQBBhTISPmi0o94sayvkE1XyQTMrjdTGa1bMLorPBVwjST0-H1NyxX50e98bkI1wgMbsJ1e73bDxSX9RFqMKx4kvU0aVW7rlPVqGt8DXxh3i3EuQtxrAJSpuGnnhIQZOrbWIPvI-CFHE6twmq7PhoU3V6VEG2DMIUYP4FOhdhOxLqfH1o",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "22 East 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807069,
+               "lng" : -73.943336
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e554bb5dedca22407193f102a0421e1a539caa2f",
+         "name" : "Paradise Shoes Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRwAAAA2ndkNQxpcaQyZS3XoizbhkNspRkMiOKV_XidgDdStV05fU9aUTqctqh3TmGzpBIqlr1l1vM6Dm1hpqXCdd65NpjTv8MbGnLPJGyFoczgTaTQOQVR1Y1sL8wLA9uP4meIFekMhmhsgRayEGPtZlZLlhIQgL2xtYq9okt1D_g67P63LBoUex-WUXOdU2oxXwQzaqRLYRcXh6I",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJ65y-7Qz2wokRuhK-tUnaD_4",
+         "reference" : "CoQBdQAAADKz5wpsruJMRoHcFwPy5z78XHsOfIotRV98CvEak83FH76DcM8Lw8VlAyyLZrJZVKikCmEVICTQgaDMUDCHk4hNvydsIog9mvycqZfbj58GBggL9GdAbqQV8k2VHDUPxKjKgLzYmPBS2ReQJGeGTkGZoR4hM-Milg5CDSjuJN2xEhBHR4lQBimc7K_SBAhBPiq1GhSLfeae66P3AfJ2uPl9ehA-T-p5gg",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "establishment" ],
+         "vicinity" : "27 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.006916,
+               "lng" : -73.81001500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b4e24ccf400c7723e93ecebbf2dbbb9671428422",
+         "name" : "Americare Appliance Repairs",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 192,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm9FMD134ZL8yyrQeN95nGnSWMazPoDu1m9kDLOcXhGM6GRxy1xwjaz151YcUN5ZFHCAEALggRq057rEOreIj0LBLVc3QFb4O9OrG-TJYLlCoqcF25b7tiKToyMB-CvfTVJ3mwJu4b-oZ133yMSRDMBIQ7TDjEA32puYpu39hHIa3-RoUYDsSd8UYQ9XtJ5rZQIWj7vG-8vk",
+               "width" : 148
+            }
+         ],
+         "place_id" : "ChIJ0TbdSXP2wokRfV22ZQxM2Io",
+         "reference" : "CoQBfgAAAKbFmppAT8BZiy5pP9y0C7bttJfL_f-mqSFsJ6LiwdRSxnBYiVbrq2lp9AtfR1jx3syfRaQ9jY93hfQjs_AGAYBPUObhOhmQ3TdNZ15XbptphmtypyJrKSK6rCDwJhNKz4JFcsXZHUtD1YEBYmE9EUeAV2NWMHgmYCynsMGBnYY8EhCH9FMYHPi3Q3esLMYccGWbGhS7h_48pI3dEktbEm7dM6jJkF48Vw",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810406,
+               "lng" : -73.94190999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "75cbee15d65e31c0a6f2a42b441f32f3a59b6d3f",
+         "name" : "Astor Row Guesthouse",
+         "place_id" : "ChIJg8ZEfXP2wokRtfWqMGartuk",
+         "reference" : "CoQBdwAAABoeQxDr3tkjfjVy_pMpEA75PvS8BFBvqC-SSF86y1_pdAIh0AK89sZfjvDbuiiZjyGVWhB1dZbrPsgM80P2tjni1l-qCwi9ztgewykk_Fl8hm34x8_bdywImaRHipO6VfUIDfABaPcOVgt0AkDgnlq839CNrWO4Hpm6YejgWrueEhAEpU2hodGCFz1iSoIGQLAhGhQ9rT4SKyvqXKwWBbfaf6hs2EgW6A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "47-49 West 130th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810362,
+               "lng" : -73.94307000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3a7b7bee7f3b5267849e90f3bc911a9eb326d406",
+         "name" : "Lenox",
+         "place_id" : "ChIJxciCE3P2wokR1YwGnYyox84",
+         "reference" : "CnRoAAAAGsDceTwCJ2S3JbzKGEuFL_HwuURIYPTwVMsS5FG_ymWx5tOSUEydw9pYxfCepjAtk3D21_GY7sPdo8o8T7jrmGHE2bWy34BHmEZ3OSqthjtTQpH0QQ6-aL8YLvij8u71thlGhEYGd6q3_X_uI9XPvRIQflI_6rqxLFIqqeXYCSs5dxoUSAeGgMDNXEqzwsdgJ5k5CET0EbY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "380 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808892,
+               "lng" : -73.940744
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "371bf6a5be4e87185c0fa30be6f4875864ef28ab",
+         "name" : "Pascal's Eatery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkRI1pDSeiDBQyqrvFFRHgdl5996qFY7sqtv9tEdKFDXNQrsW8WXSfiC3oX31o7zSjP9v7oVp58XJW89TKND9o8tziifS8cdfV6oSk2uFEyS5vSt9mZaSj8crpMK37UDuUQFp57-eJb4fV3erKjRXbRIQNj8ZLliROEITYD56vyMuURoUDj8er-LUF-ACf-K9WIaBC_K6RXw",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJP3fQuXT2wokRBKmfXRvO_b4",
+         "reference" : "CoQBcgAAAPR89XNxqC2-IJXvHXrSJNJ5rspnSK3FM6aCV-rHS-QkyosdphxfXpcPM_dMqKR57xzPm60G8V_H8qHO_OAL2RnND-xbf_ghz3EXvh-be0hyjPX7MjwfWHQ8JVChCjxlobI3Ej0ZyMpS3cwWgRqXIMiqIE5o7NORwqWR5NIT-ODaEhCMJqhdUTL9YBGSLbAEXlxrGhTtJYbTQOeozW0DzcWWY8nzoBbtgg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "2 West 129th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808764,
+               "lng" : -73.941273
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "bf5d8e71db4fcf0c700fea48bc7814fce3035f4a",
+         "name" : "Shiloh Church-Christ Disciples",
+         "place_id" : "ChIJJXY5rHT2wokR0tVs9LPBRI8",
+         "reference" : "CpQBgQAAAAQCr6i5oWOZoB9mKY9NFqZthalxNkLB1X8I7xidFsqRiSygQ5WxOMnhwRcAaWcy4GQbjIDUtJg0C9K-M9uFqBwPW_EjMAG8Yq8NXxqsk-q0wfE5aKP1lOHuSxX8SIXZUrvNVHdisNtjZqy3FJK7IHkdUh_VgB7gLOFDyaZ_Lw6HCG-KKqHcDaj_GvXDldn7YBIQH5WixwlvNlLye_CspPHQthoUgi84yEXBIwu0_hp_NRSS7nKonWU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "7 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809031,
+               "lng" : -73.93936600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "37690620a43bd10fedc2fb6a707e108b616a909e",
+         "name" : "Kelly Temple Cogic",
+         "place_id" : "ChIJvcac3nT2wokR81erVcnD7e0",
+         "reference" : "CoQBdQAAAPb0n8M94QPykKMJhxjFAOYXwPwaQueDIt0Si6I8pO0o9PbLcxZ52xYjNmqYtAzSJwWZQ4hFURwUZptqwXtrABwEu9aJ6EYJwcthK8AuQRrJd4BiCqq_sN8peeN4KxG3XT4d2fLxcOIzPA4SaWqi2iXYLWs6vB1_A_E5vZx_foMPEhBEqHgyHhtj5jTryrV7y10fGhTw4pQ_ijzmHAEZDsXvQH8RhycxJw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "8 East 130th Street #12, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809483,
+               "lng" : -73.942233
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8937ae64a5bd8023399cd5f84f07fb23543c4cba",
+         "name" : "Convent Family Living Center",
+         "place_id" : "ChIJCRuLXnP2wokREE8qQIJk0Xw",
+         "reference" : "CoQBfgAAAFF7i2WG5KJjqK7koHbdPHtpPUR3eE-98nYWGUGXM430ITytibxvdSLz6mR-FreCVGa58sQ3N_5Wa2CG8L32Mk1zrwddvcqscH4YYR8oAu5chPiF7eXMtcRiDdtsNXSKwAEeCY3ykZXrhF0kJ9BtrH6iqLzlK6rhf8pqRwWA3CPKEhDM-T3zU3B6fewYQyTE9Js0GhRm0zD7VNxMew4FiwQYWX69r0-EYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "34 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809018,
+               "lng" : -73.94221400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "797e8061d5e47ff7fa23959464f5bf0fd4ecdd8d",
+         "name" : "Bishop House",
+         "place_id" : "ChIJY_w2UXP2wokRB0HSS8S99xc",
+         "reference" : "CnRuAAAAvQTbZ4qCrEOgRByU2ledh_4FPQ56Q4DR1pju-zSwSSq5YQbQPQJeNvldw6UF6Kr66TqKr8Yoy7U6vEpd_RCPaAoqOftZrjjLAXNFrVCsIz9KxdnN02TsutSHWqjO-f34oMv4sifJqvLBngkf37Y8-BIQ7DOiDkyfn0Gxw3rl0IhuUBoULuEIoISzxppjt-jscotq0ywUOXE",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "39 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.807844,
+               "lng" : -73.939356
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "85df8102cce0b869b7f79e557b77679e22155659",
+         "name" : "Smars Deli Grocery & Pizza",
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhAAAAAr2hnlGtzyoXmWes8PS9Yhdp_1Xk82gFl6ANU9x4Kk_4c0HnL4FA46DpFCnUxJZGXr9R-8J3kMl4g4M8jMWGg1-MLRPYMuOEi0PqhxdeI_2cp5fmBxzrqB_FRhx-rfghPajqYE7LiDOshZ4C5D9AxYE474ai38VG22zFNkLI0MaCgjDHScEYFJMgmy1JTAJbxIQ23mmHF1VbHGt0YDpKHYIExoUQTLtijev6gpt-IjeB2zOPaTImG8",
+               "width" : 585
+            }
+         ],
+         "place_id" : "ChIJc-2hLgv2wokR9EU-zFxK_r8",
+         "reference" : "CoQBfQAAAO-bAoi71NWDsEd_ia9LPizoZhTKNhIkS5ygPSOY6GgKADH3ES0v15zce52B2cSA2l3ZyKIHDIPemdDiN0X_HJO9r7fmwPAa-kvVkkuKfQyRDdfWJkningivzKIhAlLd5QXWkG9kgcGKe6Xib09cbnSqQ9rTDZwmMSgU1lucBzarEhCuZUbWx20S_AhZJMyjIkH9GhSaQCBDlu0GOz931LO5cyBjWsp8wA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2020 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAEupsjp1DSKSSfjRxmtCQerHh8h5QxggqkqioQ-kcp2N9DeekwWYFAB8VBkfNsgdGxIOLHJwozUXugnfqcRjc-DKdVv0RbWdEqBiqCmO16FD9T5tO60Czfl0p0HzYZVL-oFW0XFaqDBB3EEPk50tsh5WuocUGPh9dZ1PDKI7NmPSE8AdJaaJrLVvCErABA4HGxIQhiVjQYnaV_tjf-qOFSeRhhoUkl48finZKduO051gOF18vRkgJhM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

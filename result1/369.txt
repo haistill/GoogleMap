@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7621302,
+               "lng" : -73.9499426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7730749,
+                  "lng" : -73.9399087
+               },
+               "southwest" : {
+                  "lat" : 40.7463872,
+                  "lng" : -73.9646066
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "fb15990490e988f5e7221311b9bf7261deb5fac4",
+         "name" : "Roosevelt Island",
+         "place_id" : "ChIJv0ZfedxYwokRXwgjODthBLI",
+         "reference" : "CpQBjwAAAPupc5gQ4TmA_8Dmq0cVFn3nnfEnXb7SphEghvie3VaFhxzga2L9HBzevIPFh7ng9_lq9m2ZTuhDFC_NQ8KxJNtjzgBNHvlheQz8_nkf2r23yPLqe6jwywB2Cyab2jfLQUlTJx-ImpsXTR3WejSdllbOC2-3XBGJRM0XE6mxy2djbSgxzQ02EbxN35lb3bBNJBIQ-HPeUqFHVWA8BaaOXL3LVRoUN73ZvyNRkOdmM_V1G4R54ROdKFU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.769112,
+               "lng" : -73.94354800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0341b1f678a1ab153c6dd0e5cccc532dcec97335",
+         "name" : "The Octagon",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 912,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAAzuf4soPJblO8ebBrI9Nzk-_0c6X5dSdJv6hpF94M5m6wri3n0tbn10YKJ6LS4sEoh8gMiZaPOAgnjQ9AkjGtSnwsIeksLYQbFABWR3Kbf-LG83dUS36a4rS7OQijDg2UD7tvkOrO0_3KaHg0Bxu2KhIQdjXNZDK0mxZH_J52-JE9pxoU4wnOIZhPxtQypTOe_ukSEg0jRj0",
+               "width" : 1824
+            }
+         ],
+         "place_id" : "ChIJWd5x3slYwokRlSXiCC-Bad8",
+         "reference" : "CnRuAAAAY1ycRm-af3BYRbO7wLHuIN_pL7f6bEklgaz3Hlw5_4934EwR8GxVOo5KQTIkGxt1UKY6nk6QCH68x5q0h6-42uxB4xYhdIdVWQYtU2AWHs6FhZZPN0kt5Wm5ndLupvCoItUiZLQsTWjjZ0Q388WkmRIQkYRW-GrmubYt-iuXx05K-hoUo5G5UpuaVl_laPjZ5wap7SZvdfo",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "888 Main Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBiAAAAPnHXj430UNSk0v8W3LomOwjbnMN5d9AbAMQoBc69Zd7JM-e0-2oLXWtPFkfjvnc-z7T-s8vxqM36Fi62BFtBcxBZ5gXNRdh8Z5Zcr5D3ultSEjG1tnCA4y6sOgz6KTvx3r0cSxBSgKVWhcX-X4kfeGDxsL-iNoLJ7mKNABNhnvtv5zxrY2GYWrXnuqNhs91GBIQISSR0ncKCzOCozrkyhg0txoUt7dJRH0E0lJLIYtqHoXdRGz1I6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

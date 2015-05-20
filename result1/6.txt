@@ -1,0 +1,534 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABiCZbDEaHDpO53inlHYGxruWDZ1bK3T4Xig4TFF0gRA3cmNUnUbu1D1yV1IGU37at_1_UbsHDpx75k-jWRdyXdUxJRU6gdmCNZVokTJSs69ne_cBCkJRNbtv_dTczo3oWLnKxVymzG49l5kizs-GaIC9iDkSPS7THchGqQl5eg10kUG13JzZL0IdD1Kty9ZYcXUzQz8q4q5iEnvi1mX_NiiO6OquPXY3XDr7VI-FSoPkLiKTI1olc6dNL1Bc4zZkwgXWzQ6ie0x-ikWxya_Lx-Zrm4ayPWqY2yCWEixhQNgIYCvSqosgiJFKu4IZXj2gRIQ8RcR1WH4xfkj2CD7gdUSsBoUSPyLISoGgo5bOE1biWK0RUPUzSo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7442,
+               "lng" : -73.9883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7472713,
+                  "lng" : -73.98156609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7407795,
+                  "lng" : -73.99187909999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b9a01e4ad8e6c63982349bbd91f85f46cb4d5ad5",
+         "name" : "NoMad",
+         "place_id" : "ChIJ5QsfX6ZZwokRMLraO-At8_U",
+         "reference" : "CpQBhAAAAD0NDIE9K-tzVWafvvmiTI4xIET-f1Odyqju91ZW1CFiC1Rf54nB9YDiHHiETVrRx76vWqq5IQjO5bbSMQLIQhXZ3z9cmh5tNOjQIilWbIfRifSfsoPS9pyhbuTXgg6QchBXGJ8-qQwfX1l17hbq9LE9XhkGi5CJOIYcaJ2bfRw9m-l0aXqKtP66MlwM0vn32xIQ4imambdxiXW-P_-ggJLZ9BoUp__8gbw1J6BME1mwdaOFfmYBQAA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.744997,
+               "lng" : -73.990972
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bbccb197e64202f695ffa0e4921e3fae8c6e58ef",
+         "name" : "Phillips Beth Israel School of Nursing",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJqbWY-gpZwokR6kI5WgSaLeY",
+         "reference" : "CpQBiQAAAOE290bToi1MsNRB3LWzdwNPXERg1FWgKdQPmmFbbKsADWgkH1B1I0Km6BaXkR6o9Y9aEE7ioVU3n1kosd3ZMaxj28Gq8bC3JlQg3ySutfFM72eyegO_Vb5pCXcsX5WfVZFAyA9_rRgwEwsrCQNbnl8PMqe_ZFtm3c9fd6M-lb5FJ0k8B8ytI12Ba8Mlv65pXBIQpL2oKW7nTOAZjapfNXPkHhoU35OwJqNSdDjmMVEmYIccoJsxR1c",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "776 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.744829,
+               "lng" : -73.989936
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "379f6903a5fa35586d95564432388c93f95aa3e0",
+         "name" : "Center For Book Arts Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8ISt4mvQ8I6cPRV6rCZb5_acrCdT9EQo7WRIeoAU5NBAvTE67JkluA2nLmcDh_71AEc3cGBSetmvnklmiUcOT9TNfl1y2Bj3lfZLE64an-Ssvmi8qVuht-goouHGgO_q9mR-P7bFD1IUeOLi2KgUVxIQGEWb3k0FRdJaK-IdjU4c4RoUTRORvJpcb-gZIZtRkclX1fCaJEg",
+               "width" : 572
+            }
+         ],
+         "place_id" : "ChIJx1H5wqVZwokR5uySu3zIrDY",
+         "reference" : "CoQBegAAAMnSUBVJB8Idw2fOuUT0DAAkTHPZSHUj7VGSgMiWBEor8depeoqAF9bsTyS80N353wG4yghV4vk6xtvITTe0TLlzBkcJVIOYlduswdxeSgTDoKZD3ECSRq-ScDmutMdo7gQzxbFSArjAM0PFUU4FHMbwnrcm9pp2pzTuAk_B6cFCEhAYXl9ziHmm-qXeD3UhJM_gGhQEP1er_MVgPiTqu163aWcLm-mQ_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "28 West 27th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746772,
+               "lng" : -73.991736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c995cf34a8fee14b4556d06b84e72401c42ae91f",
+         "name" : "Hotel Indigo New York City - Chelsea",
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAO1poBfPdpv3OLOwo0DA-M88GBR44gGOLgVjItbd0Lflt0sqWe6cePJ9bhps8cNZlIjnUN08qfycm4Ua25U5qwEKf7EuBzijUoL12wXRHcrDKYKC8XAIIGTTRGR7zbOzJH8-mgNIzvCu1_E1Fyt9rBBIQk8WXUOEZk7pRqssT_1EImhoUlOb8OKnTKbkR9VhO2G7fObZefqk",
+               "width" : 394
+            }
+         ],
+         "place_id" : "ChIJzcTNeK9ZwokR_k7nzAKe2_I",
+         "rating" : 3.9,
+         "reference" : "CpQBhwAAAMlWBaCj-hDW5p8HJkgW1AXuM2tJT6Fm4kW7CBk2ZObwpg-cUiALVJAgpMIAXW3TArPKvNcJNS14wlA8-8RKF-tfIkTkoC-dyh0h2M1LIzJwHJNMSyLz3ha0GdvyD05Q5oChjsivV3IsBmeCjE2tXVXnECadGCKnH1MiV_M3ZIl4o-L2EsQqqfDZBlPOwHq1TRIQaW2Teb04J1tpcUwE9_MlCRoUv8fMiImH5t15AuluuZpJH2pYHfg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "127 West 28th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.743599,
+               "lng" : -73.98989400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c2062cca2a0d6cadaf29010333ccc773f7a6654c",
+         "name" : "Comfort Inn Chelsea",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjFuD17C1kzoIGqzGd009wKVzJhqYjsWVhxLaCipg8gYyJoYONQ6iDsRCIM5bY1aS1Dwa6Hk8WEe7uLxBmATddd1hFQ2L-L_6NncNloM73SyyCCd12eeaKmzrLt-cp_QO7gelUU1uEG63GX9OzyQ8GxIQD9L26LNglQiwk1a6jFnTyRoUNcFypvEQfG9Utoli5aXKvvdrZO4",
+               "width" : 426
+            }
+         ],
+         "place_id" : "ChIJr9hyM6RZwokRUxI8r-vIktM",
+         "rating" : 4,
+         "reference" : "CoQBdgAAADFc505bAQTqsz9CpVgAjS4ak8jW6LROkNhZJS3wWhATAneujnS1FdYJrKSJ_i-2n8bsqQChZpkqPw08mYrdkdFK7ef8slrXBBbqYGwKB7ZbEpiJWAWXbeOIe3C5flZ57JQ9RQeecZK4eUHZJ3nzoUzjeU_xaACGoWv0q_DsG7KKEhDfq6ayf0C7xa-1ULvo7l8uGhQ93QyN6svCuGjHITxGNUCzlUYMJQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "18 West 25th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745343,
+               "lng" : -73.99226
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5e27d05fe7a45ed0571df70b1a390e711d5939f1",
+         "name" : "Holiday Inn Manhattan 6th Ave - Chelsea",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAW3b96GGSfDOMHuQDDKHvr-Il4J-9oYpyL1l1PvrJOlVRNLmoBQ_d7EgoJCsuZrafSB7uCbngCuJ-sP_eKe-8cD4TRJ99LHdkiz7nSY9sr8Rs5Ro_PhmcwVJ90xCPeoE9XAcyJIgCi0hyM1_WdwqlHRIQuQ2No1orgZNYB9OjLP-wehoU377JvYMn5L0jBO7laN8vyzd5TiQ",
+               "width" : 333
+            }
+         ],
+         "place_id" : "ChIJXzk5v6hZwokRIoDdundSlro",
+         "rating" : 3.7,
+         "reference" : "CpQBigAAAOZWMbUjujkw2hmIsOyY7PeznHAuTsJKHlquXKtr2Xi7AiCzR4_B60D3wN23uq39dq3VjcX27_wnYfGLI27pQFjoz71If4xQ81umsdau_JnoPTh6ZLcpGzgOI27YaciTSX7klrPzMSZf6XKEduy60UK3Ot7Opze5cic2lIDl2PRjDwH_xSNCHdE3QZGO2jE3qhIQLOaiEsbiy8OOVY07euaUIhoUzpCcwOgoOV_izxc8VHFExgq3Nzg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "125 West 26th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746614,
+               "lng" : -73.991415
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "472bac255a2630118ed7c7f533005bca4d47c0a6",
+         "name" : "Hilton Garden Inn New York/Chelsea",
+         "photos" : [
+            {
+               "height" : 1361,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdAAAAE4k3BlPrK-kKqVFJKe-v4W8D76GTyg3p7M-VYU7PvEbTZlFy5ilmuN0lda9QJ1KLlzUlhtqWgu4w8VmXjEKqh3VywGV41g04KZUD8XHo9xMG-2OU-3gB-BK3S2R1r5rxX-tbzrlXJImWeHwatmrsK34ApEJZsRRujC_fzRcV-0iEhBoXZ2lE0893Za2jKVjhg5GGhTatoEqktgiM8JlVLDXyhoAQupiMA",
+               "width" : 1377
+            }
+         ],
+         "place_id" : "ChIJ0xgafK9ZwokRixdC-73WCX4",
+         "rating" : 3.5,
+         "reference" : "CpQBhAAAANv8_XVZvAxupdD4GRM8bOcaza1lV6ps2zOSZmQ3BlI2v-IkhjGUxj2IL1nVqOejIUA8V685WWoCVb0FBAv0mINhuHThiHOtW_xV6i8ssmf8cAPRW6_O44jLoISiiYShfYv5nM1ySf5vBYILXZyljJ4rkYkZUT3SD9V2ZFZw4kfbEPEP4EUp0fiYcHRCcMHU8hIQQXlvH0bymcUj2Au0SQucfhoUfBIVUZsC-m2h1jov0cVMiFTtgig",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "121 West 28th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745743,
+               "lng" : -73.98826
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1897cb39e087b4084c96bd40077bae4c5e7c32f7",
+         "name" : "Ace Hotel New York",
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA77YXmQrtaoPVsIlwtbM3kCXkW4qGr7u5iOP4hNxa0ehINC9Dl0WIGGI8uhnELAXdrYubyVmSwUSMgMzjUj7slRon23YUqD7yFRJQcZaGCkdpkp9UBv_qbz0cLaQKeL_GWKbkdPq1XMFk7-84c1icqBIQ_nOfNW9gpMFeKb9JLXg5lhoUVN2G2T8SQwrTLcwXT_jZ--9kfnc",
+               "width" : 864
+            }
+         ],
+         "place_id" : "ChIJT2h1HKZZwokR_Nwoxn8RfU0",
+         "rating" : 4.3,
+         "reference" : "CoQBdAAAAAlTF_A5h6tuA1ZMoTFirGgCrwcYkG5u4_LstIzbVnw6hR_l6-VagYt48TetMux6d-Aa0iEFI1AUv8YzSTH4dSHnf7mqc6mDe_pMmcvPFfxwLcqEu4N2uA9Bn7e1vPlKyAgJgI6ZJSuh08TJDY7ymj0vmb8pZqpYtBXkG7ZreUADEhA1fP1b1YrV1-ToLLh6ETIWGhR3Sll-x2Tis_T_EYa6TZ01IIzXOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "20 West 29th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746964,
+               "lng" : -73.990903
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ba5fb6aedb3ee7762509ddb77babbbca4334ce8d",
+         "name" : "DoubleTree by Hilton Hotel New York City - Chelsea",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 588,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAdm_jshhB8VjJfS_KJ-_nW-EoubQ8fyUzgZYNYAXNQd93ZXt9sNh78qvl6nU3q3nOpF3KHFZbZmmOaGiKf5TzMSFo4OKrQmCG_wIqAqEjryVXG3_JxBSTWwYEKC1x0Hbk3e3ZF-n1SqPPw3depZq5qhIQbj4k9b-bNlTZUwVK7SnDaBoUttTs2LwPAc0PRMoKwGXhrhOAuzI",
+               "width" : 903
+            }
+         ],
+         "place_id" : "ChIJ1-macK9ZwokRQAbWUXznXjA",
+         "rating" : 3.7,
+         "reference" : "CqQBlQAAAJY9TzQ-OTBoiSxcOti3uUDBlQQnMP_wHaz7id-ojXmD7KPGEJ35skjhvEfa2sVdG2E3b8JxFstfp4QyzBGbAO9urf0ujbL8WUXM_984nr3G9n5e71Ssp5Bo41aG8FRCg1PSdXZRczIAXHzEuq5m9Llj3JATw4uBEU-G_KaShCP8b61-XojLBFALn_1mDEQZx0ZJ5K-pa0_mXXKTn5alcRYSEKfg1tcjUMk5vPev59g0umQaFE3bTLDrn-eWAYN4zwmD09WWWlH4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "128 West 29th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746204,
+               "lng" : -73.991422
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5f8094e49f434f2904910047caa56c2f94dffb45",
+         "name" : "Fairfield Inn & Suites New York Manhattan/Chelsea",
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAIamkg4VuVE1Y-s_yBUNo36kFVxUy5HzIk1sRkr9j-2JJcchh2s_PrutOUhAAj38akK9WEdg7-RADer5q6xzHnsn-SWD39dMhXpEWfZLv4wWDZBO84AHQkewaZJelg_TMOtkcFCKl0bTQ9yZH80sMbhIQubA90mbMXP7afJeOTxMqRBoUMamjPkhEnAx18M5zzkbufWrLtXo",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJgXlbh6VZwokRbhvJi3Dvi2o",
+         "rating" : 3.8,
+         "reference" : "CqQBlAAAAH8Zi_q73bqvH3V7e4W7R_QEDMvFAfNdo-8f0FJjfJogBeLcHqHsM6kwwDAWR2H1WHzMyv5bOHxSOm3iryz3ODFkTrhQYGhcYCx8liBxrN5HtSpQyP_fz4aA6dusv1jf5nU3aYVlDmiXrho2tdsCMJs10DT4RTmTOqGMmv1mnBYcBJwleSB-bKy-RDZK0d7kbAmHMnTD4-auhv_ktsnDcG8SEALptLYR0hdV7EoCjg5rNwMaFJk5efeRwqq_kbM6PADgTq54LeUV",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "116 West 28th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7442,
+               "lng" : -73.990455
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a3114f7517dff6c192fe75c3881336c5612379b5",
+         "name" : "Hill Country Barbecue Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRtAAAAwCZm7drRrGsi_CLj2MdLTZePA4nD932oYpblMPxRlo_V26Pv-Wva-agiRQUKBHPuzeQBKu0k74BxeFzveXkNi_7bHlcFUsc-TMbdZnuQLdfKOwnNGPjEa7lV3G4v8EYIVZYVIim8uxrE-Z7fC2XMVBIQBfVKBpbP7XUDQJgBhappGxoUTnLhopzXO1pIZbh3URHufd8Tl-k",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ_Q_6t6VZwokRzvVPGyEaaS8",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBfgAAAFGqHaKFqJV7C3LYvTmGWoE3xo_4VdQ72rPExJslaVlyv40zd46e-3ez8IYo8xFGJDRfi7Trt44li8bbMm9p0_Qv6VLqUqCLaV4fRV8ONIyuDeFjhucumyb9S5tVv8KmwmY4P4sBrst52pog2tG5XE_T8IN84Z4Gfn4ZDXeOPKNaEhDdxCDv9_XUkw71yjTxh6x9GhQC7HZriKnv7nccvuZPlQmRMWNZVA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "30 West 26th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745064,
+               "lng" : -73.992637
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7e65dd60ff05b618c752880ce658f2b67798bc06",
+         "name" : "The Ainsworth",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkQAAAIZ_hshkR1edssQg4eA8dqkLXn1tfmzYgYodlf752JgIl8FtgytipYdihjXIbZO-gsjj-gIOOWkOcbNllbBnlOb7z-_zbun6slwkC6jMDUJeLRNTcg0YMPeHTtMV5xDVbKTpjiQc2_N7yTxR45hrOdGAjzL3KlIoaszT9Mo_i9tB7ldt1vmE6nfDxYJ9vDRRiDRdfs4xEv8rmKm6LU-W9T4SECoZx5L4GE5x5bN9jyaIJ3caFFGk78dCmbX5uuTjlLWhGuN-d0t0",
+               "width" : 375
+            }
+         ],
+         "place_id" : "ChIJTWH6EaVZwokR3MY-5qOBwkc",
+         "price_level" : 3,
+         "rating" : 3.2,
+         "reference" : "CnRvAAAACQlpcvjmVv1LGIbRZ_lt3T-EX05r49kKy-2HWxCCKTr-K2La1y3YxgJwFvu2tP2xuf1UTJfUeFrcs-ySWd_NaymRHP5cVMxvkZ-iqUtUYlp0ZAUmOzLfXWkCkKBxJjAs75q7M-ZadrvyagC8b_GqphIQPW-DXMHeFOJlJHVM-T5GmhoUURi6E1mLx2K64bGg1GQZxEG_PIo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "122 West 26th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745721,
+               "lng" : -73.988208
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "fda32f9eeaf962c18ca9e86d5f402d3d0ebb04e5",
+         "name" : "Stumptown Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1273,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAv8vHJHpluoo7JejLwqP_gcrvdwTDRKG1t12xTFQmptS-fD4n0jVdrgXyVIfc1ww9RBPzhE-j8kH1OuA4iL9_4BnQ17ndOr4KwBNpB8CE_Sz0JGfdzvqrZoqMN0QYhtLfGAv23hvFvfY55l2QfbYHaxIQGgpcEjlI9FK3cLS9I3rMahoUhF6d5AyTH_CTQevyk7eBEuE5h40",
+               "width" : 1910
+            }
+         ],
+         "place_id" : "ChIJT2h1HKZZwokR0kgzEtsa03k",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBewAAAAP2wdTCPu9YyPLQQWZIwEr8SuN1NK7fJlwQXu7vA1Ow0h839jc0eWLv2YWzVChIyc77M3aA94JKIlDmjJTrKX394ATpU3ncnaPUJi6JvIiBvrnsn30Jug20OSHbT0hsjVAJovZ4HQcaOMQSLjPvYa_8whc7wOP4CpVnt-TBjjBeEhBQnj_7gJavyjTzjiX_4dAwGhTvqqShDSvaeLqM9mkAeLUgbj-MsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "20 West 29th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.744959,
+               "lng" : -73.988511
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c6c24f6061f4f2267fe7b70a5406bfaf7771248c",
+         "name" : "The NoMad Hotel",
+         "photos" : [
+            {
+               "height" : 866,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAAz8GnoxSqagEKyrAbyZ-Ct4yKfAWvPmtVOCUzGQoGxZt18cVjaAaJAvXWc6KhHOvv2gp4KFrGhIZpmum_HQ-b_Bg0dZMqvQdzRKIvWsD6dZQbG89mT4AN0iWkPWEZ5kpeOoPkLQLPs-f1C8g7734LfxIQyDrBNcWHmkKD8IHii49PjhoU05ISoEv14Dixr74vep6meLInVDM",
+               "width" : 868
+            }
+         ],
+         "place_id" : "ChIJ-eorCqZZwokRU-91WeuBj6w",
+         "rating" : 4.4,
+         "reference" : "CoQBcgAAAHgUZH0zKfF_uE3bA3WjlmGxQrWcyZWbWNDr5azgC11kthaUJVhSNbLFxFbqqF-uiwlY0ClDTPUligAYpe-STyVAbmO7YUSugafezmun4cEAj9XOFls5NHevS2Vl84s8oF6-wRfeUqLvia5t0lDpEEsiMJ3BPtO5gHnCoWLAQHxDEhBIpG8dcBm2BKBJIeAzF0EJGhRm7_rF8j2w9juq4Ez-8imhH4-ymA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "1170 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.744488,
+               "lng" : -73.989141
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "494840ac9b45d03d540bcd538721a8c80e38e26b",
+         "name" : "Broadway Plaza Hotel",
+         "photos" : [
+            {
+               "height" : 830,
+               "html_attributions" : [],
+               "photo_reference" : "CnRpAAAA2nC6T98hmCb59Ht1UEwCfvvGohqseTW8yUSofSF49Wk-0dUuggg1C3w0Mga1Y80jUOQVh_cb4oaeg6ZmDUAD1tH5L2yLcduX7rXpF_-cBnvTOA2evt_mVcf2gnp9iCEG4TPTzY4SwQpk0pjDy85VYRIQvFGiA9v1vaonkYNeLJKDmxoUPoDmz_oWqyW0QaOrAqJpKm9gzeQ",
+               "width" : 830
+            }
+         ],
+         "place_id" : "ChIJNSqI2KVZwokRqDfSCaCYgK4",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAL_UTjyciOacIN72F53QTcy--aV21IgbI7bfZFg_7ZRmvJkL41HvFNDLRg3NMRv_ZY3rKSJmv01GF3O0JsgDo6wmaqxVJDHowYZaDWU8f_TjYQgg89Nhqvq0jO-FTCUyXphbbUV_i07PMsLhtibS1z_0yRO2ejBIOBT0AnaSsleQEhA3YYQ10pgNO2tHSqvZL8x3GhQQeI_mshGHsgBclDtwBWhHdCCafA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "1155 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745743,
+               "lng" : -73.98826
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b07d8d6834e521004c0ee9085846eef233093fb1",
+         "name" : "Ace Hotel Lobby Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAmlf153MKIQf4LjSe-4UXxdGJUgZ7Rm19ocTdFNPb-6ooa5Wh0LBmchrx51_CoMlJplo87FIWlDpVoN5eqAe0q_NTb3RiFE5F6YYqzs-mc6LeVzizXksWICVV56eitRB7uVMTcSzejfuJcW1m2JSjaBIQwrIeS62tyVVkPtxgoskmuxoUywaAi0mO85YWeaz9h3IjzCZEGPE",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJT2h1HKZZwokRdzFHIAIPJc8",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CoQBdgAAACmU-2tsYO7vnPfQ_qAmhd3GIj_Nb8RcnJNeqzpvKHR7VcRCyQONMhW9gRyczsWEWGou9Xne8IhN6vVDbZpzh9jWbUVZ-2GS5S3Ucdt4hssmcp0lxxseI7TwNKm4RbEzsIr2Ut6rJ1odfT3Iio2b3dKu-Mqju9I_49_2HxPMOul2EhDgSXBfdBuO-2t3qvSUjb8jGhSOmRNknIVGs5UrFhuH-j6PvXEzeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "establishment" ],
+         "vicinity" : "20 West 29th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745041,
+               "lng" : -73.992592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eba62ad6e20a49a726884023a015b65debcc3d3b",
+         "name" : "Boxee",
+         "place_id" : "ChIJ-1DRl6JZwokRYBDfroaEHi8",
+         "reference" : "CnRnAAAAK3nwbTSI2f-uB8a7FqcVTNYid2UWGETGh8J-MDUk_vGfou8z43iGTn0v1q92Wfe1Oz6adoXt-twEpPZlNyRdtLnNQpV7EPFIXXsT5mgkiaCYwEDY_UutPQEWKMqAM5cF5LFOdN4QVuBlghEhSlV13BIQFuvd2nIjetAxR9A44KTLpxoUrmxdQBRJw5Di7O-XkLTEF1pDtGE",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "122 West 26th Street #8, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.744987,
+               "lng" : -73.992378
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "abf302ac47d9fbec8fc3efd1319dc454b5888e07",
+         "name" : "Ricky's NYC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAl785t8NJxZr7r2MSmRT18Il5o6UHbCJ2m7a5IxqVTnlb2eOd43YlXXeRPcvCWleXUZ-P9HALP8L917mbmWrQwDosHO8_C3PetqV-aR5iNCUlYA1mlN0d07SbQgsQzybr4l6PnBAA_dLZSSwMBU6LoxIQo-MPG_kvQ8fgbW6q3d2oMBoUZZ1JJFwiJ7Nd-sIJshVF2qNO-hU",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJBc13B49ZwokRUswJaaXge5M",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRuAAAADZXspQCR8py6XeBMbgpAaA6N4qyZ2Gf97KvTLSpMIDGTsCZDKaYzcnYmkABXvbtKNG-erInDWpY3j13c8ntD3tk_gQPyvIfTFoCQoMR0XHcJgAYfWIQsujq9h2i-DIZh9Jum7BtgJIgp09EdjwwffhIQxCvzteFc_ZcQwOAErdvEZxoUukC1ttNRmuXRju2p7mPRL3pPkFY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "114 West 26th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.743722,
+               "lng" : -73.989884
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "12bd862dd7322ed7d36e5dfc935011041ab09f24",
+         "name" : "Serbian Orthodox Cathedral of St. Sava",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAMHDyJA6O6dbB1MSiEDRhY0yWBDbEezg1P6Fk0CnzHwiDaIa4DRptqWQWTT8ZEKC1q_y_46eSPVc5G65FzyBwMu9Tv4ExMoK38hRwg7qAQDVOJA55xtE7TgXhtYrBCBaqKSoqnP0NNSfQ-JmCat6rlxIQ86Tbt5pVdL1YmZt2rNt_zRoU1Ob9TIwDgMq5Nlr0g54z_TnPUTs",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ8yWMy6VZwokRTx_YMEyg33Y",
+         "reference" : "CpQBiAAAAEuaSn1kXj2kwaFZ30TOpmoIDuP_cEBnoGB5hko6YjNyx3KyElZI2ib3wT2p_-ZYgT9qMtDDe4rhKdGZF5wbCB98A_okb5IjgP78jVLxhUL8oz81pWw8za_kJjvsdH2731E840xqo1YPh0i4x2Z26PRKityRbF1YxBfy5aWPZ7mklHO7FLCfeoUlPebtCgIb_RIQLL_tY9FfjUKN_1SD5JxnjxoUZynPTxff4AMDqMfm8f7W-Y4n6fU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "20 West 26th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.740083,
+               "lng" : -73.9903489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7448022,
+                  "lng" : -73.9833605
+               },
+               "southwest" : {
+                  "lat" : 40.7383561,
+                  "lng" : -73.9941752
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "489fe8fc428398e76aa18a6f583a0de8080e3360",
+         "name" : "Flatiron District",
+         "place_id" : "ChIJW2pKVaJZwokR1NyxT_kGsOY",
+         "reference" : "CpQBkAAAAD9CajPugofae2PoKykEe21DMMXSmuuRrrXwfsB8Gw6ZdiOD7GW13sM5UvlNd8-U75bZqgGcDS_YFxjtBz1FVmOUxmf4Sh4kn0NYUUwxDYPmXMCvH4v5shFT17FQFOEJ2dYGodUs1UwQijz7YRfDJ22-Vqx6fp7Ur9-LpywiMZjMdImCCRAyTGMCl2KgwqN8eRIQ_JpTWGpAutciYFR14Zj4jxoUoN8B8jwfNecXeBQNrhegcjAr5b4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,470 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAEvEnAaAI6231XP8qCFIv3t4gpX2YrIRNukMuhwyWEhIY7Bg3Gob9aiZNMY8edW1RUAUWV6jRNadaafwqcRJmL40bzhjzYH_LYcrcTyqvt92SS6ZnCwI4POkPNmEWBqNQqtj96dgq4e6ruvXoqPfBIL1MNy0q83ysEVwZkfswnFuT1mjKuJpHmBEgzHWIcuScVwB8vy2wjd_4gUAheU_vTuZHUaBs6GwkavW4uu6BtYBwpKM0HQ8u6fqW_1GyBICzebXU3U8ikI6Z5QiakY2wbeKNfxp8_akaUfI1njdFdNTttVcr-7Q8fg4Ki2hV-B2FhIQmAouDLQwjVOZPGJggAefZBoUoAHdBMvTjfZ_bVPNdR4JuYa_IxA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAG0GDgtC9XLI_stgfsaZKGWanj-wQBSsDBmyLwLefgqaOFiNQfn9Ancdkjj8dAP7leB7ucJLWohnAlJW8D_4Xu1YuQrI955sNvDQLnpIXRBj4mzPxmUbANXKupLJerKztkS2UVIEJrLRWLM18IsskuNwumEJO3GHTgci4NN7UgVOCZV3rvnB75cxEVigfXiFlBIQT7CnDB4FThyfcYKAp6DIYxoUBZUj6rr6qQMHBvK320ZfYOsvuiE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792451,
+               "lng" : -73.947344
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17fa9816f3b96dca0bede08fd98be4a9f0fe228a",
+         "name" : "Cristo Rey High School",
+         "place_id" : "ChIJm4jxMAP2wokRIcucRaJvVTA",
+         "reference" : "CoQBdwAAALfdAbtEWdoh4yYDijCt2zDbGzS-QdOO_y7Lo3ZzNPk9kIBDAcWWKxAxTdKnNFXFFGJIBwob7EM9RIBc8Ca8pk-NiMRQgrG9pldlXRFAhmpEahe9F_fR75RGLpnv7IWvuBanIR5Vt7OvkvCfMD1v9QUQSOWjYdWktxFBQp1e-ySXEhBXkm0DeNu0CI39bhGDBrtKGhQdthfjGBXnvTeV7R_OXb2WmjBaVA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "112 East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790615,
+               "lng" : -73.951312
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ef5894bd7fe730a6eaf478cbc465d80133959e31",
+         "name" : "Carver Houses",
+         "place_id" : "ChIJ7wVHhR32wokRuQylK2ODRyE",
+         "reference" : "CnRuAAAASHu4S4CGz2JP-tooUgSIcNA1_vtRuG7J5wy5Oylg_i3mcwkA8M7rs0Xt4uylYuhuw4QcKAol7WSr_5gun66e1ZvBOhQmMtBXizruAh9y1iVIh0vM5Tkp7ymIIIeHO3YMuG9295LXxVI4p5oa0TF5-xIQUaGt-LxvaYDSLaIe-qHvjhoU4yAH7lXzmnyglkBGsMzCtC1iDow",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "1475 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792828,
+               "lng" : -73.947093
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "66735b76f3474c0d7ebde60cbddf401469cb0469",
+         "name" : "The Young Women Leadership School of East Harlem",
+         "place_id" : "ChIJhx3wMAP2wokRc02zhz7qaXc",
+         "reference" : "CqQBkgAAAALw4VzwoJACOSBtW5lrL2vaYwEgyBkBR1R4KaSXe99xvO1OjUNKR0u0rTpKuOf-fJ13FQkzaMuvs7KOv9VhFk39qkAgk-jH_iAKo_ggrhaoJ0xULU99-fGGFvEjC5TJffS52hZC0PsvqdJZQReryPkDbkxHD40-U2A_mGjHNbyfn3UF7bMMwVFgVGv5iaaB7A9kjpuSIjf1KEvjXYqF_5YSEHXYB_dp2P8MoTci01vbdWAaFKVQOLxClZqDgrwgBZlxz0loDNFZ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "105 East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792311,
+               "lng" : -73.951493
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "79e9c12d633cfaa5187df4755916923a813cabe1",
+         "name" : "PS/IS 171 Patrick Henry",
+         "place_id" : "ChIJ51YBsh32wokRAX5P3a0VKt4",
+         "rating" : 4.2,
+         "reference" : "CoQBeQAAAPrDJ9Of74p8tJrf8PN7Tf300m1qraGLnLp-5nuRswVQ6XPg24OsReb8PNfDWkHx2-8uL0DyFsgvNjMbJwErFNoSIiPK8M5KyLJS1ljbAGt-Wc5SpEde56_uQ7KSlY_tv6m7DGXxTuv_yx_VLWO6YNs6iSJcjzp3cF7rk6_TXfcyEhAjrDMSIY9vXwbb4WvrToshGhTcR4Dme6K9iiUXApdOQlft_ln5DA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "19 East 103rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790983,
+               "lng" : -73.947124
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4ea8aed5aa539a59a0517417d0d086b21638c7d6",
+         "name" : "East Harlem Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1250,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBjQAAABO2GBWACaqDtUDuFThX3Bi9T2QdXtDJpOevc9SR0-VJ38TD7VkTX69mSpGsIalyqPf_x838ruE7_n0Wm8cF0mBvGwD9OBqCBW1rLvOWmOcQE-7FTvzYOP0rAbV_x3zxhZ8gj6h30AWUnLMemiSIPEjNlT-kLqrnxkcegJ1W0sD2Ks8ZuEwDu0wVJvBtA8JeXhIQycO-1Xzb_Hl61y4WHiC2DBoU9raL-c9Fb6HZ6CwcgWJo04IyRQo",
+               "width" : 1250
+            }
+         ],
+         "place_id" : "ChIJbb_DyAL2wokRvPnTiWJ61p4",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAO2vVAbUoEb91EX4Y4_ZQD4obyiTsoobHGiSgfreX5DcRsOBLa3E6vYCmyEhD3-_n254pOg57SkOmNTqJyC01qHK6upPxCTqtCqFvAEUZq0VGy25aBAhY35bLfmjY6Vhme3aVKxFnzvmBvRWBq8IlbpaK8KhvH9ppBXtTimtUGxpEhDPm7wqabyx0ArPt2nP0_4qGhS98_gTH4xBN1E4Hrj6OlrxHiybFw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1651 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79225,
+               "lng" : -73.951362
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12dce5a5a92e1a64a6fb4badb9d7739db9210ca3",
+         "name" : "Central Park East II",
+         "place_id" : "ChIJ51YBsh32wokRazQpmvCrDrQ",
+         "reference" : "CoQBdgAAAFQImzBAA9DtejzkcLfWBxk5IgwK2bGSh4GyzEqyvuQldCNZqxoWs0c43Uk-veBHa3GsBp2Q3O3v2DRu98A224CGbmUpE312-nuBiUygJ8clTP6MXUX9Uasg2alRkwTZnCs_UAxE482CVMYOVKP62dt2a1O4dfkB0fwkINhqiXAAEhBXGMnR06gUqwixyyqDaeAMGhRi2wx9Ua0PbLpZfgV9E-ERkufBfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "19 East 103rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791891,
+               "lng" : -73.946889
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e184e733c9973ece08ea79abd0e80ac8562d6351",
+         "name" : "Heritage School",
+         "place_id" : "ChIJtf2OJwP2wokRPK-dogBO8g4",
+         "reference" : "CnRwAAAAYwTQ6AKuIEmrSXGPwPcacOo5bcJDG5aGfnGk0lb5PKSRaI1hp6MVDyClyua-vUWIwLwfVXkDpnae9SArySovOF6VbIs2sXCd42eQpIRODoY2sgog8RxsTMajKMxQkX8dBI1mJE2mqwfh2IEIItgcBRIQuQo0u67F-4RCEtjiXS35xBoUO24uHWnRoRbmnIEYFpjwMeRLtDc",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1680 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790712,
+               "lng" : -73.94720100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "0394057820ccbaa371b16171dacab0bdca9267e3",
+         "name" : "El Paso",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 311,
+               "html_attributions" : [],
+               "photo_reference" : "CnRtAAAAsidTVFiNsamaJHt7NBjTLRhxMB8txyI9koyS5W4VkS7DgnV9drXGhRzhH50laManjxc6vgsgQr0c3C1VGkBwNC5i4cqVJOxdEWCw1jHuPRUyLDOa3PTG2rDpHcANDKXa0leVdq04f4JXCnljuVXpnBIQBeHj42Sm20UuW2Cpm2SCdhoUvKaVNiLoq66Xo5OCyVZ8b4Zg1oQ",
+               "width" : 310
+            }
+         ],
+         "place_id" : "ChIJh4pdtgL2wokRAs_pdGrzPiY",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRoAAAA2JGc44A2zm0mTXZBxGNLX-uj0KTNU4hs4EQIwWez4agiabdy3ElY7oFip0L36PG-W4YhjmxewuGTigal7CVjEFBqp5yoM6piyigUnvFRMLQWwxwSOfIYfikQ1F326-gdqvTmZZD-qUv2AXB0_meigRIQo9s1cnMuCOcmhmmjuq4-0xoUvpyL2UnBocfwyk1irHmx1nCBqMM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1643 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.78976,
+               "lng" : -73.947943
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "96d623e653066311a03461a50a0982e07c65a67e",
+         "name" : "Moustache Pitza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwDhrQj0zTlaa5-uHbVI-IodUOgNRWzB2hdtoYCX4Ro9PFWEbpjHXV4yjFOg-BwWZw4wNnPtwqaHUqYykKLT8l-oVfw5sb5PJiez_m9A1neyA90nHO-peVYVG1E5TgHJK6xnWY1HKZ07fqM31hIPsbhIQLhFRpqaRKrnfA4NiWaXAdRoUSENAm4CEojICuCLann7N--bXxnM",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ2WX0VB32wokRBUt-jHqTlsk",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcQAAAAtTWoFbfGNhA0LKlkOatUsZrZSCITEBszhTTkiK7RbEONX6dN2U_AcCP73vvX4zu6BQFd4crDiVqXz3NISnwNpo7VdJbwjDH3XlAwKKie0cdx9hjOzULb1vJwhlFPIOtwGg9yc3xMwlMVqGpmX4z_7WHRnB4JUTuTZcaHkUOKkQEhCfCmI2qial9IfUptedq-YuGhTJzxfWSZzqWncGzOkMDnlKoRN6Cg",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "1621 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791288,
+               "lng" : -73.951538
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f582027fb778130b1339dcf9e307c926c29057bc",
+         "name" : "Duane Reade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI-XXlx32wokRwErMTqZBcyY",
+         "price_level" : 2,
+         "reference" : "CnRsAAAAzhb4BMvhhtWUbayMBLuyqejCRAepGR10FXiHQLrPRp978Pr8IH3L5s78ipL3LZIHITFIw6VZnK6ERqhvz-hxgOSdzzCKvQXGDwPDwXQtGfSd4Vl8H_qAD0CGmnWblop6wdky6RGk9foL-LhPrP8v2xIQ8ielDHRrQdrFewqJVAHd2RoUPgvAPnh2mGMRdWfwrNYuDen8uuY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "1490 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790561,
+               "lng" : -73.947923
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "39efcc41239f00da2f28b423e2705ad02b5a6267",
+         "name" : "La Casa Azul Bookstore",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ6dB9TB32wokRb_NvCjzuVJA",
+         "rating" : 4.7,
+         "reference" : "CoQBeAAAANjDIZC-VyRAGsWf9rO9Vy6yaKyrN8J0nx3aVLiSSyEMkJrmLocNU5WCUJyknjVACPJIjzUDRpGDRNjqPChbwcgQUuCgoHx4iKMhrAP9169hHUT-kYT5sDoQCibFF_62SMeE8gp3OGwZfsi3vaRxN8xu6L7-BZ9e3iWxW-yq2Ua_EhCDtjDfDpA8yRwmZ1rlw-QMGhSiZfOwE6Rh-v_EbHiDhTS9-0lNCA",
+         "scope" : "GOOGLE",
+         "types" : [ "book_store", "store", "establishment" ],
+         "vicinity" : "143 East 103rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790772,
+               "lng" : -73.947147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ce41ab148a65245a80d055ec5cd08aaedcece29",
+         "name" : "Exotic Fragrances Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_01MyAL2wokRZk5LmqgpVAg",
+         "rating" : 4.5,
+         "reference" : "CoQBdgAAANjnZww9ng5JFyHypBgBtNjHF_9f9UIfTe24ENck1x-2hhMgq_nrwroIDWXlfr4PqoRSPk6xpKjPgVwgZ_1OZAbjTlSx8k8Xj32eIydtLTvxJSK-SBq0FVCRUbe4afP-sO19rNLgkHPAZyHKeJnZlI7UQYo7OPg6Od6SVUPJzM59EhBc_nNvVl93hyPZM-6-77GFGhQ-3rdph5X_95U06KHCda-kjJQ54w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "1645 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790611,
+               "lng" : -73.94770200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "78388324020c19682b620939d83974c3821fdfde",
+         "name" : "The Lexington Social",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4dERLJSeuOa-6xAKAyGXzHBTc7geLzihwPqjnfxF_yuBsm0qFx2U9MvzKh72HBdtyPwVNq0jk1DZmPnKqoPF6PMS5bJTYFW8u6Ba0--WypUVvOilk9X--yO4qwW_eCy82Z88ZmxOof2cHrt9_w6PfBIQlF0AReKL_ChqUP99nLEGFhoU5dmm36StNv2iN5TZ381EhrhjRvM",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJN4oIswL2wokRrQgDHGjrqGw",
+         "rating" : 4.7,
+         "reference" : "CoQBdQAAAHVxUHCPftnXmc0nVIphCFzlYTaYFgnARkluxoGNlrJEZOVX0oOSxxBpM59o_gU-2fvSi8ub04ZQhxU-TW0qLKNi59aKmirfmIwLP9A2_kitLLF3McFdQGuwvc313oaeqhDuAYsM50e8IABx3KYunF2gogZ8XvhoJX7yTKyC1bsFEhBV_YNcX3idHbq35K4QoVqMGhS8-GEbLpVyqFUQ6S85K2YfLZ2S6g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "1634 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792623,
+               "lng" : -73.95078100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "20f3cbe59983995a837de11c043f56e0d92907d7",
+         "name" : "Blimpie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANvB_boZxKcHLTVnGMRGfURb4s8F0cMC3eNL0_CTEdi5OZ4vEe38A8-YoUoyQYgMw1fzTW3r66jTxeXnEM7TV_abbAOwJeu_6AgCiyTZpDcHfWdPWrZlOWN3Z1A-4Z6M5nrCSxmejLVIqa1FpGVbfxhIQRAphBUQKa2sIm2QI0mLOERoUSGHBl7bP0ejREaH-x0x0NgsTqZA",
+               "width" : 520
+            }
+         ],
+         "place_id" : "ChIJIdc6VRz2wokRl1zeyBESvBE",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAy4gMFXV8YPMns9pwhsNImGVML-RJlDvHYRBGjYCEXS2F3a-3QeUsKmwIa2flIJmltZJVlGPpmdgkRP1EAU8mRqOjC3t7Hst-Ynxw2TM7cEo7bbXnxWn8tUPcQn2cP-s9NHzDui7A8cPzbE1Zeh80nBIQQ2GQB3f3HbxbpEu78JJsWhoUbokFjee4bFO_-0El1loWkeRlgTg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "29 East 104th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792866,
+               "lng" : -73.946833
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f740b39598142cf4080d4f9fd187a19a149dc15d",
+         "name" : "Community Voices Heard",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 107,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAWiCFkMA4uRUNtyWo-ZDsoMsnFSspwLj3QlWvwIz0dYsJiVo9CA05VSJggEBS3R1-chP4gstLE0WQosPbBIBphQ511v3DDkDwKB_ylzsuuaCUAPRE0So9DnS6395qOH03e4q38kSSm7m3Wmm9B5A1sBIQR3GEDywXNTxUQTE2S5xBghoUVkJU7troRBe4Jv8PyRQNd2ER0zU",
+               "width" : 245
+            }
+         ],
+         "place_id" : "ChIJA900OgP2wokRTtqOKqw94OA",
+         "reference" : "CoQBeAAAAFvHhn2lNa3PS9WYkUTq6RaxQMm52nTNreRN6x5mnGo13juqAQVDRKSNWz_Z3hofrP8AAes2vLCpx14yXv84FbxG2tNB1-QXsEa5U1wY9HxlBbffGqJfpLyAwsSn_QKXguftU3_tje5YNlyjEH2wUWK5T-JdLD6_eqBJbXvtOwf0EhALCd3mk1gCxaWIHzvWnrFVGhSe6e6hlxMGBohDNbqDKwbBGMsbcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "115 East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790534,
+               "lng" : -73.94774700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1d835c8b91529a50ce6340aa1b473cec36bccf58",
+         "name" : "El Aguila",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAc6AmqUnjyI_L7AV2p8-TNXgp28vKxlSMNyIej_OqBfibKQV4tQF_QEFB-cnqikUxJWOV5TNC43v74WKSX8cyiHGo_sM2pjNz9kF3talfDotATGDcIGRdw1BNElxG9BSVF0caTT6ocugHDgR3uO9CwxIQoKi1d4wQ2tBxXrxI9tYBNRoUwISBNH7_x7JYg2SwcOCeqxPNQ4g",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJxQURqwj2wokRjXKuRehJris",
+         "price_level" : 1,
+         "reference" : "CnRqAAAAknDseUgi5k2XnKGvRweAfBopcItJk_rlV_xY1SqNeIqIpC3N7FqtKeFVvRTFhXzShaGmb9C-T9cU0jxKpd8O9FBoWOm6ET0dmkpVluhAtZi57G_yA5ktfTAWxPiZwoo25WXj2DpplwvfNwgMGVX2-hIQAlF8iZDV_rKDJxj5P2RghRoU17IUCw_18wC-fOkke4zEPh6snwU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1634 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792682,
+               "lng" : -73.950998
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2a83d786a0e464f645a68fbaf80e327014db4464",
+         "name" : "Reece School",
+         "place_id" : "ChIJ84liUxz2wokRCTXD8DD5PJY",
+         "reference" : "CnRuAAAAvM6EQk9NfpCkt-DAXzfO7EqmuPjySq5wKn6kUJOQ0ScfflRfREZ3f3gVqIRj4nVTzcgvle3Z29odBHBD7JrrwB1AQpicRInsDzAGlOU9VMvyeGxB2srwAisoxyVQ9nRjz2bvMJ4-QsBkGWZvQm_DtxIQGX9gIXU58aoSspaTXNBPYhoUJlrKIKUW64io3IDTKDawHx9eBF8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "25 East 104th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791428,
+               "lng" : -73.94740899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0da440b3cf9ee0232415eac698e4d654eb85e427",
+         "name" : "The Lexington Academy",
+         "place_id" : "ChIJf899ywL2wokRs3kuevinnwg",
+         "reference" : "CoQBdgAAAOt4nYv5jAGjQtZ9lsAg1bJo7LuPN2mOeyt_Bx5Mcl5YVRSWajK2U9sDpVcDbH7FwBJ4RqOM6MXkuSQJ2AQO4uAvCF40EeR2z_E4B_p-qyV1xEtXTNsunPny6L2BMVCHI4904lU9D84F-nDPBGKKifG07sjq2F4L2toEe2Cq9ZWuEhA2kOV2KP1VBIx6vkSXHeUOGhR7LT801xnfxc95Lu7FNWYrVPWBtg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "131 East 104th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAC3siwi-eLYwRadSV2i0IdqMvoisCYezyFl7Ics5Nn-nVinq7OJKhmTMpcMRhJ8wkz7foqvG5RCXt8jxMdceKN8gTLfrcSolzRWyivH2FWI-IjCvUlMb9Xj989UVs4gwwI1HTMoWCRHs-1WYTiI0PzSikh8qQmG577wAIMK5PGOdVcBXzCbmfysDAOkcayFzAxIQS9eompCwg3NFvrdxqIwa3RoUuCO1DsoUJCLhBw75pLaR7PW8aAQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

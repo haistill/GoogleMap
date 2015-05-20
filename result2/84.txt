@@ -1,0 +1,583 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAABIb84ICXxvWPnAGN3C7XEc6tDlGiMqOWnpoVfdh1Z10Zq7ylEE4T6NF89zWvWB5EwXbBF-39PT0m6uktCNzk5f0Kr6TZMSrsmhP9up1ix5gxUvs9JbcgFaZSOTvcjJ-KTMhY1J7BetPMQbbzw7TT40_d3Y-buBBL2dYkOYaudXHb87fpJZFp-UadtM7K6DdHnbeqJkAagNocG4Z9dB8jjV1aviIFjgx0W_kH6gS7XZAdI910T2bck2GOKe21JJ7hM6wEPmZhIirf-nd-w3HpmTdfMBe6lsUa9zmhj4pFgxkAu3iDsaFOgF3KURAAopaJxIQnsnEYLT5Hph1Z3f9u1BD4xoUtq63F4EyD7_iqX7nfNKuQlNYvPc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7988958,
+               "lng" : -73.9697795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8060299,
+                  "lng" : -73.96386629999999
+               },
+               "southwest" : {
+                  "lat" : 40.7940868,
+                  "lng" : -73.977728
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "9579f7bdc294208a00b3fcdfb15f669b67351767",
+         "name" : "Bloomingdale",
+         "place_id" : "ChIJ_cKaSyT2wokRCHwSFZKjklc",
+         "reference" : "CqQBkgAAAH-SjyW0E0C-xpghSsqmYWuJDtksUgFHUizfhR9ta0DDBx3X5uqpbk1BukJdOPwUfstp3TffamVp3p6CaZzigkYgoLdPYMAlOvq515VRAA6-EZ8oxU6Fu6oqNdGC8FUXxh7yrBhk98Hh7XTZDIVRZ-8p2d1vnQGyfLXluYzD3RG7vmMvuM03bjk1jcCsXrqK49W2OGaHWcAlTZbYsW-zq0wSEFUDUdiuT3npcSa06QrrOuoaFHNhh_T-7i6DeEI0TPFJ0xtn0aG1",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794691,
+               "lng" : -73.966696
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d345266b40d7fd41e3576ab8a36b565349d9bb1e",
+         "name" : "Michaels",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcwAAAHUVQClrhHVjURmxHfj2SxXR4Eju14msZNgncC0fkGgehK7C11gznmfI5E7J_qtM0C4lwVsNRArKm050WQDxaTTbeYkQsPLiVpI1-aI3vAmpqH2ua0V1tSltk4t3opAWX8z6xwROVlqQA_gteMvX4KpARBiyofP6YHtae1kBSNg9EhBhCb5zMUfTGgQFdAVltg2OGhSNw5yGfZDQperVQUsEGxG36FwlYg",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJ-6ZxFif2wokRuM6F9EVsung",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRqAAAA-mXpBysIKpfPpLGcIpRvZmGlo56bSvF5vzwqPflFvGFHCB7HdbXgudGfhtsPtrYRFM4jHIG5aUEwucDuoaCZcnoAvG_h_lxyww7ZVBUSOygaRHsXKak5xuzEmv3_GRCWlQ5edV-egr9IZWEwhZsqaBIQMxnnfUMvSsmcstlgS2jC4xoUrnD2GzgvhnX2KfbSk7EAe-DyYUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "808 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793946,
+               "lng" : -73.967089
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "06f4d06e637ef777c3c6a4cef0472041a1759420",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAApt0ZUrXZ94EUuuXZYWDmjP_Ife5csS6L7h8JJXeZC9YP6QY_vr52bTEbAf6t87rbsB79R3JqoIR6nzH80Vzmnio32TEo6K7AusMgB_-d5LzbIpptmynme0KZ1ljJ-AQT6Ke12551dp-xVtAtxadgzxIQ-kgOw1sqnN2DTeJi-mu3XBoUnGh9Xt-7pCg4XpXhojZPAvepNJs",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ-6ZxFif2wokRaRaETTJc_9Q",
+         "price_level" : 3,
+         "rating" : 3.8,
+         "reference" : "CoQBdQAAAEC2MNokMi4eNdPJbWwbVi-Ql8TCCJUFqQtyJVgjoFNfj1i0jRwKNvM-0jjP7a4QeEctGZXcMdM0JrK6N6U_wOhYPOIQdrvfyqXdj08WkDqptBk_-b1K7jn0mYzefwtCEYk8X53hwsgoQUxoIRPgdy9CJZ-OiCs4MC_w1xq7O9prEhBmGAlwUIw2fA0eGpAP1O7kGhTYQ8n3z5z9iQepDIzDFhqWbjPQPQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "bakery",
+            "convenience_store",
+            "restaurant",
+            "grocery_or_supermarket",
+            "health",
+            "florist",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "808 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794604,
+               "lng" : -73.966645
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0d765f3fcfab6866bea434957b812cb27efe85c9",
+         "name" : "T.J. Maxx",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 928,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAAqcPIPXFip0sgZGNz_Qr56WkM8FJp-LgtMK5kWd2dGWpfGo951zWCrK1RECGLAvX5rxAPGmwOApWvkhpzk0gk1ltlaG7PejYyQh5g2M_viwWUPylYx9fB7jH73SfdmPUs0Ux3_nN52mf2uOsPEW2_BIQLo98x2xrX_mpZi6fB5i1kRoUqJjBJSVHByS4zeZaPaZfyRxQsn8",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJ-6ZxFif2wokRqTqMOeNHhDk",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CnRrAAAA8F7PWhdAxjfkdSZoZ26G1hQCwpNKRgeFxv2Ri76QjYPTvfgIS9K_xpPSL3sGkZCHgRwAW6lzj9bB_OnkE1aGmkEyuuM2yBq9mgCy5OEMVODzARZAVGycvLSRNMv7ByJR6RvNUykEFJUTNW8t65R0xBIQYVBTb9ASRG49WOhbZFWgGhoUDmzAYcTiRv2gQqivJahftYRGpyM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "department_store",
+            "jewelry_store",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "808 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793259,
+               "lng" : -73.967619
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1c0283d25289809ac4161496268c97078412fa1a",
+         "name" : "West 96th Apartments",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 268,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJbLASJkh3yyql758cD1lcAzWFvm-rLfEOrbkD2PmGTwYO8tcz_a52HcUbo6f3I7bG3wJ_AGpAsNxwtU4gMB1FKII9eIyWiofMrmzmV5sNWrcRhbfb2o9qTGmrzDjTZk7ANPuekC-ChTca_M7fCpfyRIQYYdBH3ymd9M9xnreXjlf9RoUfmw1WsYJdKoYV3iykA04wxiP2RQ",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJq8owcif2wokRsY8wNSIBaH0",
+         "reference" : "CoQBdgAAALF9MR72wlaadvt4fpM_aOTrRtHs3mhVLcE1q5dzVTq_F8BI7PBakzF0FOtAtsUIvDFncIoK_yfZOQSqphGTiIfi3bWI-59EjL59oiKlVk-K-LhEj5fTQCU4JY0ShJISXAbXu9JNPuFgtcA7GaykSYjm3oG-Fys1nqShPY54rf90EhAT3N-83CDsXzLJr4RP_vkxGhSGJQHNRNj2zjdRDXbe15Xfy6PzXg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "750 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794497,
+               "lng" : -73.96589400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d7b3565f83e62106f91277afb1118a3517f63ac7",
+         "name" : "HomeGoods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 569,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUw-fEFlMFqgy1wGXYnr_oS7QlrjN3qJ02TDWp6IpfKaeR5cFkGw1pB-qhf0-s93bIK7h9knp_4KGV02d0GfY3snoYDG2o2wMRrxY9cSphsgWJU_aiQ7fz9rG6gUmwWgtQvg2eSBzHr7pBMJb1xA5ABIQPE4UdT12Yu607ofK4umb7hoUwEzTYL_Gz9lk-6f_jm1EmR5DMKM",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJCXgc0Sb2wokRjVr7qx9-YPM",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAAKkuXsk4kflOQ5nOblzmMrGzCINnjEQ3kbiqZIlBgr6jSpFLGUX-EWDwiNJEyzxOrB43P8EHSquZaNVmbTDxAlHWJRngISFM_bsnnaVhkmmvtjyiqu1maOxIV8t2N9AfM-zLyXTp6poJXLqy9I3vb0BIQLvDj31QESx4rVG4ypoS_kRoUH9VyG7n3loz3RTQ-e2eHVsGhw3g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "department_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "795 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79355,
+               "lng" : -73.965647
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "f99fe806bc9aaa5dcf6263e0c6194febbc254541",
+         "name" : "Custom & Private New York Yours Inc",
+         "photos" : [
+            {
+               "height" : 231,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA55WZU3Ggyv_sWiw34lsqJKYPs9u-13OFey2ydUWWmb6Oh0_o7nqkucK7IIsAZ7Bjyb8xhEG-1m4xftiZXXEDor3mahc9nOJ7ukmNY8l0Q5p_nziTWQ9PVdCiFRsNLkx_d9Q3Vqvr6bePmy1U7wsvlxIQOPnBojR2QG81od96NYs5vhoUcYRNcn59vZAg4Dmkyoy5gMlN2v8",
+               "width" : 478
+            }
+         ],
+         "place_id" : "ChIJgbfRMCf2wokRp8uoeQ9eGYA",
+         "reference" : "CpQBhgAAADZeHOg78jIu-LUpGYwYnZnDqSRCVzBWgzYhVgCOww-42-TNleuTErPaQawSTAXzKJ2AMO2wx0Gfpu3DOWD6t-kD677uOqRefAiZgvxG_S5w1HYFjIEkVzXp1a_TL2SZVIynxNrEOtC5HYWznp_A4FZeQeZgyeMOpxaxy1ql9StpLdHO3GSmwiN5kVr2ia_YgxIQgDsFieAawAXpdfByzPZo2hoUg9wkGuCyoJFEqJ3-jRoDNFdojxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "382 Central Park West, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793328,
+               "lng" : -73.96747499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8e7c8b3a1a27d5f9f6049960fdbdf6a5a806eded",
+         "name" : "Birch Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRsAAAAKu9S9BaQA7flWo77iVV66DchiVvuvqmMT9C2PTgnwNE7d-hQE1v1YvkZqZnCRpTjwKd97MYqOQQJpTmgWh0KP228pCgq4Yxa-3pr3upOPhR_Hjk0Q52SGUTBl3LTnPc2vFZZFGNtk1pLfSQ5NwFd8xIQskkzEdvZ9jgySHstISmHuRoUjefJilrfJ2ghvC3eYfvvZPm-nio",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJVQZ5bif2wokRdOKgFt-pfL4",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAtGB3ubVNXbX1MrWf1-K_8i1vjJmswLPSaEnQH5i7OKvPSdlWWVgDOSAnNXXeViMdpDqieTWn-wogmV5Sv6wlivAMPfNNOIIgrBXHmx1M_GXoRIEMPzt0WDlcvkBXbob4rz66GtBFugEis8iT-d-3GxIQAjhWLJP_Ztba232TJP5jfxoUEO_2Ma61GpQO-QzDdD2f9At9c8o",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "750 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792895,
+               "lng" : -73.96593799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "58468a7339fe8e8449e2bafeb747c20846da29bc",
+         "name" : "Shaun Massiah, DMD PC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1290,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAkZZEAJMnSm1N7Jj6aezJzdkCEI7qppOY8CaHLLprNeAU7--8FH-G1KMYyXkZZdfzYw0qwyWcpHTirOLPRyRNmZy5YOqxwuBdET2vIM5LOtlSLrMEFHN0Y9UmqNQGUoJ6GVATiHSZb7KotlcwesfaqxIQxwzIc6c9FzJZ3swBCg5eUxoUyHB-0afWxzkoYjhgWYCMfBl50RA",
+               "width" : 857
+            }
+         ],
+         "place_id" : "ChIJSfYeRif2wokRyiBGnCZYmRc",
+         "rating" : 4.4,
+         "reference" : "CoQBdwAAAD--0pOGzQ2gCC0mZD2WdCY07QgCOVXsIvk-qJKg0HDbpfmYdWtiP6kb8yCu-kGDc4r_L00yp4OMs4ySIPBbeZtnIrSrTXkkRDjRjg8d4bY-NgwiXtY2YHByhtinPbsly58mEOIUadjFXOGT98c8RnqpAE6II7fObQQcVXDreXC5EhB1WphLrfS7Ag81QbhezJ7gGhT25zWpY-0zCHZJtYbTsqCJ9I013Q",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "50 West 97th Street #1c, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.792033,
+               "lng" : -73.96844900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "70986a069381c2cbb5044a4c1fe37ede3bd7cd5b",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBzRbzANZwokR_otmB0YBI9E",
+         "rating" : 3.4,
+         "reference" : "CoQBcQAAAJGZvSSs2zs_09BLSJ2lPlKi56h1x1lGOZJqUgC_2M6ybMpLn0LGmDoqVwjG6hkqzTLgIWsqSW8GjEKos4-oqPWVumW45JD4PDTanLW1YYj3nhmd8WF2Dcfhy1cWlQPEuYovfCSwJwQUtode080u_iVYj-IViJzHHFamcUB0aecyEhCVrOBozl10nUKdeY2CC2EPGhTaQ_DUrXvIY3hGuzrtW4wtXg88Rg",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "700 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791103,
+               "lng" : -73.96907299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "665c55b391412e75ac7b8cba4653cd8ef63de3fe",
+         "name" : "Elizabeth's Neighborhood Table",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1263,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAd_MZ0FdjpT8qM45H7P_wp4WYIXeXdUSgO8JOQgbuYgtIy7WhWbpQ1hW6ZF2eD1xNXoSKty6nlytk2ymqOWDrrXiOTTBx2mVk7LwTDdaIVUkoC3Gn7qfkxAWpjuOeORNWPu6ahZokN4Uf1SFDNrWiVBIQaKlh48M4l6BFVrp452RgBhoUo1ZoTbZBvoIjjSBDdeFaM7aITr4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ32QHEp1YwokRBKvOa_lI1g4",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBgAAAAOX10hR166ud96eQ8BsiJ1oNlXsoCSTu7gKz_yLpqIkTiBJUWPyA41tUuk4rl7MxrBhqagpQ9I0QKmazQRe6nav5UhEu1rOhbWWvS6v6tyAYt5Db2eBLYwTA1f0ZUxui4sJaN_RKKRGTb3VRQD4OcASQ4NegyHRVqYh5hFZbSF3hEhDlp4svqFGCWWvCsPT91xXiGhQQQhrocHT_kf1vbX9OtCAigSWHpw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "680 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.793226,
+               "lng" : -73.966813
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "debf90a19402dd27ed350221b056d4d2816d364a",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAVGqxadXfnftsz3kKNOIzKEXC0thB8MGxga38J14DFU5-sou-iFPYdOidARyZbRBftOQmTEbqL0g5FjIsebOekPQSXKlkTIecYJ0pas-1jrf62MF1-V0G1WVajtTeGu6W8k95-UCqpF8lVVortMKgTBIQ0uPlHeTy-PK_GnB1lqxPQxoU5oEEr5EFPo1hBxlbthZ8v4SoHr4",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJLcZIFSf2wokRTB6lYpC50Ng",
+         "price_level" : 2,
+         "reference" : "CoQBdAAAAGr7WG000H1FQ799J8-GI520yfXejdkukn4wnQYFgEHkGQttd5dcvsNMC9_t3cgYAC1zqL3KuqhjC-VSs4IhFk9AfWO8cA8sAASY6_kAa0h-UUSI1052nXxrL6zJAHhlbiBQoeWU9Uu0AyFyxUiDL7VKAi30w4ZcBSJCI0l0gw3IEhAFHMS3kKS4ot2l3s4RXFF8GhSZeuSzjysB38oN4vMqkk8a8UQJDA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "741 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794503,
+               "lng" : -73.965868
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2d8dc5d8559b97cf67c0378efd708f40f294ffc6",
+         "name" : "Modell's Sporting Goods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 82,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAvcHOMj5YPXnk9-1lIl588UMrVfLxne5EukLlU01HWLxKeZUzlPwJKlJ_5mGo_XsbPfz-9Rp83l4ZeqdVZvnG4ygvbwMcHo-fO88EtI2Kjd34zhLWLn_I1xWWq8aUVIGenb-e-ANdzl680UkAb9Y11hIQz-n_ey07wjvUKRB_EoAgLhoUTVHNvJB4pt5UWx8Pfv4a7H0aPrc",
+               "width" : 362
+            }
+         ],
+         "place_id" : "ChIJ2Ycb0Sb2wokRHPrmEbFIB_Q",
+         "reference" : "CoQBegAAANyvrion6hjuMowNdnU5E02JGOKIuDCwQ0Z1O8XDxrLPkrLrNwTPQ-lmsBxwQpVJJczn1m_FbLwy0-mPRtdvRtPEENEj9_Mhz7tRvHwREGKA8lT_XH1Smg1Qp5eDTM42wwMuV-UpgAyl0gGZVHxByLPlL2tIBSG1jqJ_X6S2_ZOKEhAyinKSWKxopJ6pBz55_DHLGhRrZ_iMzWqJtC_HTRJCKNAo296BBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "795 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79417,
+               "lng" : -73.967606
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "aad904b4bce207a61d735ab0d1986378923a209f",
+         "name" : "New-Closet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAIX6sZNoU20vA-dRCncRFu_xSa75rrwVZkavKeQKXPFs4Qqf3YdSB9N7Ac6EKroXrPVPf58dWJx3-citUX1RsCUYqBkWgENNskG9pf2m24uOCW7EWht8HyBb_LTjZlYfEhUjmGfd_wCCwQB52lkGxnBIQYX5U9-u3_vEwueAw6VB81BoUgJ6mRJhLEVF4H_iyvUIRvd-cQ1I",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJaSkvBSf2wokRdZ2j3iAn-pg",
+         "rating" : 5,
+         "reference" : "CnRtAAAAiLzuOHfPeiVblqVSRmIQgkcmPvEqZ6_1s_ypk95Y78GwzsK3__u0-L0IigxSjdvSiUWClShK2z6wqDdMP1MsdDDDbd636ArFdYfKiaepruv1FDV6Zgc8DrDoXAQQ_gmhW_H_m17QTR75MGVd0U6tuBIQIn9akCWydWIGQdUrt3bCYhoUZn-2TzaeDwKMJWFes9OlAIi0smc",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794628,
+               "lng" : -73.96588
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc798a5e2de473dc717f274ea7a060614f0a6506",
+         "name" : "The Mandell School",
+         "place_id" : "ChIJ2Ycb0Sb2wokRPUzB_cK2M4g",
+         "reference" : "CoQBdQAAACD5PVMvTOkL6Cmr7-cHeKzHBt-ocN11YT8K5PrGZqa8B-hR3hi_JFMmiodYKX9-X4I66_zTSk8hbO3g-INpBklRXjjhF19BbJON5IOCkTURpeRhp1NJLxjbw6laDtqt6qaN1x3tTifZZS4SVUJ0_cWIkyQji_sj3x4G-po4dbbmEhCmPl8Dcgn6vZIW1GOOkfqbGhSjquvqqSi7i7UI2VIh0SG2fLXo_A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "795 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79136,
+               "lng" : -73.96895600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ccc66e093a56fc3b9215e13ca83baa80f49dc707",
+         "name" : "Gabriela's Restaurant and Tequila Bar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 663,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAecQrkr6Y3X2-Oq4WxMZIqP7Wia__iEMm6yetEydWX9FOPr9fgTQfEo6p59iDDM-SAyK-YTFgebGA1Y1Uz9dt0A-PPDebCs9FvmqMAi9fDUlPTfYgrGQ9VtuXKjjuTqY0vs6tT8txmH0HXLHQw12IOhIQI7eSHfYccb2xlzGOc-izghoUjfxPCtG2xXFg1NSX4MUi5ZHRpZI",
+               "width" : 884
+            }
+         ],
+         "place_id" : "ChIJ-0-dRqqzQIYRDQZUV3ePQzs",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CpQBhwAAAEs6RpCCSmcig8NIzXXU8Yhi4iikRuVlmYwLSNZwv9KDtXz6Tlco3JO9Z4hbel1pjPzjJhaDyFDX6GZbykukqEazTDtSvnRcqILpIGnmIZT1Rn6VEYdIKdyOqTl6L1ApvFZIecy5esuAMAQdL1iWNODUGHF2MiUrp-s0EMrt1qnA11RsWHBcmgj5lDO0WrstwhIQHw94kQOiSt_48OzmbZ_toRoUROtmMcdDcwt3ZV5AdoFFGfaxNHk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "688 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791918,
+               "lng" : -73.968784
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15ce50797bf91418a289c2977ea8ccb281d91928",
+         "name" : "Gotham Veterinary Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA5LpWC6Lap6X0v2hv9u_aX3vLquWDFH5eWUqZDT6RsMZTByrMkeTBxI8ChkoW3Naj1iEGf82rRyL0YEOJJaNm8EcbA7U8mIK2fK9bfWOEp7INu2JJHStjr0pbr1kEIXsKR_PFFE4hV9r6OFIqYSKF7hIQQrmdt8wKibsmsWkpcx7AyBoUpfvHTgMLyZD4_xvCeV7eFXD7ucU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ9ZqKdp1YwokRadBme9UzylM",
+         "rating" : 5,
+         "reference" : "CoQBegAAAHmxBSGM_zrIhcR1NiRWDX1TzPX_WgHVN95iPv42aHewoG3ZHIyXtr4sbEDFaq7W0JJQTl0iqoRyAdgUrS0H-J9Fqd1foVU4QNB4ABkN5irnml5YBrRjs9Vu-M1DaUqMBwcmpPjuN90EESDdnA6SNClDe5_LW2wwchjoPShvg5XqEhAYORAlRmV4dSjl5Cw_eVnkGhTkSA0Gj0XwRq2muER2ozwcDL5g7g",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "establishment" ],
+         "vicinity" : "700 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794416,
+               "lng" : -73.96982199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "709c26c5f28dd11bb13ef82cb288a54da3ed9b16",
+         "name" : "Associated Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJucAzxif2wokRCjzR46Fk3JE",
+         "rating" : 4.6,
+         "reference" : "CoQBeQAAABKFZk8fDFxWVhsoj7kJSnLb83h8fB0CDlSzqyQ7u4kXAl9CLQZLt4YCZyWjLBxqDVV-k8aHvHKFDM8V9DJPc5aiS8x2cmqYqbI9nI_TbvbE-AgPzXI2dsaoRWqUl365Jr6PHGgDwMRdGq3Vetj2qQ2BCyXPJ3_6Qj9f86smeJ7BEhCLNIxBAd9ilJ_6xOoqFg_oGhQPvuAyA7VFhrOD4AOkmNtnKoaJNw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "755 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.794606,
+               "lng" : -73.966707
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dabb48b875f6ba79a5e98d669cc32d5c7b50e11d",
+         "name" : "Quik Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 78,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAANqqy-NglMFWhSZah1p-3BzoxmZ9cjjOu80jnGgkv2RLgYnqDPcczCF_t36DBdO2KDUIHOtTBabwwykGXf5OMs20nvQlixw3wbt2Hm7jum35cXZuumU6pbbtXFpxXt1pFqwGZZ-eGsndj2zF7QYcbrxIQQHOp2jrSE9XnLokd63fLuBoUuVL2CFzMUQh4bQe99acjmtysc7U",
+               "width" : 90
+            }
+         ],
+         "place_id" : "ChIJ-6ZxFif2wokRaUd9SxWrAUM",
+         "reference" : "CnRrAAAAXrSWfgBEbLteyECK8tiY3I54sIFyM2MnVmqzV7UuDjG3Z8WWguL7Vt-Na_W4nSnbv3HKjnS-RQ9eUHHLpK91BujM-9_QdupcCUx-t0gEsUEmPvtnOxIoPcubQNBYGHx5yK7sR-rdyAC8uePn8Hi8zxIQ2AFhd4X3anTinZqf8ZqmJhoUWW7agBiFT2twPjm4tUFHHWVrQ4w",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "808 Columbus Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7711329,
+               "lng" : -73.97418739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.800704,
+                  "lng" : -73.94928080000001
+               },
+               "southwest" : {
+                  "lat" : 40.764389,
+                  "lng" : -73.98163409999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f5591502ff1180bca0ece2a855628f9b1f6dc149",
+         "name" : "Central Park",
+         "place_id" : "ChIJ9ccLAZpYwokRthkg_S-WWcE",
+         "reference" : "CpQBiwAAAPSwopT8Mk0hC3gjLDbJBAw1ilEExRcW7nQcmsAkIC7QFjLlTU-tj65XYC--P57Ez8IKG_LeliNIAivlhZnGOwDw03kkV0zk7CQ4j1qc0uW3j1pu1P-eWOh729LbrPx-qZXk2Gv7xygA91u-ATNWUxEgd6bjRDDWDwxbRZCkpA6WdBSHUSax_vU1ScHOySjpehIQ8f2JR0X0mdC9FpkGj9yAfhoUJiqvkQ-Tm3T4sV7nTJL6UXR6rAI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

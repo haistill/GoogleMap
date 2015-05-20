@@ -1,0 +1,424 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALwECOcNc4sDNBxrnzwvjEGzqdhi5iW_QtPKwLOS7K2IfSDPd8FcM40RT9a89gGo2Z1pYTDRLFgD06_FgMQnXPhh2NTQgHvfDvJ37t73yXV57FEW1ngaGl9qSEWgSjDNlQLGJyle0bvX1S4IwRTEiuPIoDc3IsqYCanQRtTRUaqBNg-YAqu5on9EuuTUIJWGUpdPPr0eH44-6-JJJ9zAI2z0j6fsn3Ia61kD2UA2xYD-flIBJ5hiJaFWHUSv0ie7rmgem5VghNMt-EA_EW9YC5dK3nrs5Pe7KI_NJpNR1KhyXHbCqIY2JQyDLgaZXHeNPxIQ6rVF6ArRIqPecTQDSnc5aRoUyexqKOyuedTPkHmjRSFunFMbrwY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAPNNfUOk-1OKVkm0wbccQzD4BQs8Q89Iergx_Z-4eg2QYKzXvASXEvxK22Kq08XaPF__DlV2lZSecccXI4ayJSBB1lwLHXIou8vEIHR2Ub3nDfivyxHTMaxCnqLl7toe0xd0fdh3fl9iYvMcFM7TIwOVXwZhe-hT8tyxXSBO046QelQonp3wPR1SHAYQ47Hm0RIQOC1eHxvNWdaioqvA8ZkT_RoUGX_NQt-QxRd-raXftZtD308EwLA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824344,
+               "lng" : -73.936544
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ddbac7c96669ff18e321cf9db314a4595b7137d",
+         "name" : "Frederick Douglass Academy",
+         "place_id" : "ChIJmypZbn_2wokR2r9sBTEXDm0",
+         "rating" : 3.1,
+         "reference" : "CoQBfAAAAKjfCu5IN4eFPe_EFWJ7LJGOZf2ALa4BiB3mULKHRKnpWEtZ5-LEQXqhAR6c9akCBjwNUDmCLGwuIB9srxGn-wlV7tAEUQ_ZgNdIMaMJtRod9Bx7-NEzAJsbV7kq4OUkHL2-BEZjRslH0vfMRrHc8KxM80EVPa6zkiQheGJwHRLVEhBPZG0YBkV4WUMGLFw_baPqGhSi53-XtMoi4ojS7GgnwAcN3XFALg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2581 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826426,
+               "lng" : -73.93702999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "534d02f05d568ff1e55d20445dce498cd82df342",
+         "name" : "New York City Housing Authority's Harlem River Day Care Center",
+         "place_id" : "ChIJDbLgzn_2wokRxP65h87fI_c",
+         "reference" : "CrQBogAAABXLyEg-G8IRzsYMHZ1ZafI9Fz6FwfqF_Eh0u_fcnsAsH2rrR-GvTTr6Wd_mjn4gueE-uRnzPWLwDcqkGj1YIuodwZCv7LKV3ofFjMF9dsQG2IZtPKVKUa-YAcrWJD-wzSOg9KiS2KPA26x1l0g1JyCMCDJew6g224XO2yytMds1H9B6FBl1EMHgHq6MSH38nKtkoraKq9IPN76rysX6EVRBJF6o7xvFZsWxOqwvcUOaEhA8GhtU-fN9u9cD68GA_ukFGhR_Ls1M9sVPaaObOZQ0U1Yxx_txgw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "224 West 152nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823221,
+               "lng" : -73.938416
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2218e1f73980884d06c67dda1776f08e96b02a9c",
+         "name" : "Harlem Heaven",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz7cTLn_2wokRQsAp3hVeCzA",
+         "reference" : "CnRvAAAApocsG_muaNbTqPWFcRZ7DjsgyLUaCZAtJkuPzLHbw4neZmj1ZlC72XjYKa5iASSXEzo7HqSRwQ2oZRma1c-A9-BNrooWwEv7O4QzIC8z_7_V3gGQJUbZ6GZtls3zUlWPnAxOX-2YB-ICTNzgISuehxIQr4sGFvaGRihesz5ExtcqphoUch2v7dq9iQH2TXiGm7cMOrU6FuU",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "2538 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823967,
+               "lng" : -73.93751
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b782c949aa0824c2f35319d367a99d78ca11631b",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAATeGoSRtJy0eTwsLxcIUnuYy1KzzkHZaO5thIs5VT9SpMd6hcTjOZ1G8HvX8njaqSboZD4d8cwwD8W50UtOCEkfVnM6WpNNTAPuHav5hZ_s9GOgLad1ZddRy9-ldpxtx0sGnyHimff4SLTu1oU7l06RIQgi0dsq3Nvvv1xlcbGkS0WBoUpmhE7f7lzWuDaqaKblTeV4ZoUto",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ_7z4On_2wokRNKRJ8BFZ0x4",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAZwAYE8URI4ZvKGuoore0ejABHdZ4ekaxaFglKVimk2G-XMwfQCv2Q943-UbFEwx-QKsixhKoYnmmI7GL6ZBI8-QBQY00JeLtLydmTT5EQa51L6U24wXwd0PoKo-F36QL6WSLsJ6CvQsSw42bIdw4OxIQzeWX5AIspgZQ20Sof8kzaxoUMD3xecxKVJ5_s5Y5CvPkqfO5gJ4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2554 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824135,
+               "lng" : -73.936374
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af464f53818d368d29d05276cacf2f0c29a9771c",
+         "name" : "P.S. 200-The James McCune Smith School",
+         "place_id" : "ChIJw-56idX1wokRtU4uA1f91Uk",
+         "reference" : "CpQBiAAAANAFpFbr__M0duHPNYM1F8NBzb7Nz_7SSGc6fCP7OBiGdZvwImbDoT5F4P7-OT2MoPQXLhvbuhVcd02xf9WG-ts4HAQTubU72lX_tMWUclVbM6c8KY6MJm8fItr9JGf7ogM1ZLKP1cbZAW1u5KLdnZ5rdun0SmsER0jBkvhuZecSuna6-_kOVxK8BrjJPzW2GhIQtQudJfSbp2jQ99wT_ZFSlBoU3m8xZCc86IrXHmciiono5x8mAoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2589 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825915,
+               "lng" : -73.937746
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4b3920e02e8ceec0bad18242f4e11d62955bb037",
+         "name" : "Thurgood Marshall Academy Lower School",
+         "place_id" : "ChIJz7iAu3_2wokR-GvAgk1rfLc",
+         "reference" : "CpQBiQAAAMlEJmFodZG4sVkH7BTt91wmdVXhybRAzE7tR-YLzbWeGOwXbRm91mGNRvDy6i2YjHivrzc92X-vQ5NbTgCTSVU6hw5gd8MwIT_hAk-aLZSkHrhyRghHMgQ7fkFViU_9D5Ma3AG38rWxGTj0EAkPWhecDEppCYBs-TDS1kwEZTfzTKjvVA4ugve-u3FZH8exlBIQy9Q1LrcgL3hB79jRCVYT9BoUtQjLkY0vmbZWJI-3OvbsZFFBaDE",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "276 W 151st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824463,
+               "lng" : -73.937394
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d496f55b0e1dcba1dff92d736865da315e35a46",
+         "name" : "Dunbar Pharmacy",
+         "place_id" : "ChIJpQ0kbX_2wokRNBPR0_ULSuE",
+         "reference" : "CoQBcgAAAIeTSHUkNeOLp7NxCNopKseIivIV89Q2DP_O1uQTcUOulW8pMligQbPnbak8_6S78NG_TMcgBbLHl7mW6mma8-XiQ5FjRWhX_ZpymBAklbF0h684avKZvbOxueCMzPdTkabuEyQ--WWniwkX7RkDxZ8LjKhIMhRSuCN8j4h32oKIEhD9k5otn7hNr8Z-jCa7s5yYGhRmxlv5CQk48FlgSfQaPJyt8FrXJg",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "2580 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825997,
+               "lng" : -73.93798099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7b6581a87521bbc284f1958f6ee5e281f3d75c5e",
+         "name" : "Resurrection Roman Catholic Church",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAy0xlwD8WRmES65DUSBowX0aZK0tS2o1Dq5po8vKpUVCsF1N2VpHO_7-MFwyUMLDzCRC15kVqhjiFY9jxPABef_ZIdcNhgz8yIGbY85rtAP9SydCcG7EE71ppZ4qhgxtOcCdRPcnY7QSQ68O8lQY8vBIQ6VcVTs9DAeSSXUvs10o4eRoUa9g2S70CQj3MUfoAAGEs7mwJx6I",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJz7iAu3_2wokRP_LPKXGipSQ",
+         "reference" : "CpQBhAAAABVAR5NU5Gdksko_jKQii1YZEKU0hxXwfDQndLjn5rEXuaPT112sfCQWHlQCSla4jDi6QDmUUrgP3NY7toNL3MGUhpkvRrmUclx0NhtOYRojvWC4y5e6p65FRI1eHIeJrqGDeh6BtPhzw4QhV8-NKM2HCU-J_1nviQqhyMTC3w7aev4nTUgLmXf1LMyx5xj5rhIQn9OpDA1fDUgnUBVnVfeCDRoUo-Mhx2QifUIuunEJcjeES1WlOrw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "276 W 151st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825108,
+               "lng" : -73.936098
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2bbc25198c98e90916d4ee64f65acd94821369e7",
+         "name" : "Frederick Johnson Playground",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAABAbqkpHvYIruT3GVhCJ4tZidXck_6B3fxa0YeQlOwl5o-mYq8dQaGMr0895I-EUPbpQ1XU92i4qWp4K1nGP-tp01nt3RJiJbkGJKf_SxN52oiYuXoHPiCBAIOgcC7hu-f-O2euaDVrpPebL3qEouxBIQiAIq3reQ4euowPwYdgZvNxoUZeDj9hUGZd0d_9LZ-5tDFTVlGrU",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJgcLNl3_2wokRcfBDVyXc0Dc",
+         "reference" : "CoQBfgAAAHMN0NEYu7H6m8dI_F0-abbm6mhVZp2GjR-1A4XOCqc4Z3BpiaXeUFXgOANUUadWz9PHUZLmO5oRcUcFlqBT3J0mBNdy8oa3PWebNoZH_7lrm2iPfb7wtRrHGUueS3vzeGMn3CsgkpA2lIGOjstBrz6EO0aiSCSPQftFtOKusL3eEhALo9Vek70hkk0rHHCEyKIPGhRj9A81faNR8pY9IIUV6jQkbq5OoA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "W 151st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823437,
+               "lng" : -73.93730499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8929a4c098c3d99ad28c9806c74b1499dd107c61",
+         "name" : "Bright House Cleaning Services",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2011,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAonWCsz3hxDKHSwfoQrVILGc75YiUiVpy8a_Zdmqz1Duj0H9mK6NTXawdmVGvoA8OgVQlVEV5BySrGjvNE0Q_6VzbcJGvLNCO5VDzcW-18b5VL6Oe3M25XDf7F7y3S060Jq_sxH-K-H06mOHrKVNaKhIQQZvAVCTbpsRME0kW1S0AKRoUbsYqM8FWeQuoB9lLWHTmidYLIXA",
+               "width" : 1491
+            }
+         ],
+         "place_id" : "ChIJux_SUH_2wokRiiHSd0u19FY",
+         "reference" : "CoQBgAAAAGocbLlr3rzoQLplrrJ18ethpd8a9UpZPRDEc9Whff1OL-LgK_bNRKObPLTDiINzEB9A2HKBE-X4NcQPDMjr_UdLVGImcYEe8uW_WXx6uhGM-asgziAPBIYg6AiO5ATCoFhJOmWnUGGMaoLKktq6cLbD6zRRSFfGrN3LtIQRgifTEhAeliPRDqPsmNGbyzuQGCFUGhQZQcD9otZJIcRR_hIEPLTnb16eUg",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "2541 7th Avenue, Suite 19B, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823391,
+               "lng" : -73.937382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dd1121938b240b4c8d5c5ac298d093d6df8552fd",
+         "name" : "Assembly Member Herman D Farrell Jr",
+         "place_id" : "ChIJux_SUH_2wokRGJRnqv-I1WI",
+         "reference" : "CpQBhQAAACIOuTyDUxF3PrNpQJHmNJIPkHc4qQiI1XfbEXlaHS6vcDOWolLjSGbUS7Ju_pEJ47l41d4A_soRUyN7AedbxVQR-MD1nBbTzS-qhrkANhahEJ_nXsuWQnftrTVH8LEX-is03w_zBpXuYCxi1tFxrhG1IY8lvrw1m-19_Dh2LhU9FoeMzqdkCN880c-WP4GATRIQwvXXpk19aQxO9zobUfSekBoUk8iuLP9dxplGdenqIdm0bG2zNYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2541-55 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823576,
+               "lng" : -73.93661400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d12115bff8c567fd39e0482f25c9b38b47b39183",
+         "name" : "Esplanade Gardens Inc",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAupGHX3ygWgCDLd4bSJpsG3CMZWebx3dJXvMAv-RKaElR1FtryY2U_fTYaUvxclmICn0Jq3CZxLaYh5gZtyqIfcx7oKp-cpecgPOibJdj5Hh4d5H_jSwHTOoFnu2jS388NHBQgE6-eyJcBwC3EHMEMRIQRzwi_hW-ioz-PYuqlpGFdRoU06GWMT6aEBLfcN_A5k1b4zwReTM",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJPX8JR3_2wokRCcHIJcR-Xec",
+         "reference" : "CoQBeAAAAOCexRs58mnlsvAkPsGDeZ5kA0kfLLGX5P6_MDYWLXLRpD__hMssRzLCPbPNKYNYZVEm3m9Dza4ChYQ_nOLvqXoDLLPiyAfjVpNXupz-9ZrWHlnhOEaVoZKX3s83Z6G3FfFwp1WZilbH7YFf7B-6UVZRKr_i5OJunpLt9Odjb0peEhAUQ0Y2cNdu2_autqKzhfI5GhRHlX8c6eOvCEfv7tXDtqeJgPg3lg",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "2569 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825837,
+               "lng" : -73.935864
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fe95a3eef5732fb801e98c9ba9b0b0b8a492e49a",
+         "name" : "New York City Housing Authority Harlem River&nbsp;Community Center",
+         "place_id" : "ChIJG_i1h3_2wokRFrVweWW9UEE",
+         "reference" : "CrQBpQAAADAOMhRKjX5yeeGW0_taMVeO5M9046H8rHoIE-meu6kRTufp1-_ENZSsn2nYuasqCACjgFZgIDqgySzi5Vle4AgObtQ-xkU-dkvOIWMJP0XrFrkIc05ivyR97StYaz_9fQtlVfyyjaM1_tiYbaN_BKV9Z_ftc6uxuM5VEuy7-VktdnrsLI5mqWe1pTL9mNJg2YPzfkRVQkjgiiRfslQNywlANI7_qvM4tC_NwS-BLCB-EhD0Rz516aCh1b_h1CPto96XGhRb7M4a5fZokaxYQsxrYBg1bskuAA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2633 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824055,
+               "lng" : -73.937622
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8931857b4d144a24b6ad9fc5b753c457ffa6d9b5",
+         "name" : "L A 2570 Deli Grocery Corporation",
+         "place_id" : "ChIJP6Y-FX_2wokR5FHdaPsLRls",
+         "reference" : "CpQBgwAAAGszjJD-rVDFCbfFsPwYCN-ZkyMo8UUpF86Vm7RZciuH2ppbunLpTTNgD6wf4NRHVOjoB-JWgzrTUc8aJbLN4bg8J7kd8Sob_vKQQq5Il3ZcRzZ3J2OhMtxNUJpT0rnEg7nQoFhzhyAPPu-V6FPfe1CqzVYg14zMfq4iGmQkKmZq-CmP0hAh_aYeEtCeRjsTMhIQfKWT05qDXpuxwL_BdoeIwxoUsISgKXwe2_SZ1eYaZZOg_4Uvwg0",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2570 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826473,
+               "lng" : -73.93686
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6e14845a9f2b188837028277313ee3adb2657a02",
+         "name" : "Mary Walton Children's Center",
+         "place_id" : "ChIJm9FS7H_2wokRNEgSTmgPaok",
+         "reference" : "CoQBgAAAAKclR9T5UnYLCk6qSv8Jr4EvfMsfGbyLbQQbSWfFP_BCKmyRuDw-a5uIF7D2YoNmqJl4L4DFnHXvbQyHrgm7lafnQtrS_JUdmmHyddsq2RrTIugfK-WZrESu2p6PMLszipGeOkF2H7ZaOEis1_ZDk-nr6gm_5pBEOqxQY8xUKoGxEhBko3v-6858mJm2BNZV2VHRGhRqH1m_dUiIgz_x6WSwzvhiRd9phw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "224 West 152nd Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824387,
+               "lng" : -73.938315
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "06d03d3d9f703e8db79a148c92bbd030caa8c6f9",
+         "name" : "WQC Design Studio",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAASTCP-8Gz903tGfEvK5e9iGBmqBQGoxszSTy8ssknmKP_rEFp6-oAkGrcRhedyzaFuuckcdKOXl8kjqg3Y817IoDxW0drsFAzTgwXvUyfiaR5lTCwBAsKF-6HlOc5JWcUmRQ7c1WsPdwYwIyuzFi3-xIQo1TFJFViHwhdUbTpqzXbURoUNdj0PGDuYJp2Ibt7mMl_jZw2jWs",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJBSm-G0OXwokRbopMjXYXPhI",
+         "reference" : "CoQBcwAAAF69I2frEolS6TFGEs4Y30YEiCC1A-zhZCsZuRK8ZIiDnJtSq81Un_dNh7qWUUfrN53VQZd6wqb35bnFMBOdJfXKr26nTgWTMeMfbBv9oxy2tk8PYzISjnGQ1JdU6RoNwhoONUf2NvwlAe-6WkeqInCQdPj6qPpcs6oaJLx9T12LEhAPmcivOE0edmq-h5Xr7_y3GhRlMzWDnoRAmfPBfBmKbRa7FXWGcw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "208 West 149th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823254,
+               "lng" : -73.937533
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fab80a6573bcbea779cb8f885bb44b3552365eb5",
+         "name" : "Intermediate School 10",
+         "place_id" : "ChIJmypZbn_2wokRZtnvwInt8HY",
+         "reference" : "CoQBeAAAABMJdiAhcb6Gki5TU25oZxsbt8RLfWfmr_gPMNWLzHajuQATDxUNwyq2WjVMCpGWk3M0yBJAx3yAHKE1ipkuhTwGs5wblH8Kqc4Ou6nwbx-HXMgevJ4FHw9YcWogPozssbuW4lIJ4SB5Or-ZklVO5pmYt3eYhNVvVMvFnSQCQ0RLEhAD5dX4VT1ysQ17u8eDUWoaGhTvpIffa1R23kB48RYYyKfZ58TnTQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2581 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826214,
+               "lng" : -73.93750900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b5ebba3fd2fb7a3503420117d34b3b8cb1a23ff4",
+         "name" : "New York City Housing Authority",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI34yln_2wokRsNMD74LRhQI",
+         "reference" : "CpQBgQAAACeAC0egaSwEcuIHcvvjabjyPTwh5zVaIR3adtRy0GA1P_Skix8dOalFNU27UmEf3kiBMWrklIq0TZS84thYLkBBGz_YleS9s9CgIG2TaRAgDfEqM4BuTQHqosWSUFi4LkMDJYZjy1_QIXVz4IowK7R1mHM_C-_kJCLe15wq0Jz8JTIQHXcojRz7r582V5mTgxIQfRf5wFffWNLBqwP4aPo3xBoUHSbkVBBSzbb0-aQgsySAafvdVZg",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "231 W 151st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjgAAAFAHBRJWCDZ9d_p0tJKNMB4Y5C_ghCPGDbGn79EE56uLRYOXI_ZrNhZDGJBvOgZjguGE7F326A6cSyIIrmXSwInqJGf7T7uThZZIqRTyUG3Oxp3uyqpjKnZB_Byh76YsJQDu9Ya-6u15V_8Qr4VvRjfM1JslGamhExafEyM8vP531T17pzyVdojA89xcpEONlBIQdpABjNATbGzgc-Coav9jMRoUwSKgbnvr0wx0H0ZgPvqBse6goAk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

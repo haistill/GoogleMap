@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkgAAAMQCb2rX0GV4oGhghW2DNZoaVVrZeuw6OguxmrQ5qobwENbeZvRc3mdz_FT0vOXpEgZVTl2dkbi-21cGhbLn9faCGl6vU7MX6Rv0x5Ohpp9VlAj0TeQS7UDWM7ZFPoXlQRFLWH6B2VPDcRSASK3QGOSvY2NDVnIKaPlyfSMt_8X4-yupXWtvUmiJX6IoOMsoEm1BTkQWVhhf21-NwFX9MZASEIDWnn8xaSwwzhidrYv8te8aFEr4ptYSkGQNaxWCsRUWLF_oFZ00",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708084,
+               "lng" : -74.00052700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1a287925c541adb5909ca49c47d8a2bb2991206a",
+         "name" : "COWGIRL Sea-Horse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzyDNVMLKY2IGHHcvetTIDigIk7WrHjTQ1No8M6qCeAEE3RM_8Hj84ZLRn4QWVfhY5faKnieCzSGiH8V2QKacu0Yfm6U-l3xNli6uo3JGVxx6fkWE_a0z6S5FedxTYNtLhMVkX3AWefLu67Y68kSWoxIQegUwHObu5wb9tHu8Rl9YqxoUzwXU9EP4le8Mqi3rRZ2WvIsGscs",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ24YpVTtawokRsFPSkHjTWoA",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAAM01Eisy0rTX3K7SU_2tSeivp7xiIk7cTTu_rXQcFgL90HthASEynrAYn7LOlYrJHlKEcacKb-C8nFGfyFMbhmgoNpxZVns1rTDxuzJl4wEHeIRydPdl8dSyQkvJr_gdz64i7Ibc_jeX5ph78GA9PWQdcfIcIpYyIJhg7W1GbJ2pEhBS_Byl2TRxjOidlcXdwwDkGhQsW8NzDq0Z5cMB3EjqiAHmAKNQjw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "259 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAKKIZgVtUGlOI4aL-SfEAWptmE73guzXRFbvPfOxIhs104NmM5VwZ00q7tmRc5dfJik0xT-yc8pPPnS2aHS3NxZRBSxuybHQPxPPqfA5podX6aH9jkMXalwOxC89ljZMVraHpBbLutdw-83b8yU_eqYqiN3jeuQ4ss_zJp0Oxn8Vt38D-4JPRbmuthZDyDTZrRIQK2s8aCRmd5G3yiqZpgrCVhoUkGR7BOAby9JFUUFgh2DdlGE7tBs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,466 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAJHAtOPC5D2lprqCqpl78ko4t3JOFDyXPh8gEobiVmRlPqa26bp2YSjiXFnqMgi-pfgIBTMEA1bO7m-JlaBh60SyheRZcSr1RaGA6maaETzPl_L-rdz37YdOerJq1J70Tb6wvcyEhG2Sjl-8icpvuN-fAqCFKU_0Caf7hHlb8wXVVJZT1V3GRWLpzuaJ7fFjCnNi3tG1sXmTKAriusEz7P6faey5hzimwJnVJrTI4K695xi4xmfG-n-VF4rRneBfiG-aA5Aj4pSYSQmwrZtSx2JVHM3ygcJhP64DjrOszbsZeUr__YVDBS_1zF6eh0CqbhIQoAW1Uk56y_Tl8h8DPyKPjBoUmGI5o9gy54ZAT9jJC94AiHRTXhc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAImtyrks_ZbZcM4QxRSMYl0oIPkA-Mkb97Ut9Vyx2TM8C8yQGo1oNe9VisXwsr0pBjXMzDmktpTst_GgzvPAUuo55JO0XT77fwbvPJA-CnGBv9WrmK95tHFYOrvWu1-iN9hb9BPhCj5qKqY00UTKHbLeKal2naCtThnXH6l3TBIyF1wP9ZywngC2qwEbFVUvvxIQEFhMA1fLH0W6pKJXaiGnCRoUzbjKc0htbeW3-mFWfGsMlN0chVg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799293,
+               "lng" : -73.943758
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "17bbe9da10f8450d9093c6a7947d196855e9c173",
+         "name" : "The Kiosk",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAa2ol3vEQtQMTzYRjaHDDqU07bLzYOIMlcRkNmA71OAF7wYImB-RLd6h2A7EPS3-TXKwa5JT43kAj6V8kV5-W55TLtWmRSjnQVQKpW9VqehsUul61siVsRVua8EZA7KVOJ1hSDyTG2Zm3TZe4yIDPoRIQ8C0ZKiNvqvcW0mbBEw8r-BoU2IhhXMeP3N5AYvX0PWYMU0aJiMs",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJ4-XSZQ_2wokR2VZKlzfz3tI",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRrAAAAImFtsJ5ug_YPzyn1zGno127ujqYp-hjNkHy8ZZG01YF63vKlEDh0hdz4p5SwHtip5PLXqvBSTQA5ddhpSDS0O-S2UgW8QhsDL-KfvJhxryd-xCR76A_BeYh4fdc2BJWAPfs5FHsEHndldyX8FI4tWhIQaRQScRaLR9TJ1B_7BMP-GRoUgAPfAW9qIGp9LrYhhZTK8XYxvew",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "80 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801229,
+               "lng" : -73.94642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6587290233d886493271533db7e906a326f03a5a",
+         "name" : "West 116th Street Associates LLC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr2Qb0g_2wokR7oq0i97qqC0",
+         "reference" : "CpQBgQAAAAhKC_b6jEtWigC8cfrULx9x34GCnScRJ7y1CupE_PG_U3uT0apbZj_wKqEjkEWz2uIa1GzoAGtlEtYbj4kD8zhfbT2yoTiiRJlgiaCiabL28OGTGmXg1XdkvBuOEJsPcaISKLXu8zJyiGX3PRjdOdaQLOHPUlIG8ZWvmBN80mUHtSO3MF2p3QS1Lj8fSfzUphIQgy5uj1xYX2YRDhdb2yMYfhoUpIdTwpTt7sp7RiyQIHXAGMZ5Q80",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1428 5th Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8011,
+               "lng" : -73.94582699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ebf5e575368a00ca1d46558a00c40bd675fb99b",
+         "name" : "Gran Piatto d'Oro",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1368,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBegAAAE55ZZF9jr1Y-oy9hM32zp58U9tGBFjWGU2bvzXBnMdqG5zSBLdb2BdZPhKlckRE3IZ2eS_Ql_-DyO-S0p_kfyh_rY5ajIPR57o6qUrfqpoZL8fKVXAXgdrrs0UFgk9J1fdRpzLyxhnxUIx4wmmFCSeIOci7WAxtqrTfFUqYlNAYEhC0Zex1DxS3NKtz5MR0U2MjGhTau4VxjthPHlEa06fNblSzqWt0Aw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJH2Rwug_2wokRpY1JLfWoPhk",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcgAAACjouaq0-uDOEp0TfTZ2ddP-GE7bgcCVOrOZSnpsUGljjp8s8WhFuwesoHy2LditHS2JplI6tUXQrknuVY8YWJtP6z08JSRJocGX_Yn5nZ4LaBySTOKyBH49iqJZDLcfYHwPjC-CouGBAJ6jNkszWCwN1Vlg1N588bq3nrEFtV41EhDz9tMwWbda3SBhNMo-VKPMGhRqqtjOIfaeUYHutdEXDFlejx7vHA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1429 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80034,
+               "lng" : -73.946105
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b5696a63cedc4f804478d9aedd893c708217b409",
+         "name" : "Bikram Yoga East Harlem",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA2SKy1Jkr_tNnAVRCWWestokkA8ilDxsqbbt9KO6QboOS0L6j3KDA3SCPxVtzuJmuMnkfB-C4dXL7T3yKnVleIFDrMf0fyx9yt9gkXK85ObBbGlQdlBdfuDRbEMOjs-TlE-M7khjZOP8HXmE0lgAsxhIQjngS7CSvLWEkNrr1MoSuPxoUdHsZWGxeizsjDuO4Ak4GBlq0HA0",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJiQjUlA_2wokRqWUoeuhbKsE",
+         "reference" : "CoQBeQAAALrKRxthZYxdrn4T_-sP-yPbwbIiD2IFvjf2jKXxdczoK-bnOE7fkgSOB4L2DW6xJn6YvVzNOB873Qv3an8CY0nL-Iu7v68n-TfpO7y7c47FrEig-EHKcQ6iHL1D9E_BvSvFc_qC8kXGsLedLIc9Kn-p6QsATGgczW61znxiG0B0EhDvb14aEHeUuswJRGDQf8POGhTYllIWxQ6HJQ1O7k4X9EBFOmHvJg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "4 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799362,
+               "lng" : -73.943202
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c25f3a2c4c8d0026ece1dd5f0b84ce360aff0e94",
+         "name" : "Urban Garden Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKeAAm8jNNuyh67_7KfyqpoywBDMpjZkcDe5Nh_E4jrum6XE1lQNOsYkYI7I6T2hambRgSSdMiMe9upG7lYs5pyvBAfG2Q18OtHkY9sS_ZisbGqcP1fXw6AeGjcV-RXW7oaBPvTL-J7QNTnv61UnpIRIQjx7vy5jU9Dm21LXxodL81RoUJEwKN2vg2lIXDfMNJBw12vFERz8",
+               "width" : 635
+            }
+         ],
+         "place_id" : "ChIJDTVRaA_2wokRu88a-Nt1YjM",
+         "rating" : 4.1,
+         "reference" : "CoQBdAAAADNsHnVPYRjw44RbxiwbrUpzLWk0CjGIbzyEyKpZBTZPRRpif6lPpXgRfLS62raoY9ADMu6xftHIUaPJOk7T3oNcLOKkWnLd0tJKKePjMLM_ThKKDSHTeKDk7J0lxeGt13QwikSohGFeIi-v_cWEWsdR452eJQGhRzwKrxi58AR0EhCJKGSF_FJXZm7xdp1Cyi6gGhQpdDoUVaqbED_5hiN-vMTttzMTbg",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "1640 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801481,
+               "lng" : -73.94341799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "8db5202c525c4225420ce48704b69f101c0f4e15",
+         "name" : "Madison Avenue Dental Associates",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ3SDHegdZwokR7Kdk61mrcAI",
+         "reference" : "CpQBgQAAAEMosKyN2rkPrQVkSNT0997veV_sDeN3-YYqiYfQ9IWlaSMqglCQT9a3ZE4-evWo3bz_qaGDq9ByP60RyBqjwibxhumu4L9Pc7PCgLMehnRBakAx4bakNUgN0P0E-9-R2StElT2k5c0OjS5t8S3qUib6LV_463hJdVElVMjzgm2iCnezZjNFDZpK0Cvz2rTE9RIQBNJjt0BK6oBS-_HwRluaFRoUqcQVIBI9AyqIDl2jCsF5bJkrZCk",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "1825 Madison Avenue #4, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79926,
+               "lng" : -73.944794
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31fe64d5d8e4c74a4970151db1f18c0d119d8552",
+         "name" : "Assembly Member Robert J Rodriguez",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDS0wbA_2wokR_e6GTAOZPuo",
+         "reference" : "CpQBhAAAAMMdXtogr7DFdtgwvuvwj9m7KL2mg8mF2Sciiq219SxWtF9rBO022Ri63icDQJrs86y5-mWv0rGE5kytkpvmrvmCu8lGR4YrEeeYIii1_OMha4jDwZHprUqLu56CBmdtJq0cVfK0BASCNDdFa6xxO5jXqIiCNygCHI6VORFD2nD_c-7VrTM1xqn4NO23Y11N-RIQJ7YX8fciC6bSo0zF4edgzRoUbZ28_5KtdYCXM9DEHLLICFTdr2g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "55 East 115th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801752,
+               "lng" : -73.94331
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1d701b9ba637953437356bdf2948dcf26733822",
+         "name" : "Microecologies Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 136,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADOuQk-dxQpalEo-CsZOOXKZ4DHC1HUN1Nn49-LE11SqpIRgZjC2L2jVMa6iCIMy7NU71gRfgkpUknaVoAIc8cbJ0ODVJBfMF-0sfAXd9y9PBlWg_QJmGoBz14Kg0WQwZpgxKYlJCB7e18mCo_yrB9BIQcwiY9NZ_5xKEfr8j9LylpxoUm_bTQwdmprKBvXpa_lePMQ8deD0",
+               "width" : 187
+            }
+         ],
+         "place_id" : "ChIJvZ5NaO9YwokRbYzO2n8gGiI",
+         "reference" : "CoQBcwAAALXAx-bLrG8Ez2tCmsbNyv8x44l8BtOKrkfSdvQx17FznkLP4-AgL_pJ0KtxDbEkknCD6XbdO_tUs28rZbO-crAMnr527Z0XGCrH0smfqrzefh99ondjaOOj8XJCvzWhzhWgUNhNT6Td_JMFcPPmhsaRGLuuOUF0RcAx92DgwT86EhDs8u4FDhrkWohFXpRRgi1qGhRaAH_uJ6HnbSSRM8yePa5nSaWKLw",
+         "scope" : "GOOGLE",
+         "types" : [ "general_contractor", "establishment" ],
+         "vicinity" : "1829 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.799733,
+               "lng" : -73.943691
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "64f7266bf877a43db1156f077d67d58c358570e9",
+         "name" : "Getting Out & Staying Out",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAW_nbg_2wokREDYXQsyl9AM",
+         "reference" : "CoQBegAAAB64gry2TPEISX6Y9pttUdZmLKLCqHzq5sYh4_whbDLFFjdH_i3_1afLsSA2sUZoenWdOyljIbFuxfenTdKYuNTY054-wxp47FAI_Rgw1v_8RuEVqnjhytf21go973JknewnYggxzVEwM6AbM0tj3Ui_4z3l-ArvWXdY_XmKhHGCEhBiwFYE1ZXS_rVcXPafPvLZGhSEMwrbS0-yBqYsYaXm-6sVKKp3mw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "91 East 116th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801376,
+               "lng" : -73.943589
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2e7ae89bf8923c2c8457e2a11d9f0102d7709e08",
+         "name" : "New Heights Youth, Inc.",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAAu6yBSP9QgQ_sMLfI3IKJI3GoA1csxyMgCD8D-E0a9CICZBdo-D6JXK2g0VeIRKkhLqpdaI3GN73KWrjBA8Evga_WLSAStBW7rPeTFdwwy4iddeXZqpZBGohMo_JCgjcQkeJ1EpfI2prCfOJlFSCDtBIQjqnw0Xnr1WA_bOenVNrYXhoUAEpUymd7VHlLBTZL6dSA64cC7l8",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJdeYU4g72wokRq8L_AyAjQk8",
+         "reference" : "CoQBeAAAAIodYYTdsfc6y_IbEnP3EOL219dVdvZcqTokQKfoY_veZjkxIy96_s6-Y3uXp8e3GfFSpQOSKA-wN_pQ6Ck4PUdeUtJ1YfRsZCkMIo6gRaq0Kkyumbg9a_M-tXLRXN_70tzBafMZX9utmyTdZutBmAS8nl746AtUX1YJahJO74BlEhBXfGtBOperOmtCSJRbExnrGhTnW2RBaZfPS6BOdF2SAqM4mjgf_A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "50 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798489,
+               "lng" : -73.94385800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "70b1ac1999fabc1b975031adfe4496f86d667c9f",
+         "name" : "La Marqueta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJe90MjwX2wokRPHp8hCluQcw",
+         "reference" : "CnRtAAAAPtubOFMcwyOwBotSL7EDXHubC8gDO5FqFMVNk8_cg-x2RxjhnXP4CIcd_8sBKuxb0hmim2-WXUvD_Gef2bFUCVsgsqPbsFIWopGNGHgrws-Y5CH7gpxENtKbe5RxMUrXjaxaVMH8aqQ3mEw4-so56hIQno6av5s53eXxp_fOXj_zexoUEYemmygiEb3mHicaAKCSI1FYzvg",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1607 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800566,
+               "lng" : -73.946888
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "490fc335dd6b61e2780faa8573059965ec48b8ea",
+         "name" : "Open Door Fellowship",
+         "place_id" : "ChIJCdub6A_2wokRmtshUK1v2xA",
+         "reference" : "CoQBdQAAAGfarcwM0r0LqiOPwpitgSqQkEwfzvSjuJ00-E3r5STFX67ThwLbyx4WoZECVM7ACItqBdniITYo1tDfytbaQ9yN0-9T3OT_F-e4R3X1nMP1HWsBtjYacsr7qzs7r1Pa8C8xJtm8nl8KSf8e-RHwxlYk-BHyWUVzFdH6R3b0APmHEhAYTTbsQL4Grog8NqmX3vlmGhTjsV9HasHFtIo1NIQRHfEqtbitMA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1400 5th Ave # 2E, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.798479,
+               "lng" : -73.94624399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0cbae0b75e530b39bad173f391065ee221f7855f",
+         "name" : "Taft Day Care Center",
+         "place_id" : "ChIJEbxeaAX2wokR36ZF1WH4fpM",
+         "reference" : "CoQBdgAAAGvxp9j56qgaodWeVt6JkagBAuFVGiu3C9y2WLNMb-5uXowiBwNxomMG7Fbl9n3n19lG3XBqUnHDdtx_96yQOrnMVQYm2UCFYnKGs60-PTmQfk274kN0OxM2B0ilUq1wDQucMVrUcNo438L8hRAhMLiLwQdFlu-mxIg4TI3sgcGOEhBFxkGZG2Za7I4_nN30einGGhS6Yabo-9OX-FKzckPbWA5wx7ITZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1724 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801453,
+               "lng" : -73.94349800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d6f4c8133a6f645f40b28a6063b1cb1686c17e0c",
+         "name" : "Madison Avenue Radiology Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdeYU4g72wokRw1s3QeNGx_o",
+         "reference" : "CpQBgQAAAKgIVkWc-OZzLCyWkWBhg7jSkTLgQo-1JCLj-hAupHp0Ex3OFlXdQuB9Fp7G9K7Wd-HNzV4j_9Pxc5tAcCBG9ZXpWeovlkiMCPSGocxzoXKuUBKk4DZy-J9ni7uCp4yXn9iFcUbqUEvYFmj6dRo2gumBVYQlgRSr0TqxTtn6MHTXNyrVF7rUyoITYi1bFxujmRIQkz78vokHaucarowWwI1pbhoUNgq5OBwHQButTGyxUhls0A40Dzw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1820 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800822,
+               "lng" : -73.946062
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3e87bf24b4c07d88cb86fe3c2a220d4b95afd891",
+         "name" : "Church of Lord Jesus Christ",
+         "place_id" : "ChIJH3pSuQ_2wokRWCnrYkRqtck",
+         "reference" : "CoQBfQAAAMyMLY_5iSP38-DKRflE4-o20U8L8jjDQCraO1caf2cBYGrVCpAERlLYPbsYl9fLL28ZS8jHO1HImXoEgslpe2SqIuNK-rTMEdB1wfiYAZOZXUvPBzlRIH3RR-Gn3ArlYsTPoiNZrzMRMaPAqzIhKMkHvnPxo8W06fYlUKvWb8snEhCtoj6cEwPAV3X3yZIlMFiKGhSiLUYhEGYHqLxy43U6QBhqYSf1Aw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1421 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801476,
+               "lng" : -73.94401499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ce33654adf8c3f876e6b8aceb33cab208af1066",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEcVcBd-wQsJuxHuDBQDuqqI_xMVWnxz-433iCMJIK31qiTpYJ-w5V1ToyXmZC3gfKpTg_eUVsSMFR0mja1oJzGP4Qn8eVyiAqI8krDRpTIxxlHJUEXeWpMXRh0VSK9mPXmcYz91SoYspZvWvBeL9TRIQHjy2qjDtefdvj1GrsciTwhoUi5CIj7DFda7zXQSu4dQhOmJ6SYs",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJG0S94g72wokRbCoKKuCGTrM",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAy8BnuvSJDhiCbhhL_b5qzRUhVZfue8xCKykhHZvpo7MhL5APCISrP2nhTfZqd3YdmsR6LXfoX65bRB52qhhBxvy6Y0Yf69X-hnbwmDmNl0fD0TDEJPMkfig-FZ7xJmPsWUG-p0Ga2O8jJX0jcWqEbxIQSEO_7x5MB3LZuvl1R1dyKBoUnOfRDnd6zsc_RzuAasDno0WgnLU",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "21 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800449,
+               "lng" : -73.946416
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b77638a5caf7779c7f94a8e46f648592cd3b00af",
+         "name" : "Empire Corner II",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5762dZKBBJkLsnK-XnOwDYFx6wCJ_Xm1CZ1Z-y4TqtbGc9BHJbt55hRmNPNKWt-Ci3D2LaC5nArn3vIbZhC9NWiHFGIL9WONRgQrGz56MrUOtBujAfwbvRWrDOBfXTnZ0S1GAE-Yh-KdutNstEMrEBIQCGwv8PeqS_7SATTqkcN2jxoUkxL8nF60FziGAjU4OqUO1A01LgQ",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJLffM6g_2wokR1b5ZSkzGTr8",
+         "price_level" : 1,
+         "reference" : "CoQBcgAAAFMAviHusKlbUT5l3qFIzVWuY9A5I5PwWetvTjjRPjHr-JTlEeaCOCdNrzuwrfIxuG9jGKdtIe3Rz1rkWa-CjN9t2m8OJLd0RFbLhEY9530i8194bBgxqS5mFDins3pj3aj5ODDTehl7tJH1R-ksvykt4eMG-Gim-B2qb22fs69BEhCReo8NXpQm3WEu4jnEkgwLGhT8QnniTfJZpDG0xzIJZEJiHOBCIA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1415 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801005,
+               "lng" : -73.943806
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+         "id" : "bd71ee8bfe542ca7ad90c78e0629082204906818",
+         "name" : "Madison Avenue Wines",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJi4bxGw_2wokRTMA56ArvyQ0",
+         "reference" : "CoQBdQAAACiFiDya3NJURLuyWsjBlVrrWCz2zFbYp1_Ra4jiLqLxOynASQcS8QRHY6S4rVY1RAiF3St5VgEsJi1LL6L6TFt1i_5gttDy1GR8txjFW4suXeM8T3bptsije-DnvutK54qONsUMVZQMIMnBZdxZJGiByCLElTG5_kHZVnD678-rEhBTa2fKs0GCA6UuvmGv6hGGGhRUJWa5f_OF1rmz7PcCCZmTJogLTw",
+         "scope" : "GOOGLE",
+         "types" : [ "liquor_store", "food", "store", "establishment" ],
+         "vicinity" : "1793 Madison Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAABrMwP79l7B9rZiS0ch2sUfP9hunS_zSbUCPSXwP_oYaDUamTTwkRL-sT3NZgTouZHidlqBCh4iwDqUffQoJgw51tQ1ijUDg1ENrXFZl0NittLJS9mLMaCYVURXPpJWpj0cTjyVgqt7I1-ESz7TRls10gjJL6yjxz6CYD2kyHPzIOHRLhpPE3fLCE7FOeLmrPRIQpGwpVZpQtDg70CZ-F47GHhoU6iVQWbx_2oO8pdRD25APR7RHKuw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

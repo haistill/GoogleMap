@@ -1,0 +1,438 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGSkJNm5zjIDET5zof-AO1FzwkdBTwhimpiy1E-GB1AofFgGKiPLuQI6bgX22t8bd8zSQjxevvjbLPcdCLscBnY0MXD235Aih6xzyonaQonmKKIgUqxAtJwVtOgPLQNtY-FOC2gitz5dyh7Ifa2nypjMlEqOlWcPUrZcdYubcJe-8wBXkIGdYu1kaHbLlliiMtlBWyXmgR_ieSIyP8wf3NgKrtbj5LSQYbYg3h28dKuA4Y8hoQoKkMwFjgzMVQHqwEyf-h1VqUeNstozp8qvFbdR3K9QVyOioxrTOt5EMJiR0uJtkiD6biO56rw0TRke7RIQ1krUgwIcUcK4rDXJJGQx2hoUeNutI9Z81fVetLvp2jip7xjJtGE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBigAAAErIx5_hnefDPTARpNvBCGutOgUIAvJVcSSlCdmyAemgGoEvHDYFJIJBgVD7NhfgAUmTFs54mOj2aXXtWNYJLmaxCjU7AObVPDvsksq-4XeHCn5uD3r5qSq1Tq58LVCUcx0WjU2K79sw3GanwhVJmh-4Lq5Kzh1rhr8G2eMiJ_Iw7eCSnb3qfjSzDnxj2Ls-WBIQlmlxZ3UlPUvE7hNVEyc1mRoUj6jHDz3GMMPEsjaBmqk9FYRjXP4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81448,
+               "lng" : -73.940944
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9d3789f1c55b034f2b34a1f2f0deca222ed45982",
+         "name" : "Schomburg Center For Research In Black Culture",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9d-7uHb2wokRUm0YudJYTJw",
+         "rating" : 4.4,
+         "reference" : "CqQBkgAAAANo3pbY2-tKVlFUmc2oc_l3Vj79InBiFsqt6k-ybGKHuI0I7KhF-fUOc2oYc6I6u77zkZzKrhMO-sHrSyR11pPRggV5JdlZ4A5Kas-7m4w5Z5AykGI3-52caeDRWwvlZ24hha7ABh5otOfQPtezqx6woVVqrZ73Kb7-GiFlp5vc_SQ1FAM5X4xV-lXvAezQm-IjZvWYH3ma1QYcyFqsHrUSEB0vDk0Ys0viJU50UiK72ecaFDoe0mdMiHrb5NRePED399VmIr4U",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "515 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81453,
+               "lng" : -73.94086
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "674b1c2cf100f1816811575b89412e043435736e",
+         "name" : "New York Public Library",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAlc046M5ODaXIYMHW3ZcbwMiIjgGzNUhvnENB6q7lT_X3hFCZWr8_mnFmCdoYdZRlGTwKBv7NJiG6_6-aVbgfbi9s7LwFkMtL1tmnDcoJ5vfGf3Mxnd8osasxI0rJW7f_If8YoruPcdDi9hOfT3_qHRIQkTA4vdZQ6v817BWRf823pBoUIf5onDO81ChZScT2kZxDBaFIOxk",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ4ZVhx3b2wokRCxVx2VgEAoc",
+         "price_level" : 2,
+         "reference" : "CoQBegAAAEp18dJKJK4cnpqCHs1AhI-yHXhsgUjxLHd__HUsIV50632KKc9-aQdBv6ueobwHSQMaR3KwHm2twz29lCeXwIRdKali62nQ0dookTeZT32jQaqgcZ5eGRmO_TUqKpi8o9mNp8ibNdgeFvdjizUcXnAmfqUFBegZuS53bfTnjWmlEhDuLNsQrQxMuKwr6F-KQVwPGhRm7hzwZSX3bzDFiVMX7jTI2UtPPg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "library", "establishment" ],
+         "vicinity" : "515 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813886,
+               "lng" : -73.938554
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "80ca6e15ea512d1d98030bab390d992bec26ab17",
+         "name" : "Harlem Hospital Center",
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAE3YziJ2iW30fCdcrRi1XOS3jco6kknxxz4IzS_Zt6cY3hhE1uzxOo2o8DGFQuhzrNiJV86mt4QJPbgciV5MSC9xovwnPOUo4vDH6IJolqGTXF2LUFrkvaBLT7uOBkBdJNN1VlpVt9NyuyrryDYDcTvcmURIS-ppRLNtjr6GyO1PEhBjQimDDxmPKqmPdCgyzK7MGhQFHcJhX3R-17w6rtIubDS77deIiQ",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJxyP7YHb2wokRbxR-lIlJmWY",
+         "rating" : 3.1,
+         "reference" : "CoQBeAAAAM0aqODqsQq6HPAH8FcgZ0zp0TeULO8-yzvfeMn5OzlWfseqm-1cWa18QxPdWwphQeXz3WjO3SNvR9ijTy-EGTTQwG-e0zvFYrSj9k07YroN9SfozDtToDON3JGC1jrKiCATd2N0pbST8nHm_Ummj88rENom6YwnVjRX3gSoz2qXEhDJyZB5BGk3f96wjQeKi8-RGhRXakX2GjLbb54Jq9XAPiQMysgZUw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "506 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812506,
+               "lng" : -73.938096
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6a6c176440475b8897b12ea872c24d862f3009db",
+         "name" : "Goodwill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHbN22nX2wokRAidznmtx6DQ",
+         "rating" : 4,
+         "reference" : "CnRqAAAARg2rP3b-LJ-EGaS737IHPQ8gYTex6D4zKbMm3kQ18WrncuIl7RhUE1likos6ihOSS5er7L7Kd9VudltxTkGukzYIFlsv7TXQrR-D-AyW-ubWIExWCBk4PTGu3iNm9v8qVPvf95dx6rcLGhsy8sfmTxIQtJjJHcFMQQtknAH25WO1TRoUM5wrqbD-6Y3VXutHwYETp0PXN0s",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "2196 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812804,
+               "lng" : -73.939224
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9b44374d4d6c9834bb7adf84a2ca1928718f7617",
+         "name" : "Hansborough Recreation Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAO7KLQaHk_H3r3-6Rs5kTKPKo5V9oFyfV1WW-DfnY22TBKj5k7ZtwwjFxyyXfV3lQBR_xCvtIdn0SgUxjyalkDNfgic8_AsDVAllECVHsTNJhJJVmWlHy8Hw9B2sLLouhWZrl5zmm0S5ZlvwOhITjBhIQt5VsmYSKIkmDzLV-k7lTTRoUOww150LG5zpQmnEg3hB6lX6HJis",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJfStcKXT2wokRh9-lesopliM",
+         "reference" : "CoQBfwAAAO6MTGQtiPJ4bIR1aPqvTNyt_0JYhWg3oMoNv8eB2n_9895D8WluTyhdm9OBCelln9EDDS6zPo66b4zE7RTLi9oSBG3CfI-WUUud5CFVcG5OkHIiTr6_GFCgqYNiuw2SiU6V5hp61n5yAoKw43Hp3RxRfIKz67in802_PnsorK4xEhA4gKuh1ixPhQqoduOcsFd0GhSXg1bDh65A32uQgz691WspFmrd7A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "35 West 134th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815381,
+               "lng" : -73.936567
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8c1e8ac2c104305c6ab59e065d935dd4e25505b1",
+         "name" : "Park 139th LLC",
+         "photos" : [
+            {
+               "height" : 216,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGRcMfKvlpm2JxbUHQb9JQlVv0Y2bjf3cSf2t5TQGwme6os-_IY40HiG_IYJv64GIEucxHdoaaE5bvYm5UJBft0UOhE3yApII5Zfj_12p0ifxXgtu8E1ObTIlSXFr0aosCG4JAHxOEi6gmiHYeYNo_xIQcJ2qRNiAf0x3789jmACS6hoUAThjaB23hFtiCD52L1PJL1yv-oQ",
+               "width" : 325
+            }
+         ],
+         "place_id" : "ChIJR_dByXf2wokREOnra9npxkU",
+         "reference" : "CnRwAAAAk80Wii_mpueP3uhH_QZF6rdf5IZNBMeQElwJbzgnBVjwquN9gW1SyaZ9tPShwGMG7Q0ohA_KzWbPvBhV5LGZCcMT2h_zpRdPtbOZetMZUK_Mx0YxyKBsSZPIljs6gpxtCB2zuDx9Is6ZKNUn1FGHwxIQpPajTALHcwm2bpBFIjrx2RoU4eHjOkyJd95mWh-6jMvQ6WzOqGo",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "34 West 139th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813392,
+               "lng" : -73.94084100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "dabad6636cb206060729893bc98dfc95d16e178d",
+         "name" : "Paragon Department Store",
+         "place_id" : "ChIJue36pXb2wokRMQYgSxxQqSY",
+         "reference" : "CoQBegAAAO8L1rGhq6T3d_ZhKt_6MuxuCZTOvP3Aj0VsPhNUHmCG0s8oW7wCFsjF4qYOeCsuURN_YIPrTxSe2FCqyRIvbjFfG7fkKY4-hAcF53V9kRyK21GVej4wti-OL1DmeoTyvjAY8HtzxcUUwxcS0Q8fbov0KY_S_RZYofNOSA8t0xO0EhAbgQw2aFTU6-WpJyZUU8HRGhQ7yAzaAr_IvPFK8lNF6OH2mMiRDw",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "488 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.814895,
+               "lng" : -73.94089
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "99d3771d3e59bd905eefd484e5b285ac32ee169c",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRuAAAAMNPdqRl-JCFpEXdN0hYoUmfdVYYuOVYFdp1Cpkrw3zeSgeTtNdevamCSjltscnQ_Im2VHlME8Sn73eQ2w1peGQEQAm_SS6grqL7YRZdeTEBMQ2HIIoAYLOvo96fPS4z4zNj3acnbGjbXEAbbj9H5XBIQU-NhxRB4uuCCHeyJJOIQeRoUyh5JcZw5HcN8k9_vhZv0RNgnaVU",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJf0BnxHb2wokR5YbWvkG-F8I",
+         "reference" : "CoQBegAAAAmEPVOS7Xkub5FqVgThUBtv7bK3IboMiB8ckxXkQbGUp2R2qiDIkGqXBsY1sLrFVTFFvj8eaFqQA4ZNKKRSOtR7b4Uc2nuXeK66UfvslAe1VlOYSAYGFrgSrIXz9QhVjW-_FGlMuL0cneFvOJQBvGgxL5Z6hFjrK1Zbw6PlCgDsEhDgDRM4VrJrQe71wR_-J2RIGhQN_2ia8IGzlRMyLQHH6EpdjrooAw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "104 West 136th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.815109,
+               "lng" : -73.937522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "74bcbf94e8414b7fee32c82dbd1881993686ea95",
+         "name" : "Greater Harlem Nursing Home",
+         "place_id" : "ChIJg6mANXb2wokRgx_YKoaOZAM",
+         "reference" : "CoQBfQAAAJBcpikeJjDUQyfzGIFVNonDq0i2AWkApQcdh2ECprLzT2WbOJaUB4u5PcS06c0Bsw7VKASwcVWfKeK_1gjdLmIgbuhBAsPgVz1Af4-5MUbPwimzN12HWQULoLesaKUeh_kTPF3jwABCkFGrMD_Cr2IyMk_CdKnUqWPlVych9FPBEhABfiYO6hOP29nS46S70KSiGhSNQXyUKISo6Nhx65xgXGjtm7a2gQ",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "30 West 138th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813198,
+               "lng" : -73.94021100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "316ba414f86052e54074aae28b5c3dd0719b0698",
+         "name" : "Lenox Terrace Apartments",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUfWqAnT2wokRqyPJM4C3hww",
+         "reference" : "CoQBegAAAFWSSO8Hz1kU5sm0oS4phm5iNa1j5wvobsmWadW0QCzDlBhX_azbcA8s6or138LkUlDDsvXmGQk3PgIum3w61uQsThOz_rEkGcmhU1V42OtypyGbPI5PFWlAW7WUkfMy2MfkGlz8ZXwaC_d_V0PGKI6H-E1JS0CtfWftIyrRYRnOEhDV6-V6JkZ0rfdKryxB4Z4HGhSAY26bu0QlTmKxDdADKuU_bBL0Ow",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "484 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813368,
+               "lng" : -73.94107700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "735a5c969b6a1dfbbec69be2ce4d0c9690546715",
+         "name" : "Manna's Soul Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 314,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAedz9q4kuBDKyUBgIAf_sG4nKJC2bjpZEiFXhRwxxL6lF7-Mg_SdQB-ckfHe8tFuyaH7-pCV8ih_5cGLtuFtB9o3sYAa3Un3_eRZms4-Y003bsfmkYRm7vuFnL9dj74MeZrwGVDJMjn2jA-tc6RSUIBIQfL1R3V0EH6fwxtTTZyY-iRoU0Q-cM4bSKgn67_CQ-I0lHGUjkmc",
+               "width" : 583
+            }
+         ],
+         "place_id" : "ChIJH97jp3b2wokRyoBwNMM-F9U",
+         "rating" : 4,
+         "reference" : "CoQBfwAAAEC9wfeCfk0BueFFIBQZPyzqPdeF-OUieHfIi3PSAGW989cnJPExzUxIqzkWaZpUfo8_hy7KhDXgFuHeJUeXUDX3mfHua2W2TWYGtNiWrJtCswuGYnzMwjpScMasIKmGhPi7zhWwEbTqITolqoC1Vey5qf1zHAINaPqt_xDrnVFoEhCAvdPrOlqm3_akCJpPa5dOGhREx-fx-Pcp_2YDqt8GXs9DdhS-YA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "486 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81543,
+               "lng" : -73.940257
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c4d067b8ab008f7394536b1f7178316e0951bfdd",
+         "name" : "Jimbo's Hamburger Palace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ0b_f4Hb2wokRKoZhcuC3CSc",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBegAAAOYj1CVx64Ko0YWhw0gEm50x5WzgKD6rAm2T04KhQxWgzujfVWAkezFFFxGbkw_tcrf8ZandgAgwNPE48eHgFg2ettE0qV5Ecnx35ExMBn6MFO1aLeYYrGe0k8e6pQ7f8TEAcRPhOlPFKOhgWErZ8-gX7dTwF2FWnamtgGu_roQmEhCMtiX6feg9yVd_4bpsEcU8GhRjw_t908NDyEIqtlwuiRrSbr3H5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "535 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812683,
+               "lng" : -73.93988899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31f7708c86edbd694c097bcf7eaf7081678fc6be",
+         "name" : "Catholic Charities",
+         "place_id" : "ChIJixVOJHT2wokRGCVURIxRLv4",
+         "reference" : "CoQBdQAAAAu0PnJT9KKohTo_taEFiyKlheQRbLKq_eENuzKjk0EqGRRi01bRiNhPK73TT5NK3vHvSzFMStytkmZ_P-P8883rV9g1qMlEEtuuiVqX0LqAAtLokyb_rJKVXVpqsprbKhbn3cKBEEyr-p5qR2QmysSdzSWZH_rpF2zC4bCeRIHSEhBzj9-tXk1H-9stDiN-H95_GhTCAlFiB40ErdD0bAPgADdszfxUAA",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "health", "establishment" ],
+         "vicinity" : "34 West 134th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812788,
+               "lng" : -73.94076099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "966c822aeb9d3fad30431b57eac95ee8742513f9",
+         "name" : "Lenox Terrace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUfWqAnT2wokRVjLjBKFoLRI",
+         "reference" : "CnRvAAAAsrWceIRSFHtH7xLSzBWQPfPYIy-mG2yMdswbsvAX3ag1t6ipAQjuHy1AoeGaR84z21T_ExB5Hw2GJ2LikH_AaF3W_As-UoP7XimcGoUy5RIpEEjfb-fgQs2UKVkzKDCtoiGL_faW4w2NQtOd3jT3VxIQ2B5rmoTN4eYxh-MfhmTl3BoU1mnmivns2Z2jsQanrm_O-LtNrTE",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "470 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813208,
+               "lng" : -73.939114
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "271e452dc103d3794c19821feefe95447c842403",
+         "name" : "Fine Fare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHQ3ogXb2wokRVFPEIw4AT8w",
+         "reference" : "CoQBeAAAAAb3RVLwq5jsuu9vQP9TzmDPQ9Olz4D-U_4N2yoQwz9db6afUsM3vg0APt5qE7FyH5b_oC7DC99XRbTwQeXFZYm5t8oRbmCJEGD_zB_fjfu8xZAlPC-V0pCNlJi3KDsSYhGY6Cv1VXVcIBmz-QMCTHyXp5oMWtMNrwTSRvI8nkzfEhBRORHHG_i6GjgQbBKZeydiGhRrekqdltOEaEZUK1DEPhq7cgATrg",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "24 West 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813306,
+               "lng" : -73.937814
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7dbb690fdb842e31847ba1dd2e89000095998fd",
+         "name" : "P.S. 197 John B Russwurm school",
+         "place_id" : "ChIJc7TEdXb2wokRqTTag901zvk",
+         "reference" : "CpQBggAAACZPJGHeZeBv7mVB8QMxhmCXs3ZMrt1UKEgXNXg7cUfBPAQRCvifUrehwQ0Bf2c3JvgFB8Pz4tkU2yAXJ6RLSHHvQ8Zk1-A2OHTyUOQFQ9h0Nl_MoYAlTXvKBBf5dcpOKaS0AP3V0n1zbYUittNU-XWFECO90mlDf5f_pi4HrtE9BzIzZ7pQ7zHhsaNxoHV-WxIQBhA_69aHSiw5ni05iYE8jRoUYkqM5ZdYC8T4A7Sa1bqejLkoyKw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2230 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813103,
+               "lng" : -73.938855
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5e4dc390c9243eeb2f9e11a2f6f3f3e237377902",
+         "name" : "Lenox Terrace Drug Store",
+         "place_id" : "ChIJAXvGf3b2wokRw332nSeBB7I",
+         "reference" : "CoQBewAAAAG8YqlvBqiaZO9EzVjTYOW7bU5yD3U12gBitq3ZUkDgQH9N8HZc98vzMRqk7B_3nkUiB_MUMfQ3XpAUu2XNt8pCXJ0pjYBSu82UF56ZTSclxM9BuJFtHK1bFj_wUouxaiq-2b2U20EKkvTi1RgdmFFR6XJCX3g94jPIwvIOcBJwEhAY9e_h68wuccrTkRA8NrETGhT-vpIfiRGF8tiCeWefSHEyujtvBw",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "20 West 135th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813072,
+               "lng" : -73.93771
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc528964679a1c5d8e5818b4ee7a6ca6f4dc732c",
+         "name" : "Democracy Prep Charter Middle School",
+         "place_id" : "ChIJc7TEdXb2wokRMinaJu4FSUo",
+         "reference" : "CpQBhgAAALz0aov54rhGuu7nhTfHhCkPo59NmSbLPFqIeBuPk27Sk-honQL4q1Dnveygad26eQeuUu1a4D1d4qP1insBIJ6SW6zqz93cTrFCdxwrf2z1Ywtdw1FSAP6H1SrVYVDXU_lOQNocNlftEP1QHgHyAYYmp2EW8HyP2Uyp8sVFRr1NbqQ4vQqQjwXY6LWOD5fRCRIQSDBXCSK-JenwaSAQkp0thBoUEEscQVOq1n8W3oUj4fVyQvzpdxU",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2230 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhQAAAHkdGRMtTsDWHPnUNTDLLffWZcYwxAULFVOjUyJMXvltq2muNnjlcTTbNQiRqRmy3uh1VC-dkJSThXrLyNCJAOI-SN7fYpMvuKzDoTjPCXPwZLEmBVvWbvJdyec5fX6fFf51HHkhSZr7F5__itW2zdAEkBYCIqS-HYX_xWOZHJpsU5g38nolrnspE6g38Z7fnRIQbyngjScuJfHJ-SAr79DLfxoU6nv3ROgIgWMG5ntPacTMFMp11h8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,366 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7350134,
+               "lng" : -73.9763913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7368846,
+                  "lng" : -73.9738038
+               },
+               "southwest" : {
+                  "lat" : 40.7327355,
+                  "lng" : -73.9798696
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e44bb186938feeede8ed974b73e24904e0b5400c",
+         "name" : "Peter Cooper Village",
+         "place_id" : "ChIJqTBaqQxZwokRDNW0g6qKWno",
+         "reference" : "CqQBlAAAAG6rxPxEgc3cWSSCykyHMUDmR9v1QcLUdQ6nBT_pl6n9wvaxIND_sV87Et1X5MXIp_tc-lnnH6Yb7Th_-sT1iozNjW9CEp1Qst8NAUSwplOIFzk9EqsoEARVPtu9bPRi7iKFijEGpy75y-BPYI-dgjNUUKp6csfpMqwYipGv5p2JQ_EmQeoqtiPzzOVPxMMAn2s0mRenywtrhdEkP-CcQCISEFABNOjJH_5cB0cxZ5LWepMaFIhGs8RK3fGWQGxkwMbLQDrlaN1E",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734554,
+               "lng" : -73.97439199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b52f2cdb2b9b783bcea446438a7de0ec77b60fce",
+         "name" : "SolarOne",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAjBzCrt485ozZcBUTbRhjgTNeT4WqbbaYrSsWS_M5R9lVUYgDPip6x5BXv2poX_ZSoydqNemwayYK1jsk6xspUueOkXbzEKxssvwTluBwn_vYw3QIceteSOCnbsnxpy7tdqK49j88lHael6qk08ttLhIQfDLR-Ckv1DTKjhJAXR9zuxoUuidjiCiyisOMgKZ6uOnSqukbv6I",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJd7VN2QxZwokRKPCs7rE98sc",
+         "reference" : "CnRrAAAA1KBjcw0-eifPdWZghYgi2NRFuXr_okuZrLT9DO8_690TMsfMdLR6BLjBQvULTGgcUfHBi6a-6QJG9TUqRmBIkJKprKoujcvbX1z1-GmA6PASMFMGm5D7JF3EagrvtaNukHQOkDB3aEw0fz2nS0_ZLRIQbHBRhIgYDRNEiOsxNl9x2hoUCAvnWG7wJENjIPkz9k9hiyTQ91s",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "24-20 Fdr Drive Service Road East, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736177,
+               "lng" : -73.97588500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "c10dbdeb44379fb4d967ed55796a7f406a2bcbd7",
+         "name" : "Asser Levy Recreation Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTUlY7QxZwokR4_QF5mlorBs",
+         "rating" : 4.1,
+         "reference" : "CoQBfgAAAC3wbERPz4njoo4a2neO0k6JzzC-nW9ESXwf3yN2F3KvFzCbMbvIKSw2DI09DfBPV_L-vYj_pPqRsoX6tkz1jSt-EzbR1U34XirpslKTDBS-ahRfiVtVqK6HeWyTKO9NAFjqQheNTtJqjv3X4JzLiMwQUdlYxkZBy1HPdnVQYIQfEhBcbBELQYuVYNJ9zNYcUCicGhSqfristXaWccPaZh0v7_A_sa-9uA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "gym", "health", "establishment" ],
+         "vicinity" : "392 Asser Levy Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737881,
+               "lng" : -73.978268
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "5121abe1ef456afa6606668f522a559ed3c2f543",
+         "name" : "NYU College of Dentistry",
+         "place_id" : "ChIJTfEpmAtZwokRlIHMm0Px9-0",
+         "rating" : 2.7,
+         "reference" : "CoQBewAAAOfd5nRm2jd25_pqta97LvW8KewQGNCTCFUUdWRc_-iaNWiMiZgkG-FCIYIhtEoOp-dlL7bOFzsgymA8cYaDdzpvo_12VbLS7OsGEsAR0bQroP7dkf1XFizLp3-auAFoCc3-U82S_3hI8LSwC4IKb46cz1-5owVwdd5yKw1WkBtqEhDbySBPmpz0o4HVGk7xZqWzGhSXkuQ9pQN9MjRSQVipdeDywXPYxw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "health", "school", "establishment" ],
+         "vicinity" : "345 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73679,
+               "lng" : -73.977092
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "caa31c81b23cf1646a807b03e4e398249f085b8d",
+         "name" : "VA NY Harbor Healthcare System - Manhattan Campus",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA7BxTpdLf0_9WyCbQW_7LBYwuhsCk_dSdgQBGBeBMaY0lxzQhEdw2Sy1e4mlRlZ8GipuUX88fhwSMHOVrN072CMgTNvPY9PB9DQm0r9ebnIlm-ocbsrgWyxiKcpMa2zR-34dPG_Zq4zCihdvXdnypIhIQGUnNVufXENSEOtXrtttLSRoUQ08hD2qO2NJMAMayq5q_iYxWln8",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ12JLfgxZwokRrVHFtfmA6HU",
+         "rating" : 3.6,
+         "reference" : "CqQBlAAAAM4oa18QnV-gK-b5bDwah_R3yIU5DE5bpF5lV9ED_GwIx8UHwgI8aRQBbbAOAHXMfOi7MAGw49VkZFPIBXDPnSVCEkFfMREGNWhvsALIKtaXiw_evFmtQ9r9QfE3t7jurY8CLUzEirVcOitzuSLz75YRT52z1jKYuCyJtOIRkpx1aZbvrEzWfP8A3jJnjLGRpCC0OslxAZmtEblJQKnDC6YSEHbgeB8SI5aGp1b1aGrnaLwaFNbSpweKFehz3AiuyMPcfmDbKh7m",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "423 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735575,
+               "lng" : -73.974509
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "0200b4174ef2eb62907ce6532d3d7f6a8b701324",
+         "name" : "Above All Cruises",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArR1oF-Ph4EwYmIrq-pVk_ofFnbt8SW_hFhsc8bzwgL-oUo4rMT_4QYcAAiLDfeRYN04TZNgjv_Q3EAIFmdu1SaCEWDqUlQhFqrryrljRvHbkLqAp5Y_17RYpJXXqUJoQEJ7l5M5h8w3tw06HsjId2hIQiGzYo3F8L0Ca0v_PuNrbJxoUPJnxG_TG9eb4FAe-qQ5Daoz5cps",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJEaow4QxZwokRKHr6PDk3JnA",
+         "reference" : "CoQBcwAAAJnRllMdq5mbFaUIGpZwu9qBicoHdVGvR86mXjOZmNAU3XB0PLq8wfSU6Y8wWoCENSgBL6t8S_R4ypxHcX0TrBXGUc2MHAWbHBjq08E8Ogzvw2rIBCskij3pypf5MliIfa_AE5ve0ZfTXxB403gJWwMMMjPZuI95ZvtulFCvPT-XEhAVONygE_j-DxGsVZFuCoz-GhS2WCGF2U5tpT4t5YVXY2774dGEHA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "2430 FDR Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738077,
+               "lng" : -73.975844
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6e86e0e0dc83421c371eb60af6402c4757ec548a",
+         "name" : "Hunter College Brookdale Health Sciences Campus",
+         "place_id" : "ChIJO78LcQxZwokR_86ePvazQdE",
+         "reference" : "CqQBkwAAAD1cJkDYLXukQPaQeGbDmXQ8ULCfu2_GEbFnlpreXjKx2TZ-BiyKtrgYW-far4W6pWv9AYEiQkyYn-FY6reEhoAcOlzSU8tWNA4_6E1OjijQcIKHCRLAfHBnbYojxsFMKY6cPJ527C5kbfpVxPT-Ggch5_Hmr_lH-A1iKMUvgdz7R2LrZCpe8PuRsGD92_H6AThjxcfkD5cSFeO68FcrBDUSEEwhLihall6LgLvQGWb1y20aFAv3NIJkliRSRn_UlyW5bsXoxBe9",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "425 East 25th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735602,
+               "lng" : -73.97452800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "4f69477360b56e667275576ad2a09b1d47c13185",
+         "name" : "Empire Cruises",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQevCgeUvAsn039L-tywHFVyrVMkllh7HDLhHEuuRn9yaLryBxEr_umOmmP4DTOv4YMfmgH4nZtjHDNXK6YCGax00TYtqa4KULPYcJiUyBDAKkTwI2-6QbCcIX1yYIQXY4skkMFBcKhPcjCEWTXNgkxIQ42uyNQ0mlb0dmiVvyriv4RoUMzuZpyzKTl2t-yNoeHvv8fYwdww",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJSa43UwxZwokRnQeHri5PvD4",
+         "reference" : "CnRwAAAAYtHMphttKiTk9Y87sKZn7SNNa2uaeFnBt4pNpEhEN0OHBgDTuBpEeV5XkpSW5SHGpKX__76IRZn03ClBoKMLw6sLyk17-ZTwylPAofQX1vLyliYy9NBiitmCF_cR7jod9SYbT4g6b_MLo59CFEvJVxIQKmCaWppXKnso-F7UV4B5zBoU1Fw1uXSWw2ZgomHsc25s28TuUPs",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "travel_agency", "establishment" ],
+         "vicinity" : "2430 FDR Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736834,
+               "lng" : -73.97698099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "38fd6be7ba832546e503210662fc35d00c50c84c",
+         "name" : "Veterans Affairs Medical Center",
+         "place_id" : "ChIJ2Z1XnQxZwokRc08vX5_J8Js",
+         "reference" : "CpQBggAAAGtJbsnm8HevkS4ElMZSJQ7qAULXzLvzW1uwrqREO-S7RTzj8-BDqxEHSVUxlPvIAF3Nq-dtfhxEAlwKX4MkMVFIe9HJz7wDSq1mYQkrBjK7rFx5wuooj3lnfuNir2wqXBvZLw4kkIOKVVkW7AKvs6ZkNILPktmc7fV0H4aGSF1jnmWxsBtk-_MaCHcB_FhRBBIQ20sh3dAKKLKuWPEhVtS-LhoUPx4uV3r-D_-ZlVov8Sk_IisxcDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "423 E 23rd St # 3W, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737703,
+               "lng" : -73.978736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4b60a0b6e3f41762700261fa6226be5bc60fe6f",
+         "name" : "ICD",
+         "place_id" : "ChIJuYN-mAtZwokRInycjB1qFbQ",
+         "reference" : "CnRmAAAAAdUcIKnZB8A3-e1iX2lMc_vSUyXzQ8w0x9aqMz_wQ-jpiHJGSMw9OdPEPcm90_s29-yrmLO0tNrrafPvR7216kNZq6TS4DAd_Ce29EnTN3G2wKDHDW_EUqxwKSFmEAB_2iWHne41b0rBZeQu_nWH1RIQCVJYs9hIKcUVWmpSoTbW6hoUa9HdC60tnd96hN000tZNSnFEpRI",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "340 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7429,
+               "lng" : -73.99278
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "d14a2f96dad4395f110a80b8ce55114c56a41519",
+         "name" : "Prestige Yacht Charters",
+         "photos" : [
+            {
+               "height" : 281,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASCj_hikzCNACjLunBgriQ9z5phvW6Jp5dIcQzOTIaefOoOY-Oa8v6ekXD49zGCggzFgFbHaG7m_qOzERhG1EZidDdTVgd54DsljvBzKg2UBhnJlh_iWFJezENd1cKWPd9mjCeO-4Wbd5H8EBWLuSdhIQ_1qbdM48Q7Don38zzZRPxhoUcw0g1lEK6wx8eYIlO6m6u8EztJk",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ4SGZ2g1ZwokRswCqvjXoml4",
+         "reference" : "CoQBeQAAAEt5A60nq30ms9w81SDubIpJedZTTHwb93YVo6MmTBauLpyfdGxKF8CtuQ18mWqlM-fIQPc51aVccQRBOsii35YuoLKttFekkl-gTPY-vEIpYiRg8m0K863RWqmmKT2mf5hNGCx8Z195KWNEtY2NNZLNHo8m-gqKBQtpHWZcakmgEhDuZyljaqrKp_9UGqEOaAhbGhQNgSe0U6nBl59L6eiy3ScrybIfJg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735978,
+               "lng" : -73.974537
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "16615c92aa143f128568ce78549f4ab2746b1079",
+         "name" : "Marco Polo Cruises",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJq6qqak5YwokRDp6Ql29phs0",
+         "rating" : 2.5,
+         "reference" : "CoQBdQAAAKZ10SMfSp3bTo67c1rLh18O_E3oWei8JeGV6pJOv8xzCf7Ak_yUH8XWTodRkK141K36R7PGOlXTnMPlI8oGC_7eZzcGwrKOqS6xnGqHouzzWzaMCMVQLzz0PwgIt6ZjzqJf3WYnW-fyYppqWnTO8zuVy2IKOZMDx7elMvXP_CVoEhDgpZlYa_nDrXIwP6p-lNk6GhQU1NUuHM0HFvewn4L6OZsjbKhxlg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "2430 Fdr Drive Service Road East, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737852,
+               "lng" : -73.97822600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "d9e89e11feac25b6f25ce13a0a6bc1043a8b05a7",
+         "name" : "Kamer Angela R DDS",
+         "place_id" : "ChIJTfEpmAtZwokRvZ96oQjCF6A",
+         "reference" : "CoQBdQAAAKym4US1rJSyX98OQMruyC2wpNTSQht1YCJ-F4xDCwy2QqzPbKb-VNvgLVxc4YAoVw4WeTehGd4Ln9TMmCfbNgnBclnUDMW0wL7Vfqldc3XIh-6rLlidv51nCCYb9gDznZDMptojcgt6cGvfLAq32yncjy8msx9yn8bQwtgwMUnoEhBl5C7yyncYovE3H-70kgqqGhSCYhImBjJa2AUWa_auQKcTNsXKKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "345 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737206,
+               "lng" : -73.977856
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69598fd9568b3c247f19eee2dcf680755beebb13",
+         "name" : "New York City Board of Education District 75",
+         "place_id" : "ChIJyX2ScApZwokR7Q8ke_Qut9I",
+         "reference" : "CpQBjwAAAB162isdXu99EfY5P9RPO5DjBEppVvsYhzBN24p5ZoJ8iKcQWboP7hJfTk_d4Lm4MB_mHw687xpGtc0n_Jh0Pp_CfqCg6su09wWeNphAhrxIT7GDmRSOzIILooFxv4ILpng9gRrnb_jQf4UXL4kAm2oK3ioDXPuLTJXqFG3wRVpyLc2kzCpmp9N_uoGlOxUOhRIQxtG90El49ZFpPFQqXApKOxoUqt9sYnO6HRkBP2qty9nKog__aYc",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "400 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737948,
+               "lng" : -73.97821500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "4327fe16b8eb25e6011e5367ed1ec7ab45d00135",
+         "name" : "Nyu College of Dentistry: Jalbout Ziad DDS",
+         "place_id" : "ChIJTfEpmAtZwokRD0S6hf5A-RQ",
+         "reference" : "CpQBjAAAABCNArcsnSOI6ZbHhevqwa4ibGRLxjV0mz57JcvpDEFbKlFGzVOvrWos4KEH1vQy3hAAvmDtTl0WvqfaCkXxzBZ-IlPT8pUuEhCFelz101suo4_QYIsMw5UH70eHliMg23w2nXqrPp9fuGSFfaqTA0IOBT3tAkmyo8wBQg40d0zGzeqHZdKOLrAAF__0ASUd9xIQ6_9S-9lRMbeoM7t0-pE86hoU5GQCmOWJRCc4L0r-ypOmjzEL_iA",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "345 East 24th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736895,
+               "lng" : -73.976854
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6c242515f32c9b9eb293e37c55253d00f0c897e1",
+         "name" : "V.A. NY Harbor Healthcare System: Devi E. Nampiaparampil MD",
+         "place_id" : "ChIJ2Z1XnQxZwokRc_aiAYTq4G8",
+         "reference" : "CqQBngAAADto0IzLt2dk5ckOdlvnNfac3DuEBH26ahq1Ez_imaBCp8m_NcajBi8v207BftxACqUBpsKelOU0GXCuqcVHOtvNlNU3VWXAoujrq48U2vcTZX38TwnAWM1uDzsFPTXtLhRvF3hh7lhTQJklM91b2nd1qYc_jSMqDCGRyRbooYFRF89eyuPvSgyiKfvkDWpdplju8ebBiEQvz0CAbkBgP7ESEOpotmHvjvIHiSsMxOfza3gaFGUb8nvNVynL6YI_dQ_WePqCUWTi",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "423 East 23rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7367783,
+               "lng" : -73.9844722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74018510000001,
+                  "lng" : -73.9785298
+               },
+               "southwest" : {
+                  "lat" : 40.7313276,
+                  "lng" : -73.98879459999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4dc545813ec7222a9a5fb37063e89859ad7b431f",
+         "name" : "Gramercy Park",
+         "place_id" : "ChIJMaZfGgpZwokR0gtRaGghT_w",
+         "reference" : "CpQBjAAAACg7AkNFcH_TdFZWdJHhH4wkkyyUZPfTpTBDumD8IRT4bAfCXuMObce7wCP5wiNM-yyqHZ4hMVl9PDYhVaJQQTjHAQwueVDVH7FTObM30cYsnaZIvuYDm32x9en6S7oveluPCE2kNgycdUZtuhQ4I_GLBqIVDuDx2YK1Rh0zJv7l3WUDMwjQ7X1djwxRZed5GBIQty7STC9Pq13SAqTZRCW9UxoU2OrjMsPlXQp0CkPloPjk3niHDJo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

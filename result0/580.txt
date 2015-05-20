@@ -1,0 +1,552 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAEMRm2LvAqLdU96HNHziZCC3CzfWI0_kEQr6_bP77to1ID33PoP_awZ7JP9w--F9VMshAcaCP7X8VdyRVOv-wLZOOsfoNwgLBtbPwzGwpgdeh9-VwmQ7JNb6znIP_OJwFLcVrf47JRPZW8quCYYfnRp1OSqXIT0IVYsr0UsAhHACPgcDcqE3sRF6KpqqbkledoC-xdkBvhqVaifjxvQsnLXbgi2aHUrdPduOEM7S7peJQK4bxUwI0UNIBaEUck6QiQVq4cWCmckiflWWHI3UwtVChV0qEdshejCDPLX4Bwt-mYfMLRTnZG7E3ut_bIg7YBIQzJFjtkVsemI_e8wJkXxGcBoU_zCaXzY18sYJXB4V0VRPdR_CgKk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725257,
+               "lng" : -73.9903489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7276219,
+                  "lng" : -73.9872062
+               },
+               "southwest" : {
+                  "lat" : 40.7162989,
+                  "lng" : -73.99544379999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2e6ea09dbac02f470a1265b704694415ffba8f68",
+         "name" : "Bowery",
+         "place_id" : "ChIJzUX2LoRZwokR-vdL77UahyY",
+         "reference" : "CpQBhAAAANlPac77R_pQvzVEPBcKzFRAkDYPEJuC80xOTAjFMTI1rzhgplEOemGzKVsD1fDkeAmksaekEVWzepAF-G6b-jC1lK8Bj1J5fPEjO8TvPtjGU5TZebybqaDeaaYwdHii2cNrNlzAmvYGzW4ddkbnlDZA8mBkUBi_SZucEJNaEd25XIXQfv6TJQtMWWnwlTBcNBIQ1W10WfUFqYIbxdIA612mzhoUPV9koewJ4rTf_vS8P43CJKsd0Bc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724649,
+               "lng" : -73.990135
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "51ad84c00487100553da6b484471ebe52b6aff98",
+         "name" : "Anthology Film Archives",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1497,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJRul3Mc2QRJmhIZFDS1joXsZ9QlLyxHvXpBKB2UTjGHL9fbQEbQ7gbCLgNBh84thxk0gNwI9CrN7jF6Z-eX_IU8i2ib5h_g2n0uP7kklOFYkA611HdfrYrftYzKv5TFauGIayvZl6HpO0q0UUfTv3hIQdVTn4HjUvPL7GX_ZNaIgGRoUTAUP7WakFHmjauBRlDzXYZa82pg",
+               "width" : 983
+            }
+         ],
+         "place_id" : "ChIJk4BvkoRZwokRL7SRV3ZiUJw",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAPchHbUZVozuvMsVSl_IwVZ0ox4LnbH5r8EVsfSNKplME1dhyYOJckzgp6HehPqzenvsI-j51MFh4Wixzy9XGQtWjddJtsB7TwNXNBmoPEtgkCUmXjKwhJLHKeqnA3w3CjvtI04GbDAKYBI42kLKFkQE1R8gekPmEFvuS6r0YAGwEhAGF_OJonwQfah2NPu1S7HrGhQqoegGZfM9urZZKxPMyeAiZEXTRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "movie_theater", "establishment" ],
+         "vicinity" : "32 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726603,
+               "lng" : -73.990059
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "03a546ea536e33b0e0a636cfbe3e25494cdf5f5f",
+         "name" : "New York Theatre Workshop",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5neQwNU-VKeI0ofimDHq3s0nyTEhtg6Ogpwf1xy6bs2LoP76nEso8axbWHQNJ1_7WyX0QXI1VsFz_iUc2SRGkuhKiGKpD13-y0TOUPQcf_l8k5o1lugvSfNGhH5aDp3U-rcv2Ntledk48gTSSsUIOxIQVHygKA_yQy17tT83_62ANRoU6pnInYa-uzXcOvWkLU1ZL2ti-tQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJvyBHS5tZwokRPs4qcqJ2Mgw",
+         "rating" : 4.4,
+         "reference" : "CoQBegAAANsZrM62OHw1UJA-B7FXFN5i9hOuxv9s1DIMTMcEWK2YG6dsKOAmE6XJkINEC2PEfEvx2VBdLMeXuT2zHSKp2PTyrAmdJuxPHguvQzwym0xs1zUY76_ZXq58dzjuPY575aQn5My129hzP5Zhou1vhRKNuFwPrb1MnLNYj-M0ETzqEhBEywFeh0TDLU6G7AZhcMYYGhQBiq-vaml9D2T0y09Ru3y129UJEw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "79 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724517,
+               "lng" : -73.988691
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "53cd5da0cdce044105d5540a1d4a37ecf2dea4c2",
+         "name" : "New York City Marble Cemetery",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAFCozvpFiE5U1mlJRLo-BXpvFZyfg4XV2pSphgsq90VcBanNOaNTxRwGUI8aLmJ-qqT6m4ZwHwI4OFNfWYJZqRiawSU4kjpF3rdmun694mWGDmJjnFwoup7WaqlqXX7DN-EdT9pQ2X9H7yjG6PPlMVBIQlCCcHGffvbATN6iM6Asx2BoUgaG2IspY-G5ZyunrPBSgud2Kztw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJhV6BnYRZwokRneyh-GjqCdU",
+         "rating" : 4.1,
+         "reference" : "CoQBfwAAAPRFmjmXFtAK3Ev63ny270EgqdnxhOWwcr_arhXHomm6uRuN18NyXubvIO7tZa2db-nbikiyWOrdjbepp-GrcxzaOP9kbpCD9ObCJu61vYWrcSfaIIrGdzyVP1pkiAaT5kjSc9nUZWhAF2oPxpAk8eZdQhIpUppJ4tJY88GjJAqXEhCdvoZ6rKpbSEdEP3DwXITaGhQyhusXD-gInVN2cDTN2FET8VGiYA",
+         "scope" : "GOOGLE",
+         "types" : [ "cemetery", "establishment" ],
+         "vicinity" : "72 East 1st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727308,
+               "lng" : -73.987008
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e027daf98e85a6af0ed57d868786b8011f2deb10",
+         "name" : "Barbara Feinman Millinery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJB4uj6ZxZwokRslZA7ZwUcH0",
+         "rating" : 3.5,
+         "reference" : "CoQBegAAAI-3bx5lE-sqXxPRzYvCXgDuNEOA6852xmvXPehYOLemR-TAdPRV6hyV5hnMM7T0Wa60Kx8Tww8Q73qPqj9SZGl0xxAU8Z1Hy-unaf76rSJlI3NQEJCS7_vHvzMMtfCqbEsiR95K-hGvMaOZUxSgSqzPqnP3Go8cGTAZoAdeyFprEhAnoX7gkTllOZt3r5oho0uKGhT0L7voMGadPaVbX7aNTMSLFaR58Q",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "66 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726519,
+               "lng" : -73.989851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0f9356223dcb942c4ec0dcd74cce856b40867937",
+         "name" : "Horse Trade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMbtTs4RZwokR6C4u-_86ABw",
+         "reference" : "CnRsAAAA4XKhoFBnzt3RxDB77wyaIw0HsGTsbtlNX335zd8TEz-uZhLLPlQxbA6VoMTJBOMSBwcCq-Pp1OVWnRabFUqf9WX2HOIWFxeZOtAW3zRg3sdjlmkVsmAVfIi11UBKnX1rI7dTXWbzv6I9CEDszxuVnxIQDyB8hWLygSuK0Ysr2oxLtBoUGDSIS0JdP72NJextNYTm12mG6iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "85 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724872,
+               "lng" : -73.987528
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "a3cc796067ff2efb730c87bb8d8cf33d424e9cd7",
+         "name" : "Karma",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAY3QvC4dDYxZj3DopKnuYT6jsJz2t_HPF2hf8_N2F9rhpTW8170ePGEdhlye5UlQUTEXZprjJOqPGgsa-JiYwjIxUdGBadBySIRDe0Q_aoXPeqG-y_LjwqOFW4ufgYBL_yUukWD9fB2H5uBcHRBqswhIQ0-LwJEE62--ycuv-pWTxJhoUrngggEj3esA0wdapCosV1ATaBS0",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJZzxjaoNZwokRsBHjEbkGXk4",
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "CnRmAAAAo5JMy3RlJuBw4K4a96rWVqQJX5PpOg0GpevjZg868rDtcfBxfCF9J1_uEl6uDDtDq4w3_by-CnFsM8N-JF5Z6G-k4mS1Pdxl0tS34kWH-PP34x-xdb2C15re8suamWqBQyVlF6bDvQNgo1teQIkDzxIQxZ7hT8aykNpAwBqxDdiAahoUE7plaRZlIQ9dny2kizEj8lXfqoQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "51 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727056,
+               "lng" : -73.98854900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3fc55114e86728a7f09bc072694004638f915a4f",
+         "name" : "The Mermaid Inn",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJVfeGnCZRb9fjAk-R8zgcmIJBwzf84GREoG2qzR3BH0hayVfLWzAZvJ_TWstrNlyr7yAafPOG_K1uyDTzQV_MMFFr-tf-8peX46gyIy2A-RFtrwly_NI93cGXVo9QHX6xWSTXDD2d6TS-xuT2A8FyRIQMNwrjC6SXajWgLFDoLV8LRoU8b2TvouyGJu_luvMIBtfs8nW2DE",
+               "width" : 1425
+            }
+         ],
+         "place_id" : "ChIJdfuappxZwokRf_gWCLv9f5g",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CoQBcQAAAOfL8zo1lyitk392Riz72FeiAvegm0_7YFXzLwMYn1rukv4RJo31I_3sWRVAHxSf93Fh126vN9wQ5tggSF5ku2XprelwJmGAcGG7hS9MZ7iHKsvDehRrvp6qwSOoS8XF3NauVSeHdugO9wTvVBSyJ9eXFNOZXrvewJSC6dISrcTREhDNh3ROmR5OHtjaE2lWxjDnGhRiDHnRaC-rm5_MOYcmcmPeX7Z7wQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "96 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726272,
+               "lng" : -73.986521
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fc094daef2afd027d8608294daf8ba6d80a51957",
+         "name" : "Panna II",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaBXjy1rJ2gLAhmMr1WY9M9Ow6xlmhWvwNQ-20g38bwSGLsx_yKJZ6lL38b4kTz1Bsg-k-mb58HHR2npeL9v0jvrkUGyVJMOVs4HLRD0wpJQePLLGN0y4wsqDqlALwGSHOuCVcAdcqAZbsxs80pEHkhIQMVkBwGIr-fA5Fh80qYqsVRoU4TnnZ15RFYL_jdptpOqDzpCdSdw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJFVfj0ZxZwokR7gVw3e7EqtE",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRqAAAA301u4wvM4s8-zhcZPsuG-pgYF7mgrAdYK-__q6UZk0P0ht7Sx3ThPy9Dea7BJfhUbgQbpx5TDfkg4vEj6Lk2UZgJZjjvJHchUm0ywJfdHykDcT7c2UfWx-VqTELrfYfe2en3dwX_NizwRjcSqdb-DxIQ9I5ry0HZXl80LGfgefd1fRoUY0D5bnrgaT6Ho0P62v58lt3jqVI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "93 1st Avenue #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727131,
+               "lng" : -73.988174
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f30c0606e96218aa280b934375fc2e8fbc2d54cd",
+         "name" : "Mayahuel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApoVs9pE0NXXs7of7y-WRLJm_gpjJqaG4ZJ3mx7eeAVF_jnDfQLyM-qxrWFFQt9sJ4jaiQ8doYQWo0b8qaCV1XPM0aioTeS37Tpmn5cIVb1WAgSRoW-J2i6nwVuia_iQ0wWf8MrKMasuWKRf5wQSFNRIQbmzYqb-VryhNwZcA8TQ1HhoUYK8Q6dhgrA1b0cpki5JJ-4jCEmg",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJJzCpvJxZwokRId5k9hJn_lY",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRpAAAA55fcWfUQ3fJDBnV_dTf4_mLt9witEHo8sohZzTlQtLz0Cf8uTbN-fbEdQHYmED_S68LxvFTdxWw5S4KJhqZKSnqF-SZ98Fdk0vq_BkvtQ9F86d-Uu9QqeNTpu_qCiZRSMyXTAG1pdpReBMpRxW2UnRIQ1ItK4TP28AH2IE2GaJxxSRoUqggijAoIdDwOf65xamJgnpye5tI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "304 East 6th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725206,
+               "lng" : -73.989786
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "20d2ced42f21fe5287bc607246e5e90ea4f69c3d",
+         "name" : "Church of the Nativity",
+         "place_id" : "ChIJf5yVvYRZwokRqWAk6AS-ja0",
+         "reference" : "CoQBeAAAABcEp_6zyGzKGrBM8ff-QLagx5UT1DyVhum7rafeG0NntSq5e2Who-8NBAVlGSOAHsy5WoXleyV6SHGNcvQFCqtk88I2NtFEGLXSiPRzP5ogCrIk3mU84bAvjzkrOzo-0ZE5guPkJeShmyXPY-TRmkgHF2kv4l3nMjLIzG0d8g4MEhDpXGnrbYCMZ3Qcs4Xdby9DGhTM912Adhn0Hzr9utkLoOTSnF_RFw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "44 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726346,
+               "lng" : -73.990185
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "e59b1e9599f8e5abf4ae25e4509eb35bc03f409b",
+         "name" : "La Mama Experimental Theatre Club",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 335,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeAAAANegW0WAer66FcLxXkXQfXFqHoECJmaRFpnTHXDt4rOJfiKfHmZl1p9Ni1EmCQDDvHWl61k0FCGJ3g_HZXETWcV-yz-U-ArhQJqbgjjfiQmjpUcBHmYBa-EauUa2rIjS5Q---B2Cm67zzSxLJpfmCiCjpO_iWr8zSq7wXECdbuJmEhDsJZkqJubqIDIKmXFjzN16GhSULb5qCWVql_KZr_zZAs6h07RtJg",
+               "width" : 335
+            }
+         ],
+         "place_id" : "ChIJXSootIRZwokRCvtO4dTf9-k",
+         "rating" : 4.7,
+         "reference" : "CpQBgwAAABUdROkZmGz_MMI68dVA3iayhf3q1Nhf1qHrKAdMRHM3DixnuQ52mZd27xycKozaEvcikrLfhfLVgWOwxtqohogIA4YVO40QuuF65pBk-r3kS88gS0A51doBQFvfQMzVK7DGIAApL7o907Xm_XwHciNH8hxsF5nczw8dXQunnte-Eqn6reqljWMog4oWclnUMxIQLpRE_84PcQifg12XfG1FwhoUd4OQbCY3VUnivi38EVrI7AOnHBc",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "66 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72612,
+               "lng" : -73.98984799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ebcfbb8cd5a9f4af0c11dab776561f1871d40682",
+         "name" : "Winebar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 219,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASJYP8g2zXzh6sXEx13uGB7aTzxWPLwdkNC1k8b2ETXaVM178JiTRpdOxrEkSV0NO3jKx4Gnf7JV9K-QfyseicjOr0R3R-x50t7iVelyW_lCt10vtFzvhoc15MU4t5kt0Mz1JubJOPro2WKfvzTiHAxIQHSAOBwWDZEgHRvcmjw5q5RoUkklyQX9vAcxhqEJ4QC6Dp67weWA",
+               "width" : 220
+            }
+         ],
+         "place_id" : "ChIJ-2_irYRZwokR9JeETzMKtvc",
+         "rating" : 3.9,
+         "reference" : "CnRpAAAASlbkh18YKQBIII4InBeUr9k3RLCnbmIDCKWyRxP52m6zedDCy23mcLawJh8Tvj1x6d_GoZtYFamMWJ6IQ_U9X7TTA8xMyuASqjMNFDJyARQNCrABMU2feQTNhO90QiObOty5p0RUgyb44JckyGdanBIQiVT8lcr8cn3pREJ2C3gQjRoU4TJGR4Ldn1EvKmWiAb2W0WyrNmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "65 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726545,
+               "lng" : -73.989814
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f16915ad284d8e2057e1f54ecc92655cc699a6dc",
+         "name" : "EastVille Comedy Club",
+         "photos" : [
+            {
+               "height" : 699,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALABsPvPyzUCnrmygXl0UxDvOw-JAIKQ6bs_dRxWAAkLltfJMnh99HqE1p2CH3bVD15aPDUuoUypsTIPPsx0xmXw40YmBrvfHhTA8pQpVPbFAUceXuzufIsnvpTttJInjohjWocqvYjTC4J40TvghyxIQVYASYvVxl4Wb39qlsYnJ3hoUigdZAn67wrFyMd6psVw9v_thB1Q",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJMbtTs4RZwokRceow1w0ue_8",
+         "price_level" : 3,
+         "rating" : 3.6,
+         "reference" : "CoQBdwAAAJgHUq1MTKIc7-e4rJOBm3mfDdp6teiKEXbW7Bgp7oZTPornHBLNFACUNsYTqbyeoGFZo87L_E2N3AyXBJROvEp7Tu_upY7iBwYOZUlfGtNcQ9ffX2tlc_cgqaNO6aKvmmL8jmCuJ7rqd2Df22lKm2tBgSqO938t_VVREm1dhTw0EhAnLK6XAO7Ut3IYnIucZAxJGhQphi1LrmVoUCadkMaNI6oVuC6g7w",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "85 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725934,
+               "lng" : -73.98917899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e096bd926395ee2abfdb1fd13fd2238fbe7e29b8",
+         "name" : "The Boiler Room",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 100,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAATtI69WJTij3IrGTmW7iYrATMiqWPQNbqF7zUTRS-EzbkdK4rk-v4k0FGC7UYtBIAtvsGatSFxU72Wwk96FU6Wl9xgRBgyM6Wpnqye2qPdobfaznMVlsYlRi7miMWHK9nxUwFrkpuQIs4HisnxQnughIQ7dkYVj4eJKuG8zki_pojhhoU3LDJDHfpsySX_8n9ZcR9VuEWpBY",
+               "width" : 100
+            }
+         ],
+         "place_id" : "ChIJAydFqYRZwokRo1s2sj0i4Rc",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CnRwAAAApw8r1-SSzwu2MRk1IC-sY1TPE6LUJlhTjOx1tUTo-5x6jYJ6QsKZPQcXeQTOfbHj4vzvNrBAPsFqMDB11XNBHolHRFshS3D87am0vk-gCK6DOA-60RRl0DqHh6wsXNtnqJl0KrO2Qmt3TKyzU2TX8hIQMEa5e9iMw2Vdw5luUgPxXxoUygac12aWeecffo8jyMwCmhc5M90",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "86 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726291,
+               "lng" : -73.986587
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d44b0e4a7c022a4ad5311024d2b94a0b73036d5f",
+         "name" : "Milon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5xk-odiT_79dBTObCYL8kiEJdp2vhy2t2kwiC-lr4Txzdt9wb3Q3J-rIjcIuNf3aomsDLf7m56euoF7jyjVrnxTVaia7-U1Og3HMkSkSvwzIY092Bryb6k5xsLMqqETGsz-J0IXTZZTDI8fXhb2SuBIQU_4mYqZtj5lyOVlB1xFWAhoUwtd-437zhc4uBinbyBF-BJw6pKM",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJFVfj0ZxZwokR5_wdiqmNatE",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRnAAAAWCPFACNyykeIltrop4kkkfNOHHSVQd2aeErdEx7ktZBhJYvzYGKmRIgKkpu9j32olMKbj6UuZ5KXB1RJCjPrvxD7Ay0Zquw2o63vRJNGPshKVKCI4TuKPQTVBW2rFbtDvF_hp4YNRoMgdZnr-ZZQWBIQJmA6lCYoncQDD_Y3LVmcQRoUEvlf48Iq49Chr-OV_2aXD8_Z-1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "93 1st Avenue #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727165,
+               "lng" : -73.98897100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e2528725c236554f814b1766e1a9b2592100b04f",
+         "name" : "Lit Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA-jZ0NimoYD8O4DlDhZ8iA0X5np14geY1vdjJWnZB8fs15hE5-Z3Ugzx8BHYCxPSIMDNlbrmZCQz74NY5VjNS6Jh12GeBAz0bHI8CYBwJySwAQS0sruPr54J-FbBuC518dpw4gOD0JYG4bMp4_FejfxIQ6b4PlbFRK0RjF7OPBJDSKBoUU57SXuHMjRD9tm3vcNoSIiqYvlI",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJGySJppxZwokRYFkfiLoAuf4",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRsAAAAXFlp_zF-nzPQbCsUtgif7vYopPY4ase1Qo02FdvoGlvTNyK6XvpHLa83Xf0mV6SoA1tg2rwm7561m22MBw7Bggpi8BsL9q36KeRG68Gv9ci3Wd0ZGB441xpdV2ujRQSbceewtvAwYmdO9i2knzeXQRIQXzVD8nD8b8MRU1rr1EmY3hoUB6rYy-pLLWkMZZ2DqO1UiA3MwkU",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "93 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725419,
+               "lng" : -73.990267
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+         "id" : "483cad7b883f6488eba8205c8717b96322b41ee0",
+         "name" : "New York Adorned",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAzUa3_BJR8s2B78R-Mp8OQSiT6mS_jSmZb2rPkBv3oXJVGdplhnWEzAgTyS8pdMdePD1oTviHDMpOaeJ0C7mgPv47P51uBIfdrD1l8F6tsQoOcf2xQ-GGzL4lWVK5iO90R9guCEKKy6v_OCn0GdNELRIQ1-DOjfYhKtQ4-dY4QcSm7BoULD2ui6Z2PJHlX8ar4zF6qSYRVtY",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJVR8Hv4RZwokR7XNK-tk7dU8",
+         "rating" : 4.2,
+         "reference" : "CoQBcQAAAO4lYiHg5OfMKgo0i0MYl-mVxb6dezcR9gor3yHDdTiLWskgvhpX1mF43YqBoUvKWa_5yXvmd7-HzijnIDH6Ttu4DKRRjGTBk-29Ec5jieBPbgFjHdSw0J2VKtE_FwqYmfvYp1_9Dkv-H1JfEoxzLDhVQF5u9EjVcgOCCIfAmsryEhAnjfQXbKaUYOJWgKX1DWQuGhS8GB9sLRoNTO35eN86DQsaWWBnhA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "establishment" ],
+         "vicinity" : "47 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725548,
+               "lng" : -73.98954500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "12a9f0d9b4158c1eac348b6c819215286bdb725d",
+         "name" : "The Bean",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJj5NGGukJhOhIGXFtyB3M9EPIT5RoOfokhNq1kXB-xHvoqm19W_ysBH-2DVi9D_0b0R5J_beN8crS1NwB46f0Jsg1YVAZS2vUci5NrRwxRdbsa7ArAM_Asx4RcL6xp9bjspaK7VBo2QZVv7bTyTFPBIQ8Dbj1onAbFItuIt0l_RM8xoUN9mo9EbRj2lhvSLWbmab_cVbrmg",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJ2d0obINZwokRw2Dgr3ME8aU",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRqAAAAEYs1savxrd9SnR24iViOwG15esypWlmW3lyQIw_SZU6nkgUAl7NYHRNTN1obRXuPHbMYuDBHeMOH5zg7n7MmwesVZ_AhB3AMessHdSGQZPayFfPNLUcFFRkigRKEL6RcbQKCMazFEETUTwA1V9CYhxIQiYka98HlYjAFJ5XHNVku2hoUWtZMANl7rTPjpTNupBGIM6Zj6Dc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "54 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBigAAAIHzi6TUfInEifPyuY0prxHOZ0_0u5be-Idm8eS2nGWurYiFafrwogyGdzrQ9w8UL6lkOUaYdM-PQZo0ervm27hVtUwVX6FG6g3OBEYVsaLgZjCFlyWXkO3VJPkh6rw-S9fqxgueTWDNx29-omLz7XI-HFZ8Mg-fZaM6m5B9slfhnu6jL13-HrZg8s_XgKicRhIQC-MDzXS9UN7Y3_WZ8DvhoRoUz-NDIrClqAxkNs3OHqbq8KjUKF4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

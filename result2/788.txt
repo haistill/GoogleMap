@@ -1,0 +1,403 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAN-mJLYc1WewP61Sgge34KPynjmAULnT3adKy1PM9u92HxEWoKIwfqg1Mmsp91HL5bqOBId14xzHMDIAkPcRZTTM_McF9t4nwgbaK23XpjYRIKLRqba8f0a_2eJfVSCIFz0CI212TexQYjFXpOyntnfxDMeRAwYySo7k4AR_j7GriZL9Xhy7k9m5YmX0vvi0KrBQASpEsiR1cIDRKNW1yP3eMQhp19-m7V3Ucq8hRmWniQPMZ48utqAyqaNsAPhBgiwykAJ8oBaqytllqB1sSqG2gXKSUVynV_i5hmtubXrNymFZu5l1s2AzGo9DYe1cyhIQTFsNOCsSOZRvjteN7cM36hoURZhqjjLe34g2MDgVgwBxbDT-DXk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAKGMepN7mWVlvOmvZlP3qPvyzIV-uGqnT45nH5TMxSqjQnEowZSygn27FUCrHXQJkKQNSYgR067H3s4I094_C8wKGSXwyoHTHIUMn0YM4sfSD0Ab-qaLEYuN2__3rsFnrmvAKrteXoBqXA4a_zGeNyobbq8_8VtgDb9E5YPHxbCvAlhkmkeHqRJ5BPOCeEgLWBIQ1iZJRaSP6RtgY_wg6PYE7BoU5ZdIloDDVrgMdkwFSCFKsj5u54M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82392,
+               "lng" : -73.939476
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "53248b5f54d3fe6dc7dc7aada5396fa6fc302cff",
+         "name" : "National Dance Institute",
+         "place_id" : "ChIJI8KG3H72wokREPDJMcYJRS4",
+         "reference" : "CoQBeQAAAIANsbkUDnwcMV7I_O8uyy4z5lMsYgDG228-biWW2ZCGvAdTYRUFDalP1_8v4Hsnoe9ghPto1JfCDXJtaJErbzgF6H2zt1wNdiRH6Jt2jpDXHwaISGoIUEwXr92_WwjUOOuJkrX8N59DP20WbrcASr1bx4jo1PhwEN8iMaYS2xNZEhBN77H6EWi-WlDdWH1DD8enGhREmHBpkDItZZitsrmfKWeT5gyZ6g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "217 West 147th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823221,
+               "lng" : -73.938416
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2218e1f73980884d06c67dda1776f08e96b02a9c",
+         "name" : "Harlem Heaven",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz7cTLn_2wokRQsAp3hVeCzA",
+         "reference" : "CnRuAAAAl-Cumxdsw9ppL18jcLCCfz-dcWvrWoNuj4vFazXjxBkOxNNtmYEaUcZ8ejEngk_m57n1PY6d5_SgdKg1norm76ekNFnN3KUn0X638HFf3dW6XSNfURxXLsiJvDj_BiM1fr7Das-fNrxu-WRBolDuvRIQ82vwkH95flfig2FarmDhMxoUXdq3KlxwPJ7WaIP5xsZ-7I-bdB0",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "2538 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823967,
+               "lng" : -73.93751
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b782c949aa0824c2f35319d367a99d78ca11631b",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANIT_FmHMn0UN9W_F6a5s6778_P-8XQiCRWVIXO4ZDfs7hsVPDSOVOzX0jzUYLgv8iq42LrAW4f1WNOwgWuejDdl9sDZ3Y_xpYXfzaiAq3OGeF8Azd6tzq4v8ZdrMcK61up8_syoEPvOrCXW9IPuVThIQpGC0CWspEA1kg_wiem97oBoUzHW2dRGN8qKKVO3vuZu2NrW3xrU",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ_7z4On_2wokRNKRJ8BFZ0x4",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CnRvAAAADLEIa8UXppCEtYxMrSWL_zAqKj1tInoz6pnfX0WgQQzhF7tnKSPqehi63NXKJyhM1GWX4VtFu1tkLjoTWYxytFAz3Gvkr30d5tl1PiyIyNumoqMOra-YC3YPctjDPcp8c7rvRJMcSLNxg-CAevGEFBIQCc8lRePJIBYQLI17AAiNLxoUeV1zLA5ipikk4IyjOlKX4xTVvcY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "2554 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821263,
+               "lng" : -73.940742
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d1817d6ec660e56b6bf8a8d53adfa8f78f6f98ed",
+         "name" : "Harlem Village Academy Middle School",
+         "place_id" : "ChIJGVvw4Gv2wokRsoqeJyCMkbg",
+         "reference" : "CpQBhgAAAF813-s7pyJjXnZR6iZiy36_5wR4O9agtQbyE3br4CpiLCQThEIkvlrKD9KsetGedlqe7aiDkEIgKFI0dCa17TnryHnArDYhiFXdTCOghxpu5BaOmGlN3lZypKOD2JPWqMNcdDxGnTmdO3NDA54H-hGJf8Pwk4fQZcNjO2488wdBd90DiWu2MgL1W-_TXx4-nxIQrm2xWPJV8ekVzfKcPQiL1xoUHcYXNRWxwm-3LshfANAg056WGVc",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "244 West 144th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821278,
+               "lng" : -73.94073899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5c764da69addb5d6319f69b0a1fda85d5aba126e",
+         "name" : "Public School 194-Countee Cullen",
+         "place_id" : "ChIJC2jybnn2wokR6KBojPIhFW0",
+         "reference" : "CpQBgQAAACupWPkIfYDM6no1-hZ6SSDdf073EL5dv5FJZUuj3QtvA2IjOpIRB0KMv6I4q9ibrIY7GhX4UuocBkSGRIEHxEKaw2iKg-X6reJrxfeGnVQkpk-2TikbqkBaylCH7TV3-GHeItdeioTmjzzwZJpqP6lXhDIBpzm6P3aKzehk3nBs-0bF2-aCkU5m28IG1lDb0BIQoKb-AebhnfOZdbF6cv8kWhoUsa_SfpW6rIZfj4Q9lBY9zbGxlug",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "244 West 144th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824463,
+               "lng" : -73.937394
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d496f55b0e1dcba1dff92d736865da315e35a46",
+         "name" : "Dunbar Pharmacy",
+         "place_id" : "ChIJpQ0kbX_2wokRNBPR0_ULSuE",
+         "reference" : "CoQBcQAAAAYaYC7YOAObbW6B29_e0lVG2ZOcvMYXUeQN-X8_jII2d0JTU3AAvv5SCWaMfEAGKe1kQT_uKiCis5zjSbMr7PDY8c620gIg8R2RuFL_xaCfgtdRPp5GeB7fhnc4aUaTMyfSDizX6qlehyl6VDc9HGEVuPt7_zsrx17rAvj9g6aUEhBbUwpeMcj4Pg1Lvv3iNg8yGhT91P_jS_uZ5cSEsWWynCJskpyxXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "2580 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824012,
+               "lng" : -73.93943299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d8661fd570b4f9cd516699447b81a121b38382d",
+         "name" : "PS90 Condominiums",
+         "place_id" : "ChIJ5X2A4H72wokR--GHhLWGKjE",
+         "reference" : "CoQBcgAAAE6Ilxv9z4uMHwRHg3hDckjPMSlzdyaerQAfV3IN4Dab9SDGBnQTBmK1ussOaal_6NV2qX_JS1a1zTdQFM7C5-Ogf-mJmXFP9db5wY3W2h55RH3777M1bVHMU1En7JLCp65VHasbJa9C8r-g9W5EQ9_yVpKF45Gd_Y1uXE2qt_9HEhACtVkTTZsadTiXryCOyg2TGhRrkc86b3tOuX78MaZ8sdxta6UCQg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "220 West 148th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821348,
+               "lng" : -73.93886000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ef3fa66512b1d2ee7c33a475d68eb4368b864190",
+         "name" : "Fine Fare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtckOHnn2wokRNREpX3H2XgY",
+         "reference" : "CoQBdgAAANo20woys31a8tJOznDpRKCkeIIRL398z0KGCpGVS9Ee_2GK9lCerA_lizlNlcDD4070fefDgUdi2b6fODaD6ZKJ3cXKMvgDhRA35T40xQMefk2Mz7j3QRhZVJuTNDOHYUsDHOegXps3uJmjqNfAOEl8pTOnJaOSSbSPrxrt2dUhEhAp-5feI3zjz89_IW6WuZ9PGhSzue4f5Zdq0sY4Bn9aXbruxK0yUg",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2497 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821841,
+               "lng" : -73.94123500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ea915b70bfb56e736789fc4ad4f23485b0db01f",
+         "name" : "Ecdo Daycare Inc",
+         "place_id" : "ChIJfb5cZnn2wokRRGuDPDF7TY0",
+         "reference" : "CoQBcgAAAD4WDZUKhW_MG8YygqRegtmbXvEGemNGrjA28GIP4epXjRbIWD2CVLy1pbmNBtLXq6ImYyTs48EZaYVT1WeumyEy6lGBRISd0Jk1GeeZMYwT1b4VkMA-YrYUlMsepMi7ooRudSRaEhT6EGt8lpvm0COLzIOLAqHuBcIlaDrbk9bdEhBzMTTq0RiedtKerJUC1IWHGhTwur-E3y55N1pZS4WDnKEbt9B7mA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "249 West 144th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823437,
+               "lng" : -73.93730499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8929a4c098c3d99ad28c9806c74b1499dd107c61",
+         "name" : "Bright House Cleaning Services",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2011,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAX6TwfpjDZrhY6vF0gSuORouVL87i_bSImAri7DZffI9mR0n2fOrLzDdPk4Ldeql3yMHOkFaqpif-leASW0Dj1q1791Zl-60l7Yan98c2xOgbeQcadnp76fEW8Kjla4buHjXGNlM2lIG2yg6waiYNEBIQ6o3tRhv_2DxC8OjCxO7zshoUh6t4_glo2WeIOf2wRb4Q_bi5Tuk",
+               "width" : 1491
+            }
+         ],
+         "place_id" : "ChIJux_SUH_2wokRiiHSd0u19FY",
+         "reference" : "CoQBfwAAADr5dOXgP3eDvVqT5PDKk4MkN0gh_h3QkZPrIfJ3Yd5YBAhApAl4PXmCGsK59cY5URkSYXY4xAf0UKpKJrho2JF1XJgYrvAFdCWM5XgJKkCJRMeL-7Y2_rEaq6RyOzltD4866R3qZq31fer5y8vIi3otebd74jY4lobtPFRHVPiDEhAeR5-Aq4W_rK_KsuuFGFnMGhQFU0yN4IltERgfVv-Q88f4JR9udg",
+         "scope" : "GOOGLE",
+         "types" : [ "laundry", "establishment" ],
+         "vicinity" : "2541 7th Avenue, Suite 19B, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821263,
+               "lng" : -73.940742
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "42a5f592a6a453aa60ee0ec91d05b6887b866aae",
+         "name" : "New York City Board of Edu",
+         "place_id" : "ChIJV48QYHn2wokRtKBjXkvVFcA",
+         "reference" : "CoQBfAAAANzcB9QE0ICWgXWyh_8Z3NRzI3nmsOkDxe4ZdOMVRR4EeDi8I6ZhxG47ocgt3hqNYF2UAXWP07Ewgk_hG0ZO0eamHgHlLGJetrvv1Cv_Pev5J5jGhIafPZi2Y0B2MweXg3J5GnbbrfULyTXGFnGspSqJAiDe5oBoiZySKn8-ymaVEhB5NwzoJItav0AVOvxRzWS4GhRGhIDW9JS68UKKZ2_NuGU2woPCSw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "244 West 144th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821927,
+               "lng" : -73.93926
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "93cd639bcba4da075b2c9d52785111e0eb312d58",
+         "name" : "RiteCheck",
+         "place_id" : "ChIJX0OJIXn2wokRVNR4Gqt9GtU",
+         "reference" : "CnRrAAAAxmCQGxd2DCJEX69cq4jVf7AwK1KDzPBVlzyEqd66YUdsU9Wl7P5zeaugW5qKywIRUITQLTPDBVHrWZYKi82swmlIz1nSVr3SjjxT_Osgd-ppkMxUygVM4U50cHUN5Zik0FZ5BSs5ZhyUC7gjejO1eRIQ36Ud0G7JdT7HI1F621k-vhoUmYFwvTWWWGyJ5SYVVAcdaG0X3Gk",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "2500 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822155,
+               "lng" : -73.94087
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ed62b6559839ad220b4c4e6b50c945c72e937ed1",
+         "name" : "Union Baptist Church",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAbN5DxCZHYvu1GDycU4kT9uUtdjGu-1tNiKIcdtWC77sx7vI8xvY5pGRmVZBrC-7f-bRGJsXTLp7WYSf7p_plXs1MkREnjSz6V20uk7pUbp0C_C7aP7ULBsCqNBlrvISXCoRzTQ44SDuwLuEzqPaypBIQCUn3Qj-APRuxL4IVY5yMORoUdKLnlbGarpeky1Zs3GTnF1g2350",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJ96ooRHn2wokRszmr1TKJkro",
+         "reference" : "CoQBdgAAAMDd-tkseHkwuqYMpWpjxUN5hFB15o-1ejXMXMG2r_wlb00qscSiRY31GUfQUOel6dd-deSwoaGndXNX6A04cWn_L9Mhb_VGm7bc7pR18ulIZy8iOCJDGTVLGvUalr74WOzLndv0XrM6N7SpJgNP8Nyb4BJRwCSKAo3qCFtRZyWtEhAjSv2BaXCbPktSyEaNGWDGGhQrOC2_OgaF7ZRoPdjraJUiDnG_EA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "240 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823391,
+               "lng" : -73.937382
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dd1121938b240b4c8d5c5ac298d093d6df8552fd",
+         "name" : "Assembly Member Herman D Farrell Jr",
+         "place_id" : "ChIJux_SUH_2wokRGJRnqv-I1WI",
+         "reference" : "CpQBhAAAALfbzl39Odmiafv_uSjH3cG0j2kserOSffI3pwuOujquRQSSfYx5hUG6HMxit1V6vBGNhHgrj_n4jxWQqzmqq6-Jr5uvbg1C0JzDzU-WKLvXlTGTjnX4fPBcwerIK4eejoaA9_7vvNG6qDem8X7xZYL2GzS_1XTB_yCl2SV7Vqd0E-nwy01JRK7znmEtVW_G6xIQcw-0DLBb-hJDkPv9dd-O-BoUr2pWISKD0OvT_p5PlGFmIR38P3w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2541-55 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821795,
+               "lng" : -73.93865
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d895444b2f74c9f54eac60224648df528f207753",
+         "name" : "S & K Deli Grocery",
+         "place_id" : "ChIJd2zZD3n2wokRgpUPbzoNOu0",
+         "reference" : "CoQBdAAAADYTAdznettFGWX6BpE8NTCvgENeDL3OKjst3ubedfYYTAxjwCLJkh8dAmnHMWyo-I7h7Rpv7oY2XV-xgSjpR3LMt0JHwAIotW597OcnYcSZ2k-IRvZk-egOz3rFU3N3byq9WjoLDW8SeX2gQUvAXX2GcusRfTqcZf0HbFHxM7tgEhB8ZbPU0z0Cs0uTfoewTWpqGhSovegPVwAcncRQ9gKiHBdZMOqvOg",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "2505 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821786,
+               "lng" : -73.939916
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "43d0662137f3548bf8334ce333b5b670d32bb830",
+         "name" : "Radio Church of God Gospel",
+         "place_id" : "ChIJt406PHn2wokRnD0SOML_JjI",
+         "reference" : "CoQBewAAAGE9WkH8D9Lc9t_el_f8ANpOyFFXXkcNlK7BgdFOA3Xug8RvxRc1oAfDqjSlPb84VsCMWeVUlqczQLjM_TRukC3Ab9BmL2HLZil9IT6KTSdEjLDgD2AVO2EzGk9JZBCytfGpqV13I9_CHrEtlpS1NP9r91eUCskx5oCO74DP15TiEhBj8bfCzmNL5_5b_IShNh1AGhT8ohgVWqb7m4b9FvH4KY3eixw01Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "220 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.822213,
+               "lng" : -73.94113400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b3d786f0810bc110b2491bdf09bc1f38f8d30586",
+         "name" : "St Paul Community Church",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAc-XiFytiClERsSAl6u4oU2tN7TbYqYmozuCa0Dfv345_PHAMJNjOmzPDFH59LYKWQ5ktqlKCtdzNIpzhgkkNNOaabCmklRGGHEDPxhK1zlrQE7UDJO4wc-feip-xSShAa1CG1NgXbaRuXzNh9YE1MBIQvlvhRuVZEloepmbFGhRN9hoU5sVZieG_JuCFlP_Ic20K-1AMZLc",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJN9siRXn2wokRFbNtNU8KAR4",
+         "reference" : "CoQBeQAAAFxI7aJq1qPca5iEnRM8IVpqK5MkvuCEsxARQX5aWUnoTEs-od316Imnv_7NHRAzOL-Fm1M6cslCRCaxaZchwgruy1yIhp0RZv3pXOSOCGOE-8-Peln8hN78bzyB7BccHKq5Tc6_g3TxRqi6RKPrfwP7o3WG3opSblqFKXxSAGhREhAtdj9qYfxB4zDx_seA6AyzGhQVLqxQdwnhseGZur-GRuPgtZOVaw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "256 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.821827,
+               "lng" : -73.940265
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ae3bcfb561720124f39b2e9470cfaa4cb4b1d5c0",
+         "name" : "Crown of Life Love Ministry",
+         "place_id" : "ChIJbTC-Pnn2wokRXeAiIXVoFCo",
+         "reference" : "CoQBfAAAAMDycegoOxgzcrP6V-q8_oD29b-NiPc3E22Nif0-dhIxZvGKpWKVXkAC9iTNJJjm2WEVmZoxFMT-6gEPNJ64qWFOMKN03icD5OK0FsR9RisH3v1kCHgUPXoBLYgYfL4aq5UCuYPfQ_Vf21y30K9p8o_VEgRL2SarqlBTV-0ym7zZEhAokw3g5fKqDj4aEJdWQ0uEGhTXbgRICZutmpBz6_rReJJVb-RLTA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "222 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAAdH6I6TbjQMJa-EozToW6nvJRu2g4J6ek8KdvMezj9nJ4EC8Uwk6mG9xMQDo239QPmhWXa9KxKme-eCkhK57zz9tSD-vZYcnIYLqeTBJpC6Gij54tUfZaWzp0dL0VVLQYAwnEene61190LMLuI7C902aWgm6Le4Tgfv3MiC4Aj1ERMRrRqd3FAO8n_rHal70hIQtnCxvh4NOFvONkpOI_2z0RoUuZfua8h5ejCTWjxvtdIa--wJTY8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

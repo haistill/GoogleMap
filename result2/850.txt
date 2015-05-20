@@ -1,0 +1,529 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAE_qM-fOY_6-38qfNrOFA0QJiJSn9h-em3pmkyYOkF8gTcvXplVyjrI8uSST0gOzWhgRG7NGAuq7ahB33sBO9ZpC40Q4lTRaVjGlK9qrW-ndqKW77k3KjslxCxKtEXfqeQ6tOlTr-UYDdv5qrdAUx4ionVe5IlQJ2K6qdJlhhOqmS1CwT47q1tB9-fghygobO11W8gzbk5t5J1j22oreXj-7hxt_8PfPL8iHuK7m-3cfZ-64NSYKmmqzVlD5gnz9RgfCzOhIV6QEmMgRNL_KRY6tMKv65k8RGQlFF1Bl9NQeYCmkf0r5gExLLgBH1QnKPRIQmHSypPUXA-OQ4PsIHBtOBxoUqt3qGseVr3TjxZLPKhO23mcuQ_k",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjgAAAPdWWZduRxO5jADOL-aoYzpzIdDm11yOEpW44VxmgYB9gQa8nWEaOJiDc47eS5N0QumVgInl6JsLC3zfFzuY9KWkEh5SGPsasf8NKsngcwAXUtuUJSFdREOWvCSqk98oxZfGIRGEJGjctvsYhw0TQhzlIdCoyrna-jwqvXKWpkjVC1Gu8Y8QqXbsKJoSRsjrWBIQV2O44t3aEeTerHq6-QUHiRoUJMMzLPqf-0b7Ff47P9MDXzJdi5g",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825613,
+               "lng" : -73.948033
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "f9edcf3e4a4625f24fcf69218c6169aec832cb88",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAcOfEjDEXka3HQzzn6YlghqNMWU8t-tCXTkAB37LGeqhljXQXITPZNM4BCosGkAldEqyTPmn1YnR_l04CMB1yuj04uoJBXmKyTrp9fdCmRyyKvZW0SldDZGhmwXiYB-i2cesCA3rP0ZSwSDw1Zu2L4RIQKBByXrDLCXpzGSBcFN4PXxoUdF-KVZduYI4LxidD1DSH0sCMLH8",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ_TomNGP2wokRlHesGhcKQfc",
+         "rating" : 3.8,
+         "reference" : "CoQBeQAAAEYRwGt9juryifGRGqkPnSusKmAp9IPwCwsdW7QpirQTlkkIKDyETzb-LLo9pcDj7It9snEt6QiPXv3SH3UQMT8-HLMaJBPzRvaLG98Tr6Lx1OMdl-qecIi57n_zPvGVdUQ-JEqv1nqO8R-4vdfNsT39p5lm59PxNPylmyQJxfgvEhDPOlp0IYuXujxbzPONuqe3GhRgabMfi-c2sefEdSvnLcn7p5HQ2g",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "503 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825976,
+               "lng" : -73.950352
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1826d5a663b812f5c83eba0b8df46503f43941f8",
+         "name" : "El Morocco",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 969,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAPoh0mcDcIRhCz3mH3pb_FWJHlvblnHsWuxbCEW6f9q0vw1TRykeW4IK0oJdsMUSlt7TM76iyS7JT7SXgtAhx6ifN8im3GFWBjfS5KZoZuQu7d03yVwfRObsPdSDm6UkG5aCKqgzjSHVc1NEoQbs7CRIQdCoQ5lD18rPh1fqO5od_qRoUKHiLl5yMQARJOGF17VYT2nN8Wr4",
+               "width" : 969
+            }
+         ],
+         "place_id" : "ChIJHcgfDGP2wokRzhfr748ppHA",
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "CnRrAAAAFiWiiHHxoeGKK0AA65Lq51FaabZoJ1YUD0unKPKCVIad5yeewZvri1YdewfRiE30PmAfxQLCFDgIDN9Oa3kyw3HZlW9q_Wh8XYHSvrbwR7AZ-6yHp4YYACkQZx7Q1x7ar6rbwpX2TD9UyHtarqsXmBIQwvBcfEYuUygcBYCgn6bCrxoUHf2Xno8MFPX0DBAVdw5mClANI5Y",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "3534 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826809,
+               "lng" : -73.950658
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "7999810cd173d5383caf4107c629c1e9e4ba508d",
+         "name" : "AT&T",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJddjAAGP2wokRwLLg9mif8hE",
+         "price_level" : 2,
+         "reference" : "CnRlAAAAKoLHiBdiZILGJDYMGuPKcVeUGRHBSeBRBCWkJrZhL3yS9nYWjUsOWSBjGKd-5PQ2zAeUgteIOHFLl_FXAZb5tsY1wKT06GOGs-yBHrLIdrzwC9LX_N-zun1KDW3ctZjyoIYuQ1btXojcDJhobpzGXxIQLwf2py1T-j_vY8OFX9UQjhoUbu3OJ9UQptL8KvJK5Cw-nBMLsfo",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3545 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825487,
+               "lng" : -73.948965
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "212fad744072c7d7a278a4cf78830fe116f5837a",
+         "name" : "Bikram Yoga Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAw-5eswqhxlKJEXCIBzUthjzXAqgeEA0zh82eDqzC9nRUAONsgJU6uoNljN9Ju9DZ3jcBP9SoCOsUBtsylgt-AeYyMqBNsakSiag2mMLjmrkMy7PoHp4c1BkkBZg6oREvEZgVs447L2l6co_dgolYeBIQhZ61a7cyFsJqfL1ErS0YSxoU4q65P2VcR_Q-j09GlHE2_8R7AJU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJPyMmOWP2wokR1Sty2XJ1tuE",
+         "rating" : 4.6,
+         "reference" : "CoQBdAAAAGB3MR0D8katmDUC0t4B9ye5f84bt1aAeq1P5msTxTgtxGdXiMYFPM_XXgv989juAiE18uycLnvjqVOtC4ZU3f74dz95Ux0v8HY1c3SCbHjOMN6qgObtzkQCGbqcUDWc2zR_HRumICdGwfjt4YZoSeQI43sORH1jLqQ6p0dpw_uCEhDUw7VLqktzOTyf9FYUNDwwGhSvSWan4j4528IGY9d_g159QPzv_A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "518 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826361,
+               "lng" : -73.95088199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "383567c19e2b3126a90726854da1a6546107be1d",
+         "name" : "Rite Aid Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 89,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAIWyxjVy1UsiT7MTsqm9sZEogQqiZEwRrK08_0wYR652OxJmFAyZW_8pDQXMIFJ12ZkRw9EzpatzNWtU9dA64KYoSzcU8SoDJpZfnxUmU2Dt8wEAlVBPPsZ75Fzg-4_cIE7tkBARq723A22Y09jsi4BIQizBNhmMLuOrSZE-VLPA8ghoUSrKRQKXdtlika1JvA8OgHE8_Yqs",
+               "width" : 109
+            }
+         ],
+         "place_id" : "ChIJjzLqB2P2wokRsiwVGUcV72g",
+         "price_level" : 2,
+         "rating" : 1.6,
+         "reference" : "CoQBcgAAAJvhzS5hlDiqGZ-Pwc_qRv9oVRWKKUv0jlC1_aCNgaKj8bmvuOeIw_OEvp4p32ho6jXtJJTYl7a_zLwNzHHnGs_JSYnEkxLc86xmk342qk8eicycCbaUfOas0er8lqlO2kUEpwI1wN5IDRf4lZBXUolZgJokhWn_re2ToG35dgbsEhDF_l4u3UiiNXKvZyoeDSVSGhSosEVgv2dvisyqhlAq3VFJDKkqtQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "3539 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826606,
+               "lng" : -73.94838799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "65017a52237546fca6317d2d8eeb5a965e8e0168",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJd1EvKGP2wokRa5WepZ_TWtI",
+         "rating" : 1.3,
+         "reference" : "CnRwAAAAS_isdBuDHlftbLhgR4UdimAp2pAtPESoeBIARehkvuhJfhT5mCs1e2A40tpDZQqBp7C6RL_sELTy6qXIKP2apwSR2MCqX62oSl6mS2Et2UVacJsrXbNngQhnu3MVjHdZJ0ADLlFy82Mv2xtf6utG_hIQlA2Uer2hHV4qtdq_okr72RoUp8C1ijYk7518esQ6Wet-q97c3fY",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "521 West 146th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826425,
+               "lng" : -73.951134
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5da5bffbda8ee7b60a625a98fba3f2373b19ff5",
+         "name" : "Caridad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAxY6KAdl2UAV-c5zTpMm-HsQ2QUF8p9MsGiHItZrbaMebBKOajwBfDxUhXhW8Ik0jLT3-ytHaeKEMRhMh5R0p9Cg5V9d2zmqqTcL6NcGc6JUlQJT99qUmja8ajJaMfnDDbn-lm7g0U6FdCeT513YMuxIQ2pWtycCRupSfKyE3xiMgwRoUPjnM0JfDeiZUujE7KNk986FLIWA",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJz6dyp2P2wokRiQdayjc8crQ",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CnRpAAAA0G56NVaeJxX9sS7TnhgseJLzLsT2xJ6kWlISMfk0ZiOF7pE9bNxxEI3LRUdTW2EyF2pbj0bXJxr8phBuVPuGXof8hKnZ78qW6HKvDkzkSryExc9qgdUrqeoEgYMqfaIk7Fm8PZ6QTaVxJ5Lm3ikMtRIQEl-6fkAQCeN4h6JAlvspXxoUqLEOhna7WXD6yvrk1okKi91qdAs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3533 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826727,
+               "lng" : -73.950627
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3c3d085ff72b6c56e1087b20ef4cc926d2ff7f7",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALgU1rBm3G7_CRFNWkby64U6WvoWxqN83aFRGsbKvlWjSLlpxetan-nbnzoODnwb_KkYYteESm5GLuePaIR9Qya18Y9TupiHZbQkVO-DYM-ks9wEBsCHsedxAAAm6qR62py4w54d7OBhHQg8Gsb4Z1xIQBHp_BthxApPljrvLaBfCJhoUbOeZtSf6xe5XSGYycZUeYkMm_2o",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJhT6eMlZYwokRlm7KA_UnPAk",
+         "rating" : 3,
+         "reference" : "CnRrAAAA7HpyUpxiqK65REXBsE_nBQxIxYrAJPRxItIeHfy7q4-Mmg0707Cxe7lMXc8-bsky1rWzrSWzm6fOKxe9kVOZiE0DMTTIF6_LdQ6O7RqaAcL7-xYPLUYGNN4dovRYTFkGCQ1sWPFel9jfWiwgDNwWSRIQ7OhbvjakSvHfElkOblE4WxoUS_NaBZ-Gqpe0rVCOzx1BQ4z98MA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "3549 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826775,
+               "lng" : -73.94982400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "329a68cd9389caaab3b4108589c274d4afeb4d22",
+         "name" : "New York Fitness",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAAEI_upSEDdQFUdpafvGzjBXOwswCcn8Rnit29Y0HSImtrddR-D6z49Qv0KnFUGuILO7WnatFYPe-B-KwSxGPbPaKjRn3pvCWPewVwW9httZCmG_kywftwK3EiiR-hPdtxgLqI3zeg0P8yEuoVq3NWShIQ6zlijoxXQ8j5BeTQegT-qBoU4ZEqULmUh9laZesQ0paWMgEGP2I",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJn_U4AmP2wokR2rvnLwA-3qk",
+         "rating" : 4.5,
+         "reference" : "CoQBcgAAAFjHFdiO3IIM_04WHJ2hrdOxIS88SOqM1JwZ85qegux03QlzOmPrMh31Dc1gex4BN3XSg8qhdQNld8LNOIt3z3txm7C6ivfyS6pLwhZRcZ5SDAlewdwnrX134DmOKST_DEow8o5tiUkrDurSWwdhQk5juCpNfc8ppPuN-_p58VnREhBG2OGg5ZHquR08unl_GQ23GhQ-8SSGAaGfne_4Fi86RZf4x3gi1A",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "3550 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825861,
+               "lng" : -73.948561
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d0ed1bb1e823ff997bdb63a4e33e5a6eeba17ff7",
+         "name" : "Hotel Caribe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA4D-3wzAYhvXnfAOZQKcZ5m87VsHI9XB_z7Q4-Bw_SLSU6rusZWYsNdLZWNGuGOpgdRsQmOM7sbVxBQE3TDCSfFt11XKjC5CHJXkjuu9QQDYG9F0Ao5iWqHwfrz6LFWretx5yzDQQXSbXtUTO8ZgqHhIQ7EvwsY4sZqnBeVhlybt8BBoU4lJ10SGXtp7OK7O3I0YDCOaH_m0",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJH_14OmP2wokRR_gYOjTutV4",
+         "rating" : 3.8,
+         "reference" : "CnRtAAAAVdWtECWMOOo5IpHMG1N49Fy66N2UfC2Qa0BjMqwT-IrBuigPBGdw3lDn8mILpLu6zewX1t0ZV6tj-4ln4GRX2x_RX68E9fGPCcbLEZ0hqKa0f4sAvR-ci1opgDA6vfBhYXZ495pvi5-ezOqHTrFCRRIQ_Wtyb4gnvfKJTp4VP7i8ahoUTg_imXaE9Q2eHK200u52T6xRxoE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "515 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827458,
+               "lng" : -73.950322
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a7deb8c28633bf6091f3209c52df936c660c0749",
+         "name" : "R Moon Associates Architects",
+         "place_id" : "ChIJhY68BKJZwokRYEGwOaxmcYM",
+         "reference" : "CoQBfgAAAPGYwI8Eg9Hm1p-mjcyV1zvjwZsnRCVZo1SnAR4JH_cr5uVabWw3n7oauCZrm5YcD_Pv-iJjGxmEAhUb731qRNaiom3Hojkp41-wC1zicWzjLPiGNea31--OLnCa-Oz--8S9lAxNRzkTaR-qg__vFeQXECgFuKZvsTXVd_k93as7EhAlZojCOgU-C3rK1DtRByfjGhQQil2_P8Zm6HdUSbJPjt95L4jsZg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3569 Broadway #7a, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825262,
+               "lng" : -73.95205199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "97259314fa904bc3fdcc5f7af90977203e13fd68",
+         "name" : "Kumars Multiservice, Inc. - New York City",
+         "photos" : [
+            {
+               "height" : 254,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAU91ZXgjaJyjqohtEqH6-x5b8KBCvzFimyAL2yEUI-ewh6l4aYJ9UW6ey_mQJhoblMPFQAuyayCUrKb8s4ZjM1TFC4thXp_0nclp8h39fjmAMxNsll8AZsH4KZstqNsBQQM1oGZ-7cVZWlAcDIrNqtxIQeLxH_6qP_bTnR3guR766KxoUSvhimKrCi8buUhvafh9icx14YRA",
+               "width" : 277
+            }
+         ],
+         "place_id" : "ChIJK8zwjWP2wokRt0grUSDke-g",
+         "reference" : "CpQBiwAAADEn6oRnnEAP_ObOMR3rlTltfCDuYNou0LTcgb3K7M3LbvJJwdV50hFIvXfsSzUdz9YyNMZn_btMuQUORbGiUV3XqphlFsOQtc0yxdykJMFZNf_Q6DvVygPLQuJG9PRER6PCWvSRd6Isy5WhH3vknmVO8Nhivob2AN4A-qvuySUhWEGrORCaRDOjh0RXfVuvaBIQc7vchnCop9afOyImBYnEuhoU0zyDLcvwB_Nq73USZ2FB2UB_cMs",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "accounting", "finance", "establishment" ],
+         "vicinity" : "604 West 143rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.827021,
+               "lng" : -73.950677
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4e7147693f3f97884b787478bbb1e0456a6c19fe",
+         "name" : "RC Van Services",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 211,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAx9_rON_xDpfLLd1tm85ekA5_ffBygHx-8K7XaOpHkFvrb5ZWQnDsuyKtvLknTWl02Z5DiHoVsW4ODa9ofHXg2CiNejfhXFPaNc0g3JPeRMXdy02Ka_llOXVNmMk6y2V1YMisRWMJzRb8Z8GsmHBsyBIQmrpczgKT1CdrVlfctAgnKhoULNG9XHxLBAztcl9hkYwpKQKbINM",
+               "width" : 228
+            }
+         ],
+         "place_id" : "ChIJAQAAQLBZwokRk_64MABg8h8",
+         "reference" : "CnRwAAAAWlN1SSS_MPXTgEtOp4d1AJE0zyU2bCucuASwyBDkV8_5Loyl79-cUSWYpVocysemo4Z4bAj05Tn2jYsx1Raw4aEkSupJSr0NIvsVLX8SaJbEYMt4R7LzmKJpUrZyA86Jw30kJsYbUXXkPveulXsRtBIQ4WQ7ttO1Fx9uI7PYn6q1eBoUeTN0ejMUZv2x7AdmHLAszIl5Oxw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_delivery",
+            "food",
+            "moving_company",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82644,
+               "lng" : -73.95047
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0945e27d1fd96ebfcd8e14b18e3096d9d5c217d0",
+         "name" : "Game Stop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvfsLBmP2wokR_zAcDW7idFw",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRqAAAA5a6vi00OIBR6KvxYnpWMZJH8GlsGDWOZTpCDsjbj4n9GaIXl5MKckvhzjYt1EySZTIZZauNrVGyajFFcN7V6J_lkzdIo0Mxej87TVs8l3W_i0M-3njWteWNSFaHrryMnKpcVd1vs-jMtTi5Uerqc7BIQYd3-GvCp8FfUOReXIKKRRxoUX2gwt10Y-ZLJ9Toc1OOCFCV4yII",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3540 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825428,
+               "lng" : -73.950821
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+         "id" : "73fe3bd8da5a0e2403e3fae1449861076e61ed4e",
+         "name" : "Diamond District of Broadway",
+         "place_id" : "ChIJI5fwnmP2wokRgsoWTaFUEx0",
+         "reference" : "CoQBfQAAAJM7XpA2w1mHdlohKuBd_RubPXNMB0G8Fo-iLe3csb5qCKqf-q6yGO7NX6vdvW2ZL5nJunLoDUBw9ZpIIFjPPTNKn9a_pm6EK_ZMevqPYnQ00JUWuge1Hy2bK4Oe9AUbWHmvJeO84cdfnPq7mU5ewh955FS3VSRtKxlyj0kptgX8EhDtN8o9R4QU3gopWG0wZP0dGhTxebRyPMA-mykx2qTJ0GvWGrVSKA",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "establishment" ],
+         "vicinity" : "3516 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82564,
+               "lng" : -73.948099
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "121a8ae7a55b54c5736493cd180c539a95aa63d7",
+         "name" : "NY Public Library",
+         "place_id" : "ChIJ_TomNGP2wokRXqPg_bUJFWM",
+         "reference" : "CoQBcgAAANFz9avPTqQRNNFq7D_v_-hKNb8c1uyUm8GcZjAqml44sFeNBi1ycP-poaY4HthCEz2TADC9WVEhpTiaB7VImEo_Q6AnQR5Nw1r72W12H8dK0BHkmyWYjDQTc7qZSahKuaZRUWVXmRWZrzTWIf6i2HWsAhbm8ZbBFXBJUE76AG3MEhBsssaIGfNcberB1nSFR7taGhSOMVZWTgpfw7y8fh382hY-7ZfHlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "503 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82686,
+               "lng" : -73.950585
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "c89c929a9ba6fb4ff07832ce1d9147f80c19f7f0",
+         "name" : "RadioShack",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAP2tpSassTNH9tV0zEbRPHcNrhAH1jLM_47wpJ8f7JFqxL8EmZ0YvGw33Q77cupGqgLr5O2kuQ_p470-m85B8GRm5PGs5NDvtBf5yOHPQUsAp-M99jfOV4wT4kH3sWHcgsO3nVB-7TSB7KlYk5DimYxIQvI02HibnqhmIMStMC-Ib-hoUkypP0COw1mS0Vpt8gb7I9BBGG5s",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJnRTiAGP2wokRoTMwZmwvqXo",
+         "reference" : "CnRrAAAAtJKXybrWxE5PGLWCUoQ9O6jm78gPVmnRVVamdwbnXZS31SbqtJERqHT2kEl8hYTZcCkmSLyTRV1D4fqJiSlJy6gBgizEUKC1noQqHv0rW2_vIePFSsAoDyy-ApoeuW378Y8HFyq_HbGvgCdU6IY5ahIQaJEgES2fTla017XjNgj7WBoUKVpxSf2df-TuTICVaqHgL33ByfY",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "3547 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826491,
+               "lng" : -73.951053
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "970fc19c8c716f103cdae0e457e9d83826b9af53",
+         "name" : "NYC Rooms For Rent",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiR6phsus2LVKR8R_jPP_vx7jWqFRAcq3VXs4KNgIYqZXDbxeBW4MeRmXOIjN6qm-Rcct9AXEO9YzxflZ83TuG4vJsine_CtDAKPkFYLj0VBoiyK0e9Hq7qd4swmg11PEfOx3ULn-pbggtwFT3NqQBxIQr7q9EWA5izWr9-FL-xd3yBoUQr9rLXkLoYuqiisKHWfbSxCpLzE",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJZ91Kr2P2wokRT7gNclbv6s4",
+         "rating" : 2.4,
+         "reference" : "CoQBdAAAAEbh9JQ1q3lK2js7JPcBLbQn_0qG6s-PIGwW1fOYRluIQ8WLpOtIQ59QS8jpMUq0H5zffT5E0HnDSzqByxxIrV2LtRMVzEVgJec3YRtHL5ZMIZWa-olmnFibtJRcy5jbstQIU_9Hbm2Szy3uswzIFQi0D4gM4T0CY71cjIzMCp6pEhBGxuyTdPjUNoK-I4Rn9NAIGhT0zrBgwIG1oL9i1sjjbgKFNjxgyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "606 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAJq15YBuJBYknDo1GhUIEU5gG79gaoaLE-JLS0WF1L8Dr9uoW6grlQaUWt-EvH9wdA7itBnUpdJsxZM-wAzOqweK6_rPPRPzWN7H8Oz8KyCw5YSjoVYk5qZrk7QP64EC-r2T6yftvd4V1xBFjiZYl7ud0zIJVe4U7AkcwOAdzE5WEe625AoJfYlweHLH3EgzxBIQg-zT3cjXxn6UCLpPaoQOdRoU_2ndAElr8ffPy_Nh72g6ul186eQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

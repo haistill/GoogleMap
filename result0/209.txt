@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7116965,
+               "lng" : -73.9796972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.712408,
+                  "lng" : -73.9778297
+               },
+               "southwest" : {
+                  "lat" : 40.7109281,
+                  "lng" : -73.9807016
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b3f63a85a303486ff94146b67dd3980149c60199",
+         "name" : "Corlears Hook Park",
+         "place_id" : "ChIJbZSkRNRbwokRdMAaOge7PUU",
+         "reference" : "CoQBfQAAAJjNNkcztCua-Op4GlFichtNYB-GjrkuOkiDNijOJreNdCoFnjAN6SJABQqJFZ8W2PW6mdVf6odu_LzwX9slsF3HPkLoTh1L1ZZQPC1rSJRUApqSh8gw1F88IItaXwfeStctAUIuGLWCTQr6XH4RwmFEuiAsFlUcgs5aWgtRoVW9EhBHe0j1_3bd8U5aEutXJZbqGhR4wimDyIkMDxl01voqpuo4UkmV3w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjQAAAPUFAoMa9b46mpc2Q8HK7zYMy_068vkMYQNZQOMsDbgSqaw8Y8gUs1nxWj0DgRGmf9woXlfmKKqd9DNzYRZ4QPufACOYlJH0cnlfnh0zTXlUuGPdf1ylW6vGSE9s8JN8PWUB9Mv6A20vNUKNw9Oa07zo84t94Ra5aa7PSwCrGur4K_L0jQOfAj1HEutddJ74nhIQl4sZYOaYphgLcyr4HXnhORoU1ADRTIszWqS4s2zH8M0PrDTCVxc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAERnU5wbMImKOqFRKgpNntgQm7eOwuLoQAovoLcZyLOUeoNoSAKlegMfWMQm35da0H2wiq_t7tiYEkK_GTa4Dt-lD-xXbSSVV3RLFAAqAAtJ1dYKQHrczejla-mKsy6QuG_GvdZt8uLl-ZOf5Zmqt7H4Xp1d7SLrG7mb6uRko-Bt9Ev5tXq_Y5Y8-33uW3PG-hIQF2Y96hL1KN5bgagKbqA5axoUlA3roscdEku0aSwybsAwbCnw9tw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

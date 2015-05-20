@@ -1,0 +1,546 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAANhIHTZtc1LHICUSAQ7EVLVSkRkv9A9nOFng2I8P6wMSXE6mHzEgZALUefFWuY1FvvkFirwlvvT9T7ke95Drhgd72e_SGugKQK75SE3QyeEqIUckv5QK8I5U4R602ikTnZk07aEVHQbZvS7Buu4PaJRMB6xyhllBsbv1rE_JTq2kd6Xukj_9X1QVojVcMmpKS0l1ECEBNvNJEAUflf40ZyKzaHXP7fpwAASvJJgZWOcfJnwgUrwF3gsLXzZMMBgiGwzkP_0UEu2l9OHSMZPG8WkJCe0rV4f2ykrMHtzzCwXQhz-donujSEmgsxKxz2d70RIQORoCkQCqA4b1i7v44bUQahoU0rXcd7-cJMAlSL54FyETmmJTQ7c",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7263763,
+               "lng" : -73.9817771
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7278432,
+                  "lng" : -73.97995949999999
+               },
+               "southwest" : {
+                  "lat" : 40.72507969999999,
+                  "lng" : -73.983535
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fcc9c80c0dcb9231e408d0e5d4afe847f25cfca6",
+         "name" : "Tompkins Square Park",
+         "place_id" : "ChIJDY-I6ndZwokRTyVjfDd4GXA",
+         "reference" : "CoQBfwAAAFI6axLc1ZyEm_EpKdt6-Z638tY3IDVckgXfsaZiNmIdMrNlwXEWS8BNf9EOyuh7bKmHmHNKoRFgkPUO_dX5X4qXgk7wTaOr3NSyhay3amVSbLPPNMo5X1fU8KGLdgbsUT_13_rs4NAkbYTsqck7oPp_Z_PVvSjlLn0K_PkGt-xaEhD831u7-EInV-ANpy4rU8ZmGhQ3Dh95xoU8TTinqmg9FpSMatuw3w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBiwAAAIHksEGYW9lsSWOIs7P6DohPV_57R0QMqglaI_S2LFJPWcRTQ1Ex6EVUOwGBWW8AvH-7lytSgqf3a5Gcmfk9cC81a5a5AOwpPiCAOMjRtkFeVykCPve5D1EIMNiN4OVkfkBuuM3OLxtI7L4KQx4Pbw_q_iXmivBGfMQXb_diGQa-5QVmGEJwiqrnaMkNy1-c3xIQ0zWLYhuuDJVYLCk87MsV5RoUrggZ4l202Sui2XzA0-crXRpZCrs",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728986,
+               "lng" : -73.987105
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "404575356f45a5c399554adbe068c475a5525149",
+         "name" : "Veselka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1518,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAAHmwUFDelLv6LDsw_YTWef9pY-rQ-BRPzNfuMSz7m3k4BpUGb2L56kTffRSqtURg2J7_EK4CVPkSo5yHHDWxzXE-zzzZAyPuSHXrmyeHL2LGCTc4kw_iK_CxP5Hn7hF_J9EUCYiP08ATtIm23utssJDwHZAIL6RCSoBNs7zaAZVEhA20KLX24aCo36NDjgDyhCVGhRsyrAtJIXbei3kiZV7WSrVJWX5pw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJlxDiXJxZwokRp4HHbeYqXXU",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRoAAAA1oyFw0W1SC3_oM3mEpDrO0WYibH6WRXi5LgCePHY-oKW6eUBvmjXHtvwxSntvHJQqG-xFE9ve_PpBKvOKJj1U7fX0jYpbk53dt9eLe0fBpADVuxrtBNUKEpSAfVBXNQnB_d6aPKqi7egBmHwZuAXrxIQ03d3o6iRxYFq1EO7FiwGDBoUKJ1KeI6rjk38ztUmWdKe62_wvso",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "144 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729422,
+               "lng" : -73.984534
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "abe2a18a55258503d226d3fdefbc925fcbacd794",
+         "name" : "Veniero's Pastry",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQAJaWMAP654nIVRIfJgJd7jdhGx3nbLoduPR-NkEOVaJ0AQeO8rNXkdCNiDxVYEjkR4nRX0Icg1MQk2ddId-X_BMP2DnYida4_rksN9guxk0rdgYwhJzl3JX-m8r2hfmvJDohClEDIHLjAoOOoRboxIQlmf1yvdNYmOapMgwWUqPGRoUyMi2wuRZMpS1WIeM0ee-iQwHAnA",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJ7yAJwJ1ZwokR1Y-x_5Dg434",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcQAAAKrkQV3QSyMIZktmbKKASEeSk8WznpBP9AORheuSDrOYh2cPErOqKbW8KMGl6ER6wDGh-g61Eb5iGBteiS9ejZ5Spa-1diGbBWSZUpgxy4aVFWHRmRbEewgSTuVpnD8BacU2Flrgit3AdRj4CFUI0TNfHRXi8jVFnZ1AL2CqhnxVEhBMDg9fsBHJR9PIZG-onYIDGhQ7vPgNgcx5KpsgeyM93VbbHbTEjA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "food", "establishment" ],
+         "vicinity" : "342 East 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730281,
+               "lng" : -73.987115
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b415091952b29d50bed51923a56772a566da5632",
+         "name" : "St. Mark's",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeXN90VDra6RPTn9HAW_9tB62DCw9mL9E_TWcey2ceNZI61o_em4l_JstRF6O4i_9o5EhJxkecSZWNrRlJSg_n35ppOinVFsMiu8aaEhDFOkr8PFsGCqkEpSysG6ueuAoobu2ef5yQpSmzKsuW7KaKBIQe1H0LXs4jR_KoNC29ARCGRoU_lSnpRNacnGIdlGzZHdeiPIB2AI",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJsQ-LPJxZwokRQQ9jS4CceW0",
+         "reference" : "CnRrAAAAdGSZ76m5kkEz4Av9LBAIW9IyN8s7qIeY_SGjQ37STJgVZjeP_MrH7iPeEcAf9M3Q646iQKE95LbVjeZRb0nJZUEWaqQ0rSMnDY2Z0X2cepZRqjisOWpTVqsA3NqtrzaNRVaQdFDRZmP_GURP8U1jfxIQ3NM-4wX0S0UOrJSCOu8y8RoUKeDrLyDYV-8ht5MFJRiPxCsL4tE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "131 East 10th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728636,
+               "lng" : -73.98483400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "883ecab3301b50ffa9a6dd2dadb2810a241d6ca7",
+         "name" : "Theater for the New City",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUe_wo51ZwokRbsJp58YvfNg",
+         "rating" : 4.5,
+         "reference" : "CoQBegAAAEwA9SHHyQ_tsQQ24PalOCWhcXNUpqi5LDiNmgFJUGvqSC7JVCReeJsVuwiJeWv8_J1e_jK0Bh-E5qMFqa78WQ2joXFfez-3BpGZiMhNVnorO5Iwa2MXpHO9HI7dfnJ2mGunIpPvwkmaO9H-qkDDwwG5K7okvR2Ecu-pF_JqdKgNEhBiGeBaMG1Ov-8ScCaKh9CKGhTWsLbiDJ-b_BIsNl19zqw5U0Uhfw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "155 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729382,
+               "lng" : -73.982502
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b903ad1ea17b915cceb525875a2ef7a5cf867bf8",
+         "name" : "East Side Community High School",
+         "place_id" : "ChIJDaEx-J1ZwokR1MiG82fnQig",
+         "rating" : 4.3,
+         "reference" : "CoQBgAAAACCvHObJm95rsnv7A14Og-M6Ql2LNWSXRj07Y3nHQj6nL5XVt2mJxJJBKRIcD3LvEZNtK7HWb6vlXJK7EkhuV6hLLA9JR-LqC81mFSkTKb26_JIi0gTvq_30Abo8XTq_tweoU1SUlubUQSB2imlXD0ooM5mLVn8H7-63gbPRPLAfEhCeNhNmmCGme15bNRnHFIWxGhSb4IqYFPkyB6nRYeWWobS7lCFf0g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "420 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728168,
+               "lng" : -73.98434399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "76c081f7648a0ef5dedaad226109ce1bb4bc711d",
+         "name" : "PS122 Gallery",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAe-B_ZxazoAzZoUEmfmb2D4VNRF9oLj8b_n6GPwiCtFn68fTc04_4LZJggLt2ZrTT7nbjOfoDtG-oMFGOT-fVodZqZz1m-72Qj-V_fwaD23Cvtcu8XyOuMi8PnznPbRaeiTJwyYlh1PADZtT0qDiMFxIQ_n7WnnAXvZRnEKVC1W_AAxoUlvEeGf3MjhjiquP9sR6LvpuDSdw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJKdjFn51ZwokRv4diQ_c5-yo",
+         "reference" : "CnRuAAAA0nWFWKRjxqMOySaKuxRAPiGEzxql0zRvy4XEcfZKHdrKhfSXYwCP4dMi5KmRVlNQM3t6iOc8W5-IP1rxRmbX1bRcLzwpd8RHH-LTl3qHVp2Rhiyf5vbndGpfHVlZJZ-VPXFxsKEZgkBdOx0jTBuuqRIQm7Mve58eqRp033yuJyOSOBoUjYoFT0CR2NiKMHTFhA6ts5rWTj4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "150 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729221,
+               "lng" : -73.98445100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f9959802661aa447d9197f90a8bc3bb678a46b27",
+         "name" : "momofuku noodle bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAllsXD-Bewm3HG5C8ZgLP6KPb8adCQ4UKE7zkiRlZy7kEF_kLJzTVHM1rJ4QVxa5sV1oMDzLK1vQdi8SQ1crnm7UjSbFxiNyV8dGtOMmqcAsMdxlRUeL1-F2EG1QQRI91FkvGkh3c5SyyGJjejFUzGRIQD-YTQSlUsihZXPLfw8l2EhoUNcWWexhmJlV0uuYARUKeOzqpRIA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJkXQ3_INZwokRE74ZvG46Jjc",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBdAAAAIG-gq0KcahvccIHdB5PV-lKe-pmS7s8v92sEEZJ1QxsOcA9K1vV9U6xXMyd4TdjjwY36F5R-MI8HfAnsj5nXy5GzSTEFGLGODkO72ntmX31R9ni1uogf4TYUqikdqcCzp0UpqU2Am0ejSNyY3srKQpIlSIETpDGg4l7stoWwrI5EhDcpXt2w-yi-QlFzqm1iKlBGhT7Sb9gxrsbfr3SPhhPpKcgVWVtkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "171 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73057,
+               "lng" : -73.985958
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "216f1d8e250c9cd0943cc44cff22003dc8754baf",
+         "name" : "Josef Pilsudski Institute-America",
+         "place_id" : "ChIJOSY_K5xZwokRV0ti5bpD1pk",
+         "reference" : "CpQBgwAAADHVoeCRiXbMoag7Bl53i2mOHl7QV0hhvYPL0ImJR9weP2zyZAKaETz_3V8YZ7SS84b_5EVPWNfbtRYdkefz4jkufRvaCWgH2_3eN6JaTLll6aKQDUwk5zSCAu233zVX8mbPtVvFDB_EHeC8-En12zv65WVqQGO7TZGm5SdOswgO8-krCFFGxKwx311wwbDUAhIQuxZYZ3PqIbfBjOpK_0T0URoUUCbr4IpfJF19ev2yWSRQCTKXsRU",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "180 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730356,
+               "lng" : -73.984087
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c35242c542c16a1e8f7ee6ba8f49a9e9babedf13",
+         "name" : "S'MAC",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1363,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwGufqqiPZNl98huDi5s2SeTpwj6Dit6yPcofbTggZo-wVUGsCT_zWd_dUHpJEAzQIf6Uym7G_5Mvnz_2KL-cxdvQHMRfrnfi8x9eokrOcyrFuf03DIgwEadYBOc6og8Nag55nFbgpYLtoVqHLiwJMhIQq3ug0nvHxsBzRTNlUXvQQhoU0ofB9NRnomQw3NcBRHuZsRiNhAw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJC2z1451ZwokRdm70SHTgRD0",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CnRmAAAAjv8WWOnVh-ZtOzsUcx0Ovcf6he4fSxBpXKSZyr-w3gqKIOO_iy1Q5gkwMRCQhtXKl2xXH7zb0kHMgUuS-g7EoGiY44scIht8u8MLBgtz-dxQaeGnj1MVOyIGqvHPaicbuhSd3uBBO-vtfnt5FkyhcBIQsYMPGQL0VpdZ_p3VH_-hjRoUqyFeb_BHeKQlnbAsdvYuuqTMsgw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "345 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7303,
+               "lng" : -73.98389
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1b210347c98e6c19a7c60c81688685724d12159",
+         "name" : "Motorino",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAQ7RuiOPtOci_cC5Js8SIOC7rqG1zaJ_yloIc44EFqty1wKsUS1hBhQm6vRmHnrRwQU1Bc7xlBFpLxADzW6_127Z8gLVeDB8O4Y8XQZEbnjkgzud-bSJg2v6YaeVrBChcVwHAeYYwYV63COQMbzJ1HxIQCEicnySuZEZ_b5rKpUtwGRoU-h-j5Z1U-d_2KXlgENKgnj-a1bM",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJT_Db4p1ZwokRr5qgbjIqrs4",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRqAAAAVtQEr9NmNw-x_FxNo-GHB-aKJhw94VrzQoCuXuiaox0i_7A0isiYqylDcz2dJobKbm0laRRWn4ZVHLG2arcPqEUzdY8xJNMhoFNZbdGr3LIFEHTYRLHPCQAhFwlj1M3qNJwkWamMf8pqpnT4Wa-nnBIQiLzpZTUkT8R8d_ymTdEjRhoUCpKhexQeN6IybyErav8Cif9AzMo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "349 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.728526,
+               "lng" : -73.987149
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2f16d036b1c81a31e9186364da8a8bced21dda63",
+         "name" : "Cafe Orlin",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQXCA7BDSmbiYW84_oWMWEhgITLKonwRAXfvdn11cxLNzsOhYP2AsMxekl_QfRty1H7ZB_loL9U7-CFIZlaCU6Mi4NUeqy9a65Op1q-VnR0COQGCvaIOS7N5J5uZgs83plZSuOoSMRdLIW2y5x9FV6xIQbP1qV2LA3puP1lYceLME_hoUWk2A-TCiTILs6SgPkXZtlKQanbU",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJrVD69ZxZwokRxWonPTZ8z10",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRrAAAAFujgwRR-sWoBhiR9rhbU2Ttpd1WGfy_k3mrBO-zj77_4FyJ93D7E2Mx17hVpqIa9ypNeioozDEENVIcMEtmOoTKOPzYHot9XZVlrhDHcgMv_5NajXUs6ZpO_YU5Sxzr-vESEwQDU9s7GdaMUGpkQ_xIQzzPAJaErVVmhtX2MS5kpChoUPUS1eLiJhXqF2nZ6TU_DRLetGcs",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "41 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729899,
+               "lng" : -73.986435
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd4a230405682ec69795e70b072bdfb6014222ae",
+         "name" : "Urban Outfitters",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh60jN5xZwokR-PasiziefjI",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcQAAAIE54KQWc55VQGDtG-rXCHaG3mRTkV6AmxTKVWd1cin08OobPxqdQU4ImHlKhH_4HpE3HIq1KcmX7ZS94Bwn-Lw-Onwo3Eo8192J8wjY90p_E1w572-L02N_J2qAaEAGd9H_toNV4lNdLyzeOgnjqjUT6bcQf3WCac4dJ6KUj7g7EhAAzUjmZPkqC7-Rp2IFU1ORGhT41ZgIPx-vAq8IjLiCZFLHpvO5Rw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "162 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730727,
+               "lng" : -73.98563
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebbc662c730cb3fd1c30ef4941f35f53de4a388f",
+         "name" : "Angelica Kitchen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAQ0sLRSfSqz4wpWSnbj5lUeC6hQJITIRY7Kk917DqiJvxHrLFWI8d-PQ-QCnM7ODGRjeP2ibnWjer62BVI826VOhtkOb4Cc0OUIppDK9RSP7U9iVPwyR7YqPQ_cIN-oME4FEENpqDi_rFnegDeIlmsBIQAsm1G3iNZO_eTgib0qdH-RoUBBOCdMthqV8pxSN7DbGGV8Gmt_4",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJc4xTf55ZwokRI_lzrjeqkDg",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBcQAAAGAkErGHlUZlDyG0USDQqa1Vv78Q_xSu9d3A5xKBmrFQWgnILG-GqgSxJ7Dw2Ju9aiR0QSF71fH41LZZetxTbFrWbuPrMu7WCkI0mrFgIjQ_IZSLbDl9UClLlhZHF3H39wm1rcGYXpf2jWTOXFc0KO50SXFf_H8cD_XmXagrJnrbEhAy2-vGwmw9gX6gwpWeET3NGhSLjFs9iHvhOuBSpErRaUMwzSR6ug",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "300 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730991,
+               "lng" : -73.986197
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "78bfe191ab3ed3261d1475d743dc93f93efa8c8a",
+         "name" : "Village East Cinema",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA8439cUk67AU5x_UXZgTiUYDBpNzVw0csp7Ey1vReZS2Kogo-iXpqkrJtMta_bUCIALFgNrqQqETLjz3aszdgoL7iQ7I1hM6jDcBQ_KVwfwAzlt9W_ctJO5PbxDBx4Cn2EJbtVv5mgjR_SSEs2AeADxIQzf5dRazIugFex7HrhAas7xoUJ7cMQmLThbP_PbDKVsl_MY9A4Ss",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJy_q2gZ5ZwokRrG27bv1NgtU",
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAMjqAn3kRaXoPvNgI6jDvCDsI_tb7fyp6zYH9D5hHWi1azQSCva83xj_gfK4PZ2mnYQIAqxz6M-x6JWDCgzXWY19SinxImsvtqTW8K1nYn9mgNbOKW81LVw3BdJYAtHueL44gUqO3WMR-ojpBR3M21d74yBHYDgfwi15MiYfI4PEEhAnZ-0EskDuVqEbjb15U2CGGhQYiug0Owctx-oVuvcfgITdOwKqDg",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "189 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727823,
+               "lng" : -73.985502
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "89f1a43be28bccaebc321d93fb27318261a00c83",
+         "name" : "Xi'an Famous Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApN6ciqgfhM9Z46pokDe7x-Z4hf5kByoMN7vQBeAhOmYti0AzFVzBc_USy7ZItUTFnm5gLa00gHHvi4jIifOFHedIvst2aQEhfQS_uqX_-1ReIgUAhBhNLctwVZCQ8BERmq84np-DetPUjkjL2A9ARxIQp2ItzM6UEr0IkB3mPoRkrBoUSVpok-wlDCsRilwt5KYlyUmKZ8g",
+               "width" : 200
+            }
+         ],
+         "place_id" : "ChIJC1uMBJ1ZwokRau4_PGmWEpc",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CoQBdAAAAK3tIU7r2mzBc2g4isWiPrEKCem8CK8aLA5Yo705Wn2Wo2plZ1QyDoy0kpDLHo_YwFvNEmk1D9X9qgBvCg-P5E2DCSje8Xl3Lcf60Qtn929sBWOwUsu_VMCnQMauwRZL1H9cKDuQTC5F85O0vx1jVBKCil5e0kwvt4wc5HfuDzTSEhAbDLM_KpXnwwgudmewx2fnGhQHVA7v2BOrL_Gz9KV1NzHlEx9acw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "81 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730476,
+               "lng" : -73.98594799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5ac167ae0e8bb43de43830546e64a4938fc4109",
+         "name" : "Numero 28 Pizzeria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 408,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAAhttwh_BwDUzNgl3Y3nqZ5brxxCvYCi1NB3nuQurNlEpQu33PaENdEibk736OEB6pa8ayo4xmZ_gmvRukJ8dZ9aygqWevIL5zrZsW-54fbxHSNgmVD9PstKx5-p7kmFZhjPF_mutk_0n2n9QbzoiASxIQ4Ur6DiX7fxiUAXHuqqV-VhoUd0sYHi1yg5ulfTKnjxTFWPOW0kA",
+               "width" : 408
+            }
+         ],
+         "place_id" : "ChIJfyH8MZxZwokRakX8UC1qC28",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcwAAAOu-piYxO0sjtqMOBfgOd-tWItZ1GcvnRi8jGFzb9mi6qxmJ_X0Q8Gi3z35yjDndj1i8bReeIlrYqQxfLUlI3xtmD9GAzOhTMHQ5ZLjpDi7wSiF4tXmG2oyPh-Yrm0AxjIubIjE_X49cm51TLGslT8uDoS4aU-hKuOnW_FM8J_CXEhDvVQLxsch_GnlD0Cao-cUdGhSVpTSESvKAhxIYLMkzkMB3ejGLXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "176 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.730032,
+               "lng" : -73.983215
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "192f80ae127ea30bae43862b235f78fc0febcc5d",
+         "name" : "Hearth",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 498,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAdBLwoNMOfrVApbyeTltDWHuKfzCuSY8_7AdsOHWWcv_XUfPAB7sYyrdWfuGOeX7boCaNlP0OxGHdbEV-HcvurfJjYTIGw7AWHzLXS0nf56ywemM2fTKJOv-6R_k4o0ReijiaoZY2jCO7ws5r3aAiGBIQBbJ-Pbm77AsDnM0pgWV-IBoUcd-r1u6U1cqqfWBvwcYtAoZ9zuE",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJQTZ0-Z1ZwokRhl9v1FaVF0A",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRnAAAAQLn1tNRbNfISSo3PulBkLlCwsOKCDdpUNmEnDdzbrGgWFGbvdKQr5DRtUpLOr5di7nB2rTHU9NXQFA0Y7Y6sBwLn2HD0rbO4yR9tiRQ3_NMDRdKAQY3qqIgzybwJBkh4GnO0fGwrvS3Rt_kVlA5QhhIQ6rQfnKH-PSz5mwkCVVAMkhoUjJv5iim_21JAAiCgn6qK8m5MJ_c",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "403 East 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBigAAAFSUlmB6cnvOQgobNFQijjTginYoocKcX9hqec76I8ej--OmdqNGp2zaIARqXmK5-l5n3JsoDZ2tXQ-eduyN0e44hjGuIfrYnH-v05R2MfwmLTcuCgkpB73pmLq28T2gBl7BOUziHHEC4MSGJLoJMRjMgxu_Bz_Hy-QQ5Rh6uO4wSYt_KNO-go0iS4Rpi9gQWxIQKMCUrs3kRDvRVJ_5ZjuhFxoUkSiwdPmZHTQnnjSEJNHQYtaataI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

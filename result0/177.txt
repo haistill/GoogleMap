@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715033,
+               "lng" : -73.98427239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7229166,
+                  "lng" : -73.9735436
+               },
+               "southwest" : {
+                  "lat" : 40.7091004,
+                  "lng" : -73.9925147
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "db843165cb8faf8e2d70ca0f93bed672ae1e81f4",
+         "name" : "Lower East Side",
+         "place_id" : "ChIJ64usFYBZwokRcGprpf5JuFk",
+         "reference" : "CpQBjQAAABgm8FIGZpezTvpekPK-BpyZBR5E4Yk1hF8DhLOatkUTI57QIDehrbS25QvDi688b9E-_nGFlGSLdhqL_6w5_1xwihK3mk7cUSXnlyhMQyp-iQYO9xsax-HhQQ4STjqISsNx_09FO-MiIIr3zGtdFWDPlpAayphFUzptEw37p2oDDbU39lZKzur4TrnJ0IB0CBIQQL9W7IZGpTP4KxNcnicughoUqNiqbN9-nrnl_RImD-riBDDJLGU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBhwAAALuoLCGPUkS_TynHnJpvmpdVtmbdV6QLV9bTzXAHngNjHxuBEFf61ehHkSwJ0fwotf3NXbdf5M4nt8NrwccSVvlmUXVB7KPW7ETd8_1DyDtxprjKBEnJKcYzQQCCwytg1eURgovCN4n8OccLbAoWNzAX2Y7tloFeAN9phtyqvs9XSBH1TMpeLxJn2ihMZvcSvBIQAImUdK_ebxdsBszMDbLpihoUy7DLmwV7n1orFYcKHdi0i1NOdog",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

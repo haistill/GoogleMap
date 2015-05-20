@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7350134,
+               "lng" : -73.9763913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7368846,
+                  "lng" : -73.9738038
+               },
+               "southwest" : {
+                  "lat" : 40.7327355,
+                  "lng" : -73.9798696
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e44bb186938feeede8ed974b73e24904e0b5400c",
+         "name" : "Peter Cooper Village",
+         "place_id" : "ChIJqTBaqQxZwokRDNW0g6qKWno",
+         "reference" : "CqQBlAAAAFBVuPZ3w4ALBhGB4lwqLnfqzj8Lfoj-RTS1t_ykFq5L6w8kbBYd1Ec9LKKDumXah2zwrQ7I2nZ807upzJiDwBFKlM9JJudZEKuy26_ErSjT8yARC48c0jDjMkGGxn-hL3JtvqMPHgWlrdIazZkAloGSu6XjdJv0Gajkkq0ty0vmO9xRdNlXPMnHTDs6MiePxPjKk435iFIiljKeDljCwXISEAPY4vjHJ0AJpl8kadmoV6waFNfNF7O_L8iOeaRGSvH33KKRTZ6L",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.731705,
+               "lng" : -73.977851
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1bde1ac20b91fddf54fd7d9067f3856f46d8d2ab",
+         "name" : "Peter Cooper Village - Stuyvesant Town",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 631,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAATgCXmdexn0EKrpV9DjwCBL9NvK0zT22Vn5IHcAlR5BV2cGftd6OcTQ3z510CGV5HgYRYsFIiG5ijvZ5fZ0qtUa4hhDH-CoKxOxWjxrJENdl4QVIBEJKwZ2-RRNV3RWeIYl3NKJTepivX31oREmd9rBIQ8zd0nfVGe1c9oOis6W8tChoUv2fciY_BYeWrJl-t29Vj7XBpCsQ",
+               "width" : 631
+            }
+         ],
+         "place_id" : "ChIJAWLGeHRZwokRV4Dojw9TEHA",
+         "rating" : 4,
+         "reference" : "CpQBiAAAANLRVm5Wvbg-ceND2xMP5X-E5x-kMEw-j7fAW6_6GKe5XKSVHYSz6qv8wC6CxZr9xzaHEJCwnlSa0YGVPp1Gf04od5Dd8XclgnDockVaEaSFi36VI-_2QvhfJBIAW25qzqxQ9UE5GShUKG1AWiwihhl7mKFDn7DRSdcmciXfex2qjzryxXshJnvCRIByWKDCiBIQDiqeifai1YQwHIvA88yzUBoUHArFL5gvK1wCvcPl3TdpKsOMeck",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "252 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7316903,
+               "lng" : -73.9778494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7350027,
+                  "lng" : -73.9734363
+               },
+               "southwest" : {
+                  "lat" : 40.7284215,
+                  "lng" : -73.9825694
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e3189df5fad8cde88d3d908a109a21e4fb8f07",
+         "name" : "Stuyvesant Town",
+         "place_id" : "ChIJoVoifnNZwokRBOHAiYH3L2U",
+         "reference" : "CqQBlQAAAGXqEJImWASdvqfzVNJunaAnI7YOyEzECboz8zDPCpMxffNsBVfwoiEY88l32GeKyiZ6OocFOuMBrsDUYQFGbYaoFuHIP0h-UC3WIgNcWHW2j1lK2cF8wP2ZRuUkB5JJ89eMrBS1QqPIOwBQabuR8ZymBFiqCJdNUgv0s8mRWBVkwgn-nC4eId_LXW9h4oTNPHdXPyj_RWCXOh7MudC0n70SEAG8A1_sfpxVqhfVG730QMsaFKb1XEAj03bdKs2Bbaz_oIza2yU6",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

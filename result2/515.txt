@@ -1,0 +1,451 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAE38adTOZNaUmcgcF0enKPfvcTMKUr3Pd_XY0bTCZ-pSLLKn2NwS8vVcKvX_GNnskKyqDYZ3Rdhi17K4knHlAc8EurPN0GS-h8aAVvnF59FWbv7ljpaVGXvXFHYxiIa1-zFxO0GhbMk7LhrWolt8U27ZJikttlEKt79IuA7sR3H-UraYGO8QGoC9qNyM2WzJCJHxJXAEGBIrVDcE_AC3K_KQPiLFY5YJisTOZYz0sySbdW4EJ-nqMm4xjhXOk_VnURBj_EnOpfRjcAZ5j755RDJnjHX_-2tFk0AjVMocEthUzVncUxrlfOKtH_8p4vm_ZxIQypPWF3mNdpW-F3deojHC8xoUc5s68fwae9trmQc-zXhsD8J4esc",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAANHVml9pFgI-5NdAi6LThmOfc5YLq77-ZpUvF15ChgNfmLS2W88k4xuRyRObWMFf0wmh4iNYtaaF0WDEojcNl63-GpEnvJgyvzb3uzLfYNyWwCKjY26N23EfuEgDDNpKRLMYYKCvMLWwIzDznke0aDeFMkxli7iVBfPpostLNW28dmLsuhZFBKFo_xfxdjFT5hIQqENJkGBGH2HdxKgfVVmUzxoU9YZdQL_nmkBmBd0YnK5Wf2nnqOM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810943,
+               "lng" : -73.946392
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f24c22a5da936b538a5d9f11ddc19799f30f07c3",
+         "name" : "Metropolitan Baptist Church",
+         "place_id" : "ChIJn-cQk3L2wokRbS7UkvhFaf4",
+         "reference" : "CoQBfQAAALTHwAiP87U80ywYvG7tCrPm7DXB_Vppr07xxrSBt2iIOYRPcgnXglq8OH13CrHYF5o60f_fS3UqYBRh3L9LTaOOv-D2r1AIVqzSVHqCjonzLy6cuRu2dTPW-Rn2VN3ukEcgkrJKDsay-XT0hDsz-VVdlF55aWl4OBjmUpYYWATdEhAMg_RDrIvrIFlpS52zY8ckGhSyp4UEX8qwOdNWEe3I7ws5V1EpRA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "151 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81008,
+               "lng" : -73.943319
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8e5d4c482c209a260ffd3d84091a5f3ce8dd4bf0",
+         "name" : "Lenox Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 818,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4cn7W258cBFSsx04mhVQNg4nGfREVJa1wnRRcGhGZEEEOn3iyfwcmSKWF9ObjNTdV9kzkksIL6fEy3eOlKd2aVo8AsFIbO6yutSbdKQE4vdG0OuqSgJ53474h80F1mOOOU0xXqqHA2XKOmz5P4PdHBIQfRRqI_YXWbnF1_weM1Aj1BoUYBXBJiLHlldGW14hJll7YAfOapg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJuYQea3P2wokR6BS0wqwqnXc",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CnRtAAAAa6IT7_P0P8yt4aYENOD1qRoNbemZMZyf7rqBl_nER7BkLq_G6BlCx8UGUPbRkAbv6DOwOu5k72--fUiF__Ab_A4ambClwB_BUE8gUrGy0cW3vxNhIjcNNDv5-e3968tdqeVvzZlMjyfDWKHWA42anxIQhIgsedi_ZfMWbX2Vmmn2CBoUh2Hj39BEtI6MZ8Eyp0z55tkr-2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "food", "establishment" ],
+         "vicinity" : "60 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.808809,
+               "lng" : -73.945149
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c5af2bea5afc2d9b3718cb42ebda9e6681e9e922",
+         "name" : "Cove Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJodSLLA32wokRRctK4ht4bLc",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAA9qfTwCkZVtiOflXDlotFp6IoBktHc3fZTnjRwszwL5vy_4kXB0bwop_Esk3x0M5vrkVBcjGTN4tDH_bPWeG8DlTO7-f2Hl8y51aQjwm4N6bZMG-CAIypLQl_I9_jxOPzzFur479evywgrdAjk0L9mxIQ0kimgyNk-Ryvz-O5mZSyKRoU3jyIu-Tp7mROFN2dOt71bfNL_zA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "325 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810284,
+               "lng" : -73.944047
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "49ca8fedc26308b9d145e5415d91c600c364cb89",
+         "name" : "Jacob",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAq9aqaQfK5NZALil0Df4RnIgXMCuxoCT_2GoW9_5ICSJXGCc2j_Xj1afXtd6SIf__l340Bx1Hd_2JaKrtvbpXs_jRRqtAMqJCWvCS-1jmkhCSlTjiTPHExTd4cSjaFu3rDkgTHB_8u62NOXhnOL4fmRIQ41l4zzg0EzoLlfKDesi69BoUVpalvsh_KxmEoKII7D2GACEl7Po",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJnxjnEHP2wokR-Dgf5gfBf50",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRnAAAAg7kGFSsRAWH8o_z1YJRxIsgLtUM7bk5p1hWwXptm9VdmSvNZc36uISAhhBLousUfKBQmMvkMRH6mr8vU-oetRPtZVM9nujmAAo726sw03wMHLnK6wh-Rop0Xl_mtZAHu63GmSI_w-T5Wco3tyPzNXhIQKfu8EA26tAQgTywLV7RY2xoUqrLQs5VFaL9CDNAP-EmMweg5IiU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "373 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809253,
+               "lng" : -73.94736
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "345d81660d3970c8f29486e75784c52f4b0401e7",
+         "name" : "Breast Examination Center of Harlem",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyQP9Wg32wokRMLwpZt9ywYM",
+         "reference" : "CpQBhQAAAB7sP462KxF3HMwoY2S0CpMpAfFfdNsB7BNVwfvZgnBo7Wr1oGg2yId7TD7PdpAu3BOymMHrtqS6ZEuXIdXY3VonaxgOx6g-XiQ0xDRYIIvUl1AwUNQt62zRBuZkVU-CllHxUogSjvdLquMTDJkaAYiQKo7khJFshvQKFjcnLyNb0I6mZnv51VpvQfxoMMkHQhIQkT6uFBl-aQhhJUwmwMjINhoUCVg050dPosoQCmsZIMYfXb9rF1g",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "163 W 125th St # 4th, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809256,
+               "lng" : -73.94752800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ffc8b5ae7fece10427e9fa9a38e2d4c276885b9",
+         "name" : "Manhattan Educational Opportunity Center",
+         "place_id" : "ChIJyQP9Wg32wokR5NfRWCDqEZI",
+         "reference" : "CpQBigAAALu7ReK89ZARu7dXB7sQV35pt5I11JuyN0TPDRHthORTFY_iek0jXstSwRFZvDaATAjn9ijojnIgawqIxccVzmQre4Tejxa5YsUu4Q8YY43zveGDeznlKnFUhKo0ui2x3N45oyk4Z98rgfhna2Go3LJKyCDcTs5o4MIuyiW0mNcoFlACCCW0K5AnxvsrJfJBlxIQknPjWF5Enh9h_HDoIcdwExoUb73L36bzLsKBDLROexryuqXnAs0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "163 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809402,
+               "lng" : -73.94467
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5757d9b489833ac1064fd8cded309ff8311992ad",
+         "name" : "Maysles Institute and Cinema",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 65,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAg0KihrJjvftCOtZqHY7HI3LNSo0DLgWkYD7BMLBlc-a_fyi8J478qwVRfYbSw34eFhbwGEQ-YaXdGPJA24CEvyQpQqeN7881rwYuKMTnSHtpC-U3xss9t6sWtcatKDMFuZZNNyaN5z-YX1lxECpOxxIQbKP09voJJk9oKla4pI8FlxoU6UPCusbsovJwxz2AHocKV0YuPds",
+               "width" : 138
+            }
+         ],
+         "place_id" : "ChIJz6L6KHP2wokRv44JyOFgivY",
+         "reference" : "CoQBfgAAABEksveaCpl9eC7w1bIsWXqTnqeUtNuHM4GuBAdUhiF9Zlao_skSoALtplJ_l9QsAXVyMgdgIk-GE7ECfzwGNmfJhzDuDTYIHjVHSbONgOMmypK-waeTqgkiXxdfyb-0-ig6jPiI9SFliwZyvoTTeiFGapnNXbo8UdHDz0b9XI0NEhANSCmYlKwrF_a5cMKq1EGeGhQH_ssAyKUBstrKh9b4Rverzju_ww",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "343 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809201,
+               "lng" : -73.947281
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7438c23ddbae1da8fc348825f09c1f65ca55a68d",
+         "name" : "125th St Clinic",
+         "place_id" : "ChIJyQP9Wg32wokRXipRZzzcFl8",
+         "reference" : "CnRwAAAAMLe8hy1dLxJU-yRkOVTCh1UZpSZQo2aIFfOHSEAzJui2bqkoTkfY_xAYtW8w1OJJWdg3wQkbM7HNFPMfObQoMwqpOg_lLCPpdaVqAHrMzH4HN6sXOLArB8ACo54Y0dam4CttgIk2ou7Q4JxXytQeGRIQiAiQn9TfzIpBLpFPPEznlRoUevwZSZR8pnTPsdc59-jWWtDp7SI",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "163 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81117,
+               "lng" : -73.94418400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "28eb3941c05090304030c38e4355cde06f922fe8",
+         "name" : "Chez Michelle NYC",
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAlcvXurgMDFyYeqqSPFQPF5o_C-ss1Rx5f0i_-D6VQMxn-mOziTaqcK4fwFvZR0bCKjhUYJOI-xYuTXJwrd7rJ4_N3gIsmZti6Hid5DAIVv0VWcttuWZztcbjQvHvsKLcj95xoIVuru53A6boZHxrxxIQ_2UeDp_nK3vOcsBjXyOiDBoUMiqUioSqrFez4YUUnR2BKW3yCr8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5bFWBnP2wokRkbqLsjmI-7c",
+         "reference" : "CoQBcwAAAEntEM3yVXqjgIzCOEPz9P0ilTrosBVaIpcgRh49wEQOWXJaHAOnfb_GKgN1bN1duirNHYhwD1t82tAkiq2An2xPP7MEDP07fcB9DUydFkaxPo-aCKbTO5q-CuROIWAhPadkOsZ98wkQN770vj74gUz8NNAJNHZa4fXsDl2msobdEhAJ2yhpwdP59jwJGvFYNjlBGhTAuoyIdlQaSMw4TGz5Ng2OIERDEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "118 West 130th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.810187,
+               "lng" : -73.944913
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b52e3d06ed2b8669fcc0fd958091f3c435cb0d94",
+         "name" : "Harlem Holistic Center",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyBIXRHlrszpXl4-x8w8trKC4FRS2bTNc9dGRYp7c1nSVcjpuT7q4vwJXQhkf1J4WEzk-DGAf3rOL5QmB1SQCgwcPXzBk-s-OF4-91OqNDO_vKgF6t4lVpW83LqHH6Law2tufumAtok9Bqz6dXx09XBIQOrYQmmIT6vzT2Ih4xwwWIRoUS36LXbMRKdseFKra4w-YlJoVGDU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJmVN14HL2wokRW8wUcyqB1DQ",
+         "reference" : "CoQBdwAAAAy3OCMONEK91adW_QNEbr562ILK3HfPhAsjwsJZ8a71ZgR09_NeulGu73zix9XE9YEWoo5N58UaAkCuUF2eVZ14a3BY35udd6pn65oKLOrXZeirULzjVfdP8mXIe0SU4DIuOH2OaYwHUhMwmSh9L4eQv1112nEvFUW_8N0JJot8EhC5j2p9CCzzlNdd80wQRK0iGhQjeQdlEZROMjqaadx7RQft4clq1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "health", "establishment" ],
+         "vicinity" : "115 West 128th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80939,
+               "lng" : -73.94385800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d524b4d70ca5fc0f04d6d14147932ca73b08b8bb",
+         "name" : "Black Star Music and Video",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAeVRxXLOm5X0uAiptNw3kwQtrZK52cshSKGgwcJEENlqteU3jxd6qQSlbQfGP0t3ti0cNFfWNvzRnpE4nZK1f_p0RUy_vm1EQPZmq9I-cMkuqk8FgOMW3AqftubHt6YKQH3mgoDzg6_UCwy3j6ai18BIQv88wjEI_9wQLjoeE46vyghoUkOrop2m3hjkwVqPBoe19xJtIq9E",
+               "width" : 486
+            }
+         ],
+         "place_id" : "ChIJw2wIMHP2wokR_JUIEf47148",
+         "reference" : "CoQBfAAAAFsFEF8uAALFhDcU-Kcj3Dgm3McuIMsQ4FV6xYGqu3dIPBAkm1jUwMz1MiClfcfo_dE13ZHIvayT2TwQHT32LoCBq3fnELiQkoXJs2d4e4wFGRAtn4ufyRQrC-cZXlGoQQJTh_YnyW8G6PH4K3_g58kM0JZhFvsRbRnQy6_VsLPuEhDteSyZCdjXxsBqnQbn86s3GhT-WZzrc_8CcmQtCKu-zzik54Ih3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "352 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809175,
+               "lng" : -73.94744900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a95263fe43343bfa2c3ca67a3dfd3401d3a59a98",
+         "name" : "Representative Charles Rangel",
+         "place_id" : "ChIJyQP9Wg32wokR9qClOmpblHA",
+         "reference" : "CoQBfgAAAORxvMzkuAXraDU70U3i5vejQ28w4lOBeWSwm9JBy5wWIWul9cYr27faCLgjQ4v8bnMqOtIzbBX2joWIhOK4Eq5W9rPyPCRi4e_WAE0oU6jeTw9LlCrIL3R-MniADEq5fJlP80I50ZTo8e--NtEEEpJEVbabGjPgD3Zh8R6HVQQdEhCgrmK6zFAn2a9w5xm7hcmSGhRRPV-RyrA6psBEN_E-0eHex0ISGg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "163 West 125th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809406,
+               "lng" : -73.944693
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "08dc0b0508a7a2129c129b9cb11383563aaf92ac",
+         "name" : "Maysles Films Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz6L6KHP2wokRjbkkaWZeZI0",
+         "reference" : "CoQBcwAAAEl3wP9jsl1R1DSfTCYa-_9FsLLRMs8HiZg-KBAqGcgDDD6MmBOQ-iwb713KN8xHNuTg6kHOPLu_6JVyVKNXjAsONM2NbDn2RG9cARcyU0nrTV5ir9_aUX83ox5jKjbmA9J2PsQZPQRrruTEghj5PEu-utheqRQakvjX0bquxeLuEhAzcRuyidf5YVY3iUUc8HibGhTmIB7OkW1P22WLU02e00BYMTyNBQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "movie_theater", "establishment" ],
+         "vicinity" : "343 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80923,
+               "lng" : -73.945154
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "d692590d9486227eacf864bf867cd80d3654dc5b",
+         "name" : "Muhammad's Mosque Number Seven",
+         "place_id" : "ChIJVWT303L2wokRHapEUOh7Vl0",
+         "reference" : "CoQBfwAAANgOUCCnfLwR0Zk8tbA6h9gOCp02G5it_weKX6h-VWrb6XclugNdRmXPEMZ_1_0pidDPYFHlnuDuPNKsdLPzqTpumu2yDJrJtd2kI2Bm7Fe3tg0OTeLanuSLBgvPRPbRv6TPxyBjG9ZNKX75h_Df3Oh0j3h7YSPkFDkvBS5AKdCrEhAebc_xRYIFZMNC5zJlEsWDGhQxkor3nTpOb6Gx_jTb4tFtTd38Tw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "establishment" ],
+         "vicinity" : "106 West 127th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809821,
+               "lng" : -73.946743
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f8a4ae7bf7ee9d9596dd3591411f16bc19f93dcb",
+         "name" : "Jazzmobile Inc",
+         "place_id" : "ChIJ3Q9QunL2wokRlEK4LTrq89U",
+         "reference" : "CnRwAAAArZc1XHp5m-svQw2i_AT0zZfzOPf5t2PgF2L8N4kiVHjF1TgnDWU8GBPOOjhStlIJyLlnDXwTQrthqtpjJLOZ3QaI-8xyv1fb95IUSFt1lzlnMuuL1AGh2QnWXimFwXGSCawtZ0lVt7wv_pf5Ek2BPxIQEGqnd88D_7i_e-No7dBOwhoU0yxowSfGq4uvwpZ_m7L4Azulrz0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "154 W 127th St # 2A, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81044,
+               "lng" : -73.946907
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb16cda5ef19ee493389e2d04759fc93af1f025d",
+         "name" : "Tropical Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQShIC-MBEzfRHbxIt0mmWgzjsBAU0dor4IpWBtVKvQZHsWUoeGz8CwUfyVwZoQi51kr_JOCCGVEfn4tjLgRfw7vI7XUuklTw9Ls7xCqnRTz18tIiItILxlnxJXfOKQJM5_a_ZfnGPxbj_mb93Ch7fBIQnFBTyK2Bglh7af6ivc15CxoUmd4ciuVemE-MWj4eD91DxcwJ51E",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJy9r5onL2wokR6m7q2OcJSAw",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CnRvAAAA9FXCjUObSOW1wFN6bddo7WydQ61FRdVwi2RBsUpCaCo1njTCr6O_T3E4BZN7OroHsPZIDhOUKpqPITrVIBJ6EQQ6vpVuAN_PT54L3mfartceS_fxPZZwp8TW2Dt-jPqT8w8C45jKE2ugagHKXNj40RIQgSRGm3X5FVHOknXz1K3HpxoUSoG66Fm6rgOX7QJzwDLw3PI6_0s",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2145 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809744,
+               "lng" : -73.945688
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb159c46c3a976f23d15f842961b68df03706477",
+         "name" : "Northern Manhattan Perinatal",
+         "place_id" : "ChIJF16FxXL2wokRhpHkaxECw2M",
+         "reference" : "CoQBfQAAAIK8QXdQGUWWJBUUJKQ_sf9Vw7z3icg9fN-gjt_IPyzXhSeVPZqmc3gBqIjwHdwtAd401TodIcqSWtAz5rkBLbFVTe_6j2qRT8dHkJ4X1msHzlBQicP9WgROy6GoyVvvSlEww4pSRjSvzk4FM11M-vcYjpHDB0MUW4uLppBztcREEhBJDKlEoj1oC2vAZSfLuL2oGhSL3HNrYcirtpUgIful_EXaCdpJbw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "127 West 127th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.809198,
+               "lng" : -73.947388
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "48217280534c5d889a86400f19febd0f35d85ced",
+         "name" : "Senator Bill Perkins",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBkgAAAId_rf1fkyyrp1Xegw4DIiBOnFreKPxwl8adHF6FzAX8qFKRvZs_tkty0YLVhnCfHIq8HOAQPSe-_kZqZbBv51a2r1rTLXEceCig4Cm09ZwCSfQMNpb83eavtUKnfZqpnWfiMPHLiJGtqUG4gtcu5d-I78gXLO-0NCh8sGP0vgMMLAj2ZvEc68xAuAp_lYhOGlfMZ0bY5kXP7_vZ4lQnzCYSEIiWbneeJIU1VXK4zr-y9BUaFAwxzLCLHZAV73gXNGo-G-9zfpMw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJyQP9Wg32wokRv_vVUJ1zws4",
+         "reference" : "CoQBdgAAAAs8YkH5b0G_b98D_YS4jeavCPWWjjuJDOUl3pAFJWjZBHTEvv4DHpRl4mtGadlR-Vz-O9MIrHv7IiyyVOOYIqBSBjiiGYbOURlT7qK99tN-Kr06RtSA9x0iezl9odWNI8Zy35ldhoJ45Ys_iGHM4yQPAKZEtgCMoUichat6y_4GEhB50HbAjJ7Dvt8ovr3-GA2KGhTIGy7W_JuFZpV0lhGdrEMLZyRTgA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "163 West 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAANwBDbcC4vp1cLkOgLnvDAIVBOCml1uxUh-jfNmM2OUaiqYS35B3Gde8xWyRNpDx7o4Gjzz6JeTaG0Lod5f3XdQFvhmsg2TVC29WgAILVXiUKfqasekTWc4zPUIRe9tT0cnOc9siMUUrVoVcm85QHNGUcECXxgXPtGFJI13kFSvSGLzjKHQVUJN3tz92TS891hIQ3PBoiJSDtI_MXrp8Asy-gxoULKpvcCQx4IDp97sDik8fWvekOZA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

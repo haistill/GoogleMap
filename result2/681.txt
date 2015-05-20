@@ -1,0 +1,465 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAADjeXMzjs9QskgtWzTl6nEPUlKMhTKF8idlg04FIyYUTLNuhGLoGxDnFMTprblmxwHDTnu14FXOh8cSKPPhLCxskR3ww_-ZOv9XH4GQK-lSXrv6643B_MIJ6lyn1m6eDguLUkosfirU78sXzHIv-dwvMLV3QXjk8u4fQpSSLhcyJ3rEtBpdDVinYyoslkB7zI_CTrOjtHjYnr0w0-ETQKgZAKjE7ZAlpblYjFKcHsqT06enEsVGodFLo8DfpcMwl_FbhoFqq7vhXSJ5aHGISbX8RyRugJSSL4GOsfhEUUUiIeq4wIrLOsSVIYV22bsj8ihIQCjOPy_4keR8EsLiltMamxBoUfgB76Wwm4T4KyqdBf_yWUWlvQzE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhwAAAITzX9V3BDnYYgkUOGu2-tekt7Z6Z4bcrMuzpCjM9fTcpFNgdC1QxoneM_pnaWENL5dE0wM_Ufv4VAUzKTnF-yAV8qj0u5ORVd_UF0-JhX1uto5b7wy8gY8BKibDXAhgNULDpPXxD_pIGjv_xGObjxBcbdOLOI44Xu0Jc1QQWYw0AYsgeS9QfgwNFLLnN0-UKxIQrjvW9gGfUrgsle-ZdeFLlRoU3L2hbImD3uYzED6ciYf0PM6goNg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817915,
+               "lng" : -73.92677
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d20b8b09f2fc3885adff191a7466b3da34411e56",
+         "name" : "Hostos Community College",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 490,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyWj6JqdfnA0fvcYwS9k9S1szIrmSLOSpwKYKbrjc0n_fWM-rnGi5QRZa3211edM1TCpYIM5ILqTqiugrwt2MSzGNies0mdgpuUbHOelJ3jjOpXsSVr9DJThGvobSFh5ckxv8-uUYVJ_sxHxrfUtN6RIQ2jGw_Z-MsMQu_SbU6ZjYExoUl46kFT8T5yV2Wdh2DH0AO2BdJe0",
+               "width" : 752
+            }
+         ],
+         "place_id" : "ChIJ49l0jdD1wokRlJ4NQN2UVJE",
+         "rating" : 3.7,
+         "reference" : "CoQBewAAAFtam-4uQ07QvSNyJMs91jOX-QdPIBI83fsvssqQPsrwu64GPPpI0UJG9fU0EdDYRkUivRLFTBUYb6FjIbahUrY0i-4WLrEGQkqtkIUfuNwMHBRS0KKEoh_lP6Cn3j7i97j5ehXJOrqkc9KFEyKwGmH_-AbcAkq-7Sn5kZBt4PHoEhASRzbFQPGoPRBCNB0_YuP_GhTzzeMaKkjKnUlUgqSy-_ljuhZQqA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "500 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819476,
+               "lng" : -73.928287
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "70bdc66a2ea9804d5db5153b52cddeaef5245887",
+         "name" : "Pregones Theater",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtVUDGtH1wokRCz5ooopOifA",
+         "reference" : "CoQBcwAAAJeaZywBZ_xIxQwRsQeMTj-G6mnxRhnaLNdyae4IUB7HThwHqMac_8kMdAd5Gw4hW5CyvlVxSU3EOqQilDAWL1PyufuevR6KjQC2SN6VJfrMDys10n3z--MPcHVgc1vX4hCqDlEjLtU32pcZqIHJ8M0E2tRrODLlTeBec2tOIQSDEhDO_c6lsaS8bPZcru4nGydtGhR-5gASFa2P7b1UBpmD_85oIUw-ng",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "571 Walton Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819428,
+               "lng" : -73.927138
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f43a017115b829d445f2688db097edb6ab3beed4",
+         "name" : "Giovanni's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANFrMCAHdu8iGe80EyJoA91qFbVfGnxcxJ2kbI5m3wsL0XDlWfqgu1oMv8ccOMofanz2sCecW8i_dPNGuGo4tB28BVMc8e7gogHGR-4w7uZn_3NOCVxfAeV_AlGnQzKemY03HjHiXP5PyahFXI2hD8xIQ8cQTorlov-DV8-kQhFVw8BoU-UGx-pXs_cj4tDxrZILN-QZ2Okk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZdK7p9H1wokRXtG1oueAShI",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRsAAAA_ieWvSymoYHchWdHT6XhGXDlJX1IG5YyXo8om3n8CXQfZQRT2hxaUC4pV9vkqjXnSKCYnllaSAgeQvm2tkv0D9j0JK7S3HKT4Yu7j7hVtW3SYZIK9k64Rc5EnFKq4mm-Lk65b4ZErKEx26Vx3MTKuxIQMQYFlFNwnW5-z-qcccTBZhoUQJK8rpG6E6dV6QmGnxpx9AWRECY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "579 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819467,
+               "lng" : -73.927127
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "dfcae6992c88bf1313f4b6e7cb5a3b56c1789c45",
+         "name" : "G Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJD-Plp9H1wokRwW27nqMryc8",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRoAAAAlkc_Xrq34FVVoncr56yfgIawv1-36TdGyOZSYXWKPFNosuVg8y3oHD6OLPgA9CLpyrVjyJ0CxQqj8pMILSP3Lh1FxacO4f1pmBzKu36yv4BwrF0kxv-DbJUkaHGXx7t3EfSqW5MTJ8XjDFHbKtGLZxIQK7rVZNJZN-wdi-V52Ecm3RoUBGJjUOgLg3rCveLv9gGX2Us0hmc",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "579 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818189,
+               "lng" : -73.929203
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "c643a2f572e352b9d247a4327a6a3f565c39c163",
+         "name" : "Gauchos Gym",
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAkUJo_cOdrC0gWz2VCPFL6A7mwXQ_1ZVFOMr9XZnpe60RK3zqhLJGhw8nXjaxyiS-QvNazstLWtogI1klHbcq8zRrfrd18w7jhXi4VGKXJbgg8SjJAN7YJ6-2woXB3KyjfLh0mtTNhayz3gA2_JIiDRIQp1IJP75jp8qnL9hUJWc_aBoUZ3b0IaJTEtecyYG32imI5j3RWUc",
+               "width" : 972
+            }
+         ],
+         "place_id" : "ChIJFyt2xtD1wokRcYLu0zShCrE",
+         "reference" : "CnRuAAAAjJ_xPLa0dtOhEMCVbEU6DVaS0jaGXJft0L9m4QgfPzHT_UXPjtHyvIQPQAAvsrzJyXGugWzTeRKQf1X-cqbW0gdNhDxK3sD7Dt5iQpyu68o0xcYPKCZFGqrU274_l_MjlJM0wjbKVdIuY8SP-88GvxIQ9nj-0Md-CqCtgwmxJ6QCLhoU5Uf-eJpsJ7-VAyYZG6YukBAABTI",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "school", "establishment" ],
+         "vicinity" : "478 Gerard Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819079,
+               "lng" : -73.92735500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2375b06a8b709d3782e55d53702cd4a12880d5b2",
+         "name" : "PostNet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQcIjAdH1wokRYhDuotA5gDU",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "CnRpAAAA3hmvIADDfIBjxyv89wlj0idTMJLxWVtXthBN1yFLlFcZCpn2ClCBwTT2W8i06ixCl_iKbLo-sN5FoPF8STFOHF-gaMaw1oj4p9mH-k8P5JFflBhOEcYYw1NT4lCSCeEbfT9Ed3NHS3uRU_uNgCovORIQgrT9OQXt0VqC4W31nxBwABoUGEItvPggBmOmSe80uM4l1Kz8zrU",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "557 Grand Concourse #3, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816166,
+               "lng" : -73.928802
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "04d542fbb2ab4ba1b547aa723ccda2a46212dc42",
+         "name" : "U-Haul Moving & Storage at Grand Concourse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAALBQZ4xdd3cvkbL4fw3uhsOlSJuKWNS0lQL2IlxWv0-tabOuU_UZAoZ6wH7F0WegRwv1pZlB-yDoV7qyHsy0CVda_1pz3texUX8zKobbq48YFaqthjGu_JYm0lY-BSn2cnOSxaxYWNYkxUHKbSYCNuhIQDT1eXhz7tj9yzNLSh6lWWBoUrluGNY_e-cozkoFspeP1YhC4Fco",
+               "width" : 280
+            }
+         ],
+         "place_id" : "ChIJhzroEtr1wokRMs1IXIL2hBs",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CpQBjAAAAMfPCR0EkKlOszTfMGv5T464qgXTsoVg4KPT15PgbF0_XCFG86cm_1ZqrjssWxnyATe5hNdx8SyxjEkccMF7SkGSmBZvNJJaCirPgx3U_hmlEAOW7rzCTD0bNL1oApuLRM0AFNwYuzUhu_ezGv67ZCz_kb80DBHG05qpBUZz2KR_CKcTUZzQOUjh0ivGN3yT5BIQWfMhKZsMAWqaA0CA29Z8iBoUDkPla80G9vxtueWzGD74jxZWwp8",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "storage", "establishment" ],
+         "vicinity" : "383 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819072,
+               "lng" : -73.92728700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80c9df60dbc235c4602c2a4325fa5c8fb5006fac",
+         "name" : "Burger King",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqTklWOgL3WktonNVdAOQJM33p-0cliVdrLSfzZv1r2gcsaAIHmbTZBePuLT0J4nod06Rg2iNBB0NIrTR-1iWlyDE7Q_bUUOU3AV7keSO0efQTcsjiJm9M43fUtIh6ueb4tl2Fem_GflyVeq7K9amfRIQdhQ0g4ykrUYN8V2-mFl_phoUMnmRiuX0bBR6pK53Vx2mPzeV27c",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJQcIjAdH1wokRTbOarzSsaU0",
+         "price_level" : 1,
+         "reference" : "CnRtAAAAdJ-6ZEaC6LDTbPsbA71beeHBhOJRJdFvQUO2HXeWgRYpM_V4zqkFs5WhEZyQa7XJaZMqWNgmsaKnqEPoUivP9IHW3kivAdPEBDl-L0uF39bzXE8PZhuTOeSk1Ek0aYj4SYowr6jYzf8NMMY0aeRWBBIQIzjnuy8wdrhou-Z5QGDEVRoUPdxMgNOfBKMSi1DT0MuDcJjcxhM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "557 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.816105,
+               "lng" : -73.925793
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "7353662e833c5fd5d4f1bd3a8e4b6d8e2ec51551",
+         "name" : "Deeper Life Bible Church",
+         "place_id" : "ChIJyVUxntr1wokRwng31xRSuOc",
+         "reference" : "CoQBewAAAHhq3OeGr-kIXmv5xhWNumc-LE3U3FXGkad3mq_w9cI_bqmyy2OPv1LX2TpjzgWapUcdMnWTz2-5un7Q7Gi2Wa_2kzhd_NpnRencvV7EnIUqnx20GG5XpyBFYrDo2vWDPi3DK7wynEQ7fdlrwaum3uxwIc0z4QZ2l4U_5cr2iKV5EhCVFXA2Onud0DPmt9KextHBGhTPD6Ng7qsXF_XRu4hmcXhc6PL_iQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "213 East 144th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818805,
+               "lng" : -73.927426
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "4487f4744cfcaff133dadbc306d4039d109c60b1",
+         "name" : "T-Mobile Bronx",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 155,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5veJMjhE0sQlvZJwVT5i8Jbe_5zC2bP7lB7z-VZEr0aN6Q1xUBTUaQmeA1tXoAyCdC1nv0rniocG50bbpreeUucIRctgtPL6nt1rQdCHOLHfhEY_FzOz_44WHtGdAFhh2nzR1nxfBz5IHtVy4Vj-6xIQA2RGZGZJ_RF0Li0RSt3rMBoUoJynDPuOPJ8RjBCV48B42tO6YoE",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJuzsF69P1wokR15Kah7wRkcQ",
+         "price_level" : 2,
+         "reference" : "CoQBcQAAADC70yD2UMnA0z7D9T7iBJqEtn4YbkZis41AW4nkXLwitokjsbF28XCsXuWF5AzWT-biMcqEOdMCtATX3-g5V9l_CqaB0x7xlFiJjLIC8VIvnpm9W5ZR-TStEpzqPLmRqYRy6h6Kko5--fGz89AeyxnJzGvf7rov-qmpHcUOPg4-EhAdG22u8QsMIcm1xb4NIJ_oGhRvKB2A1sjP0_Hl6OIei7aEsJINJw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "555 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819014,
+               "lng" : -73.927375
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e38c822487219e611a296c1a2890c122440ec32f",
+         "name" : "7-Eleven",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJQcIjAdH1wokRhy3kShuUpGU",
+         "price_level" : 1,
+         "reference" : "CnRqAAAApLCxhMVJJWqy_OK4iRlK147gt767DTVEtLjXksJ90E7wgZZiN2_qvIKVni5yM4RYhsZ1jBf81802JyXjjqbN9DfSEQV4UKRKpxdLjsKWRLPZLim_RnEm617C49ixrdzu66iuLXkAPnWA-0IBrkLCrxIQP5yQmHws5XgR5acNwZ67IRoU-G1X3TzxJ3A1eXv_A4s4pvIodYw",
+         "scope" : "GOOGLE",
+         "types" : [ "convenience_store", "food", "store", "establishment" ],
+         "vicinity" : "557 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819026,
+               "lng" : -73.928348
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab8d5cd42eb1246ae7f7d2b1aab6afaef9c73f0e",
+         "name" : "Sunlight Restaurant",
+         "place_id" : "ChIJTWwVHtH1wokRC3AzCuDjzDE",
+         "reference" : "CoQBdQAAAHPYX1OIRTXrXXq1xAvTLjQXXUn_ZiKbzOOWAInTu3-2ZMmSTkuwW8jzvXin3kH6qyOsLV-vpdHp8kdRD1VM5n9BDDdcMo4kWoMhLigKCESKqf9hgg216rXKE8ywCgNkAu60NZiYf3L1E-mhYfPVDTFLKfD0CBanhqw_jy1USkVIEhBdhbU-6LNcL55EIa6a1PkUGhSHkkvlkkcQq3lKhuf-3H1SMx16Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "553 Walton Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817876,
+               "lng" : -73.92873
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "953239e73b4eddf2216da504e9e06e1f1a41e2c4",
+         "name" : "Heating & Burner Supply",
+         "place_id" : "ChIJGRotwND1wokR-_oXhIc9Jf4",
+         "reference" : "CoQBegAAAKt5BkepVd5KSrvM_o8PSNG3LYYZBa-tajy6Ciavk8kVgx2lXOux_p-awjLOLPiW0l-COCZ7qt9y05vEJGaI5WRQogaOoPsHhMsxm2B15wLq_MHb10MkFhiQEGpWuXWsJp8Qgj5jzeoE_HMXtfsL8YSON1j-Bl12a3By1AatJWhIEhBWeL_uhcw_jA1c1jeg1d2YGhQrxv-5RWH2mnItiM4lsMB7ia93Mg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "479 Walton Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817013,
+               "lng" : -73.927702
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb3da13293f2304689e4e7584e10b120e49338d8",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARm1jbruy0y8VFxw7C5xxL5KQbcSQHJZvDBruzx4vtfqrRyTOJWcpWg94uBPPJ-Z6VZo9m8pWqB2hWOcBViqKk6pcZ20LXprLnIJTyOjGNgd2ABZxVQncdWvTvCtC7Omf3Zj8YZ4S0b7Pq5tngmQPghIQ5rvZYgsGut5A720bvAV6kxoUQeAkVa-hPXWbGCEtjPi7qz5Sl2k",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJiZG7j9D1wokREN5UXUya1FA",
+         "price_level" : 1,
+         "reference" : "CnRoAAAA_CdYTI6TbpMQA1RaZ8-bVu4ujr74OLfot0TUmo_-KitX-IxXbxXnbecENLMYDtP1YkWGvenjZOrj1LKJU0eH1Abg9L7LT0hKlR1vg8i4ya1EidD7DKrRfgwZNzJ2Qo4oDPbC0BcdPZWf1nsmbyum_RIQO9Zo8AV5n6QV0E6rRM-U5hoUA9SfDRJYCZDjbJTJek6ULJwiBXU",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "430 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818804,
+               "lng" : -73.927496
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f08199a2b3f3b0971b766fe6da37c23e9adcee0d",
+         "name" : "Planet Wings",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 150,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAtu2P9XzBxXvfgx6lwDdA27cAEly0I4osqJskyTC_FyG9iJsbwkfQaXcNZ8Gtml9HPjlXBYD5RgQJLYZE3oAylUzzHBpRo-pYKNB94OhxrxjsNdxtk57ZOvD8Nh6hudIxqusfWe_zqTrnYkCSJbJoWRIQH3tAJDG6Yj96PC_naAI-QBoUj21V9OIE4OU_0Hlifa_GYmUgX7E",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJTzUYB9H1wokRGnnvjB3XVKA",
+         "rating" : 3.4,
+         "reference" : "CnRvAAAAghAHkNgHeCLVXaTguCWo0zyFMrJyPZj58usTkUar9M0UzNQPJRnBvZAPXfOysOAfMWk0zKmn2eqz_KwgQCsAF82PICcx8uXySqnHQYZAs05r2A-CXY_BsaNfR-b_TcRm6lyYwb6_1taV8jIKQvjh4RIQS2GLLdJjYah4JAw5AJYxuBoUeY9xOt3Ypj0kAWE9CZvIvS69PQY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "555 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.819083,
+               "lng" : -73.92778
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "35df78863fed86e163a10ebb8914a7c9b436bd10",
+         "name" : "Geel Clubhouse",
+         "place_id" : "ChIJ-8NuA9H1wokRwGsuSpbkj5k",
+         "reference" : "CoQBcQAAAIL34BbXZkrOrBIi-fzdNlW75Jtgr99mxdoWyW2qeoylnCZ05APKqGThknL6Pd0f2sA0D5p8145m39aJZPzGfTYOMjWroPGeRkz1NObppQhXhwOF1tmv_CxJug_zDZrpptkxWNKW6bv4shniLZR-A_s8TEZodbJtDK0jL2IqESppEhDDCuXojJ-9MXfcbQisMZG7GhQZKTiFXxU_55zYcYbbsElvVkLeiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "564 Walton Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.817581,
+               "lng" : -73.927684
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "08553c83ddca378923ec762cd0f99857a9aff66a",
+         "name" : "Hostos Center for the Arts & Culture",
+         "place_id" : "ChIJcc4s89D1wokRIDXFxzjYFX0",
+         "reference" : "CpQBhgAAAFyLEKVxgXP6zKuL62IEsk7uofgnB1ANL7_V5BWSvmy1n_8Ja-wws_m5TvNY3rlQO8lGHPUEAb_HV70cafrc1gMFFaXLFujljf61wILCnKgdOsPteEK6MDYe5FF0_RvNL_MiBrLzrKjKlMei2DuXk0m2bPAsPOd2SGOO9sFUR-OXxSkYeIoWACpDZTjNsoMyQxIQ5-IEciGz2uEJDfvvG7ORmRoUtm3Cr4IvIHF5KsP1LeUX_esM2-4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "450 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.818857,
+               "lng" : -73.92782800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e1938efd4505dd78283fd4beccef9d4cc5bf5d9",
+         "name" : "Express Deli",
+         "place_id" : "ChIJkTNjAtH1wokRd7SBuntfwnc",
+         "reference" : "CnRuAAAAGuFlWM3YVDXTuONXClnhlYojUpVdvApdAo-NWln__eNUiWjC34Pcf17vZddkP9bqPTmQ8SNVdBPkiHOWFXNUUkHpbS46yQBx19G58mTwdy3kKT268K0ycrgrAJMeNOq_46xw05jT3MYosnpBf89pTBIQAz99QPpebWHbbZ-DTeFhQBoUTVoMUfoosxXtl3MRhXG9m419Kdc",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "149 East 149th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82837139999999,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8364789,
+                  "lng" : -73.90722889999999
+               },
+               "southwest" : {
+                  "lat" : 40.818436,
+                  "lng" : -73.92658399999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "20a6d9a979b2218620905a6af5f17b789875ca99",
+         "name" : "Fleetwood - Concourse Village",
+         "place_id" : "ChIJSRJTZzT0wokRRFm1FJrnjCE",
+         "reference" : "CqQBngAAAGS-3iPh16X6PpQtJrEsKg72K4W8ltikxN7ytf4drl63JfsTe3EywZqAFKT8YZ2xRWLof0zxkQh7RwxE_Eh3yBaKaMyJABeOTBCBnbaUp87vH0OBD1pNMxn1CZuYiv4F-YZgovqzORqQouxOofHXwpTKPepwSfW94hHTK96B96ZR1f7Uw4Rqlp42Fp37F9dc4q7BK0jTl0rRe0eBNRrtNlUSEBX8M7hp68X8U6CcUN3PPzQaFH8ZkBEUvMFJrG0z96H1Y0tReL-M",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

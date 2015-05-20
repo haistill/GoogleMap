@@ -1,0 +1,585 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMosSv4Oltqo_4eAAnood6ppYiAjZ2sL4Pfza8-dTYbqt-sOkKZBNTrjajDnZRCA9oDxt0fdND9tYqN2sboYIi1FUNQF8zR0NWjsy3cDBOd3GBF6RIvpS9NLZmdZSTzKXGEMhgxdp-CUVQdfTM3w9BA8wjYZMHn2VajN9vxZCNvrpoRJMrEcCn7dDMjrI-veaiAVy-BAiRziLItCDmlnClhMnIJQyRG1oMopzxdW2tuoZIGz-zxjoPrXSurXcue572brrZEYyEhmRBTM7YL5R45DbCH4phqhoKdyTnDbTm7PNnIBFTEQBRgyWC5d_n4TNBIQxWfQ9MpLEH67adcWbOyZTxoU8Pc42AFj6ulYNwLDgiwGmAetm2s",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7263763,
+               "lng" : -73.9817771
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7278432,
+                  "lng" : -73.97995949999999
+               },
+               "southwest" : {
+                  "lat" : 40.72507969999999,
+                  "lng" : -73.983535
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fcc9c80c0dcb9231e408d0e5d4afe847f25cfca6",
+         "name" : "Tompkins Square Park",
+         "place_id" : "ChIJDY-I6ndZwokRTyVjfDd4GXA",
+         "reference" : "CoQBfwAAAEMWa6cnyiyX18E9-8fwCBATzJ78AATJJLmjhsl2FS2G0qYFMswhRibZmM9gBel_49XBjXFxLE5kPb6LKocOYoAd9DzMLRS1lSsDPUgsWxu-9yDHKgLQS0vCcfr2TglwE7nei4MgTbUzSxDLpk_4T4HRm1eGPDlEQ3j3_Xvvt0rPEhBE1oS6Y9LiG1ZkI1NE0RUxGhRCQZH68glK9-lGGtHp3owduw9oJw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBiwAAAKnDbeTR1GVw2HcSYsPBKxHSqQ0Ge38UfOuYd5GPf2D6fYFRXBWVM6DNQMtzzXjBV5K9L8vbBxPk4z8qu5YtEr7woZsJWNqBD9kMAB1yt66AeWfBjDFCQNiq49p3kphuCecOEPBbYgwy4oOSERAWOZu26e2pZ6rXkVYUwjVzG650_H1wIByIpG_UE7yzVl5S-BIQPmJq0HRJTNpVGB7Pmv7w4hoUY1sag0i1x5pbslxaJKE-kg4H1Xc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725814,
+               "lng" : -73.983903
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6481631e1a4714007768eea1a76d964212daf4ca",
+         "name" : "Pyramid Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAYei61jG8RtvrvLVWqkx60IoVhrsmg6qFmbOUB7iJZIESt7Cmoq59sJ7qZIDn2Ng4dpkHKnSmrFlif1Ap6GDRDkFS7fdu4pCVcdzAu_l4tDSr_0ul3FOArP4VCm_-YhcmxThEVXJlfwdAc-7QdaLOxRIQgjBBPaH6PGWXtgmphf6R2BoUAeCx3MCgSCBxszzaJfDw4y2P-Mk",
+               "width" : 560
+            }
+         ],
+         "place_id" : "ChIJcSEXTZ1ZwokRajMT-5I1DPA",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CnRuAAAA2EcfsN_fPg0ksY92i7CFim3N3EJ6XHVr8e4NltatBLP2JDGLx8X2blMeI2jDVCxRBkUhAat8P9GG_SgQZqBOIg5XsZdNcZUz3xbtiXPl-tcERQy4jDPB4y58ZwjWUOTnIRSz1tTJ_Dr13EG0O3W68hIQsKP9J7ApYyw7l6hZmIIP_RoUhcvXLBEIg_aosfD2GLW0KL9cwu8",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "101 Avenue A #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725524,
+               "lng" : -73.983707
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ac52e9df00ee8496c243d82db6b532258a5bb91a",
+         "name" : "Sidewalk Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1214,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAyeBQsY4SR7uXfzm2f4BRPK4jWBzLa6aUW8ZafiCEeW0u6BUkGCnBWON2DvoK3ury8pMujTL5IIdpegLZ1A9hAuhVpuhTbLykgZlsnPD3vpPP_hvD9fljobZ3jWpvmdtE00H3ia81bA_83nG8M3H6yBIQebNKSpBUnjatprQp46X42BoUKZcleZK9hmHvuwbXuBRaaGyCJgQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJjRS-soJZwokRyvvVRspU2jI",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRuAAAAGrwObxApHwXc1jc4In5-8Ypk8txdesWYVKQVo48d-sXXP5epJzOUVqwCerVh1dxJwIxy-hU4kOF6XtS7Ten9jtMsqWY398Fun9uRbfvcIcV4pULRQCFE_RzZ9ZON47qpwFZn1rCTxRNYD3xUS8eb-xIQBM2zcRH2jJirByw637UCuRoU9HygE6n7S46d5L5F2fK5QXHHMi0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "94 Avenue A, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727308,
+               "lng" : -73.987008
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e027daf98e85a6af0ed57d868786b8011f2deb10",
+         "name" : "Barbara Feinman Millinery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJB4uj6ZxZwokRslZA7ZwUcH0",
+         "rating" : 3.5,
+         "reference" : "CoQBegAAAJVFliavyl34AouJW3cMjSnpEMYt_DjmmpMXS3zudmtJoZ6ffDIsnekI_br8SHlWqBRiI1lCIm7vwl4uH0L0UNBVRI4kwZKFh7yVVoMdO6b4rPPQztipxCmf628Pw82QjpjKel73x_1oU6ZttLdbwG-4EB6BUHuGbf2uDtjtOr-NEhCXUPmMC7RpIsW5ZurUd6eRGhRJ5HvSRFva7BhSJCILapgsOb8beg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "66 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727086,
+               "lng" : -73.983795
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c256b8a50619655c3175883f59f9137459ac3c62",
+         "name" : "PDT",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPlkqS9Ih1yVywdItTeLCPZ_rEKnSJAXELOjiyBhWNJ1n9s7W-eD1-4tU_pFkSEFvv0DKL-eoH5qglIaHAErsD0EKSudp2sSi9H9-pTlKfdrevEZBQWIh3shdLaG75RHnPy1Fera-XdvgtcWbRvN-7RIQ0jVSIYIaJbWfUoqwrhHn5BoUf3RbKnsgfQKm4n3-HIslQdQwIBk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJb67-ZZ1ZwokRRxBYr3GlFp0",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CnRlAAAATRYN0h2m6O9q8jWsRwOtLXs6BMcxno-z2UqGp0ZjXmJKWXATGOx-ucyJsXcwN8HBtjAa45dgENwA_KbjUCWXzc-I1eIqDuEzwPBbc80VJZ4ijeHYwvY-_axUjOyqNqEfPK2VtQ2RV4L3OgMkq65QohIQ8yWc2FRvNKk0OD26Rr0HCRoUTNFIbCuAZoW5ZPE3s2F8yC5FSvw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "113 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725324,
+               "lng" : -73.98435600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "2a303d633d72edb2feb41e7b6b8c59ec6affc4ed",
+         "name" : "DROM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 638,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANQqGQRLkaNjm1LGS3Tei3O9367iMf-E0Udyy_a8J2FraybEWocF2mdk2l90XdHrtDvxMergu5JhugRkRU_sSYA9fh5M4jIQGtQlBHg3r5GRxZYfiyWADtbJDkj8xhYnxp9B2xIK2VM_MwCxFMA2i1BIQxVaeHFN6yM0lCLskMxvodBoU_N9-ThbLGrD8PPrq9o1vnENDRuI",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJwUcmtIJZwokREiWU5DTPSJA",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRmAAAA3a9u24huWMWamHxcks-IwoJVHwzNevpBKBhs5W7MFe_4paLwLj1dvL1RI3ygSumr4f3WigI7yjsuKTYMhnpkpbVqMqldC8qV3Rj4GQMJreO5jyBwaAM4kyBcE9SrCMo7VgjMi5FZExwNBBoprEyYEBIQdA2U0r1w38PzxGY1n178XxoUMrami1PI0QOJUyJ9h-b4pbmWicc",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "85 Avenue A, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726946,
+               "lng" : -73.983462
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "66483103af90543f607f88bf248814e36db48eb7",
+         "name" : "Ten Degrees",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAANp8_P2r13P63tvspzm9niA552sBrxb5LlZOYuE94v-mgL5rUejL3psf2P0Z47jo2Er0BNehLINKA0_2zwctL_7O-O9qfzJmxDQ8lDKVBtlxQdoE_-oj6OZokis0vAbdGtp3jz717pTjwVcD6253K9BIQ__2Y8UjdeEUdT1GYk5gpIBoU3ZC-PTa1M0CRTceHTyWZ5T1bHjU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJI1FMYZ1ZwokRhOThOdTMOgA",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRrAAAAiv6KAhBBgCunz91kwnLddKuYyC1KL3uFXi5E8RgAvlciFWPHEB00tR5bihngKydsFxk0p7ZJImhs0hffsChxat0UBE45ty1swYeVUNmQ7e9WVmrpoppWEY6aaq6QDuhjxqolEvbL0dXLqnTxUP_JThIQrClqCwyY9sBqkzaLYDYknBoU1t7wG3kMXmvjn3BsNlKT8imlkx4",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "121 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727068,
+               "lng" : -73.98375799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5292ea1855231f8636b424bd90189941362705c4",
+         "name" : "Crif Dogs",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAPQMHvVDWpWibVb2G0ipOyaNy0CfUv9c_xS0-WWjeNWHRnDz4xX2oIY70amnxLaG79iKeo4F5mVA3q7lWPzmw5pttZack2jhVVSAYUCGmDsoLg2zf4izpAvyK7dlee8W1XANMBq34tzOnUQ-S2Jlc2xIQLVUW1Ji2EuvkS80cF-Y_6xoUkx8eBvveZ9k32qDVAjAMhRmNluU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJb67-ZZ1ZwokRn6evcgcOiZ0",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CnRrAAAA7Efb4U9uizFqGaK4tD-aZDXdJqbpNhJy7YDiuSZki03bLpABVH_hxAJ62BDkbeIJXZY3hOuztlXiAB-EadMK-ZgI5Q8F2Vxsy29XhGdSMy9-Y2LbdI8IEbmQHg_OSpkSAjQQ1nDhoH4ySWXpKYh-tBIQ8A2QVW2Ql2xitquc4DBmnhoU7xXSAgg5Atwjx3djZvyrNGORXp4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "113 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726272,
+               "lng" : -73.986521
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fc094daef2afd027d8608294daf8ba6d80a51957",
+         "name" : "Panna II",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAewx-mjZpQ41G_cGYT2VuUhzDi073XcETXtSrjoBi7-H0B0RtC9H2FKPymwGOg4uPehQjGljj4GhVgqpbDD1piae5j0AlI1MDm944FzegQ-p0jCZyevX0FmwTshowewO7JebFXOF1pvGKfLjjeh0wdBIQIUYqKJ4rVwmMnfgyOq0QLRoUgi-8PrgR_4zDbK6Pbbg6b2xKNws",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJFVfj0ZxZwokR7gVw3e7EqtE",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRqAAAAEbQRi2jdG0C329dCI05CfzwxgJmDCz504k6kL6tyZ7ZufrRV4FPh8SUezFX-n3wd1Pe0SjXrO799IUY1bRHUo8_AxybEYkZvFhkcKxE_GsHgws0svBPx0Ox15OGrC9CgOLr2MmB7U3Rh7oZyMH6iChIQ9vuoIxZWtA3bXCDb1pY-8hoUtoiKsb08cvXdn_9MhMw5yefsjyM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "93 1st Avenue #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726954,
+               "lng" : -73.98526
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5351579ab33cb0a96cc00272a2cf895c981dba0a",
+         "name" : "Caracas Arepa Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9lNT1jE74NyTXQ6vs_VAHliFrL-O_CrkR7ysh84L3j8qbNp8i3Y0MB8tff_WG0YZXZE6GaKRMCGbTbtpwTalEgAPf-7gpTBXQTOl0VhgZ9xbwJfpdvUpdRGoavbIFUEt8kyB98Pq9SIlBzUKih8x7RIQS3vQddwb5D6SW3lDINjdlhoUGlFiXljriu42zKoD050tP7AV9sM",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJu1i4IZ1ZwokRBtJVfxJ04Sc",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAFXvolbGQKCXCS2iR74C2maCuLTJx-FtF8Pt32SxIiJy4_1mSslyVfq7oNsLqgtoRThyK2JIFIcyKdyUaqJQ6ExnUjHScrWk6KFUDOjrG3KNxFYESQFSHYnTHiHFZpyPtm5ngpQqWxo4RmCRRhsudI4dxmD-jxKQDa7voLMGnWZ3EhDBw7lOvfhf1b3qcBMC3rNVGhT5f-xcFF831K0LVCiW6ftFmSPYTg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "93 1/2 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726928,
+               "lng" : -73.98532
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4d5d2f0e726edaf1bea0233b511200b24c7b376",
+         "name" : "Luke's Lobster",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAGDXX1863SWFVEplbphppHWIBEB5GoVdPQvKMQh2Tgkx855XzHyGNYW91kyWmna2M_Wld3HvJrV1Nvr_uSQZ3qaTovlgJXEJP2NxreYGK0tcCPya2J6cqyJQFRIXbVFORiUEptj-q2ibuLSAWSnp_t5Fipx0AxlQgmqPCOGzT5KTEhC2HiK4j--6IAQoYT0Ly2aAGhRmQISUclFQPp2R-w_fPcJAYGO2OA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJeUDdIp1ZwokRuudtrp6g0HM",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRvAAAAXWts9vTaqLAffVzMVftoMxJp5N7gwYC3CoJ6z7hQzvbX6PcjnVMILFk1Se_fnI6Wk4u4g1vBUKudQw4q_x98M6nzgmFeicWF4LRTIXNtF3CBo5feevYky0swc91IeZ7E5uUGs6yFnnAZPq3AyjNDXBIQ0Oxh3TH6pf69sCF2wlt57RoUqMCcJT7zibbPpX_6I9pZD_JcQug",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "93 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726407,
+               "lng" : -73.98410800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8ab7bd8974a57d14abbac302c631a5b079851ea4",
+         "name" : "Big Gay Ice Cream Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 431,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBlAAAAG5fSp7CmphMAyzQQvVj-aGVcJASLaLAgsrBn7WiN8BVCLN-Nx4v3Uv67lXjA6xUZ3yHNj4hYcY8Hk9oWGbX45Hxwp0aZ3yudeBnLDSvmdweYUGh4fq4r--ebNSl9466II6kp2ii7SLH0jremP4zgdykJHvnHGQznEiS35RAK6ELI6RPN57TvjtFV-DGKTF8W82SxMoF4iEyv6QqIXy3IMISEGFInrc4zKwu591L31So52kaFJcM8PN89aO_chghx390N20Fbz2E",
+               "width" : 430
+            }
+         ],
+         "place_id" : "ChIJBxqARp1ZwokR6XsKO2w7r6A",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBeAAAAIeN8GbDq7lVUBuzBZm1cF8pn7q3KeXt7b8v2_NV5qfnyGXllCKERgL_-9X6YKKI48T7Am2QYafT2-s3Ufr_F54Hx8Uequ23P9BdP2r1RvWwJYOEraVZEW8N167wsp-P9EFVl0-tiON9gfFRBFCVk64WT7xe2qeusn2ZmQEKrlfgEhCaJ-CjkAgGlaybtoTWLLN2GhTXsopRLc2M3zEb--E-hyncNS_K2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "food", "establishment" ],
+         "vicinity" : "125 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727417,
+               "lng" : -73.98437
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fd37bdd4d4f7fdac2c000b7a9d7d741d924a02f0",
+         "name" : "Cafe Mogador",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAV6fxTd1fdcTQQ_KEmEiNykhqfQWlGDMCJhsjJZEAdZiAaX2IoSSRN2Q-XGjRBJeWoUgSQYablZR0wzy8jb3chzGIcZ1SwvN_kMwEqQXGrupMMHePgDaLybxXjatIKHceKh3yeOa47J8epKlu4LgtIxIQYwh8eNjxnQdluq7hNu198BoUnbKMFhcbyDbMaPI5Kg_cJPdTmfU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJK48-E51ZwokRvAA-v6fx9y0",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRtAAAArtL5SueC8-9Jyt29hpcuTFZG8tsiRqkEUVVMnb8i0H1GGjNAFf63emwh9NXvL5ZAXzs4yss9wVdIyPLeteaZ7PdAbSkdoGBBWiw8bvD35fZx1ZkH6xDwLgvdM5OsAm8EIO6RmfBIyEMwL7eySSCR6xIQv4ujbu-EQo_8n22dspkFHRoU54m7eL-3cNx3w0tEOc5rV2Pxgig",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "101 Saint Marks Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726291,
+               "lng" : -73.986587
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d44b0e4a7c022a4ad5311024d2b94a0b73036d5f",
+         "name" : "Milon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAmAB2IJTymg5CZYQ5ItzqKt4A1qSLjzwmpx2QjXgWMsKDr4A74ksDucyOdIO0nc3946ExbgX7nvLjZNrKFEIBeuhi9b1of9MZt3gDX-zxoN8_y6eBLcpDwHMr9kXRrq2q9g5GFIiUFbUdlZGiYZrpHhIQzL8ZGw-rcTFsJyeInUIN3BoUd4otiifoSK7ajlmWwjheDgtIaw4",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJFVfj0ZxZwokR5_wdiqmNatE",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRnAAAAsZwsKn-thA8zvfhFPLY2CgDEHxoeZpJJWeAvYd6-QKkI_AoRAbsN6k4dgDtFXDVOAlY9bTEOHe3MfhH5EJcwy_GNP0B6lCTKQJpcZf1oaox6jzFzCz5Bp27H9ycO_LJy8aGY02t0msx9SM7PN_ZTUBIQzuYn7_Ve5cptNTKlPpLv9RoU6-tx8kTOLN8ovFpN8-kPmUZaA4c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "93 1st Avenue #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726331,
+               "lng" : -73.98647200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "87d2b007242469b62b08b5a28d320ca27df4667d",
+         "name" : "Upstate",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 682,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-QoPumqmq4lQDS5Jt2lOhHmzjvaVpOtcOhlstcYd9ZmOLuJu30ZnTjtOojCX16Oj5L6nThfBVAqznazZ-FDVzl3mQ_OssVxrgcNsfbTEi1b0lDSdBxhz8Y_J6c27MXTMp2wdIdCAVN1McsKhNgfOdBIQPJUt1LqJ-bZGMOseWSMpFRoUjepqyTTr_xZbCUMvrColctLAm5o",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ-TjK0ZxZwokRY05GdFO1_RI",
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "CnRoAAAAIQ01ZOJ0sPoMetYs4Pi5mFQ0IKUXob3QgNpOeqztn_DDCEx8Q_dCG2Aza0I3d7Kz3_tKuP9Sp6GIoS2pEhuIgsX5I5dAk-BnvEQxSIqRTgKcUEgh1I_ykAOSMlSzxEzzHw1ZpYiYktGL85v_DsdcUBIQxTLH73VE49WN2Dj9oZDXWxoUXrj7UZJX_2ZquGzP-SB0Ogi1v04",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "95 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726943,
+               "lng" : -73.986104
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fcd0d6693df36bff9aedb4dfc4e2ea68fa3360b9",
+         "name" : "Maharlika",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAQy6F6umYoksLwlB9QO8YFMeU4VYnzwyY6UO1CpGa0C06TOgSXRKLSny4ddAj6BBkCrPU9JFlnb3dO5k6-cIwmkhtHDMWX7xt1H4PupUaEhr8Mj0xZ57YTI-R5njavFagZreR5rN5fo-JCIGiroz-zxIQdVl50q3p-OS-Ps-XqhEp4xoU8d8v8kdBlJ-lxnacBnRkGmoQDss",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJCWkC35xZwokRor0Jzians4g",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRrAAAALHz3aR0H9-TxM6zeyHzs_WVI9525OXCIe1iNZ2hdgpV1bdeCXV51gxTKInD8VicutnEdESaemxYo0FFOhrMoS8wNSzqQVlXVtPFG5dY_07yuTyPEpD2uaEnOB85z2Q-Mc_e_qPn8vxrvUsUBx-o7eRIQeR7QhiLX_BWOPKNCjaduLRoULbY7Q1jdJafiyMEWLRQXY81DCWg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "111 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726241,
+               "lng" : -73.984337
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "404953034d5e2206f3cf718e2ca750745315b1a4",
+         "name" : "Turntable Lab NY Storefront",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 863,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaYA1Tyk3wOEd4tFNOssB5XfIQr_WmUTnVijYyMWhnP_bghIXJWzUAH_fOVMZJVZM0TBIaBHwBT57wUukAqqrODgmHNrhEU3YB9U21YAWpCGMwkYnfsEm3v4bmcgabvZPt0j8RBidcBoz71WI4wzpIBIQQ16vXgWlgJD1hYIJjydwshoUwubFlGhTQvl8Ud2zAWTSVC6DmEs",
+               "width" : 1293
+            }
+         ],
+         "place_id" : "ChIJy-rSR51ZwokRHWa2lIpptKA",
+         "rating" : 4.4,
+         "reference" : "CoQBfQAAAL8LyParpnppjx65OxcmBKB9Qy3d9Y47cSJ8GbSIklMiYSnjeTn_iEaVVdaTVRlFiAmJvU1nqaAt0vZ12VfDl1150Y9NfLlmOS5dQbZTtKpijyVXs6Ptrb9wJzq8-7BxXGW4ui8pMSGHzD_EdbOL8nZM_StpQHowL9fh72QKHEO9EhCtge5WMrywDVqmvuikoxasGhRXdz94rVZba1MWWNtpX9tWI6_w2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "120 East 7th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726798,
+               "lng" : -73.986287
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "449e4894d458e16a6053afdf282eaaaf5894f602",
+         "name" : "Empellón Cocina",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 560,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAHyqWPxBzLNpnN9Pz3FyORKupPnM7FmxvwKXxYVtqnEdcORLX7rQXyM1fKeEeonzcX3H8dJnCOvDJv0ErOTR16k6p1asNmXnF8bBgbRrQ-pjAAzVH452Prbgmnp251BPY6cuPSvLsl04yAoFPBZc4GRIQKsh0S54zDNnBSmg8X43-yRoUFPLVgZ4jvh0gc_Ltg2goMJ5InPQ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJt2oI2ZxZwokRrAJvZb7wPSM",
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "CoQBcQAAAGBIvj6YQOHDhrCb8K1khzLTBnS8UwEaUZiHicr-mS4xPjNZ_DDjxl7nvOjzBp7jlVYq6QepF79fXqSgzwmg1SYs5DNCeVnAXEObFXXkFlXM_8lhJrlBsm9H7Ov9Hmvafc7a5mCsofmco-jw9TxUdB1N_kWCMik0YIRQYzNYoakJEhBLNVuZe9j947vv2IFeFwJMGhQJsIE6l1nH4XWPpV-7XAeGG9Ervg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "105 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBigAAAGi2nmBeN_JSmHrxjicHBtiiOXfSHiQqEbaBx6K_7nIVj_UuI2iPP_XiDPkLoRnntgcAnZg5hHSxbTBYwuKAmXizMP3xidLqFY6Nt1JaTkzEfV1BxMEUPA0zrCn8wfaBnZzxmVkGz6GlEZf2XxKCyLbyl13ZfVLDsBk5wjgas5F1P7_rCg3gMdi0IrddKsPzgxIQtQYd9plSsmghUeuODZFKWhoULb9TBTKpbNhM0WmYtezxNlPj3I4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

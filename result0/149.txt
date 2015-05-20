@@ -1,0 +1,509 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAMsOlwh-ycoKzG-eWTcE5VCB5e1XIWCBas2rD0P6GLg8JpCytE1d_O4FGWnxcG5JqCEldP7MVEmT1zLdUa4faiDJ57jVe3WW8hA7_uJwHGIIa5oL3e5XEMu180KbyGDW8m3lyi1-Q8sUueYdtM7PV8hLtDQCitGCHW6aeNPVwGU3VBtWU7oTHn4TKKB_RpAhP9s7xcACYdYf9TfMWaDNubCrF6RM7Hbm_0OQGbYaHrnPe4fe1BBnLT4Zsok3ZQ-nYOxQFKYxd_dDNhpTwD0SEnUTFyeiiWEbPpMKZt6ThgrwFUNvQz2LdDvSILif9TfDORIQ3ISqcD9hlx1AEZuNAQNA6xoUCYg5MTNqyQexRseyec0uaj1YpfQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7074909,
+               "lng" : -74.0112764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7170449,
+                  "lng" : -73.99938779999999
+               },
+               "southwest" : {
+                  "lat" : 40.7005852,
+                  "lng" : -74.0164805
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "61fbc2f31ce2ab80274bd3abb549ebbf603cfc1b",
+         "name" : "Financial District",
+         "place_id" : "ChIJB8iKMxhawokRs5oRixSsKwA",
+         "reference" : "CqQBkgAAAJu3RugVos20N50QtE4oWj01Tx6bDQiCChgNsYM9GhLdR44auvYDMg2Ax5MGDswCZes2VSb5oRBpuZ3z1swL7x5l6wIuCOum38Vkake2TvhSVYqD7Bi5XMR3rq4tp2nB9UC3bwhA7wNtYRnbxOpuQmD_8RlR4stWywfAYfND1VGKVGJjfzumZhkn4FDWB25NWjCbSWM3euTTChOvFq2kn4sSEIcITH-9U-wNV7V9ImhbEEsaFAahBoARqTRoTKENzfbFmmqYyIHP",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706877,
+               "lng" : -74.01126499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b9b93a970514aa5598e23a0b76ae71206986745f",
+         "name" : "New York Stock Exchange",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAlLJbU4IIp6vCUmmNSfALCliXnnNGjU3-8iDDjfNAsd3k3BxhMpDmpRvYCEyN0lxZQWwcmPV4a6Z-hYXcTM744AuewrHQJlspsUbvX8a7QOUkM2EcpBrZlMhTUI3XbPoksRxpIlIRgTZQp8lNOV4yRRIQIynsoeEMI7ZbN-rryrZi4RoUrOAiTNhQ3SkrT1DM-1gpIKRCspI",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJodiAGRZawokRHXCBqdWXV54",
+         "rating" : 3.9,
+         "reference" : "CoQBegAAAGDpcwGhT8uTVyo_MYqpOx6nNn22MA9cdnugugo1FE8aatGAJvaxPUgqjtLzZL2JC18TkHTWfYLQjWFadEUkdaB2b11CLwhmIbs6PPOV25ZqiS3Gli-rvVzd06RgbQUSB8vVJDBYIU-49VOK0CwYJRm17EqwWS5CwC42AO2Q0OhiEhAhUESHLBMJHNEhF9Vhj47mGhSM-kxM3gnnZq397M4hkTm_GLqIcg",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "11 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707399,
+               "lng" : -74.010209
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b3fe6301d045106e1267fae5357e6f2aaab812f8",
+         "name" : "Federal Hall",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhQAAAAVA3wjqOJfxuRsQm6dC1IcZM1R14APeVbCzeMlKPfWIOsngp335gpaizZ90VDMV33clzzYTzQ0kvTK71jXxBHbbVBnw6szuNZD9Rz0yi_sdYW5MGIdl-1AxAS0d0oq8XwKOT36-T5LNNcfONwsume5wYN5zc2lJj1PVTc5y7qcIbqpETs-W-YYfCi1DeNn7XxIQoepcv2RP6O6XSqbvQs0xvxoUJrYxg1M8BNsks7DzhAVlcrwYRLk",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJAaIFAxdawokR8txc3YPbD3A",
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAYk-DG7NDVvDdH3DhiuKZJ_qzSEUgBXdCB7MFfGWY98WGG31rLeNvGBFQKtJtvJ4p5wbppyYtN14NSZL0i7hCUCBX2s5GMwFYUCQu432ayEl7JFlsDPhzHp0jh4kFiVtC0zGmH9UgttpTHf8xZhcZwBIQp8Pc5fdkRGKk9e1oouuzKxoUpIfUhc0R1gunnHu4JLB4RqROSKE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "26 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708062,
+               "lng" : -74.012185
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "95b6f5e36821ea086b922d5192309f3e56fe5b4e",
+         "name" : "Trinity Church",
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAMQS9RPN0UrQu_X7Q-ydK88KvGEUUMvQKfr5mYjnNSPzQ7N2JTDSWaAbMF8XCI_AGuinr3M2Fu1ED6wG55RcV-lYvt1CsCfcF5UJQxQtCb_wtkMxdmEi9GRG5VD64idYS15tRZ1phasI_F-LzxeehzhIQXVnGkM709gkeX7T7CQxOkhoUKBrtN9u8NF_ZDF_TRSDZuAKWNyo",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJbVfZzhBawokRnmCT-muojBA",
+         "rating" : 4.3,
+         "reference" : "CnRwAAAA108iEbxSxe2E5xcFC7rKKJgKh-yL8XmsIq6DcIO01IbPhY7SnNyk1PfrLqxer4XYxTfYMydCOdVJ2AGfu904vFlSQBzANqlL-Xmtq72uSetycXSgzDLbLj_54Iqx9qxgpGsKmKG0MnA3liN5J5wNYRIQ1EOGvTp7J0oKLnO-EgPGuhoUK5h95jAMowWOMqODGtVn9iLYPo8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "75 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706252,
+               "lng" : -74.010694
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+         "id" : "a4cd1a705c73966eb5499d88556dc0b11515648c",
+         "name" : "The Wall Street Experience",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 898,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAAhyR0-cDID8dYyWNJe089nseEeph-IONpTOPl7Ux8cOrYKbnnOPWbGqAGB4sITrvRzWzV759YSPJfzbWL1u78P9zB78pjkiSj6-WyD8ttptddcuHWU0au1hKuJW2vW6UAbakrsFXKCKqXJrSZQ8fTfBIQUxlzyDT21w-54yCqF7fgQhoUNCwZuZf20iTZqL9RDCOLTQ71J8o",
+               "width" : 898
+            }
+         ],
+         "place_id" : "ChIJx_966RZawokRplfBP4xGt7E",
+         "reference" : "CoQBfQAAAAIuhDoHvFV5UGDoforwuVsUsTrQOZ_R_fIR-pIOshX3dfuouf5PapCzOgoy0rEh7DGpsk45F6Pf_DIG9HhZsJQhtyqCMMkPhmRbo867iUA5R7dWoWS4oDAFGbdkfxsb38ksIvgZ-mCedwq8qcUZ8K7PzJpL8eTyksdZGy04uKG6EhBtKgmyRRv2vvG0MOdDRM4rGhQCVwkuDZfqiIck09rQL0NsmdCCJw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "establishment" ],
+         "vicinity" : "15 Broad Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709265,
+               "lng" : -74.011262
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4ac3a2a7faa4692e0894c4b2ca401538451aadd4",
+         "name" : "Zuccotti Park",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRwAAAA5vmmIiGfqumP0PSQwm1SJUZ5Uf70NPBGTPVJ-YZ9VNs-QLSjgF_aQexnCG7LCVyKiHOSSWBoR5doIAR2ZQD3lq2rY3Ue9xNrnE5QUctNNq4XsgJf0JcjpGHFtN4maoysUD9WEPE0weiDYXq9Nny_fRIQYy7npj6s3aBjZnCkcIl-EhoUiYd_GqSh3-KvmW-kSB5Reoh5_n0",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJd_J7XBdawokRpAdtBwzIx0s",
+         "rating" : 4,
+         "reference" : "CnRvAAAA7eGNvwZhyT8BUQslPpyW5GI_UGPdHYMLrU7f0CuvxqI_lm2HftFlkoxYw-emYsZDZ534_BvxxcrO8LE64-xGJNP6Yk5jFPtVYtE-bectSNGuZKB4uYLwAlWt3S_Xbqxx2vDew4gHPi6LoOlcevBGTBIQ7eEOdqIVLSNFn1B8-MkdJhoUhWLU9RG_E_HsIjNHLgKkou7yCsg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706439,
+               "lng" : -74.00897000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "04db528f45a38afe26af11562d19fa661220ad42",
+         "name" : "Museum of American Finance",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8ucjqvifwxlKL0Vsgbl7bTe-mcgsRikcfC6EYT12YiKvU-pg_DDyWm4em08UdcuGWZnNi4OjcEFSlCeuIpdSAYDyw72CLqiOKx-YBBGsMB1UNKNYrQQzHqlZCnhF66M4A-tbhwicKSbOdPAEjvvtxBIQuoOB8yu0ZOf-0NmXInYepxoUhKWnIYaxOHPKJ2aW921TDFLbmFg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJa168WRZawokRMEHaXpp3OFc",
+         "rating" : 4.9,
+         "reference" : "CoQBfAAAALFMR_NbxLotKrkPOWyVl5cUdO_ETEn5y9rrQVGvfYbAT4YDf9MiukNEPbWrfThiU7jF0IQ4_Yn3uyf9-EzODo8fvdsIdZXXHKMRxa3I3o1PZah90njldB9vy9YZlEmp2ZwtnOqxCZR0tTd9L1-9z40fNeCWtsYlV7WjHarWO7NzEhDbH39TgO7BBBICWAyfo4KOGhSQuZvuDPrQLS4KgtIWBN1OumxMrA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "48 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707472,
+               "lng" : -74.012348
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8472891c13cd126edb303aac88479a4a09d5d499",
+         "name" : "71 Broadway Apartments",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 484,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBjgAAAFMyOoPc0xb4BBcVEPsZzFxyfiDwRVfsAjOG28dg6pFpH3qzB-xn8EpXaT-beYzoB0QFBL01DLASNjmvAK0QQqKl5Q3NTlCT4a5zDWCwd3-1-CJYPbpgR2XvH-Xi7QY5cWqJJTPQn133N6SxTt4G5m9nQ86VCegJsNxuJuqpZ-ZFg1XwY82zKO59vHdp9BOZiBIQ8KpMCysW9oajetZfL8d4mRoUg7EcCx9XT9lJuD892aR-vMGCoVg",
+               "width" : 484
+            }
+         ],
+         "place_id" : "ChIJ8eUFKhdawokRftZ-fkGfi84",
+         "rating" : 3.6,
+         "reference" : "CoQBeQAAAOSDddeyLdAUy1sJMNiPhc-rOUm1plsjGST4u-I3a4lKJHvgRi2qxw_TwvbCZ9vyvNOTTY_c8J-ZE2tzFqwDd5eHZXkhRTgPP72lWjpS0x10iYMYPdv7eOxLNqiYaC6G-3bSyNwGXj0L_19JiwIU3eaAf31FJ42Jzyk2BwWx3DFeEhDACGOtd5W-XBllxs9USHlFGhQIlQtvpQPGsgcfB9EbnQY0GHM0PA",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "71 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708227,
+               "lng" : -74.01054600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "4f3d1911cef7cacd03bf7dfcaffe83c261d8cad4",
+         "name" : "Ny Law Institute",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJp4OyaxdawokRXp6fTgrYRaU",
+         "reference" : "CoQBcwAAAG-g_uX8bEGCbwSLOAOqZNUpYXx2809IDh_ZHSx3vxQc6Nd9t8mhP_7iL2NFj4pv_2cah35JL4rcYDnoTMWd2DfrBS7KLR0WeKbY-ckSUJpYiKEjGG3nR30UFFYlfI27pH3TcFtsCj_dm2JwDJdMvLUTKjVsbuG1YCq4nMLwgr27EhCeregS7o_9uo55vZurrh8ZGhRb9tZNQAig6s8jD56dmxQrPi5wQg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "120 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709139,
+               "lng" : -74.012306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7ab204a65112ffe298b9e30f306634ed9711c1c5",
+         "name" : "High School Of Economics And Finance",
+         "place_id" : "ChIJSchETBdawokRagwUi0tgCrM",
+         "rating" : 4.4,
+         "reference" : "CpQBhwAAANvvRUJVgnrunPv2RMhWh1ImL2jFhJ9DxywlVqjpJ3Cj-lxyGNcAfHOTcCns6O-kWlQWFDQt2Zk44KwyI9oujeHUt2CifJ-6CI3wStQ4UBS-fkyveqQ_f_z3AEwVDds14ZpOfuVXSoBdZ-DhieIStVQk_UogYwrSgO9HnrQUTYEwVvJKpKmDzmp5ddi5IwdwcRIQavMwAxd6Xyr9LqSsbFzKohoUWwSzE1dLY2f5zc-Js1oy-M2wmWA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "100 Trinity Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70672,
+               "lng" : -74.00881699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6eccad7f72d6a88f47aaa6c1028bbd3ed4511027",
+         "name" : "Club Quarters, Wall Street",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAAXZrpDYFBJGa-vEFxy5pXE0uj7ipwXurRlU1po3C067wU3okB4KoZvOoVkl3IFayPVomRB86peMJ7rvj-Rer9LR3ozwFJeCIXn7AM9nCAUypsTiNmUtncYWolmSXYeAJruF8P8la3ePa8vW9IG0i1g0AcEVhzZzLLY_O5vSDYYNBaj4U2lTNUb-TdXKXlIniRIQYNXJB3cU_-liN_RSnCOBKRoUTOIih70z_yhCHvCBHM-bRIwDNTw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-ziaVBZawokRj7B7C4qAWPY",
+         "rating" : 3.3,
+         "reference" : "CoQBfQAAACVS5Dn1j8rwg8Xzg8Y5mm_ezrH8Q6n-CKpWiOMaIKFnpbUlQGpYBkksM8yOTBjRZ2Zznmcc_NHWuzqUBPAQ-EyAYGCwsDCnmpHRutttiaAPkdyGa3j9AnuSVk5LXRlFNLE57WpD2INeaAHtKWIBScYi4VvSNgU79E25sg_RUYEJEhBcBm3c7C-lrUGgAWCYFwVzGhQxN76Re5qlFNPYQIWogxxaygY-vw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "52 William Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708984,
+               "lng" : -74.012334
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "726e4bf9e1c1a87d38171e34f94a494ffa18badd",
+         "name" : "Leadership & Public Service High School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHURFTBdawokR16oxMKfjDz4",
+         "reference" : "CpQBiQAAAHEey32clEQ-ipjmCb7q-CgmgRBicuFZvXW5Je_-hwY89BAiNwt02fRRi_oh26V75JvYQ7LSf275fTsYIXU1T9dnVn5iallwOj_z1fJvnfQEHsH5HRACWdW-AvSFV7gybbXd9Z1vEgm__UOP9v3zKJctGxgqqhl5cncUIQYnEjXhq3QpLvUmwffNhDC58N0bQRIQlF3orraMjrkj-xqJ2mUFERoUngfzm4wgTy0LIzl5QbG1as1fbY8",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "90 Trinity Place, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70686,
+               "lng" : -74.011128
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "933839439289f4a3942b6265fe50ffbf85e46304",
+         "name" : "Wall Street Multimedia Inc",
+         "place_id" : "ChIJo3DZIxdawokRUOBx5lCTqJA",
+         "reference" : "CoQBfQAAAEpYBnjGckbGsw1UQsRxgHNeKT8zmPYEwj0eHtVTx9ZYWAB4QsyLFOvu1K7UM7McDiQ2t6uO_LpJHxjoblCpulcMQsHVL4muJ7K3V5zFPeOMR8T0lDr2Q02oQWA2GdQk-wISmC_go_dH3ppUZPAQWhNi9-4gpafzXPwDe2RPTXE7EhBCPtqJGHgAwTwac7vlf5G7GhRR5nKs235JBNL4IZXMuvnRcx2NWA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "11 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709024,
+               "lng" : -74.009191
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d4874775360c764a98e07228c22dc04790473b0e",
+         "name" : "Holiday Inn New York City - Wall Street",
+         "photos" : [
+            {
+               "height" : 483,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAfUfjLI7b-CoZDDyamcWCkmV66T0ewXH10QjFoELDlsy9D2wvIE3nVzQRajZ3ALsqKChPC1xO8OOA9Y_I-HbNw_oVJFGOluOmmoCrWCY2S5QYvVrxEpIl2hPpsxas5hdfDrs1xwoCd4a4MpoDWnL-DRIQgWAUW9OjihJJ3sfaDy0hgRoUnciOCeTG5CDqcHas7PWAFP_9pK4",
+               "width" : 484
+            }
+         ],
+         "place_id" : "ChIJPTJohhdawokR5-M2cwZ2WDo",
+         "rating" : 4,
+         "reference" : "CpQBiQAAAIaZL9E285tEkPDdaD2LjYftNK9EjNDopYpQCFTBiNZQxGgIKx-SC-GpsNcuFmxCPQ_x_WhYUw-9jzjtJsiANgE1FhLylCRxXdw7F666hd9qBGDPtdYUIbXg-V49WNj2NRWAM4zK5toP53RFDd3HtOzftwHzUnn05-04aFU8ADa7W3oLM8igsvItz3mWJuTyoBIQR4197F6BNvbp-3rpvpWVaxoU_Imf0KEAD2VcSz71bJMf-QE609w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "51 Nassau Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707787,
+               "lng" : -74.009711
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "deaefc25d199fe23f44b0653fc1870ef160abf12",
+         "name" : "20 Pine Street",
+         "photos" : [
+            {
+               "height" : 770,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAeoee7OnA3iLi7aKDQfq84B7ye0pxREiK-pp8NVOLdgL5lcKU2ASJ4nkzBQ7UfqFabgatbvlTRu8T615gLvB36_z9KZAs__g_DIwd6K7Y0G7DCdZXzSXVrcDN2LB_XKT0iOp8lbW0JvyMHvXi2dntZxIQyiYU9m0qDoBqqkNK-j_NWxoUfsdVqIXP6tK05eurY1_Khj2rKNk",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJa9uPBhdawokRUpYBnSLIIlQ",
+         "reference" : "CnRwAAAArMhiEakVcxpVu-cYJqYm9vps1IpVUqt8cI5q2jO5VhZ1gRyXdm308c2rPd3DX9poYvhqgEbkecSWj643JDNf-43o8GrmA_W6a5j0mshNS7O79q9besyXt37ykIAQuQc_pqzdmHNLuqnP0wPNxu0LqBIQAU5RWUgCf8BGhFuJhgMpCRoUDFD6NSrfynW1_dqsRcTCI8NgPnU",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "20 Pine Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708252,
+               "lng" : -74.01097900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "33f94f52ea58857dc3b831b893843aa67ef8f83c",
+         "name" : "World Trade Centers Association",
+         "place_id" : "ChIJzd_ZRgJZwokRiRzn4NVf1CQ",
+         "reference" : "CpQBgQAAAAWdUgGr81LTYIaiQ7i6rFqd79daAp3HKheFulJDZust8xE7fr3fORRTlv3J3MIuOyFhcH99zFZZBEjCOBvO0NaSAeVbRx2et6eZ24d-iEy-p65qOYYKOMMSgP4uZFXuMxYjj6zXB4YQDOsM8dbVzThYDqym_pJ4RrEWDJganfHyn2EfNmgltXoALLd-5xK77hIQ_7g1GGRR99-RD8Guk0JHdRoUztAtz176Adv8cxtGrod8BSMfi1I",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "120 Broadway #3350, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.709473,
+               "lng" : -74.010107
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3cdef2772d2e16e365b0d78530a7ada01b68ae3c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAk8ebGjgmc7CDTNl9HAsicJeXE3VCTeRTIk3MsEqnqjt7zZwWgaTgB3kpheHxmGvcuXRXjEKNBZB5axJOEIH7N4RSvIybGsb1DL-9mPdBXrMFQsGiTRU7PfcKi7_v1aef7XFXbgGUYzIMk_p1lfdKHBIQptfkW7FHlJwtrQbPQfItQRoUiGvGoZgB78Q8c6n8VBqHro5vgHU",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ2_VLfRdawokRXKfA6CMf5YQ",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRtAAAApP-Alh7xTd381bt27_3E81PGaDO_yTZERx9eXlrKGPUsIpCi7_Uoip7oYfPC3Ph8K8S0OGk5R5n-Yg_A2pIys6eBzGBkzsJH0qubZ9rvUP5iZMxeJCpxHx7iw4uWsL8jOL6T3tJYxvQ0tbKCjVtZ0xIQXVs0YpYBo-Pq52rOahl7NhoUapfDYAuPsVAiKU12n61b-5zNzdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "160 Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.706774,
+               "lng" : -74.008889
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8abd7ff65874ea40844cf8d355f2c6bd01c04050",
+         "name" : "Bailey Pub and Brasserie",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVQH87rIQwFjHftU5wpBfiaKfCPpoaK_gm3YV8MSAh0RyfIB4O8aZHjbWHnXH4nNw5uGPKTi8UkSGG5wRWNgbZGIGv8fbruvny89Z2jnp7CFG68A9bdWPFpBcmEoXqq7NDENJ7P4ys7RXgR2O2AnHhxIQlqfdI2Z4UDmGpb7ZPAqYPxoUQpy86YHQzuvBtAVHUeSDmuka-qs",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJR39JUxZawokRHxxMOqZSBls",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBegAAAHMhJCV7FRfty3puP8BiDma5MotVn_a1YTH4OCQTpltmnOSdnGAiMZHGd8qrNJ4ZYdRU5ExSlXAxrRlQEei5eZfr2WZnVrGsN0J_BM-1nf-E7Pt3wkZyBfSP70h5iL2183HCTvSbzXcTbbueKNm1Zmbo87q5wXPhDZqcop7lwYveEhBycdBQ8uE3JXOM9QOdWmMwGhQId0y-HAhL0OBknrkWjXbsx3WEig",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "52 Williams St., New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707808,
+               "lng" : -74.011357
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4406c6aeb28e9e71102f008ab9145127daaf84e8",
+         "name" : "T.J. Maxx",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 928,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAF_UDD3OzP2WiJM-qVYjIU7_YuOODo1OcKfKWAEME_XjKEqufNKvOGzU5Nd-F4uaw_dqyuhFxTsHZTOa16FSktTLRkPKmmp4v-bv_yVgXKzGGu3gjPKendIoOR2YXtWMQ7Ry4KMb74WhSt1wdYIWUvRIQd4N4cZw8K70Z-Zk-WBjzVRoUdboUOFE41FYvI1YFVv1fJ82Iy1A",
+               "width" : 619
+            }
+         ],
+         "place_id" : "ChIJLRLFGBdawokRyuYGWwfb9rQ",
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "CnRsAAAAV02g_0rRsPjtkaIN8GjKBdpapugToeP3wLzf74QPF2msjrzHWeUURO6Cyc1M1i3XXfv-ZASsKKbVmq34R8qYph3sCxa2_BvImVO4KCiNbckJFJB-LbZiXduIbL0NjMSWcXcGgCigwYlWfO3mzP3PGRIQm_Nf42dLImO0wj3e3HkjuRoU2KaWMqO9grBMQUnVd5BrTRhKnp8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "clothing_store",
+            "department_store",
+            "jewelry_store",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "14 Wall Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjgAAAGFSLT12owQEEVkpavLJRZz8kH4_M_f4LT163XbAuea6MnZYF7ZkOYOAPwGFSYSeFWZv7qHnvEkywXofv37V3Tkpkn4Z9Fny-6jKZSqSyHyh_gzbqu4ZToZLg-_kaHQrvPbC2Ppjb0HSPaFvjmrU4PSmar8KNUzwh5HyCsBs0syqApUwPdNWZEr5DbGvZo0RixIQfqYj9LF5ZpRbV8-_vJZtahoUtSGiXaXMMsqYQOsgLidpXvTQTps",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

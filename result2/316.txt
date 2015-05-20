@@ -1,0 +1,459 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHP1fbOC0iyaSd2nn92G5lraba8D42a2ZPL4WgidnT1zFxJqxHyADSX5xOCbM9p2iwvrYBxXF9P93bsatkbqOdaZ31xtXV3mHbalkpAalLtxy7f6FuNTlvbJY7Zm7dLrvGI1rmpkI1uiY8jvt1vle8SSQnovyzIHvkZwfd-vdarag22Z78m3EZaoUej9NDtp7yz3Mm81_cpbRfx9yx4kNYKCON2tjY9F9iA8-UchY2Kv04I0BrZhwH4kjFuZhHaeNX-ylUEyJc41PuW-X-_IRt-q9YlIKqdml2zGnwKVGIun-7-6JwsYVWfZvI_iK-A0BRIQeSkVaA2Gk_CGrfTkzrYUkxoUMqGu21cTUF5c-di_Dr5UrICMQdk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8044924,
+               "lng" : -73.94406459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8063444,
+                  "lng" : -73.94117609999999
+               },
+               "southwest" : {
+                  "lat" : 40.8025632,
+                  "lng" : -73.94605369999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6b896e09b2dc2839ccadef063330e9db5f11612e",
+         "name" : "Marcus Garvey Park",
+         "place_id" : "ChIJHa6lPAz2wokRlRyxNExaJbQ",
+         "reference" : "CoQBfQAAAHNuK97j7KEGBTuzemXIKATNBtgEvzpyE_RN-ltMbu4rFcw9EnM3yeyxJalBwg3Y7i3KqGyrQsatPfns4tMe7qRumYqN-RZ7d4RliY64G9wlbp30cUHkqRb1SfhPgZ-cnmCZg94oSsNfn_NXySIVInQ7Or1oQlQd8wFslycunmfnEhANB62j6BU8GUamlFSJkFfBGhQy2MI5WZ90LIIUDsMyASniP6s2Hg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8044924,
+               "lng" : -73.94406459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8064561,
+                  "lng" : -73.94119309999999
+               },
+               "southwest" : {
+                  "lat" : 40.802581,
+                  "lng" : -73.946206
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "d0291cbf8258bdc67faf0e0bb975d092a3666fdc",
+         "name" : "Marcus Garvey",
+         "place_id" : "ChIJbwZgOwz2wokR9n3tqrDvPuQ",
+         "reference" : "CpQBiwAAAExRE2Nbf935L1skCUWs72iOJuth1D0XuoY3rGFf0BAmKACto2SJG8-wfyvwLCYns0VwZzxF9S9uXFTAB-VsBNA3JxgNd7uMVVwOVyFs9MWkVYlgOb0kH_DLJu-uAj-b5Yor55A-vMdoyQTMLq3m6vZ-P1VE-N19I48hpysW9MoFEUJq3ros_q3Yvz2tgquA9BIQwgdcG-oW93_llAoFfooQ9RoUXSr2shFp5RGtwbFHmb_6zf8QvLY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801609,
+               "lng" : -73.9383
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "4dc2b6c827193b81a5edc94f90feb1a42dc6b62d",
+         "name" : "Elmendorf Reformed Church",
+         "place_id" : "ChIJ36f0pAn2wokRHc_WECAY0Es",
+         "reference" : "CoQBegAAAPtUrgyOmM0RAt7sLew62kgyDRFEG1jxL9Tq4WDGsIZ2RqCrQ8mOm0fbIjdyAVsbV_tvAE3WuY110P7EwV17XDaA7CTSSHDDrUNd4qjeJ6KUnV-89Kl-qwMaxVyp5-tEGybQLzvKX5rRoflGC8aHpXm80YM9ggxDG5eMpW06nxuQEhCooyf94Z_y3sfIl5abXtSeGhSsexxOuvPS4HvrV5MGSGlbsNMZ7g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "171 East 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800775,
+               "lng" : -73.94104
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "7bb25a2fa9548f2512794d2bc2333847ac1aa636",
+         "name" : "New York City Police Department: 25th Precinct",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRmAAAAM6QZfPysoKQ2dvetODrbNkBXBN93C61zObX0Nt4EcVb7snRgZvnaqCdrNfcEpVsNpXldDwCI7u9yHFEGCf4cTGc1RF4UQmZ6KeW64oBjCHqhQDlK-BJZsioxusVMnsbDhTMJMNDzw9h300i1J6zfbhIQAXbSjWTgAtYlzqBfoPfUYBoUIHGJbOBSHoYp10qJqyLaPGTFvIo",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJZ3pS2Aj2wokRosvTxcpCdx4",
+         "rating" : 2.9,
+         "reference" : "CpQBjwAAAFiptr2M-SqB9gXk39CnngDejxYsKIHsnOiB-IV2OEsqPDdTxO3nPwrYAtNGOdtG9xnW2fHb0rZ_twK9DyBvxwGY8U25npY-bekELvnLL8SpBWKQyN5bTJIbEUEA6tWj4OW7yTlt7kPc8cu5nknnK8bzVMz8E3f_8mUcZHDoqyCcWhiYVQeuNfVUypIev3YGYBIQRYYmWqK1IFR6murkzSaGSxoUHwskApfGMUnkwsqOgiN1HcFNnjc",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "establishment" ],
+         "vicinity" : "120 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801266,
+               "lng" : -73.93828999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d860219d6e68e8bad708d419066d8247a8c02b62",
+         "name" : "Center for Urban Community Services",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 158,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9d78PSR7aF1YNlFS-tOyWP2AijkNWZ_x51UOj9Naz9dGqnM_dQIKQ74sv9f8FgA-eCXtQp7JdLQSceMCYrPQ23Vw2SOyavPoxyvthCUKjOqA8aLxvTfjUP-RCGhaN8pGhqkBM9uBSE0pGWXDozTjWBIQmyVFVoNZ75NbEjcpN-YRaBoU5d7unOQ1S8EyEWoSwjH7Vc2S5Bs",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJOf_duQn2wokRkKJo4w3WvFc",
+         "reference" : "CpQBhAAAADfJbRa3sQ1jdC0K0kcPwhcdqCmeYuseiObMA9nvRzt1SMtY4I74gbzcbttEpZf-f-pzdg_xKVI8z6bVIKMhkzLh304q091NVecc9JmBwOhpXNuGMPArgIMCi_DJseeOoQ1S2Alh-1CqZQt40awFydrE3mjZtfa3B_OJthtaL80LTAS_kXXKLJvkjoDE6sZcIBIQoWNII9quc__wnII0QaCzJRoUFBEOzFTQcJuE-qeR9bAQjexoOQA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "198 East 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802689,
+               "lng" : -73.940293
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "533e382c5fc4644ee15b9edfcb746d8c58b98ac3",
+         "name" : "Bailey House Inc",
+         "photos" : [
+            {
+               "height" : 330,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQ04X6LNz8xWxvtWKbHt-Ono6-e-JKjF0Iz8JjVoefQN90vPmot-qNn7NRkRVKrWtplDnkb1F9xGI_Nqb_iYUjTGi2j5SsTPE6KQW2V2RF12S5_iJFH6ISZvYjEYO9mi4a_AsKinya_noV7hNBJQ1wBIQC4_ZwVsWWTg67L3JPMU2XBoUbXhzYhnF7Q8Uz5U_V6eEv3R-YEY",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJqUXnQwn2wokRVR7Zo84AzV0",
+         "reference" : "CoQBcQAAAE4JTivjkLDm_89An2SjfjgTs9ZqsXKpwpz4u2U4EKJlX2B8mHhHaNmBkXJYKDzhthK-2MIH2obYYKGKPeHTIE1C0o-BQ5ngqnLowJNgFStQ8EO9FWQjp8Jtah7ILVgwNEXP-O9a379X65mK2hr5R1pBkF-UMOBC6Rf_Hz7ykrGvEhDePubghI1m51rcW-W2xSGhGhSgiPRqAW2IN7FPlbicK142jeNTmg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1751 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801619,
+               "lng" : -73.93841399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ed73fcdcdcaed9eccaf2e5f3c07a71d314b02944",
+         "name" : "Uptown Dance Academy",
+         "place_id" : "ChIJfyQEvwn2wokRYKGSNwHrFgU",
+         "rating" : 3.6,
+         "reference" : "CoQBdQAAAHgsHFrJzBcS3yF7XkNd1QLaIPtAV-bbqj48EXGiGI-14J7QSiQf6nG4qQkhw6BN6RxANE9mA-0c1YHQv4eKHZuIubzPFC8qz3ydCGwvK1gLvx5QQkG9WfiHwo8g42-lXsA0HdDlVniJYIgWU8ku0v06yI056xkSHbFvnfUBAbJ5EhCeQx_S4CVwwRM_r3QeB7dsGhRZq9Ff4dByzrvxl62BMcSobFVSIg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "167 East 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801006,
+               "lng" : -73.93963100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "de0b61db8e5ce2191708dbd432a0bb93ab6e23bc",
+         "name" : "Global Technology Preparatory",
+         "place_id" : "ChIJlYx9Awn2wokRliRFgXoqob0",
+         "reference" : "CoQBfwAAAIOqRufdkMpe3dI6FN18UaNrDFXmUZy2k7yUbF7Gbugrd5mu0tGjOohkZ3mzjeHsBp1ER5H4K74aoTavNgUzgHXAnKcO2otOndVLcym8e6AbcuthzDlhVBM_5zPY-Xmabxj55xeFkWXoDHy9iHAdbURIxIf5ZEcVU8MRn9kGW-oKEhDUtY3NnXLTbgIEFrqnkp4FGhSabM3vz8k6ngNe_ygXqfb9_ugVPA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "160 East 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800981,
+               "lng" : -73.938045
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "19cc080cf441350f13cfd3a1abe02a1a12e19be6",
+         "name" : "Associated Supermarket",
+         "place_id" : "ChIJ88OvsQn2wokRGQDD9kx6Wek",
+         "reference" : "CoQBeAAAANMlH5_Vm9EFZMoOsMZLSq1ilYnReculI-Ft60CFeavo5ZKNx2Na8gKJDlN8VoYH7NRG9-o3YZyTriRD0waJp87gMmQkTnyjCTi44qwaREdTl_Sx2mOs4F8UkYGRL4FmoVr02G7xlWoWix1Txh1IOCM2ZFJy9F3WHes8cfvCZYfoEhD2hEllvnhmctahFptrIguhGhQ1TNtM7bdgzbzZF1gE9nXOh1VUlw",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "2212 3rd Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800058,
+               "lng" : -73.938102
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "44d471df39c43b2ce1b9e6e4f3bdaffe5812d538",
+         "name" : "Phoenix House",
+         "place_id" : "ChIJO56jTwj2wokR7-nJxfKa4kY",
+         "reference" : "CnRuAAAADRwJydCk5eFpUXghPAwyn_kBZ2SH4Tfomtf5UrrqdJQAyxyz-kEWiLwex6jdhl0oN3lNGjjQwV4lfqg34IbR5scf6bLi-_51Oj9lZ_CkM-FOHv8cHGRBmHy37sjrazkq0c3BgKfEY3AImBDuEh8CPxIQKU52lDdgo5j5Zo0DhlTEUBoUr5T3Ytjeztt8ngX8ZwSVm5NSJeE",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "2191 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800154,
+               "lng" : -73.941652
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27d9d1984fd8e987014988a2255398f1ef2bd31d",
+         "name" : "St Paul's School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 135,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAFjnidet9cBA2vn236hrJElO7k5cm1wOpr_pzi--f6jgF-1f5DK3y6ExSJmRw2muqT1rQ92QKCCl1Fjg_pyXuMwfqi0FE9C8ZnkiADpu2-RcuI5Rhy-aiGlenR4faIxgkGJMms-qBbh501BYP5DPSxBIQmkv_ax-Ub3iECzwMgTzYxRoUINBTTIfAGE_AOfgbueoXfcYolGY",
+               "width" : 124
+            }
+         ],
+         "place_id" : "ChIJQ8upzAj2wokRdQNOgCZIOis",
+         "reference" : "CoQBcQAAALU0v0YSeXfc4z6mWiuerbYTJY3-bt9-DVTqgQ6tmKIRx55Zi2oe31JgzYG5l_BsUHV7UHWL09_Ia0Tqi7AK-QvIOPDdXATyblV_sl0Dtb0rz_0dLUg9foNXRVoSuBZjYlNHKEptarcd4URUQI7feloAGQ6DRmweknLOvvS8BhTREhDwJwrBFVq3HkqdZ3tZ3eCBGhTRqkktvoBohc0WeZKZwFxe997GjA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "114 East 118th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800963,
+               "lng" : -73.939561
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f8c181288b216b2f57ceb7f3950a9e144852d42e",
+         "name" : "P.S. 7 Samuel Stern",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAsJLd4pVWplAy5jESPciEMP9jD6mJUx0QW9ojDuV5fx-vV2tWIrfdmn85uid7Rj0KkJkATabhVuMKVGihyiMrB_aZRZMTTkSEEFBmRoE0idrU__0OM24a4PWF68OOJlJgTlMZSorwPIn30ijzH2VR9xIQNYK7pq8bKkHoQixrpE0jhRoUVQHcoEYyjbDCQ0_F_Nnxo3KUwy0",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJlYx9Awn2wokRq7jgicMtKiE",
+         "reference" : "CoQBdAAAAL2bhIwpsAOOL07yUqyqy56bKy-tDaJ2sozGfziEW9V-tEGQfi2k7I9bRbyvgycX7iO_pGAfy0diSLQsEAtg7OYz8SkiwAwghA1uIA5MdsNCXHjNmNTswymxUsG7M6fdi46O7yPKfbfwbscF8-68rmHwB6fp7gXmKi7rToLUGyWOEhAufjyBpLzG5jHqLt2hgYBsGhSKQhF4WheT3NOW4pPkU_kF1UUkYg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "160 East 120th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802178,
+               "lng" : -73.940595
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0d93e1064073ec8ca7b557e6935d7c9302cfc063",
+         "name" : "Grace's Market Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu-lJPwn2wokRs9-RpB4FGOg",
+         "reference" : "CoQBdgAAAA0EiCpMjuaRvn9GFTaSgyPyt5fFj5-zyCkXjoDjXXt3BCl8amYWurFkZe-pzluLADduy8o6CoCygeQzQoo3Oy-eWUpSMPTDVp3KTZUQw2D8QyFBam7FcES9ZxBPwGPybIJq2fFk56Uw8KIP_5XmNNDVazuB2sxDGAA2j2YZCq_tEhD0KwzcWgghB_EGDg-17m4rGhTt_Erv5IZlLoM-rtCuhJpQETiVeA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "1735 Park Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800775,
+               "lng" : -73.938238
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "43a30d381a6175c1064689c46751e84150272dce",
+         "name" : "Rent-A-Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 392,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXobY9tk7mm_zz0eDuRhOBRjmXn1EYIy4urNQETns-MLmVSAv6beJNExruuAKWvAxbTFpDvSN2P_kZ6Zv1kXqtHKMFxNV9Jj6ruYtwdKJho0S_-uUXqbIlIedp1g50A_CTqfsCGYr3kLU3rPIn7VUkRIQwzEm7GBiG2aRdUojzPXfmxoUVf1GyWsFLsZYIE3_wZInpRAwib0",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ56p1sgn2wokRIbfKuublXpE",
+         "reference" : "CnRvAAAAGODJ7IeIRpjhGsVGe5LZxc0GloyG71WVCtdDSt9nguiy1iwxNwHEqd6E6a_28pYMiKUAyGZo6S4R5oYfDIyWqkNlB_mRH_LeWo_LRookhCFlY9AzYkS57cVJOv4rGqrhTIsZ1pJE6gSAh5lR-S1kCRIQ3lLRVbKStoispiqBopZ3IBoUv2pQY26YmsXZCD1hlfQQQNegPa0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "electronics_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2202 3Rd Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802771,
+               "lng" : -73.940247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "274e14bcedb58fbb28051092f130013edd7032e2",
+         "name" : "Fat Witch Bakery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMdl5XQn2wokR26MuU6y6_8w",
+         "reference" : "CoQBcgAAADiFBfK6PUV21q9wlIECnrWfikOTvpLcHRnBX2Ig3QJw1aipq3ltDS2NIINh3IM8UgkOWOGoQRnWqNq58sl3_1LDU196dO7UnCgwxMTyWqaLe1ACPY3z05LqdAdXVzEoMmBF7JVPolcWV4sLjG1b06LaH_z9IN32KF408raTBZ4iEhAhNWKFyXbkFOB1iVDDYO3nGhSKPi-wSKnyvyLDPaVqn8lipeEdaw",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "1753 Park Avenue #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801636,
+               "lng" : -73.939122
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "671b2c323b014118cc760b797e5871305c68f69f",
+         "name" : "N Y Harm Reduction Educators",
+         "place_id" : "ChIJs3EHdQn2wokRgx70zjAKpDQ",
+         "reference" : "CoQBfQAAAGrrPh8N-wdjWVoYtZKb9B40XPP8HADjPkVMH4y4FdrxsYlU_L_JL0a_2aRbyCeeqCxLw4S6hUotw_GRWCcKfyZIPKIPVgOI0pogRTxpwgFJsQJxEJLJHEDRwmdngZ6TSuODdPXR3LarQe0q8ieRmWdwI40XK7rhrNKBjNQgbQQbEhC3S4WRWYxYCgfJAI5o3S1gGhSxYfnIe4KXKOOtoHa7YkwBWtNDGg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1991 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801354,
+               "lng" : -73.938468
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "cc8325e0f3408948da3e9d13f37c3e36f725d8aa",
+         "name" : "Harlem Youth Court",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAwVh7ZpqnH3NiI_FX3Y01Ndwhs6q6SXcYT8objUL9_9lGnFfWAC45bIHdF-QN99TJuOfpPkqobMnDxn3OXw9vAsoikcihHNjo-FOyYffeOq0otkU7u8qD1FLDvqfDtHfoY9pI0pYxol-7a4VyRYLlfRIQ0k8V0MOFqP3onUhhJS7AfxoUeYsJKkGIFc_rYM4vyHFSv5p6SKU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJbYZpAn2wokRmW1b5SRz8ws",
+         "reference" : "CoQBcwAAANxeGMbm1h6IIaS6Y_BDJUGGGCLAxtI2G1_J-uqD3XC0reGVMrGnjFn32zC61c-e8w-ZDJ1lkxwFbl-JOmQJ6K5xt8cl_1zGD8khQen90ebBy29WLrLFWL5KdFj_F5-EEPllG2AXY6gFn_8bXCk-s0Lbid5yd5g_Bzt1w2ytXcpGEhAaQx2Pj4hE244edGL1JK0TGhQ6FzFuFP7aAyKLTsZ0a36wFsjZpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "establishment" ],
+         "vicinity" : "170 East 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80135,
+               "lng" : -73.94232700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff1933f8f7775687ec89e536c8238144179a6b5a",
+         "name" : "New Ivoire Restaurant",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhMSamK0AKm4EsxxaItbj8UbDG2csTypXXyAtE2va6c21T-a7n8fHOE4-KFXngdXaLrM7DGw9Q8AekZnThIl27A0KbgAw0NCmbNtX0eonJTIMJlW3HHmEG-8tM6lHYUd3vanyJSlpGQReDqG8WO1QSBIQbkoM3-lj_gq1Q4bvUGfyWRoUHOurFbYQrlMXVFkPUpUh_5oQ818",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJo2Tt1g72wokRXr1DbBNZ7YA",
+         "price_level" : 1,
+         "reference" : "CoQBdwAAAOnrBO3Vx_kPIz4cHEfxEoD1TWPXP9gOGsk42fzAsGIyL9phhaiOo2yj62AHopZuabYNDr42ZLt9onSqX8-H22lVlpGnVpKRwp3qKiW9otcBc1PGA9umYOlFuaA15NlASNRC06D7ChV6120nFxX-HSb3ZStAui14FH3mqrmDWV7tEhAf5vCkgqb2-Br2wv5UAaTiGhS0FLmBgMU8gBxqrJFI9wpNCv975A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "76 East 119th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802235,
+               "lng" : -73.939132
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "690020699c7a2e3b0e65ac069da24bce75ff3936",
+         "name" : "Al Sultan Deli",
+         "place_id" : "ChIJWcdvdAn2wokRGwxwzyd5xhg",
+         "reference" : "CnRvAAAAnnW15EPKcA2Ww4OEczVmBYMZsWADxjRuxkSaC6SiijfSTpuMm9BCOiXL50rIk4175Mz1upPBT-sug6Xlc5YK8Pok_ak0CvyM-U_suHNP7L5gmApY1hTh4-gXLPC7D6kIBIyWz9E8NKp4JEpLd62S6RIQ8aHN3_yN4z2LrdIRPHXPEBoUOPHwqlFTaIOrJ5nMQdMzIX8fpn4",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "1990 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAPsvVxh7jD3kbh9Z4_wtSjGZJnAeoQTSbtUkY7rN5UMhfgScnrrxYU_DPO_fx4wmT6vHJurxVCBbUrwjsR3-RsTRZCxtpaB1w1WGIzmzSbtxZP4UWPXgZzuEP6kgqCLgCRBcdCl-9lyBXmWL6YVipMfBpE3IbLd66E5WdZRmiPNNDF2CPkSDAvEVy34MiyhKExIQp9ge4gvW6mY91NQSs0OmmxoULfdkIXwDWPYAYXeVO4cGfUR6cx8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

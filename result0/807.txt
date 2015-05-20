@@ -1,0 +1,545 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAALk5-z5Sn5drtm2qiDbTGkm9VRlp6I9fAsg500uMvZlbAt2q4nP5sgXCVsronUawKEArYL26eTfGoqi_z_bRxtAZTKDwhqrqq4PWvvr6vBqZMuC8irUbrS8ZW8-aYYpQGJZXGFverFKdvFGAPrvN76QSPEj3OZyxlXKpuffHDOPsFk0rWDp75pHfrhNAColBfDeG57dAcwEvRIWPpIIA0k8vr3rTmzjdj3aVa_YiuS3Rr5lAMJ2qdd3Ngnxv5FE98VjrSFBsJIeHj2jL2OWrxbQOEOt-vCwGWSJs-rUCctGkDfQkZ0j-gjaN2nSAcqO01BIQAkAniQuXEhFb-rsvXOB6VBoUHBJUA79jNBZmGPLyvb--zLKEX3s",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735781,
+               "lng" : -74.0035709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7409452,
+                  "lng" : -73.99685199999999
+               },
+               "southwest" : {
+                  "lat" : 40.7283442,
+                  "lng" : -74.0106976
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a25d56215df7c39a4a119873644c2409effeba15",
+         "name" : "West Village",
+         "place_id" : "ChIJY1SflpRZwokRhLCM-FupOe8",
+         "reference" : "CpQBiwAAAEbsMNRoNjuL6QthaU_ryeIiNPnE7UK96j2NlMJh37A9ijXH3ul4ldBBdiy7K6efbZMc34PA71ywrAE8XKi-l-9va19877997WXfIHoaSxEBlhaTXfS0k6Lwn98pmdUvhc1mVZKbk9etTj3SPrSOcv69i-OUZDpXhpJ5laED8W0_Grg_228GXjDCi9xsmBjLgRIQGucoqD1nn7QM9zD2EHEqehoUSa516p43OvBPEtXIcVFVu-9R24c",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735252,
+               "lng" : -73.994522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6509cf6cf254bab922599284c7af85226ddb614a",
+         "name" : "Parsons The New School for Design",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 342,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA8Cl2P0lPlJ77MtEb1V-A9c8j4yG10F6KphJcrYfL-6wrJvt2QZ5FOeenuSAeQgRxOwkPv3pXFI27QY398lu2S4hJ_e-ZxeUzrtlM59_SJiPYsTnvHuS-nX3s3mUEsJ8nHfImKddb3oYh-NO8BHxEnhIQhY2HyZmxzcpIaEIX8HdAhxoUgZBvWTPPWJkRa_Qmuz-ZUluAfkw",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ4SOXq5dZwokR2s0Mw0lpx64",
+         "rating" : 4.5,
+         "reference" : "CpQBhAAAAGx7VuGGaJPINZHlMCqOrKxsgl7wq9fOo-7cLvPdftDNb1lQXfeU4hZsaP_PHf1BB5gwC07qPfkHHeC6pkcrX-lxftmN_Zwn3LUF_htQgcCo22s0A9_Zgm1Q-C_eTGoQUdHJPOEoDBJATcflf6lyWp7wwwogeSBwT7N6BxVquqN760QpoYv6uFMvLVSfce7wtBIQpGdZ4rDL5wE1sBcoPJ-9eRoUz06LlaAhJUXYPXEhEe4OnuWfvN4",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "66 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735964,
+               "lng" : -73.996083
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "ad0869f8fb81d3a911ffa99769a7e60dd0911248",
+         "name" : "Quad Cinema",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAABrKtbXPH4S_7zJzb4kitUzJ6ZffHDDb-gPYmKMEed2fX8qt0kR4MKs0W0pzuxHrpftY3uOeuHt6I0rOGeab1N9ohvTIch6yYsVvUn77TSAjQ3Gja1rP2gWYOOvk07pg8qSYyVCdsAJLFklgwPgq8iRIQKQLjUF3jFM6Fh6tn5_2aJxoUK9sCNypgSZ1MswDy1YK45EFo1NE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJcwBe65dZwokRkYIyxD42ge0",
+         "rating" : 4,
+         "reference" : "CnRuAAAAkrLocE-lmrl8IPj6ae2_aKkH-MghJJIWJtFbsQNGHYKiPJO6GvOh2Ba9mtnMIA6CA5x33BkXBryZGTaNXlXeDCs4GhZDiCf9W79dsGXx7Ctby-rrx6l17UyD2bSDt5lbyXk2oDYeU0dEmjwdVB-tkhIQ6MnagO3pFggHptaSnC9YaRoU8eUT7XURDCkBuAiXCWLDzUHj_LI",
+         "scope" : "GOOGLE",
+         "types" : [ "movie_theater", "establishment" ],
+         "vicinity" : "34 West 13th Street # B, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737924,
+               "lng" : -73.994635
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "94eb8033e5f10475c8b97a1af6b4c53bd1d82e57",
+         "name" : "Xavier High School",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdAAAALoZdTl6efaRyYjHPXImzAjgZmn7m9U2L7ekmW-Cp7GxJEQGI3RLrHRuRwbdo8bLU9_rS9JRtFkDh97uxdn1_G9wFBOEa2eAxc3G7SxnZuqzNm0p0NmTc3XfAzPYHqBs3NGzMnG5zFpTpDTka7OzHkdmuKm_ggDLN5K7Vr-wtBRzEhASPqDJbLnNu-6WORXArzMMGhTCrkPoeffCtHyu0thIEskX12WHvw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJFfmbTL1ZwokRwgRhMnNCM2o",
+         "rating" : 4.3,
+         "reference" : "CoQBdAAAALGGYiKDfj6xgZEdfSL4cftLVp3NZX3dVS0Zb6m8523Zy_jn7JcK9xx2aVYHJlClUHivE5PwA7oPry5G-IiYx_X96MRCVVQUWnyl1hNspNMakzRWV2Zl1fST8-WV56aCYqLE4HHv0kUZw5enIZ5_M9THXQ-J5S9z_QYct7F952iHEhBXSi1GS5ZixhqIOzVzv5yPGhQNgDEIrf6cBow9DKwlxo85enmLCw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "30 West 16th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735406,
+               "lng" : -73.994725
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "153be9375241acaf188a47a341932d38cead26d7",
+         "name" : "The New School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJi52GIZhZwokRcs4fUO8yM4Y",
+         "reference" : "CoQBcQAAANMNi77OPK_PYJgKIwO4Nq2btf1V85d8FGBdai6E4eyFNFAMJgXpEWRs_ZsGCfgo4EsvbhjokDw6FGUZADpyA5Nkz7wcn8OmIY8lzsckKR6i8JgEJfuRyRgufVh4bcLT9unrVJ7PIOq3SYjNENtwNv0uJeNwUlpRtLsMgoga8NOoEhCMNfEd8x7gWw1VZbb1Tx4mGhQQEm-MAtmRiupLop0cR6n4iS3Ewg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "68 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.73549,
+               "lng" : -73.99717200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51e494849c49a98989097644ab7db68481baa7ba",
+         "name" : "The New School",
+         "place_id" : "ChIJtf1jL5ZZwokRXFHfiZFZ-FA",
+         "rating" : 4.4,
+         "reference" : "CnRwAAAAd5kUtfiX-MHbje3BqVs3KXnp0IgM-Vm-IeutI6yM8_5ssnnDg2aLbiZFCD5_AX_gHXDRILF8Xtuf3UhVjnzmI9c_ehOjnWW2ZEY8eAJVH_LLTOg1rlTxlglqOao9zyliYZP8IyG3z3gf22ylksmfWRIQJuDKvLUWhNi1_q2___3B8RoUZof449SgkG9DCJAVhmbN1pm-x6I",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "66 West 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.738019,
+               "lng" : -73.995316
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "570540cea7fdf8f3ba3020e6809a46395d000285",
+         "name" : "Church of St. Francis Xavier",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAutVSn0XOz6WO3wWrUKjsqw2tla2pM6CLJc84vmgb0KSW5SO0M1wMumI1kDPvV-5AWXIluTcbSkvezxjnteBUA-bWRDuVXeshG1QsruSS7_8D7-fgklyytox4j-da-D872GUl3R33ZewJQwCUFS1inhIQ-XOwa0UnBU7AONYGbVP1TRoUYoq9hWuNYnF2EeDUXZOYxAg4Fcc",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJA6w6Sb1ZwokR2oLN_Vjf02g",
+         "reference" : "CoQBfgAAAN_GvpbTnxvWmlqlq8AsWsswmukiR67KBNVBswzzxlWERPR3CLgKW-i-l8Pv2BMnujN0dl9ofDxq-rJbKMkWLQr6pvuyz0R3MiTsnotDl06wFmoBLFl4S9KFjVLA_SZEJhrGiuOyRVioNdTo0ZlrZkcg3m6jHWxG3SSlu2tefE3DEhA1g_lVUumA3AVAGK5W4KBCGhThvfDoK570YVD5Ps5B-UNZv_S0eg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "46 West 16th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735045,
+               "lng" : -73.99457
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3f9f39bdd68b944bfe7fbf034abc82ed58c948ad",
+         "name" : "Forbes Galleries",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ97tIDJhZwokRupHYnQk_FIc",
+         "reference" : "CoQBcwAAAM5Hr9FN0_5MAi_xyTxpnCFXDutun58CDjmtZswow9-G4Je_kJEu_CmKuqBknJ6ICxOme_T7kE1yF8LsIlYseLx81QGOITQZxPjPyZ86UsM-SbR_VA4AL8YJkr1Mq5Z30yNZ2aQRvpPzz20SIX_Y1M3pR9q574VDB5MTIf7-MaclEhAk0q2kbpCTy0RCGG1Rn51gGhRu3nuVy50_CIzZLTcFVj0nmQ1xOg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "62 5th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735158,
+               "lng" : -73.99744200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e84a82defb3ce52a452172ce7e88bb11d35363a7",
+         "name" : "Eugene Lang College The New School for Liberal Arts",
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUlBwZdwWEQ0caeAY7PZCpuWrdTe8OBICquO7k_RRllpEpAzByxT8melcLYi7k-qOCiNedz10oqP2gDpnu1ehWpAbBYVHi0YhZgLYfPncEAtHeiKnIQaKYzDSAaszrOruDDZj-951A8MDTPNhK-RUqxIQGZ6M3EUYpNeiZ41DK6BsvRoUa5LATk_7VOvmZhpERZLWi9j2qrI",
+               "width" : 200
+            }
+         ],
+         "place_id" : "ChIJYUjQSY9YwokRTDlW1qEGehs",
+         "reference" : "CqQBlgAAAFXft1aqn8VW3X_oqU1C6ACxRXxIO4A6VyBx9eUaToLNsUltB9icYrGtb_WgKdHYz2F-Ac0reTIU3fnUI8EhJQtzI16JuvPPyQExEGE2BFfincp0ZvlEaFgM7bRZiu1wjuMrb599PRyNYk7MbOkxX1HlzHTOQW8Zp1SJfxKzIEqumQ3pwRY3V28bMeD8iddhmliPTYQqbukOHi6Btz5uiy4SEFW0DkteTx_1BVTLp3RCOXoaFE9BOFIiWa1tkpVz6b8j4XXudg3h",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "65 West 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734589,
+               "lng" : -73.99540399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "50df221537e4bcaf78a311d632336aef0522d7e5",
+         "name" : "The First Presbyterian Church",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAdlZfeSOmKdZenS9G-h6fd4iVJ1w1kELcoPSgbEtFK9DbmR9VgfpSrL7iiRuKl3RHSAORFiYmPS3tEY9tMiB0H1ByUWPnzujJJqYhfWC6cy4dFc1wE7fzzk8a6msb8M5x1kpkrtX9UN9_CWOsVC045xIQxpnYMSC_PHQIgn4ju6rAVBoUT0VcbYrZf2GmASyMKU9H-EmW6rI",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJA58OgZdZwokRVc47Mv0Lg_w",
+         "reference" : "CoQBgAAAALqgqFnTH0fl8cMwylBFapAsHioxW4WAep-MoN4i5wea3v1EKtgITraf7Jj_sH0eCZlSqNDwZ-7_Csme0S6JBfM-l6cWxgk-_tDA9RtEDJit7akx_yD-Q83km6EOoIntyBDceHz1SLFnipskA14Yu1wzTWeSpYXF0_A4SlwoCeCHEhAeSp5WzN_S0PX5NZF15P9iGhQX_ywnuD7ZrDsmMyt9hLeXIPeMrA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "12 West 12th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736577,
+               "lng" : -73.99561
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2d7b0c4ddc7b629d832b2831dfa2eb3fe867f05a",
+         "name" : "Party City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 115,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAANI_7WRHwhyhVJtyO_NmWyaZ524izrtpQrOuMLc0S1XfM_nHW3v9XZ85MXAS1K6bv-zSeHpIODQGoeqYyFyNDoa30Ux9kU8_CqUdNeI3Uc2SMLV30Wmz7G32IpN7nTEgBkwWYPoTmxlK_zSqPT8YhyhIQ1KYL0qtDdPN1tpNUIjIc6BoUPC_fBgjcEs6doJHAc31hAVHnKqU",
+               "width" : 361
+            }
+         ],
+         "place_id" : "ChIJ9xOs5JdZwokR2ANJRWnBG94",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CnRtAAAAzlXZHUrgAaJeYIylNhXJpqcgjbYysNnpkT4HE4oqK9nZZUBJdgpwPLBtF37lF343Xqe8bEOXJYIzhr8BhR3HjPA7vWDLWVjGQdiu-RdTJ5jlnx5W2Xg_M8Zq_7AisrSsxnz4eD3MfXwLyPDsS1l-ahIQeZqqTJvWl_zBcIwglnclhBoUgEnaQu1eNepVqKYxHbCdLhvfQDg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "38 West 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736594,
+               "lng" : -73.996466
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4fa628930c874bd67fad2ff6e6cd8a3710a0ce75",
+         "name" : "The New School for Jazz and Contemporary Music",
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAev8yK6QqBugFQZqzCFm0bA37C94aJv7LLUbdksyx_9CV45atq-Xzr1QkyM1DzClMpa7J5JinZMq18HNYlsjKPXCco1nvK-1zz1xQkYJU87JAtbaHLtFQg9g9FhqxqF7ofcs9t3PfD0JM4GOaaVNFfhIQ3HlHp5MQAtcTVK10rJkOBxoUBwQng--7KasKRIV7CS4_PNjbX_U",
+               "width" : 200
+            }
+         ],
+         "place_id" : "ChIJYUjQSY9YwokRNg9J_kIOM7k",
+         "reference" : "CqQBkgAAAEQKooCJoiSnEFvjeQnAmNz91JKOn6zxt4kpOiJskXVf20SQlF6zVaUgO47me4cUB5L_TFVaYGJ3M30f7tSqiZJH8INmg09DKUCes37oU0Ox-oDSC4lt7IMEzv3vX74rhIkX9UfdwFaxKZRa4KMA3DgmVOM0T5oe7WiQp-5g3OrgY111tf5t3PvVeCvX_pnwsHCMk7a2tcs9rQMrZWyPC9ISEBggacoeNtvQ6z_8Tg70T60aFFG1I3e0WX5FujBATamyh-5-2yhk",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "55 West 13th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736731,
+               "lng" : -73.99474499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25179c6b99b7968c9b34e85f683c46703ae9c603",
+         "name" : "Guitar Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRtAAAA-nkj981cLsHn13FiE9r9N_W6Dfk0qym1jR3QIWMUGM3k_lMZ3uAYknvq4irwtE4Hie4FhP_3IduG86h62bSwrn8r6JpmRh4nu9qfdm1eRamXee4s5zaL4ObLYIvtQ9bQCVrjoSAHbBJ0Nry2wmMfjhIQvhmR57Vvco-1Bn-5DNw-6hoUWJE19O2dPSumqINZYg2NpCNW3uU",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJQb1h-ZdZwokRDbWSdorwKBo",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CnRvAAAAZKzqg6D5WwckYhBAroBaM2VuqkWujkvbU376fCYocY24oF0eo2emDaCVFe3CfRACAfH2ucHOggciTLa_7xOMYP9yg2JwaY8M20GQgXCOjOFswnBjKTLfkYIZqZgFFfbHD3jghfF8RM4TM604r_LYKRIQnWQHK4KSZZHHI8UzsNncUxoUYdN30Mlyfh7AfICeQ3qpOUR1XsY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "25 West 14th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737095,
+               "lng" : -73.99673199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "907a389eb583653cfd9aaa08e4f4498abe55d836",
+         "name" : "Urban Outfitters",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 459,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAb9NVDrkmRUh-m2UU9gVoRAQpcrrH7PkEJtJuMagQe3r3i1q23P2lWP1nY91vVc4q-he5C8PWuvrNGff80dNBcFckPigN3Qvlu0DrI-QBvcBNuo_df9NlqgFl-45Gxz4VWKnqyA0O4b_z71gGvKVV0BIQ6fXVxPR_u-6gj8kyFciAXBoUg-ED2OygjhDd2rXHETMFcUknszM",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJ62mfYr1ZwokRlcEglXQ-DUM",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcgAAAI2QQS3wafD8S97BniOy5trs0zsw3ME4C_K6uzaaf-tITNkLckyhuLkVdhKIZW17vnDRohePoB5JMjDDhU4oOdgA6MZ4UjgzYwHJxCJ57tks8GuPAEiGWt_G7OnoAxR8s3LpmKbaIor7AYyzz7dWBm7WZDo4Br3jWKOcXbbgV6JXEhAyBNlfoJD0eoc7CXYYfBrGGhR9xZcamprHhbaQkdqRsfRXI4slBA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shoe_store",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "526 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737247,
+               "lng" : -73.99494
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bff52b110d9fc5612ec220c2cea29d5ce3b3e8e8",
+         "name" : "Lion Brand Yarn Studio",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0GQi3yb7tVGyz_oeW631L4jmWITte14uBeLK7bBPgxTMXkhL3rcrNsfYz9Fk78gzQqCs23b8bILz1DRVxHSj3eStJyK0ETfWvcbFHcl9yXQrMdfHZdt1em4NQY46XA6PxeRG3cN5WXqJSaRzHXvZXxIQv_JTvoaOE1l9vcdvFdQJsRoU35QpBVwQrJFPFjo0hEB2OED5bfQ",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJSbGJVL1ZwokRK_mn1ctD_-w",
+         "rating" : 4.3,
+         "reference" : "CoQBeQAAACOFKU4iEWXfnb6xbFJ0WICVpqWQQd-bsERiDwdPXNdH7ovs6I0oXuBt-fZ7Hv9usD0YqFK5PCxafuC7n9r6hEboRAdQcxW-huHgJ5bC9LaAeCm9EtLmtx-cxnLTTS-hAf8hDvFqaRfa3wFHZT86-wU5bXJ9LfLMiHe8ew1cbFkGEhCvx1bvFzHcuWbGq43SR7_2GhQAv0AxMkfKsjgbpttuJq1OLnAx1w",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "34 West 15th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.734654,
+               "lng" : -73.996098
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "114b5ad8a6564760f20fc4a2d2d2d3af7aea326c",
+         "name" : "Larchmont Hotel",
+         "photos" : [
+            {
+               "height" : 330,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9E1rLfCsA3RADdXCNA8xKR1SuiFABlXJmaXvImxCLpf8Lzcfrn-kFqfAp5MiHo6uVNr1z4I_E_OLN2euRLErLrXivzndzU6aoSLd6WJmPeTBQcUkYS6Hn44xKd5CGy_01VCfA_WuQdimKL4WycnsdhIQm0YcnnIWKTB9VpLsZiIXIxoUs3KCUISIa6KPn-NOUznMHy_HfFM",
+               "width" : 499
+            }
+         ],
+         "place_id" : "ChIJp1shdZdZwokRs14DLbCrpYI",
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAAF-ME6loXXE0rF5Ryfh2LGO4U8RLtnFC7LSLc7B_GfC4nn5P3mKJTJvC6CU4scs2vwlkLfQLAdgh8_HAYU_FdDvbORUi4_U0rNMpSInRM2SFqpHhbPsFKFsftlkL1St9Lt1D-6pmx1paBm0MTL5CJbhXXxwfRuXnkMlj4Mo4qFWpEhDBxpDFoV60Wt_cZgP41jdsGhS1_eTxzZYMiPA9fhAS0mOSeh1WYw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "27 West 11th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.736341,
+               "lng" : -73.99718
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4dcdc5825efe81a83136544fc9407839a0406eda",
+         "name" : "Murray's Bagels",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA_VleovZh9l-m8Ohv18GHriMz7EfpOpc8lEMUxVOIQXQRb1D9h112n_XVBn35MkvsXZv09ZJHKTT8riH9XnBnhIldZuvmgdxjdN6u0YdVkco6dtW1OmokctNDhW4kSfAbNkFtwI4wI2WdJIoT9oEW_xIQ6O1RMlZy7ccMXLHjNF4aYxoUI1vMGNhaSvmQQmvuL0sRx95x0Uo",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJw94eyZdZwokRIFFh8Jtcoa8",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBcgAAAHEzSQ4FfWBk5F3H-wkEdrLL-uYzwIcXxOHlu7SIe9wTjPcIOiKlgwtaS5yx6pjkAYsqobB1xo_5ypxPESqTmFYAjpEqb3o0in8d_9WhlL0fu3ySI-WXacN37UWk9sTA4oLkCzMVgYNjevzw7vSBSP7ji_o21MA2dI3FSq4JXlC5EhAmHbksyGp0ik2-7W-92xdnGhQ58fvAVith1WhknkPWb1RdlnsOkA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "500 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.735215,
+               "lng" : -73.998656
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7954c72b116d4b8287b6e9e5b2d4bba4ed648c76",
+         "name" : "Sammy's Noodle Shop & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADPPyapJORs6U4MI0DVcFEcxgNsYwz0Bz59P63Oks33SoxDKTIy6wbjB37eBu_xaY7zIAjOkPr9nF4RW3pQvj6JW1mB-cgZvq0aEIfq-WSIVBOS2Etg4b5k0XI1KPURoDQZWf78ZcDqOItMauRruLthIQTLMHbeDr2g0H4eyerZf3dBoUFokSuKovXClG1Q5hAbuBYmqeB8c",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ22W3WJZZwokRmUXSebgbsAM",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CoQBfQAAAJnlf9Sm2IEUynTybjm87DD7clxjbZ9liyjuebSElkjNzUpUJRGXUIWt7HVxP4nQTn2P9h0x5SRPh7eMro9_T9u3U154FGoxirOMZGwk2DKWqe1cHH9l71WOMEinfirfwA89HqePimyo809yYM1gJSslnVlrWq_4_hCWG2PyiPlIEhC6VzxDhQS5wfD5atZKiNqEGhQfOtVOQLPQ6qYcPz3lscaFzESs8Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "453 Avenue of the Americas #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.737229,
+               "lng" : -73.99587
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a27cfff3a54f963c86ba9c7747286feed2b3c920",
+         "name" : "Rising Dragon Tattoos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAAL_3qqOMu_hIbaWYDbEG7aZ0Zmy1jnHmrj1CXybdQZ4yhx-FJiDVyUWgBzzMtCqcl_i0EnCnJqEx5YXPj9GtkzEydA5aeBX4esJzl-FGxvm_nXhnQtq-ZOX00MMkEFFtFW_H-qF32duxVN2Vu-TOo9DGHSjZT_TvSnwFSWiaR-6pEhABFf5P6mcs3fgy_6B3_vpwGhRnlpfdx-30NB7dovUS8mJfZxT3yA",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJVeM0HbtZwokRRgukBGHyotY",
+         "rating" : 4.5,
+         "reference" : "CoQBeAAAAMZmO-i3KjBnt45dItWH_QhD4l7lpm_gs6slpPNiIZmyw9EeQ9VzpIyhN5949Lv_Z6ZvPIDksPaDkMogdsSY6UxXrIBQ_3zkWsqWnt9hxdpJ2jAkWR1V-s1UuK8IkZTVsHh8YEUFJlEG8S05euQJzgsio3xAk8kHe4nX9amHQIfiEhA651FxogG8ODPzQcofYa0zGhSSqtX3rGkjP7RBrX7vwAqlON_6qA",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "51 West 14th Street #2F, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7465004,
+               "lng" : -74.00137370000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7570384,
+                  "lng" : -73.98779159999999
+               },
+               "southwest" : {
+                  "lat" : 40.7373582,
+                  "lng" : -74.0088629
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "439de5063d60fb2df43afc6fd9caeae510744168",
+         "name" : "Chelsea",
+         "place_id" : "ChIJp8i4grBZwokR8DYmsJrrVC4",
+         "reference" : "CpQBhgAAAPBUM8S-QZoRX8Hu7Ip-VzQMHdvtHHdRAcYr4X5_weAezz5RnwEEkM1rSiyzLYZ6e7eR8tTOvN8P2VDsd3xdsJSwYW1QX6PwVxfaoC3xPyCa2LRsa97KppESH8ssoeATB7l_5HS16gq4IBqDdov5moNGoQO57w5j9Tf6kRcQ97_hf_h6jTb6DaYUN7I14HYyyRIQ9o9LOF3TsJ0KD8MrSVTNNRoU3PTy9LQiAMvwjTQrbUFYS9ul8Ow",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

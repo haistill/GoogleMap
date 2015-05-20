@@ -1,0 +1,469 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHRIkn4Q-4HXbnxWjDZVEz4UmuRvSVKtnydCdQqWPdvuzxXmgTd_OquCSX5jWaKSas6Wei4gZEB5wDAdSG-eBV9__JKRBpoT5j-pzCb1Z9p-9PD5v-4LZUMkaCJiDi1bBwiDXqeVGZBY49gnKU6ZlvN2kLEBnlUrG8z47RPt7Y7wJzQxaMSBp4lyjNamqrcnFNeCNsU87CSAmeMNSkvnuRJJ4OLnFqM7AulLvXEjxOmYkTBFG8k1Yv0Cdwgcw8nUhItk4iAet8rEmo37cE8JRMW5ugXZuEy0tAtAtjbqGyN5nVwzKwG_MjagW0omYjRE1BIQBsr4OZIrCuKAjSFFj2nhmhoU1fcZXDsTGUsRC6DTLI7M15OO9fo",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAMfYl4W3Ripw4-BXJFKUC7INyhUxnxFtzZlrWtTNCvj8rtAUokelMDIrPQE6XRoHY5z2v3hGNpKjEnx1ATEDBs2NGAG2GMYl6bc52kHm0uyJKfQ2OKTWs6I5dSnrymUxdva9paTezqihHFG341GqpWpPWzFlj89FbwjIKWHIS1qqPOvUtq0UjsOc3lnwGR3jYBIQgKBwudQy1q8ORoiE2cUsUBoUdW0sSDYBX23-wOYqv8tjixpHxlY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813392,
+               "lng" : -73.94084100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "dabad6636cb206060729893bc98dfc95d16e178d",
+         "name" : "Paragon Department Store",
+         "place_id" : "ChIJue36pXb2wokRMQYgSxxQqSY",
+         "reference" : "CoQBeQAAAA8elFhwd7bsaWhikRxD_qwQYfAumM2W_T4uW8N589dVcWs23GGdttG2aVBX7YiigUDYR_AOnFw9m2T_ZHdZ5u-gRa9scBM1AhI-1KKEUBw32_vPx7f-wvZ7xZ1cjd0iupkiiiOsysCvRzr5ASrnDIx_h8wC7BWnIGP1jx1kIh6_EhBXOVsIViCAJsdJJqDRrog4GhTpKWqTJ-5bE-UNQhWFol416con0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "establishment" ],
+         "vicinity" : "488 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813416,
+               "lng" : -73.943607
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cbdfb1ab892c31e112e194e666eec895b2312cfe",
+         "name" : "Bill's Place",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJEdAA33P2wokRdlpaBT2KJTw",
+         "rating" : 4.5,
+         "reference" : "CnRtAAAAVFvGaLmR1dSahez1MGYRxf3FU8OCEJYT7PkPbZ_JQJz93S8BqnjDlb9MrcTvBKF59cwn9RV-RdiVrhjB8gA1nGmuW5iZN995qlM4qbJnl5Pa2KKygc9NT2S8o7uEIREIQziOXfVjRHnxZoKS0hzPRBIQUYSn9GbomXw7eJx0THVSQRoUhUhaStdfiqWoHkhB-DCWMOP9kvM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "148 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.81117,
+               "lng" : -73.94418400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "28eb3941c05090304030c38e4355cde06f922fe8",
+         "name" : "Chez Michelle NYC",
+         "photos" : [
+            {
+               "height" : 1153,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwEg2k7IkXVBaHR6fuDG3Qns-z8MT93WtQWDy33BlzoxAGk3wDQWh2ZnvkwN3MhxXpxdeDEsSnhJBAmOToe6rYAx8evOdV8cTSKAG-B06XwB2f5GkY2r6PyOLhSMAPBPOdebopzGByE1qJUVfcGcVZhIQNvM7KoAWxV9WeZUNTd5AshoUVm_-UAesLHepg2bQ2I0k0_JG-yE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5bFWBnP2wokRkbqLsjmI-7c",
+         "reference" : "CoQBcwAAACIVXWazSlzV1z4vhUDrB8HYjpgYWOkAmJdLswYoYmgyTjJoKfKjBAZbgbyqxXdT8MR3iLtryItISNL6LMbxn6DMH_iblq2jFV6b2S_Dc3VEuIgpXjfqAEfeDXn8pK9VGdBMSyrsyb6_pvK2JuVnK5v27NgV9TX5826N_pvkUy0TEhAZK47sncDP5_SLZ5ksfZeIGhRM3FfHakaHbgL6PAMjJ4HTfqDeSw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "118 West 130th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812441,
+               "lng" : -73.94155000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "814a7a08676c4005fdf1dbd5f8f8264fde0e5c13",
+         "name" : "Golden Krust",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKw3TFG3tYI64bj4A6KKizeZQXji12xyzj44zjc0Ox6QYlxtCjsnHvfMtwCb4aPLVavtMOShdBwB5D4Pi-HeXF3tQOJUUNp0HumAZW7sZZCpx8ySLg682tzOGE6WRmVqc1BvsAPrVgnsazIpjDJZAvxIQ50C7tlPrl8oolWDHK6NYdRoUfhX5grHQmEkALgbqWOmNvawB-44",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJ-V1HCHT2wokREUPiwZYPl44",
+         "price_level" : 2,
+         "reference" : "CnRuAAAA-F0nJU1dg07xn58i58i9_TCkGKlazk4add1EQrz8hwM-zkqqOpymf3FUGg3h81HAoijhoabu112WIPAJmZyTOetUdufQjd6sR78v58BHRAVkTcYjOH-BQpGLZxAbak_DmtGpA4KLe5JVMxF7W_uaQhIQfUZzkK5TJAHst8RKLPd1TBoUSDRp2WL6N7U6SHM5oBpSRhiJIr8",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "456 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813368,
+               "lng" : -73.94107700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "735a5c969b6a1dfbbec69be2ce4d0c9690546715",
+         "name" : "Manna's Soul Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 314,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArjhPfgisgX2aMJyyC9-vR_jvTXYEvNhtD_9jxNjOV4Re3usMQrhj5BK7W0VFvAIFyEsTWxEQD6_JOxebzBDAm-mMXKcljq-T1LAVReVuHr8uUtr0kZpK6fZePrA9KMpAC6-a6Q0avEpHCxSlRaHITxIQTKmyFsFQt4sKphI2TC7-TxoUp4nppWgd3NXd9bUWzN-mbG4KMtE",
+               "width" : 583
+            }
+         ],
+         "place_id" : "ChIJH97jp3b2wokRyoBwNMM-F9U",
+         "rating" : 4,
+         "reference" : "CoQBfgAAAC9iw3ZbEFY-27fa4Ok_m0SBvirkbMI3Ddk9NvrHGwtN-Dm67N7E-AS4-SbPRRZzCHBc6cYwRBlbpMW8-ThrqJBxCgul9MQOfl22rp21Bxk8kRcHUA1Sn0QVUjbf9YvONflTSGS4NkIdLwcHKfSgv3FTOT1VOQen2CQh6bTB_65MEhBdZoSFtYiqatobVisrry7LGhSeQOmUtyb8D02ZaQ8hF-t_p1jXzw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "486 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812222,
+               "lng" : -73.941731
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b9d51aea5b0875d41418c16daccaec539006e20",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABV9P_gLuTi_GibDX9erTuDEIAoSDglyUjiOKfEHUFFQ7ubxG25gT78HnEsKG7sAERhNM6gdZna6Sr_JS4nrgdM-vzZOJESFjEZ5l_KwV5C1IxyvzP1knBiNwmW_expFBCc6PD761PQv1Cn5xl94-MBIQKterpp5sTG_IGqeDnbxvkhoUXJXzHfW7XXxmt8vgf4JTiLcpifk",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJsTcyUnf2wokRnYHpHpDlHpo",
+         "price_level" : 1,
+         "reference" : "CnRsAAAAKbEne4YgJ-vHfL9eRv35GrSkhlTYZcmji5QwPCc4pKMBRuSUjfCdtib88bxI0xIl17ey58Al_eGbXWq33hwQq0EBKvjFlm7ivCR2Bc1kFjYFx5pqkhCSoSgIu5G6_CPFAXK41ko7QCqcd7-TtOIZHBIQy3OfHRCdWBkw3iaTN32LvRoUfmbYNQDtCEHE04dIPQu2lG96C3c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "444 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811532,
+               "lng" : -73.942341
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40ea1b2482fa4c7011e5f4ccbd508169b0a0f774",
+         "name" : "Island Salad",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAI9IdzVV35JpumUjXMXlGHrHIYLJPU43GyheSdFgGOjQ1-h82uK8ZdoKYKpXfKs_FZmESWfClczPHbeW1YkiTy2VfR6fb6-sbVSmNES56IoV-axrHLFXDLvYuoRVfV8dE2ri174d8D5nPQJkxzay1fhIQhOM1Hb7yGX_NqvGNGPhRnxoU-b2ltvTHVyvyOZdmVhnYG3fF2KA",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJLeoHhXP2wokRAS823Rh-t84",
+         "rating" : 4.3,
+         "reference" : "CnRuAAAA6bTMmfS4r1HPDY5g5uQja1HUignOsmX3pW4JgTH_Zot0jVvJiOdzfVvozwcAtkhslfdNvcxOdZpsJncfjhr0W1ryaeRf2bi0_fRVYuo5Jf8XcdsvatyU8m3o09t9CpM-8-aZdacPUNPIvSbJdlXQHRIQApQUDeau1TuzOnMagT6K1xoUYxkkoKBnCVfOM4h5oTZ0965-sUs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "420 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812788,
+               "lng" : -73.94076099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "966c822aeb9d3fad30431b57eac95ee8742513f9",
+         "name" : "Lenox Terrace",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUfWqAnT2wokRVjLjBKFoLRI",
+         "reference" : "CnRuAAAAMrSuzojCmLI1zxSnZKcF2DnSj--zyBH0d0NBZPxyj5eiGTcvrhkrYnDrXsSbsY2M7_ZVbEvg0Jh-l7EeXdi7mQ23PpzltKIZqOdMi5pq2zgYbEXcHn_mtqOG6xwDy9keGrJEcSHZCscXCyC2of61IBIQILWNPBOTOdQoUwum5KUPoRoUma2y8f39y0foHKkoZfaG_rMVIm8",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "470 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812999,
+               "lng" : -73.94249499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f622419a0d02e3d687bd40528cc28ba79e438b32",
+         "name" : "Grace Gospel Chapel Inc",
+         "photos" : [
+            {
+               "height" : 538,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBgQAAAOiKJZ1e708QjXgOTH6idk6_L4FEfmTaaRgK68bEm_-4bfuGn5bHb1FtGxqQB3Pi4iVyQXhnUH-HEwFj2x2nCSqwzr7A8MQiQIgXYDal6ZS_3-h2gzwvpRB0u5iJPAy0neToMYKZMCNGGVbiOzkhnWWre2l66KrS9dAaY6-s18UVWi6VKfvPktK_t0iDPUERVhIQguHPG5HCUzd7QtBFtRHCQBoUcRHdkVfr6mUZJ3e4YM8tuenWnCg",
+               "width" : 550
+            }
+         ],
+         "place_id" : "ChIJh-bl-nP2wokR66mWk7QQSJg",
+         "reference" : "CoQBeQAAAOImHPGclBKqvX7prGjOZUDtGMBEVi1IdW_Ea1os9dcSoF4oWMlQUg-5gABUAvqMIrL-Du-M3uQEIvDf36BlMENvvkvDup81ef-kUxWESp43yADWBbQ8zcclVeQXK8Plo-YGrqpJ-wdhRhmNg7qzEVvODzMDnsMPoif3RXcxJ3cWEhCxTevVCKw-1WFmLQ5NPC2AGhTaFQfGF2XsD4qWks31b0No2kqGQw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "102 West 133rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813517,
+               "lng" : -73.94467299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2859328d7da57ed08e969ebb09301bfd8192c36b",
+         "name" : "Keur Sokhna",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAq9AJmGzEHoNodtKLYQ7L1b20uysfWOlpz-WorDFrbVPd9Pg065ndU3YLIV6FN88POeun2oORrmJ7-A7CqoOCH0KbpxcGl1pF4kKB1dMSFEDWIw4en2ZeX1IkKe2hOAd7RNkfd3d8JnpajwL6NjSeqxIQa2KFDR6cQb9OmNJPC6rdVRoUWnJ4xxS-pYbjhZWt5IDzS-t9kEU",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJtRpg03P2wokR2yA_dY3Mfqk",
+         "price_level" : 1,
+         "reference" : "CnRtAAAAOCn5hUsmz46_vn1PCv5S-EN8C74Mx8zTHFU84LA2N-MEDJUGfiXdrzN3eNyTqtyczhCn7xhzRStSV-xWzdaKlqHH4QgpFIzuHr5ka1sEX1wnzkpU2Ho8mfK8c42naahb44JUEQD6s3J5JEhViR8HCxIQbn85TFjdqspgvDL6T5Z_qRoUq0PJqn_n3PaJt7cMejqH6E6XzPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2249 Adam Clayton Powell Junior Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812207,
+               "lng" : -73.94463500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "93c7981e510764454ec708ba9ed78c9223c094f7",
+         "name" : "Friendship Baptist Church",
+         "place_id" : "ChIJj76as3P2wokRj_PZ3UhgChs",
+         "reference" : "CoQBegAAAOlAVFvGzmExz7YP1AH1wATy36pY2ZIqobonUq4iPLtqeS3kXNcKKziHS-kZtl6TIMCj3ZdIXaLHENkr7H9Uga-30ZKBlM8nq47V4D7TShYw0cM8BSOIKQvgKxxFnG2ua0JnedXuKJzTM5jUddrrEi9-huyzLGEwnMhAFzyMHfalEhBqkiCPodNPWCf-t25blkmhGhT_KWDwEaHq0ai1lOMH5WSd3Fpg7w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "144 West 131st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811448,
+               "lng" : -73.941098
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a40d33da5443326beb446fee59be919ae6bdd04b",
+         "name" : "First A.M.E. Church: Bethel",
+         "place_id" : "ChIJC7MibnT2wokRz6njNjYwc4k",
+         "reference" : "CoQBfQAAAJ5-aE2NbJ1IrXaXmB4tz63yXwHja4oHndmdJCbV8dxeEIg0-BNm3HD_d3FTdBbgrmCumaf2ZpNbS0yMfXejE1TXMM5Nu17fv5GVPzs_ov74YbAaJN6QaJ_iGXAz0faPk0LPQgmj9e-x9HqS6P2wYB3fhXD4u6PLFUm66ETu6dbKEhAf7tqp_dpfUEYrfsp3fCL6GhRBJC9DS1Fs0SnbNsIyf9aHXnkWfg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "60 West 132nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813816,
+               "lng" : -73.944406
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5e5f7671a4ca301fc8b90119ac087f6126ac05a9",
+         "name" : "7 Grains Health Foods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJhcU81nP2wokRSbynWahTCVg",
+         "reference" : "CoQBdgAAABxPpegSomDLqGXT_SWsXAo_KIeguP0JYDEV4kKq2Xa3YRsgqSVoAGyvvCyM0j-E5Ro9El2aOW-La5fKIG-tGkwOiRIGWFGR3tC1gJevOE1i9lSxhyxySmMbHJtadj7FmxdjdbkEUyC2D9Ha6CuZIjqhk0PLODAPBHaGkT3KEh8oEhAFQ0IB1Ku-Iq46yY_AuKsbGhTTIEXBHYOLP1Z2vCSPdSKhh3xD5g",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "health", "establishment" ],
+         "vicinity" : "2259 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811869,
+               "lng" : -73.94215
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2a0d70ad05266848ead7cab83e0a202e2d88f981",
+         "name" : "Florence E Browne Funeral Home",
+         "place_id" : "ChIJ9ZsJiXP2wokRxBVmVqfb-O0",
+         "reference" : "CoQBgAAAALG9sIrmuDxOVMWAD1j1boMPsJsm3EcHfuVQ7ejYx6oRDoT7zmaO1j-DdnPM0i7Ha7BA4G1IuJ3SYtRaEdT6ZlD4c0K2xCEmkIsM1rsVypR-xHWA32VlpHn7AzHcrs1hSmStMCj86-RWa5-KhnvWMNbYfSbOj7RBSoDHuu4kXu-SEhACvwAQnARd39WsTefPBcbiGhTpOCQqwELqSswW6JoIR7Fv_-O8lg",
+         "scope" : "GOOGLE",
+         "types" : [ "funeral_home", "establishment" ],
+         "vicinity" : "436 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.813738,
+               "lng" : -73.94470800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bfa0df88f0f174b7a583410612da172359b873c9",
+         "name" : "Rusty's Flavor",
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAADVj-fkBLQ333dUsHHAhahqj5e9_ABeXQsuuEh0r4vNypGpWyWZRPO472u4nKbPeNCy95zH2FLiusml5AV5iaGMN09Rbq64PyIAbfulsADOP06OmIpcn6Spte0-z2miSMiCt4UubOkouYhrNT6YKb7hIQ3erm_Tw2E202TCYdddmrFxoUt6WNG0qNYNfevnreWSLKEQvv6Ag",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJKdYY1HP2wokR31D0zHw34aA",
+         "reference" : "CnRwAAAAJBxBYME_wYSZwPSpNT_KmF9EOSxQswL6yOUbqGAkXyLYyLoiwNlsLhGK_5kfjH6pgLsCrCHFy2-XA58HpOD2zEraaPLggUuh60L51Ce3yQY8K4qtfVpTsIuSJHsilMenkd5fdkReUm1Fidom9YKb-hIQ6CWmib_2-Q6qWPipRW82XBoUGAdJ0zLLnZ9PB13JpEnl3PWFYbY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2253 7th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.812707,
+               "lng" : -73.940864
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "972239f059838128ca1380a4407c908726d18a16",
+         "name" : "Ernest Robertson, DDS",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 353,
+               "html_attributions" : [],
+               "photo_reference" : "CrQBqwAAAM5JbiXz3ceb3BBAVSahw9JvGDjLnbQIwr7qBYjZIwNjsV1hbr7m6wMCyiQg5EiprQvh0mmwKa0Mc4gmnoyPCOAsse-NK519b5tNkR7V2_RVbII3JHZ67EzWgBMy3x12JXLrjW2fep_ojYzPSDg8ykhvTHEg6VoZXEim6x0U-VfAZ9V-qrWesrjOyJHyLlI6I34eQ4M5z_f1tGeMy3gSqD-48cfLWGZAeuTmBuOysEeMEhCTK5ulUYL0NUdZVc1IvrZWGhTRF5zmG4Q-X0ggZr82DY23ht-NwA",
+               "width" : 353
+            }
+         ],
+         "place_id" : "ChIJKw1lEHT2wokRUgekplpjA-8",
+         "reference" : "CoQBdwAAABeT_zpx5HyW2Jnd7zAQPTC1NHqnUasIu--C4p_qjYr4nN-WyYqUix4luS-MM5mOlbRiMHxTeRKrnzZoXuniT_7Skg7h0KLkRAGhiQIYgfYFgaaIEuV9lMndY8rcyIem515LHubIGy30VlPq-w_dB-PwWD0NCjAVVo3yspd944obEhD9qhWvumXvsoqZvKghmvSgGhTSUlXOvzhT3Rcj-BpG0XHjoT9uFg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "470 Malcolm X Boulevard #1d, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811052,
+               "lng" : -73.944791
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "956a424b5ac2557cb9cfcda6977d9fa692c5a64c",
+         "name" : "Blessed Trinity Baptist Church",
+         "place_id" : "ChIJxTEHAnP2wokRK-4aGHdqcBc",
+         "reference" : "CoQBfwAAAJjMvzT9pnMxQdGFTT0cWDK0KrcTigowIMsNuGpKCsW3TsFhaDlk4TbAr7MHyrCpNG7P7SsqUHt5gAUbwVgI6dMU32A4cedha6n34lvqteXTIM-9SDgLvfgfgMl0Q5XobWEfRi_dO6tnIQ9RhMmuLcronTjnR8c6Xj1NwtCUtCttEhAqZD3ZlFCefAPw5kUAMA01GhSNYFyUKj4fcsqaZ_zaFQD942Ef8A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "131 West 129th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.811125,
+               "lng" : -73.942699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e8d33b9ec6877413e09c5daec76719c82737fb2",
+         "name" : "African American Best Food Inc",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAj6aAIv5Y-I8Pek8A5QmYqnqIEz71DEFs22_hlJsk6W5QYLls7khux6E0jmbsKJyZiMoWAny5LDQrtxSHq9z6A-WdrP8xYd6_0retoOH4kPDZEw7i3uHU06vhFsUF8tbLKuLQDMJ8NnjGluFW6Dat2xIQ3n9H7vBScBSo3XpEIAaVMRoUjsG3ESHastLo337EyMIU0DYyoZc",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJgzcTnXP2wokR9Ku13jdENEo",
+         "reference" : "CoQBfwAAANAMLwCC_rbE5C5hD0BdIxn51rnj66gjX77re9j-aEA-u4-OGgEb09p4WYZPio8y7wyzO_f26Y1zWFPXFwk2leTOgUZt2-tFs-5wY-btliPZvF1qiJhH9hRFnFvAOdCgr9WTAIrMQtGXPw8eiCEGrk2M-f28cgA9hCxt3JDZgxANEhAIdtD13W3gaNLIPJx1N29YGhQ7bSZ7IGbhLC1wr7JHBoqJDAMaxQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "410 Malcolm X Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAN_NhmuB997Vj_cTzNEaUw3vzZwTQyqv0VLyKeKv-DKbkVmynh7-ntPoWxZ4ViOYxPeYi06SqbanWkRmARThi0m1lZj_gYeGMHHRc6ecgv4IIaYojo-Uxe4f3WPKqMuT5xhkJZrLDboZgXkpo7Hq0zdrc8HRxuoQ_kAmbUIh0l4mtbDit8jUPfEXtLlQHmuaFBIQBc4KQXkfZx9B6zGHKs7ZcxoUm5cWVsRTDGRC77Bauy_3zfQBUkE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

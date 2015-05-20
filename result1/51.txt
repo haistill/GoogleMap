@@ -1,0 +1,547 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAOrXvkbDnLiYEXyDaSh8luCLbrfp6nKxJkAA0jr1sNdWGnbBgRewSdOlEnU4ZIkA2DIwd9dRHJ5oGS8fzaYakYseAkugDQNhdaPAMIrMY7pTgMVcvCP1P8zFpO1AOIK6L0ZsJAzKZ-MW1F46Ln-QPTY9ygOd_bVsItNfCcI2WJOlr9S_Jd5RYp0rOPquX_7Z4eILtFU9lXJw4BHBHgvooZAHrMzR-G5tY3tYh9J6jHq55jPkLFu8ZTHumSdGRsxDy-VxWnF0EmHPnOaYNqc6wLFKrbWar4T8n3RwOX2zvCBYr4uc19k9THTBp9IJQVUyORIQ83GSfG7AfCiSskxVpNcPWBoU3O59cn20SNzACPS50easvjtO-3M",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7478792,
+               "lng" : -73.9756567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7528,
+                  "lng" : -73.9698745
+               },
+               "southwest" : {
+                  "lat" : 40.7437943,
+                  "lng" : -73.98296359999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "104b1d590e7743fedb49c8c2da2144fd7c04d9fc",
+         "name" : "Murray Hill",
+         "place_id" : "ChIJKyZmEwRZwokRSDaVZ4QprP0",
+         "reference" : "CpQBigAAAA3g4xOpQLuoArFn_yt6rCz77Dmjd8xdPz4TEEwW0Wqa-6dmp1nVZRMeg6XTgTHoMSYYjk1k0Kpq-2IIgJpKQsj4Ty61QO1BU4pBxJlXqksG0i2B67Ddgi5YDk6IDSYJ6s-Ok5FEJt_MGHiiz11viHCWfXb3MWeS6tfOW0f8tVOklRlmak-WC8HiOU5xhgBGzBIQcYKsWwLYAs80GG_Sgwx-QxoUgjb11a54hEaMdPCl6nyf84aW14k",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745175,
+               "lng" : -73.97918799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "cbe0d898f793cc65c2394e888dd9000500e752bf",
+         "name" : "2nd Ave Deli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAovF3PSUDkaG-40nFot178bISbrBeK_c_T7BOIMv2K5F6AFo6MrWaNANLu8A4ARgR6fH0I0L3LSSJWgFAQPAmGcq3KFu46MBQ7N_3OZHAc3hp7-t3AbjUsvW1jjhVbnsTywDjH14Qk4niIjnuiXrh8BIQDG8FFPLuAowuRtWayQZBBRoUK99lL4WqqqkZAvFlCl4LPHuEvuQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJt7eiMQZZwokRZgq-ovGJhxc",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRuAAAA7ChD5VG7UeymCYCR_CXiqK1eW5191agOYniB-oqtDlewgHAaoJkK46tC4k0BRrEtF6rBMYsZ9vcyXL3o2ehk2dhVkynB6gFfNdn5H05hCbEKqAXAsMqSgj3yeDGzX86bG_qEeBO_gAjfJLh49U_rZRIQwwmPNJ59Zl08uBVtsSy4hRoU7gGxIo_UTd8qGKb8arI3B0SXF9A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "store",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "162 East 33rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746681,
+               "lng" : -73.979241
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "3ba859c6287db22d9973787b12fedcb54e32134f",
+         "name" : "Stern College For Women",
+         "place_id" : "ChIJvyfpWgZZwokR0HnB54jaxCU",
+         "reference" : "CoQBeQAAAAohFZWotlllu4mjtF_-ARjYeVet3L1bjH2ygKQUPaaJS61LuMuopY8n8qBU-bpHrDsjvhoGdmUPtU2p5j0wE_pOkAg31vGuQHhFFsLn17on4CMUbGftwYBivBfALIodnN-Ja4lI2VnxQzc04f12K_TsKhDi6xuc6KWY8C2_jumyEhAA0GTeADCBCiE7Ynw2O526GhRFMBJRVSL1wxk_udt75hpfiHs_UA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "establishment" ],
+         "vicinity" : "245 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745911,
+               "lng" : -73.979286
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6662ca535b63326de9841990c4703f936b590bcd",
+         "name" : "Dumont NYC",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdgAAAH9ZMUlhLswFKBhNARl7vR7GRJZ7_De-CbPPOdqodQuRMdQYSB5PVxbPltn6D6FFjhlwKgfpSM5alTo-0IIO8pqf8dmre7RL4xNX1xJNorFQ1OUgx7_MD3im5O4caljU3KtzR-FNz6fLVZjH025eYLPexmMgzwkGk-GSHoJ5a08BEhDm8sDwjv6PIm1B2ksfK99SGhR6yR0G_5SmRVLDL_5LAivh4Qgtow",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJR7SnMP5YwokRfGDJLM1-t9Q",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CnRtAAAAggRTgAp7WfQafi6FkWmsJqYm6OIcVJd3vs7sqrTX4BfhCPdbLM3VMclm9z01GGX91wSZ0ZlcTs9pTac_UIOo4-gSXehLpOp0I7x-_Ud_6nzTVoTaTzzuMBN3XOAGvsbQwfK1vgs6EjpMbbHtzuwOrBIQ23k8-cIwUv6Cg5W-C6_wrBoUsi5nc9yiEoSIcYNgvU1cWWneN4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "150 East 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748363,
+               "lng" : -73.97797
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "772e4abe7108770ae71dd05f80cb6ac804c04a9a",
+         "name" : "Shelburne NYC",
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJXEebTwIuN11yBY7mZEZ6W478fZbdqMdDg5QGOgZSburfA5Xy6Ju82_OWuU8y2qq3Xo_lPEjIrN2qYh5kpQWxyMI1gc7he7TWcYNqsbRax0SAsz5wF8FF7OHYZTsZWrcbuh6NhLbd6y1yfuSsZdjyxIQXZyIpVleSntILK0CZqPyhhoU06S3ZynB94ejhsw0LQ8FC84_Z9o",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJCdj3vAZZwokRC6_23bTOr5s",
+         "rating" : 4.2,
+         "reference" : "CnRwAAAAyavrSFc8wmatLvOtPMtnxnv9kvl499ea5y6qgfrFCT9zrv6IDNDS5WpxU51lVeMODdGKZQ2ZhQ7zj8gO1FoZHfRHQAM978NgifdgW669fdzNnI4tkSpRwz36tuNxoLskqpVtYcLUMqqmNWC3wLd89xIQ-bPyFAHsH6ZdnSBb8yeN-hoUzA9AWimqn22mJj_Smpti2Amq7qA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "303 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748416,
+               "lng" : -73.978054
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "996bdede13c1b46b9434941b9b6e99c44d54007a",
+         "name" : "Rare Bar & Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBiwAAABppPqLU5qotN7wfeLxs3htYWj7R9w3PU2FLGD1bwCMHMO2I6q7cu7R2Hsi18dh-Q0zJlOMe1z3ZUGYRO7Ohp1AHXsbz6seJ4Bsc3g3iVDOnfHzoQafL1zRphSEy6dI7eUkvbRFzkWHy9SLjAU2bufeAUKEuCl0A0q52WoO1LbTQS1w3PGerRJKzin3N2jWHPxIQTJ_1I1E3Ah60EeYIm-CxfBoUWllgoz-8eFuORb64GNcqIaKAcRY",
+               "width" : 420
+            }
+         ],
+         "place_id" : "ChIJCdj3vAZZwokR6H1VzjAZjrg",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcwAAAOje8--_MNaiWdkJaPJOgh25wMTXTVCgALV6vD2m95LJzjP4vXvY_L1SJ351rwjW9QK9pQgv5CZZVWTD6ekSUAGnQ7N_RIpoDZJpZsEEkHCwyPTct6KleeAcSfV_h6xDsAAvvrXZPq2CiIpNV4tvPqrylnZ08AuYbLCHlT9MmzDlEhDpJMkDSgEdIsMEzBjeTUCRGhST2GoqncP1xPhW9lL-9cGC1tgJ9A",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "303 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74512,
+               "lng" : -73.976192
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31ef6daaf3562027c2ded27bdf1cecf1e31d43ab",
+         "name" : "Estonian Educational Soc Inc: Main Ofc",
+         "place_id" : "ChIJHxQI7wVZwokRpa1jgl9DR-s",
+         "reference" : "CpQBiQAAAEaP6_0bCbARrludqw7zTr_56Zagmbwt0gCaGAUa-K5s3qThij1puKggt2DAae92PbDeHg_cOl8dPdzHkHFGC4S7gFsXXu55P6qkygJGLKtBsbBrChwg8uyHSh6A-mrsjg2QdaRFODJUh58q8XTd_rv3LpioUVNI-uNKwUU4HIIWdDcOly4-Hdbs8aBXjbyfhhIQ3nAhPtOgYJF_iwhg-Y38OBoUGY2X-jsLQUaCS5UQN5HG7hDZdU0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "243 East 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745376,
+               "lng" : -73.97811
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b83d5cd9240241cd09112fac432a817bfa78fae0",
+         "name" : "Blockheads Burritos",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAfcbZiS8fTZ5O-nccJ5-qbvydTxc9fuGgdrFqPe8-iFWsLzNAPomkTxVMRIGNNxTMvs9xWqrDiUiueHOIojggmQ9q7X91RIWtlNXvr98DQ2Nb1qkNN8IhM7vKnlV68WPD5eP-ZtadYfP31cYO_SF29BIQQa--WZpk5mdwPKBPm7y46RoUImeH0TBwW0WhHuwVe3f3zLzpwNw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJx9ejEQZZwokRue5HV5bvu9U",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAHsYI3yBlz5rhCg3gCb1udrJt0AA4ul5uEJb0QW61VCMoDhVlruAMu-wCgUwF7V6_U8mb_82-_tnlp_tyJCOxUR0ypXnAYorJtTNlh0thSkdSxVsHHMoCcTP0bXjnEcr67EUjeesFz5_sNUu3ussT5ejX8vxglqAkDGeEfqAqRhlEhDtmWYz0bPAfWLtNr3NMRdAGhS3o58fq0KOlEOIC7SNVEiyPQCLIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "meal_delivery", "food", "establishment" ],
+         "vicinity" : "499 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745381,
+               "lng" : -73.978996
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c424cae37783f4dd33b29745eb8be0f574e16480",
+         "name" : "Cask Bar and Kitchen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 913,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA19jRWREHiuSf1nIuDBOjzDHQ8q2n0wNkUwGkw1yPPscwUF9DP9nhanvhCW5inuKIrQ2EtJt5Db2zNLzdD2wQCfocd5TaLzTX-NK9xbctqs07mc0q4t9OZHwuFipPqchp-YmYFnmgaEqD5eZPCYtErBIQiSZfvIIjRmmkVBue7crjKxoUoc7kO1pnf1ZO3sj8FL_mjC1UG70",
+               "width" : 1217
+            }
+         ],
+         "place_id" : "ChIJF1VpOwZZwokR5vv-tQNGG0o",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CoQBdgAAANfII2HngGisNNisc1f8l9pOgesybDnIpkJrTXYhuvAabl9_H0btcfpK1p8KYSo8Lvk4v-r_gAd4m6kVDU4eiDOpWvvvyGBb6PTMnHEtQz0-qV8wIs0pkiuJyPLg9-et2M0bD-HWudL9LW0AZkqsYwAcmbIqO0FEw3sRs9x-iqPLEhBFPYREP2hOVI_3KFgJkKjeGhQH4z0SZOSxDING7I8vsk7OF5HmBw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "167 East 33rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745425,
+               "lng" : -73.97785399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9c9e3a3447e0c344fcc28713b13e196c7965c447",
+         "name" : "New York Hostel - New York Budget Inn",
+         "photos" : [
+            {
+               "height" : 525,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAA9iBshOdl3kqxWSSsJG1aA7Vk0RPjqey4X1yyyiE3whNGM7_FlN4sRCPMKhZljo1En_UWiR-eLJf_KensNWDraqyFuHC1wogRwy1seNH1Zd8tjngIXaNutego57XojndVSmvUbjp8tP0C8Ln4WwddjxIQqJ-gUeJI51vOssmqi7oAXBoULJoxXEdmijfNUwYCkJ9d-ATAc64",
+               "width" : 526
+            }
+         ],
+         "place_id" : "ChIJRy49EwZZwokRreGD6COv0PI",
+         "rating" : 4.7,
+         "reference" : "CpQBiAAAAPfU4iW-rvG3o8vwUDd621YXUCfXm9rzPAr23XdF-ZofND3WqFdo06ELRL22COqry9b3hx9BwH7yOeso8ooJpKXRkkiepV56OkBkZ5DyPY0m1jZ5shzWDnIY4zlh7n_JkKHBqxgYuhU-XaPDQ_0j5o8wh1JJ5O8CDKeVo8mCwc3tWpqODzwdj2P0J7yWVhaeuRIQDhTmtMsH4jkDycJNKkOJhxoUgsZDudbLbXbXWwNRC5yK6k7wrDE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "200 East 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746135,
+               "lng" : -73.978077
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a8a87a22ac5dac6bff649940b4b374dbe5e02c42",
+         "name" : "Bareburger",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA44CZxv8MdlNBf8wm2FU4yEE0vV4VyllThPNn1hSIH3pB7wA2zotWBpsUfI9EyYhrZnXh0-hSmjh9po65mK_Rxd_4T5fcBFkVeRiMiNI1MjIopMLZ498fxAjbjj4LaaP02ycm_z2fofalV-mzE6VKqBIQy_BKFYrLbtd6Aaur2amOeBoUwQq24iS74fKPjRKZA1Th3VdeP3s",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ0eeabgZZwokRCbVv7r3ubAU",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRsAAAA3dA7Yak78l8aGhAaExpVBvDt3w5gj4htidX3e7AqGq1t-kaLZbSBDjnQ7dEWYmkUE97VC6FcTAX5g58nQKtZ3SF4TVPtNapWwTM82LkJ2w8Kw8isa8GzzsqQp6FEtDs_hWIYo3XrtYR2ITllK0IRtxIQMT-Fb0Fb2mDKR6HL7PTC1BoUXG3Usrjc2VATNTt_F6rrFIMWkqo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "514 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748451,
+               "lng" : -73.97592299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "5a5beae0775dff48206ed9eecb9f8e2bb732caa4",
+         "name" : "Wharf Bar and Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVvVomvmeohjvQCamGqNMCNuf49V_kVazT47Ekl0wZvbYkyfke2GaArccUYN3V-mAkMyBCGdENovlZkhGBfMP_JVPtBk0x1Lpszk174T9ReIzJ5bkWhBBJ6CmWiYjDqYgr7F1DDb33lCwxEma_eWTAhIQ6XLbIL4sjuusOavtPoKA_RoUTvEaC2jKc6rFNqwAweJo0cyaPIY",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJVdL2EQRZwokRrSqku3EOOfE",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CoQBdgAAAE2J1F-UjtjdBmVbf-a0QX9t759yPcZayhE9xirva1GGFSoMhiQLPXTOTS76C6bYuKmSgg1N2jSEKh0JiLO1VH2I21NQq397FDm9DYByTKuYnQ6eXSvUQYPbKNxboVA61iKbFifcuqKM_TuiX4LW0U3RhS1iCtmHdmUFzG7PVF20EhCSNh_FBeuEyidK-YG4775vGhS2DGSD9WbJW3PD8TlvFlbJ3q7huw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "587 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748151,
+               "lng" : -73.976687
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c7944af1b537a79c8b212522442fc5148f6cd741",
+         "name" : "El Rio Grande",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0gMBRAF4uks1XexaUWRenfKvB5S6F5fZhnKHcZ6rtr6_Ipw5Nxv7Di452gx4duvBIFSekn8h5dtgnkcGdEgLoGUz8HVvFH1zj-sMLniplTkvQZyIioMLrHrv-Q3W7AXwvdTXje2AXXYAnLgsW-Dp1RIQJKd8m3JqbUrv8imDbHfCSxoU1YGz0ZcdoPLiGFB20d-ah6ZncMc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJV33cGARZwokR1An0pGmgUps",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRwAAAAZdvqJnlq86tXXFgwcj3uy0-Tk2tZFHI-8qv03IlKiFoDd5CmrjG6wlA9KUhdyU8e9uOKsYc9vaD9clkJ1WDNl5l873erXXVxTYwBKd1XUucGOSgFlqkGn28Kgg28gtcydiONiSYUlULch4u1SeP3eBIQMpxe9EqOntBB2JYCfvqqIRoUow8iR8EnvANIBQoTUXZs30dkh7o",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "160 East 38th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745224,
+               "lng" : -73.975292
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e760298afb5aef528d36e425da93efc2396901db",
+         "name" : "St Vartan Armenian Cathedral",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRlAAAAUfQja3IKlbEqZ25zmrHPgTab0ppmG6AMls-UAmB9azdPi-UqTd5-rz9g05vsm8rybN9CFzlCmDHpArXfjUOIJgNE5rZrtUiiiW8_BdQxAnPs7FoTRbygAnDRmGDIlXbSfNt4A1S8EY4XPCn9eCLbIhIQ7aH-gjWjRYG7Fr3IFesdiRoUoamDpANnDrHbHvwz-145QvBmaI4",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ8-QBlQVZwokRuxpuqQIcSuk",
+         "reference" : "CoQBfwAAAPNxWXF9DYEBMHbqlSrEKHfVzm5MY18OPJAEipJxE9P94XClAnnhGqEyeJzQ_Ci1vME93cG8kil36eC_d3R5fWzPj_uH1I82F20ZjCokRlOLcUAjCqIMhA3i8FLOmjA5A7sPkPWuN3cwW4z5-PmdXUSA47cZmGUFjH1KY2XXAMbJEhD4uWwLyZqZQxF5_lMOkNPRGhQEiAEGz1jWVE06rWcA5xng59xzRA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "630 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745197,
+               "lng" : -73.978244
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "4767ce83afb53b032913b3e155e9cff778cf6e57",
+         "name" : "Mercury Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 856,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAGd3JcBJNqVu8_Gxr_QEMVNP-rJ-TA5yCuHtIkpwoEwuh4CfiLF9nB-vWKfX4dR3MalB7gDEGsboEgiHDD7nlB0YV0Iqm1sjnBXcG4OiMgRJ_9scoXtXtG9X0tCvVf5XsG0u2Ru3T-qD-7Hg9jixBmRIQsOyWZ2BFb0MNG9KSkz89ABoU1JZ79hK9bInYZ3hB0blzGr71_nk",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJv7ZTFwZZwokRmoZAZamgW7I",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAA2ZfXIzMWLXtxy6ilMCoAuWEEf2K9HAi7KJw6seAkQ8zpK5oiUzIDz4D3zU022xg0ClxD4fNqdqmg09lx795_xmtyxB3QoHbz0PBWgNobfRwRywHsRUzC0T96qltEqr83OyhbNyDXqr8ofd7rl12XLhIQIgDYV6hIWjL1gftZJY2VIxoUH6iWCi2Y0zUr-w4MgjgiChiigj8",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "493 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.748023,
+               "lng" : -73.978341
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "203ec66c483c7dd46c34c95482a8f157b73db60e",
+         "name" : "Soldiers', Sailors', Marines', Coast Guard and Airmens' Club",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1939,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm8gzGKwZu3vm8wpw5L5rHZnjahnaWfQ4JhHxEWzG4zd9hWj2zA8iwxkOp053pPt_NA0p3_GB5Xhpm-8B0Mj9-jrwYoOwms984kbHG_jOGIl4ubyE69rwbxpEsDg5UZ-PPlMtsIHjmYyKczJo3ufpNxIQbtrKfmyxvbgJjcckdrZrixoUeIj9jY65Tf_NNPkKJJHaSSuaIPM",
+               "width" : 1454
+            }
+         ],
+         "place_id" : "ChIJjf1AlAZZwokRcRIsy5TR4dg",
+         "rating" : 4,
+         "reference" : "CqQBoAAAAPJs5XvB-o7uWjQuyJXCXXjCRcl_bUTgX1Z4zqIXcGp_35NjWeJuDoe7ZnxakIXYQw5GZ-cZQFo8HNgboPcoIQruFF8qyehLfZ_wJbniES5kr27MlP4P1q5WyhxbQ_3mBRDF-RQhcILHaNL1Rb0vmlC0wpPCSNh70pvMIEGUddFrPCNfboU1HiU0OmLHuHB3J-pqiX2iMTQ3-AQzX-ltxkMSENuuVZxxKHPbAcLE14IAWDAaFLHJTz-yTrEhtuW2mUdsH2rvQz4w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "283 Lexington Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745943,
+               "lng" : -73.977633
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d85d487d508fa6994b7c469215d6ad81015f7cd1",
+         "name" : "Joshua Tree",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFTTrcwZZwokRAtUo_BgyJAM",
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "CnRtAAAAKjXLY6HG81AXed7XXeBaeOT6rekGJyu4fLkW2Lw9nO_d_Wah5_eEnEdCYxprj3yMwRsspHDv_R35YRiS5Dfz7gLf1jf9LlevpAU3IZeD-qQfV5UUk7K0KgGYbeZYIzDISVoltRp1UU6q4uVam48KGBIQ9qehlf1dKStg2H8IyFBiHRoU6tsK0TUkiFbbQJoDz-t8ofovzKA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "establishment" ],
+         "vicinity" : "513 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.746142,
+               "lng" : -73.977475
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "98c43f2cd4ee91ef3f9e3c060b960af54cdf34fb",
+         "name" : "Jackson Hole",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAPHl9bQoKQbLtehsCULVc5KDVeBr_d3kIPQn4PtPIrAtLKSHzlegszE2diPUIlt9N380wbK-hyFy-rh3HrrsIeS6yXC8YHuA8sKhsl2o4W-9bqC9NXOUPcmIV2ewFcWiIF1k84ZU1mfzp_IbOoK6KZBIQ9N3ZNynqWC4gr3wNkk_NCxoUFGmPajQpf6lgPVCJAqRiwItMS90",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJxy1zcQZZwokRmuPUv0M9GjA",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRuAAAAqIIUh5I5E07BEW23PrNyOIQIMmL2HPgmhnZ6_SuRM3PaaDsKt86KU2gWVgRhOcskR-Y3IEX8Jf1-yx9c1fltJySMQuhxo2_4ytSQcyPP3FN7ljXhswxoM-EcTX-IAU8FgUi4InORFrZsOfOvELbyOxIQWkdns-9r29Wxg7j-C7k8ohoUfpoTEdKMef1AearoCZ4opIMM-LY",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "521 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.745131,
+               "lng" : -73.97726400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "85e64b16b742e338d3fd3682fc79766046bacc8d",
+         "name" : "The Anthem",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0QYC3ICy7qLwKkbeiZZnAEetmGSCfSDK9YK1_OCzeJ7mUgSpd2PXInSGmHmj9MnzHcj-M_9oxoCcaZwqtT-x7m5Ak4zJy88mQWdZLqJJPJahdUMlZ6B0T_DEvhkqI2djdaxQ0R5UjKrd3mbrkKvLQRIQpskJjiije2c9bBgtbMZ0ShoUXMsteKW22MjLRPxBjz0pycfj53s",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY4w6_QVZwokRTeEwJKuSdX0",
+         "reference" : "CnRsAAAA4XqiY8kcZEFHGflMTLf30C40bXr6Gz_nEvgcH_Dl30Vb2yp4fCbkRYDqUGHEmHT-WrI0KspHEk9bpDG_AkxUvC5NE9Zb-dTTrbS89WZlANp4aAq5CvVjkrhbTYkLaD5Ggag1twyOKpQv2ZBbZXCdnhIQ_-hZPOlgtu73zbO3UtR5bBoU3VRmDHRAkkoDF49CFkdVkMWCB3Y",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "222 East 34th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74232920000001,
+               "lng" : -73.9800645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7463913,
+                  "lng" : -73.9717143
+               },
+               "southwest" : {
+                  "lat" : 40.734901,
+                  "lng" : -73.98473369999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2fa1e037d3c7c565c9a4f7a7400bda9796558db0",
+         "name" : "Kips Bay",
+         "place_id" : "ChIJ1cHJEglZwokRXqM6j2BLvnQ",
+         "reference" : "CpQBhwAAAPFCiw6RfHsHjlk0AKWLRDXtLMXwa6qu4QHG3xbmXD8YVh49yy4MhAK7SyraGua1JXIw6MW7qijPQ-BGMsGXf7hE7wMTFwqfuTeRN7E4eCAD5Pnsb7G_OaKzKVeGkpwbg4tBygzA4gbB-NAm-XWRS3cuYAyP57_L1IHZdEednWcTUVwyvIQzHaiM_2YN8vsMRBIQbAB-J-u9ua7wnC3TAjRiHBoUYVI9jQJA487g_sesAX_e5CbEicY",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

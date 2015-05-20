@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7549309,
+               "lng" : -73.9840195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77410690000001,
+                  "lng" : -73.95889869999999
+               },
+               "southwest" : {
+                  "lat" : 40.72686849999999,
+                  "lng" : -74.0089488
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "8509d8c2133827617033e5688c3202fca0d57c70",
+         "name" : "Midtown",
+         "place_id" : "ChIJqXwSpAFZwokR28_WgZDMzb4",
+         "reference" : "CpQBhQAAAObl_-Ei0A0r-lJWtBv_L04KKsX34M_wBF5gQeF7uMn4-g0ArvqakJ3l3D89l90ApIw2g6fq1199rue6wF6xGG218YlECGj8iabomnbu0ABlFeQfxzx7Hs3gYb7EvA7kyE-7XhR6fYIJmzeJcCye-5E512Qk-mBpozPdLk-RN-DhD5kwAGbP0pLkbFEIzYkbGxIQmRcG_OHKh8b11Hdq89alMxoU0lHzghm2sreJUvjJyYsjdrIQH8k",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.729493,
+               "lng" : -73.971639
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "214cf915d04c2dc2bed3f206dcbedaa27e98144f",
+         "name" : "Captain Patrick J. Brown Walk",
+         "place_id" : "ChIJLduhEnJZwokRO83ghvVhKqI",
+         "reference" : "CoQBfwAAAHIt1jyeCuvtsORTHjPKJNLU8cbOSEf9_Sg_ikxAkR2lMF8285zs6NE4GLRl1aNwDH35AxWYwat7lcUZNEvej-BIrNKwqnWtCc1icSOJ_ei5Qg_XgHNrtTgdfSclSV_qEinf7xbyognVtYyyA0ULBVCAqJk7z52JYXwnmu7wTPsDEhCfs3KR3E3qqrivMpCpm_37GhSTPqZKZImqoxhKfSH1zZYNDUxDqw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBhwAAAKPj5e4Bqeqgkbmjax9iwYInO5o8d5S0SsgA8JIZ6OJo_Jl0Q5UsaB3mUDBUP4_XJFIrYYFDmWHR5gvPWr5DcWjraCtWULuhxDZWvaGrwEZoCU1HlKOfAgxbBCUo80NO9rG5FBewKEgZtEUh3-Vr1CNs4s7q8wLMU1f4xEdBbBu2qerXCmrRB_T7NCPit2Q0EhIQySIeRuQg-ren39jSNSaz6RoUep32mPYyqZDU28oGnNbpkThgMnI",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

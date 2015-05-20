@@ -1,0 +1,489 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAL2j7k0-fgfcRG2lFxDx_v9_BYtktjfKRd9M9YgmNik-34FJsuRPaue1tdCd66giGqBYfrDXhyMk-2ewgbUPAptGLlU0jKSRrmQaVqAZz-2Kcq47bBaUSfQqVzet--NkpcG8BHjp7vmAOXILcTEAHiUS5i6jrtDXqIvquIk9JflD-ClDC8nyAbilF27Ingk9UyJ6JiG8y-mPAy0MCs__j2kaPqDYv_oRz9WSFwIH5gsOgaE9fE-LXNsSnVVw_bu2GeyF46tF7cqxzYqspEWxCrjypVxQMxH5XjsbU-O6KxWAIYjs6BcTDDMrC9GzpLhthRIQQwInicp_haHHN0rYEELsCBoU14ZPoRqMGQHeeu9kCnHagKNhEoI",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824293,
+               "lng" : -73.94217159999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8301622,
+                  "lng" : -73.9385353
+               },
+               "southwest" : {
+                  "lat" : 40.8232687,
+                  "lng" : -73.9438136
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b19cea468fdaf218a3d3293889078ab1f66b0707",
+         "name" : "Jackie Robinson Park",
+         "place_id" : "ChIJgzplcn72wokRpwVCAYr77ls",
+         "reference" : "CoQBgAAAAHwDNoFWbTvg8272YA-5ky48jUcsKts3wQK2xuDnPX9lIIW4GL8A1pBpodxD_Jt_yehReDh7gkizL8rJ8YdzvT-P8khe4s9QjUckSiJq0n5P6B3IicOdsL6ZLPEV49Q8gvwq-cXRnpE-xmZukB5eLaK9pU4hJ6gcD6UzbRTBKzf7EhADj7scN0fL47teJF4bMJTUGhS7UP5Bz8nZbaEwkruAU1ZTpYYAtg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8279296,
+               "lng" : -73.94406459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8315409,
+                  "lng" : -73.9392756
+               },
+               "southwest" : {
+                  "lat" : 40.82371490000001,
+                  "lng" : -73.94764409999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "6d99e81495e98ea1347857cb68bb7ed8f3564856",
+         "name" : "Sugar Hill",
+         "place_id" : "ChIJz4gMk332wokRIxzORabBcio",
+         "reference" : "CpQBiQAAAFrs0LD06Aw16MJUF0S0gdnZVOgO7IUJsLYl4Mek5oKreeMoEDBMu-7wow4WPckvkCTMsh3TKM0ryLnx4ET1-LWMnyelYl061_rtoU_k9GuCp0fBO7TezrmeATdA8qzNiEAuptjYXOXjXkgJjLS7dn0gPtv3Cm7RkZ_E7YlJENx38Iwufv_GY8W5wu38UjMnUhIQKic7Z8FHSd7NpEx4Mx9V9hoUHzdLHj86qUWRzKAMGxogzVK_EcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82392,
+               "lng" : -73.939476
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "53248b5f54d3fe6dc7dc7aada5396fa6fc302cff",
+         "name" : "National Dance Institute",
+         "place_id" : "ChIJI8KG3H72wokREPDJMcYJRS4",
+         "reference" : "CoQBegAAAA0z7uswDmXlzje6HvmpptSTS2MfW4LmLGAKvK9PRDMpEPjVDWg5vURP-RThVqpolsBDusZW3mxTbH6uVhTRF-dIZRCYiIYNQNWmS8cys6GEkZVDDKyK6ZVvxwHkcgGzb8PV_M9PMJfpQpNeCQbJzyQKAeXmjXwrQ7EB33RAZAOJEhBz9PvTooF4zE8d7hhvTy-YGhQ4R1b37r1F1UTvVCiUUK8Odzre3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "217 West 147th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823202,
+               "lng" : -73.94225
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "56ffaeef6441f2792047774328ce364ea8717f32",
+         "name" : "New York Sports Clubs",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW5bj9nv2wokRiqTN_zvu-kw",
+         "rating" : 3.6,
+         "reference" : "CoQBdwAAAMqEOFFxwDC7Arr-fpE9D5dRkdlYqJzG7pUQagFuGY0axHvx-9y8g7dNLNFjFuE6hOof5jbjuTrfQPZGeaCXdQRhoFekvi26uWIElMIb8VwkGhYj79MKy8B1WXqSfBKB7J5heoxIw0Zbf8o4dFIFYVE-eb003Ks51x8V6hiSUcL-EhAECnNkhjXN9d3PuxH62aVpGhTsjCbqA6SISMMqNJxrDcUtySENqA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "303 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824293,
+               "lng" : -73.942172
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "85a563b4fdd768f8ae74cd5917c980887fa2a4bf",
+         "name" : "Jackie Robinson Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAAfrzuXYyIdWtDGpKdBkJTHMuLYTmxX2N6o05jJ-9ldHgYg0EJuGssBhOHkBubQNSes5iM2mctCcY1Y_vbeho3OHld3ecNtXfs9vaFvdVbekLbER_m6TEQGGHzgqaKUivls4FvvRB5ysA19g2MtzNNABIQH1dkZ6ZWjwYo8sTk6YbbHhoU4N0fK8eFI5Ct5W-e4Rh3UrPrHOI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgzplcn72wokRpwVCAYr77ls",
+         "rating" : 4.6,
+         "reference" : "CoQBdgAAABr-XDCJVTy6i1KgU39PZDAS7TRT6WUKIgZzFyTLPpdwCKY8880SgGrl_fS6Lk4s_6qbhW-eZFpvZivdyk_g4gzqZwrX4lyrUHmMQzyZT5YBEQFZl0-NWinBJz2qIt5iAwrgIZomZxe_KHX5VXHjbTVyGbkPsVNVFlzLszNehT2bEhBrf3zUFlUeWt3KQsdGLxCRGhQ0j9ZhlY5cJ6khndIOt6w-73xD1w",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "85 Bradhurst Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823362,
+               "lng" : -73.942448
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "65f890e249f8113fc242e8a974bcdc1382a734b3",
+         "name" : "The Langston",
+         "place_id" : "ChIJLaHA-Hv2wokR9y6jukEDbFA",
+         "reference" : "CnRuAAAAaB-0c5gOvVqsY0VYP-U-RPkNgEGYyHc3mycC2XXimzjbqwiRg5LpIatKgmGf4UwTd2ztn0GQb_m9FpmH3kJqWV1Bv2lDQhG_tIZx8NNkdI6bQTgsafxAKR9LUSXqz3axZyjSztLL1mVdS0BvVROLPxIQKOZaS5Ndt2e9gR1OscUb8xoUx5wZlICUPi7R6zKJsjXHr9glwSE",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "68 Bradhurst Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823364,
+               "lng" : -73.942547
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "590b984f0266f69a35f53e2ebbd38cebb0b1fc34",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRnAAAA9AhoY-Tx0v9ZDhm2lFGgnrlh4hcRvETOZE1G-84NywA0AcL8OJ1O5frS1ikwzkc83s8BC9Ls1NkTMTOzpRHGPDXv6jK8qgVU4NWISwY2EHOEEX7c7F_PKiWy1VpOwOfRAsita3TbXNOUF_tK-A1YxBIQ3_rXksdDH6s7zINwYF4TLxoUpjVC1Tc8b6USWi6aq_-iyb9fOj4",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJJRT593v2wokRVG2MmELEcUA",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CnRrAAAAyco8lD0Mm3fbtgX2VS2-duZ7goeEwpvO4L-vzsEP3G6qAizfRmuO9nxee5_H0ELXhO_GQESopnloezwsIZarcMPwePp5Uv1pVk7EfYEekRSWwb_sv8ki5O2Vdc1EAFkc4kKBJ-YzvBmIIwvLKzcXLhIQo1iq7PP0n877S5Pe2Ef9URoUcxHc3Y324gnOahTQy7TW5SONKoM",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "establishment" ],
+         "vicinity" : "301 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823277,
+               "lng" : -73.943017
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a090743a40a86334df0af019fa336f24af8ffc59",
+         "name" : "Duane Reade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJf3iQ9Hv2wokRkE90ecAIUEY",
+         "price_level" : 2,
+         "reference" : "CnRtAAAAgbk8aF8vnqjQ1g9PtTwjc7Sc4DYB2kTIkpyAgC3esGQr1eFNS4s9tpcwKYouqWdVAbDy1eqkOSJBdLDGoCcws0z1jotYO4U8o25DEeC9st0prBjAofUq6cJjt24dFYxd0b-GctqSQpCJcz5EB9xSPhIQRZxFY4mIupWmHu3_mSjtdRoURpyGqGZDeFQVhdOdRr_jr1KJLj8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "320 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825969,
+               "lng" : -73.943063
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2c9398c70a0d273a25bba2bb33aaa4587f583785",
+         "name" : "Foodtown",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAevUyn32wokRkzP0mEI6lIo",
+         "rating" : 2.7,
+         "reference" : "CnRrAAAAaR-nogIKdkW93E9O4ZCWQbPFeBxu-1Ai7gST2TJYRQLIJFuL4ZYK8ZlhD9Pc7lRstjPtsv37ddHnKh1XJzEonSiAL9tSguK25S1MFpJYiyzixkHjS0lV2W6I1pwrKAmLdXvCGDSGWOIe9MJqrsIm9xIQSvYMtMBMNL0W1LZlx1ynwxoU9XdSaQY3zFXrE8SeF30nOyHr_xs",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "756 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823106,
+               "lng" : -73.942002
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "36e854e9eb112cc0f5db65cffeed9b181c8ca01a",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAg7W4_j4Vei0VIF_huYKd_eclLd7eRbZ9-pB0P_6WFP8WF-n9gpVnK32eAZOt6B7Garc4ILRWAFmMht7HZrBnS2Z1Ob6f7oUCNvB2WWee6W4KstolmarDJ8jBF36hEbkbOdQte9NiOBYWbj_AupV-PhIQk274zn9Lxq_KZzzaTRmTpRoUMZ09Ty90_exAunXc-uUwAb3m9Tk",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJw1HA93v2wokRLaQujdhEQGk",
+         "reference" : "CoQBcQAAAEHJbWhKZ0gAfU1ECTYO0X37C65dj0WFu0ISqTkWIoODLGHdWxNxLBNDo626yT2k7SyJ-UqXgK7mZDWBXzwrRi-YA7q0cz1ynkePNZWxt4llz0XDLjMVa-oesEYkJnjy7Jdo6wuSdutPZ_oZnXiKGagzWMZurxURI0XIbJawi_LPEhA8OMmu2T51lrdd_13O2iWcGhS9_wad7IzMeWT-rfm_5SFB4amXmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "301 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.688289,
+               "lng" : -73.947985
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0445fdfb6e7fd37031371455bb05bd39a311d87b",
+         "name" : "NYC Pet Nannies",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 721,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkQAAABNbfnAB8PxAEg6Ei-46CalYsvP5SE6Tt9a6tIgNwtbNqrfpXNb5JxYWoon4hjc5EmU3EOil0fKdejQnM7iScWJ4v7t81wj7ZOhzz1tXRowY8yuljhgu4vwkXB2zy6tsO0N70_pPmmUOoX0sUdVMzbnsCMvscRkyIqjd_kisOQB2ZFF_5dhovxEAHDRDU2gG5Gc97x4Hmlg6XLP9mb-PKjMSEPNeZNKWjK6Y61jn6fGeBNsaFOvHJyvNe7ThYz5JQavgqhmcUi1H",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ4_Q1Bnz2wokRrA6TJcUUhWo",
+         "rating" : 4.7,
+         "reference" : "CoQBcQAAAEhqLq7U66EVv1N3eGCwV7aEheS3eQB-uk_xcFCEYpaa1JMS-QItB8NqNK81T3PD55GKyfrm-X7aubM8lTb0brwJjWBFKeHPS6b_qpfg6gMcaG5m6MbFy1LII0BKewxFmV1ap-PhuqZe2AyOHcRsriAsKy9Qv6j_J_MI5RtF-sskEhAMJ6AhSUVUBS_yda--vFYFGhQ4SQ3rAWLnJrITFs24fq5a9cz3BQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823281,
+               "lng" : -73.94344100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8e886ef23d3e775d1b2bc85045c909bec2b5376b",
+         "name" : "JPMorgan Chase",
+         "place_id" : "ChIJoXs19Xv2wokR1uWTOlVB2AQ",
+         "reference" : "CnRwAAAAy75aiAEwy1DwNjhBk6g_MUE2GKNLwvPbz6j88w6hLeVADaGW-qAN6SSfT_ffe0syfGlWh-8mhV5hHo1j-JDjBbX7miWBAip5j6ykgz6Md1ycbDaxkcqV0xaUwKfwaxXrN1cgXI3OEIuU6QoDguvIeRIQ21NSxnV7Ef9L0KZlwWjE6BoUu0J5FXloZyLUB0F04s5oNmo9000",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "330 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823225,
+               "lng" : -73.94346899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8e74a62f49afa4bf3dc9e547a7652fda81eb7616",
+         "name" : "Chase",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ08zRytf1wokRxmI-MxTpst0",
+         "reference" : "CnRoAAAA1M4VjtSW_zhnAIZUqhY5nOYZh6FBJjK2qnc-Wdy-vaOpBrzfInORaopIvQ5qKxyv5LdVpeRWz95km-CGzBubMEKVOHmC1_St7vAfFYZLyahOPuDoK1R4t1Zld7rdY-9ExdDBwBRhu7HSW_ZykIFzAhIQcBvkualqv2rFow5G71Y8qBoUJw5X6oMbFDeqoh5XV1vi6AuD08g",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "330 West 145th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825031,
+               "lng" : -73.943758
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b04cf9724d82e10dea1c6a32f6faa6ea6082ffbb",
+         "name" : "Jehovah's Witnesses",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAKTi8hHLrSYuUInVMctZqWvziCc0q8wx-527aA-bPBZ_r-Hdkc69Zpfxjk7SB1NhyXHbzy-TQizLAGlqtwzuIx4pgw69E-dhGrecoWChKGTFlK8IYmHjMI_xHKYxoIp7WoOwllym8GwSI7ObpUWGBlhIQ_rYo2hdJ_mu9NnmWS5LdmBoUB0e-w9kYQDE2GlWKRaDC9cQIcbM",
+               "width" : 648
+            }
+         ],
+         "place_id" : "ChIJd616QXz2wokRymVoybalwWI",
+         "rating" : 4.8,
+         "reference" : "CoQBdQAAACvRtOR9YW_be3mdYMkP4-Gg9fuFcfU6Nvdxh9Bpa63-WiWjX51jMOXcyeA372N-jXbQA9cu3DzQbBwQHIZZbn3wmryQwHRCuEBWkG7dLpuIPrOMoUN5G3TzH0A0bXwM5KrO3vXXVlz_hqPypi933lP4cwX9U2VRRv9ChNYzwCntEhC3nb1_0V_BzbSGkM5vTVXUGhTqVqHVpZNtaBA1IbIs5GLYxQFcvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "732 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824419,
+               "lng" : -73.94268700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7fae111b2d32849ced69a680d34333d810db0320",
+         "name" : "Jackie Robinson Swimming Pool",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAIIv6UXr9X36nYngCzePZFOfn58rYBRMAMytkP5DcvVC3Tj_qcoJlNi3AzM9-yV0WsyuM-byV7C9qdk9pEPR-oxkm9hoFqrOHsxpCxkD_kCw6-9MgF3HglXWRcjec7gDC3e5a0t6oMaNGD2cK0omjdhIQs_dbj4dI16YPsdK1K8LFbxoUbUcnGsl19nYHTkVxkH4Ur1P_9gs",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ9balHnz2wokRc37NSNSWQN0",
+         "reference" : "CoQBgAAAAC2jh_KrtFbvCijHUd_gDGaNPyAg05saMoHuohXWSd1YwWVKF4QmM27eoJevWyguGVks-rpigwc1nrUWVrA8Glrnsd8T5bqdhJrlkW4L7cvuVH8Q5vxTaZYNvUKZyg7LR0B6ObQ72QZc-svaq5hY61IgZIuJJ-diIyczSJYKFBotEhDbnCilYWWRRXZyB7R1i7PwGhQ0nIm_SSUYNfQ8YKDCwIp-xJZYCw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "89 Bradhurst Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824012,
+               "lng" : -73.93943299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d8661fd570b4f9cd516699447b81a121b38382d",
+         "name" : "PS90 Condominiums",
+         "place_id" : "ChIJ5X2A4H72wokR--GHhLWGKjE",
+         "reference" : "CoQBcwAAAN9fVTx_yHge20Hh8EbSWm2y6_UEioNCyTAeT5MpUR2ZCEE93Bn7W7jmMAlh1XN0uFqXwaJere-yCx9ywIT3M5JsnwdIiE3t4DT1gRUSIXaK3ycRk-xmUA6i6RenSgn4ZUGLV8Abq288-M7dnFxuqbx1axURur5IhdHBf4-C8xACEhDagPjZx1Z5BTtmLT-r_jZaGhTbqgDmRDljpGslGpEfBG-si3pfiA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "220 West 148th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8251,
+               "lng" : -73.94376699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7e9561fb543cf78f49ee25489333e05074aecb3",
+         "name" : "Harlem Doggie Day Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRuAAAABxIzMbDFeSt-9cBlZNDgj872hlWPfwo1mQE7JfpCj9f8td30CL8Y-LbBlQDkz-rDKo1iinpfSdG50xplTpkaOSwF9NIOPTp84ul_EXOwYcObygkx59jFy6D_kf4eFCZ5PsbOByakx58839zZXZ1f_xIQBwXj6iYZ-xVqeB7t37h5RhoUaPff2I-Su4u1YsjA-X-DFQvH7xs",
+               "width" : 481
+            }
+         ],
+         "place_id" : "ChIJby9HQXz2wokRIJ2_T06Tah8",
+         "rating" : 4.8,
+         "reference" : "CoQBdwAAAOh84EoFI5nvt_UgQ9hoAvyomMH2Me7T4bfrn9kWHsIbgm-MAiHwXSv87lyLAi1gvWECbklAsIE7Cbu2JPUEG8hTIDxFaHkAZOU5HS6NDT_gSlhVN_QDKJA8xhbrA2cyb-TgRBy3jhlUak6jSLen1DATgoz7aBm64G9U0aBaFDhUEhCqRYch6lBZbrlMp_B4dCn7GhQZkOehTaI-Dc_YLUOTx7YXvsbYog",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "734 Saint Nicholas Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825432,
+               "lng" : -73.93977599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76167bb91784867d81d31149c5fe42638b53dcb4",
+         "name" : "David's Check Cashing",
+         "photos" : [
+            {
+               "height" : 63,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAAn_Rs_U1ZLEeZeo-vZG8Oo5lczMuSZlTjoOzzYiyalbyXHbC0jEDSPwXy0bz9HBIs6-sIkPz5zH_ZUfAwJVnIjrCA6bnBI8ObiYAzjxift05QdDWi-YboHtN8RWzH-ec9IBas1kJmdTOIY0nWdD9OPBIQN0Ulye8-tiMvoW3zmLcXERoUnvSRpIdFFQlEKViyYXjpyPlMZlo",
+               "width" : 597
+            }
+         ],
+         "place_id" : "ChIJNS3nBn_2wokRPCQVKqdkCzI",
+         "reference" : "CoQBdwAAAOJErgiNjlBPBXe3vYUBxtJUWAA2Frv0UcuQtaLq_D6fiiziOcFRmm-lPeP0fgCToHdWJp4zrxtwk1zzy6qJ4AFUhseYV7GUUfj7iS58MdTMX0GltLdWYvV2UniaILFofZ51G2ylXXreFe9uRHGwSCN8ZkWlTVM9V0FpNNjDrNvCEhAfIC6ldMfZa0j1k3LFqLu0GhTS_F_TmBJ4UPYPkoNwRc1ugCrQmg",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "establishment" ],
+         "vicinity" : "2802 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824897,
+               "lng" : -73.940624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "562d61ada368e6626eca7e9632d96fd38b509ce2",
+         "name" : "148 Deli Grocery Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUiOPaV7vhfpi2wVtzmCgmn9dfFKz40PtBFb_ix6ArPGq8PZiEIe8PuSQIWeTA5NyPOtIOtwbGNUBxVXzxT07tXcxPFmnt1EqU0t0ThZk1ywmhCiLkYv8v1Zhv-soLYVO9sO-h1V0Swj6xvvUrJUPuBIQH6hfcYsTPagbZiKJilRZtBoUMW33EErlp0lgDtJ2HX8LSqaWXzA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJO2JCkn72wokRmBzfoUeDgzQ",
+         "reference" : "CoQBdgAAAB4vY1l_-P0s6A4D8wNmn8uPo1cZXREnRCznP1qWQ2u_YdYpbM8kkh5twcX4NKSpgdWKHmy49rOCP1k1rtX6tKH_s05fpUwyHrr0WaI08T5C9otIXhRdkpd7yadhqASLbThnL79RsJPDy2jANJcT15_sVj8prswLJN56L4S-ZQtyEhBIjGjtzgm8wzMT_3koEBcIGhQJbIVLPF3x2HDX_KDa4GJdrMLfkQ",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "establishment" ],
+         "vicinity" : "2787 Frederick Douglass Boulevard, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAAKg-gDO6riaWyaUCs2moxm9mhK28k-ZHhe9g0mlwrLLVPgjdxOWtSPKDym1vHKia27d582qDAJSWsrHpXB67iyWUPIDmKJIbeOY1_TGIGpOk79HRnjZrT9BccAw6lYMOJHoTlxtbxoKEdU3-DXwLaiLav2pFk2K9xxs-E6IULcGzYjZjUTPUE3xChwAzdcv1URIQ8UE-M5p-p1XFIHN32blDVhoUwAjAzYyWWHUdOHf8ccPZVnIHhvI",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

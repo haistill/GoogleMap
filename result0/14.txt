@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6995588,
+               "lng" : -73.9987268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70031669999999,
+                  "lng" : -73.99742839999999
+               },
+               "southwest" : {
+                  "lat" : 40.6988008,
+                  "lng" : -74.00002529999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "52c1ef984c3e8cdf69611d1f5e9bf21b6a83532d",
+         "name" : "Pier 2",
+         "place_id" : "ChIJRa0K7DhawokRg8Uhit6oId4",
+         "reference" : "CoQBcQAAAOmugsf3ieX9FmEtBJ4G05Hl3-8OID78N74xy_mrT3DL4zMF96QEnWoy-GKskh0miXSauLdjaMYIWoiObP5mLBobN_6qjqBjAkeGuv_-sfdaTO9UkC9_xPoSHcwYGJ9U_urxAGHY-uKF0lxp-ss3hMjylX7EXqc09yMQfhz6EsSwEhC9yLnmPP5JZ5A3J_C4hM14GhSSVZBmkkMOXZ_ldLfpa8HxGvWOQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790278,
+               "lng" : -73.959722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.820045,
+                  "lng" : -73.90331300000001
+               },
+               "southwest" : {
+                  "lat" : 40.698078,
+                  "lng" : -74.03514899999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "476d37be9512ae1c37df40b54d55c5a911a413f1",
+         "name" : "Manhattan",
+         "place_id" : "ChIJYeZuBI9YwokRjMDs_IEyCwo",
+         "reference" : "CpQBhwAAACs-99iPWlyLVpTXJ1HiX1kmuZwOlzEoAHfeGJQ_QxNMnI5p7W1IZgVJhJjwJtiPy1OFc6jWOKTvSR1tnY6JlmaaORROxd3aACWirdq4oi2mL6qnsbRBpGnGftHbsWwIhz6nBF1onT7iOvepx3dolNFTMsyCTfYonerOkLg0e8HZA4ycBzxLl5D1ZaQ5jmhPtxIQnDIziMiivljyFAwm8ymAvhoU44J2PcH4p-Jwv6flcSyuzNe-AkE",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7127837,
+               "lng" : -74.0059413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.91525559999999,
+                  "lng" : -73.70027209999999
+               },
+               "southwest" : {
+                  "lat" : 40.4959961,
+                  "lng" : -74.2590879
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7eae6a016a9c6f58e2044573fb8f14227b6e1f96",
+         "name" : "New York",
+         "place_id" : "ChIJOwg_06VPwokRYv534QaPC8g",
+         "reference" : "CoQBfAAAACK_EwoKwmBqnjdxeK8BumYDDuv0mDSVJidSiu2WLvBmAqwipi0n7-Jkoqq0d4nrj1sgIyajF3MJPw3bwCJuXZ7dPrUy0SZUKheoMRRTPm0ifwDtCB2-iDjZ7mtwTLg2Lv0ND4B2Mq-_WagAaO8LW5OsQisvS2NEYquPL6osTEewEhDSh1C05SleDIDkWeSt6ay8GhTR0zpHoxvvTk3EaGvadDGGtQ6_qQ",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "New York"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,558 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAH0-4CtrqBA1zRXXcB87O7sIEUb8iIm_g9AsdzmV0WRZsPdVbs_0eaaVnbfwfQ5MrWeLGtCh8IazqNy8_PP8qHYL26HYto5NMpF1uDhZggMWyzo12j2BqZmOOkAWli1KFW8i_NAfbiupy2UC57dFGSGGTXeiTxMuZ20TQXgICuB31tHASnC2cI5wFiAcCPyzx7wDGS2u9pTU4ztQbGf8JCuD-6QfDZe-PoxRRuayJLZ8uYUDfsKZRMBhQsycPDpOq0kvVrHiQ1GALN0lvGkez7ODA-aeOeEYSja69m3ucZdNThCJbwkPLKFQP7TDck5kmRIQqtywVGj-_7fj5u7V2Vp9SRoUXpnp3qqtVGW0P-nZ4PFtFiXgAok",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7265834,
+               "lng" : -74.0074731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7291125,
+                  "lng" : -74.00285079999999
+               },
+               "southwest" : {
+                  "lat" : 40.7219578,
+                  "lng" : -74.0109551
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "68b75b55c051ff1ec32157d10bd67074f5ed09a9",
+         "name" : "Hudson Square",
+         "place_id" : "ChIJ4QOWMPNZwokRzQfATkrLxa8",
+         "reference" : "CpQBjAAAAPW4ErtWaJ-A8oh_d6HZ0TIpUAGuxrI0wSFPyQF8UQ79dMECvzwVrC6PdGv7qmHniXQOfX-VqYSzC71Tq_4Yb_0H-WlzWvH3v2IRqjSHFaGWKzJzwQN5_q_aSgF8Jhow5cSyROJtHjXqjknXTwC8E6Qd3AWmfaYBKCTZnV0jYEJbR4BumsYT8GEE6bBScDgPFBIQx37twjBz9QbEEY6L9qfVShoUnTd7Ef_tv670hihXHkApyV1GmJc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725568,
+               "lng" : -74.00693699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "db0e9b3dd113a92a157474fe93d01d9c705ba2ee",
+         "name" : "New York City Fire Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA9EZhmeWAlt9SA6FVZiReca4MAtHzlA-W9k_LPKf9GPBCENfSvtEfNlWxEtDPX2I-zTVlC8TYvwbc1hdICeBKtRD0KMUEieSpgBfyebYGpd1Vha2mqAF9C2ZKdNbQ2AikYJEbodnhfJuqFpAC1smf_hIQCRa0TeOux32pXYnYsG8sGBoUDSbHmzSnWm2dsuUR5AGvzSINBMQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJsblxMfNZwokRBLOhQZRjwtE",
+         "rating" : 4,
+         "reference" : "CoQBfAAAAPRrM4pa5RwKhEJn1f-V9TCBi1YmQ_7LNmTEQFcpWiEAzCIL20ziT8JZlzkgAW_G8ELj0_UuretRPFNOo4FFHnGid9bvyVpFBxplhCy7DzIiz2XKYdOWPr5jngASyco0XfkCWYQeTlFFk1rEZmJs_9loLoP5lJkmdnhscw6KvUTIEhBPjFdH0DWkw9q9ULAKtJfgGhQO78oiG2J_aqb2UXSj7lIVAujrbg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "museum", "establishment" ],
+         "vicinity" : "278 Spring Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725236,
+               "lng" : -74.00389800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b745deedfeb233ec50e8dafd2c20ef191b527c1c",
+         "name" : "Aquagrill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 259,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcwAAALq9zLXUYuXUuSjSJN3NRBzNP2uH5cH7Cs6esO2F4sSZQ7htMKLeSlgz74EyxTsGVq_33LOx2ttgoNoEUpxs6iw73WVwpDFqK9uZlmKozT8SZ-zndewF8o5Nikw549PdGocAcT2yJpewMHqs0rcL2L5BESahyoC1-IKx3AHTUrzHEhABCwCw394cXV5b991s6StMGhRUnwtiihgXkxffL6LEDOH849mHwA",
+               "width" : 258
+            }
+         ],
+         "place_id" : "ChIJQ_fi-YxZwokReMQT2EyhQtE",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRsAAAAZcp0UrBliniMSQvARtP56mH_hTQy5OtR6CqRV70Z_cTvxWLNq9PYMxoj2tkd36KHPzpckIXmiHRbLrqrm9kQerkDwN1cN51Rwf6H6tJyrgFogc6s8LMtdxGyQyp08NVFlIsCR2hW4Vl5aT-gtimLphIQOis4IJnhxurP2SPYwH5FMBoUd8FZt5xjhslS0YrPJ4hs9ThJnwo",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "210 Spring Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727154,
+               "lng" : -74.003118
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "317289d595440e1fd77861ed29611b66d4d82a26",
+         "name" : "Souen Soho",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 270,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAsaQM2-Gxi_90B1qrAKrH3F7sjzj0VfCW3ec8y4l8JXfJSUji4lADqq0XejM8CY6jSIwT2E_Ynb-yATBclw0Dhzfre0H8n4jrf_8UmXCLYxzdxrgcuxo1Ll30QChbYkM3235KydqvRzRufH0pOtd7XRIQaP0sZW9GR1yaBfUMnlTNtRoUHZFKTgCvY1SDSluQRROvr0fWk0g",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJq5QWn41ZwokRI5vVE9Mx5aw",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRtAAAA37XOR2u31ZKWBJ5hpzDpU9CRwcmNFtvPqu6SNuxkBBnwhFaH8dAN8u3FaetFCZHXlr6IJK4NjwfxH9hSopQNA8t1EaJQ7-vFiW6_uKGWmJ5kKXuSieo-UPr2me_vHMUka7n15uPFbH0Evh19K8dazxIQOA3NokgizpUO1jZVwaYPLhoUOvFou0f4c6BUY1SBBkh6b0eglME",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "210 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725333,
+               "lng" : -74.00498399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1eb1cfca55583b7069f181e6251428ff58674d9",
+         "name" : "HERE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1332,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAiF_EqHA3XukFpgs3eDtRr5orm05zKybwS-vWJ4nYCkyUFr2-s7j1vAO81wcj7wSRXJVd0rMm1PQl6xO3X2w3wv6cYQmCIw0J3NqFeYAglrl4g_a5s3KFxCHaxGG_GPYBCNcJim4tFBnmz8gRcW4TmxIQs_PQkjVKz1lOejsIqiK2YRoU7NhB3Qsqp_XrTpwhBUz69xKKGLk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY9HQ64xZwokRzE_DJ9Q-3GM",
+         "rating" : 4.1,
+         "reference" : "CnRmAAAAEtgmKDAwyYAAjyBEkIc5nS7DOLpMGQITAeX0AWS--AkXT3XKXRVMuajqEZQvVN0NxeoblxD3cEqbyvKPgLEzCIt9vN8rCtsDJE1Oh8Bygkudbsa5lh8HEgFSFUShfTqNmnC8H7jlowcnrz54dC-vDRIQneQQDuauMXyxy07Ru2vdBRoUvXSUpG902C8fDtT0f_HknkHJddQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "145 6th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724568,
+               "lng" : -74.00485
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "13f3b5936737ebebd58db2d9eef562f8185c1f04",
+         "name" : "Chelsea Vocational High School",
+         "place_id" : "ChIJs4R4loxZwokRG_Dk09yFoAY",
+         "reference" : "CoQBgAAAABEPw3vng4YGGgMolI2_Bq4lhRkf0NxnFLHut0t79dlYpMRPDQlqUaWaBkCFZl8J6PpPYbYsDXtCRS7k7sUjfVE_VgGYGNSIyyGsCthc_ED_MQ68AkhHEQiKJyUoouXpY7z-_1-L5gK7phSzkZ0zb79ogRJ4nCwvMH3aBjDcZa-LEhCIaMaDTG4_dBoJvblNH2p-GhSFuf1RNsBMBpzX8NMmVDOotz7UiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "131 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725084,
+               "lng" : -74.005017
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31678e824aabc0970283eb50adfa1dd1ca229f3f",
+         "name" : "The Dahesh Museum of Art Gift Shop",
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAqs02QtjUZ-ZB5F9WTFu5YJqqPUct2f4GZLDQ_ahyhpllCwUARcJ6fL0JrPf5EIcLCEbLe_gM7-hFI-TGyu2MWblNSBIb-kzvlgQO2TW6aRjQ1Azs3Qo3Ly7fIFNJjxGV36zlGr2jJOK825vw93jjQBIQvrZAKECfZ9kWNI2IqU7OKRoUO6ddcAKcm5wcFL4bdCanPfb9MwI",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ7WI5fvtYwokRo3lBLBFk6Qk",
+         "reference" : "CpQBhAAAAOn9Oi3wHZDyMeX1P7MOrsZlwczxo1xBJeqguBieMguOmJ4Yi4S4vJXrZgA-vkCV2JPRTdkUyfE-Qi-QyM_veJnmn126DpAg2Ahp_gEbXT181X_9THmfIstY4uCt36mhSAAPGoU2ePiuQSkiKrWX88ilrDg84ek9bIGi0V6UX7FiGZydHhUvWzUCSU40eIQa_xIQvIpuhmEH5xjsRQk3cgxfEBoUp5tyS8KzmMN8bvTfZCXcoClr5zY",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "145 6th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726286,
+               "lng" : -74.006024
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7117f55412f4405aeb0fa5aae2557de72a0f20c7",
+         "name" : "City Winery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAAH-16GCNGIXUNgwZV_7VLhf7VtPhfC6GyLeMaTDZCbIUXyXgDVUFS75ZV7y8mD8kJQ0fwfl6AtCDaBYiOnDvBiXoZderhMmzidDK4-w3MIqNdEwjbPjfxqtuVSDlURpFtRDZ0Eh8wHY7BXkboMBKnUs0VbmsMEsz9jIl-9mlFtXEhAMez4wYQvAFdsWTSoAEdODGhR_iUguQPeYaMSQc3PMITsHmbSv6A",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJiextKI1ZwokRKTNKS2BGVRs",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAAhZyipiAN8c8rq2fYDInQi8V93NzLMTyTAJwSXB3lCmSiNjfSdnS-xsbhoKbhtIlm-mSX7AbcXFJC_857AcFzr_IqNWJtLYWaNRf_XxzMTeINXzaMISXKr8MdRdhT2OKeOPeaJ6en48XIy3luNURDORIQBwG-nv2E7OFDLMZWJKzJHRoUKGMjwBXavPnSQHSmw-uAZQLkDLU",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "bar", "establishment" ],
+         "vicinity" : "155 Varick Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725197,
+               "lng" : -74.002949
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3334e9feab28732a45f64804296875483576329",
+         "name" : "Dominique Ansel Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUtIZZ-Bu1X8VG-CMjsi8nLiBaAELuu9yEHuoo1LU_EbBivYFah3SCKShQhsJyxMnbJZQYTyZpQJcjJlICDlRgedQUcwk4dc29z4b1QkHIgmHRpfSIWhiDUb09NbG0z2XQauBApgAgCyLlfTKb8kuCxIQfkIOdQtAXtdO9f9WXRNC7BoUl5Gt6deIizTScP_4JEkRs8aZiSQ",
+               "width" : 341
+            }
+         ],
+         "place_id" : "ChIJP0KOWoxZwokRmvPiQAIaH1A",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CoQBeAAAALNgO9HmGLAhQyGWFtapKJuLbFzIiwJwzttT0k2dHOKxeIhrjqqOv8SItBn75tXol0Dq_MrhG_A68OwGXxdRQYNPTeGp56jzgdl4tXmaq699m2rdeYpvRhhRiI-YIhsbb0bRUQyNf_S9bxIr_GUfoAMZsI-9uTmEt4V6tpfYI2DWEhDXCWqzOMaahYmkGFwMocvCGhQkXl0euJ7Iaow5vkAEjQorG92x_w",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "189 Spring Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725469,
+               "lng" : -74.005334
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5df74b6ee5b2531830e961ee159a5fd90fe285d0",
+         "name" : "Trump SoHo New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 798,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeQAAAAjnfXFOMGENibpN8JNUtSIOlIitD7SwEJR3FjJQKmsleuwXs7rfzvU0JzZ5TSNpcuaMsqb_XKTEi25yDGYyudqdgEnH6TW89bv6MXeaet98YIsO2AMZeB0O9__LiDB_7axBxZ3r7mysm8zFFWB3dNWbZMpOaSynZLKRhDxNrSKVEhDYQ-EIp2OgkPYxTHh_ArcnGhSQ9wHvkbxCeSwQ1SzqefHlVesDGQ",
+               "width" : 799
+            }
+         ],
+         "place_id" : "ChIJazM5w4xZwokRr28B0Zb4tCE",
+         "rating" : 4.2,
+         "reference" : "CoQBdQAAACEI1Yv2KtCdfHO3Rw2puvCpnvxLye_aqDsyZE7u8GW5FvBKNy3fofo9xDgjH7Nri05sNQjsvS6eCzILRie0QF0Vwbnn-_yl-Ujm8Moo0lr8BKU0DyP1O_JaWoFbAktZD4t7zfJshN2BaqLl2dETKBnIqdaj-LpM9s-6q75TwTa2EhC2mH57oXkbEb8IblUhM_JAGhRr2m9xVtSxa2Sp1aYgQAjT7OUZVg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "246 Spring Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727054,
+               "lng" : -74.00612599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "42ed37b9eaef09ab41bf3b322435be56ab8883a5",
+         "name" : "Four Points by Sheraton Manhattan SoHo Village",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 230,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBnAAAAMXdp9cSJZAqw4_btsfMLaJLxDRKzUIPjmFgxVPs0oNhaiu-PXTxM36RRG-x2XTkvr6jaw1PaKc1v7kSWUqoQbsZJnBNolutJWuTa90Nwuyq7Ienq6Lq-dwsM8YLzMdzyGtrE8mKGKx3ajIjl7K0k8joS2xv1a29d5Q_KXQdX2hiHVouvICg_GLLKTXq-iC5yVHqb1J0uOdu-goUPXwVeR0SEAFWcEg_E7qTL1bQ7tuyLEQaFKZrNANmh9rcG4Bk0duc9oyZhsCC",
+               "width" : 343
+            }
+         ],
+         "place_id" : "ChIJ0f8UMY1ZwokRb9wR5codn2g",
+         "rating" : 4,
+         "reference" : "CpQBkAAAALAVb2fNe-DYLzBAwCNKVtYoDpdsvqs53mykwOLxxkRHVXWdlEWODFB7ZOAX6BLQWlcs9YAVRdJdYuZFBBq29N72AilFNuNnMw_j-fYS_lG212iSmc7t-hsYmHEmWSiljvbaY8rKwlYertCwwbxs0QtrrZUFXul-WDjwFL2qVxttWmWzbJch2Sf22Cvkw_qmoRIQHXR8v-AMkZ8dL3xEROgUxxoUP6l_oVo7b0LpTK0NmYOwMdakbsE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "66 Charlton Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.727045,
+               "lng" : -74.002847
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8b83528298aae273a062861d32180fb2ee564372",
+         "name" : "Hundred Acres",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA0YwKUhUJbaydfEIhHi7efc9h49weZQI7Iw2mvI30zZmJVupkBRVWdYfXeEqOX0H2j5RVgEVOlsZe5t8WhFCFkkIrZQQ4ekqnaD-F4A8d6EC-heKPXCuk-mvg6goRlZS77qE6hagKBts4EY7VuiXn9RIQZiB_F42NgS2hVnRnvM3aWxoU7lK9eTzrvuZONpN4-bEQCRYvUSQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3dbcl41ZwokRouIrXtQ5erk",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAYsWcVvkZ-iIx_1_8gT_ho5PPDPWjJ7V8Qz0IvB1jvBHNhgI_LQCvVDcHNWr97y-t3TI39GvIRh55Joeak_cjq8pw-hZq06dDMsBeK1nCqE74cKL3UxTh2kTSOGOWWqArc1TRF_y9O4Hs1ub6KuS86xIQulW9kKg6axuR-lFRxbguZxoU5_2M7Gi3bAsgVzh8ZhOWnALmGOc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "38 Macdougal Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72393,
+               "lng" : -74.00312099999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c518d595388aa001b20770a609d3c0e5ea3c65e3",
+         "name" : "SIXTY SoHo",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAv7i0hd4r40fyZh2L9WDReS9GYUwOyq31gZqOjwjWF650wbXNoP37p4IiKj6Ni1c7BnhJAWm3H98k4hIYov314-vFiL62_rB3dEMnu1xURt5kcJupm2KovR1woO4zZ9xOQzH51cg6KJbvKiKE-13xoxIQ-ct0lJtON9jK983IqtvmaBoUE-BsIxyGbsNMDac67Ne6ZtRkvio",
+               "width" : 1371
+            }
+         ],
+         "place_id" : "ChIJn5JZY4xZwokRGuB2wgUuMos",
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "CnRtAAAAdlaRs6ejtuHL8bSKoejOzCqh0ksZQce2Vg9oeeqOKOeh0h9yneIo6vGXUKiizyN0DlAdjDRso3zuYGZ6E6Q4ZxYSSxYP2sZ1JB2KjMgOu0jXh7ZQWDg2wKRc3EcfZVAXpVOPU-jTi_35zxNw0FrqKBIQIRIJChSgH7Cqmay9NDtPVhoUoGQUGxGmzjP7aBAlzShEeMOnXF0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "60 Thompson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.726026,
+               "lng" : -74.004284
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "87bfd50d2531afeff0c128b190afcbcdb5bf6a94",
+         "name" : "Warby Parker",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1242,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbVGEHJBJjNJzpdLUstDHqEfuBGfaI702Jlh7wsD-auqP6FafQ5jd8Jlkyn15qEWARnqDpIsTObaEp3dwgv75n1rNgQSVZ18fmjahjjNJJ5Iit3uPrr8WL6nxByRtb3mB9TFO0cOuSg89hrbzWy-mihIQttQaAefL_Guhf7Tmd6ELYhoU6jdJxtYDtCJAk3VXVj2l6eEg2wo",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ7yH6_IxZwokRDLylYik087E",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAHhjjN3K_UUwtljJPMdE4VgmXaqd53KsH6FWV17FMfGk1HHGVGCCWZqbhY3kPVfs1XHLxAd1nH4tahmv4TLAc8urous6eZqET1sz7ApJ4KnSNwjnIjLRhIZO3tKAVaJm3dP_AYofPwPm2RfG2b-RW_xIQKGgFHc_fDcCGSKKjBhsa_xoUq5yFZIpOSpIzigK7LZWFm99URIw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "161 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725851,
+               "lng" : -74.004339
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "d88dc17f67d566fa1089f0224207477f48e8b274",
+         "name" : "Physique 57",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaKGfd1xMMUBH41H60F5pLNIN53ggG1iD1krMzzv6GxRtwaL0A450HTnr2hQ5wenYnTKXeZVYE8ETgOH-3kUWvVUSugbLUaM60y6emeGbO5pQwx13ZWf2rvYy1gq8Fl95PWvpJzDHlLEwXM9M702ISRIQDGV3Cz6sgcp6nkWnPC3D7xoUBUoJ6bodCYsCkcfH0dkXOyMdIKs",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJYzd3_YxZwokRP_JqqpyHKRs",
+         "reference" : "CnRtAAAATXOAx62eNPXwWSHUk90o_85bc6q7OJt4fpu7uOC2YkAIleyfYDKcpWO4HDhNJoeTHAtMxn-YkxsF9dcaGUcIojeTcuPQ_jII3v0Cy7jiClTdNcL-Mc8E9MH9Dy8gf4gQsGSF4tiUxtESGCWGzVXJTBIQkV6Z9fiZZLs3aJBZUQ7cjxoUDCBZZP1xGSLhfJNCvZWRgBKJalQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "161 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725144,
+               "lng" : -74.004884
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0aadb70b1f6f644f4488a9b5eec874639a1a51aa",
+         "name" : "Dahesh Museum of Art",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ7WI5fvtYwokRPDUT1aUOA_Q",
+         "reference" : "CoQBdwAAAGN5aK0FwtV9ATTluG3Xhb6T9BKBGDOt7SkwX26sjVH5Y2bjpPYMJ6zXO72lNakbC8kMpHTT9eiWxWaXFxJRIvN8RM7ko-rnusxksKFRJTjjn77cuA1Dmb9sP3NzfWEXZ5ROYRviyj3wp3iaBMck0kiP6rIk_I5-FIw8DMwxKnw1EhAC_-U3Mfcll-UyzsvMTTUtGhRJEF-kMMHVwGHZYmv4Gr00zITl_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "145 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725484,
+               "lng" : -74.003075
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "009c7fc75f7d082f23f235fd9a0696d53ead989d",
+         "name" : "Blue Ribbon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAlv4mX30Wx4SvX9Q9ngjvYPnBy74mjdeVtPFUPQIev0AKsIGQkuwd-hpOuAh2HW5Cs4qWTrsgCiqlj_FikFyVHvaB7nWywWppi21iD-uxj3FVf5fL6r7pe4F184os8GAUKeKsUTlmkEtTER7Q5PJX5BIQr18SiRFBo-s3fz3cm92vARoUZ6_upsljdKJX7LUHsQRzIrft0fs",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJT2SaUYxZwokR9zdoSN7deEw",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRtAAAAaXr9z69J7UOAtOKWph2cmhATqvl7G1sIX49KsARr_h3PNLk4pNX0OV4fseinAkCAXJGuT4AqkPPIftmShNdFoThkexXHwCMEUkvWKJRlP4z_p0PMHwtkf4ftRpXqdcg7ZBGGr_SXhJvHaGSqnysa6hIQ6we0nuMRekMoOxnltHVDiBoUqlkG7BcJjQ6sAxxwqeiwvHcnl5Y",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "97 Sullivan Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725458,
+               "lng" : -74.004981
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "526db96b517351efe4beefc468d0bef24a36bbb4",
+         "name" : "Ducati Triumph New York",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 545,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJy9EAK_VmHWAUksuCyCtyWKO4P8jWI2HzSd5YMBEk9piale16LJNiTQnLGp8pm0pon95oufaxVjXKZSIx-xS93z3jholJEkkqrrvL4z_6zVUZhyfJZznqpqJ88onBSFLE2en94-SYh-kAPFAF5VjdhIQRnK5hTiHTkbYs4VewRAoxRoUvVkcgM-uVUjFbubRHFcJ6lm1Z7E",
+               "width" : 747
+            }
+         ],
+         "place_id" : "ChIJezFF74xZwokRWBSN9o0ANCY",
+         "rating" : 4.4,
+         "reference" : "CoQBeQAAAAB39jRbPPPw6rDUTQyXRehg7UY8gTqIu9oypUETuw7D18FU-uxkqmgBSeFKAVTjqUQnjW7Iy0oVUL6K70LOzSN1RGJl34HWk4kj9VU7JRm3wjCR8PMgrFbAto3Yd65aEcr-Gko-3WwqioCWLD0or2XwyJUOlmldkdpZhQWTEb5lEhA4zydJbZJc2r0XdqXq3Xf_GhS-zRS5lnnOC9s66t9pA8k3cEaaMw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "155 Avenue of the Americas, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.724543,
+               "lng" : -74.005667
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b2b637ce19718edb690bee83a6b821e0f7a854a3",
+         "name" : "La Sirène",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAaSvrFtqXnY1a4I0FtGdi5ErWFuvRfhZ44Ad3fPf0-b8P3oDSIlYOI_57NbYs6tIdoHb3x_Ne-dt3RLLxFtwCkc0ttgby7iEPZrKaFrnbd5wCAyjEmQAFa4rUMnhd2IyKt4nBDJaNPtewvNT6xB0t2hIQY5bcmJG76EjpEozwIh63DBoUsuTWfiIDdcT7cdutrXyUS8MGsAE",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJqW6yuoxZwokRHcasV7UhqPU",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "CnRtAAAASitkEl-6O4KXKiMkycsuENhBKQrzhKWRIp0nSU91HDJxCo1mJsKx0x6jGSkH4W40etlvIWHyU2yvUXQZLBuHKg350U3S_PzlbJ62hq6SX9KvLdvEWisqe57q8sT2zT75hRaHs8wb2Tq1jlfaJ5_-NxIQPf5GDMIxM168jBupiNXiBxoUwgTYBoK_oa5PFCaUOpOloaHsV28",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "558 Broome Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.723301,
+               "lng" : -74.0029883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7283442,
+                  "lng" : -73.9958967
+               },
+               "southwest" : {
+                  "lat" : 40.7189454,
+                  "lng" : -74.0054619
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "adfeb648ea9edccec8a59567ee123bc7ffd59b56",
+         "name" : "SoHo",
+         "place_id" : "ChIJ8-JRXoxZwokRGPiQ9Ek0L84",
+         "reference" : "CpQBgwAAAHHKNOykHHxuK6fkep2M18pwnKRZejQ2y4k7pN11mOJzTs570cJQTpAawkOQ1nER1fHaeR_4tUWSJjNHdQVh3OcVmWgh1CYbKCIKy2QNM1YC5fTVTPBfL7_X0q1xsMAggj-Vq5t3DbLnYGOlNBhETFnLi8xca3djXX_piUXlue1PdhaDFJnkn-hclH4tnZYncxIQKizIPdiH7-WZaCDqhnq-1BoUNXsWoRl1UIcDauF57Eu-4ek1B54",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

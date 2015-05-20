@@ -1,0 +1,245 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAAO3DcHIpEU35tcBJGleHQpNVtp1dAtzQqXCMd9JnN0VmWYQ_pOCs3krfwtE8sfsDSF6kGpLG2gTL4aAiWyabCtiZ_6VDmORY3WcjbI8nyprbCX5kkzESPF4c-JrAqf90--_RhT2l0ko50WF0x5_CoKPYnUf7RkS4KfaO71lUQH36KybMnwU6NiHfO2hsv3WGRIQgc9x90HA49WtaJmNwVFD1BoUA5aP8BFNWOdQxTCQAuNColImLDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.791172,
+               "lng" : -73.93928200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2cf9f6796ae5b5d315f46d8e34e967fe6b58d72a",
+         "name" : "Restaurant San Cristobal",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA5NFksii9iana3qDGpFmyu7_nZLGQSlKDOwpH809wbyV1KHkLztfu8LRdsEWVvm8ux5DK6PVUDq0jn9xkW2AcwY5lnMgSa5K6oDYP9bYwJty1MUjZPBbFq8sD5Pf1jwK96irSwPFNxe8Px2umdZ795RIQpy22VdByuRGHLq59-P3UihoUhSwrJ1ldGB81X8AwX-b4BZ6rGsQ",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJ1e0eBgH2wokR3BQgtoHIe6s",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CoQBegAAAEGIM9m8oKc7B83nj2vM0o6oFDFLKiiiNYqPj5KgzqZZyFOMRL0B7MMhdDVG9OgRneHicqMNe0UCwHCyZ4pOXxzwTDl7aBGyNXwDWUcZpXKoF1Yx_nLNrIYqx-6opFhhfAP1MAN6yFWkk0Gq22R4bAo_JwQxLW73B6b2DNM2IsICEhAU5ckQwi1Zrk-jC5f_xzCJGhRq2df4bXRBJBqgWTBWrd-Uw64V3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "339 East 108th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788469,
+               "lng" : -73.940304
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "58f4d53193b564a3c46717eb841ac99b3a3f61c8",
+         "name" : "East River Housing Corporation",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA2TFERDi-BA4v11jVX8bRBgByUJzXtGLRJMua0DHiLbHNeL6iAl_3zUsK7OOcn8TnyZN0kiWepSjaXNrfJwSkiXW4H3ajIhy80HaXC_Kds7xLivSJqm9jX_89eu8cSj62B6-8_UUheXStPzX9TP2ZERIQC2Sn0Y6fmbv-xNvVYiB0AhoULbva6JAymRDQuL2i516LGBTJb5U",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ8129VStawokRiFbGLgRGrl8",
+         "reference" : "CoQBfwAAAEXVrYny0k4qe8ND0XVLnf6QOqO1Wlbe37Oh9P1BykUDqSVmTcrrSZs--3BwMiU25Pn4U8laM4PV26biohsNwriidgnkRU8gGq9jYBgw4xIbaJDNgFV6Igf3k0RByJ892DqrSA1vQMuTUBuGn33OSLjwsYMMNWBmwQjgljlfssc0EhAeX3DONfIR9VKyjJvLdZJ2GhQOpaXppHVMkX6el6hFYJkDwclHzg",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "410 East 105th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789755,
+               "lng" : -73.94091
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "dfdd25161e6c78f1d6bb9edee10d3863c5ed64ec",
+         "name" : "Macedonia Iglesia Pentecostal",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJcUUqKURONHZaZHh4svCa_p70_vLWo3zbZtCNXiPPGZj6VbS5-EE9LpU4LTbS0kP3R2PGxfgzC31Kw4cIXZypdOPK-sU8STSqWq2M8s81pNeYIOjmTmU1aRUhXaUqh_b0xM22JMDCPk9BfqvDGJ4zBIQi8yn6pygi3Ufrnk8Dx4RvhoUcnXM95BZadKVF4CCQnKx84MAZBo",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJRZU0kwH2wokRAdegI7_6Bv8",
+         "reference" : "CoQBfwAAABipMErYvDDwTKI77Ob9uDVLZnNmaQQsEjgGp29JycY6cL8GunmxY7NHiyboWK2j9Iegh5xpCF1Ng-7JOut3_Lb7NeIxXX6uoitJNNx1ZrZU4_hQ99EHUrZY-LIzJdeVOL8OjK-oVyVzTntXbd--D9bIc01J5v_nlK496o2dIuaFEhC4YMXg1wUknR7KvSTseZlWGhRfZ_8L0qrCx86YzUCvz4dDXN8e9A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "340 East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789253,
+               "lng" : -73.940596
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "facc114ecec7b6f8443055fcaa514557f1752f4f",
+         "name" : "Five Star Cheesesteak & Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAT3MtIOizx8gfEhzogGOLeyNIFp8HCVgyISFWD1rwEF_earnJeKBPegaRuoIdcat8RO5rJvvmrAdIu61qkYQbZ_usnlmOJ_yq2jsB8McbaUyCIBMgB1D7zg_xCCPBnSZVdZFtkrH8AFYq9A6WNZ1YsBIQ6k5nqXUmeU0Adg7DrYRq_hoUN-z80angiFBWiDC-uS0HvGZv1wY",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJLbkQ6AH2wokRbA7MAjT8p7I",
+         "rating" : 3.5,
+         "reference" : "CoQBfwAAAMrsh-5L500rPfhZDO2QAgmKK7WnYWN5mWG8h6WWrQ_oTkNH7zdfcLdISglpAfX-Pjs0o8srSwWqS87H6e4RKAc94-wCTeMdhsdl_MsvBqqis16J9Wrb-2UZ_L3VcGQI39JxpEx5od0d-HB0Y97aBx188Rk6Tpv9zKa5I9ZRBq2aEhDQoVMkGtNoDb05o-J3D2f1GhR2d0_ZhzgmyBFlFD8QdIbMYWNPog",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "2039 1st Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788809,
+               "lng" : -73.94045699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d8e8d9437d62c65136e958260f47a5119055fb9d",
+         "name" : "East River Community Center",
+         "place_id" : "ChIJ-6hX5wH2wokR9yDjLtduFCs",
+         "reference" : "CoQBfAAAAOjIHqTCdx6mlITGXbPBTenbrjDSrzXBofZkjQk13w3qFZ9DKAHYC4Ppm7vZ_kyaud721jFsqdB6uLbv6eoZIFtKDfETPfJfcPI1TxIqMi7BVWvzDXDbQCt9AlADLllQV3En0tbWi2r77yzDi_5cbzZe51zlBXvLtBoU0feerrSHEhAQ9v0MOjEfPbi0aRCTC0X1GhRTNBxjI-xfiGHq_Ts5NJgcajN9Vg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "404 East 105th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789285,
+               "lng" : -73.93800299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "62163ed59798e79fb88e62e5c01f27370d6c6ad2",
+         "name" : "East River Playground",
+         "place_id" : "ChIJlznYOQD2wokRdN_UHLiSqVk",
+         "reference" : "CoQBdgAAANLH76FAbPADkSYaSxuUYd19wa9842DDlBqfValrS8pDzR9mYhYHTzaQH-UIj08UDHmr9r-3ZTAi-poP1iaMDil_28GahQR1IQegym2evLayXlujvkmaM6wxJIKpM6UIGNXNeeFSmfHwWuVu1FPqInceXKdI5cHO0BCjdAdHpF9BEhCjf8YFpbdI_DaECgo9cipeGhT1pailUfrieZAePv8JWnLn-tk7GA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788477,
+               "lng" : -73.940527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a0a190651e0569a6942d72ed6048d9f04b69c82d",
+         "name" : "East River Children's Center",
+         "place_id" : "ChIJ1-o22QH2wokROvClAUWJCZg",
+         "reference" : "CoQBfgAAAPztzvx_brWNzlo_ffmShcTB6XMQ-rjVUM_Vub_2nUcdokDbEBf8QiT0dUnI2-xx6OdAEGPo-TaNmxzCSfaoToTOUGgJdM9NHLW9zKz-S1IwkWNbAeq5ua9PcTcGefcOpYlpk5NZabNpMf1AwKUrpOolUo3X6JLCJ-NvOPPWEG5OEhBhRslGGpL_CQBDOMh_rel2GhSTp_bh5Z_-n-3w0JvR7syPaYM94Q",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "416 East 105th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.788477,
+               "lng" : -73.940527
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4cbed4456da8a144a79ae9bd8a8cfec315bfb9c5",
+         "name" : "La guardia Nursery",
+         "place_id" : "ChIJ1-o22QH2wokRomL4ZGCltAA",
+         "reference" : "CoQBcgAAAOTJvuxRF0kHiew1Ef_9vw6YbDyAlcIpP1IS5M-EjCYtCA2MpdHgmM8stdugvINWurxTJJdW7X35RmQe1RhvTJSRNyKbigrJlaoZXdMidwqnnZgLikOisaUiwUqtcr9Bs_SEk9Tr8VOF3HlG-g_1KIwTyWYuWKKkeb-pZVZhSaLOEhAdxzvhGQ0JtH20wzWIvAnbGhTTdbR8xvU-yjBHxBcw8sFo_5NEDw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "416 East 105th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.789482,
+               "lng" : -73.94057100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a3d2612c2dab702fd44a1f14a60cc248401dce45",
+         "name" : "East Side Auto Services Inc",
+         "place_id" : "ChIJuYfq6gH2wokRk_Ittn4TY_w",
+         "reference" : "CoQBfQAAAICp_xJNxf9ofMLcR8s8IDmW6j79k_rJZcXjvOb7ELE_ZQHKc48iw3upztmT2YXo4gWsGKHm38skGOovgAY9hJYpbsD6Hank_7cP8TI_WK6X811EmKMSy8H0ppxOuLIYK0P3K3PTmoxgwnF-Sp7sZJkzG44X1bcXBNIwrTAKiqUHEhA6LyVub6EMmUeVxDpvEphOGhTg8ElulG-2AvQTJzce52VoXg5SPA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "348 East 106th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAGk3QH5xiJAu-S5-i7fK13lbIyVmtQTLmOkcEc7cHgws6IkCdu9IZgR47jEdd08hFoJneh8pRahGcCQsWtnKmW1TE1P_fupo9415Vn7K--Gf_hgZhGNEhYi0uYsYdG1asjyehBllpatPgYcLNIbzRhqKvM8JG86xBISUmFLhmTzLk5j7Pn8xY4zoOaXWPFlJFxIQOlntGlYmX9ZkVg6oVkIpahoUibJ9eUU79WZwakgyrwpOnesidi4",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

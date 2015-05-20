@@ -1,0 +1,412 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8050933,
+               "lng" : -73.95912659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8107789,
+                  "lng" : -73.9549904
+               },
+               "southwest" : {
+                  "lat" : 40.8011669,
+                  "lng" : -73.96106349999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cf580cb4e3a5ce8be965a0451b724988c54591f0",
+         "name" : "Morningside Park",
+         "place_id" : "ChIJZ9134BX2wokRt92hotTSVe0",
+         "reference" : "CoQBewAAANfEbHEhmWqioXFPV-kn1rWC0fpdzXliMfoC0YkrkIMc9bOh-0GD1SQUNJt3ZMnig_tzAaDIU0ITuhXDw00i82yRhScUMo4lV1hVLt4-rQD0GDcCBUs5AQ3Yczj0RjjHmYLycsrk8JB6bXInrPeKfcEsItsfOpzHqomq1LjpIaPKEhB88KXgpHyCjwaJM8w_HTjMGhQt8Y_Nltz9kMHt0iOu0NivdUVvwg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8089564,
+               "lng" : -73.96243270000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.818091,
+                  "lng" : -73.9563131
+               },
+               "southwest" : {
+                  "lat" : 40.80185549999999,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4f7a825ad135a40eee1c63d255670c12fd9d4a76",
+         "name" : "Morningside Heights",
+         "place_id" : "ChIJYwfNCD_2wokRxUX-1dQJeAc",
+         "reference" : "CqQBkgAAAGlBrrFQRCGAiBRF2kLuG3WHiKv_jwhHxpQWaauZY3SxNHeaXsdEB8gFtZXGZvo8Au90rfAe6ZvisVeC2m5wSzbEHGszXzT_RcR2eDTcwHDE_XegvA0HPnlb8WjE3J_aLuySpRjHiGhpt5w43MZpA-w6_3zd-Qn3Unn2YMIk-luahOl4w-DfsgxeU0Bvk6ZDMmH163i9xYEVTHqF_Bb8aH4SEH1Xa0omYesF7ZTcnRJbu7waFOUsenzipMKOg0drkGKoE3KCWD7S",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803836,
+               "lng" : -73.96187500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2d3930ad7fe1e26b162fdfd9e450ec3392090ee7",
+         "name" : "The Cathedral Church of St. John the Divine",
+         "photos" : [
+            {
+               "height" : 1361,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBgQAAAFFHOvjT1cSEOA7bVZ6f1bkHC1g_wajmcTzCTGipWNY8wciwA_TPoABMwmrmrnsU6_eewb89oMXdcUBcRt_uOCrloQmh_SuxIHpiMl0TSh8BvZXGjZivTNxwp4JqYBW5UIcQeHr6rY6-ZF4F-naOx45LItsZOX-7WOlWuBZ8ca2QXEwiQt1OWI2_9q5WE6a3oRIQ1Ybv-Ao9yaw19SWLgnj9ChoU-2hptBaPuqJGAGLrXHU1xzakBd0",
+               "width" : 1363
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokR_wv0XhIOo8Q",
+         "rating" : 4.5,
+         "reference" : "CpQBjQAAAOAeI3s69rmZvct7hdk02CxcNmpsSDOyjFX6f6CFE80wTVLH5875qI36VRB1FZjQSF9Hc-JN8yW3b37-qtcK_kYqwt4W0_snO0iY3uo-M8zReLwEGU1DIu_FqzWx1hxOawKZt7qz7Qko5RL4TApWq-Ut8Ic4WOn6E5tG8Na9ZpEtTEQXJ5ha3Ptp9xVSyqARfRIQeUavXRAFP2E4DsIk3361YRoUnyR5zqoH7hJ1xwSBYa-Ww2TJ_40",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803756,
+               "lng" : -73.96167800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69085488d532f13b38cb150993ab36428ab16f35",
+         "name" : "The Cathedral School of Saint John the Divine",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1435,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBgwAAADIfG449IPZGzW_EooJflAHQcRKfTKGTCmHAFg53-_wlJ-1E53ZcWrskuZXurvtmXJBvV33JOcq-X9-sUl4IkiSufnA_U9eJp4emKQt2nUrGUGm8d0m9sJMahrS2Bp0LXmyNDyUx1NObGOQQ7So0Llo82yv6UJOS5VnmG4XPC7VsKHdjElPyJ0uPFXxbvML9bBIQeP3aL8EpSJO9OZgL0Lt3HRoUW14ZhaMkdrYG8nytlepHkGSdatI",
+               "width" : 1435
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokRjRpHt_spe0w",
+         "reference" : "CpQBjgAAAFLhwlDwjdUTCqXEjIPTi1PCKn5xGawZASmHNLSwhmzQ-EFZTlh8reFRLECSmIqqylQh1D7mX43G28zhxl0V82LN9XE2XRU0y8_dPUiOIi0HFf-1xDFJLNBhWW98Jh_t9GaLApAdxmHBKz2vv0Tu9gr0cCc0wUxGjkHRWR1t8jK4HDOvFI-9sSoYYdHLeeVxxRIQJEgAxaH_N7NK5WTiYHJYRRoU7j4qr0776AnJKQAFzbaMIUfObUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802405,
+               "lng" : -73.961624
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4013429c270681c233f6f11982ca850b344df9b",
+         "name" : "Avalon Morningside Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA70o6rPCZmIWHdQeejxSabki3MBk3y-PRH2snPLXmsaS2HG2mk7uiI-xOWWorVwoFS4W5HxECsSUPlugxc0XP61leflOO6p-0RouXu1eeLfWo_jgbA-vYagphqbJxcTs3mIpZ5FNRu7CBCJFzSBMfeRIQdT2xFrYN9mljtBxQ21DI7hoUZI-Cxb_nbkUFDS8-IAifSV59x0M",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJRcjxOT32wokR9QI_21QACNs",
+         "reference" : "CoQBeQAAANu-Gn1S5hAVhByTroTQxjjK5D7kYq80woK6A9NvkeNUd7Gd3kT1zxuDYY4PaizVWu9bSludw0Lob_qvXyEvI_RCoMMiWYCbgQpIk37dKqrUzLyVz36GfBMX3bN3m9neJryj37NCdjIqbODC3lQ-DyKhCKJTbXI2K9IQ_dV5rnzVEhAhpSiUIVb0XT0YMZh5VoDTGhRJ2Ss_VSduFXXG28vmrTUwGLbHgw",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "1 Morningside Drive, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805089,
+               "lng" : -73.960306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b9824eed62e762ce25020a189e680cab727a3e02",
+         "name" : "Church of Notre Dame",
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAICEeas1-uyYV41JFulERY_CLoL8EkwYFK0mPB2FaJnEiwdWVlP2fhucWTP2dpoPlgv9Pns0e8mav7_UQQj36WiStUhHUtuklbWOw0idvvUOeuA5hnxysgkuXyosG4V7HBSBez-NefXWS474J99h6013O2KPVWqy7ehJbcfN_OFAEhCN0ilNEyT63IhgJMTaPTdcGhRD0E6S7gTD0ZTV41cLc5nzXOOqKA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJe8wC7T32wokRDjFvJU6ACGM",
+         "reference" : "CoQBdQAAAMaKDdB7DMo6bHQnclxTFPSQ3RT17khIsEFiWUx1l2lLebdUHoOEZNa0a9VkUEusQ9fhSPr2fXmIU9kcdSJQm8KKkd97I6NdSuMyjgahzM_QMRvg-8ZM7HFZslxwApwFGE-XsMotxEHaItmlp4clVUJAx9a4fO0TYOcWQ6QTOurBEhCVwgXu-EEJPM5zlDB5i4h3GhSet_BUn0e8PUo8vm1F4YmwKgc42g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "405 West 114th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805093,
+               "lng" : -73.959127
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "854608012eb98562498c936bbb6a0deb8abc06b0",
+         "name" : "Morningside Park",
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAGMU5RrgRulVBD6oaf5hfl1jx5HLba_SjggskMJMxUbEURZu5VQVIIDam-tLav3902ovbJAxoyjKIpRKFKpQOlCLXKPa3zTZ8m9lFa32K4d0Kx3gkMiZfyIrArTTtlsdYCfAxUQDHMTPpRyQb92QTrwhoR93xf8jDeP_-xTD8j_gEhBiHEPKAYPmAtbhUOTUm76MGhQoPJ-gd5LdmKPCuUJfl8zIbDuLbg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZ9134BX2wokRt92hotTSVe0",
+         "rating" : 3.9,
+         "reference" : "CoQBcgAAAJSqp_c3G2gVn7VmLFPrPk0FC4xhIE7ddmsxuRu4Zvmqpi3tjo74lEChfgEfsqU_Rk45__FHUh64d9ptzcEvWpJK4CEJJjv_nXsjv_N9TIlsVrePnMGUg1_BevdH3-kKhgGgDVz5BI8V4ixvYQGycLLj0-ugYK8bUSfselu5RS1rEhAmsFgYGLOOWt0Fh42zFrOdGhR5xKIfhisg9fsmDKghwLlMD1Diqg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803285,
+               "lng" : -73.962643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0563cc78dd7dfd32d7f681135ef8b5280cb8166e",
+         "name" : "Peace Fountain",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJsaclHX0Zp5RrmiMt099ljvUhgAaqLgV3M6wDBCnGXVcb5f3bxMFRzNR1QiySH5gcV4v4BvDJ68vBgpg5LF7W1fgu-N9S7XtJOUKnTw4V4Er7s0fQYvvOsBK5qg9cezu4jtczQBYjVvGr4SB2BtvFhIQ82QnleIs_1kvnFKou1RzeBoUfLT6wTCpmfSSA5hISkRJY3imxRE",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJjTgH4zz2wokRv4p89h2AJ3E",
+         "reference" : "CnRvAAAAs5S_CEv8d4ZoT36LwcZTt5T5KDkDcYRa5SxKbGzNVTpk0z2AThoCFEEZgzWIQHQQFztYn-tWF3dE0xd5Xu98ja-T2zAQr75YATb2h5PGKldtX1pQLFt8J2G5Jfz9dNblc7XMLf2_jU0wxUrxuo92xxIQXR581dCTCnZKfkDQ4XABkBoUDYDPha7vCRwtWomr5VUXBT74fzw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803755,
+               "lng" : -73.961699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "77398442724cf7084f4e3f3044766c6de3def448",
+         "name" : "The Cathedral Church of St. John the Divine : Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1339,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA4lZQnPXzXkV81reU5vIH2CbilF-c4_m1SEdwdh2BE9bx0ObWhz3yR7SMF54a_7puR32Yd51JT6mcKnJUvvod-C4IDLLz9ffGhJj3Wd_JPsQ4sToFc07oL3EnYy9pc-GCESCZSmSSKfpz7PA17X5iFxIQpbXPGOW4GB_gp15sBI1bbRoUOn1ekYbPg7PcZCxhRKLakXazYRk",
+               "width" : 897
+            }
+         ],
+         "place_id" : "ChIJa0R7Vjz2wokRna1h5Jp23OU",
+         "rating" : 4.2,
+         "reference" : "CqQBmAAAAE0--BsQWAyS5hXU8WLlD8slW8FVo6ycRXrj0FLO63pTbb9s-2Elz609ENq1wZFTnceD6D7lgbHaXiB1a_PWgapV42sjqSuXRGpqMW0n5vMTx8iRR_8cMcGFVroTmMNAq3JHD8_ShLahHf17TFPWaeJgtED6dNnyKU_PuL3z9NPHIlQKV12Hf8gvE_7b2y3E7OVuSVKuG6jexIyxKdX6dF0SEErsd_RNM3Od5bRWOxGdpDUaFJ0eFDu81fsceJXh5hcOVnb0Kcka",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805289,
+               "lng" : -73.962588
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "61fb31d52cc7419a6074e65f4b4bea8bf93440b2",
+         "name" : "Gregory P. Tsai, MD",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJw6ajyj32wokRoS908Zub9M4",
+         "reference" : "CoQBdQAAALa1B3Z94FTqJNB6xGfE9czVn7xuFO7r-ApX9WCea7Ct9ksWI5NcyW2MFm9TfKX1phVkKKkc1t1_Elj16fh8B41M_WP36jro4ft7maYzVoGCrrOcbNNiJkL-x_EbuqBjxSbW8O2oOvUcDQg2saFDD7KxowRQqM1ayhONMFAF-aLuEhA3ASzFb5l8irnvURtj8IsOGhQD5LCpN2KPy3Q1tM4LeLFXAUYoGg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "1090 Amsterdam Avenue #9b, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.804987,
+               "lng" : -73.96112100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "09de80c453fdb0b88459220b39413883b381220a",
+         "name" : "Mount Sinai St. Luke's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfgAAAEoeJzih6W628RRYpOPk3MS9IsOZvc7m_biELps3dhykNB5kKOPYNUukvt787kSZKCJOT1mjInSf1OtTIJvQacaRBCx1bzxSnJpBDl_z-xtriTl5dGtrmjlJIS98yCn9Kcx6q5nENLwtuYfhUVL4NGSHIIEkzLd3wPPrzQXl5EwSEhBBQWgQbEMaTP7PserFxQvFGhTKuLfD2Q88XovYLF2IQpWL12N3RQ",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJOzBevz32wokRy1xI_9ur-Bg",
+         "rating" : 2.8,
+         "reference" : "CoQBdwAAABk95iwgkwzBJWNM-i7Of8qB1v5kooAcja1RAvHKeAvtpfCJZW6i_IzHPtw95XjiKyhtL4moLiC1CHW5l-mx-WEIp3mOwEn9e-cRkffp1J8xsHfl6hyaHKQZu-xNTRJzpMsYiERON2icirgnqSvaGQWm2Ur77rLihV2PypvmUEqFEhDQT6Q8CfEzRfO6WB84J_zfGhQ0wEhUxMFgTFlP1B1j_jyHn9AzHg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "health", "establishment" ],
+         "vicinity" : "1111 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801879,
+               "lng" : -73.962834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c05f5429fd8137d8f0c3e861be9a0cfe8d19a9e",
+         "name" : "Cathedral Parkway Tower Preschool",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAs2Nq_R8X9Ezlf06ppsqCd8dUd3w4bMX3XN3n2c3JGush583WINOfGs0DfuSl4zKfdfST92QOAdP-78BEhnfYRIaN5p266j8eUm1V0oaW_ShIpYBOcf-86HhGMogYXbXI6tQ1NjRkpZpwRJkBWrnF2BIQWlimGrIYb3Z11DLOyWP2WxoUi61Se0CjNZ6XBkbZg5x__nO4jMM",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJD8De0zz2wokRZgTLn5ySEdc",
+         "reference" : "CpQBgwAAAAFqBm1sun697NDbigsqV89omJ3-7z4FNFKKFQgrTjNGcNbA7SU7JbrdTybQE99ykWCJVpajbYW_ZQtcnrUn7G7cLGFtad_GCQcA_YNmLnql2Js8GJamo4lblVGQaFLzbqHYGdbpPEOE5diewGRcW_sa3suXdVV6tZW3PuzrPewiQuPQvfhg2W7XZp_iidyCmhIQMd3d58k2bGzE7NHeOkZLMRoU2QnBT4UK8KJpQNBXs6Kn_ngkRS0",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "125 West 109th Street #3, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803759,
+               "lng" : -73.961715
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "16cd1bb0689b8e866df1163817c8e4e93fc30d98",
+         "name" : "Diocese of New York Cathedral",
+         "place_id" : "ChIJa0R7Vjz2wokRjXghN75L05w",
+         "reference" : "CoQBfwAAAM_MQmWUrb5p_rAMuxS_AT405BlS5k25LsY4PryS92rc0L50cN7JtpSZ4q1jT7nE3U97X9ZAa5UwKJwNGTDD44ghYoAuR2mWRlThZ9I8LUoWUCNHjvPyOkbLv5A9covf6EkTXPRwcLnfLDkn5UBcckO6H9cQF3I25_NU4s5Rr32-EhAO1-JwKf7jK8HoBynFkiHtGhQ9dXY-L4Ecx77B9xFOhTktz-7HhA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "1047 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.805104,
+               "lng" : -73.962592
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c3d3f9d59a0be8b30aed79e36ba0278cd0a37e18",
+         "name" : "Town Drug",
+         "photos" : [
+            {
+               "height" : 242,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAm_GjV5YKqfznSN5DFXzbn6RJU6KHheqRhV9vl5nPdoCHgDD0zfU7b9rt-9sMdMs0b-slZlKUJOLoihm2Sg0QBDcE6OqfwQBSm_zEhI3b2lrezqOjBeazZDfkgYnqJH46xKdYcSj3xDL9DgXGyzrCBRIQ_6NlG9ooq3d867DCU3dRixoUdvnouFq8StTAYIR0ELf8ur0RPCI",
+               "width" : 310
+            }
+         ],
+         "place_id" : "ChIJGWpASzz2wokRNygnXBM8J1A",
+         "reference" : "CnRqAAAAJBAcENMTXYl8zdR3X_du-oGevrfmkiWS0bVbjj6mbSHZNMYgw_KhbbuwRynJeSFTsNPT-LLZnL9X6d7fTnG6gS5-jOwZCALB8DJDmd-lmacUSzzjsbIRR2ub3kiqMJxA3sGQv7BxZgxiVEzBEf7o3xIQvr0BzVShU8ZWSxGpMnApIRoUkp35wMbJ6lcoZOTZtpxyeOTLIhY",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "501 West 113th Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80487,
+               "lng" : -73.96127799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e59e19bfc72cb96d29baa036dd4a23970a6f3156",
+         "name" : "St. Luke's - Roosevelt Hospital",
+         "place_id" : "ChIJyddt2j32wokRQvUTmPcBOW4",
+         "reference" : "CoQBgAAAANpe4FZKQA5CYikBn3Z4rG_ZmnlHhSeNnNeRLKxVZO5lPfoa_lxCVGo-gkV3-z65g4CXC4Fk2xT8p7Lgw1T-4aP5f2ON5LLYxyh603CfL1FdpqES6Riki8e8oUtX0XXeBVbL9ZbfGx3bfy1uXKhy-rQ5UWO4ei0VXwyC1mMOO4rIEhA3kENH4wJundeMPAxe3UzXGhRB7Ua94UX469b46zUCFcAKsTq_Uw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "establishment" ],
+         "vicinity" : "1111 Amsterdam Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801998,
+               "lng" : -73.962215
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4ad8e9c4dec901160817f2f027536c6db60b899a",
+         "name" : "Cathedral Parkway",
+         "place_id" : "ChIJv3pzJj32wokR8HgLwV6Vph8",
+         "reference" : "CoQBcgAAABMgjTz3-3ljYePMBJvL6d0y9qd2ETNB5PMM-C66wRNi1JRHBId-YsN7H_2N3_1sbK6CudKY_UCkwme8R_8C4fYa4WsPDV9pyQi0LKl3SjFOkvITARFAc9i4ABRxBk3q0YHVMOkgvxkEoKklTMYi0JS-BzM3dCd45aENRtxboZWYEhCnVCcHpDc8eCe1re5kGjREGhSsRskl2MFXrcqSHN315yCIWJUOEA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "424 West 110th Street #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7870106,
+               "lng" : -73.9753676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.806098,
+                  "lng" : -73.9582099
+               },
+               "southwest" : {
+                  "lat" : 40.768483,
+                  "lng" : -73.9963789
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e1b498aa40f4503f70b3eea86ee84db9b2e7b3fc",
+         "name" : "Upper West Side",
+         "place_id" : "ChIJ1bsw-4JYwokRbMTfRoskJl4",
+         "reference" : "CpQBjQAAAEpYB_uLuM-0SAnsKJvU1epWWvWDvjDtKU-LE0iL80rzX-iYDzBz_ouJCsp8bws0h17WbdFc81A7hCvqRvh91pySepDkTNaeZIz9452Wppt5ZwkhcCIfuKSe5PhpAmMCE7aC50uAQx4VdEspl9SiaDiZpB3W2e_ZC9DvJZLEJUZV0hFgmwVatZuTj2Bin7CdMhIQT7O12ZuxJJCDZj8UZj2rURoU9f48umvquf6j5u9dhpl9YTCKmFE",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

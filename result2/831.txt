@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8115504,
+               "lng" : -73.94647689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9338182
+               },
+               "southwest" : {
+                  "lat" : 40.7968871,
+                  "lng" : -73.9623589
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "701f0cf8d8120ecc027cbb7e06f1f93a34e7388e",
+         "name" : "Harlem",
+         "place_id" : "ChIJn6KIIW72wokRLnDiCe-vCLQ",
+         "reference" : "CpQBhAAAAH4qZtR1b978mr-71okLE9Hf8np4lDt77JIS1JyGRZN2IaZxBQdzdwiro5czZONEM8_cmEUhXQgtJ0D26jfM51wqOZRcta7NNUc2GfOECX0XxM-_xDx7cgdjbrw0utUITRhZJ8K5NIh8rLNF5RAoU0CZtmr4srGOLBZ5jzOu4s8siSf3ZQVshs-idjS_CrtzXRIQczBaZacIovtHo6l5Pn62NRoU7tl3VWrPd3lJNwTMlKyOf4L-rn8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823247,
+               "lng" : -73.931757
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+         "id" : "c55dc17ab2159670e4c987651d13db0a56d41eb0",
+         "name" : "Stadium Tennis Center at Mill Pond Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZUYsttb1wokR3zzzhMlGHV4",
+         "reference" : "CpQBiAAAAOQVI-1fhio6gK4fDro9brn9rdGqDizs2y7vvJlkXdhQmcUPpwXMQ7yhcUAXGKIbt5vUHK8e3TNR1CtEPcvApKgdRRqUfvwVqLNLOBRMdfQAtNDM7QDtYgbfvqVgBgDUjWYdwPt4ByHpZGZRrQScWU2WC1WS3z5O7Qzz5QtkfiCDYVw6LJIbFLa0ZWmB42fwrRIQSbKN9LA_x0vCLcftUpYRkRoU_3RdUeGf4HIJQCoLpnFjxiojoyY",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "establishment" ],
+         "vicinity" : "725 Exterior Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAALiRbG0qBASShtWq2ZxIiG34TWWyDFhFaSkRMM5HCsW3odOEzi828xAoBdhhxn3CHWpnN5SrfA72PQDF0gtwoSZQbJsn1Denh0R5gAVainIoSdEucha_SjYWjY97lgHbIbNRYyubtJhzGsawyJGDC8PRz59w_wrQ-oZlsoiIn5AnJRu4QUUsFf1IF5E1hq_fghIQWD9Sw9XVG7VLU_NadtbvrBoUQfSLwtJkqQnFHMt9CeGmpRsGBtw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

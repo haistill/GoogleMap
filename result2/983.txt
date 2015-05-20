@@ -1,0 +1,285 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8328628,
+               "lng" : -73.9245925
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8348306,
+                  "lng" : -73.9222012
+               },
+               "southwest" : {
+                  "lat" : 40.830681,
+                  "lng" : -73.9264362
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d8bf4a321cfe47b74cdc3e629e399a20f166754c",
+         "name" : "Mullaly Park",
+         "place_id" : "ChIJvz3rKS70wokR7bi8No_gZXY",
+         "reference" : "CoQBdwAAAA_JNcFJlD9xKp7aG_lK3xKvMkCBp9eKQqjkzgB0dAMyrjKB0AcS-3v00kH36_I3Hm9ayNxiz8DNuNNJIvIYtU8h00Pj-CxEc2suq2oz13A-h6F6XC0SHwGpzwIEglAPf5Ovs91tqVNt3eS4Y9uEmtOyKi-oaEaH_DtEMeyuu9kFEhAehK-5YmmwmNnBwhyhsCcyGhSEA6CZo-BRkyFffp4GeekznY8ziQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8316761,
+               "lng" : -73.9227554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.838479,
+                  "lng" : -73.91520609999999
+               },
+               "southwest" : {
+                  "lat" : 40.820662,
+                  "lng" : -73.93200589999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "84e17633f0be9a7362247060fea5b7f33073e911",
+         "name" : "Concourse",
+         "place_id" : "ChIJZSzHDTL0wokRylupQ2KgbMk",
+         "reference" : "CpQBhAAAAEpKgz3s8-bm1M2C_BXcvYQ6V2P8KaY95IlSQFafAa7uWN8ZZTEdg6Xnagw7jyItu5CBCXSIL5IqNT3XzFJwOaobBdl2qHQfgFNm4b9geEMhSG3FHdUUBNxt1r3iNS_CBqVSzbh9yKpBw1P3I9qZfBwA41LnurQ09Awfz44DrT651i0-FuT7PTCsbxewPsHi3xIQrula_saTLyh1Ft6mzsp81hoUY8OHEnsXn4Id3cKc2YFBOFnHz1I",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831012,
+               "lng" : -73.919724
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b482baf3d285ce29f4b17eb230dfda384f3d6b8a",
+         "name" : "Bronx Museum of the Arts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 549,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBgAAAAFvaC55canINBgGVlELG0ffvZy2sFyMQQOyjiPvol-MfeZSkZ-92s95BvbjEeGaID-LKIXVZJCxt-_xsAro7Bagy_PwsJ37YhHo9WGmnTGGiT1aF62SNB4u9qKhtujHGdBUvu2tHPyg72EYqGKZKaHvLnx7AWrriuvivbVbtvFPiEhCyxYwG638wsS-i3-0y3907GhTU__Vbl6EPBuc-0R0s2tvJ2xPz9g",
+               "width" : 549
+            }
+         ],
+         "place_id" : "ChIJDbNgaTH0wokRRQPTw1E93GY",
+         "rating" : 4.2,
+         "reference" : "CoQBeQAAALmkMYuVH1hqHQ8veVwJNF4pI3mMr_ZwbrX_ASzUjfGi71-NON7YGp00Q924WQLsmYL_a5x86G1EaeFWD90dnBcaE3Qs2MmVMdP324cxZvGNkknQZR6ldM57XjJm4w4CWyUgnIdUaMdVcC2lNKSKdXAQMjzj98GhzXPlS1PTUasqEhDurD_286lkNME8z77vZl2qGhQ2IPWv1dv15ZyqpYc10Ohasgp4Ig",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "1040 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830332,
+               "lng" : -73.921986
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d0a06c566c0a5c25b356ce81d53b54d05704ffd8",
+         "name" : "All Hallows High School",
+         "place_id" : "ChIJyxHJJTL0wokRSuNy_xHBC88",
+         "reference" : "CoQBeQAAAN3mlAlAuAQu-2Jnui5jvv2PpSXDj3R6WRe3h3ZDkTI0hhfwmJHRsica4AJAnzV_TwedEz5CIJUYc5K9r_2Y7xUNTnz4C3QqmUION28Nv2SavQTjS9v7D-5e2olBT-L1k09Zj_P0fbYmUlJ_usmhVVRX8AbNQ4hsORsu3x4J99bTEhASxIyw41tgWM1MEUxwr_QBGhSsvtGwGK0i8Bsk3xGttz3EVq8zfg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "111 East 164th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832742,
+               "lng" : -73.920142
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "93e15ad4b993f9a73fb3f857d8ba2b5e0ec16d7f",
+         "name" : "Mid-Bronx CCRP Headstart",
+         "place_id" : "ChIJz5Zl4TD0wokRP_4TQq8PenM",
+         "reference" : "CoQBeQAAADjtmY_LSsytanqES3vPC4ylpUyKyp06j3XNL9FJr8q42Ke0bXeGqV6Tc0U7aVtV6IoYVoSMJ5ojKaWIITsHs5k1Hpv38I7BqLDng0xeXOt7fBV44InyPh2MzaCoqO7fZkTteqOjVnbmBum32C0gRSgCmDEUTiXJIJkE9-zRS1FYEhCcJSMpALKBYwICF8V7siP_GhTX7MA5x959Y9ABY5eGVOXZ_jdYHA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "1125 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832295,
+               "lng" : -73.91897899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "5776211ea260ee9740d73d63357c3417909931c3",
+         "name" : "LSNY Bronx Housing Court Office",
+         "place_id" : "ChIJySxqJzH0wokRJyD7Z2tZ-uI",
+         "reference" : "CpQBgQAAAF_YoiSObsAlsv9sMHm_QmAUyj4r-OcFv_vgEBdUcu3Rwm2KoNu9xyRJxQXP5DSlUzhlEnvTUnI_MXToid5b9ovWCK4ncC5-lkj9kIBbKlM_khVH7Tf5PfZP_R80Q1uhaKdfgPuO-IYFCsYhIwdCx33lS8D2V5gJkB5loMfEw87cloURch7aWxlaQuVs1OBV-RIQ93K_IvRhVcxBv-Hfqn2WnRoUdMymKuOeM7RlISHqhpcV6wIu4zs",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "establishment" ],
+         "vicinity" : "1118 Grand Concourse, 370, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832866,
+               "lng" : -73.92017199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7b52498240969d46b17b557d25a2714ecedbfad",
+         "name" : "Andrew Freedman Home",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAxQf-atIz1H4DSYBxe2sdRb9XdPO-ijPviHyRU6Atlt4g6TIiHj1emucAgTNjFTfwDmV3aRqAC_6URT3ZCKvuJY9-ZcdYEynkaddKbbVj8hD5vCjDv2kqIJjZB4lttoQupdrbzH3rqRMFnIGkDKBaDRIQ7g34S6F86kxdP_wNicayIxoUhSUoJm0h9hRLuFDACAymNo51mk8",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJz5Zl4TD0wokRcLIx68fOcJU",
+         "reference" : "CoQBdgAAAEo84eFIzCYHVPm2hpiHeUBSHDgjQxfOJ9tu0BIDrSHu-rfJw_AyAR1yk_0T82QenWbkJdXIpnRgpTFhy4YJWrN2pnJRy_B6CkBsUVNeuixbpGpM8fegk5lwfsHNJk-7IImW1umzMo-uwo0KS6j-FA5zX5NXJMzMhS-TwL-_PFjNEhAsV2wGaGzGR10YT3Zj8GTTGhQV6-nmzOmjxqQQDBbEsstr75sN1w",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1125 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.830142,
+               "lng" : -73.920137
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5d8e5006ee20c63584882198cb78c76445acd2e5",
+         "name" : "University Consultation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz1_tYTH0wokRxwMLH55jd-4",
+         "reference" : "CoQBeQAAAJtGkgTL3JOe1M70LLCCL41JlKTqDIf2Ch_-LxZGfgGQ9QU-XpcvYusEQu9-qA129aQC1_Ux-WUgCh5lGH4YZlrwU8YT3yLLsUU04HXRBqZlfRtJZ3ciE2RhgnSbWghmcgzF8NnArCHQQckVUZvAN6bxV7P-PJlltozX6Oz1tpCdEhAuect80_zaf_C6KMzKC4SVGhTs0QyEON3V0GPyaL9eDrbUhehN1g",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1020 Grand Concourse #26, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831574,
+               "lng" : -73.91930000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25b2d918b6f929056c57ccc85e4f2ab4b93505d7",
+         "name" : "Concourse Rehab & Nursing Center",
+         "place_id" : "ChIJww7lOzH0wokRLRsGgIPl7S0",
+         "reference" : "CpQBgQAAACOck2VrV68P_ICviILHZUCZfI3uHQ1Jd62ILKSeRGUqcLJNRq1LPmplA15OMyeYRz2ZFBCjWqvOKcZl6ujG6Z6wyDfqsb5x4KCkHP9tQBWER9Z9E3esFJi4OirsLRJiM2xl3hQ4SA6NZWZBGSztmdiugfOBMOSR5t9Es-S-BsGITI6HgzrsRmSGC0u6_XOcEBIQ2jrF6iB57Dwa4rk-gwmOKRoUGYCWZBkHJspHFHkp4ZGRkN1b_j8",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "1072 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.831708,
+               "lng" : -73.922203
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "adf2df46cd38af1c0a9370f2c4f0c06432e85620",
+         "name" : "Church of God of Prophecy",
+         "place_id" : "ChIJL3RbvTH0wokRCAguqK5DXcY",
+         "reference" : "CoQBewAAAIkP4unsrTlds0RY_1V-jptumpJNU9FDMoyfCBMndjhoVNvM06w0aN2Fcdjg6UhR_-c_1nDBNKHa8I5PmgimL1PDFFAsFBtnK3LcPmtVvaQUgd2dZNFJmkEnOH8Jwb3sYbkr-rkTXQyFxNjUfLGLNv1Hz9TX-yrGEPgZ7GZXQGENEhBzafXxPBL68Ny9FOyKFGd7GhTb3Sgzqwk5-GW2e6XJ-7_E0HaBZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "85 East 165th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832332,
+               "lng" : -73.918916
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d2626b2ad0c6d0d9791fcdb257bc4e67d7cac84",
+         "name" : "The Legal Aid Society",
+         "place_id" : "ChIJySxqJzH0wokRVRanagKFAoo",
+         "reference" : "CoQBdwAAABYHh2GY0-mOVB3O0lDStdDjw92II4FCZqZlqePy3OVBERw8DXPUf2VDVHWJEBllhc3BWetTRF92iUtcTgNsr5OLRpAnSt8jwLmPbC_TRYhbu4zBsPZfjX9XCKOYcLj22d7W99x5Z4WkL2F2ge5NUbzdWA-MRHFSVduKKHJCwsWPEhAk6_Rn6jxZaqJYAW1Z3-sSGhRWn2mY36lU0S8fyUB_z3jeQyTkAg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1118 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.832124,
+               "lng" : -73.922038
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25d6cc016ad65688b6d7024d9e4892009910e93d",
+         "name" : "Hope of Israel Senior Center",
+         "place_id" : "ChIJD1BspTH0wokRI8ZabRTmvJQ",
+         "reference" : "CoQBfgAAALrzQ7On1uDya2a6bEZbLhfVhvzHh-dBEZGM5vymNctnGMAhDOWmzVtUYXPpKpMfYJTO_3gnQy6Qe3d3bR1r_yUtz1s-u5bnO_cA9S-O3dO6jS62vigSsCwsw_MwpyFpA1oB27O0do3eP50BOIcqHQFikKLOVxDHW9NtxrUAT_jhEhA8--rnNm_l7RYVop9RL5-vGhTJJ7OqBdjlb68Jo4h7U_3UgjlgUw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "1068 Gerard Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.83028,
+               "lng" : -73.920147
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e2534dd296321844014a455938252e18fee42914",
+         "name" : "1020 Parking",
+         "place_id" : "ChIJz1_tYTH0wokRyKtWVtlHCSg",
+         "reference" : "CnRtAAAAbj-NZuKBQ7MDThT96OUpOe55NqkPPqaRE48rrnIkv1zbdQF-CCNKl6rJ6MqUA0VlevEMU0fGFvMwrJsf-zUlTytaLeQizE1zXECpHjkid1BqtH3JmL9Frk1FGgGQ7YkWeZ5wlbA2spZeF9ESxjHKwBIQmd0oIjpKabODdkQb36jTeBoUHndVLEngFifk82aWyNfVyMIHg9E",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "1020 Grand Concourse, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82837139999999,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8364789,
+                  "lng" : -73.90722889999999
+               },
+               "southwest" : {
+                  "lat" : 40.818436,
+                  "lng" : -73.92658399999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "20a6d9a979b2218620905a6af5f17b789875ca99",
+         "name" : "Fleetwood - Concourse Village",
+         "place_id" : "ChIJSRJTZzT0wokRRFm1FJrnjCE",
+         "reference" : "CqQBnQAAABfSttK2elF2H1h2bRafWDRlZLOwN-rYY9RQamdDlkKCA89v3vSPpZ9WVflZ-4u0Cu4zATATzXq6CzRBUltsKtdWRsuROAPqItxBLH5wgYQ2i0-YnN3xg9w77xCeuw18cLAtwc6DwEiXjrlmic2LWWkP5QmHvMQbFJPx20rlEY_gcEAcup0fPCprRETlVfq5vW6oxcsb8hVDvAs4pbzHcocSEEoIdV3NlWlYR02VCVZQ3kYaFIsMR4CtA7P3JCcQRVyIif3tOeho",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

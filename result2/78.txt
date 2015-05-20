@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7933657,
+               "lng" : -73.9352473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7946934,
+                  "lng" : -73.93310869999999
+               },
+               "southwest" : {
+                  "lat" : 40.7917813,
+                  "lng" : -73.93770789999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ca72f226f30406f3893512d8ffa898fecc2de37",
+         "name" : "Thomas Jefferson Park",
+         "place_id" : "ChIJMwj--v31wokR1R54vRBAyNs",
+         "reference" : "CoQBgAAAAOTyKvGWk1NlZEck-ihCZs8ZWH4BRe4yYVh2WJRuYGj4prNUz4GfzPjrn4tjiTz_w1WL-ZmWOhjbUZ0ukRx1ksgBJHIooV5ta7kNI2jYAjj929eC5c4FK5P2OjbyKK5SnB9d6bPB2x_SfvHGzp2leEW6TzP7KP8LA4kDwEZNuz0IEhD6yOxEdSOcUiBgQNUYs43iGhQdw__gVcnnBEVvncPteUOupELgmA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7891291,
+               "lng" : -73.9271644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.802083,
+                  "lng" : -73.9134835
+               },
+               "southwest" : {
+                  "lat" : 40.78086630000001,
+                  "lng" : -73.9363146
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "15bb2271d73ba63ae870ee7bbd53a1ef01d00e37",
+         "name" : "Randalls Island",
+         "place_id" : "ChIJtw87A_r1wokR1tzYitCZdKk",
+         "reference" : "CpQBjQAAAMqrtuNPc5tZgZJBOKDteP-b-x-YuH6dlVDa_3Z8XbGlgz0VRf3H7nfQ63cETkZjhjKAqXj1idX1CIcUq10V_8TI0TxofoFoffhFU_a1SMQgMQRnqkNTUxVDNZTPnCqFAWuXhAquxNUwkkK6kdSphiJig6FypDqbIzlEgVe7PeKWbRXL23SMNbV7JZ6r71WlkRIQTxbs6YO6-_u1U84YSbM0JBoUHDSRESFGHkVitaFzqYWfikQkVjA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAKlXKeCu1bTWHiT_3J3G6o3ZohvydqKJhslR71rB4gmQ0zssbgFsRtpFvK6VO4SD0SGoDfVDa5BZhxmnJ1_WHApxjgia3-2ptC5PXqrpZBEpH71YFJIwaR3IpHQmPSk_y0AExsztLXue0dDX4poJB6-rPuxLddQzKXp49OILqAnecdpd_3XcqgrSOsN40OrS0xIQF5GrDAQYMtkQNHsIZGJmARoUodSkRzosTbc1TB8AjRU03OcYPpU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

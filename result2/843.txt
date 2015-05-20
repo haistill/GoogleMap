@@ -1,0 +1,433 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIhOQygmJnd5_9p6odYI9tKmdpMskM3lgo22l0FfwGKThiBf7WpWN9GQ2Bes6yiUmTHsuPG46bDHjB4lhurraadfI4tUus7mzi0uHuxnj0T2UCblcRnA7QTIWIUG9OST2dyf40TZqwzlLDBjZQ4OFNawQC-RisNQ6_ndNXw0m15E_CeLAwMFWSD5Ph7Ozkz7MEnjMAVljqKSO3v8mM4Ohc0svjUueTQJS1Vf-Okf-zus_DWKdCmmpdtMPHuq24P86oWMCkgheZFLHqEfcC-u5wzLnhvuhsqK5Oy9ga4by5pIavnFS2B4a4seezUZiqA8lBIQtBt6qrwTUZsS51adRj25QhoUffoLPW1H5nYwQq2RqXLrWlNfD-w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8209719,
+               "lng" : -73.91687659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.825015,
+                  "lng" : -73.90950520000001
+               },
+               "southwest" : {
+                  "lat" : 40.8161789,
+                  "lng" : -73.925406
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "4df1064861fe263999f21a285eb1e74b246cc9f8",
+         "name" : "Melrose",
+         "place_id" : "ChIJZWpT7sv1wokRIr_VZGL9VLQ",
+         "reference" : "CpQBhgAAAEpeVelO70hY6ZSnqElj99_78GTgifO9i4aXRDb0rzYWlER8uFmwEa83vNb73twtGkaOtVHT7_6ijwk5BrptcAmYJEzQH8Y-rYbfIw3iKB7C_7NsT1XiPKSRf5P_CXS9nD2zU-WGb1-IsN-Y4yY8aYzuaikacaPTyLO1_EwXgohFrq17Y2TxJD4OuIGuBC9eIBIQUyiJvqoxaB3rAoYqvnENoxoUPdH70znPtSm-exiJW4wZKOiSLHU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824482,
+               "lng" : -73.917084
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a99838f7cae3acba0ce4677609ab2dfbb9d1b93e",
+         "name" : "Morrisania Air Rights Housing",
+         "place_id" : "ChIJCbZESsv1wokRcHK5hbsu_0g",
+         "reference" : "CoQBfgAAABbkZr_0FHyManl4DzzNFdkZBFMER7Os3jNrpMgXOSlhh5Tg6Mjh2dcmBpMAELT3nXJulGd2Vg9O08FcxYp_p_H8n6javBkwGPCprMjizfQ6rtwYT2knlI0HSuhF_jm6h-Jy8z3gdC0l_Z_3m6WossklfE9eLzX_x2WCqjnbLX0wEhCMxHsg6Ch5bGcUpk0QRupOGhT0WUt53W-tDIv_vvroey-099QU5g",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "3145 Park Avenue, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82627,
+               "lng" : -73.919605
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "2ad22bbe09566e377d892b9ebc80cedbdf18aefe",
+         "name" : "Bronx Supreme Criminal Court",
+         "place_id" : "ChIJj11QQDP0wokRGrW-kHWkJTY",
+         "rating" : 3.2,
+         "reference" : "CoQBfQAAACJzp4eromvrG9NBrn5llj2FE6EBp3uDe5zYjk-iImzPGRa4BuJnaOd1k0W1CEH8nXcX5rbyMZTVztIHjjGGZfbSNVltTR70tJeUUwOpxZNByZIrx4Qy2nnwDWyHbzdhHmyVZrhXNt0tZMWftiAK7ktCnn2RZXtReVMO6wagwis1EhAH9aGtQtGe8BWwNwc0qDTHGhRXAXcnTgoZyy33s7vZ11LM36EYNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "courthouse", "local_government_office", "establishment" ],
+         "vicinity" : "265 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825361,
+               "lng" : -73.91696899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "2f0c4e71bae51b58ce4e2abf78ebd8d2bb39fdbb",
+         "name" : "Montefiore Dental",
+         "place_id" : "ChIJnRTttzT0wokRAxaxJbAo-uY",
+         "reference" : "CoQBcwAAALjdgGICFNxii9Pui0B2imrTO6VtmFFBDSyHNoQwpbNJUeSq9okzSOvYTQSdMBiB7U2t9V2n6zA6Kc4_xn4pUzHui1bcW_R8I9QcAREfZqfsjwVaVKD0u-2wegmCd6Rjm-_qxP9CEUy5wfBWv_CSL_mifTegXLhkiqXAnfFKPIDREhC42MS_0b6ZlttMWKmvAMtjGhSgIDp-DiKu9fR-kxFACsO2vQWopg",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825278,
+               "lng" : -73.91970000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "18c9ffeb647de380e1cd531b43944193b17e8e3f",
+         "name" : "Food Bazaar Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBhgAAAP89rUUz37zQW-KxyMPegdA3Ktqm-J2T7yZXC724lxrxgjQ48rLjcXTyxY2y5p1OZUvdZi96fHFhFwXUHoEAsIYEU0nwRQMKluRTnDRDvr1RDmH45SmsB4GDBA3n4l5lUX1VHlm7Sq9vrqSiWuZikHsajh4dJ1a2j4dnne9tezvOwWm5iMjrTl8Z0oo1cDSRYRIQJJA_ZkDpPBcpa2x8IP1BmhoUfiVENJ4VAnbnI1RVZC_Vqe1vMDg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgfKTRjP0wokRMrMGJYuCNPI",
+         "rating" : 3.9,
+         "reference" : "CoQBeQAAANoPJofjC8UnrhxB9zoGZGcz-HNr4WZ3PsSmN2NmU9Ytr9-s7cLMD_142M1h5nNdIFVr2KeR5TD_dUxQeCQ3cvjr802vzZFFtH8hUch1wkPshRsnVFhFwuKqq2sVZgoKW6AO-6mbzgA14eI3TCLBLwkrQGCJSW9tIgZ_DHfGgMCFEhCQWYfJSU6CH0pCbmqQRDrkGhS8SRLxuH_UjnKmQGNqLz2wmREMUQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "238 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82445,
+               "lng" : -73.91965
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0a4df930cdfbe894ba38dc235034d5020f32d9ac",
+         "name" : "CVS Pharmacy - Photo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 86,
+               "html_attributions" : [],
+               "photo_reference" : "CnRlAAAAtQ04YNoOh6cawhvpm9BkvNYMt46WeN4H8CAWVtq42qULb1SZtBmSfuCKcf905KlKg27vx1k3_TyQKykRN3bUBfGwkPQL9muaLnsc7dwgiyMQoGIgEKxu7NWL07FiweHBxsgAL5Fj63IEHtBW8mp-sxIQOAu4RrSruTsjQ1wSzw2BxxoU77sSbZnweut3AJyDRpm3nErf3_I",
+               "width" : 87
+            }
+         ],
+         "place_id" : "ChIJM_7HODP0wokRjETNucDp0cM",
+         "reference" : "CoQBdgAAADof2rGcCMoxftsLD40XUXv4xv6hkhGsvPyhAe_emMxxnhdjD3YNlxOp8V3aV0hs8e6wuT-qC2i9zOT_nRNxDiS6CC7bc6fqyYvh1hWe6OCgyCCaokPa_eO8qJ3nSvzhJ7AU62aUh8p_RkavkocstaHdNgcIeiLF-TgNPi9HaX4DEhBMZA8ft85SP66Mbi5y3dLRGhT7XO2B_zZL1L-Bz8VUlBdAWZimWA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "224 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825496,
+               "lng" : -73.916858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4f3e68374352ed1e65391ea8abd27879c0cc0d12",
+         "name" : "Comprehensive Health Care Center",
+         "place_id" : "ChIJnRTttzT0wokRH3aghDpX4kY",
+         "reference" : "CpQBgQAAACDseOT_D9LgShF0sRtJvipTo04JSE4-tOBmZUdGRsMAJYU8ZcmzTPQ1Es0Nf6NvvLWcMYfnfo6eM41Rwr4X0iJsEXjLWfjdn3-nJFL4-Q49RkvpKjAmwwjpfGY7UGcbjEFluSnIiYPrMEDUfdv5gN8n6Oq5SHTWG0REpLuTznoJuoDZrim2ZifrhlnKcKqm2xIQZEDzBGVak0Gvw5CBf34kSBoU3XPeV3C5H8Tq2o4VL0XfGBGYK2I",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824502,
+               "lng" : -73.91990800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "92e9d4301cf2868a90f9fd6d3f43002b9b7e674c",
+         "name" : "RadioShack",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAI52UKNa-Ei4jvRznE9es_ZfB9HKTt6w-dYNAn7U8y7bhOU2f2z5zPthXTtoOgQNjR5ONrgnsvK2ci5yjQSNpVHCo5eKh35NVvZG1YRcIy99K8nMn6cRUt1jBPoE4xVsjdfmCrI3LiLlHh1vHFXLw0BIQUggFoK3VJcBPlF-arTwWLhoU4DBPWxZTs0sZ-RXLuHWtcdhEzzo",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJr28pOTP0wokRfXKdAYPA5sw",
+         "reference" : "CnRsAAAAP1DUUz69HX97y6HUZ2Ti7b0mwcxesdwIR4KvJR0WGhJt5qAA_tqtOjeNq03mTzKwGvhC71Jvq5wQmavx6rEvjW8G2pwqVFGywBVx0REzTetee_212On-Q6f5QqPHM_UdY4dQrT_DdPvLdvgbhiSXIxIQ1d8pngDyLW9m9SAh1vQuPxoUV_-6eDhkD2BGRo7TovF7tY23Dug",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "220 East 161st Street #64, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824781,
+               "lng" : -73.92064000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+         "id" : "ad429abc92379b0369010cd4629592d983c0ce6c",
+         "name" : "Petland Discounts - Concourse Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr28pOTP0wokRZs8VilfSFCA",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CpQBhAAAAA3JAbWcXVB2WdGGo21ZbeU_N5j0xlTV6iA9wqGRX8-sJtwwii9gDe5-wdMG72kqhh2ec1PFbgFpji-LX5h1XRjOSS4ba1N68m69CzSYBulZfD7-FW6df6L0p2_w6RwiuGcl4X2f4Z2ZbXtEm0CtOxLk4wY_pD2O2xc6HCpYGDy918E_AZQICBJ7kyoOn4ZG0xIQzM9eBuXnyc3q7cOYZCa31hoUcjtlSTx1c8jO2sK1bCYcVJDUtjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "pet_store", "store", "establishment" ],
+         "vicinity" : "220 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825231,
+               "lng" : -73.920495
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5855cd0b8c6ca514e21b2d61dcc15e94397f9e01",
+         "name" : "Concourse Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBeAAAAIsfKvH1Ql_eUsvdIJ98iw5ZEptp2BXFTlD6AWYVX37ZXsgCCSy1VFpWx56t1m_GPERjsSPzOhuFXG8UnnpAJy4w_0A5UZ7wW7UqC_-QT8RtEq1wO1hokkbBTPBrzy7QAJwhqEybgdy1OCvJnQAQSljtQkd1zUH3Em28hKRH6b35EhC_ooMuuELJwSCwj63QWlvSGhR13WQFPgskncxuf6S0ZXLI0S28cw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-a8eMzP0wokRN9eFAID2Oag",
+         "rating" : 2.9,
+         "reference" : "CoQBcQAAAF7ze5L0_9gORYBMQqV6uXghjOV6VhYzL6t32jtkPTJKNk9MqrnZhGX3FY5uaxKiej06FZKWz8tNBC6ngpaW7UO0f_VZasJ0TP8nyd4-sX99s4DXTREwRZXFeZ0g_loZ8hFr1HJn6DqqQ16TpTHr4sjGb2zo_wjP8r2-MQE7emqqEhA9wclGasBtYw6uYsl_65oFGhTFfvv6ylCbhmV6Bxcw-k69jJlaVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "establishment" ],
+         "vicinity" : "220 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.826473,
+               "lng" : -73.92049400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f4ae9d442cd5a20f1620069768961cdbc159ac0e",
+         "name" : "Criminal Justice Agency",
+         "place_id" : "ChIJk8aoIjP0wokR_PQ4-mlmCl4",
+         "reference" : "CoQBeAAAADkKUDETbicfFrV4hAjvNfrAR5lT-WC8Kft1Xy5AYvqmzPTzw_MO3NzMmWnvQ3JPHwerSWtm3kbnyo7LYa8AcL_HVdRqZ5xUtgSjE8iq5xd89_tM1QTP8g9025rCCl8rMMJFg6BHAiVCM1ambo_5kNZ-8IAGipLfH-T2zecCU2DQEhBirOUrVRqTy8juhZgW63DkGhTozA0z8pqXqS18GlkWE8_TSiFudQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "health", "establishment" ],
+         "vicinity" : "215 E 161st St # M29, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.824791,
+               "lng" : -73.92057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f5c1817cafd35836d54d550a46fd108f5889ccf",
+         "name" : "Jimmy Jazz",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ83RsOTP0wokRmAb-SXhMDz0",
+         "price_level" : 2,
+         "reference" : "CnRrAAAAkz-R3vwkeI5p9RYX7k9d5gYRyiFSAcEN9dQhy8Ky-BVZB8Lka_AQFgxqHX14fC_sB3v0es3Kb4GfQ8-LiRQ-1xyBm9smqSGnBNtMQEGAOT2rOzLGqHVLN2eBEWxNAIqcEpTNKFHkGCeEqDq6o-Ix1hIQVBMmrXLBzx1OpQuVUtFC3hoUbKZdN19VWDNxmB90bWtPu2EWrcI",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "clothing_store", "store", "establishment" ],
+         "vicinity" : "218 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82565,
+               "lng" : -73.917935
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7a3d93bb40fea3e8011be4ef2780396113245ff2",
+         "name" : "161st Street Pharmacy",
+         "photos" : [
+            {
+               "height" : 359,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CqQBkQAAAK7EUjPLdB5CAJBwMPPTfCDDF-HsH4CE6JJPXpfegwoPzs_e508uC_4dU6o9LgGTpw3MTseTa_sVSi5iEIRR4hVsLd_PIjfCfZ6OQRkaIQ265vj08_Rf6r2zZRm5no3fuj7IwC_f1fuCFmrol_bt_j-SQhNljJgleIyHI_ReJt1EyYulY0oLkRaiox9l2YPITwAdg2Nzryz8uphiCTJTI-sSEIDM0_GLIWIn2By5No6DG-0aFERAmvwU1sx5LWeHdvyhR_7V5Enn",
+               "width" : 468
+            }
+         ],
+         "place_id" : "ChIJFc9ipjT0wokRjYeA9Td02Z4",
+         "rating" : 3.8,
+         "reference" : "CoQBdwAAAIZhwoo37MD76dr-v1k51LIP3qe51Q8WlhRkQ9f5TG_CBQ3lULQ9OroXPEFy58v7izpTbQzcOLlvW-vJJT9y3UqnEw0RVKVoJ-DxHFLqQ15xucRSNnhZLMpX-jQ3Y2X1fmvtqUHAaqfrsLsFDHBEDtmUspgnORRYCWM7DT1iRuV1EhAqqsx2N8dALkv1dLLPB7dLGhRq701KnykURgtWAvSLN9zef5VzbA",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "275 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82554,
+               "lng" : -73.919168
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e5d2d192794ade681a3973813d103c7fce50f483",
+         "name" : "Human Resources Administration",
+         "place_id" : "ChIJh9GjWjP0wokRQdGgdqLjJPw",
+         "reference" : "CoQBgAAAAEppa80qsWc-arGLiKW-QrQWaDF2q--QxY0nE8PnDGFbnXs0_upA4G_uJlC0NTamG6Nr9hDeZplxutsZ7PgU367lrFG-t-sah57o9Oo435Yt8ou0lPa0Lmu-aqKhjtzmEy8b__NdKslKhOh99GgOflxnIKHeW_hsTtUE9G42MjaBEhDGL9WWnvZGZvMsO7BScRGRGhQK4cNJzaGbo23zaAQXj0qzLJdX0g",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "260 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825477,
+               "lng" : -73.916928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e00cb7663287657240e8da30d6e11fc96e1737c1",
+         "name" : "Hmb Pharmacy Management Medcare Rx",
+         "place_id" : "ChIJnRTttzT0wokRQYVrSWC6F8s",
+         "reference" : "CpQBhAAAAPdBFH19yUFtr7Y-v7N3yfQsEeyw6mPNqU9u-ZQniwrVX7TN6G2BKRmR7O959NuwandIrR8fMFmdZxSpHgC1oZgG-iODPuoGj_DiTzwu0Po_i-65CLIAmvqYp3gsvY1EWYFBuyMtc3Vitx3-djPLHjU0IwvHeA1ukYHYx3sv2Ymq0txzpf7HAEHE0BGgU3EsaxIQv5oigtqKQ7P8d7oDzC-PqxoUBXSDdec-SMy1XYfpGdqrO9CYzp4",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825473,
+               "lng" : -73.91887800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4e5e3802d6bad2719124c56fc26a57f99f15055",
+         "name" : "Bronx Food Stamp Office",
+         "place_id" : "ChIJh9GjWjP0wokRwcqxYhNRzCo",
+         "reference" : "CoQBeAAAABjw0Xh0pBsNyp_aaZ0GaWYyaME_5Xib4yviIiqj0hDyLazz3uvrZBi1GzChjCLLgqWC3EotdcxhajfLB8jIwe2U1FuZjt0PHyN3hfvWWQnatW8HjRZTocM7FOkuq6eVMIeWiSXlA2hjumvwDxjYXwGGHIcCsJsZ1h-95sxU1duoEhAg9Fl60MlpiXse2zqruWp2GhRxFCW7KcUmFlEqaEJJuT2bRqaT0A",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "health", "establishment" ],
+         "vicinity" : "260 East 161st Street #8, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.823082,
+               "lng" : -73.91667
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "49ab4cba5546ff0ed8792854f7e3fad367f8d77c",
+         "name" : "811 Family and Friends Garden",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAay700xTYWPLrP44LGNbD11Y4tDjmfdH0-0_0zMPvBLcjyDGEdEktL3n19IMy2tAF9eH5mhxtB-B4MuqwydZaPQtcmz5czvm2kWMYCjmbX-m8po7sTta3nRSq4miu1OX4x6ja-OYJMN1C6DZekgDjihIQE9H_-rT_XECF0gbnvtUUrhoUjrBAnzOdOltFgK0vZl-YMFStp5M",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJfW95E8v1wokR8eo8L1lFJzE",
+         "reference" : "CoQBfgAAAOajBSsyneJAgHztcMI_d_-2az1DF149csrlgVOXtN44S-jcOcihPi-x_7e9aa9gSjJ-B_9gQS-23veZqiOLnTkAvhFVHSf8zDSw4Y3-h1GZOXb9KPCtba-aWc9ikPptmb8HDEMJNJLn8Cvtju0jcV2SKHcIwDQa9Y_J_Vo1D3fxEhCd2ALyAxy1thHIPEMKFWfRGhSqm2CrDn3WTJKtiF-pfi-uG_gQ_g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "East 158th Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825477,
+               "lng" : -73.916928
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a9dff097c69873f9025f920992cf0568f0b63389",
+         "name" : "Albert Einstein-Jack D Weiler: Beil Robert MD",
+         "place_id" : "ChIJnRTttzT0wokRGQx5I8GWSqM",
+         "reference" : "CpQBjwAAAO1H5Yvv3YG9CEnHJiWpMIjFhI3LWzMpu352AhU429R9CiWSGBcNauIhXz5RZYO5oTzjyFWV8o1RzIDX48pHRctjvW3hRbPhUz-vt4T-hsi5MmlLLCeuQYcWrilVhKRHpuYqVP_42EgQ9U3iCMtNwDtLTsOwLvWerIqm3xzq5x1888JyIoW3UnSIB7nWOD728hIQeGLosdrQMb-yfvH8hraBtxoUpElijdlmZam_1M2htPAjHvatgvU",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "establishment" ],
+         "vicinity" : "305 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.825549,
+               "lng" : -73.919044
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4023241b33cc045c9b3c91549c4180c9266aab19",
+         "name" : "Legal Aid Society",
+         "place_id" : "ChIJz1_tYTH0wokR1-F0kwXi71A",
+         "reference" : "CoQBcgAAALD-ZO3msnvCfaYLocBYJqjKjq8oYtBMY5mS-73B0xByqyBTwu9eDTsfdZ9IH9eY4snCvxylfKw4ilCu_1oVleaa6adTAvg6u7p24RBSvHkRBvTpkWiMwWMn9TuuUnAEm11sD_IAhB2xIQyjJpAu3LipyzkzwbOTdeWgH58oYus2EhAF4h_cef5TEyS8SEngk-PXGhS2Ad4SZBfpuRsYg5Qkm_pxpQaMiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lawyer", "establishment" ],
+         "vicinity" : "260 East 161st Street, Bronx"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8250663,
+               "lng" : -73.9109977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8340087,
+                  "lng" : -73.89756199999999
+               },
+               "southwest" : {
+                  "lat" : 40.8204754,
+                  "lng" : -73.9166379
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "afb454c03658a9ced34c55f4910acc3a003ea7e9",
+         "name" : "Morrisania",
+         "place_id" : "ChIJHQQOLEr0wokRxLXs9U77hhQ",
+         "reference" : "CpQBhQAAACpMq6-PdOZXTRmVH85in_EORI3LSOSsThsmhvIwlROXY0YLCZaIKNLXvKX-kRm3ww4cQ3nwvG-QJARfTp7UAs1DHvL2OPXz3zuNBKcUwlLpNEDZGD-7Yh-SSJaefphSpgtuGNpsZtyEhapMEVaDGtlGETMlEmPIPqktrnqAGufwYkN0GCsJ3imhHdCUyMAKnRIQ11f7FV4R_hdQaVzZkE_PvhoUcNYeGJ6a3IlNLChtd3Des1WGrvA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Bronx"
+      }
+   ],
+   "status" : "OK"
+}

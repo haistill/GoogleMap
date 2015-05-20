@@ -1,0 +1,174 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7140519,
+               "lng" : -74.00283639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71776149999999,
+                  "lng" : -73.9982199
+               },
+               "southwest" : {
+                  "lat" : 40.7097756,
+                  "lng" : -74.00873419999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "598e04bb19f69366f316e9ff214554562a14ce60",
+         "name" : "Civic Center",
+         "place_id" : "ChIJEZaa1SNawokRXvMbRrc0HC8",
+         "reference" : "CpQBigAAAOJEKqHUJ61quEND6xp5L1yk2kz3r30n0k2MalLBpR_g6ble24jbiDI21KAM9XUjNo_njSezH7g25bVo8MEaI5avOSlcybRVjH-FW0sxIzuyoEh-YiUsIduq6ARAAhMC-GedeP5XgGFppXOJAFrZklMdOGdEBGRQ95wnoGA7OA5r_5Dj21tBKB4LDL9g3T90LRIQFUFIcSRW4zm_5SoRpMrT_hoUj3QtOziQ2Iqf5stKTbGQBt3Z9_s",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708042,
+               "lng" : -74.00137599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "be58b7e5ec8d3d9dd2f494d65ed10d48a1529d05",
+         "name" : "Best Western Plus Seaport Inn Downtown",
+         "photos" : [
+            {
+               "height" : 138,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZDbSg_QslGBOPdR7Zcm6KQGsBpseENlWPwa6BsqGDjcDLUORl47s7V0kbFzFqtVpppitopdrW5qorOAQQuU3-5CByJ5TB6qSKQOsKHwgSZEvoeT4GKE6eEhU9xTS14SP9rlhbIS_QKa1tlA1YuLTARIQxVfj1Glha4LpNjwtBw7QCRoUgKZbD3sUFzJKsXcq51eD_qdQenU",
+               "width" : 150
+            }
+         ],
+         "place_id" : "ChIJHVAgsjxawokRubPAV8hL_mk",
+         "rating" : 3.9,
+         "reference" : "CpQBhwAAAA58I6-mHu8v9V04KeMxdhKBjJWe3tz1oO1Kb12nJ2QN8BcKI_JQ-B8lVNukYqt6dC1ZietuJQ57jCDTGmO9YRWiJ5p8UXMnjIvCxwiRkH4X4HI6sNkluVGFjwjPFTCuFzPCzt-qjliYfS8CsWksWjA1o-bZbLIwoCVuCkJFco5LWdzutvDQB9_ELUyRvBmakxIQ_Ue78qALQD1iu7B9_kc8YBoUGHTsW0euJsQ2DOWUTU15vu8yulM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "33 Peck Slip, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708084,
+               "lng" : -74.00052700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1a287925c541adb5909ca49c47d8a2bb2991206a",
+         "name" : "COWGIRL Sea-Horse",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWlI0Xbpv30PWDF_QxK1Th8-JuWO4RISaWko7dPLuRfBBWYdcRCF7DyHuMvKLbzUbrLTWagv6DEECCqJFqSw814KW_IapoFnUD7eTnmGXBPhMsNCKXeFUVshmexW7qvr83bouK17YBkJIMmhGMQejMhIQ8rrUzHxgSn5DkHxXXm3f5hoUl0jmYzj8haqbkjTJVJng7Bv-HtQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ24YpVTtawokRsFPSkHjTWoA",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBcwAAAPx9Uz6QLRSoQ0MiYamu00jxKeUOxqbNxmk1yvFFNzjkocSM7Rs3ku8rIx2HV-2J4pXwAxRZqF4KqsvpxL8IsiiswRG79zkQ8V3LFZYdx3B93PXtJJLzsewCd_W8-30XHj6PMzTFDNknDR4iOAexQpuk9HOzQ8Dbg-4sDKILM3BoEhCNqxWsncZJ9zm-nKvy0YrkGhQJFq2oj8YLU0STe8qwB98KpPHaKA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "259 Front Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.708566,
+               "lng" : -74.000912
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "04d8d9e0c914419f5cf9c771d8c56f96a14b110f",
+         "name" : "SamSara New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAYujrg9OYU7J7ddMdsGD-6MB51EXpeeomnR70O5bYz0-80d6seM_vxVMkhyQ3zK7CTIjQgj55NIbn7zFGecTFroCw29SMESXVw1fP96qCr6EG-R01n7pHGALLJYJtd0XQjsX2JYddbRfw8LFNyizrGRIQyhrOmFc_2bPXRofwwIQS6BoUmdXaxHIqZrMQg6pm0tGOc1HUM9Y",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ76tuUSNawokRAJGNpa26hIY",
+         "price_level" : 2,
+         "reference" : "CoQBcgAAAO-V0tP-Ti22B5NPWeJ2xomyLiSccnbr111HY57ArK6sIqfzVl3LfxAMsxOQG2HUDU4zyGjVmnB4i-NVjkUZXCixtI3Rq4fwj0y7bYsmjRdKASf2KCaMQzpfma_yXnhn6W8VhzqRiV0vuL--3wiDbGWzKJik2oyxpmD69SB0hHWxEhC4UUmuQ_24DZZYCTfY3tb2GhT0XZs7YgyQxXiE5zlknz-dWj6ERw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "277 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.707554,
+               "lng" : -74.000968
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b6df021ddb3eaed7f0c79521b3bd0a5654318d75",
+         "name" : "South Street",
+         "place_id" : "ChIJe9MTuRVawokRrw7eUgopRbc",
+         "reference" : "CnRuAAAASQfap1JClBDWCnO7PIE1eVUA90moJ_enRsa-ndgVGaiREBwp8hlelNB5UUiESyWejgiEY0-h22Hm5Y917U1aHrXeJ02wZgprYxGu2uiA6xkB62wdcHNHL7TWU1YFs_5VwJfpp_fx1RW3TIdrkPgloxIQ9XoxuAmf8dkxcc2ipSCIeBoUGXHAURl_Z_g-Zwdu1VwKF-IrbmY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "South Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70877,
+               "lng" : -74.00117400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+         "id" : "28fb70e54910938cb865baf594e4927355e7a72f",
+         "name" : "High Water Sound",
+         "place_id" : "ChIJ7Y0HUSNawokRey9pPXfbrLA",
+         "reference" : "CoQBcgAAAJzzbgTuypPf-QT0sqF1EGN2Xl7htRs3dCLtRV8HcwaxYZOJh3CEAr11VWw7LEWBRqUZrQ6WC5HGgnj1retaVkDyAhqdbhQgH-81FYmT7_FVcibrKd45oVJkfot9QNZxz-fJsTIPp_PrMLhyD9jDHzyawjJvYcuzHDb0aItJnueHEhB8bFFS3O2J4tPpYI3AnM8jGhRXT5cyY4ebx0NuADg1l3dw3gvvvg",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "establishment" ],
+         "vicinity" : "274 Water Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7107469,
+               "lng" : -73.99696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7144925,
+                  "lng" : -73.98410079999999
+               },
+               "southwest" : {
+                  "lat" : 40.70808419999999,
+                  "lng" : -74.001267
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "98be31e6d239d73c6c8058d6d396d80e7e204402",
+         "name" : "Two Bridges",
+         "place_id" : "ChIJMclyuSVawokRggahRiEtKkM",
+         "reference" : "CpQBiQAAAOBKcfpNc33gvcTYv_Vn_hmk1q9eHDOwKuqMMHESllTUvj1oo_GWzfcuWvYYE8GeXiCaTyn1vBfJ9SsPs0IUqPHPpxOt2vN0k89IFmhUhXj1-dfZ48GW7Piv30dvcx-bV2PmJuNmP6cCW3tXeTdkMtf04d3KmolM-zDS3-yqiAZWt90BEfeZdeCzvH0pkLOXARIQPvb4f3KsxyhKuzZaUsKAABoU64783Z41pe2oRR2uQ9OLodcW9Po",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

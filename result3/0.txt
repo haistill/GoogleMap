@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8259597,
+               "lng" : -73.9496079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.834443,
+                  "lng" : -73.9413373
+               },
+               "southwest" : {
+                  "lat" : 40.81718,
+                  "lng" : -73.95876109999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "17efbb47a7d21d202e561a44126cc8175c0af5d8",
+         "name" : "Hamilton Heights",
+         "place_id" : "ChIJ1fhWT2T2wokRnDaTycpbF1Y",
+         "reference" : "CpQBjwAAANB5BfLb7pFz7Ok6r8Dy4ZCVOir1m6Ka912D3w9HxMHVOFyLObuV8oa3sQcGpBHdfzlahlUQ5LJdKdfK50pY4w53QV7miVg751BHxSqxWd-G_Tvqke6_-zWpERR_FmHZE66eo8jvO95WPfb_R7G_8onF1FRYdv12Nljj0bx9cN0Dr4xdcsTHDAMCRlLKoZK1YRIQ3ZQT2UZ2m9pxhZjxuIOSkhoUzds5HRkz2LQyltFUbSqz3os4Irw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8417082,
+               "lng" : -73.9393554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8595902,
+                  "lng" : -73.9224529
+               },
+               "southwest" : {
+                  "lat" : 40.8281291,
+                  "lng" : -73.9505678
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e30d86dac324190bdb532fa02192a66c8f309138",
+         "name" : "Washington Heights",
+         "place_id" : "ChIJyzs3Vpz2wokRBAVKClFzdR4",
+         "reference" : "CqQBkgAAAI-i25kDi56TOlSmSB4k_K_PMUWs5OKaDqQc43AMU1aDFxjYQbGExK4cDPIbbziAMVYvINCZ5S_wjBjSfExdXQz3Yg1P-06etKQLy337YlCtgSCrAnXM2RAOxzksnNcK9jEwG9EGzNXGzBznUTcK1Q5IPpjgykZZhcOtw1pUHLvLVN8a4HH9CyMKNLM6Di-nQte1Zjg4OwsF_kIbM7oWQzgSEEIAKaUjXrgPhNtxq1_LIFQaFIqIXr-klFnsKpt0zSX6DiPirHBj",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,527 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAGu46qhw04Lvqg_rHNAfwRrhCmCGrovVHaFhhVspiRFPxpnIvlABzC3XAp-5ifNvjDbczhGbZ6BbjFXNC6mkOXChm65riZjdklVu3Um3gPIts6MTXU9dIX3q2_kD0pa0FdMqxWiLhaQ-OQNHqLkt6FL5CJUyQeyHc4t3tGk07oYAzBMTMsaHOrMwhSRCQC6wSBUjbEeOcgRO7JCvt_Z07ocUnhVo1mN6VO6dO2oYXGGM7jcOfECVRZGgiB_PLEQG7Wc_kJ2P2a1sTgCjc31GRnCz_0j6sa_c5Uq37ce-w1nSxFppffnlSCddBQHrZGxfdhIQt7-mTprBK6BPyjACRNqCuRoUqLadAateB8QaKLAMhqJvqEee1c4",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7149056,
+               "lng" : -73.98924699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7155504,
+                  "lng" : -73.9880873
+               },
+               "southwest" : {
+                  "lat" : 40.7141426,
+                  "lng" : -73.9902288
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fe13d5efdd18eb2e9703b75062955690c817eeaa",
+         "name" : "Seward Park",
+         "place_id" : "ChIJgYVCiSlawokRDDyA2Tq9wkM",
+         "reference" : "CoQBdgAAALA0lJyoPgOHzcLVyTey0Htq99iZ_s864A6aK8e5IwVMR_vYVOKHZ4b8iMYmKASxNvX7kZ12GSwl2JdUP5EbzG0HyDqcsWKmcJeJdCYn2E0xHCls3GLyAc1q8cptqK3UiYuXXINcN-oIBd2PFUwuDQV3w2loFdMIEUvso1wd44gPEhCFnDd-mDgFFnVDKYvGiLHIGhQ9DYrCryYw73VlPJ3RuyyNWHKV5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7157509,
+               "lng" : -73.9970307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71936549999999,
+                  "lng" : -73.9897026
+               },
+               "southwest" : {
+                  "lat" : 40.7127979,
+                  "lng" : -74.0040592
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "164d427670301e16d72050d74603bcb1a3e65257",
+         "name" : "Chinatown",
+         "place_id" : "ChIJDcEvbPVZwokRETEfzXATns8",
+         "reference" : "CpQBhwAAAMsazqcAKeXG2zO06AFUiJHxSFMSguIAW0vwtFJR81LrDUfqa5rIhQJCw0UaQNDOQcSVGW5sh9LoCFjC2RqjGH5IZCHLfDuUiachzpXcH7CuckB798lr_-ZulZfMHbLtKLIiSjG9M8H5FhsbAmraWLAy6POtpZKklrruHJrbWBDiliW6bvjzT_QUYK5EOrGiuxIQilzzXXuO9kz0Wi2hWbmKQxoUGTbSTGfFJEPtz_Ga76NMAlz_5Y8",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714027,
+               "lng" : -73.99190400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a03265646b15af2c92b895f2e0e591115b99f686",
+         "name" : "US Post Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRazS_yhawokRx9tAi3xuJ6k",
+         "rating" : 2.1,
+         "reference" : "CnRwAAAA7sCJC0___g6ipKlF_rLBmFRjXlKh6jOYGYwqPP7d2OZOBrdkFq10W0c7L3FeWDzYWLt8gV7NKWgVj4509GVY9EmzqVvRtht01TStcsIAadvdWgpbC6B3Ky427Qh02D_-MDKTIJsUcjW50idmd-i2ahIQD_mcYrW7tLmgdHoCOeG3TBoUS1P-pbZI5PbY-B-qygqmIIpKxmc",
+         "scope" : "GOOGLE",
+         "types" : [ "post_office", "finance", "establishment" ],
+         "vicinity" : "128 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716249,
+               "lng" : -73.99391799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "831779937e46b8ae40f6c9dbe849ff8b0106c4e0",
+         "name" : "PACE High School",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA6JfMjp0TtrSSDEVHkAziEfX2uRwDZfljFJX9p8XcQSr1xAPm_B7ye-WQkTt2fLoRdJg3UFufGyZhU9W3tmuIFDdj2msZwZtninbLoTM8auaQ2s4_cS7xOV07jEiy-ZAU5gbiVhSFdCd6YvbaVjfE8hIQBXmTulhYgBPDCgAbC9OxoBoUWwGoJAp7AXdkoQG6lPG1cJwxg9M",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJ3y4WGihawokRUd6vrYhPZCo",
+         "reference" : "CoQBcQAAAPyE8WWfR0vFwbLLzVwu4BpI2dH4FvdOD5AZldbDf7ghwXrSV_9VcYXuqequkJJm-eWqQTEHYoTvvGMCFpXsGAl6UUv91Vf6AHvsmLJ6so95ZQ_i4R7YLEPCShL00DelcSPROKWhsIO4gYjRbXwNQXgq0xDVOd0rVzPX5Q8vye-vEhANCmaudIEHuw-QMmzhI7JlGhTJchFD-diSURCSmuCL1f6tguHZWQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "100 Hester Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71474,
+               "lng" : -73.993556
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "eadc98c462ddd02efab76c58cc930f0024af738c",
+         "name" : "Museum at Eldridge Street",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAq7NQ4CUZ5wPr07wJgli7gShqhAvb328ZDEmJvFgZyu2ISLXytpB6oh4oBM3q-HllczFv77nEnvjbaBGk7lYlhkSGrbLFVcUG3O6Yoraoy1YyrbISSH7mfu2GQCfB9O86xu4hD6T7W1newqQW8adCDRIQLD3VYK7wu3F8k7wU460grRoUz1GCPopzw9Qfy6g_ai1EGLr6ZjM",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJORNWYChawokR3nt2Jj4ha-s",
+         "rating" : 4.3,
+         "reference" : "CoQBewAAAE1knxGCekUr9KRfvZWS7-_1_gzeG9C5E5P4rcMhgjyrS3XD_qMXP_vx0kdRskFE4wXhygZaLFJnYENM-OOBe_iV8M6-vqkjp1czpcXmyx0-sms5KsBQSkhoP0n96n6RHkmgcz11y1Yw-J1lAbRbxyud7MZo9mJAGczdHr1LhoYuEhAJD8Krfs5efy2Gomz00w8JGhR1zgJ2q4ibO03KS7uUWezUgd15RQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "establishment" ],
+         "vicinity" : "12 Eldridge Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716525,
+               "lng" : -73.99000700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "d906366ab970829ec63ea165b186eb02bbe54e99",
+         "name" : "Klaus Von Nichtssagend Gallery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA10lKZFLXp4VnIPmIzuw2M4uYDoNOOmPABaNy1VPUlIuY9q5kdoeaqrZGb-Iyc4vHL9_nLPbWrFq2RHne3Jc5BfY6wwpPxRK_B5c5WZ9Drp3AEiGPuTwmOI8diFHsXO0XhaBr1D-gVP4vUGnVzWYiHBIQSKuDurW8oj3boOOchm8-fBoUoAYHipkhcumpvBtGFWZPnpYn0xE",
+               "width" : 403
+            }
+         ],
+         "place_id" : "ChIJsRbO4SlawokR1Z2t_PntpEE",
+         "reference" : "CoQBfwAAAB39jPXfyyL6uN4O5f01Lizbr1QjKeQrmjnR0B7u9sRcdG_QKw_ASqTdE2ykTKmnXSkFW1W1E84BhnBejn-aaBSsBUlSd8pPJeIKI3Yt685pNwRWp_w0cElq3ibzH4GNwkT2nGFE77ZEhBZltY5dJJinCBLlqWhiIG03XWY83EjlEhCmk11CG7F6lugc_yidKvDvGhQ6cRYuSwpz0yASd5xO1ZYzULxq3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "54 Ludlow Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71375,
+               "lng" : -73.991288
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "331def243d91e7f7bd8d4f9e78c3460413ca2e18",
+         "name" : "Mesivtha Tifereth Jerusalem",
+         "place_id" : "ChIJldHnBSlawokRRxZ_5QzX7Wo",
+         "reference" : "CoQBfAAAAE7yL0hNJ8llsDoyloKvlI3DD8kUsqORvdKhZSXbo7LX_7NlmXhpOy_5cJjN64F9bKHs4KdhV2WMlprXS2eMnE7mzCRD_TWrGSh9aA2EvqsWuD4ZQ3q2zuRJ1rBwf7mV9QsyADOdHvE9xF_CdXKFDFDMT9VCbYxMRilyA3SDKcOWEhA5l4J6mVZ_CRpQu9hjq9ZcGhT3f-RDQKzPPkMHcOKid6L_WtFGpA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "145 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715001,
+               "lng" : -73.99161100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d5728776c2d6829ff2244eafee381ef805844b3c",
+         "name" : "Silkstone",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 668,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdwAAADCBSEqd-1bWuor_ZqDuebIjVjcMiDB45PlT23KP9Qjpr7CernvMCjWNY34jCK1RCU5JS6JoH09P2cswgSyxkNJO2q7PR-rQ2YZUP9de0IYvzyRrQnE223ObYSoQwFdZ8bu6c_fSwjDZgN-WIah0tduQYCMetbSNJOk8N-_wHA8XEhDQbf_ln992oQ3sdy6dluwaGhR-zp5o03RGZfRGSWyGqZxcxRdGLA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJk6qdTChawokR5ChJI4uG48w",
+         "rating" : 4.3,
+         "reference" : "CnRrAAAAXwNuWRrb0BAtCedAV9Ho7TOjiRB0N0-FHgD9EKrW2vnN3tkZMjUwWsgY3H1fU85uUkFTqyEcDCUV4h6m5QExXqVw9TPDH6thmL2Ix4nYNADjGp3LgGI6NdVzo4Ny4-uvpZqkPZkxIFUTCgdfFGNkORIQmdRuRHROU3JGiiF-O502MxoU2AmHiG-KaPVIrFsRaENXikktUdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "17 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715272,
+               "lng" : -73.99011
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a327c3f1b0b1fa4595ce076ba56ac7750519d0cb",
+         "name" : "Frank's Chop Shop",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 404,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAKeNLseLuw0uORHYU_-VW3XjY6_GCb2Tk7EW7sT4e4CTxYSikCKoAAYJYuY9XnPulx7TcFB7e0JYaox_aP0MtfgfrwxgoFQrA_sCZ3-ow8OCs9sRo0_JWRPxuzK425q8NmgwQDsBhkquGjfGC3WN4WBIQPFnoIBqI-iD7oHKVBrpTiBoUtL-cfQ5zUu2oMOYgDplJSiQ4AsU",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJT5O2lClawokRZq23p3BN52c",
+         "rating" : 4.7,
+         "reference" : "CoQBcgAAADFlWZC1SjS2utaYnmSScl7QIGjUFrdpBFxYLgiUJd3rA3IBKlSnURxdT4eUzix3ZH3qqNssFzw-Axug1UXWs7IWkiDmHgUaY7hFL4TWa987qt4nBLcDqpewVeEc5JPcypY8uvxoJGkLvSiRpCag682IF16nGT4zIDyU-HLjeYFnEhB7pU0hWYKyQWIe9NF8Y-H7GhQBOiZmugZ3_J168DXlLau-4zGFmg",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "hair_care", "establishment" ],
+         "vicinity" : "19 Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715888,
+               "lng" : -73.992858
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a84b91cd8df76b6e3fde001ff06cba97154efc2f",
+         "name" : "Prosperity Dumpling",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAWOFeeoyTOInMH6Cr9XyvwdC820NUBkAnKUGU01mBEZZgUA5y-cq_HJ-oBYreMBqokGTKGE9GgS6-RioLNuVf2RKxdFeBPxejXwVV8W9EZNLBiGT9j8U69iXKGBWkbvAaoSuu6L1zDpuVbT98qTWOcxIQGXZ1L5jLt8lhyxpP3KeeNhoUYtNEhuFpaYnHak1LfkC-rQ8-QG4",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJcUzfPihawokRcpSeJhpHc0s",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CoQBdAAAAGqfTACH7-7eBpBV2AVJJQED8WwT9EX7nGHToyhgkhhnuhdCPdroHCCfCilFdlJE9d4FnX3LxvPl4R9wPPop67rUbnJMHewEx7gQODZERJHpoBmf4E7bguY5xWIb355e6qnMQTCdMPGfHyxDPwSJTzjj9x1ClnGBKwIPLaruTEWjEhBvKi6eF_Yj4JOKcJEJ2NIgGhQl4A1kzRpyXBD9mmLDZTmKxWYqBA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "46 Eldridge Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714753,
+               "lng" : -73.99306
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ebf7354f4b5fef995561bbced6e3ccc5a5d138c9",
+         "name" : "Howard Johnson Manhattan Soho",
+         "photos" : [
+            {
+               "height" : 257,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAApJ4_YScFW0XPLXaLsvzfKgSSXcbbETVP17KZuDQRKgzdGQs7lo25WkyzoQjycF4hEosNUJqa-6UjGs3KiYmi101nIWfnQGlB0VNJQ0bz8C_UWhKRTOZi6NGQ0iDNgIz4CC-wFBplImA66-MKnA3nORIQwowQcmlj9B2V_PF0sX5MNxoUacGGKD3pVyZywmxKQR7LhwM-M2g",
+               "width" : 338
+            }
+         ],
+         "place_id" : "ChIJKy0hWShawokRKSNsQTmguhY",
+         "rating" : 3.9,
+         "reference" : "CoQBfgAAAGPf2qsb_bjvu-4hctsYnybcCZgyOWoqLkrdwdm-Yyio6MOaEWCg7Vz0MB5J-BJJm95GB_oRz3p4-5PSwlNSDqB_V743YBBQRPT6UO5DB-SZwtSUX5IUpkfkUvXEm2hdxmzG0y2K6B3RI-0iLayYSUItTQhaOsP-edm9DuDKTBzREhAukfbF3Thtar6v6irqHNvwGhSURMoomNWJz7ndXiIIxj29WuhOmw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "5 Allen Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714108,
+               "lng" : -73.99382199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3ad4884ff08e1ff8754960cf8e91f6ea4d4a1a1e",
+         "name" : "Mayor Hotel",
+         "photos" : [
+            {
+               "height" : 1199,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2pbCtyfWJSk5JtgP77i744xHSWASlg81Yt6gxmnEWvvxTXxz9JUgdnXQo28lafUMzJ7-fvBl_12JtBHOi_uFDC1klRlp6dyaN-_mQwZAM02RGjRVUfLTkg0Jsv3_Prlyxkn_6Qy7k2TKWXU7Q9CafxIQfr9ee6CnvVcXH8e21icTFRoUtqu7WueIs50GkDvVH9dPWBH-0EQ",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJw2JajihawokRn7PkGt0sSDU",
+         "rating" : 3.2,
+         "reference" : "CnRsAAAAtEPDnnihtNZRRO4rhTFVQsAdAdWqgWV8TYidkSnSG3LzyvdV1YHloMZRaUNkl518US_CcVtynm8swxdhGAxaXVwwCZIs1ayEtL-BmMJ27hExO7VfkoJxwO-mk3zoHGlVSVZeMj-lgtyXzcaSDcnWGxIQFGxdTGb-QM7ONQABTvSRrhoUWg5Pltl3j9foyBpYxTzpgmKuUxs",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "79 Division Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714523,
+               "lng" : -73.99154
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "3ee8f70fab474b963c67b68b49f6ca36670972d1",
+         "name" : "Bacaro",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRkAAAAab--0eFIV_JITXXg-C5eHJfOSMDNvZS2qaGpmQ2IN4qD4K_d8r2UK0_Ecj8miNGSx9MIxFFFXcf0ZeWRElsSbV06De86LoCVPxgUoQjYaIXCxr0Oc4Qtg0TrcE52k6PEfPhhyVqR__baAYpe5iEo6RIQXSJUCJQWabuzEgAiDX1wmhoUu0DtNJvE4yCEF3txaNwQtKSnvFM",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ1bOSqylawokRw1zMPdY1HLg",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRoAAAApRBVhjgRQtSue3iYngA3lFx5Etcxyt1lqjNgpCxhjHN_NlrhJ9jDcECa-feqYej6V1aTUPfsZbJWOv2tSZ8KzijeCWWLXs38r4tWhp6gbZsV0bB6y7-xuBTpD4w3kHPWY6kDhB_7RKlZPj6l06o1jxIQnCl-e_lGfb5WWama5gRgFhoU7DUNx6ySWdvjGFUan1iQ8giI1G0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "136 Division Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714938,
+               "lng" : -73.991648
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "ae142cbea0d84d80a7fedccb34bac8854725f5dc",
+         "name" : "The Leadbelly Oysters & Liquor",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 787,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBfgAAAOzcdz-tTmLau68MRTVcu4IPkvNTDxOEf5gig34v6Xp8yUB4KaDaBxvwYjxNkxtX5DoeNv0YyDX3_-G3rSZw--PZCFiYapub1Oc6Ed2whF-T4jM_jCijYNAJtHQNGO4KrJ7SWsvjd-mGx9GH5GPbYzS9hfqlYSqN2pao3zu1jWZaEhAFVYFiCM6GxlAnGOP1NSURGhRkWzvNUhJN15Uw1EzWPp8S7UEpvA",
+               "width" : 789
+            }
+         ],
+         "place_id" : "ChIJ5T2ntSlawokRZpwIhBG3oxM",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBfwAAACW7dejOZc837uQdF8exGNOnJlYaYjIDQg4GisUN_FX0MsEohh3etxdSvNPYV0AZDL1CvPVYU-8ANtxQz0M_6T50qW8WJ_3Hk6BuLMDZOx91uCLdy5SMHoIXnXawgjseYXb4iz-eFM8qDCGpmIJ-uHVTOcyJ7U5KfeiJ9GRPQfkTEhBXX1wvZ8laa5PNV1WO_x2QGhRyMAyqdw-TCVleltM_yIDHAf7vyA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "14 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.714546,
+               "lng" : -73.993914
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b6b66ba472be43a0f0eabfb597eb61856fe93382",
+         "name" : "Eldridge Street Employment",
+         "place_id" : "ChIJy1l1iChawokRo8COG0rRwic",
+         "reference" : "CoQBewAAAKnylCosuLZzdy6WSlWhiJFKyj3g1bRLkKZElpNfXfoKNRm-f8AL8cpcRY34o_lGt5EeO6TAgNHU6nbIho0hdiEhgleuwlApudvtmQj8oMp1U7J3m4bJJ3P1hxToeZQYRboUdz5qEhUYyGCRbI4UbvBbWnygfTBqpATHCkPAiBTfEhC_mdz9Yd7dnQO7nspFTlBLGhTmjQuufshboZa7gKx1jxIUAkpnKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "5 Eldridge Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.713913,
+               "lng" : -73.99420600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "33149e5545dda5a5c1cc097d700ea6c63277317e",
+         "name" : "88 Palace",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJr9wZmihawokRiP8PE3BQ7Rk",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRqAAAA-1KehhGwfwTjXp0KFn2RejK6BDmig0rHJzeXewdIoB65CPsXvNcAFmp5iQarM8LbFeJS60nbv2fyTS3xg5GZdEe2TWZu1tvo2-YogO7Vso27BR5G4hMyvBny36av7IGpRkfHvSgb1RRmKYTe5zALuhIQpta7DPK9E8aOkOSwXQHEfhoUBLxkRDSR5sx4qlhjM41FXY2Dysg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "88 East Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715744,
+               "lng" : -73.99168299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5f045c0caa1bd0224acdaf45e4eb56f483ad7452",
+         "name" : "Cheeky Sandwiches",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZ-aLnyNOFuL7zIVhjI5QsHF4FZ1vp5PUxI37mdUnsOsiM8CFSdWRQCSPLZ8cH50S2jucn9DWKr8pSibDUzHkhWbT4_Gze5ZD2PmQmwRkCykGPasujPR3Taoq6P4VcWFat8nW0wVDpsG-Rs-beh7M3BIQFAs2KNb-6NwJZQaY30WAQRoU_WK_y7oo6vD6iiAK1l6Y3QEu71Y",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJCUBtyylawokRxSQdG7CLg4g",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CoQBcwAAANv_rJCd8g14REW-RSfisgX9hx-y0c13QBKQ1PJ8zTosY0tcaEeWjBUBR3vTFaw1P8MLwELFbrWRwjB54RmNwQLm0OrkfmhE0WpnQ4Nd0oNOvDwevJur3Ven-oaJSCzzxXp1iaymWEd1mF4rQRR7FoBy5-C5yzd5xclZHZ0GmvB5EhDgxSVQPKhDt34knfR7l_0BGhSfrRCPU04quugiIu28MimMmJl3_g",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "35 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71668,
+               "lng" : -73.99109
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/art_gallery-71.png",
+         "id" : "a819e738770d116dc85fb1159b5a2659c679b835",
+         "name" : "McKenzie Fine Art Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA2pGnqiVI49r4R6qtldYItl_7p0NXUR9p4PX1kHWWqPCO3dzZnHwfCsm7-pYxblM5d3dW-gxMWax379VE7iK8BKA4wo0PiRFjTMwj2YET7iYGgBegopAJoy35aYL8ZDuW8dJQtdZk1i650n9krH5ztBIQ2pUJyiLGPwFdQmBygkzq5hoU8SViwFiLzstzkL_k-Eij0BiNyS8",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ4brFmLdZwokR9NBn8KWLZL4",
+         "reference" : "CoQBdwAAADu0EwWujdRoBNT0jsybQnu29C9ubQaPEeoIAVHZyuWkhLCjBEGS184P2elWa_FFiAGG0dufuCxSqoN9ppqkDG_YgxDoyoJjCRfQtYkOKueovupcREtQoLymnTTeehwGBnqPmHNFlEfKN-Q5cb0l0kXdE1aoCmwm_T25G9c6yJ7cEhAPbN6Nj7EX-uhyH4rES92vGhT72XrLItOaiObOc8GtpL1g937z0Q",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "establishment" ],
+         "vicinity" : "55 Orchard Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.715143,
+               "lng" : -73.990145
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "840f43f994c55db4c3fcdac68857d2d29ac5d492",
+         "name" : "Café Grumpy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAZuiCajFBNInanXDTwfiyNCxBlh3P6Q6N7ZfBMGgvfJDW6IJQODUtugmgG4SyiSYjWWO6PH2_IE4m56Mptnn2bf3GUE7q0kPiA82MihOhboPZE8gNY6ONTZqaKpqAWVFpmaaxKjMC98tTL9Ufwjh30hIQUAOlvTcGrp0pZbAAeviNhhoUn7Y2awkLIbWVfvdkZ21n5dIz5Rw",
+               "width" : 1505
+            }
+         ],
+         "place_id" : "ChIJka6YlSlawokRMhN3aYCZWG0",
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "CnRtAAAA3jBvH_xClSCJdHmlp_Mmmbw2K8cSLZcXT81-RtgTxdSvX7gM6L845uWtN4PoSqNOcBut3ygJu__DJFRkSAhVt_mUn42CWRikCDGUnXs0xE73qflOz2EIVgKsF2ZqWKM33V2IQO-mL50AB0FGIElVAhIQhzbaq5D4EUSWEapzlWdVMhoUjd96WGAeaJicKq3H3oGDxaWDZJQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "food", "establishment" ],
+         "vicinity" : "13 Essex Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.725257,
+               "lng" : -73.9903489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7276219,
+                  "lng" : -73.9872062
+               },
+               "southwest" : {
+                  "lat" : 40.7162989,
+                  "lng" : -73.99544379999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "2e6ea09dbac02f470a1265b704694415ffba8f68",
+         "name" : "Bowery",
+         "place_id" : "ChIJzUX2LoRZwokR-vdL77UahyY",
+         "reference" : "CpQBhAAAAEJXk44A6E3iWeY6myg8H_uyyeuJwyEXt-GYTV64tgU7aIUSwlDNhVAYL5xhrOWSeQlmdvspipS6ClfbVVncFuY3Jg_vzX_JNPhwjU___Yq748m9HadAMaGHsJBjxHdDxGOxpuYZgeJ8B1u8xiPxa_hju3fQi7Qrq6M8oiqUJZFLrwkHvCe1X9eQYFHzNMq0fxIQJYgsSR5cMKEt2CbiTYG-iBoUrSj0i6PfoMSgk9QxA5ZyxyYpMoU",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

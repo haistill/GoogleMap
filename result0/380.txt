@@ -1,0 +1,576 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAK-IHuqfm0GAZxskKqc9WKnuOuBw0osvT_8UJYKoyR7KBjina4rbbNRza3SvD19h_P2xlBknX6kN1b66UdttX0kcoMALrLxIngil0GFdX6v2FdWIfjsuQLf11TlVYxtI7ZKX2M1loDr-nBJUB8jXChLnFBF2z67dZK6zKEBLFtfZr4zi80Q0G5lMouU3ZoUMogFbfGlQ99qGBMrwU6UFuDEsoVZtdLAxx8v57HKmF8asMFVV-oXSYjw86qZrjyKvEZ8qAwWQdLCIBJiiv7JkTc-ktau0igVL-EphyoahdmdaHfny4HEipJf1TcFH0mfFkhIQcrbNoH9e_eF66nXbTzv8_xoUkKuT7Bowcvoc-14TmwrXyWlungg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7162692,
+               "lng" : -74.0086323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7259498,
+                  "lng" : -74.0018893
+               },
+               "southwest" : {
+                  "lat" : 40.7113379,
+                  "lng" : -74.01376329999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "ee80b36568d70679aabf48b26662ec0a10b5c210",
+         "name" : "Tribeca",
+         "place_id" : "ChIJFaeLkx9awokRmCS-Bi9hU0U",
+         "reference" : "CpQBhQAAAMkxVyPJNwk8MO5DX1Q9_d5hCav_1Kcg_rMz3RxVGc-8xrkX-COUJ2NtzWRFnN6owwMsMPlTN9nDDpKtd-E4wN8GJ6bx1G79Q4yhagqxkrtESleahNqw8dpui0c9zoRzVwZByYQKvtCdrUZC_VeGmowGnjHNUehwQjC07WBfNvsI2sXUuYBFlnEq9gOsB4bngxIQxCEuD2gkFdAp0g3c5VFnFhoUXphlgTcPGf7JbYkXhq-qxMAZopc",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719603,
+               "lng" : -74.010035
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "e86e2dd69e2574de78abaf67592b3f6c7211d8c5",
+         "name" : "Tribeca Grill",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 666,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA_vyIOlpEoEVDzjV7q96bC7kQ1BkHEG-dV6pWndHEsDHRID_SetdWAM6-2u6T47Vp08EJQMT2BYFMqOHMyxDnms7sOBknqwOD3CTcLccSSNrvylHuojefCcIPk468elGinlY-ie947t5YVkMDaPcy4hIQUp-n7ag3q7zYssPb8naMnhoUFYHmqIUeYJ4cI_eg7WddiGAfVOM",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJRzzoh_VZwokRdXF0AL5vPvA",
+         "rating" : 4,
+         "reference" : "CnRvAAAAeob3fZJYG91V36oOdSb6xBn956pbjLV5AcfETiCiqjYWWj5KnoK7Xmt2LW7jlK1fs_3CgoMU8smB64VSd29HqnQPavZ70myRObYZDAD86zqh-DkOeDyy8YCtzi1cAZwIudo1Duhqcv7pB8nczABmfxIQtLasprfxueEBgJ4pBUe9mhoUi-dxBQM3eBPpxg33qpsV4DmFbEc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "375 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718013,
+               "lng" : -74.00703300000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "1d260b7f942a4e8ae2e00865566838e08abb1c61",
+         "name" : "New York Law School",
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAJRg9beAYCKQbf6ytlyAS9uh9ELVbrWNEJ2P8NRKLPwtinmg0QM-S2QJl8t0NYpb54gk419Rl_ED-DJtKocanD93EXmA57liaAO-4onHArkI6mvXWr_weqIjmp-8g7MJINu1ZQDMaouqM_sutawFk1xIQoxUntiUN43zcDKxo2mF-RxoU4YFPcVkC5yTnbzdpaQ8KNySdeK8",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJDR5l8R9awokR5C4cSpyYITg",
+         "rating" : 4.2,
+         "reference" : "CoQBdAAAAHuvZD3vNiQ6X5jcyjgMQiiLOollqlbHiT_Jl3ABsxVc5zxHvYIE66DWrGz3AZ4qSnynjc36EY1rc3zjNeg0JlyRpusbD4hIbP0S5spstCrwmGru1yQkBSZvZ8T7ZoG4AhyTzJNOQd8nm6Kei1o3q0VS0HgPl3I0fR3iJ3xDHoJFEhAyaQZw2aBoyPCftAfyY0wbGhSfjmVb8vSuFiEakDzUMLSEDEsgIg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "university", "establishment" ],
+         "vicinity" : "185 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716993,
+               "lng" : -74.00890800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "be3c977c03d8c4f54b3c30f6bd8ca02a483cd4a0",
+         "name" : "Bouley",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAPvDbGfwWXEA4dKqIWO-q6StUcTf53CKDMyccOeJkq5CmCmsGW8n6Xu6McTqDRU6yoKrNF8QGtjyN4OFPOFKKmUxnNLxnFNwHRWNh1TTJsS3x5PfA-KgMmph2-9TWaFVpyiKykLIqiNWOUpE0lp332-m9BWil5KMBAyjF_Tct_qiEhDQG1fsKxMTBEHnHP0HcTQ4GhTBWw9hZIZpair0tXD4VCh5t5rBZQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJC0SVqR9awokRjAPTlk8pUb0",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CnRoAAAAkIA17ZLyK58vWMYl8e_NFnVgGUwxp80rxFUr4Rl7BcXcaiTAFBz5pFs_jKFJu-d1vBe7ViCBWLp71K05fidGDdQ1fsLddlIBTazzRz4Mc6CZg90imPgKX9PffA0rKQexehNmvlglCZMmzO7dm_NEthIQglnSxg6u34Pg4piH3skr2xoU1712GWzVhxvm40pC8S6XN-S2kn0",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "163 Duane Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71718,
+               "lng" : -74.00935800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "41704fcbf3deffe622421b122b212ba25c87a4b7",
+         "name" : "Duane Park",
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAFFNNUf73F2iH2nf3T8B5KDLI989BJDISBrVQKoKBkNW2Hq25x33ch9oGg8NpKKz3IXnwy9ADPmzbRUAcJ-gAG99If03q0IE1TF-p-33D1C8x_JLhbrSErIl-OBQ2C3dnQrFVsS3xHODQy-1_7G-npxIQxtHRzKvrBnpj_mUOW-CM0RoUochM-xLdT2VhaNG1XOc8sCVctz4",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJyyVUUx5awokR8hYrIfrOwhU",
+         "price_level" : 2,
+         "reference" : "CnRrAAAAsFOy0AJPilmTNfNMdgdXuu50bJEqmjwDRttbVWHBNKdlCwa6OW-CykbfDmYSk7JINhEp2vPW31eCoHYf8M_3zeurzk4iDji_bPnOZMHvWS_t_vg8ivQqt-U1Pi19ULUZrX-nxRNO1JlUzht_q9GeXRIQqmf1iNN7swI5kh8xr9Jj5RoUBRDa527VeXg9XAxmBpbd5YpJ6q4",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Duane Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719822,
+               "lng" : -74.009861
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3ae7039187ac28da6f5194816002c84472efc8d1",
+         "name" : "The Greenwich Hotel",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAANL4ViGgwxv--9KMNQ_dg_Wign1ZFEZXMC8a7kdKpv1Hvdr_IbtWKy4nbRmB2zHq_RCbcUMLiv6RbxoLkAI7ZwAL5su3_8Qjq_6xnqoxOFdnFgAbLHjjsTnuGNYiApNIvRYcuqx-5En0lwW6oY1LIORIQrRxJ4gejo6eJoa22Jo8ErRoUY4PS1jZL3_W0BCFmi-AqMYijUk4",
+               "width" : 532
+            }
+         ],
+         "place_id" : "ChIJTWkuhfVZwokRvaommqZ2oqA",
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "CoQBdQAAAEyzk3XHumqsuiLvfjtya4ezQ4MB0EzU3xVVWe1TAWNSuy4wSND2GUvqF7qUGyjp7ccjNhUqjK6AgjgzG4uxFU1bUmnET5s02j3DH8kdE3qX4sb9OAxmTh5xVyR6VrPoqfuVYzZ0DPJM-k6o_HctuzNuIkwKQtOKrdr3pP4uI-02EhAaCSS62A4XmpTzPRzXBmtOGhS8XSFXvFUrziPyx-f65-NOJWVYqw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "spa", "establishment" ],
+         "vicinity" : "377 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719821,
+               "lng" : -74.008307
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01041ebe9f8a419fe60e06b40e9c67dc0e107c9a",
+         "name" : "Bubby's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 672,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA4U97Td1KpZPWblUQXhvSYcq_E0IL8Ekqa55fEHkJEeUy8KJbP4AxJUsSqjybLNf5KZzYoVJp1q-ORBtpTceFk42kGhDMJlwWR7dvSaWtjvh7d5Fhf__3anKXDZRA0ElGjpE8BlB2Clnh8oyEqHJYmxIQ6tyrnv_l1bIOqgpxLPt1bRoUJ8piOtYTFW8xvqtoOxze3VHM3T4",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJETquaPVZwokRVYYGSKrg4E0",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CnRoAAAABWbmARpWVHG8bJvFwkiS5d8KvU5CmIJClBiHPZGq0NuL7AoDatJ9Hwz2FIUDZH5YvuFTJDVSv7p8TjxbBxTEWkVhHdbWiPb4YXknN9QRM8ZLVIDA5hILAVkNxwdjqnbmv9Y7KZBlbKl3t4JUHslCwBIQsbonEgsXM6eKduA4EqiFexoUnVlo_Ph_a5h7Y_GK1ovViCVRP4s",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "120 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719565,
+               "lng" : -74.008876
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "1c73fbc6e0510f3f474174b2f5558364ad34156f",
+         "name" : "Nobu New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 847,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAwabWiPBe0bXwM_z94GnK4Yp4MjLs2D7rIE6Q3gl7Nu-Q4nQYAC3_VhF9_Nuh_ULHwnrhnEsV9Qs2rJwTUrNeocbRpUwx3woCqRJzh9E2UfvOcuFglWuPe_c3l9-iP6dz7pl8qyJUufJaPUq_mphdcRIQP0mIGZaVF0otoAORFlM8HxoUrV9Qs22quewujyJczfqwqhAu9WU",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJnf4NfPVZwokRjbvMDa0kOCA",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CnRuAAAAP7R1U_YKlvL2FPkjZWfPUZJX1Oyhfb2Ea2HwSmTMr738MvjrkiJ8FQgmvvXMVialMKsdmIc2zzd95P2UGlWzT3M9RcaULrR8Ui88yBkB81xKs9oAySO6LuquAvdSq0vDvz-hUJoLkw98LInOVC3MYhIQ7v-ZPyk6B6HKJSx-LYW5xRoU_Necjz6DyxnxVrVE6kCBFNW7UO8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "105 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716813,
+               "lng" : -74.009381
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "44f25e15c74ddf968a4bb88c6bbf0118f6d34e80",
+         "name" : "Ninja New York",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBfwAAAKnQRPRBAS5eZiioKtuyhIMDMXgoN67VFr458oqb-pJDy33ObP1ZJNNxKUsc40OJHcwWyNh4OEIShTiN5S5q6DzRXnwketKuLc6CXd57fmDsOvn4x6WCRk0RcykiHjHRBrSvGJIlOsxUB5hetxKWLEdqPj10vycQvwsxpiidqkVrEhBKKIs2667i8SPXMW25Y1TVGhSHpsuzGKpksZHhUdzEyRmG7pgdyA",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJs1fnqh9awokRNdlwT_9hPwo",
+         "price_level" : 3,
+         "rating" : 3.5,
+         "reference" : "CnRvAAAAp0pD1c8vHekzI_Pucm7ln7UImqeXofgCTkYxPZQ_EfoFgyfCDW2YINZg-hEC6H5qgI-eq_F4uS_1JYgspBQHUU8H9nVBA6f9SDMVsuo9kCcw5ako0vfYspWbgGHZpXO5PkxqjmIf9kUsZH0-XuVMuhIQzpTufWxAIV8t7y4UuZ96DhoUJ3gcuTT1oP7kjI2qwUVUJ0htemc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "25 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719923,
+               "lng" : -74.009923
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "bac989afd4db983b0b44c817d56938a4f2cb7c1c",
+         "name" : "Locanda Verde",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAALofimL7Or3ZuFJkVSFd5u2WB1A1y8bGoQ78jWUTk9a0lOyN6Sn-5BlRQOicG5389IJeukU9PMALPuHtD-mGgrJafFgSfisPDq-NdgaV8JAkpa0qqi1xqO7mLE_He2RuS5g0db7Ec08TF8fTOYpnah3_4_HOKK1fiLSOc_dHyx23EhCzEMtMMAtFVcLtJFFf5wh3GhS4Nf8kRr_PV8BHFc3BD_UIRdKZow",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJTWkuhfVZwokRS_go-fdp7Vs",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CnRuAAAANYsRMR2DOGEVMPFDfR7zIcSj23BNu6SgfBQ9RfoD7Ni0VvBSH7x1jLw7soYlFf35xFJ6C16W4qU0916sGR44GC-zKzQVrdkv1XfKExpk2-snEU2nEnjuksFSkb4TvizzrouppsA49bWFv0hkm_H7UhIQMyWzCR3xa32j6MFZIyz2QhoUM1wdkx23IXp3lXLi3AFE9LaDBZM",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "377 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717491,
+               "lng" : -74.00933000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "c56153ed1537b1f1887a3473f225d82f3851614e",
+         "name" : "Scalini Fedeli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1232,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdgAAAHMdOJ0F7fpNtKfZebNWjhNy9BKi-t7k-QujyIozYRX8THnX1LB2acGVDJW3Ene2-Pdnx6UyOsRpZU2b-GynNH3Z6Np-Az2PyYciL0oJBeGeL5y87lK7b-y827pOFENkmSVBHsYrj0bTNJw2fu6OK3DId_OnTsNtNwdVM3nnxWwOEhAuRAmrJ390FwFDMW6_KCCqGhRaiFfpFHfLXQcFJ5t0jEOe1gRPQg",
+               "width" : 1821
+            }
+         ],
+         "place_id" : "ChIJRY0QrR9awokRtnCdmU4ijlM",
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "CnRvAAAAlaSoAYidCUE2qYCGBdlONI27MtdE6OZPzfVAKWhCaEuyy9_e0SJdNSSqoPFtBdwtvHGSdmITsnLDv-eOFxjx-slEhJ8zsXgIfhmak6_sQy8tnTboCaq77sDsyXdgUUGO_RTacwQ_4Z-057PQeDoFcBIQ1xI0QBzQkhd8TD3gn5s0fhoUnt76EvyKiQERXTS0bKq60Cv7TXg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "165 Duane Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718306,
+               "lng" : -74.01024700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "24bfa70d94c0bcac27bc395ba44232d7d3af09a2",
+         "name" : "Sarabeth's Tribeca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 200,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAXvaa0SrJUv6fBYS4YYqJW8zEbf50ZYbDn5XicDDXtUa4o9wBrViyqsnsZl9BQBSiHTPaIt9QgXYyc8HxM_MW9UNhwUp-Cwcaim3h8CLlWaho6I3zuNYmCVQ2M9yAHJ8xtFLZY7aqUELR4NB69gJcLRIQmYsSJEx6Szw0IqVqJnGfjRoUHQ5qWdlxcFLhkR7zVuGEHSBSxx0",
+               "width" : 200
+            }
+         ],
+         "place_id" : "ChIJe21LOB5awokRgMpVdEWo9Z0",
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "CoQBdAAAAMT-QttsoI9HUV2NUO85QThRJHQaGfgwnxlHf80HlA_dqTNA54AkeCR6OVkOqegUCXXe0oSL_IQK0tWVn9AG1sJORjhIm1YTRNFOdd4y1mDQGjU2RtR5B9RbyajrNz1NyfjmbKx_P_hX1hugV7yW-A66kizID9Hht37aTzbwu8X7EhCVWy_WIdggOdVNoGJMHBpAGhTtqd_Ux1h4x04Y_-vefRlYVZ9-qQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "339 Greenwich Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720002,
+               "lng" : -74.00711200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fbf1d784d43f7b0737d110cbba557fba2ca4be0f",
+         "name" : "Brandy Library",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAqiRH4Drv5Zl5m2TeQXDzq2m3jIVJaw82ik_0uB1CFHyUwJTIhPeiAEjPBa0fae75ScJj4Fnzu1cqpOHnl56VWa4Cmr1h_Tmq37jQvpWCc-3tOQz4bcliUHdWzYoLl5XbKCelTXu9qA6nfIG3Qm92yhIQ4YzphzuMxsmuCu1Uutjy7xoURs7SfTFGilKHN0SK_LbMuNfW9tQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJk7o2RPVZwokRYnzP1CplFKk",
+         "price_level" : 4,
+         "rating" : 4,
+         "reference" : "CnRwAAAAbSBLbXMjiqLpJSyq8KWuqcnImLaivicQNSIw0m9iILVDjAwNPYXGauin2xIT25Dj395FCdIJd_KDJt9kHkC3KHN3d8xRrkLQGMW2v0M0bAqrhJNRHd7pDBzRNSLsmaA1QtEo25a1ya9i6Ep20V9hUBIQgYZi2v7a_HCPNpdsQiNJSxoUyh9e0CRXmWTI3gqZ8pQQRNch4pE",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "25 North Moore Street #1, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.716979,
+               "lng" : -74.007834
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "241963f0b54c339a1ed2cf20792e06b49e8abbdc",
+         "name" : "The Odeon",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfA4WkqXKfO1EZzHobwbK3eoyjwqs7Iv8Kw2dukifGLSZqPg6UuoPriI3M40jxgFogMiQ20MzQB00yr9F1D2oM8dfm1gmtWSoVdMe0v936l1LpI1d_TXjO5Qenrp9wAPw-D3C2RMflc8-JWywSVjl2hIQM3l5jhhNI6i1xl_jAyFXJhoUdKfEqzlsvVmtF6toEdeU1dXOsZ8",
+               "width" : 548
+            }
+         ],
+         "place_id" : "ChIJS-u0mB9awokRZ7H0sa9Oy-U",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRrAAAABHY7WCi-DX1ug54MMzFNbLXQCsx3FsOG5YG1oLm-D4BlRAEA_WucSGU1LkGeW6Op132hGrdBxoE8ITa5hRmkilW49iMkE8s_Hi5ADnWsY8kOFhedl6TaAd0rpRObrd5lAA4psjlIGPOO_shlIowvzhIQd9istO0tPSIyK6wuVISCNhoUMVBRTCJtsV_Xd-e92aXwaJRARuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "145 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719107,
+               "lng" : -74.00902600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "613c4148caa50265530eec853a2ef146c37c6b82",
+         "name" : "Tamarind Tribeca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRtAAAAaNkJhrlipTLTBC_93qsoYpJp3KG1kUoe6dj_9hpZMuQbctQCIXg_4rkLiM3GupRHIAa-2ehxqjCNJ-6tAx_PnGgCz7YGP6zQm-xLaGYWcXjDJhHnafbaL79CLEx6C7lL8E4y-FxM5q9jC6mvjukWSRIQCBj53Gqug7XE0evpGlRnmxoUV8AforWJbCeDS7tkQ90DLN8nS0M",
+               "width" : 285
+            }
+         ],
+         "place_id" : "ChIJ6Vva1h9awokRXw_JSQ_x6y4",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CoQBcQAAAMS9jR2eLK2yY8LsLd8Iumg8HSiUNqFwO74vEfT6rC5ORaW_5xo2ogwJ1bYeYET7t5UjAfYa5-m9XzA1Rbl2iccM_Qak0EXYtmBFkly7W7A0Z4UF6xanUnUh688dAu7Wc6OxSGPnNx7iLDvqWraKZsz361mYn48eoSCvrRMHE88lEhBv9Vd4W5yw9DSt6PMgtmlIGhR2S99J5gkMMdKjBs3XHDxIVOOWug",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "99 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.717903,
+               "lng" : -74.007041
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "35487e17a6dac2c03b7003fd0e6ece1d89e66897",
+         "name" : "Landmarc [Tribeca]",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1S5E8h9awokRFUj0me7-Hhw",
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "CoQBcwAAADvDrXKS3dO88FtBfo7acqDQXr8_lHDgadhKavKxWyXqV1JDOJQN8pnUzjFrXGdmUfknCMuPTdeGfQ47LvCQD_V4879KGKCQfdeuyXSt8YcZ21cPktclqruLQa9cn5DNPMPICiZDzn6U9XGNWBhHuiIUgOpmGi81pL01cFY7Uq2yEhAkdTF5PudxyMXOyM-FsueTGhQgRDvzSEvPzBQ6DmZRObYs1_MSIA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "179 West Broadway, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.718916,
+               "lng" : -74.00997599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "df91397a1fe6ecfb562191b38d4cc628b4ff9bf3",
+         "name" : "Terroir Tribeca",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAd2nuHs-DVo-hFp1MtWf2Z4uTTTUGoXfFbgbdg6Tavs8PlsNBEa65gO0rzkSSkughv-UiXGsJiSM0uM_yyleFYmuH6rzZ6VmXT9lniz54CsfaW3yo3JlEmcUqYsCzsgRHI1pdDpj2oD-PgTHgIzXuchIQhxBAR9Ob7-vBqMa4p-H8CxoUhqsj5svrz4c0cWJqlihi0eEOVbM",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ1Z3-Oh5awokR6ReR4JZHAfA",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBcQAAAKPO_Zf9OF85nEaONGDTv6php21TKwP06iSjRIqtBpyUMfvRFT8KQPFSGL0pQiMHGv8WIEVGTm4iRlWmYG7T-kQm_qUjWLPeRZndMf1Ca78DzVrMC21w_AJnQtfrxTjnnxluWCXpc30MLTBFSl66MvdGeZO6Jg_ImRoPb0mrcIvMEhBYPHXa-dA6THTSUE8JlCEpGhQ5UEyBPMzZ1STmZKVk8cjUcRE7OA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "24 Harrison Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719436,
+               "lng" : -74.00888
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "9963c8316d40f0286153bfd96f77e0f83b61e9e0",
+         "name" : "Nobu Next Door",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAAUW-f_tJD3WT1XD8olelILM0ir_bMjhITwnSe3DjNKcsrIXVaXG2iyFWZ8Efx1WV73t6jwUMjDaHrV_iLYefRrOMHJwsJJyTW09OE0x5P01o9SNQO6VgHzHVn9ZvOmG1aG3ma9Wu500sZpgCKXX36RIQidw0bf_7SRJXJIATVO4rkhoU6cywcpeDoo1qjwdTkiLxtKhzkD4",
+               "width" : 1366
+            }
+         ],
+         "place_id" : "ChIJnf4NfPVZwokRhOE0RzSMM1M",
+         "price_level" : 4,
+         "rating" : 4.3,
+         "reference" : "CnRvAAAA-im2x3KvE-yLtWgKZ3H4Dcli4PEuQLbIbMg4i3sK4-kPVFR52mJYX1md-X1oCyMMdyQXQgNrJ60GY7uogTsX_0zAmrlcacrTZgQgw63ZRPM1foQ3w5En_mEJjtn6B7S8O25wtAcePWd1RTStzmxGHRIQUaMR3LWvXLVmAKTnT-TxXRoUc80sC18FTm4zva60eDJc9fj9WsU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "105 Hudson Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720167,
+               "lng" : -74.009941
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "39e385ee7d880cc94dfac81080152916b3a97e13",
+         "name" : "Smith & Mills",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABwHOR6GOjSIWcuEsrundxBDxbAOzy8kQRJD5KLBC_PnkILyXA7jwy8q3MIbvw4_iYVrz8Imu8nIq6MgzPPJzV1602gkQCvEHY8YxYqxKiYec3tf5XgHbaNnUgD9z1UroB_-k29ZKLZ1NNDuFFHK-txIQ86OoouVrdv-W0z4UOUY6QxoUX2TEZCUqDKPoG3EPmvQKXYZc0YA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ562enPVZwokRBluY5MDJjQI",
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAR_jkMG-DAFbXls3KtvpvRizTL5iHsdqNlOy-waubdJerwFlKEIwiamgWJxHEbobILnvCqdKgxETF9dHA4CMW6gkAFLSv113Rfkhwi-47fWlaDuyZi1iEuP2WyORZypNtHm3fNZYlx6UbeEOfA9mSHRIQyXpcZq2xw8UAAjr7WYpuLxoUDb41iT91nuB0pLrp7iMDW9qz840",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "71 North Moore Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7230084,
+               "lng" : -74.00063279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7425263,
+                  "lng" : -73.97164459999999
+               },
+               "southwest" : {
+                  "lat" : 40.7004631,
+                  "lng" : -74.01933500000001
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3783567e2334fb526cb27e59f31b77d5ad8bead8",
+         "name" : "Lower Manhattan",
+         "place_id" : "ChIJi4MZVIhZwokRPNvWbi-c0wI",
+         "reference" : "CpQBjQAAAEZyPa5g_lX7J1CJDfNghZNaUKdI1LJSW3rCip8oZuMsn8kk5NWCtNj3ZxtJrwCOfcvgJRs8hGwr8FljFBVXa9JFLsumaQbgj1xlAbFQq3P8NqCgg81hNpNgDHso2_aX49MsQtSBNEy60m8JhO7KzfXWgZPeY_gaP3GJBtyUEOfkQxAZVe-twN-1bbD6JY18RxIQJNo7Sh-n3dFjp_lrg9o1jhoU-WaHJwRcuN5M3yOx05U-Gth5ymw",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

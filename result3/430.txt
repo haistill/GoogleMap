@@ -1,0 +1,421 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAD0Wu-7xTzGd20k4lkDVUdnWJ1QPlF5T2RixxxFlWwLKYNCFrv2blHfS9ogiBfIfUX-SLJ__MGPYlp3WTVLo6PaO1popy2xYGfqCLRgYRTYAx3zdmAvo6AraTSlLaI4tjh3tIPWfMomlGQ4Xfo6Zx_KuhdeM2EmJWsmMVMFTqCHjdFC27dbsYr5ECkiAtyrrG1nlNY89WgmW2V--QorXjgybROMz73ZJiNH0OVhi1JnnyCF7hB1AyulIXqYy0sNGsK5LHX2HrIchgIFJEX4WX5WP07V3sfQoi9oSoSo-A_eeSFDcpdvDeZqI2OyIQ_aX7hIQsSx2ao-6H7j9TjCeHojOthoUJB1nJYOuM0TGTQZtk55S-HLDUHY",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8677145,
+               "lng" : -73.9212019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.877591,
+                  "lng" : -73.9104948
+               },
+               "southwest" : {
+                  "lat" : 40.8557032,
+                  "lng" : -73.932667
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a0b5d93daa18eed40568c69701619f7dd72c0b6c",
+         "name" : "Inwood",
+         "place_id" : "ChIJd6eiHvfzwokRHALd9SLBP0c",
+         "reference" : "CpQBhAAAAIFl7TcVtz47E_HAWn7q_NxuOZz1G5av8IxA5FOIVU6qW6buddbYeMQNNUb3RNC5_XCbJ74m6mUt008p7gnatdsUMgR1RsoqCM3kUF4CUuOyqU1NloEBA7PMLKDvS4wSrUS72mBNh571BToJenmheULCW8jhTwVMsjSGm4PHcQ8dsuh2NIkQ7arctEIsudWpxhIQwQY90Uk1JRW5Jb_C9b6g8xoUvBLv_3exW-kve1bPoVOnXAWjqfM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862698,
+               "lng" : -73.918072
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ddb44158b66536f694d76d35c4403db3374d5d21",
+         "name" : "Manhattan Christian Academy",
+         "place_id" : "ChIJn9HeJgr0wokR_UYSmW1CMSs",
+         "reference" : "CoQBfAAAAKtuuadx3kab2nVEy32qCvoXBSunsp8t1VnAuC9Q9WhSXqEcC-kduugBTO6YSdFr3htVAZv_U8kxiuCcOhalNWcJpAhvyRN8SYZY-WjSTMx-2_Y8RDPRhcSO-v77t1Kanb9xMT472XRSc3F7T-LxLEZXO7r5Bk9cM2nkHzA2rsh6EhBicLb3vRgvdJRx85I-MA1BGhQpUmUQIhf8daP6m8_YNeYB-wRIQA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "401 West 205th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862053,
+               "lng" : -73.917987
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51412425f21bf7f78e40b7b9b5b3f49c48f738ad",
+         "name" : "Compare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ08THKwr0wokRTX0HrN8hNQQ",
+         "reference" : "CoQBdAAAAGf4A6Vzng-xmp4wwm4dtVItQSd7HFqytK55UgVwrwni3alcV-nK8vNnqAgA9LHJW8J1Mscq5bKgPBTOVBGOvhuTkbuSxkrxJtfeMbBl0rndApMRE2zL7YxCX77jk_LNkBFMfsOTTRuazVsEuipMIsoYI61hIH1czRrKMcGjUHq-EhCd7RD5k32epamYdzyUeneZGhROzYLGgQmbEjPbxj6sWaekHObNVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "3815 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862761,
+               "lng" : -73.91821
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "b3b4d099a6b54ecd9131977dd86969c537c88e57",
+         "name" : "Manhattan Bible Church",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAPTDnEADj5plw0gwtmfZb5wIzPZhH4RsS3qd8XPHccmAucjsg7EadAm__ARKHrz-TW496aw8tjFBrKT1Y613Kcqx20XG4oq-UVGntyT5r53EgbNPfuN-RgUtFLxp9tS7bsd2NRd_r-83jdKiXkRLymBIQQCSUqk43aaJKVn8ZaMD5choUXMEXBBpY3wMYdJOL0t7jPljs1so",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJn9HeJgr0wokRJygP6rvK4ns",
+         "reference" : "CoQBdwAAABGjYC5SvUTltESWwPtMNBRgur0VL4AAKgGgMegKkumFI_3AkqeE2wzoAW8RgvtQZFHggxORCTzYvjGpQxXW-k5SV2wNaIZgk6E0cHpYuZXqI_vXUAjka3DBW_4eQM8sJdQjZLZ3V37kVJfLii93UaxUdw1mC1r284Fu0w6LLnhYEhATEBwyO-6ikm-V_P8NWHTVGhSKl3gtElQRU2h5Zbh9c13Rkzp2LA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "401 West 205th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861204,
+               "lng" : -73.92065700000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "418a80391278f5fd1aa1ffb6ec70ff34807e94f7",
+         "name" : "Patacon Pisao",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLxQhFgn0wokR5DjeAD5Fdao",
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "CnRvAAAA6tqy7rrznjmEYO-177_NQsxQKRAVqXEGeB8_-7_MyOgEWw2bsGkCxgYS62C2QptTXfkB-6yfeyfX-g72F4rEDcfej2gWNwWhLpqJOjTSgPu_MFLEOP3vJ4RccxkFGENQ92JKouOZE8vRW8zyfBMlZBIQE134rd_x0BxmDvXEGBL5ARoUGQuaOU4Vs2fpttKaW55yKgmtBCA",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "431 West 202nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86138,
+               "lng" : -73.919972
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d75ca0ef58368b5f866922826c00d4e8d7c68586",
+         "name" : "Vacca Grill & Lounge",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 530,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA6AuARlWuQkIf9gFmdWWCeak2KOzZMOHc8_QgvSoM_n4U_fhDhnGDCrhS7x4aupBcaULprOokVoTOd2msBDGifEMo7VSj4furocUA7-rYAjF6khh6YfbrlxcNpj-2wmj5BJpd2OThQ6HAxmsLGiJuuxIQbon5N-wtpsrjYEuuTKnUrRoU6K4SkJzrqb2MkIJL0pMfONQi1dM",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJie-7bwn0wokRrE7ahaXqZpk",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CoQBdgAAAP5EtIsDgYvNqEbHYqV47H44zEZ1QHWQB1rgk5GhZxP2ITgf6-hpY4LrZBydXdJYzd4iw9dXZPXA0Imp5WEGTMgeRd54p3YN-40CZwPt-06FGR8nDjEqOE92Q0EtXN7xSg3mC0wSnFJ1Q2luNwsZ0KXBAprItAVBQC3xCV8GYYpGEhCPKbTdIp7pZg6G7hvwhxF7GhRiH5k-C-vVJtPc88P73ozt810vaA",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "416 West 203rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862376,
+               "lng" : -73.920089
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d99a64aeb4e3e4ca0f0bc5825efa3f3efc4e8c4a",
+         "name" : "Miguel's Auto Glass",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJk01opgn0wokRwJBPwejdxz8",
+         "rating" : 5,
+         "reference" : "CoQBdAAAAKXSuc09izlKU9oJZlNNishV5WL-XjNKWIberE-0wwStaS3KSru_nodlc1Ach3Brj7ees-5NmlsZl_byAMFe0qyMBe4rvIma85UIj7n2kZDnvbJ3awuHIWZFBS3N1eCME8R1NzYX1HR0VYjMaWId1RNqY822ekoPG9XOPF2AgQDhEhBepvTQsw6Q07xqX--LDJYsGhTJ0lQE08I2juG0iTA_rvVuh5AEKg",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "3809 10th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860996,
+               "lng" : -73.920934
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7267ee991bb04611f4a0160ff330432e14514588",
+         "name" : "202 Umbrella Inc",
+         "place_id" : "ChIJOUaJPQn0wokRMRr3s6hB4DQ",
+         "rating" : 3.7,
+         "reference" : "CoQBcQAAAIudwBW94JUPcTfq-q49qE1v4ZU3VfV0SffORaIbhPH3vj01ungSJm8DA-t5ot7UIFdnpUPoZQqc2mZ4O1JNJKQ-twSB32Y4Vo_lGfxtm1THgAP6oy_-97iprdkzA8V1kO-nzaFxhHKYgQeeoFNH2teA_WfCyivGe6mlVfgorLOKEhDNE89B9ridAWpoVjIs1rhBGhRihaA4FL7TuWchC6ttIx08FH4gOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "establishment" ],
+         "vicinity" : "3769 10th Avenue #440, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863294,
+               "lng" : -73.917061
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1248c3ee1e69cb44cf9bd85978fd2fbe7bb4a1c9",
+         "name" : "Flair Beverages Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdQAAAItAZ7Ftn4316rEeA8SWrHGKyL3jprRE06RVmxP3tdmjW8gpeNTsJHjzgAARIQzD1CvcKoGDTtmX6gJIgBleIuIALYGQzdQcI2h6TSE-BuYYAVOaLsR5V4z8B4q8MoSWyZH4LKazup96LytJjUVZt33B8R9pRSCPUW5O1uIcNiIfEhALNNSa94GYSXTnFn5Ui6ETGhSlsosAHOAs26MaGtfJD6GzIAElNQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ8T-RDQr0wokRQiK4jo3oLnc",
+         "rating" : 4.4,
+         "reference" : "CoQBdAAAAH4t65uDoc3V06Xz5qAThvbjD3QW68BtNb6RsmxDE2vc6AgetE2NYSzfuX1chQlwD6yXrMmGWgp1wYo7Ghl0D8W5xcNXXBYJSmS3rt6Fqv_ctrq5hPdWJvOgS_FzrUe03_2bzONsq10M6sUymy2QILshzB3yaMXawiG3wt6VKgGJEhAEni76dIUL11u8oYpvGSurGhSphiw7iUG5qbWOv5gUlTpm2lPC-A",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3857 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860996,
+               "lng" : -73.920117
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "f20d403bda29af0742d59372cf0f5d95f75a6eaf",
+         "name" : "Opus Lounge",
+         "place_id" : "ChIJY1nCFQn0wokRIzWNf4i2ksk",
+         "rating" : 3.8,
+         "reference" : "CnRtAAAAX1oj-26TNWj12vLkz0C5i1JUikAWhThe8JTC7ycj0dhpV3g8NDZqK9H0PP-9WUwWYzFS_zRy3WtVh_EBVSd1l7IAPUyZI8QSNb_eL4jxyI7ATPU3OVxxzzrrgivHF023wkVoVlp5O1T3ov8tLQE48BIQh57RJ7E7rUtXEgAeVAjxRxoUTUKpgu8mVC9hlX5W_5pA6EBMowM",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "417 West 202nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863166,
+               "lng" : -73.92035199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "2fbd314fa2d93afafd9e595a7320e80b492330d9",
+         "name" : "BP",
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAJ9ya19OXn3Wo8Y4oDODv-698AXH0gKfQ8FI7GT9wRc7t_obQymatyXgwJgbaIeLu_8763y7Ucr6hA6WMBc86VqR9ULMs8lSAsrvWMSskeeNft3ILMYKHn-XiUCHUBT8IsHyZxmWgJhP6MJqh2nnKixIQAqqiuf7LxFZdz6oTCrFN_BoU2CvotuKsszrb7vKl71mLJFU33tM",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJwYc7LXX0wokR4rox954bUnY",
+         "reference" : "CnRjAAAAU5ogQjtWFUpc1HPU3dQj2g3c0UWDFLzXkJcaD03tyNtJJwxqRLpwCieEVFd5tLl1jSOzGiftIk1DDn_vrNa6CjhDYZ7YPxtDN1-jHJ0lsjBenKf1o4hxKM0QzZuKb3guu7IPaKkK8dDumyN0PC8bzhIQs5nVet4Ad97MOUxFUa7cRRoUMTIyo9DQD-tiE43QwXXGbOu4KE8",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "car_repair", "finance", "gas_station", "establishment" ],
+         "vicinity" : "265 Nagle Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.860933,
+               "lng" : -73.918252
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8f5f6f89f81443286950c4a3ecbbda2f3221ae4e",
+         "name" : "Sherman Creek",
+         "place_id" : "ChIJ08vWxAv0wokREqExeU4zZ-g",
+         "reference" : "CnRvAAAATomH13cWKTBP6ulTbFZLSQKmGzRMa14NmFU7aTlxr5_Ue5-RaVhoOmHqnyYBd9gXiTQjNnUzY28zMYaUKiAc-vDmOJQok39auVsBPkALvQ3BBivpdGhi2uAnTGAURBgu6gAlk5pE5ylTVDivNiSJOBIQ3okbOojatH66e1z2WS0sGBoUnpC5RRfZM2mjhPNq7ckMHVWxcOk",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "West 203rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862889,
+               "lng" : -73.91970600000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "572afa7c1d304acfb9f53c379220665f165c91dd",
+         "name" : "St Jude's Roman Catholic Church",
+         "place_id" : "ChIJzz4nnwn0wokRsHTiK97pngc",
+         "reference" : "CoQBgAAAAMPf74hMhZTRjHErNITldQt1LCko1EEEmlOuGjP12GrqqChUPiqdhlTRiHCIx3bNtVRfmz6_9L4SJ0j_ho8FPAqmF4DoVLn9nVEVPgJ_EDS6PG8hJEoVTs1AxSVwX5fMmIDCi5R7zLy7mwrMyvnqmsd8gLSpA6bDRFDr0-Fit3U-EhAi7e6P3RQAL2xhhTY7ezv_GhRGBckgASuLU8bpTu3xBUgWHsumLA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "431 West 204th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862612,
+               "lng" : -73.917613
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ed7c34ec3288bb26dc239e798aed25170fe13ddf",
+         "name" : "Lebron Restaurant Equipment & Supply Inc",
+         "place_id" : "ChIJUcSEJAr0wokRL3QoKqrY2a4",
+         "reference" : "CpQBigAAAC-qgVVdTw8KcCqIlSjkG4OORFkosP7YPBxdpSeeJJte1f0OzUff-QQCryOqhR8sT3zdvRbgclT-1rocy07RZhz_2SPdnJyHuiBx7KLlWGfXl3CMX_p4pz_2PGvrxR7hSgnOAoW2yj50ZoOOq6SqqRPZV-mPZtEmdHS5Gi9qvvR62H2yVDuE4WGPsnt5L-tPDhIQXG1W_iUXR9M3L1601GUfdhoUhz4i227yJoFx6dk1PxN6VL42QGM",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3835 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.862234,
+               "lng" : -73.918308
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "684b1460c3b85cddcf1cc252c0fe670fe602c9fe",
+         "name" : "Love Kitchen Inc",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAM23TKK7dPJs6KY8JV0W-usBPKqnWF1e6RWYhz5b1-_R1nPjWgXK6Kj1Fh5067yXzcWfsm0yrFaKa5UvUBFcritqfblZdR6cTwaLZeoYNVTo_dyK54-hlToeedOdPdM_yzNz5dv6Y1YnsyMInVvXofRIQ_Ctr-LjEArMmOO7Y4r3syRoUJsVecVflI6BugYklWd87fdQpY8I",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJN9HUgAn0wokRmAq53Y54rEM",
+         "reference" : "CoQBcQAAAM6HQmXHlJYVSv8tkO2DAqrqn6Fx4D_JXH6QrQ3knce-1M3zTc5GGGA2qZI4IzmdBXGGx7bWJjN_ruYRNfDuzLh_9UtU6EjTXNLK0-5YSl2_pzItX1nuMRhF1-_HRUEMofXTZa4rt42Epeli3jLy078kKA0WfOAvGw4p76LY-1b5EhBFnV8JfyKGG6TCaV1IwmQpGhRYfJmDeMpXKBEOWf-iZjs8KWMt5g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "general_contractor",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "3816 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.861485,
+               "lng" : -73.91987899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3488ab2490f529947a31b6060da440395725ea9d",
+         "name" : "Bear Auto Repair Corporation",
+         "place_id" : "ChIJx_Wubwn0wokRZz7bP2S9Hjs",
+         "reference" : "CoQBfQAAADumGiQjoMA22BbhCVcswh12DV5ZrhwVruA2JligLGNj0Ce2ySOO24T5RZQj_vHfWxYRKMb-eKwglG27WPu3VWXE6rR73j09LJjRd_-ieV57GCcrW_1uPCtL5rUL_VCFoax-EzbZpGJwK6LDFpjPFxw6lIA8MOHhmN8Eg65ScGcYEhCBYXXzzKH8e0OEqM8Epb1JGhS7uf9DvoKFupM5YWYA9DglTsULgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "416 West 203rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863435,
+               "lng" : -73.917108
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5a664b6693ed538939af0d8fdef2457d56d33af4",
+         "name" : "207th Street Sign",
+         "place_id" : "ChIJ8T-RDQr0wokRSrOltRwWDWw",
+         "reference" : "CoQBcgAAAPUr-noTgIMqOaQHKWUF42BRgob77tE8TR2vI1yJKee6zNE0sqZNeVpmkOG5BSNaHHq_9SrPXNTnDesG9lEretyoh8vySSuy_VDQM2hS9Zp9ePWPPQYUJ2g85d6DVxY1ZXvXiEqFewDVkMcra07mHNyvSU-LPNnQYTihtwaYAIRPEhDux03SJxFksGzdi-DmNWbWGhT5k5DYfSam2L0Kbk0PD2qfBFm1KQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "3857 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863061,
+               "lng" : -73.917222
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "757de193e53582a35f50acfb456eeb398105cbde",
+         "name" : "Cigarette Plus",
+         "place_id" : "ChIJMe2NDQr0wokRLfwbMaiIsgo",
+         "reference" : "CnRvAAAAIGejZdDuNW0kkAOFq9om_Niv3808mlo61olezvW78MIVURA-8wmVupvQ19JLp5GJoCJPLcjbgrr7Fi0s0IVlcfbJlShsZ0BOUE7T46jAED19WosWMd2k0oUNme_e6biBJVYIF5cUbsirGKE9BRsNAhIQ1yUSYY6j47rinOSP6AGeYxoUjKWvcmr8x80pBjePBsQC6s0Tp0A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "3855 9th Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.863071,
+               "lng" : -73.920551
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "6a02a35dcc9fd0d8940f0e85a306059ad49d8520",
+         "name" : "Nagle Fuel Corporation",
+         "place_id" : "ChIJM7NTtwn0wokRLBlki7cUqEk",
+         "reference" : "CoQBdwAAABXMlRJUirgwE9wV59C1YdBqrOaPIk8DifqNoxoZlZojnLZvT17CLJpueZeZLSiEehOzUNsUqvxtZ5CMQ9kB7_pcAQ0PeziEXMAQ8pHCFfLcqtBcRXcYEo7kHz6kfMJUatIx1ODympnFVquqrf2UXlrz7lBQCHHw0U9i3KuSfIECEhDxM_Rfz5zhrkWNVCAEyYQvGhT7XlUbF3BNaMzS0mzEx2WQagZ7Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "265 Nagle Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAAM2bBzubR2i0TOcsVHCoQsYF5_vZtlT-i0xCKBXPVvSC8-WWhx48XUdvrG4Zg6kNFL5G8lk-xSKPvabGv7qKMgD0MwfqCMmPw6EAaDTrKdooX_W1AzLcli7EfVXJCum_-pOV28H7Y36BIhCVSiQxVsUnbl6FeaJ3A2f1dVk5TcuN0zKkPTE4kaYyMQR0ZH3GuBIQVfH6zqjaeZX1cSvSnbw3KhoUi2_kbLeSHSRC2_oGbOimLO3agTk",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

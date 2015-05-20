@@ -1,0 +1,434 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAHLFGm7TB9VuPJpuwHpN5mqCUsdvotr-XxJV6fmbHe31Y7FdHgeF5guaY0yuzc7WE7PhaCgLgMABzNSU2_uxYSvO9XjtKWuyGGhRNHAUjZzCONe2mAjgFIzdhfbSZKRDQ1XoBHhsbP-yVwjEsRqCf20xJtWBwIrL8clslaAGBuHS8EqbiuVl7HaoNUSVYJMkMTQtbbd1OHHbX7cwbT6EjJ9WAIwW_04IREHxGOZSTdvXUGC8RNVySke-VaWtQsF34EzHfiv1AeY0GCDw41jksal5Qhgsfq3XG09-QMDavpsPjWMfI2_UjNPabwHEyG6EjRIQiTR9KiEf24TcYIX9dh1-sRoUlm4z1WryZQaN_2VdbclxQIPbbUw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7200294,
+               "lng" : -73.98155849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7206277,
+                  "lng" : -73.97973399999999
+               },
+               "southwest" : {
+                  "lat" : 40.7189967,
+                  "lng" : -73.98190219999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bfd0e3fa15194eba9e12c276a5155e15c19e2d16",
+         "name" : "Hamilton Fish Park",
+         "place_id" : "ChIJhZ8ASn9ZwokR4OPfJ0Gswhs",
+         "reference" : "CoQBfgAAAAsyLPquXEJiw-xQOP3ZB-G6Ay9bZ3HJJEUZQ_4hDSz18PNpoUCe0xwdhswhW5kpxHhsRlOF7ScIoLNTI7UfMajReZ-ehVUredULf7kNITK0qKRZXQwj6QJBjQi4R0JV4K5lGUm5tGI2P5Uu9qt7pm7dxT8tzWRnW2xcsrYqBYw3EhAafIRN8lmOZgHi1H29qvDQGhRGo_FyB3-0fancOg-w1ckR7dbPyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7260601,
+               "lng" : -73.9785952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73047830000001,
+                  "lng" : -73.9737904
+               },
+               "southwest" : {
+                  "lat" : 40.7198839,
+                  "lng" : -73.98632169999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0cd9f7f38d2aad39d99545635716172f04a1ea20",
+         "name" : "Alphabet City",
+         "place_id" : "ChIJqSykgndZwokRtPVmcoYfsxc",
+         "reference" : "CpQBjAAAAHQXpcDb7b3TXt170TpsAQILPtQlyj5oAeJj1x_RPSj6XKxDLhfsOVznmQ4gmJenw8nmBt5qHAe1OJAUiRLJ33maS-kpjnKjTYC7wxqSRaM8zh_xtUKXUwNeRSAuTRnTiXQtIQRRPVzv2rtcQOc93DfaS9gd_iCPaEOVGLnct3PGJ8RjNJdCLgYPjDmPF-LkYxIQSTwujrWJv0hhVUOHTtvfCBoUexMP0MMQVbtpPCoFt3ki5Rgwe_A",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719346,
+               "lng" : -73.97959299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a2de32dbec7ebe64446370af454b16ad802d1e22",
+         "name" : "NEST+m",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJoXEAz35ZwokR4D2aBgqEwuM",
+         "rating" : 4.4,
+         "reference" : "CnRpAAAAjRNL7LxDYjXCZO8hQqciw0j28ONzzG6mCDzsqNjSJP-q8vwDU2KIVwh-viU6G6xzHcCQ4VStDb5FbyblWInGS7-sQh1NwtWR2N659XtSa5HjtL1WlBWHl7YmXTZyawmtx4EaTpKcx1u2D-yLiUMfnxIQIOqjgxo407b5A7UrSnk1GhoU7c2gF9Ijjp4ia6QnWBsBJO2bcaE",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "111 Columbia Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721782,
+               "lng" : -73.98026
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "b862417178abef5813ea8c91f3c86442091ec145",
+         "name" : "Bedlam",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-_cJ43hZwokRF5vAmhR6Jug",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRpAAAA5B0e8btdvl8qs551YNI-T924w2BSrMpA7NgygoewtAymTeeiOn0Dyh5hT6gL35KkywXL42xbfg4lvY3SUTaXXjYZ6i3mqID7mQkSA6BqO1wXWG40E0BzLz-eX8WZDaDguV0ovSo00ub9Xid8BJUCqxIQOoJ0ASGlIfiaffm_ho8qBhoU_knNiLnB1aB2-wVRCrUnQWpOfAI",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "establishment" ],
+         "vicinity" : "40 Avenue C, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719854,
+               "lng" : -73.97731
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a35316d62cb24220781820fde051979ae5f8f9f8",
+         "name" : "P.S. 188 The Island School",
+         "place_id" : "ChIJM3EYU3lZwokRpx0KL_23F9M",
+         "reference" : "CoQBfQAAADZw2K5rowzKe-Nl1jNexewnMTy8wRFGhSuisY_f9eNBFd7fwaCJnShhxfWjZlcHBf9mbgVr87zhz-4UmGGnGSB7s0MLJBhBCjoLuV3fLs7mAzafwIAn8tNIouo90-9dIiYwqBEHS8317AjdmbGIn1MIT16Qbc-MEDZ115lsAh6qEhC3nfOIDBqD0mQwCa9nLWbZGhSLroIehrj3OE12f5DAIpfQE-Y4Cw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721899,
+               "lng" : -73.98008400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d991da1bdc4687563f908c5619baf135abf1288e",
+         "name" : "Fine Fare Supermarket",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJb_msAnlZwokRhw0t2qec0pQ",
+         "rating" : 3.5,
+         "reference" : "CoQBeAAAAJZXwrbO5TypsaGKljo0Y-PxOUbXVyfvmiYfklYHLtDyS5hKPrcwaOR8eWYO_ZhofMBwkbOoKiBWgyTcvmqOiJsnX1CaNyh45S26PVDS2oUPc8r2kZriACIAaKOYMLVMCS0OL_0AJnvJoq6gGuGHyJG6bZqE9BJVobFmaj8FhRuYEhAT2pfcsWLA68NncXurN4wDGhSXb5JuZab0r2tqoOuW31uNImaSsA",
+         "scope" : "GOOGLE",
+         "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "42 Avenue C, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719679,
+               "lng" : -73.97747200000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "991c445296e7fc717fdd66ee55afecf1f3d0908c",
+         "name" : "Girls Prep Charter School",
+         "place_id" : "ChIJyevWroVZwokRVxMCD2u7knU",
+         "reference" : "CoQBewAAAEKAb9kxVfDqyLv7Kkos7YS9pFfJFLIjPplLm8T2Wj3hSBTwZ9CKQJ0E5ic1ygRTi1JgS8OhjIwuKlNBYfkg4p4dbPz0AaU8-ejnZIE0MhHOhOLGEFD5MNVOwYvpcGT7xN4kGDqT97ovNzWNF9Q36f2Rw-rSS-ucE5f3uTKI4IzVEhAzRZTI52JeeF8Q0McHCF3XGhRGQzaURb5Rj2_UFeyZSuj-Xj4kCA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "442 East Houston Street #312, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72158,
+               "lng" : -73.980071
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6c9ed7223dbf8bccae35c98db1ec9c70d1bbde2f",
+         "name" : "Ryan-Nena Community Health Center",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJpSTi4XhZwokRx6pTNmLZIQ8",
+         "reference" : "CpQBgwAAAIA2Eht0XmbqL-0JZVHdffm-erD1cF4OZRbKCCp7q1HhO6psfo6AAa7G_wqsTzDRxkJmBt0HERt0e_mZyD9uoPN2mH2GI7O8HIvt57gx1346fy3CMca8gPo0cyQkkSjaNjrbmZxWMOLcjM5M2BaCczT0pRBY36RazoX_FzWsAeJih3mZ4tFzZkWGybLKfXWTvhIQKr30Xf-O22lmok1wQ7662hoUJ8jvvZIbH_WeQ9GPCsaRKKOe-JQ",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "doctor", "dentist", "health", "establishment" ],
+         "vicinity" : "279 East 3rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721742,
+               "lng" : -73.980148
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bc06f9c6e36b96dc1d83780f29b8f74fa34eec01",
+         "name" : "Patrick Nash Design",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1512,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABxxF0-ysLWbQ5EdNzV6bqHpxVC5_zGlwpWL7Rmf67wBvI5A0plvdpvvZ6Ge9tXXFRXLWnW7kWApIltvkIjv95NDn2KE1eDrm1eSZYf3fJoxlq2kTPMKC4au3MSo2Kc1gOESrp8V2GO-Zi5fLEhiMHBIQhiyGl2z8BZKp6gX1HavyKRoUlfS1OI6nvOmM3Dgq5T7BkRaGaE0",
+               "width" : 1908
+            }
+         ],
+         "place_id" : "ChIJ-_cJ43hZwokRiOpSa4YigPw",
+         "reference" : "CoQBdgAAAKApmfU2s-kz3TrvemLuN22w_346BESXAKHfZGuFV45gZM6tDxKnrGi1MJ3_n5bwsNQtiy_AZHSjJglL6pLuJsbbzKkccQsIxipV5B-WISOuE9QzgJDzf0IdznBq857RjFoV9johU-YRewvJ9o5eGn-KayCFN0r8KjZAyRB_BH-YEhD-aDZ-gCyhyM_jnNpzk_BoGhTqSNDE_Pp-NAEbp7YUfHCvf3tj2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "establishment" ],
+         "vicinity" : "40 Avenue C, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72098,
+               "lng" : -73.98054399999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "351b8434fd25a7f777cec7359b92d38fcd4ce14e",
+         "name" : "Barrier Free Living",
+         "place_id" : "ChIJRyHOVYJZwokRZEy9w1JNNOY",
+         "reference" : "CoQBdgAAAB_0h3JCuu3kFwkMUwOHoBACx-7Uf-AdoxXUXabAK53mswaorNeG6KYYFQxqQ-HLN0zE3oPWKD1iqVjFquJ7DnFgKIO9llWfMwJt79OdxnA3ULNjoD6aXhPnXa9X2H2bw7fdKfYF2Q2iES53VuQt1T3TcC15Eo5pFFymtOM6DpZzEhB820TlkSegD6Aesmee65QfGhQE6OeHU1LjdrmZyzlzC3DXHPDdLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "270 East 2nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.719756,
+               "lng" : -73.97953
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "7e9e01837805b78dee2ffcce2d46f1b9e2b24f05",
+         "name" : "Hamilton Fish Park Library",
+         "place_id" : "ChIJ0fml0n5ZwokRuAiZc6HCFKE",
+         "reference" : "CoQBfQAAAEx9AHVqVBZXUCWRRZThNMeuOiwlGa4Ri_bP1MLU1ibsCKjD23F4RrPuEQBAyb6wiji8J5WhujBTRWDSYWnI9XSi1p30wKMow15msAyP6WKZ-xbWHfWx3mKP4wityhMBprwgyBb894TRRFsAQsmo1OD96z55tnOllzkCRY6NCk1PEhDAdBF1t15PEdR5_bstRyqhGhTQrK_r_YfxpawsMzrvY77mCunaWA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "415 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720802,
+               "lng" : -73.98015100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90056eae93d2342567f75c43bcb94597da85a972",
+         "name" : "CD280",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJnQyS13hZwokRhkgiN6zYNw0",
+         "reference" : "CnRnAAAA0S4vWB8INZfvE5WO0jR0Q_t85DXiLuQGKrEpjHiXC678W6hIwn71kGjk45p4SzSA885zqbpUmQcrzrs8dsRTzUEXEKaZdtbi2uQwTTGUJrVfamQCgFu7iDQC9IKUwF9C3JAbbVd2N9Y8BSXer39DtRIQx9EaVQXZSXi6CRSV51Gx-BoUpUFeO2T29hXB3Kr3OkxwcvfwiuY",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "280 East 2nd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71959,
+               "lng" : -73.97727
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "33232b600b015474d8573e158bbb7755fe0d2ecb",
+         "name" : "Public School 94",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA3hBkOJw-J0teQoso2VWa4wHD_iSapMvxIVwxnEtP29SCDDljEXqByR4-WBMrHJmNZtDW-JokiC1RRCQuDXgyJvst-7PPsfsqfGMPlr5coN-SX8pAf_k8_H1GdojMAo5k409W75gfELkTe5iF-ibM2xIQinFuiNJNxAZ83jzgigWOuBoUYgespJq84bXTV17NIcf8anjBBls",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJyevWroVZwokR_xi5ETgp9oY",
+         "reference" : "CoQBcwAAAMxGfGVZYoDKfAr2VUPmd8GKjgpJjDNi6yC7TGtgwApCETgdOUvmMrmqbIzgc2HxjxDttHcgR_yF_161fJODUq6FDfc3jicUvEZIaLwwXkvERlP7HiJo9WkAewf0eYCpYiiBtPG5ljfLY5c6mHfjlSC0_ngrn8dV3OhRmC0AFBj9EhBo3gTAkLyGpv86OPFNu6nZGhRadZQPIdGhrzJ3X0-hcPvX-iX7xA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "442 East Houston Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.720686,
+               "lng" : -73.97642
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43674cef4189f5258a828f0eb1e159033a21fcee",
+         "name" : "New York City Housing Authority's Lillian Wald",
+         "place_id" : "ChIJm1YvfHlZwokR8_OhIlOOBYc",
+         "reference" : "CqQBkgAAAEHaArmBLJDsAQ3UZLFN9YhYO6ZUFMDbM7Pl0Kjb3AP-G7hxoEeUcEq4pX_pji7mxcp7vTU6pW9frl2T-2V5-JfzDfzDhdjY2M_Wo1a2AmW6Y1w1k-5tdBXi5o0XLC8CR6wo3dYrCOnrdxc4sda5IHoosT47-r6kKck4tuGAkveE8jXPEeEjH-4Bm16WYmgcWsgC6ka3Tp2dnDZ8P81smwISEP1D7CGCyU9xEBj2nZ2SNP0aFDBsmvxdDojYFijp9YFICV76CVYx",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "54 Avenue D, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721472,
+               "lng" : -73.97803999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9fa5624e76406491b9785af5dbb5056794d0a118",
+         "name" : "Jutta Neumann New York Inc",
+         "place_id" : "ChIJ046DZXlZwokRSGBowP8Mix8",
+         "reference" : "CoQBfAAAAGjeDXxvcyxYldFpoIOJnV7znxpdOdMlTrkRKpk31VduaPSzM451svtWiijPZZRjcpKLIcKCh_OOrw8bqM1f5W-NAbHKtbYkKhT-afZJMRztKOFDJ4jnC-NKZ-egU0Byfxpkb8wGF4ixMWDERHE_yZ_XAcDiwdXQKA-OJN1BC2QOEhAoyVssAqEBQAMuxl2asVt8GhRfNpTYXkjLcpR2utvelPmhCdYhLg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "establishment" ],
+         "vicinity" : "355 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721203,
+               "lng" : -73.98012
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2e3db9c0e2b65097c419cfb2f639e8ef3348e011",
+         "name" : "Henry Street Settlement: Third Street Women's Residence",
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CoQBdAAAALD89_iNYNdZ5eC9T2cdBbYI5FhXaKk_0X49Co8W6mB2Az9Ai44ZRPvuoARX5WG79X5xKk08y5aT9Eo2c5cTEdTlhrVS1nRQJ5fLcvVGfcH4MdyqnE5n4ehkcozZyPybqMaAUzBadDlHF5-OGx23Z2ITNE8Hvlgqu7VrKdckd8-TEhDmRDYynqyB829oRjuxfkz3GhRXgXA40i-WcOVSPLZVdeapv3nOqw",
+               "width" : 240
+            }
+         ],
+         "place_id" : "ChIJid3vH3lZwokRLRi1rOyhK0Q",
+         "reference" : "CqQBmgAAABcuiGVKhk32mhO_ETUEiM-4tI4A6K-rJBo2E727WE6USZO9ROVl7y1oPZt5X-jLqqszFuaKR0YYMpsMh2C9S_QCrPiKo4buF2EJ_EHzTigoNjNNzar8ltnlKadKV-Dk2lyytMpsepVnLUiRpvHHE73qlKmSZJ1z2zVSkaHyJdyrZNzqqMnw4Wep6qUj0WEZE9ATBPUlr5r5245W5bvcMuQSEFga8jrf1iGUUliFhfhV704aFB3kUmqK6kJrzCX9P45n0vQ_1nfN",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "282 East 3rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721465,
+               "lng" : -73.980914
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "272b086862f03beafefcad7f15d475c02bfebf0b",
+         "name" : "King Pup",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAEn-Q_52mW0LPleUqnojDdzwRcSgk9yDvXdcol60SxIF6_NKTlNJ3pKH9w4xDzJ8fWVGIfvwOmJ_oDCjp47_6FFImqrHt9-aPnBBIHOE82ctt1E9oUkkI-Fw3WCjIPqwxOJZzEDwkVDn5WJNicq734hIQLfHcHJue20ARIu_fg48gFRoUhszGOMlEdWH6hEo5FX5XKt9dO08",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJkyC46XhZwokRhfMIAdx9Kz4",
+         "rating" : 4.2,
+         "reference" : "CnRqAAAA7_D3A3nwP8cb_nXXB9GNp5MQXc-CV_FfXwn1sCPDDFNQvC4IxmaybBqXstBjte-JxpBCDw4lI0MyVrpScucG5KwfGczmbKW0d-xR5uN1TcUIFO7jYzbhHBPibfp2hAKjFE_t2IJ5RdmVgDErG74DcRIQwimXcEK7OlqBpVlay6nGShoUVXu4ZYT_y1BXyerUkFuv8h64040",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "27 Avenue C, New York, NY 10009"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721549,
+               "lng" : -73.980076
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "50c8882e1d9f4d0a35a4f7dc1cc7c9434557f803",
+         "name" : "Nena Comprehensive Health Center",
+         "place_id" : "ChIJpSTi4XhZwokRJMFnufLy-sY",
+         "reference" : "CpQBgwAAAK9py5idOZGRItv2qiVxvAc_fIAx9Zmsy8YvvoPw9g1_XE4tUHG-yL5UcRF7TgdnwqFMrZjmNZyCDD6bkHTtJ9yJMUTy1VXelk9_GuBANWJqyQC8n_brzlCfHYQ66OO5I6z7MZaZi4v-4fJ4rnuHBiDEw5eYzKQ1E24PTbezNE5RMWjnwHD8CCK3HmQGR9013BIQfRnvmkeUSuDh5_5JDpNzixoUix8jfRZJPVGxs980vS6eK48DU3c",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "establishment" ],
+         "vicinity" : "279 East 3rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.721845,
+               "lng" : -73.978748
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ab3bb99a85351c2d7dbe289db565575b1835e6a9",
+         "name" : "PS 15 - The Roberto Clemente School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1864,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAhB5cgendj0oFNY0dQ6AP_CZxpVzMhljOi3GjkqjATywD630ES9yCMF1gFPtPtk1-OW4zRwzOKvz6zHen-ZeeEfqb22j0RWBo2-AIhmDO54kgvwMlprKpcJbOkm92iPpd2ZkxxdXeG2fmzRYjByYGzxIQyD_rR1o9CUCtV5RxoGT4fxoUFHQzdcYddmuAVI_ggETvCT9AO-o",
+               "width" : 1868
+            }
+         ],
+         "place_id" : "ChIJlaBXDXlZwokRj6Aq4VBtZGI",
+         "reference" : "CpQBhQAAAP6ZfRqgXQcEcJORYa6X_UareIlnxd6BHVpFJngV1keDMc-AL3VoutgGSYyoGuEaPli6QGqCAXF2817N6XnWK9DGdEFFJEqhRA2z8CTMsz3osrBY2jhYYyGxujyUjcpHIgl1VX1JtImvwXmjMAXQB2KEt2lKCqPHk13xJ9m3Ymlq-Hy7uaIuyNze2N9V1Il5nhIQmt472UkCyn6jA-a_7Km-qRoUnv3t3fBYdMPncE1htU2gyWdqk7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "333 East 4th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7264773,
+               "lng" : -73.98153370000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7344458,
+                  "lng" : -73.97166609999999
+               },
+               "southwest" : {
+                  "lat" : 40.7187211,
+                  "lng" : -73.99264099999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "1d1ebfe05150c446220c0a4c38b19e79d65af762",
+         "name" : "East Village",
+         "place_id" : "ChIJRU7M53dZwokR7GgPQPM1qW8",
+         "reference" : "CpQBiwAAAONU9sE94dwjj8zpAp5fAl6wqUvlA48QjV8snLPp-B1WV6LPo9rjYLgi8rAoexH-whjx2MqUHcUrznQwiXDqM9oTiKrKOt5kiy2cClxv1DBqWd7-2GojI0k30OWlMXCFY4Asfh2H5UALhuc_UnK4nutJQNS1Vx6h5uqgEnT_iIIec8ZVYwdLNv2BrN0NqRKRKhIQPv5mOzyDCOxti6-C5afhbhoUBMVwANt9mGMJ33kI2vr1JG7yQeA",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}

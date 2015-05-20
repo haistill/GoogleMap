@@ -1,0 +1,441 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7wAAAIv19jCZ0P6mZsH9gf0Btk_a97cl0GdPFpHxcmgxQYkIkpn57KGT0JG08UfiJpn0sbtuEOryyLb56P6GZ7agK64sQDGbEsbsLAqs3OIEz7WwXF4Vf_4TqbRmK_oF5-KVoVWRitnzjWc5yZZZAnYtJGjOx0bwWLi1CtySTpDtLfk_-5D7kCgUYRREfdOgJR8cYP5cjyrvzybYfnhp740bQO7gUluoPGzk1OwPwskNMDxbkCzMhuVQcfzit_9NcW7Ha9pAlosPmlNd3jL54Ow8rp6uaumJvo3AGYiG43KZSrulZzVmYm-cxywKL6ebBUsUzhIQk_KCjuP7ReMBbpaUPwcNHxoUCj_zN5ulGrWRFu6kegUNEThhNYk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8022072,
+               "lng" : -73.93265869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.803429,
+                  "lng" : -73.9311836
+               },
+               "southwest" : {
+                  "lat" : 40.8009855,
+                  "lng" : -73.93413389999999
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "24924794f3f5de8653887c6c676f52835afb4e24",
+         "name" : "Triboro Plaza",
+         "place_id" : "ChIJsyiQ1uP1wokRz0BeCu94yIg",
+         "reference" : "CoQBeAAAAFcZmw-SRntQHPiiXoptWUn2aUz0RaB-0RI0UezIBYZN7G9fLJ5ME4XTszhYRlEGyzKQfPP2ZX5LiZ9_o_AcFcPT5iUQELv_wX4nrhARLkYwkfrPD5xjnDL2EnkPgJ8BCcsoiq2dDQ_q38tgAkvc4655A7aSECiFA8Tgkzc9orX3EhAX0zcMIdUzrPPWYRPVcdxsGhSoyVNEFx4M35gMoyO7mmE9W6kCRA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "establishment" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7957399,
+               "lng" : -73.93892129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8180871,
+                  "lng" : -73.9286431
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9558541
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "619733c2dab21c48b78dd00ab5b1cf15fd5782c9",
+         "name" : "East Harlem",
+         "place_id" : "ChIJTVaJMQ_2wokRXhEQixzvgR8",
+         "reference" : "CpQBiQAAAKzMUHOtguGG3WvP3B4QhhS7KjwdJwW24daSWmidwXtTf_wzpqr19hqDXRLgjdmHwJIAJm3lkXIqc5CsXsSB9rTtFp5eRz9SdTd-NbrZtlx__oA2iQOOMTGxO-UjhbPV-xKCvgQ2LoePawh1fq4_XoxLMDbREoyuP3mG5bn43a3C_qWP9slWUzPQjXXcOx9F7BIQhJNzop2U1xMB-qjMZfk-HxoUny4m38uGDs_TNuLZc_mbMuG_cHM",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.800309,
+               "lng" : -73.93595500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7bfa4d95db0d38a490ada250434800e4703466eb",
+         "name" : "Odyssey House",
+         "place_id" : "ChIJL5C9Kgj2wokRRQPsDYvfzLM",
+         "reference" : "CnRvAAAA6jAqWd92-c-Q828Im9X9HzoguDqlCu8qrNmR77dyheB2R8l2d88556MkHkJnmdl8aMlldeV0XVAPlqRk3qYYWXSAM0I6su0NXcYfJWEmPBNbPWoDS1N5z9pAHvzhpxU7_uLe0a30Twu8yP8R3KVVGhIQfPvLKpv84MmOBMKO9fq55RoU3vwWiCWZSZstKQM1JEJC43Cs4uc",
+         "scope" : "GOOGLE",
+         "types" : [ "physiotherapist", "health", "establishment" ],
+         "vicinity" : "246 East 121st Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803218,
+               "lng" : -73.934404
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1d4bac810b6d44e812e1edcb1ffa93c9f77f5ff",
+         "name" : "East-End Parking Corporation",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-dsn7eH1wokRz3I_XadflAA",
+         "reference" : "CoQBfAAAAOT0W0avF4rY9fMIXiKvC1wJLZgsdHCTEfLPMDmrV5e4Fy0TfBXMnAunL91mF_I7LGf2S9kMsS8nr2aIExkDKDZPbneH1DzaAE4a66S_KQ1nDrEmFWb-ySbAtFXrzEy1zA0XyrCFS6cIAGEvHvQtSawOynkjWyfzdSU-w72lCGx1EhAYUV6TGPTk5uVAohjh7xwMGhTpXmFLPNJN4YNs9ZapblJ3e0ovDA",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "establishment" ],
+         "vicinity" : "227 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803245,
+               "lng" : -73.935222
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f0f53ffefff18b3628a7c14538bf6e15fc23150",
+         "name" : "Demolition Depot and Irreplaceable Artifacts",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 671,
+               "html_attributions" : [],
+               "photo_reference" : "CnRpAAAATJIOkmNlJPLRnACShZOYGWFzZfl1vWNWGwdk-g-7ty4eoQUNRNhDcJDuOrBWfHp_rj9YoDSsSBao6pgdfNdJN--s2T55H0b5vgMgWp1Mrv6Xjhe4C3TFZOB-omOhFc43Qxkp-85s0rynVKKXgl2QNxIQmr6Pe3TceRMwVDpNtzBkKBoUGidVbaWk-ENqNBTDAU_05H0X7YQ",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJpTlW7uH1wokR7x_adG_ER6s",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CpQBjgAAAH1jRyDgCK6GQjeCCC9_KWsM38jrqzR0J7qt7LnSwOMJdpLf-Ei52i91_cl_X6UxQSk68apJ8_mGjve2fa3PtPrYivtLMRWOEHXQa0GOeca0g5FVJIjjb5PmCcRD7x5rg3zp_axsdy7oeTJsUSsSXmsV4GPkU0wR4nKIztinTBXTMcQdp_bktGsdExt3_DHgWhIQFXCxCQou-hxqFmr_gpUm2hoUS33iIoTL60_3nvq0tNqYqRrVbgo",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "216 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80152,
+               "lng" : -73.935028
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "669d545db2a2f8a06b14ff053134d990cfd06319",
+         "name" : "Harlem Prep Charter School",
+         "place_id" : "ChIJsWa5P-L1wokR8zNNYCqTy-s",
+         "reference" : "CoQBfAAAAB6ky4ujDiChPdXxLx6tBZuWHPr5lWLjmzTj7exeTeBIDBXb-2ZtteXznVM9F3S0H1bOeDsadFaq4_ymcfNx04megn-vhkkin4UOrBLCQuz2NthS0VbnXT0WxfyrT2EJyiQMTniBdixLHPff0UTmqkOXIWSslhw_ix-Cggy4IBYVEhAez1uudyEQGFHkvSSIwWQxGhQgUncUcmVrlFf7UOS9Wuf9DyB2oA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "240 East 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803125,
+               "lng" : -73.934952
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "2c134424d6f18f3bcdda825d7346641c975f3b34",
+         "name" : "New York Public Library",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAA6NhgvTUUO61DOIOHJ7GDge24qSrX7Eq8OCu7IW-OkW9oQi0ehxt--Gkyuww0oTYvqqwTK4voONMQXiWWD6W5ZMt1DRxykanuInMrlIBOKMZx4F3pRgug9CiAesSOXHwz_YVV7-Yr7xMfdd1JE75UgBIQmvq7c5hR3DO5THbUaI3z-RoUoiSc9eQzR7X1FNbGUv2EnaOGg_8",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJh5SX7eH1wokRz2nCDg-KzfI",
+         "reference" : "CoQBeQAAAGK-8zCFSfoDeIZmZ1z-nUM1X94ZU_xPPNP0qFJ5RKI-JI01aWLmdxcXpEulUaExajlP8uD38Mx8IGXsNCt701nGSI3fIoVp_zGxhcl9PMq6shmFGQx0vZiM6i86GCzc3OBbugS2347a_tAE6OPVQLbLNftxAxUPAVF8bx1uPbmEEhCio4DOYpw9prHEgLl8I1hrGhQeC3OmWYWALjR5cLaYGxkWJ8ZiwA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "establishment" ],
+         "vicinity" : "224 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803019,
+               "lng" : -73.935827
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "24270260fcbb0b8196fbc06496c71d0f3475a003",
+         "name" : "Internal Revenue Service",
+         "place_id" : "ChIJqbjd_eH1wokR5deTY2o85fY",
+         "rating" : 4.6,
+         "reference" : "CoQBegAAAJBR1RuQYxUqIDacXK4SSL2xnSc0PF00rx49aTNfSXpMWJs0NCklzyBWpYzOQ1rdlOy3V1vddhWZLoS1jig0jJqrmQ1L-G5udFOYlLNAU4b6IbtG-92h6uRS8ODA3XNIaYy7r6UUuCwNBRO4OGst-ccQJyyKRrX4yLG4XDa5Hm7FEhDmT5fjmXmYg8Cr-9UjSr76GhQ72Cw2hXMl8m10T4915M31Rb9now",
+         "scope" : "GOOGLE",
+         "types" : [ "accounting", "finance", "local_government_office", "establishment" ],
+         "vicinity" : "2283 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802454,
+               "lng" : -73.93447500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "be856a8c8abcbf9679abe3d626afc0b16cffea2b",
+         "name" : "Tapestry",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 130,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVyZSM1G5o7lwGS3KdvN6Neove8NUArUghJ8WAIxQDuy5b8bWJysq61l3tOYjSfpY5XoALwMy_6ppkGTdnA4o2Fu4GskHcjiioMkX9yYF-YDnG5pV4SA8eCKkdnrScxRYceaYWqQVPWJ9VGk79f10qhIQ7-xBCFeUhlVHNH-4gqAzaBoUiKMimeYa4YnUsnMhoIIAR6RXLP4",
+               "width" : 220
+            }
+         ],
+         "place_id" : "ChIJIyEPIOL1wokRgMTa8WZ18QM",
+         "rating" : 3.7,
+         "reference" : "CnRpAAAA4xuDvtiGpcyc96gV1nJhbmYuhvPNhGKlZE6grmUQYGYzALCWPwJBA0V79i_7ZnS97afzUr4Jj2Wy5jNchkVUDVJiV2S9UCY6e1dcdSNPzCLKGNMLVO-u1cK1bFQsJD19sl-7NWfLg7M17p59raXU_xIQeVo_BCExi7w0WEdkJUTg2BoUCR_G9Q3iwjrn71LrcxMj6nzatXY",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "establishment" ],
+         "vicinity" : "245 East 124th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801598,
+               "lng" : -73.934629
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a529923551083059d209eeb7f5a26d00d9534eac",
+         "name" : "Palma Corporation",
+         "place_id" : "ChIJ-SnfFeL1wokRz1wX7eWiccg",
+         "reference" : "CoQBcwAAAJCST-qjHlycgRFWWFZc6DqcAbGxdtv5U3i4bS0IDWX4vX2ZM5Q6JfMFMk6MZx-2iQorq8RDtzOHTD4ZYM9N7dt6_3AEd1YmKT_RUSU2JVuaFyp9616cWO6xeEAx89MCMstuNqOOZqVflwErPyq_wyKyy5cNAF9mAJD6r4n4f9kPEhD0fC8Ynwu-Ppwjvo7M0CE8GhQbOqkalLWGmc2Ra4OCRs3DBoayjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "convenience_store", "food", "store", "establishment" ],
+         "vicinity" : "2401 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801433,
+               "lng" : -73.93496500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "409951cb2bd4764580deb5e0d17ca850e8b5db18",
+         "name" : "Strive East Harlem Employment",
+         "place_id" : "ChIJsWa5P-L1wokR-myOmCVkeC0",
+         "reference" : "CoQBfgAAAGHv286SK0jYmKg34QtKA1cNj62dBqHljH2P_1TCgwLqKJtxsRiHmv3nP8519orIaq5zag5CvExW6q3zfy_fbDGOIMt-YDz2kqN_t5BwvTM8Uzss8l6QAfEBH1s3-0rOiGz3eyUdyFUXRT9Wu_GxORVTnG9wKgHz8YyB0GyNorw4EhD9POqVBY6y8PpP14KpGwynGhTt11vI5d2Juom9wnpL98LNg5IQ5g",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "240 East 123rd Street #302, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802607,
+               "lng" : -73.93629
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a285f3dcc64760bd0d687e37ea25ba1707d1c2a2",
+         "name" : "Exodus Transitional Community",
+         "place_id" : "ChIJi83A-An2wokRxLrnsMn7rms",
+         "reference" : "CoQBfgAAAAQ70dXUmYK_VtQPIoGRdsley36J2N5HTZ008ujInASFCJCcoi8hI2ADb-rGD5OHftjUc30a6yX0QGPdZAGXc-Z2bOOTQR7oQjDhu1QssKsRkM1nygpVe9ePkMEquUp3xExMQVS5S19rcmwyx6An_o6ozAT8DbR4uOh77rbKWKRoEhDo_rJoWDqzD3-cx41G4O1tGhQGaN7lq7039kACr2PRghbP5n4elw",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2271 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801708,
+               "lng" : -73.934601
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6ce2697697abcef319c048e9c6285b8486a83cc8",
+         "name" : "Santo Rico Dance School Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbFhMtnX7qBvmHALAxFPP5HLWUZnWbUggTwTNASugW6OzFUMv5A6I7w9vNvlZl74RzCfoEuivfLHaIksFPhd0p5-8HTZcF-aSRitmokiKTk59HAMmSly5SP9-AiQwN4ax2UwfVsoZS95PHiGXUR9WthIQm9GOn8kj3eQiFZgsY5L2wRoUIqy1br5AUlzKuzbOXuuKaf1Xshc",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJS986FuL1wokR-nyxDJWIEBE",
+         "reference" : "CoQBfAAAAJ8EtpwA_S1wflwt0lumFjU0bjpH4YuakgF6vYmmjUh0jrrH6fbIIXxkc5uxrcarlCkWzP0I80510OzE91wNS9ouf-mVME5puxDB5s14kAlCYFWB3LGwJxX3k5B9ItlEGWoVECxLRizj7yHet274IjVEHgdVXUg9alWw-wdhyEi-EhAV7wXDd0ixWb9MoV6TWr-HGhSwvqmTBNS4wc9qTn__-r_OCP6qOw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "establishment" ],
+         "vicinity" : "2403 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801703,
+               "lng" : -73.934563
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "70df863be308b9bdd9f62fc233cc7a79a0f35beb",
+         "name" : "Taino Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS986FuL1wokRUCnTFy5UdKQ",
+         "reference" : "CnRwAAAAxrObOaUcnAkwiDEl_Q_9EbjQljNwTc8jZfLFf9tmCh3GVe5yv3E8-fqWv4baTskqWQ7DecOhyIHxy3knarlz-3RWUY1wZzYoEkNUQLHaPu6Y_2tOcLGN8Gv2nvaE2cIC_ynNTOFVOMWP0gH3WUoKmxIQhzn9xwh3dBA7CwrtvR5TpBoU2Iq6UZ_HjpVblZGg5iX2rkVcTWk",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "2403 2nd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.803282,
+               "lng" : -73.93582499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f1e40531ca78707235a8ce0e3dcd99ed3b428cc5",
+         "name" : "Washington Hotel",
+         "place_id" : "ChIJo-r__OH1wokRlfary1CTMMA",
+         "reference" : "CoQBcgAAAO2rjaTPlqPqaWlx5e2eeD798UW_AM-yn1YFdlbnr_4Wo_-Yo_AkA5E2vKO9H5ntIFotLLQaa_e2uxk5gD_HBkK2VijBVW6Q5HtHNIyhidPN8xIrroe3eNCfENxk-CcRTTEh7nCFvj7XQs3CRnGiVjvThCNPnyQ0yJUvni9QkOtKEhCVy5Ryh5988TpPMw4b46QwGhToWS0ll1VFteyNhrWLxcfwAqJttA",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "2291 3rd Avenue, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802764,
+               "lng" : -73.93406299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ae455b43ccc81d734345bebce22bfde1049a8c8",
+         "name" : "Lechonera La Isla",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAbwMYYbPaF8gKnl02TLXDP1T7HGaRsS4Hk45CbXuSNipHKB66eNLU1bUlA8hyOABBCCFo2UD2V834tzOWGd2e-VfrTzQJXd3v4umT072o3kLRQ35VraD9DqGq8DnJIi0OB5Fl2LbpP_fXoZ0awK1a6RIQRji3X_q8Cih6XLzyeFEz2hoUo18zhVWDk-QFw9fE6-lQptARgu8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJGd3ajuH1wokR_cYkhuxNa6I",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CoQBcwAAACDtBHi7Z5igg8XCDYyhiXbfxP_b8pEQyjW1gQfLcONFFncjsLEMHnvnuT51VaZgB5d6VgE9nyA4pfB3enzSLE0xDBSSa_iEpTL5iK-6764n6H72N2rgGz1gJUaJ3UFfUcG7nWeTrMbSnRGxvNG5X5HrXMRbqXv0oiIEqy7cMQHAEhDvmajYsUM1zwFS_abcb0cVGhQQEu0rRXOkgFQ7XONVbzSbQu_Acg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "256 East 125th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802222,
+               "lng" : -73.935833
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "4e8e155a9a3112c8932f129c47f5ede8e7df000f",
+         "name" : "Chambers Memorial Baptist Church",
+         "place_id" : "ChIJQw3uB-L1wokRU9trIKhQwfA",
+         "reference" : "CpQBggAAADSYVB3noptr6_ft97r3QKwM2nGkcoNHJhn0Y0k4M-Iml5Nwjfrb_W5lM7e2P1liEKgslSRVCRYP0-yvyc7NC_9GAMLt1SS-sp8BeyqllLwb38FLYC3Aa9MkAuH0XlL3R8Na7W5cnRo2_QXIx4kpe8k2CURqzfYXs3_nMEOOGtvrV-yG965u5kYwkErHKgGhBhIQ0GaSgKfydGGEoA3A0Wvx9RoUWoDJrhDaVxwMIx2dXrybS-s730M",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "establishment" ],
+         "vicinity" : "219 East 123rd Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.802633,
+               "lng" : -73.93434499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a6ae432430079217fa4b5513043752a60de6c87c",
+         "name" : "MCCG LLC",
+         "place_id" : "ChIJIyEPIOL1wokRLoDDXYSfW5I",
+         "reference" : "CnRqAAAAREasz3_lSDVEACvaZOOiTntNSbMXJthiVZBKtmgGnffxxC1sbGclXJvU2pLiZN9VO6NSFaKzPlZ1wZK9pEgoLbvWd5OyN0JKNVbMf_dZQaldAC6DP3jvuYxxVA0TEt3PhUZa3faVfUcd15hbIni71BIQ2FTILDVDo5EqiKR-6DxZ3RoU1DGn2dGxPeBo1ykiRs8_YTj1fFA",
+         "scope" : "GOOGLE",
+         "types" : [ "local_government_office", "establishment" ],
+         "vicinity" : "245 East 124th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.80237,
+               "lng" : -73.934144
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f890ccce2572c4f19b0bc9c50f6f8edcb1a377f",
+         "name" : "Little Sicily Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAACcLIajGV6NYNqmmwNq_tEQZKzho0JnLbZJaDQ0oFxtRRY6r8Nxy9GpahCFDPt8xUS6dTlsFQspTGCzFCY_JDuhJrBwms5fP8HhOPif1taeN6r5o8raBuJ67Wk4j8bjuLUvN6s8u_POVNibuwC7g7PRIQfI638tIdPc_MmruJzdITIhoU91ZDlEyvu-DQXjHRb7j7kqQB4Sk",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJIyEPIOL1wokRoNKiMVoaHxA",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CoQBdAAAADE-9T10PhmdbhHP1SrMb0wH-7IRs1Nm3ndGphZOvIe0RGA9RHuM6sWDokSj8p7CL9hKhu2QIKiF2MsT5VxVpdJED9nHXkK7bz8Sym9rE7LB6Y4kSVMMmJHdDJra7MW9Qn_6lCH6hwtUGGKYEE9nChXMnZWxMZf_e5wKGFWDPONjEhCUQOUinlqP1oa6h6RzUbMTGhSaJ0pLWIo7fnzcq6J2fBqdpF9LrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "245 East 124th Street, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8240478,
+               "lng" : -73.9447643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87822,
+                  "lng" : -73.91064589999999
+               },
+               "southwest" : {
+                  "lat" : 40.7827839,
+                  "lng" : -73.9711901
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a3042f3d64a3ad977792700bff9522a1046500b4",
+         "name" : "Upper Manhattan",
+         "place_id" : "ChIJY50xHxP2wokR7WhhDNRmgRU",
+         "reference" : "CpQBjQAAALMoida2lAlQAAflNKb7ofgyVs3tE8mMxlnh3wPbS40UdOyvUP0gIH5s0l0iTLWhYvksvUvMLd2xig5B5COBKo7GKxsTns0A-SIMMFX7WRlHcKOS7ZQYb-tbCo92qIuxjmWJJLzPOwBR7Osm8VnTQBu_6mH21JoQWDuuXp2DGjZpao7DvDbhU4PvqEtfrfVc6RIQxxm2MRRQ1lWCwJzYYyu3KxoUNdaJIZjLbrVRPrszWpYXZvnNSWo",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Manhattan"
+      }
+   ],
+   "status" : "OK"
+}
